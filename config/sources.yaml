@@ -1,0 +1,40 @@
+sources:
+  # Hacker News 前页
+  - name: Hacker News
+    type: rss
+    url: https://hnrss.org/frontpage
+
+  # Hacker News 最佳
+  - name: Hacker News Best
+    type: rss
+    url: https://hnrss.org/best
+
+  # arXiv - AI
+  - name: arXiv cs.AI
+    type: rss
+    url: https://export.arxiv.org/rss/cs.AI
+
+  # arXiv - HCI
+  - name: arXiv cs.HC
+    type: rss
+    url: https://export.arxiv.org/rss/cs.HC
+
+  # arXiv - 机器学习
+  - name: arXiv cs.LG
+    type: rss
+    url: https://export.arxiv.org/rss/cs.LG
+
+  # GitHub Trending Python
+  - name: GitHub Trending Python
+    type: html
+    url: https://github.com/trending/python?since=daily
+
+  # GitHub Trending TypeScript
+  - name: GitHub Trending TypeScript
+    type: html
+    url: https://github.com/trending/typescript?since=daily
+
+  # GitHub Trending All Languages
+  - name: GitHub Trending
+    type: html
+    url: https://github.com/trending?since=daily

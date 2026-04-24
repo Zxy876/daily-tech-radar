@@ -1,0 +1,55 @@
+user_profile:
+  # 感兴趣的领域 / 关键词优先级
+  interests:
+    - AI agents
+    - spec-driven development
+    - creative coding
+    - game systems
+    - Minecraft world generation
+    - HCI
+    - AI art
+    - automation
+    - developer tools
+    - LLM
+    - Claude
+    - Gemini
+    - Copilot
+    - workflow
+    - simulation
+    - world generation
+    - generative art
+    - open source
+    - agent
+    - transformer
+    - diffusion
+    - neural network
+    - code generation
+    - multimodal
+    - RAG
+    - prompt engineering
+    - fine-tuning
+    - inference
+    - creative tool
+    - narrative systems
+
+  # 需要过滤掉的内容类型
+  avoid:
+    - generic startup news
+    - crypto hype
+    - bitcoin
+    - blockchain
+    - NFT
+    - Web3
+    - DeFi
+    - shallow AI listicles
+    - pure marketing
+    - press release
+
+  # 输出语言
+  output_language: zh-CN
+
+  # 最终输出的最大条目数
+  max_final_items: 5
+
+  # 候选条目最大数量（发送给 Gemini 分析）
+  max_candidates: 20

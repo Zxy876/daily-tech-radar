@@ -1,0 +1,310 @@
+[
+  {
+    "title": "Can Virtual Agents Care? Designing an Empathetic and Personalized LLM-Driven Conversational Agent",
+    "url": "https://arxiv.org/abs/2604.20948",
+    "source": "arXiv cs.HC",
+    "published_at": "Fri, 24 Apr 2026 00:00:00 -0400",
+    "description": "arXiv:2604.20948v1 Announce Type: new \nAbstract: Mental health challenges are rising globally, while traditional support services face limited availability and high costs. Large language models offer potential for conversational support, but often lack personalization, empathy, and factual grounding. A virtual agent framework is introduced to provide empathetic, personalized, and reliable wellbeing support through retrieval-augmented architecture, structured memory, and multimodal interaction. O",
+    "score": 14.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "multimodal",
+      "memory",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "On the Quantization Robustness of Diffusion Language Models in Coding Benchmarks",
+    "url": "https://arxiv.org/abs/2604.20079",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 24 Apr 2026 00:00:00 -0400",
+    "description": "arXiv:2604.20079v1 Announce Type: new \nAbstract: Auto-regressive Large Language Models (LLMs) achieve strong performance on coding tasks, but incur high memory and inference costs. Diffusion-based language models (d-LLMs) offer bounded inference cost via iterative denoising, but their behavior under post-training quantization (PTQ) has been sparsely explored. We investigate the application and robustness of PTQ techniques, specifically GPTQ and a modified Hessian-Aware Quantization (HAWQ) algori",
+    "score": 14.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "GPT",
+      "diffusion",
+      "language model",
+      "inference",
+      "memory"
+    ]
+  },
+  {
+    "title": "Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks",
+    "url": "https://arxiv.org/abs/2604.20987",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 24 Apr 2026 00:00:00 -0400",
+    "description": "arXiv:2604.20987v1 Announce Type: new \nAbstract: Long horizon interactive environments are a testbed for evaluating agents skill usage abilities. These environments demand multi step reasoning, the chaining of multiple skills over many timesteps, and robust decision making under delayed rewards and partial observability. Games are a good testbed for evaluating agent skill usage in environments. Large Language Models (LLMs) offer a promising alternative as game playing agents, but they often stru",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "game",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Spatial Metaphors for LLM Memory: A Critical Analysis of the MemPalace Architecture",
+    "url": "https://arxiv.org/abs/2604.21284",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 24 Apr 2026 00:00:00 -0400",
+    "description": "arXiv:2604.21284v1 Announce Type: new \nAbstract: MemPalace is an open-source AI memory system that applies the ancient method of loci (memory palace) spatial metaphor to organize long-term memory for large language models; launched in April 2026, it accumulated over 47,000 GitHub stars in its first two weeks and claims state-of-the-art retrieval performance on the LongMemEval benchmark (96.6% Recall@5) without requiring any LLM inference at write time. Through independent codebase analysis, benc",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "inference",
+      "memory",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "ReaGeo: Reasoning-Enhanced End-to-End Geocoding with LLMs",
+    "url": "https://arxiv.org/abs/2604.21357",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 24 Apr 2026 00:00:00 -0400",
+    "description": "arXiv:2604.21357v1 Announce Type: new \nAbstract: This paper proposes ReaGeo, an end-to-end geocoding framework based on large language models, designed to overcome the limitations of traditional multi-stage approaches that rely on text or vector similarity retrieval over geographic databases, including workflow complexity, error propagation, and heavy dependence on structured geographic knowledge bases. The method converts geographic coordinates into geohash sequences, reformulating the coordina",
+    "score": 12.0,
+    "keywords_matched": [
+      "LLM",
+      "workflow",
+      "language model",
+      "vector",
+      "reasoning",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Do MLLMs Understand Pointing? Benchmarking and Enhancing Referential Reasoning in Egocentric Vision",
+    "url": "https://arxiv.org/abs/2604.21461",
+    "source": "arXiv cs.HC",
+    "published_at": "Fri, 24 Apr 2026 00:00:00 -0400",
+    "description": "arXiv:2604.21461v1 Announce Type: cross \nAbstract: Egocentric AI agents, such as smart glasses, rely on pointing gestures to resolve referential ambiguities in natural language commands. However, despite advancements in Multimodal Large Language Models (MLLMs), current systems often fail to precisely ground the spatial semantics of pointing. Instead, they rely on spurious correlations with visual proximity or object saliency, a phenomenon we term \"Referential Hallucination.\" To address this gap,",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "multimodal",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "ColorBrowserAgent: Complex Long-Horizon Browser Agent with Adaptive Knowledge Evolution",
+    "url": "https://arxiv.org/abs/2601.07262",
+    "source": "arXiv cs.HC",
+    "published_at": "Fri, 24 Apr 2026 00:00:00 -0400",
+    "description": "arXiv:2601.07262v3 Announce Type: replace \nAbstract: With the advancement of vision-language models, web automation has made significant progress. However, deploying autonomous agents in real-world settings remains challenging, primarily due to site heterogeneity, where generalist models lack domain-specific priors for diverse interfaces, and long-horizon instability, characterized by the accumulation of decision drift over extended interactions. To address these challenges, we introduce ColorBr",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "automation",
+      "language model",
+      "autonomous",
+      "RAG"
+    ]
+  },
+  {
+    "title": "WorkflowGen:an adaptive workflow generation mechanism driven by trajectory experience",
+    "url": "https://arxiv.org/abs/2604.19756",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 24 Apr 2026 00:00:00 -0400",
+    "description": "arXiv:2604.19756v1 Announce Type: new \nAbstract: Large language model (LLM) agents often suffer from high reasoning overhead, excessive token consumption, unstable execution, and inability to reuse past experiences in complex tasks like business queries, tool use, and workflow orchestration. Traditional methods generate workflows from scratch for every query, leading to high cost, slow response, and poor robustness. We propose WorkflowGen, an adaptive, trajectory experience-driven framework for ",
+    "score": 12.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "workflow",
+      "language model",
+      "tool use",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Rethinking Reinforcement Fine-Tuning in LVLM: Convergence, Reward Decomposition, and Generalization",
+    "url": "https://arxiv.org/abs/2604.19857",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 24 Apr 2026 00:00:00 -0400",
+    "description": "arXiv:2604.19857v1 Announce Type: new \nAbstract: Reinforcement fine-tuning with verifiable rewards (RLVR) has emerged as a powerful paradigm for equipping large vision-language models (LVLMs) with agentic capabilities such as tool use and multi-step reasoning. Despite striking empirical successes, most notably Visual Agentic Reinforcement Fine-Tuning (Visual-ARFT), the theoretical underpinnings of this paradigm remain poorly understood. In particular, two critical questions lack rigorous answers",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "language model",
+      "tool use",
+      "fine-tuning",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Mind the Prompt: Self-adaptive Generation of Task Plan Explanations via LLMs",
+    "url": "https://arxiv.org/abs/2604.21092",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 24 Apr 2026 00:00:00 -0400",
+    "description": "arXiv:2604.21092v1 Announce Type: new \nAbstract: Integrating Large Language Models (LLMs) into complex software systems enables the generation of human-understandable explanations of opaque AI processes, such as automated task planning. However, the quality and reliability of these explanations heavily depend on effective prompt engineering. The lack of a systematic understanding of how diverse stakeholder groups formulate and refine prompts hinders the development of tools that can automate thi",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "prompt",
+      "planning"
+    ]
+  },
+  {
+    "title": "Align Generative Artificial Intelligence with Human Preferences: A Novel Large Language Model Fine-Tuning Method for Online Review Management",
+    "url": "https://arxiv.org/abs/2604.21209",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 24 Apr 2026 00:00:00 -0400",
+    "description": "arXiv:2604.21209v1 Announce Type: new \nAbstract: Online reviews have played a pivotal role in consumers' decision-making processes. Existing research has highlighted the significant impact of managerial review responses on customer relationship management and firm performance. However, a large portion of online reviews remains unaddressed due to the considerable human labor required to respond to the rapid growth of online reviews. While generative AI has achieved remarkable success in a range o",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "generative art",
+      "language model",
+      "fine-tuning",
+      "generative"
+    ]
+  },
+  {
+    "title": "Can MLLMs \"Read\" What is Missing?",
+    "url": "https://arxiv.org/abs/2604.21277",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 24 Apr 2026 00:00:00 -0400",
+    "description": "arXiv:2604.21277v1 Announce Type: new \nAbstract: We introduce MMTR-Bench, a benchmark designed to evaluate the intrinsic ability of Multimodal Large Language Models (MLLMs) to reconstruct masked text directly from visual context. Unlike conventional question-answering tasks, MMTR-Bench eliminates explicit prompts, requiring models to recover masked text from single- or multi-page inputs across real-world domains such as documents and webpages. This design isolates the reconstruction task from in",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "multimodal",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Symbolic Grounding Reveals Representational Bottlenecks in Abstract Visual Reasoning",
+    "url": "https://arxiv.org/abs/2604.21346",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 24 Apr 2026 00:00:00 -0400",
+    "description": "arXiv:2604.21346v1 Announce Type: new \nAbstract: Vision--language models (VLMs) often fail on abstract visual reasoning benchmarks such as Bongard problems, raising the question of whether the main bottleneck lies in reasoning or representation. We study this on Bongard-LOGO, a synthetic benchmark of abstract concept learning with ground-truth generative programs, by comparing end-to-end VLMs on raw images with large language models (LLMs) given symbolic inputs derived from those images. Using s",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "reasoning",
+      "generative"
+    ]
+  },
+  {
+    "title": "Efficient Agent Evaluation via Diversity-Guided User Simulation",
+    "url": "https://arxiv.org/abs/2604.21480",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 24 Apr 2026 00:00:00 -0400",
+    "description": "arXiv:2604.21480v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly deployed as customer-facing agents, yet evaluating their reliability remains challenging due to stochastic, multi-turn interactions. Current evaluation protocols rely on linear Monte Carlo rollouts of complete agent-user conversations to estimate success. However, this approach is computationally inefficient, repeatedly regenerating identical early prefixes, and often fails to uncover deep failure mode",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "simulation",
+      "language model"
+    ]
+  },
+  {
+    "title": "The Privacy Guardian Agent: Towards Trustworthy AI Privacy Agents",
+    "url": "https://arxiv.org/abs/2604.21455",
+    "source": "arXiv cs.HC",
+    "published_at": "Fri, 24 Apr 2026 00:00:00 -0400",
+    "description": "arXiv:2604.21455v1 Announce Type: new \nAbstract: The current \"notice and consent\" paradigm is broken: consent dialogues are often manipulative, and users cannot realistically read or understand every privacy policy. While recent LLM-based tools empower users seeking active control, many with limited time or motivation prefer full automation. However, fully autonomous solutions risk hallucinations and opaque decisions, undermining trust. I propose a middle ground - a Privacy Guardian Agent that a",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "automation",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "Accelerating PayPal's Commerce Agent with Speculative Decoding: An Empirical Study on EAGLE3 with Fine-Tuned Nemotron Models",
+    "url": "https://arxiv.org/abs/2604.19767",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 24 Apr 2026 00:00:00 -0400",
+    "description": "arXiv:2604.19767v1 Announce Type: new \nAbstract: We evaluate speculative decoding with EAGLE3 as an inference-time optimization for PayPal's Commerce Agent, powered by a fine-tuned llama3.1-nemotron-nano-8B-v1 model. Building on prior work (NEMO-4-PAYPAL) that reduced latency and cost through domain-specific fine-tuning, we benchmark EAGLE3 via vLLM against NVIDIA NIM on identical 2xH100 hardware across 40 configurations spanning speculative token counts (gamma=3, gamma=5), concurrency levels (1",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "fine-tuning",
+      "inference"
+    ]
+  },
+  {
+    "title": "Lever: Inference-Time Policy Reuse under Support Constraints",
+    "url": "https://arxiv.org/abs/2604.20174",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 24 Apr 2026 00:00:00 -0400",
+    "description": "arXiv:2604.20174v1 Announce Type: new \nAbstract: Reinforcement learning (RL) policies are typically trained for fixed objectives, making reuse difficult when task requirements change. We study inference-time policy reuse: given a library of pre-trained policies and a new composite objective, can a high-quality policy be constructed entirely offline, without additional environment interaction? We introduce lever (Leveraging Efficient Vector Embeddings for Reusable policies), an end-to-end framewo",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "RAG",
+      "embedding",
+      "vector",
+      "inference"
+    ]
+  },
+  {
+    "title": "Propensity Inference: Environmental Contributors to LLM Behaviour",
+    "url": "https://arxiv.org/abs/2604.21098",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 24 Apr 2026 00:00:00 -0400",
+    "description": "arXiv:2604.21098v1 Announce Type: new \nAbstract: Motivated by loss of control risks from misaligned AI systems, we develop and apply methods for measuring language models' propensity for unsanctioned behaviour. We contribute three methodological improvements: analysing effects of changes to environmental factors on behaviour, quantifying effect sizes via Bayesian generalised linear models, and taking explicit measures against circular analysis. We apply the methodology to measure the effects of ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "inference"
+    ]
+  },
+  {
+    "title": "Agentic AI for Personalized Physiotherapy: A Multi-Agent Framework for Generative Video Training and Real-Time Pose Correction",
+    "url": "https://arxiv.org/abs/2604.21154",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 24 Apr 2026 00:00:00 -0400",
+    "description": "arXiv:2604.21154v1 Announce Type: new \nAbstract: At-home physiotherapy compliance remains critically low due to a lack of personalized supervision and dynamic feedback. Existing digital health solutions rely on static, pre-recorded video libraries or generic 3D avatars that fail to account for a patient's specific injury limitations or home environment. In this paper, we propose a novel Multi-Agent System (MAS) architecture that leverages Generative AI and computer vision to close the tele-rehab",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "RAG",
+      "generative"
+    ]
+  },
+  {
+    "title": "Trust but Verify: Introducing DAVinCI -- A Framework for Dual Attribution and Verification in Claim Inference for Language Models",
+    "url": "https://arxiv.org/abs/2604.21193",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 24 Apr 2026 00:00:00 -0400",
+    "description": "arXiv:2604.21193v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have demonstrated remarkable fluency and versatility across a wide range of NLP tasks, yet they remain prone to factual inaccuracies and hallucinations. This limitation poses significant risks in high-stakes domains such as healthcare, law, and scientific communication, where trust and verifiability are paramount. In this paper, we introduce DAVinCI - a Dual Attribution and Verification framework designed to enhance th",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "inference"
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+name: Daily Tech Radar
+
+on:
+  # UTC 01:00 = 北京时间 09:00
+  schedule:
+    - cron: "0 1 * * *"
+
+  # 支持手动触发（GitHub → Actions → Daily Tech Radar → Run workflow）
+  workflow_dispatch:
+    inputs:
+      mock_mode:
+        description: "Run in mock mode (no real API calls)"
+        required: false
+        default: "false"
+        type: choice
+        options:
+          - "false"
+          - "true"
+
+jobs:
+  run-radar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # needed for auto-commit
+
+    steps:
+      # ── Checkout ───────────────────────────────────────────────────────────
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      # ── Python ────────────────────────────────────────────────────────────
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # ── Cache ─────────────────────────────────────────────────────────────
+      - name: Cache pip packages
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+          restore-keys: ${{ runner.os }}-pip-
+
+      # ── Install ───────────────────────────────────────────────────────────
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # ── Run ───────────────────────────────────────────────────────────────
+      - name: Run Tech Radar
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          MOCK_MODE: ${{ github.event.inputs.mock_mode || 'false' }}
+        run: python -m src.main
+
+      # ── Commit generated files ─────────────────────────────────────────────
+      - name: Commit generated reports
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add reports/ data/ raw/
+          if ! git diff --cached --quiet; then
+            DATE=$(date -u '+%Y-%m-%d')
+            git commit -m "chore: daily radar ${DATE} [skip ci]"
+            git push
+          else
+            echo "No new files to commit."
+          fi
