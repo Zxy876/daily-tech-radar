@@ -193,18 +193,18 @@ def analyze(items: List[FilteredItem], api_key: Optional[str] = None) -> str:
         raise ValueError("No candidate items to analyze.")
 
     full_prompt = f"{SYSTEM_PROMPT}\n\n---\n\n{_format_candidates(items)}"
-    payload = {
-        "contents": [{"parts": [{"text": full_prompt}]}],
-        "generationConfig": {
-            "temperature": 0.75,
-            "maxOutputTokens": 8192,
-        },
-        # Disable thinking mode so all tokens go to visible output
-        "thinkingConfig": {"thinkingBudget": 0},
-    }
 
     last_error = ""
     for model in _MODEL_CHAIN:
+        # Build payload per-model: thinkingConfig only supported by 2.5-series
+        gen_config: dict = {"temperature": 0.75, "maxOutputTokens": 8192}
+        if "2.5" in model:
+            # Disable thinking tokens so full budget goes to visible output
+            gen_config["thinkingConfig"] = {"thinkingBudget": 0}
+        payload = {
+            "contents": [{"parts": [{"text": full_prompt}]}],
+            "generationConfig": gen_config,
+        }
         for attempt in range(1, 3):  # max 2 attempts per model
             logger.info("Calling Gemini API (%s, attempt %d)…", model, attempt)
             try:
