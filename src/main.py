@@ -25,7 +25,7 @@ from .filters import filter_and_rank
 from .gemini_client import analyze, make_fallback_report, mock_analyze
 from .models import DailyReport
 from .storage import save_data, save_raw, save_report
-from .telegram_client import format_message, send_message
+from .telegram_client import format_message, send_message, TelegramResult
 from .utils import get_beijing_date, get_project_root, setup_logging
 
 logger = setup_logging(os.environ.get("LOG_LEVEL", "INFO"))
@@ -163,19 +163,23 @@ def run() -> None:
         gemini_success=gemini_success,
     )
 
-    try:
-        save_data(report, date)
-    except Exception as exc:
-        logger.error("Failed to save JSON data: %s", exc)
-
     # ── 8. Telegram notification ─────────────────────────────────────────────
     try:
         rel_path = f"reports/{date}.md"
         tg_message = format_message(date, full_markdown, rel_path)
-        sent = send_message(tg_message)
-        report.telegram_sent = sent
+        result = send_message(tg_message)
     except Exception as exc:
         logger.error("Telegram notification error: %s", exc)
+        result = TelegramResult(sent=False, status="failed", reason=str(exc))
+
+    report.telegram_sent = result.sent
+    report.telegram_status = result.status
+    report.telegram_reason = result.reason
+
+    try:
+        save_data(report, date)
+    except Exception as exc:
+        logger.error("Failed to save JSON data: %s", exc)
 
     # ── Done ─────────────────────────────────────────────────────────────────
     logger.info("=" * 60)
@@ -183,8 +187,10 @@ def run() -> None:
     logger.info("  reports/%s.md", date)
     logger.info("  data/%s.json", date)
     logger.info("  raw/%s.json", date)
-    logger.info("  Gemini success : %s", gemini_success)
-    logger.info("  Telegram sent  : %s", report.telegram_sent)
+    logger.info("  Gemini success   : %s", gemini_success)
+    logger.info("  Telegram sent    : %s", report.telegram_sent)
+    logger.info("  Telegram status  : %s", report.telegram_status)
+    logger.info("  Telegram reason  : %s", report.telegram_reason)
     logger.info("=" * 60)
 
 

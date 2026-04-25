@@ -7,6 +7,7 @@ from __future__ import annotations
 
 import logging
 import os
+from dataclasses import dataclass
 from typing import Optional
 
 import requests
@@ -15,6 +16,21 @@ logger = logging.getLogger("tech-radar.telegram")
 
 _SEND_MESSAGE_URL = "https://api.telegram.org/bot{token}/sendMessage"
 _MAX_MESSAGE_LEN = 4096  # Telegram hard limit
+
+
+@dataclass
+class TelegramResult:
+    """Result of a Telegram send attempt.
+
+    Attributes:
+        sent: True if the message was delivered successfully.
+        status: One of "sent", "skipped_missing_credentials", "failed", or "not_attempted".
+        reason: Human-readable description of the outcome or error.
+    """
+
+    sent: bool
+    status: str
+    reason: str
 
 
 # ---------------------------------------------------------------------------
@@ -103,8 +119,8 @@ def send_message(
     message: str,
     bot_token: Optional[str] = None,
     chat_id: Optional[str] = None,
-) -> bool:
-    """Send *message* to a Telegram chat. Returns True on success."""
+) -> TelegramResult:
+    """Send *message* to a Telegram chat. Returns a TelegramResult."""
     token = (bot_token or os.environ.get("TELEGRAM_BOT_TOKEN", "")).strip()
     cid = (chat_id or os.environ.get("TELEGRAM_CHAT_ID", "")).strip()
 
@@ -113,7 +129,11 @@ def send_message(
             "Telegram credentials not configured "
             "(TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID). Skipping notification."
         )
-        return False
+        return TelegramResult(
+            sent=False,
+            status="skipped_missing_credentials",
+            reason="TELEGRAM_BOT_TOKEN or TELEGRAM_CHAT_ID is missing",
+        )
 
     url = _SEND_MESSAGE_URL.format(token=token)
     payload = {
@@ -129,9 +149,13 @@ def send_message(
         data = resp.json()
         if data.get("ok"):
             logger.info("Telegram message sent successfully.")
-            return True
+            return TelegramResult(
+                sent=True,
+                status="sent",
+                reason="Telegram message sent successfully",
+            )
         logger.error("Telegram API error: %s", data)
-        return False
+        return TelegramResult(sent=False, status="failed", reason=str(data))
     except Exception as exc:
         logger.error("Failed to send Telegram message: %s", exc)
-        return False
+        return TelegramResult(sent=False, status="failed", reason=str(exc))
