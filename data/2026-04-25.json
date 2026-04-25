@@ -2,315 +2,49 @@
   "date": "2026-04-25",
   "candidates": [
     {
-      "title": "Can Virtual Agents Care? Designing an Empathetic and Personalized LLM-Driven Conversational Agent",
-      "url": "https://arxiv.org/abs/2604.20948",
-      "source": "arXiv cs.HC",
-      "published_at": "Fri, 24 Apr 2026 00:00:00 -0400",
-      "description": "arXiv:2604.20948v1 Announce Type: new \nAbstract: Mental health challenges are rising globally, while traditional support services face limited availability and high costs. Large language models offer potential for conversational support, but often lack personalization, empathy, and factual grounding. A virtual agent framework is introduced to provide empathetic, personalized, and reliable wellbeing support through retrieval-augmented architecture, structured memory, and multimodal interaction. O",
-      "score": 14.0,
+      "title": "[Mock] Gemini 2.0 Flash — sub-second multimodal reasoning",
+      "url": "https://deepmind.google/technologies/gemini/flash/",
+      "source": "Mock Source",
+      "published_at": null,
+      "description": "Gemini 2.0 Flash achieves state-of-the-art performance with sub-second latency for agentic tasks.",
+      "score": 8.0,
       "keywords_matched": [
-        "AI",
         "agent",
-        "LLM",
-        "language model",
+        "Gemini",
         "multimodal",
-        "memory",
-        "retrieval"
-      ]
-    },
-    {
-      "title": "On the Quantization Robustness of Diffusion Language Models in Coding Benchmarks",
-      "url": "https://arxiv.org/abs/2604.20079",
-      "source": "arXiv cs.LG",
-      "published_at": "Fri, 24 Apr 2026 00:00:00 -0400",
-      "description": "arXiv:2604.20079v1 Announce Type: new \nAbstract: Auto-regressive Large Language Models (LLMs) achieve strong performance on coding tasks, but incur high memory and inference costs. Diffusion-based language models (d-LLMs) offer bounded inference cost via iterative denoising, but their behavior under post-training quantization (PTQ) has been sparsely explored. We investigate the application and robustness of PTQ techniques, specifically GPTQ and a modified Hessian-Aware Quantization (HAWQ) algori",
-      "score": 14.0,
-      "keywords_matched": [
-        "AI",
-        "LLM",
-        "GPT",
-        "diffusion",
-        "language model",
-        "inference",
-        "memory"
-      ]
-    },
-    {
-      "title": "Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks",
-      "url": "https://arxiv.org/abs/2604.20987",
-      "source": "arXiv cs.AI",
-      "published_at": "Fri, 24 Apr 2026 00:00:00 -0400",
-      "description": "arXiv:2604.20987v1 Announce Type: new \nAbstract: Long horizon interactive environments are a testbed for evaluating agents skill usage abilities. These environments demand multi step reasoning, the chaining of multiple skills over many timesteps, and robust decision making under delayed rewards and partial observability. Games are a good testbed for evaluating agent skill usage in environments. Large Language Models (LLMs) offer a promising alternative as game playing agents, but they often stru",
-      "score": 12.0,
-      "keywords_matched": [
-        "AI",
-        "agent",
-        "LLM",
-        "game",
-        "language model",
         "reasoning"
       ]
     },
     {
-      "title": "Spatial Metaphors for LLM Memory: A Critical Analysis of the MemPalace Architecture",
-      "url": "https://arxiv.org/abs/2604.21284",
-      "source": "arXiv cs.AI",
-      "published_at": "Fri, 24 Apr 2026 00:00:00 -0400",
-      "description": "arXiv:2604.21284v1 Announce Type: new \nAbstract: MemPalace is an open-source AI memory system that applies the ancient method of loci (memory palace) spatial metaphor to organize long-term memory for large language models; launched in April 2026, it accumulated over 47,000 GitHub stars in its first two weeks and claims state-of-the-art retrieval performance on the LongMemEval benchmark (96.6% Recall@5) without requiring any LLM inference at write time. Through independent codebase analysis, benc",
-      "score": 12.0,
+      "title": "[Mock] CrewAI — multi-agent orchestration for AI workflows",
+      "url": "https://github.com/crewAIInc/crewAI",
+      "source": "Mock Source",
+      "published_at": null,
+      "description": "Framework for orchestrating role-playing autonomous AI agents.",
+      "score": 8.0,
       "keywords_matched": [
         "AI",
-        "LLM",
-        "language model",
-        "inference",
-        "memory",
-        "retrieval"
-      ]
-    },
-    {
-      "title": "ReaGeo: Reasoning-Enhanced End-to-End Geocoding with LLMs",
-      "url": "https://arxiv.org/abs/2604.21357",
-      "source": "arXiv cs.AI",
-      "published_at": "Fri, 24 Apr 2026 00:00:00 -0400",
-      "description": "arXiv:2604.21357v1 Announce Type: new \nAbstract: This paper proposes ReaGeo, an end-to-end geocoding framework based on large language models, designed to overcome the limitations of traditional multi-stage approaches that rely on text or vector similarity retrieval over geographic databases, including workflow complexity, error propagation, and heavy dependence on structured geographic knowledge bases. The method converts geographic coordinates into geohash sequences, reformulating the coordina",
-      "score": 12.0,
-      "keywords_matched": [
-        "LLM",
+        "agent",
         "workflow",
-        "language model",
-        "vector",
-        "reasoning",
-        "retrieval"
-      ]
-    },
-    {
-      "title": "Do MLLMs Understand Pointing? Benchmarking and Enhancing Referential Reasoning in Egocentric Vision",
-      "url": "https://arxiv.org/abs/2604.21461",
-      "source": "arXiv cs.HC",
-      "published_at": "Fri, 24 Apr 2026 00:00:00 -0400",
-      "description": "arXiv:2604.21461v1 Announce Type: cross \nAbstract: Egocentric AI agents, such as smart glasses, rely on pointing gestures to resolve referential ambiguities in natural language commands. However, despite advancements in Multimodal Large Language Models (MLLMs), current systems often fail to precisely ground the spatial semantics of pointing. Instead, they rely on spurious correlations with visual proximity or object saliency, a phenomenon we term \"Referential Hallucination.\" To address this gap,",
-      "score": 12.0,
-      "keywords_matched": [
-        "AI",
-        "agent",
-        "LLM",
-        "language model",
-        "multimodal",
-        "reasoning"
-      ]
-    },
-    {
-      "title": "ColorBrowserAgent: Complex Long-Horizon Browser Agent with Adaptive Knowledge Evolution",
-      "url": "https://arxiv.org/abs/2601.07262",
-      "source": "arXiv cs.HC",
-      "published_at": "Fri, 24 Apr 2026 00:00:00 -0400",
-      "description": "arXiv:2601.07262v3 Announce Type: replace \nAbstract: With the advancement of vision-language models, web automation has made significant progress. However, deploying autonomous agents in real-world settings remains challenging, primarily due to site heterogeneity, where generalist models lack domain-specific priors for diverse interfaces, and long-horizon instability, characterized by the accumulation of decision drift over extended interactions. To address these challenges, we introduce ColorBr",
-      "score": 12.0,
-      "keywords_matched": [
-        "AI",
-        "agent",
-        "automation",
-        "language model",
-        "autonomous",
-        "RAG"
-      ]
-    },
-    {
-      "title": "WorkflowGen:an adaptive workflow generation mechanism driven by trajectory experience",
-      "url": "https://arxiv.org/abs/2604.19756",
-      "source": "arXiv cs.LG",
-      "published_at": "Fri, 24 Apr 2026 00:00:00 -0400",
-      "description": "arXiv:2604.19756v1 Announce Type: new \nAbstract: Large language model (LLM) agents often suffer from high reasoning overhead, excessive token consumption, unstable execution, and inability to reuse past experiences in complex tasks like business queries, tool use, and workflow orchestration. Traditional methods generate workflows from scratch for every query, leading to high cost, slow response, and poor robustness. We propose WorkflowGen, an adaptive, trajectory experience-driven framework for ",
-      "score": 12.0,
-      "keywords_matched": [
-        "agent",
-        "LLM",
-        "workflow",
-        "language model",
-        "tool use",
-        "reasoning"
-      ]
-    },
-    {
-      "title": "Rethinking Reinforcement Fine-Tuning in LVLM: Convergence, Reward Decomposition, and Generalization",
-      "url": "https://arxiv.org/abs/2604.19857",
-      "source": "arXiv cs.LG",
-      "published_at": "Fri, 24 Apr 2026 00:00:00 -0400",
-      "description": "arXiv:2604.19857v1 Announce Type: new \nAbstract: Reinforcement fine-tuning with verifiable rewards (RLVR) has emerged as a powerful paradigm for equipping large vision-language models (LVLMs) with agentic capabilities such as tool use and multi-step reasoning. Despite striking empirical successes, most notably Visual Agentic Reinforcement Fine-Tuning (Visual-ARFT), the theoretical underpinnings of this paradigm remain poorly understood. In particular, two critical questions lack rigorous answers",
-      "score": 12.0,
-      "keywords_matched": [
-        "AI",
-        "agent",
-        "language model",
-        "tool use",
-        "fine-tuning",
-        "reasoning"
-      ]
-    },
-    {
-      "title": "Mind the Prompt: Self-adaptive Generation of Task Plan Explanations via LLMs",
-      "url": "https://arxiv.org/abs/2604.21092",
-      "source": "arXiv cs.AI",
-      "published_at": "Fri, 24 Apr 2026 00:00:00 -0400",
-      "description": "arXiv:2604.21092v1 Announce Type: new \nAbstract: Integrating Large Language Models (LLMs) into complex software systems enables the generation of human-understandable explanations of opaque AI processes, such as automated task planning. However, the quality and reliability of these explanations heavily depend on effective prompt engineering. The lack of a systematic understanding of how diverse stakeholder groups formulate and refine prompts hinders the development of tools that can automate thi",
-      "score": 10.0,
-      "keywords_matched": [
-        "AI",
-        "LLM",
-        "language model",
-        "prompt",
-        "planning"
-      ]
-    },
-    {
-      "title": "Align Generative Artificial Intelligence with Human Preferences: A Novel Large Language Model Fine-Tuning Method for Online Review Management",
-      "url": "https://arxiv.org/abs/2604.21209",
-      "source": "arXiv cs.AI",
-      "published_at": "Fri, 24 Apr 2026 00:00:00 -0400",
-      "description": "arXiv:2604.21209v1 Announce Type: new \nAbstract: Online reviews have played a pivotal role in consumers' decision-making processes. Existing research has highlighted the significant impact of managerial review responses on customer relationship management and firm performance. However, a large portion of online reviews remains unaddressed due to the considerable human labor required to respond to the rapid growth of online reviews. While generative AI has achieved remarkable success in a range o",
-      "score": 10.0,
-      "keywords_matched": [
-        "AI",
-        "generative art",
-        "language model",
-        "fine-tuning",
-        "generative"
-      ]
-    },
-    {
-      "title": "Can MLLMs \"Read\" What is Missing?",
-      "url": "https://arxiv.org/abs/2604.21277",
-      "source": "arXiv cs.AI",
-      "published_at": "Fri, 24 Apr 2026 00:00:00 -0400",
-      "description": "arXiv:2604.21277v1 Announce Type: new \nAbstract: We introduce MMTR-Bench, a benchmark designed to evaluate the intrinsic ability of Multimodal Large Language Models (MLLMs) to reconstruct masked text directly from visual context. Unlike conventional question-answering tasks, MMTR-Bench eliminates explicit prompts, requiring models to recover masked text from single- or multi-page inputs across real-world domains such as documents and webpages. This design isolates the reconstruction task from in",
-      "score": 10.0,
-      "keywords_matched": [
-        "AI",
-        "LLM",
-        "language model",
-        "multimodal",
-        "prompt"
-      ]
-    },
-    {
-      "title": "Symbolic Grounding Reveals Representational Bottlenecks in Abstract Visual Reasoning",
-      "url": "https://arxiv.org/abs/2604.21346",
-      "source": "arXiv cs.AI",
-      "published_at": "Fri, 24 Apr 2026 00:00:00 -0400",
-      "description": "arXiv:2604.21346v1 Announce Type: new \nAbstract: Vision--language models (VLMs) often fail on abstract visual reasoning benchmarks such as Bongard problems, raising the question of whether the main bottleneck lies in reasoning or representation. We study this on Bongard-LOGO, a synthetic benchmark of abstract concept learning with ground-truth generative programs, by comparing end-to-end VLMs on raw images with large language models (LLMs) given symbolic inputs derived from those images. Using s",
-      "score": 10.0,
-      "keywords_matched": [
-        "AI",
-        "LLM",
-        "language model",
-        "reasoning",
-        "generative"
-      ]
-    },
-    {
-      "title": "Efficient Agent Evaluation via Diversity-Guided User Simulation",
-      "url": "https://arxiv.org/abs/2604.21480",
-      "source": "arXiv cs.AI",
-      "published_at": "Fri, 24 Apr 2026 00:00:00 -0400",
-      "description": "arXiv:2604.21480v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly deployed as customer-facing agents, yet evaluating their reliability remains challenging due to stochastic, multi-turn interactions. Current evaluation protocols rely on linear Monte Carlo rollouts of complete agent-user conversations to estimate success. However, this approach is computationally inefficient, repeatedly regenerating identical early prefixes, and often fails to uncover deep failure mode",
-      "score": 10.0,
-      "keywords_matched": [
-        "AI",
-        "agent",
-        "LLM",
-        "simulation",
-        "language model"
-      ]
-    },
-    {
-      "title": "The Privacy Guardian Agent: Towards Trustworthy AI Privacy Agents",
-      "url": "https://arxiv.org/abs/2604.21455",
-      "source": "arXiv cs.HC",
-      "published_at": "Fri, 24 Apr 2026 00:00:00 -0400",
-      "description": "arXiv:2604.21455v1 Announce Type: new \nAbstract: The current \"notice and consent\" paradigm is broken: consent dialogues are often manipulative, and users cannot realistically read or understand every privacy policy. While recent LLM-based tools empower users seeking active control, many with limited time or motivation prefer full automation. However, fully autonomous solutions risk hallucinations and opaque decisions, undermining trust. I propose a middle ground - a Privacy Guardian Agent that a",
-      "score": 10.0,
-      "keywords_matched": [
-        "AI",
-        "agent",
-        "LLM",
-        "automation",
         "autonomous"
       ]
     },
     {
-      "title": "Accelerating PayPal's Commerce Agent with Speculative Decoding: An Empirical Study on EAGLE3 with Fine-Tuned Nemotron Models",
-      "url": "https://arxiv.org/abs/2604.19767",
-      "source": "arXiv cs.LG",
-      "published_at": "Fri, 24 Apr 2026 00:00:00 -0400",
-      "description": "arXiv:2604.19767v1 Announce Type: new \nAbstract: We evaluate speculative decoding with EAGLE3 as an inference-time optimization for PayPal's Commerce Agent, powered by a fine-tuned llama3.1-nemotron-nano-8B-v1 model. Building on prior work (NEMO-4-PAYPAL) that reduced latency and cost through domain-specific fine-tuning, we benchmark EAGLE3 via vLLM against NVIDIA NIM on identical 2xH100 hardware across 40 configurations spanning speculative token counts (gamma=3, gamma=5), concurrency levels (1",
-      "score": 10.0,
+      "title": "[Mock] Open Interpreter v2 — local agent framework",
+      "url": "https://github.com/OpenInterpreter/open-interpreter",
+      "source": "Mock Source",
+      "published_at": null,
+      "description": "Run LLM-generated code locally on your machine.",
+      "score": 4.0,
       "keywords_matched": [
-        "AI",
         "agent",
-        "LLM",
-        "fine-tuning",
-        "inference"
-      ]
-    },
-    {
-      "title": "Lever: Inference-Time Policy Reuse under Support Constraints",
-      "url": "https://arxiv.org/abs/2604.20174",
-      "source": "arXiv cs.LG",
-      "published_at": "Fri, 24 Apr 2026 00:00:00 -0400",
-      "description": "arXiv:2604.20174v1 Announce Type: new \nAbstract: Reinforcement learning (RL) policies are typically trained for fixed objectives, making reuse difficult when task requirements change. We study inference-time policy reuse: given a library of pre-trained policies and a new composite objective, can a high-quality policy be constructed entirely offline, without additional environment interaction? We introduce lever (Leveraging Efficient Vector Embeddings for Reusable policies), an end-to-end framewo",
-      "score": 10.0,
-      "keywords_matched": [
-        "AI",
-        "RAG",
-        "embedding",
-        "vector",
-        "inference"
-      ]
-    },
-    {
-      "title": "Propensity Inference: Environmental Contributors to LLM Behaviour",
-      "url": "https://arxiv.org/abs/2604.21098",
-      "source": "arXiv cs.AI",
-      "published_at": "Fri, 24 Apr 2026 00:00:00 -0400",
-      "description": "arXiv:2604.21098v1 Announce Type: new \nAbstract: Motivated by loss of control risks from misaligned AI systems, we develop and apply methods for measuring language models' propensity for unsanctioned behaviour. We contribute three methodological improvements: analysing effects of changes to environmental factors on behaviour, quantifying effect sizes via Bayesian generalised linear models, and taking explicit measures against circular analysis. We apply the methodology to measure the effects of ",
-      "score": 8.0,
-      "keywords_matched": [
-        "AI",
-        "LLM",
-        "language model",
-        "inference"
-      ]
-    },
-    {
-      "title": "Agentic AI for Personalized Physiotherapy: A Multi-Agent Framework for Generative Video Training and Real-Time Pose Correction",
-      "url": "https://arxiv.org/abs/2604.21154",
-      "source": "arXiv cs.AI",
-      "published_at": "Fri, 24 Apr 2026 00:00:00 -0400",
-      "description": "arXiv:2604.21154v1 Announce Type: new \nAbstract: At-home physiotherapy compliance remains critically low due to a lack of personalized supervision and dynamic feedback. Existing digital health solutions rely on static, pre-recorded video libraries or generic 3D avatars that fail to account for a patient's specific injury limitations or home environment. In this paper, we propose a novel Multi-Agent System (MAS) architecture that leverages Generative AI and computer vision to close the tele-rehab",
-      "score": 8.0,
-      "keywords_matched": [
-        "AI",
-        "agent",
-        "RAG",
-        "generative"
-      ]
-    },
-    {
-      "title": "Trust but Verify: Introducing DAVinCI -- A Framework for Dual Attribution and Verification in Claim Inference for Language Models",
-      "url": "https://arxiv.org/abs/2604.21193",
-      "source": "arXiv cs.AI",
-      "published_at": "Fri, 24 Apr 2026 00:00:00 -0400",
-      "description": "arXiv:2604.21193v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have demonstrated remarkable fluency and versatility across a wide range of NLP tasks, yet they remain prone to factual inaccuracies and hallucinations. This limitation poses significant risks in high-stakes domains such as healthcare, law, and scientific communication, where trust and verifiability are paramount. In this paper, we introduce DAVinCI - a Dual Attribution and Verification framework designed to enhance th",
-      "score": 8.0,
-      "keywords_matched": [
-        "AI",
-        "LLM",
-        "language model",
-        "inference"
+        "LLM"
       ]
     }
   ],
-  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-04-25\n\n你好！我是你的**疯狂发明家技术雷达**。今天在 arXiv 的深海里，我为你捞出了 5 个最能激发“艺术+代码”化学反应的技术原型。\n\n今日趋势显示：**AI 正在从“对话框”里走出来，开始学习空间记忆、进化技能以及理解人类的肢体指向。**\n\n---\n\n## 1. [MemPalace: LLM 记忆的空间隐喻架构]\n- **来源：** arXiv cs.AI (2604.21284)\n- **链接：** https://arxiv.org/abs/2604.21284\n- **一句话解释：** 借鉴古希腊“记忆宫殿”法，将 LLM 的长效记忆映射到虚拟空间坐标中，实现极高精度的信息检索。\n- **它为什么重要：** 解决了 RAG（检索增强生成）中“信息碎片化”和“语义迷失”的问题。它让数据不再是冷冰冰的向量，而是一个有结构的“地方”。\n- **技术趋势标签：** #Spatial_Computing #RAG #HCI #Memory_Architecture\n- **可复用模式：** **数据空间化 (Data Spatialization)**。将抽象的 Embedding 向量转化为具体的空间坐标或拓扑结构。\n- **疯狂发明家灵感：**\n  1. **一个小实验：** 用 Three.js 写一个 3D 仓库，把你的笔记存进去。当你问 AI 问题时，视角会瞬间切向那个存放笔记的“架子”。\n  2. **一个中型项目：** **\"The Infinite Library\"**。一个自动生成的 Minecraft 地图，每一本书是一个知识点，书架的排列反映了知识的逻辑关联。\n  3. **一个艺术/游戏/叙事方向：** 玩家在游戏中探索一个失忆 AI 的大脑。通过在空间中移动物体，玩家实际上是在重组 AI 的逻辑权重和记忆。\n- **对我项目的启发：** 在做世界生成时，能否把“剧情线”设计成一种空间拓扑？\n- **今天是否值得深入研究：** 是（其检索性能评估很有参考价值）。\n- **建议行动：** **做 demo**（尝试将 Vector DB 的检索结果可视化为空间点云）。\n\n---\n\n## 2. [Co-Evolving LLM Decision and Skill Bank Agents]\n- **来源：** arXiv cs.AI (2604.20987)\n- **链接：** https://arxiv.org/abs/2604.20987\n- **一句话解释：** 这种架构让 Agent 拥有一个“技能库”，在完成长距离任务（如玩复杂游戏）时，它会不断优化自己的技能代码，并学会如何串联这些技能。\n- **它为什么重要：** 它是 **\"Voyager\" (Minecraft Agent)** 模式的进化版。它强调了“决策”与“技能代码”的协同进化。\n- **技术趋势标签：** #Agent #Minecraft #Skill_Learning #Long_Horizon\n- **可复用模式：** **代码即技能 (Code-as-Skill)**。Agent 不直接行动，而是写一段脚本存入库中，下次直接调用。\n- **疯狂发明家灵感：**\n  1. **一个小实验：** 写一个玩 P5.js 的 Agent，它每次画出一个好看的形状就将其封装成一个函数存入 `skill_bank.json`。\n  2. **一个中型项目：** 一个自动化的“炼金术士”Agent，在虚拟实验室里组合不同的化学/魔法元素，通过不断尝试进化出复杂的合成配方脚本。\n  3. **一个艺术/游戏/叙事方向：** **\"The Self-Coding NPC\"**。NPC 会根据玩家的反馈，在线重写自己的交互脚本，从而“进化”出适应玩家喜好的个性。\n- **对我项目的启发：** 强化 Spec-driven development：让 Agent 先写出 API 定义（Spec），再填充实现，最后存入技能库。\n- **今天是否值得深入研究：** 是。\n- **建议行动：** **收藏**（这是目前最前沿的 Agent 架构思路）。\n\n---\n\n## 3. [WorkflowGen: 基于轨迹经验的自适应工作流生成]\n- **来源：** arXiv cs.LG (2604.19756)\n- **链接：** https://arxiv.org/abs/2604.19756\n- **一句话解释：** 传统的 Agent 每次都要从头思考，而 WorkflowGen 会记录成功的“操作轨迹”，并将其固化为可复用的自动化工作流。\n- **它为什么重要：** 解决了 Agent 运行时的“推理开销大”和“不稳定”问题。它把 Agent 从“思考者”转变为“熟练工”。\n- **技术趋势标签：** #Automation #Workflow #Efficiency #Trajectory_Learning\n- **可复用模式：** **轨迹固化 (Trajectory Distillation)**。从反复的尝试中提取出“黄金路径”。\n- **疯狂发明家灵感：**\n  1. **一个小实验：** 记录你手动处理 5 张图片的步骤（提示词、参数），让 LLM 提取出一个通用的 JSON 工作流。\n  2. **一个中型项目：** 一个“设计助手”，它观察你在 Figma 里的操作，当你重复三次相似的排版后，它自动弹出一个按钮：“为你生成自动化排版工作流？”\n  3. **一个艺术/游戏/叙事方向：** 游戏角色会学习玩家的“战斗风格”，并将其变成敌人的“标准战术”。\n- **对我项目的启发：** 在 Drift 或自动化工具链中，引入一个“录制并抽象”的功能。\n- **今天是否值得深入研究：** 否（看摘要理解思路即可）。\n- **建议行动：** **试用**（尝试手动把一段 Agent 的 Trace 转化为一个固定函数）。\n\n---\n\n## 4. [Symbolic Grounding in Abstract Visual Reasoning (Bongard-LOGO)]\n- **来源：** arXiv cs.AI (2604.21346)\n- **链接：** https://arxiv.org/abs/2604.21346\n- **一句话解释：** 探讨 VLM（视觉语言模型）是否真的懂抽象视觉？研究发现，如果让模型生成逻辑代码（LOGO 程序）来描述图像，其推理能力会大幅提升。\n- **它为什么重要：** 它证明了 **“代码是思考抽象形状的最佳介质”**。这对于 Creative Coding 极其重要。\n- **技术趋势标签：** #Creative_Coding #VLM #Symbolic_AI #Generative_Programs\n- **可复用模式：** **视觉-代码对齐 (Visual-to-Code Grounding)**。不直接让模型描述图像，而是让它写出生成该图像的代码。\n- **疯狂发明家灵感：**\n  1. **一个小实验：** 给 GPT-4o 一张简单的几何抽象画，要求它写出一段能够完美复现该画作的 SVG 或 P5.js 代码。\n  2. **一个中型项目：** **\"The Visual Compiler\"**。输入一段模糊的设计描述，Agent 通过不断生成代码并自检渲染结果，最终输出精确的设计系统。\n  3. **一个艺术/游戏/叙事方向：** 一个基于 LOGO 语言的解谜游戏，玩家（或 Agent）必须通过编写几何逻辑程序来开启传送门。\n- **对我项目的启发：** 这就是 Spec-driven development 在视觉领域的体现：图像是 Spec 的运行结果。\n- **今天是否值得深入研究：** 是（对理解 VLM 的瓶颈非常有帮助）。\n- **建议行动：** **做 demo**（视觉逆向工程：Image -> Code -> Image）。\n\n---\n\n## 5. [Do MLLMs Understand Pointing? (第一视角指向理解)]\n- **来源：** arXiv cs.HC (2604.21461)\n- **链接：** https://arxiv.org/abs/2604.21461\n- **一句话解释：** 研究 MLLM 是否能理解智能眼镜视角下的“指指点点”。结论是：目前的模型很烂，它们往往在猜，而不是真的理解空间指向。\n- **它为什么重要：** 这是 HCI 的圣杯：真正的空间交互。如果你想做 AR 或智能硬件 Agent，这是必须攻克的坎。\n- **技术趋势标签：** #HCI #MLLM #Egocentric_Vision #Spatial_Reasoning\n- **可复用模式：** **指代消解 (Referential Grounding)**。将手势、视线与环境中的物体实例建立关联。\n- **疯狂发明家灵感：**\n  1. **一个小实验：** 拍一张你桌子的照片，用手指着某个东西，看 Claude 3.5 能不能精准说出你指的东西的坐标。\n  2. **一个中型项目：** 一个“空间指挥官”Agent。你在摄像头前指着屏幕上的代码块说：“重构这一段”，它能准确识别。\n  3. **一个艺术/游戏/叙事方向：** **\"Ghost in the Room\"**。一个投影艺术装置，它能理解观众的指向动作，并根据观众指的位置生成特定的视觉反馈。\n- **对我项目的启发：** 考虑在 Agent 工作流中引入“视觉反馈环”，而不仅仅是文本。\n- **今天是否值得深入研究：** 否。\n- **建议行动：** **忽略**（等模型能力提升后再回来看）。\n\n---\n\n## 今日模式总结\n1. **空间化隐喻 (Spatial Metaphor)**：不再把信息看作列表，而是看作可以探索的 3D 场所（MemPalace）。\n2. **代码即技能库 (Code-as-Skillset)**：Agent 的进化不再是权重的改变，而是其私有脚本库的扩张（Co-evolving Agents）。\n3. **视觉即程序 (Vision-as-Program)**：理解抽象视觉的最好方式是将其转化为可执行的生成代码（Bongard-LOGO）。\n\n---\n\n## 今日可做小实验：The Desk Palace (桌面记忆宫殿)\n**2 小时挑战：** 验证“空间记忆”是否能提升你对本地项目文件的检索感。\n\n- **项目名：** DeskPalace-RAG\n- **输入：** 你最近的一个项目文件夹（包含 .ts, .md, .json 文件）。\n- **输出：** 一个 2D Canvas 网页，文件按照“语义相似度”分布在不同房间，点击房间可与该区域的文件内容对话。\n- **技术栈：** Python (FastAPI) + Scikit-learn (PCA 降维) + Three.js / Canvas + OpenAI API。\n- **第一步怎么做：**\n  1. 用 `Sentence-Transformers` 提取文件夹内所有文件的 Embedding。\n  2. 使用 `PCA` 或 `t-SNE` 将维度降到 2D 坐标 (x, y)。\n  3. 在网页上把这些坐标画成点，点击点时，将该文件内容作为 Context 传给 LLM。\n  4. **疯狂点：** 尝试手动把几个点挪动位置，告诉 LLM：“我把这两个概念放在一起了，以后它们就是相关的。”\n\n准备好开始了吗？这个实验能让你瞬间理解 **Candidate 4** 的精髓！加油，疯狂发明家！",
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-04-25\n\n> 🔧 **Mock 模式** — 未设置 GEMINI_API_KEY，以下为示例输出格式。\n\n## Open Interpreter：本地运行代码的 AI Agent\n- 来源：Hacker News\n- 链接：https://github.com/OpenInterpreter/open-interpreter\n- 一句话解释：让 LLM 直接在你的电脑上执行 Python/Shell/JS，像 ChatGPT Code Interpreter 的开源本地版。\n- 它为什么重要：把\"让 AI 帮我做事\"从云端拉到本地，意味着可以访问文件系统、调用 API、自动化任何工作流。\n- 技术趋势标签：`local-agent` `code-execution` `automation` `open-source`\n- 可复用模式：LLM + 安全沙箱 + 工具调用 = 可编程 AI 助手\n- 疯狂发明家灵感：\n  1. 小实验：让它帮你自动整理 Downloads 文件夹并分类\n  2. 中型项目：搭一个\"创意项目日志\"Bot，每天早上总结昨天的 git commit 并生成灵感报告\n  3. 艺术/游戏方向：用它驱动 Blender 脚本自动生成程序化世界\n- 对我项目的启发：可以作为 Drift 系统的本地执行层，spec → agent → 代码直接落地\n- 今天是否值得深入研究：是\n- 建议行动：做demo\n\n## 今日模式总结\n1. **Local-first Agent**：AI 工具从云端服务转向本地执行，强调隐私和可控性。\n2. **LLM × 工具调用**：Function calling / tool use 成为标准范式，任何 API 都可以被 AI 调用。\n\n## 今日可做小实验\n- **项目名**：AutoCommitLog\n- **输入**：git log --oneline（最近 7 天的 commit）\n- **输出**：一段 200 字中文项目进展摘要 + 下一步建议\n- **技术栈**：Python + subprocess + Gemini API\n- **第一步**：`subprocess.run(['git', 'log', '--oneline', '--since=7 days ago'], capture_output=True)` 然后把输出传给 Gemini 的 prompt\n",
   "gemini_success": true,
-  "telegram_sent": false
+  "telegram_sent": false,
+  "telegram_status": "skipped_missing_credentials",
+  "telegram_reason": "TELEGRAM_BOT_TOKEN or TELEGRAM_CHAT_ID is missing"
 }

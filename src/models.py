@@ -31,6 +31,9 @@ class DailyReport(BaseModel):
     raw_markdown: str = ""
     gemini_success: bool = False
     telegram_sent: bool = False
+    # Possible values: "not_attempted", "sent", "skipped_missing_credentials", "failed"
+    telegram_status: str = "not_attempted"
+    telegram_reason: str = ""
 
 
 class FeedbackEntry(BaseModel):
