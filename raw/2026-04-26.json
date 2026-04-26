@@ -1,0 +1,251 @@
+[
+  {
+    "title": "ruvnet / ruflo",
+    "url": "https://github.com/ruvnet/ruflo",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration [170 stars today]",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "workflow",
+      "autonomous",
+      "RAG"
+    ]
+  },
+  {
+    "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
+    "url": "https://github.com/nex-crm/wuphf",
+    "source": "Hacker News Best",
+    "published_at": "Sat, 25 Apr 2026 08:53:53 +0000",
+    "description": "I shipped a wiki layer for AI agents that uses markdown + git as the source of truth, with a bleve (BM25) + SQLite index on top. No vector or graph db yet. It runs locally in ~/.wuphf/wiki/ and you can git clone it out if you want to take your knowledge with you. The shape is the one Karpathy has been circling for a while: an LLM-native knowledge substrate that agents both read from and write into, so context compounds across sessions rather than getting re-pasted every morning. Most implementat",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "vector"
+    ]
+  },
+  {
+    "title": "Show HN: How LLMs Work – Interactive visual guide based on Karpathy's lecture",
+    "url": "https://ynarwal.github.io/how-llms-work/",
+    "source": "Hacker News Best",
+    "published_at": "Fri, 24 Apr 2026 06:48:53 +0000",
+    "description": "All content is based on Andrej Karpathy's \"Intro to Large Language Models\" lecture (youtube.com/watch?v=7xTGNNLPyMI). I downloaded the transcript and used Claude Code to generate the entire interactive site from it — single HTML file. I find it useful to revisit this content time to time. Comments URL: https://news.ycombinator.com/item?id=47886517 Points: 242 # Comments: 55",
+    "score": 6.0,
+    "keywords_matched": [
+      "LLM",
+      "Claude",
+      "language model"
+    ]
+  },
+  {
+    "title": "MemoriLabs / Memori",
+    "url": "https://github.com/MemoriLabs/Memori",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Memori is agent-native memory infrastructure. A LLM-agnostic layer that turns agent execution and conversation into structured, persistent state for production systems. [124 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "memory"
+    ]
+  },
+  {
+    "title": "zilliztech / memsearch",
+    "url": "https://github.com/zilliztech/memsearch",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw. [31 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "memory"
+    ]
+  },
+  {
+    "title": "badlogic / pi-mono",
+    "url": "https://github.com/badlogic/pi-mono",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods [528 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM"
+    ]
+  },
+  {
+    "title": "google-labs-code / stitch-skills",
+    "url": "https://github.com/google-labs-code/stitch-skills",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor. [55 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "agent",
+      "Claude",
+      "Gemini"
+    ]
+  },
+  {
+    "title": "Agents Aren't Coworkers, Embed Them in Your Software",
+    "url": "https://www.feldera.com/blog/ai-agents-arent-coworkers-embed-them-in-your-software",
+    "source": "Hacker News",
+    "published_at": "Sat, 25 Apr 2026 23:53:40 +0000",
+    "description": "Article URL: https://www.feldera.com/blog/ai-agents-arent-coworkers-embed-them-in-your-software Comments URL: https://news.ycombinator.com/item?id=47905837 Points: 25 # Comments: 3",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "GPT‑5.5 Bio Bug Bounty",
+    "url": "https://openai.com/index/gpt-5-5-bio-bug-bounty/",
+    "source": "Hacker News",
+    "published_at": "Sat, 25 Apr 2026 14:17:31 +0000",
+    "description": "Article URL: https://openai.com/index/gpt-5-5-bio-bug-bounty/ Comments URL: https://news.ycombinator.com/item?id=47901734 Points: 126 # Comments: 97",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "GPT"
+    ]
+  },
+  {
+    "title": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
+    "url": "https://developers.openai.com/api/docs/changelog",
+    "source": "Hacker News Best",
+    "published_at": "Fri, 24 Apr 2026 18:23:32 +0000",
+    "description": "GPT-5.5 - https://news.ycombinator.com/item?id=47879092 - April 2026 (1010 comments) Comments URL: https://news.ycombinator.com/item?id=47894000 Points: 254 # Comments: 151",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "GPT"
+    ]
+  },
+  {
+    "title": "luongnv89 / claude-howto",
+    "url": "https://github.com/luongnv89/claude-howto",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. [226 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "agent",
+      "Claude"
+    ]
+  },
+  {
+    "title": "alexzhang13 / rlm",
+    "url": "https://github.com/alexzhang13/rlm",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes. [225 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "language model",
+      "inference"
+    ]
+  },
+  {
+    "title": "pydantic / pydantic-ai",
+    "url": "https://github.com/pydantic/pydantic-ai",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "AI Agent Framework, the Pydantic way [22 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "RooCodeInc / Roo-Code",
+    "url": "https://github.com/RooCodeInc/Roo-Code",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Roo Code gives you a whole dev team of AI agents in your code editor. [57 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "zilliztech / claude-context",
+    "url": "https://github.com/zilliztech/claude-context",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent. [451 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "agent",
+      "Claude"
+    ]
+  },
+  {
+    "title": "Kilo-Org / kilocode",
+    "url": "https://github.com/Kilo-Org/kilocode",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. [52 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "agent",
+      "open source"
+    ]
+  },
+  {
+    "title": "mattpocock / skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "My personal directory of skills, straight from my .claude directory. [1,139 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "Claude"
+    ]
+  },
+  {
+    "title": "CJackHwang / ds2api",
+    "url": "https://github.com/CJackHwang/ds2api",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats. [44 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "Claude"
+    ]
+  },
+  {
+    "title": "Martin Galway's music source files from 1980's Commodore 64 games",
+    "url": "https://github.com/MartinGalway/C64_music",
+    "source": "Hacker News",
+    "published_at": "Sat, 25 Apr 2026 10:46:14 +0000",
+    "description": "Article URL: https://github.com/MartinGalway/C64_music Comments URL: https://news.ycombinator.com/item?id=47900398 Points: 159 # Comments: 21",
+    "score": 2.0,
+    "keywords_matched": [
+      "game"
+    ]
+  },
+  {
+    "title": "Which one is more important: more parameters or more computation? (2021)",
+    "url": "https://parl.ai/projects/params_vs_compute/",
+    "source": "Hacker News",
+    "published_at": "Fri, 24 Apr 2026 16:44:57 +0000",
+    "description": "Article URL: https://parl.ai/projects/params_vs_compute/ Comments URL: https://news.ycombinator.com/item?id=47892655 Points: 49 # Comments: 9",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  }
+]

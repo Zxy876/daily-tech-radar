@@ -1,0 +1,259 @@
+{
+  "date": "2026-04-26",
+  "candidates": [
+    {
+      "title": "ruvnet / ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration [170 stars today]",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "workflow",
+        "autonomous",
+        "RAG"
+      ]
+    },
+    {
+      "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
+      "url": "https://github.com/nex-crm/wuphf",
+      "source": "Hacker News Best",
+      "published_at": "Sat, 25 Apr 2026 08:53:53 +0000",
+      "description": "I shipped a wiki layer for AI agents that uses markdown + git as the source of truth, with a bleve (BM25) + SQLite index on top. No vector or graph db yet. It runs locally in ~/.wuphf/wiki/ and you can git clone it out if you want to take your knowledge with you. The shape is the one Karpathy has been circling for a while: an LLM-native knowledge substrate that agents both read from and write into, so context compounds across sessions rather than getting re-pasted every morning. Most implementat",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "vector"
+      ]
+    },
+    {
+      "title": "Show HN: How LLMs Work – Interactive visual guide based on Karpathy's lecture",
+      "url": "https://ynarwal.github.io/how-llms-work/",
+      "source": "Hacker News Best",
+      "published_at": "Fri, 24 Apr 2026 06:48:53 +0000",
+      "description": "All content is based on Andrej Karpathy's \"Intro to Large Language Models\" lecture (youtube.com/watch?v=7xTGNNLPyMI). I downloaded the transcript and used Claude Code to generate the entire interactive site from it — single HTML file. I find it useful to revisit this content time to time. Comments URL: https://news.ycombinator.com/item?id=47886517 Points: 242 # Comments: 55",
+      "score": 6.0,
+      "keywords_matched": [
+        "LLM",
+        "Claude",
+        "language model"
+      ]
+    },
+    {
+      "title": "MemoriLabs / Memori",
+      "url": "https://github.com/MemoriLabs/Memori",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Memori is agent-native memory infrastructure. A LLM-agnostic layer that turns agent execution and conversation into structured, persistent state for production systems. [124 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "memory"
+      ]
+    },
+    {
+      "title": "zilliztech / memsearch",
+      "url": "https://github.com/zilliztech/memsearch",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw. [31 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "memory"
+      ]
+    },
+    {
+      "title": "badlogic / pi-mono",
+      "url": "https://github.com/badlogic/pi-mono",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods [528 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM"
+      ]
+    },
+    {
+      "title": "google-labs-code / stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor. [55 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "agent",
+        "Claude",
+        "Gemini"
+      ]
+    },
+    {
+      "title": "Agents Aren't Coworkers, Embed Them in Your Software",
+      "url": "https://www.feldera.com/blog/ai-agents-arent-coworkers-embed-them-in-your-software",
+      "source": "Hacker News",
+      "published_at": "Sat, 25 Apr 2026 23:53:40 +0000",
+      "description": "Article URL: https://www.feldera.com/blog/ai-agents-arent-coworkers-embed-them-in-your-software Comments URL: https://news.ycombinator.com/item?id=47905837 Points: 25 # Comments: 3",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "GPT‑5.5 Bio Bug Bounty",
+      "url": "https://openai.com/index/gpt-5-5-bio-bug-bounty/",
+      "source": "Hacker News",
+      "published_at": "Sat, 25 Apr 2026 14:17:31 +0000",
+      "description": "Article URL: https://openai.com/index/gpt-5-5-bio-bug-bounty/ Comments URL: https://news.ycombinator.com/item?id=47901734 Points: 126 # Comments: 97",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "GPT"
+      ]
+    },
+    {
+      "title": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
+      "url": "https://developers.openai.com/api/docs/changelog",
+      "source": "Hacker News Best",
+      "published_at": "Fri, 24 Apr 2026 18:23:32 +0000",
+      "description": "GPT-5.5 - https://news.ycombinator.com/item?id=47879092 - April 2026 (1010 comments) Comments URL: https://news.ycombinator.com/item?id=47894000 Points: 254 # Comments: 151",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "GPT"
+      ]
+    },
+    {
+      "title": "luongnv89 / claude-howto",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. [226 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "agent",
+        "Claude"
+      ]
+    },
+    {
+      "title": "alexzhang13 / rlm",
+      "url": "https://github.com/alexzhang13/rlm",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes. [225 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "language model",
+        "inference"
+      ]
+    },
+    {
+      "title": "pydantic / pydantic-ai",
+      "url": "https://github.com/pydantic/pydantic-ai",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "AI Agent Framework, the Pydantic way [22 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "RooCodeInc / Roo-Code",
+      "url": "https://github.com/RooCodeInc/Roo-Code",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Roo Code gives you a whole dev team of AI agents in your code editor. [57 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "zilliztech / claude-context",
+      "url": "https://github.com/zilliztech/claude-context",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent. [451 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "agent",
+        "Claude"
+      ]
+    },
+    {
+      "title": "Kilo-Org / kilocode",
+      "url": "https://github.com/Kilo-Org/kilocode",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. [52 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "agent",
+        "open source"
+      ]
+    },
+    {
+      "title": "mattpocock / skills",
+      "url": "https://github.com/mattpocock/skills",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "My personal directory of skills, straight from my .claude directory. [1,139 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "Claude"
+      ]
+    },
+    {
+      "title": "CJackHwang / ds2api",
+      "url": "https://github.com/CJackHwang/ds2api",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats. [44 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "Claude"
+      ]
+    },
+    {
+      "title": "Martin Galway's music source files from 1980's Commodore 64 games",
+      "url": "https://github.com/MartinGalway/C64_music",
+      "source": "Hacker News",
+      "published_at": "Sat, 25 Apr 2026 10:46:14 +0000",
+      "description": "Article URL: https://github.com/MartinGalway/C64_music Comments URL: https://news.ycombinator.com/item?id=47900398 Points: 159 # Comments: 21",
+      "score": 2.0,
+      "keywords_matched": [
+        "game"
+      ]
+    },
+    {
+      "title": "Which one is more important: more parameters or more computation? (2021)",
+      "url": "https://parl.ai/projects/params_vs_compute/",
+      "source": "Hacker News",
+      "published_at": "Fri, 24 Apr 2026 16:44:57 +0000",
+      "description": "Article URL: https://parl.ai/projects/params_vs_compute/ Comments URL: https://news.ycombinator.com/item?id=47892655 Points: 49 # Comments: 9",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-04-26\n\n你好！我是你的**疯狂发明家技术雷达**。\n\n今天我从 20 个候选项目中为你精选了 4 个最能激发“疯狂发明”灵感的内容。今天的趋势非常集中：**AI Agent 正在从“对话框”走向“操作系统底层”，且“人工干预的技能化”成为了新宠。**\n\n---\n\n## 1. Wuphf: 代理人维护的 Git 知识基座\n- 来源：Hacker News\n- 链接：https://github.com/nex-crm/wuphf\n- 一句话解释：一个让 Agent 自动读写的 Wiki 层，使用 Markdown + Git 作为真相来源，配以 SQLite 索引。\n- 它为什么重要：Karpathy 一直在推崇“LLM 原生知识基座”。它抛弃了复杂的向量数据库，回归到开发者最熟悉的 Git 工作流。\n- 技术趋势标签：#AgentInfrastructure #GitOps #MarkdownFirst\n- 可复用模式：**“Git即记忆”**。利用 Git 的版本管理来追踪 Agent 的思维演进。\n- 疯狂发明家灵感：\n  1. **一个小实验**：写一个脚本，让 Agent 每天阅读你的笔记，并在 Git 上自动提交“矛盾点分析”和“知识合并”。\n  2. **一个中型项目**：一个“自我进化的设计文档”。你只写 Spec，Agent 在 Git 上通过不断运行测试来自动补全并修正文档。\n  3. **一个艺术/游戏/叙事方向**：**“活着的编年史”**。一个 Minecraft 服务器的后台 Agent，它观察玩家行为并实时在 Wiki 上撰写带有主观色彩的“史书”，玩家可以去 Git 提交 PR 挑战历史。\n- 对我项目的启发：在做 spec-driven development 时，不要只把 spec 当输入，要让 Agent 把实现过程写回 spec 的分支。\n- 今天是否值得深入研究：是\n- 建议行动：试用\n\n## 2. Matt Pocock 的 .claude 技能库\n- 来源：GitHub Trending\n- 链接：https://github.com/mattpocock/skills\n- 一句话解释：知名开发者 Matt Pocock 公开了他给 Claude Code 使用的个人技能目录。\n- 它为什么重要：这预示着一种新形态的**“程序员数字资产”**。未来我们不只是分享代码，而是分享“如何教 AI 写我的代码”的 Skill 文件。\n- 技术趋势标签：#HCI #ClaudeCode #PromptEngineering\n- 可复用模式：**“技能注入模式”**。通过标准化的 Markdown 定义 Agent 的工具使用边界。\n- 疯狂发明家灵感：\n  1. **一个小实验**：为你最常用的 Creative Coding 库（如 p5.js）写一套“黄金 Skill”，看它是否能瞬间提升 Claude 的绘图成功率。\n  2. **一个中型项目**：**“风格克隆器”**。收集你过去所有项目的代码风格，提炼成一个 .skill，让任何 LLM 都能瞬间“夺舍”你的编程习惯。\n  3. **一个艺术/游戏/叙事方向**：**“角色性格包”**。为不同的 NPC 定义专属的 Skill（例如“说谎技能”、“炼金技能”），这些 Skill 实际上是特定的 Prompt 指令集。\n- 对我项目的启发：思考如何将你的“艺术审美”转化为 Agent 可执行的“审美规范 Skill”。\n- 今天是否值得深入研究：是\n- 建议行动：做demo（把你的一项绝活写成 Skill）\n\n## 3. RLM: 递归语言模型推理库\n- 来源：GitHub Trending\n- 链接：https://github.com/alexzhang13/rlm\n- 一句话解释：一个即插即用的推理库，支持递归式的语言模型调用。\n- 它为什么重要：它在探索 LLM 如何通过“自我循环”和“沙盒反馈”来解决复杂逻辑，而不是简单的一次性输出。\n- 技术趋势标签：#RecursiveInference #SelfCorrection #LLMChain\n- 可复用模式：**“递归修正循环”**。\n- 疯狂发明家灵感：\n  1. **一个小实验**：让 LLM 写一段代码，然后递归地让它自己找出这段代码里的 5 个潜在 Bug，直到它找不出为止。\n  2. **一个中型项目**：**“分形故事生成器”**。从一句话开始，递归地生成细节，每一层细节又成为下一层生成的背景，实现无限深度的叙事缩放。\n  3. **一个艺术/游戏/叙事方向**：一个基于递归逻辑的**“哲学辩论 Agent”**。它不断反思自己的前一个观点，在控制台输出一场无止境的自我博弈。\n- 对我项目的启发：在自动化工作流中引入“递归自省”环节，能大幅提高生成内容的质量。\n- 今天是否值得深入研究：否（原理重要，库可以先观望）\n- 建议行动：收藏\n\n## 4. Martin Galway 的 C64 游戏音乐源码\n- 来源：Hacker News\n- 链接：https://github.com/MartinGalway/C64_music\n- 一句话解释：80 年代传奇作曲家 Martin Galway 在 Commodore 64 上的音乐源代码公开。\n- 它为什么重要：这是极简主义硬件下的极致艺术。对于关注生成式系统和游戏系统的你，这是研究“受限系统下的创造力”的绝佳案例。\n- 技术趋势标签：#RetroTech #CreativeCoding #GameMusic\n- 可复用模式：**“受限生成”**。在极小资源下构造复杂听感的逻辑。\n- 疯狂发明家灵感：\n  1. **一个小实验**：把这些 6502 汇编代码喂给 Claude，让它解释当时的作曲逻辑，并尝试用 JavaScript 重现一个 Web 版音色模拟器。\n  2. **一个中型项目**：**“AI 复古作曲机”**。训练一个微型模型，专门学习这种 8-bit 源码的结构，生成现代 LLM 很难模拟出的纯正复古芯片音乐。\n  3. **一个艺术/游戏/叙事方向**：一个 Minecraft 模组，根据玩家所在的生物群落，实时将环境数据转化为 C64 风格的代码并播放。\n- 对我项目的启发：艺术技术不一定要追求“大”，回归到最底层、最受限的逻辑往往能产生最独特的风格。\n- 今天是否值得深入研究：是\n- 建议行动：试用（阅读源码，感受那种纯粹的逻辑美）\n\n---\n\n## 今日模式总结\n1.  **Agent 技能标准化 (Skill as Code)**：不再是随意的 Prompt，而是像 npm 包一样可插拔、可版本管理的技能文件正在成为主流。\n2.  **回归可读性记忆 (Readable Memory)**：比起黑盒的向量数据库，开发者开始重新拥抱 Markdown 和 Git，因为它们对人类和 Agent 同样透明。\n\n---\n\n## 今日可做小实验：The Sentient Skill-Tree (有感知力的技能树)\n这个实验结合了上述的“技能库”和“递归逻辑”，帮你快速上手 Agent 自动化。\n\n- **项目名**：Skill-Crafter-Agent\n- **输入**：一个简单的想法（例如：“我想做一个会画哥特式像素画的工具”）\n- **输出**：一个自动生成的 `.claude/skills/pixel-art.md` 技能文件。\n- **技术栈**：Claude API (或 Claude Code), Python/Node.js.\n- **第一步怎么做**：\n  1. 在本地创建一个 `.claude/skills` 文件夹。\n  2. 编写一个系统提示词，要求 Agent：“分析我过去 2 小时的代码历史/对话历史，总结出我最常用的 3 个设计模式，并按照 Matt Pocock 的格式将其写成一个 Markdown 技能文件存入该目录。”\n  3. 观察 Agent 是否能精准捕捉到你的“私人偏好”。\n\n祝你今天灵感爆棚！如果有哪个项目你想深入写代码实现，随时叫我。加油，疯狂发明家！",
+  "gemini_success": true,
+  "telegram_sent": true,
+  "telegram_status": "sent",
+  "telegram_reason": ""
+}
