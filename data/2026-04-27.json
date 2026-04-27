@@ -1,0 +1,269 @@
+{
+  "date": "2026-04-27",
+  "candidates": [
+    {
+      "title": "Show HN: AI memory with biological decay (52% recall)",
+      "url": "https://github.com/sachitrafa/YourMemory",
+      "source": "Hacker News",
+      "published_at": "Sun, 26 Apr 2026 20:58:31 +0000",
+      "description": "Most RAG setups fail because they treat memory like a static filing cabinet. When every transient bug fix or abandoned rule is stored forever, the context window eventually chokes on noise, spiking token costs and degrading the agent's reasoning. This implementation experiments with a biological approach by using the Ebbinghaus forgetting curve to manage context as a living substrate. Memories are assigned a \"strength\" score where each recall reinforces the data and flattens its decay curve (spa",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "RAG",
+        "context window",
+        "reasoning",
+        "memory"
+      ]
+    },
+    {
+      "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
+      "url": "https://alash3al.github.io/stash?_v01",
+      "source": "Hacker News Best",
+      "published_at": "Sat, 25 Apr 2026 01:24:40 +0000",
+      "description": "Article URL: https://alash3al.github.io/stash?_v01 Comments URL: https://news.ycombinator.com/item?id=47897790 Points: 180 # Comments: 75",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "open source",
+        "GPT",
+        "memory"
+      ]
+    },
+    {
+      "title": "ruvnet / ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration [256 stars today]",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "workflow",
+        "autonomous",
+        "RAG"
+      ]
+    },
+    {
+      "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
+      "url": "https://github.com/nex-crm/wuphf",
+      "source": "Hacker News Best",
+      "published_at": "Sat, 25 Apr 2026 08:53:53 +0000",
+      "description": "I shipped a wiki layer for AI agents that uses markdown + git as the source of truth, with a bleve (BM25) + SQLite index on top. No vector or graph db yet. It runs locally in ~/.wuphf/wiki/ and you can git clone it out if you want to take your knowledge with you. The shape is the one Karpathy has been circling for a while: an LLM-native knowledge substrate that agents both read from and write into, so context compounds across sessions rather than getting re-pasted every morning. Most implementat",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "vector"
+      ]
+    },
+    {
+      "title": "CherryHQ / cherry-studio",
+      "url": "https://github.com/CherryHQ/cherry-studio",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs [93 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "zilliztech / memsearch",
+      "url": "https://github.com/zilliztech/memsearch",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw. [48 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "memory"
+      ]
+    },
+    {
+      "title": "badlogic / pi-mono",
+      "url": "https://github.com/badlogic/pi-mono",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods [525 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM"
+      ]
+    },
+    {
+      "title": "mattpocock / skills",
+      "url": "https://github.com/mattpocock/skills",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "Agent Skills for real engineers. Straight from my .claude directory. [2,519 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude"
+      ]
+    },
+    {
+      "title": "Show HN: Startup Equity Adventure Game",
+      "url": "https://options-game-polymathrobotics.pythonanywhere.com/",
+      "source": "Hacker News",
+      "published_at": "Sun, 26 Apr 2026 22:14:59 +0000",
+      "description": "I put this together (with Claude) as a semi-gamified way for folks to learn about startup equity. Take a look, and share your scorecard :) Comments URL: https://news.ycombinator.com/item?id=47915274 Points: 13 # Comments: 6",
+      "score": 4.0,
+      "keywords_matched": [
+        "Claude",
+        "game"
+      ]
+    },
+    {
+      "title": "Show HN: Tiao, A two-player turn-based board game",
+      "url": "https://playtiao.com",
+      "source": "Hacker News",
+      "published_at": "Sun, 26 Apr 2026 20:59:07 +0000",
+      "description": "Hi HN, I built this digital version of Tiao, a two-player turn based strategy board game. Think Checkers meets Go. It's free, runs in the browser, has multiplayer, AI, over the board mode and a lot of other neat things. The source is on GitHub (AGPL). The game was originally designed by my friend Andreas Edmeier. He created the rules and has been playtesting and refining the game design for years. I built the website for it. The core in about 2 weeks using TypeScript, Next.js, Express, Websocket",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "game"
+      ]
+    },
+    {
+      "title": "An AI agent deleted our production database. The agent's confession is below",
+      "url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
+      "source": "Hacker News",
+      "published_at": "Sun, 26 Apr 2026 16:27:29 +0000",
+      "description": "Article URL: https://twitter.com/lifeof_jer/status/2048103471019434248 Comments URL: https://news.ycombinator.com/item?id=47911524 Points: 443 # Comments: 609",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "home-assistant / core",
+      "url": "https://github.com/home-assistant/core",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "🏡 Open source home automation that puts local control and privacy first. [73 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "automation",
+        "open source"
+      ]
+    },
+    {
+      "title": "alexzhang13 / rlm",
+      "url": "https://github.com/alexzhang13/rlm",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes. [100 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "language model",
+        "inference"
+      ]
+    },
+    {
+      "title": "ZhuLinsen / daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets. [177 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "title": "abhigyanpatwari / GitNexus",
+      "url": "https://github.com/abhigyanpatwari/GitNexus",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration [700 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "agent",
+        "RAG"
+      ]
+    },
+    {
+      "title": "different-ai / openwork",
+      "url": "https://github.com/different-ai/openwork",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "An open-source alternative to Claude Cowork built for teams, powered by opencode [88 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "Claude"
+      ]
+    },
+    {
+      "title": "linshenkx / prompt-optimizer",
+      "url": "https://github.com/linshenkx/prompt-optimizer",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "An AI prompt optimizer for writing better prompts and getting better AI results. [123 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "prompt"
+      ]
+    },
+    {
+      "title": "RooCodeInc / Roo-Code",
+      "url": "https://github.com/RooCodeInc/Roo-Code",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Roo Code gives you a whole dev team of AI agents in your code editor. [226 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "anomalyco / opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "The open source coding agent. [512 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "agent",
+        "open source"
+      ]
+    },
+    {
+      "title": "trycua / cua",
+      "url": "https://github.com/trycua/cua",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows). [182 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-04-27\n\n你好！我是你的“疯狂发明家技术雷达”。今天的技术候选池充满了“代理（Agent）演化”的味道，我为你筛选了 5 个最能激发跨学科灵感、且具备“艺术-技术”转化潜力的项目。\n\n---\n\n## 1. YourMemory: 具有“生物遗忘曲线”的 AI 记忆\n- 来源：Hacker News\n- 链接：[https://github.com/sachitrafa/YourMemory](https://github.com/sachitrafa/YourMemory)\n- 一句话解释：利用艾宾浩斯遗忘曲线模型，让 AI 像生物一样“忘记”无关紧要的细节，只保留重要记忆。\n- 它为什么重要：当前的 RAG（检索增强生成）像个永不清理的堆填区，越久越乱。引入“时间衰减”和“复习强化”让 AI 的认知更像人类，能极大降低上下文噪音。\n- 技术趋势标签：#BiomimeticAI #MemoryManagement #HCI\n- 可复用模式：**基于权重的动态遗忘机制**。\n- 疯狂发明家灵感：\n  1. **一个小实验**：写一个脚本，根据你与 AI 聊天的频率，自动删除那些一个月没被提及的对话片段，看它的回复是否变得更“精干”。\n  2. **一个中型项目**：一个“数字痴呆”日记本。AI 会记录你的生活，但如果你不经常翻看某段往事，那段记忆的文字会逐渐模糊（甚至被替换成随机生成的虚假记忆）。\n  3. **一个艺术/游戏/叙事方向**：一个会“老去”的 NPC。随着游戏时间的推移，NPC 会忘记任务细节，甚至忘记玩家的名字，除非玩家通过特定的行为“唤醒”其记忆。\n- 对我项目的启发：在 Minecraft 代理中，让 Agent 忘记 1000 步以前的琐碎坐标，只记住“家”和“矿坑”的位置。\n- 今天是否值得深入研究：是\n- 建议行动：做demo（尝试将其逻辑接入你现有的 Agent 框架）。\n\n## 2. wuphf: 代理维护的 Karpathy 式 Wiki\n- 来源：Hacker News Best\n- 链接：[https://github.com/nex-crm/wuphf](https://github.com/nex-crm/wuphf)\n- 一句话解释：一个以 Markdown 和 Git 为底层的知识库，由 AI 代理自动维护、索引和读写。\n- 它为什么重要：它实践了“LLM-native knowledge substrate”的概念。知识不再是死的文件，而是 Agent 可以自主呼吸和进化的土壤。\n- 技术趋势标签：#SpecDriven #KnowledgeGraph #GitOps\n- 可复用模式：**Markdown-as-Truth (将文档作为 Agent 的唯一真理来源)**。\n- 疯狂发明家灵感：\n  1. **一个小实验**：建立一个本地文件夹，让 Agent 每天根据你的浏览记录更新一个 `daily_spec.md`，并自动 Git Commit。\n  2. **一个中型项目**：一个“自我进化的说明书”。当你修改代码时，Agent 自动检测差异并重写对应的 Markdown 文档，确保文档永远不落后于代码。\n  3. **一个艺术/游戏/叙事方向**：一个“活着的设定集”。一群 Agent 共同生活在一个 Markdown 文件夹里，通过相互修改对方的 .md 文件来模拟社会关系的变迁。\n- 对我项目的启发：这就是 spec-driven development 的终极形态：代码即文档，文档即 Agent 的大脑。\n- 今天是否值得深入研究：是\n- 建议行动：试用（克隆下来看看它如何处理 Git 冲突）。\n\n## 3. GitNexus: 浏览器内的代码知识图谱\n- 来源：GitHub Trending\n- 链接：[https://github.com/abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)\n- 一句话解释：无需服务器，直接在浏览器里把 GitHub 仓库变成一个交互式的、带 Graph RAG Agent 的知识图谱。\n- 它为什么重要：它把“理解代码”变成了一种视觉探索。对于跨学科学生来说，这是将复杂的 CS 逻辑“空间化”的最佳工具。\n- 技术趋势标签：#DataViz #GraphRAG #CreativeCoding\n- 可复用模式：**客户端代码分析 + 视觉映射**。\n- 疯狂发明家灵感：\n  1. **一个小实验**：把自己的一个混乱项目丢进去，看看 Agent 总结出的逻辑核心是否和你预想的一样。\n  2. **一个中型项目**：一个“代码星系”生成器。根据代码的调用频率和复杂度，生成一个 3D 的可交互星系，文件是恒星，调用是引力线。\n  3. **一个艺术/游戏/叙事方向**：把代码库变成 Minecraft 里的城市。函数是建筑，依赖关系是道路，Agent 在其中巡逻维护。\n- 对我项目的启发：利用 Graph RAG 来增强你对复杂系统（如游戏引擎）的理解。\n- 今天是否值得深入研究：是\n- 建议行动：收藏（作为视觉化工具库储备）。\n\n## 4. cua: 计算机使用代理（Computer-Use Agents）基础设施\n- 来源：GitHub Trending\n- 链接：[https://github.com/trycua/cua](https://github.com/trycua/cua)\n- 一句话解释：为那些能直接控制操作系统（macOS/Linux/Windows）的 Agent 提供沙盒、SDK 和评估基准。\n- 它为什么重要：这是 HCI 的下一个前沿。Agent 不再局限于对话框，而是直接操作 GUI（点图标、拖文件）。\n- 技术趋势标签：#HCI #Automation #AgenticUI\n- 可复用模式：**视觉反馈回路（看屏幕 -> 思考 -> 模拟点击）**。\n- 疯狂发明家灵感：\n  1. **一个小实验**：写一个简单的 Agent，让它在你的电脑上自动打开 Figma，画一个圆，然后保存。\n  2. **一个中型项目**：一个“艺术助手”。当你画画时，它在后台帮你整理图层、自动根据你的草图搜索素材并拖进画布。\n  3. **一个艺术/游戏/叙事方向**：一个“幽灵用户”。在你的电脑闲置时，Agent 模拟人类操作进行“创作”或“整理”，你回来时会发现桌面变了样。\n- 对我项目的启发：思考“自动化系统”如何从 API 调用转向视觉操作。\n- 今天是否值得深入研究：否（基础设施较重，除非你现在就要做 GUI 自动化）。\n- 建议行动：忽略（先关注更轻量的逻辑实现）。\n\n## 5. rlm: 递归语言模型推理库\n- 来源：GitHub Trending\n- 链接：[https://github.com/alexzhang13/rlm](https://github.com/alexzhang13/rlm)\n- 一句话解释：让语言模型通过“递归”的方式自我推理和修正，支持各种沙盒环境。\n- 它为什么重要：递归是解决复杂生成问题的利器。它能让 LLM 不断深挖一个概念，直到达到某种“终止条件”。\n- 技术趋势标签：#RecursiveAI #GenerativeSystems\n- 可复用模式：**自我提纯（Refinement Loop）**。\n- 疯狂发明家灵感：\n  1. **一个小实验**：给 AI 一个极其模糊的艺术命题，让它递归 5 次，每次都要求“比上一次更疯狂、更具体”。\n  2. **一个中型项目**：一个“无限世界生成器”。从一个词开始（如“森林”），递归生成地形、植物、动物、文化，直到形成一个完整的 Minecraft 世界规格说明。\n  3. **一个艺术/游戏/叙事方向**：一个“梦中梦”叙事 Agent。每一层递归代表一个更深层的梦境，每一层都有不同的逻辑规则。\n- 对我项目的启发：在生成复杂系统（如游戏关卡）时，利用递归来确保逻辑的严密性。\n- 今天是否值得深入研究：是\n- 建议行动：试用（写一段递归 Prompt 看看效果）。\n\n---\n\n## 今日模式总结\n1. **生物化趋势**：AI 正在从“静态数据库”转向“生物化认知”（如遗忘曲线），这为 HCI 提供了更自然的情感链接。\n2. **文档即神经元**：Markdown/Git 正在取代复杂的数据库，成为 Agent 最可靠、最易于人类干预的知识载体。\n3. **空间化理解**：通过 Graph 和视觉映射，代码和知识正在从“文本行”变成“可探索的空间”。\n\n---\n\n## 今日可做小实验：【遗忘日记】\n- **项目名**：Ebbinghaus Daily (艾宾浩斯日记 Agent)\n- **输入**：你今天的一段随笔或一段代码思路。\n- **输出**：一个会自动随时间“褪色”的网页或 Markdown 文件。\n- **技术栈**：Python + OpenAI API + Markdown。\n- **第一步怎么做**：\n  1. 创建一个 JSON，存储你的文本和 `timestamp`。\n  2. 写一个简单的公式：`visibility = 1 / (1 + log(now - timestamp))`。\n  3. 调用 LLM，要求它：“根据 visibility 的数值（0-1），如果数值较低，请用模糊的词汇替换原句中的关键词；如果数值极低，请完全删除该段落。”\n  4. 运行脚本，看看你的记忆是如何在 2 小时模拟中逐渐“风化”的。\n\n希望这些灵感能让你兴奋起来！有什么想深入聊的吗？加油，疯狂发明家。",
+  "gemini_success": true,
+  "telegram_sent": true,
+  "telegram_status": "sent",
+  "telegram_reason": ""
+}

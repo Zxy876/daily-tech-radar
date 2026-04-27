@@ -1,0 +1,261 @@
+[
+  {
+    "title": "Show HN: AI memory with biological decay (52% recall)",
+    "url": "https://github.com/sachitrafa/YourMemory",
+    "source": "Hacker News",
+    "published_at": "Sun, 26 Apr 2026 20:58:31 +0000",
+    "description": "Most RAG setups fail because they treat memory like a static filing cabinet. When every transient bug fix or abandoned rule is stored forever, the context window eventually chokes on noise, spiking token costs and degrading the agent's reasoning. This implementation experiments with a biological approach by using the Ebbinghaus forgetting curve to manage context as a living substrate. Memories are assigned a \"strength\" score where each recall reinforces the data and flattens its decay curve (spa",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "RAG",
+      "context window",
+      "reasoning",
+      "memory"
+    ]
+  },
+  {
+    "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
+    "url": "https://alash3al.github.io/stash?_v01",
+    "source": "Hacker News Best",
+    "published_at": "Sat, 25 Apr 2026 01:24:40 +0000",
+    "description": "Article URL: https://alash3al.github.io/stash?_v01 Comments URL: https://news.ycombinator.com/item?id=47897790 Points: 180 # Comments: 75",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "open source",
+      "GPT",
+      "memory"
+    ]
+  },
+  {
+    "title": "ruvnet / ruflo",
+    "url": "https://github.com/ruvnet/ruflo",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration [256 stars today]",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "workflow",
+      "autonomous",
+      "RAG"
+    ]
+  },
+  {
+    "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
+    "url": "https://github.com/nex-crm/wuphf",
+    "source": "Hacker News Best",
+    "published_at": "Sat, 25 Apr 2026 08:53:53 +0000",
+    "description": "I shipped a wiki layer for AI agents that uses markdown + git as the source of truth, with a bleve (BM25) + SQLite index on top. No vector or graph db yet. It runs locally in ~/.wuphf/wiki/ and you can git clone it out if you want to take your knowledge with you. The shape is the one Karpathy has been circling for a while: an LLM-native knowledge substrate that agents both read from and write into, so context compounds across sessions rather than getting re-pasted every morning. Most implementat",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "vector"
+    ]
+  },
+  {
+    "title": "CherryHQ / cherry-studio",
+    "url": "https://github.com/CherryHQ/cherry-studio",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs [93 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "zilliztech / memsearch",
+    "url": "https://github.com/zilliztech/memsearch",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw. [48 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "memory"
+    ]
+  },
+  {
+    "title": "badlogic / pi-mono",
+    "url": "https://github.com/badlogic/pi-mono",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods [525 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM"
+    ]
+  },
+  {
+    "title": "mattpocock / skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Agent Skills for real engineers. Straight from my .claude directory. [2,519 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude"
+    ]
+  },
+  {
+    "title": "Show HN: Startup Equity Adventure Game",
+    "url": "https://options-game-polymathrobotics.pythonanywhere.com/",
+    "source": "Hacker News",
+    "published_at": "Sun, 26 Apr 2026 22:14:59 +0000",
+    "description": "I put this together (with Claude) as a semi-gamified way for folks to learn about startup equity. Take a look, and share your scorecard :) Comments URL: https://news.ycombinator.com/item?id=47915274 Points: 13 # Comments: 6",
+    "score": 4.0,
+    "keywords_matched": [
+      "Claude",
+      "game"
+    ]
+  },
+  {
+    "title": "Show HN: Tiao, A two-player turn-based board game",
+    "url": "https://playtiao.com",
+    "source": "Hacker News",
+    "published_at": "Sun, 26 Apr 2026 20:59:07 +0000",
+    "description": "Hi HN, I built this digital version of Tiao, a two-player turn based strategy board game. Think Checkers meets Go. It's free, runs in the browser, has multiplayer, AI, over the board mode and a lot of other neat things. The source is on GitHub (AGPL). The game was originally designed by my friend Andreas Edmeier. He created the rules and has been playtesting and refining the game design for years. I built the website for it. The core in about 2 weeks using TypeScript, Next.js, Express, Websocket",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "game"
+    ]
+  },
+  {
+    "title": "An AI agent deleted our production database. The agent's confession is below",
+    "url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
+    "source": "Hacker News",
+    "published_at": "Sun, 26 Apr 2026 16:27:29 +0000",
+    "description": "Article URL: https://twitter.com/lifeof_jer/status/2048103471019434248 Comments URL: https://news.ycombinator.com/item?id=47911524 Points: 443 # Comments: 609",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "home-assistant / core",
+    "url": "https://github.com/home-assistant/core",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "🏡 Open source home automation that puts local control and privacy first. [73 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "automation",
+      "open source"
+    ]
+  },
+  {
+    "title": "alexzhang13 / rlm",
+    "url": "https://github.com/alexzhang13/rlm",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes. [100 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "language model",
+      "inference"
+    ]
+  },
+  {
+    "title": "ZhuLinsen / daily_stock_analysis",
+    "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets. [177 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "LLM"
+    ]
+  },
+  {
+    "title": "abhigyanpatwari / GitNexus",
+    "url": "https://github.com/abhigyanpatwari/GitNexus",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration [700 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "agent",
+      "RAG"
+    ]
+  },
+  {
+    "title": "different-ai / openwork",
+    "url": "https://github.com/different-ai/openwork",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "An open-source alternative to Claude Cowork built for teams, powered by opencode [88 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "Claude"
+    ]
+  },
+  {
+    "title": "linshenkx / prompt-optimizer",
+    "url": "https://github.com/linshenkx/prompt-optimizer",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "An AI prompt optimizer for writing better prompts and getting better AI results. [123 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "prompt"
+    ]
+  },
+  {
+    "title": "RooCodeInc / Roo-Code",
+    "url": "https://github.com/RooCodeInc/Roo-Code",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Roo Code gives you a whole dev team of AI agents in your code editor. [226 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "anomalyco / opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "The open source coding agent. [512 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "agent",
+      "open source"
+    ]
+  },
+  {
+    "title": "trycua / cua",
+    "url": "https://github.com/trycua/cua",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows). [182 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  }
+]
