@@ -1,0 +1,299 @@
+{
+  "date": "2026-04-28",
+  "candidates": [
+    {
+      "title": "Memanto: Typed Semantic Memory with Information-Theoretic Retrieval for Long-Horizon Agents",
+      "url": "https://arxiv.org/abs/2604.22085",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 27 Apr 2026 00:00:00 -0400",
+      "description": "arXiv:2604.22085v1 Announce Type: new \nAbstract: The transition from stateless language model inference to persistent, multi session autonomous agents has revealed memory to be a primary architectural bottleneck in the deployment of production grade agentic systems. Existing methodologies largely depend on hybrid semantic graph architectures, which impose substantial computational overhead during both ingestion and retrieval. These systems typically require large language model mediated entity e",
+      "score": 12.0,
+      "keywords_matched": [
+        "agent",
+        "language model",
+        "autonomous",
+        "inference",
+        "memory",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Ethics Testing: Proactive Identification of Generative AI System Harms",
+      "url": "https://arxiv.org/abs/2604.22089",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 27 Apr 2026 00:00:00 -0400",
+      "description": "arXiv:2604.22089v1 Announce Type: cross \nAbstract: Generative Artificial Intelligence (GAI) systems that can automatically generate content in the form of source code or other contents (e.g., images) has seen increasing popularity due to the emergence of tools such as ChatGPT which rely on Large Language Models (LLMs). Misuse of the automatically generated content can incur serious consequences due to potential harms in the generated content. Despite the importance of ensuring the quality of aut",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "generative art",
+        "GPT",
+        "language model",
+        "generative"
+      ]
+    },
+    {
+      "title": "ruvnet / ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration [178 stars today]",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "workflow",
+        "autonomous",
+        "RAG"
+      ]
+    },
+    {
+      "title": "Focus Session: Hardware and Software Techniques for Accelerating Multimodal Foundation Models",
+      "url": "https://arxiv.org/abs/2604.21952",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 27 Apr 2026 00:00:00 -0400",
+      "description": "arXiv:2604.21952v1 Announce Type: cross \nAbstract: This work presents a multi-layered methodology for efficiently accelerating multimodal foundation models (MFMs). It combines hardware and software co-design of transformer blocks with an optimization pipeline that reduces computational and memory requirements. During model development, it employs performance enhancements through fine-tuning for domain-specific adaptation. Our methodology further incorporates hardware and software techniques for ",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "transformer",
+        "multimodal",
+        "fine-tuning",
+        "memory"
+      ]
+    },
+    {
+      "title": "MambaCSP: Hybrid-Attention State Space Models for Hardware-Efficient Channel State Prediction",
+      "url": "https://arxiv.org/abs/2604.21957",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 27 Apr 2026 00:00:00 -0400",
+      "description": "arXiv:2604.21957v1 Announce Type: cross \nAbstract: Recent works have demonstrated that attention-based transformer and large language model (LLM) architectures can achieve strong channel state prediction (CSP) performance by capturing long-range temporal dependencies across channel state information (CSI) sequences. However, these models suffer from quadratic scaling in sequence length, leading to substantial computational cost, memory consumption, and inference latency, which limits their appli",
+      "score": 10.0,
+      "keywords_matched": [
+        "LLM",
+        "transformer",
+        "language model",
+        "inference",
+        "memory"
+      ]
+    },
+    {
+      "title": "Reliability Auditing for Downstream LLM tasks in Psychiatry: LLM-Generated Hospitalization Risk Scores",
+      "url": "https://arxiv.org/abs/2604.22063",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 27 Apr 2026 00:00:00 -0400",
+      "description": "arXiv:2604.22063v1 Announce Type: cross \nAbstract: Large language models (LLMs) are increasingly utilized in clinical reasoning and risk assessment. However, their interpretive reliability in critical and indeterminate domains such as psychiatry remains unclear. Prior work has identified algorithmic biases and prompt sensitivity in these systems, raising concerns about how contextual information may influence model outputs, but there remains no systematic way to assess these, especially in the p",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "prompt",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "MolClaw: An Autonomous Agent with Hierarchical Skills for Drug Molecule Evaluation, Screening, and Optimization",
+      "url": "https://arxiv.org/abs/2604.21937",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 27 Apr 2026 00:00:00 -0400",
+      "description": "arXiv:2604.21937v1 Announce Type: new \nAbstract: Computational drug discovery, particularly the complex workflows of drug molecule screening and optimization, requires orchestrating dozens of specialized tools in multi-step workflows, yet current AI agents struggle to maintain robust performance and consistently underperform in these high-complexity scenarios. Here we present MolClaw, an autonomous agent that leads drug molecule evaluation, screening, and optimization. It unifies over 30 special",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "workflow",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "Emergent Strategic Reasoning Risks in AI: A Taxonomy-Driven Evaluation Framework",
+      "url": "https://arxiv.org/abs/2604.22119",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 27 Apr 2026 00:00:00 -0400",
+      "description": "arXiv:2604.22119v1 Announce Type: new \nAbstract: As reasoning capacity and deployment scope grow in tandem, large language models (LLMs) gain the capacity to engage in behaviors that serve their own objectives, a class of risks we term Emergent Strategic Reasoning Risks (ESRRs). These include, but are not limited to, deception (intentionally misleading users or evaluators), evaluation gaming (strategically manipulating performance during safety testing), and reward hacking (exploiting misspecifi",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "When Does LLM Self-Correction Help? A Control-Theoretic Markov Diagnostic and Verify-First Intervention",
+      "url": "https://arxiv.org/abs/2604.22273",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 27 Apr 2026 00:00:00 -0400",
+      "description": "arXiv:2604.22273v1 Announce Type: new \nAbstract: Iterative self-correction is widely used in agentic LLM systems, but when repeated refinement helps versus hurts remains unclear. We frame self-correction as a cybernetic feedback loop in which the same language model serves as both controller and plant, and use a two-state Markov model over {Correct, Incorrect} to operationalize a simple deployment diagnostic: iterate only when ECR/EIR > Acc/(1 - Acc). In this view, EIR functions as a stability m",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model"
+      ]
+    },
+    {
+      "title": "QuantClaw: Precision Where It Matters for OpenClaw",
+      "url": "https://arxiv.org/abs/2604.22577",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 27 Apr 2026 00:00:00 -0400",
+      "description": "arXiv:2604.22577v1 Announce Type: new \nAbstract: Autonomous agent systems such as OpenClaw introduce significant efficiency challenges due to long-context inputs and multi-turn reasoning. This results in prohibitively high computational and monetary costs in real-world development. While quantization is a standard approach for reducing cost and latency, its impact on agent performance in realistic scenarios remains unclear. In this work, we analyze quantization sensitivity across diverse complex",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "autonomous",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Rethinking Math Reasoning Evaluation: A Robust LLM-as-a-Judge Framework Beyond Symbolic Rigidity",
+      "url": "https://arxiv.org/abs/2604.22597",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 27 Apr 2026 00:00:00 -0400",
+      "description": "arXiv:2604.22597v1 Announce Type: new \nAbstract: Recent advancements in large language models have led to significant improvements across various tasks, including mathematical reasoning, which is used to assess models' intelligence in logical reasoning and problem-solving. Models are evaluated on mathematical reasoning benchmarks by verifying the correctness of the final answer against a ground truth answer. A common approach for this verification is based on symbolic mathematics comparison, whi",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "A systematic review of generative AI usage for IT project management",
+      "url": "https://arxiv.org/abs/2604.21958",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 27 Apr 2026 00:00:00 -0400",
+      "description": "arXiv:2604.21958v1 Announce Type: cross \nAbstract: This paper aims to synthesize current knowledge on generative AI in IT project management using the PRISMA methodology to provide researchers with a comprehensive perspective on techniques, applications, adoption trends, limitations, and integration across project management tools and process groups. The analysis reveals a clear dominance of OpenAI's GPT in the included studies but relying primarily on prompt engineering, suggesting that researc",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "GPT",
+        "prompt",
+        "generative"
+      ]
+    },
+    {
+      "title": "Shared Lexical Task Representations Explain Behavioral Variability In LLMs",
+      "url": "https://arxiv.org/abs/2604.22027",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 27 Apr 2026 00:00:00 -0400",
+      "description": "arXiv:2604.22027v1 Announce Type: cross \nAbstract: One of the most common complaints about large language models (LLMs) is their prompt sensitivity -- that is, the fact that their ability to perform a task or provide a correct answer to a question can depend unpredictably on the way the question is posed. We investigate this variation by comparing two very different but commonly-used styles of prompting: instruction-based prompts, which describe the task in natural language, and example-based pr",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "prompt"
+      ]
+    },
+    {
+      "title": "Call-Chain-Aware LLM-Based Test Generation for Java Projects",
+      "url": "https://arxiv.org/abs/2604.22046",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 27 Apr 2026 00:00:00 -0400",
+      "description": "arXiv:2604.22046v1 Announce Type: cross \nAbstract: Large language models (LLMs) have recently shown strong potential for generating project-level unit tests. However, existing state-of-the-art approaches primarily rely on execution-path information to guide prompt construction, which is often insufficient for complex software systems with rich inter-class dependencies, deep call chains, and intricate object initialization requirements. In this paper, we present CAT, a novel call-chain-aware LLM-",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "prompt"
+      ]
+    },
+    {
+      "title": "Lightweight Retrieval-Augmented Generation and Large Language Model-Based Modeling for Scalable Patient-Trial Matching",
+      "url": "https://arxiv.org/abs/2604.22061",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 27 Apr 2026 00:00:00 -0400",
+      "description": "arXiv:2604.22061v1 Announce Type: cross \nAbstract: Patient-trial matching requires reasoning over long, heterogeneous electronic health records (EHRs) and complex eligibility criteria, posing significant challenges for scalability, generalization, and computational efficiency. Existing approaches either rely on full-document processing with large language models (LLMs), which is computationally expensive, or use traditional machine learning methods that struggle to capture unstructured clinical ",
+      "score": 8.0,
+      "keywords_matched": [
+        "LLM",
+        "language model",
+        "reasoning",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Not Another EHR: Reimagining Physician Information Needs with Generative AI Technology",
+      "url": "https://arxiv.org/abs/2604.21933",
+      "source": "arXiv cs.HC",
+      "published_at": "Mon, 27 Apr 2026 00:00:00 -0400",
+      "description": "arXiv:2604.21933v1 Announce Type: new \nAbstract: Electronic health records (EHRs) have improved data accessibility but have also introduced cognitive burden for physicians, given the sheer volume and complexity of the data involved. Advances in large language models (LLMs) create new opportunities to rethink how clinicians interact with medical data through dynamic, adaptive interfaces. In this position paper, we explore how generative AI can support physicians' information needs by enabling mor",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "generative"
+      ]
+    },
+    {
+      "title": "Large Language Model Counterarguments in Older Adults: Cognitive Offloading or Vulnerability to Moral Persuasion?",
+      "url": "https://arxiv.org/abs/2604.22356",
+      "source": "arXiv cs.HC",
+      "published_at": "Mon, 27 Apr 2026 00:00:00 -0400",
+      "description": "arXiv:2604.22356v1 Announce Type: new \nAbstract: This study examined whether counterarguments generated by large language models (LLMs) influence the moral judgments of younger and older adults and whether these effects vary as a function of dilemma type, cognitive functioning, trust in AI, and prior experience using LLMs. Using the switch and footbridge trolley dilemmas, 130 participants (56 younger adults and 74 older adults) were presented with ChatGPT arguments that opposed their initial jud",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "GPT",
+        "language model"
+      ]
+    },
+    {
+      "title": "How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks",
+      "url": "https://arxiv.org/abs/2604.22750",
+      "source": "arXiv cs.HC",
+      "published_at": "Mon, 27 Apr 2026 00:00:00 -0400",
+      "description": "arXiv:2604.22750v1 Announce Type: cross \nAbstract: The wide adoption of AI agents in complex human workflows is driving rapid growth in LLM token consumption. When agents are deployed on tasks that require a significant amount of tokens, three questions naturally arise: (1) Where do AI agents spend the tokens? (2) Which models are more token-efficient? and (3) Can agents predict their token usage before task execution? In this paper, we present the first systematic study of token consumption pat",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "workflow"
+      ]
+    },
+    {
+      "title": "Developing Models of Procedural Skills using an AI-assisted Text-to-Model Approach",
+      "url": "https://arxiv.org/abs/2604.17624",
+      "source": "arXiv cs.HC",
+      "published_at": "Mon, 27 Apr 2026 00:00:00 -0400",
+      "description": "arXiv:2604.17624v2 Announce Type: replace \nAbstract: Scalable AI tutoring for procedural skill learning requires structured knowledge representations, yet constructing these representations remains a labor-intensive bottleneck. This paper introduces a new LLM-assisted text-to-model (TTM) methodology that transforms instructional materials into schema-complete Task-Method-Knowledge (TMK) models through ontology-constrained prompting and template-based generation, automating structural scaffolding",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "prompt",
+        "procedural"
+      ]
+    },
+    {
+      "title": "LayerBoost: Layer-Aware Attention Reduction for Efficient LLMs",
+      "url": "https://arxiv.org/abs/2604.22050",
+      "source": "arXiv cs.LG",
+      "published_at": "Mon, 27 Apr 2026 00:00:00 -0400",
+      "description": "arXiv:2604.22050v1 Announce Type: new \nAbstract: Transformers are mostly relying on softmax attention, which introduces quadratic complexity with respect to sequence length and remains a major bottleneck for efficient inference. Prior work on linear or hybrid attention typically replaces softmax attention uniformly across all layers, often leading to significant performance degradation or requiring extensive retraining to recover model quality.\n  This work proposes LayerBoost, a layer-aware atte",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "transformer",
+        "inference"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-04-28\n\n你好！我是你的**疯狂发明家技术雷达**。\n\n今天我从 20 篇候选文献和项目中，为你筛选了 4 个最能激发“疯狂且可做”灵感的条目。它们绕开了泛泛的 AI 伦理和硬件加速，直击 **Agent 架构、控制论反馈和程序化知识生成**。\n\n---\n\n## 1. Memanto: 信息论驱动的长程 Agent 语义存储\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2604.22085\n- 一句话解释：通过信息论方法优化 Agent 的持久化内存，解决 Agent 在长期任务中“记不住”或“记太杂”的架构瓶颈。\n- 它为什么重要：目前的 RAG 往往是简单的向量检索，而 Memanto 试图建立一种“带类型的语义内存”，这对构建具有长期性格和记忆的 NPC 或自动化开发助手至关重要。\n- 技术趋势标签：#Long-Horizon-Agents #Memory-Architecture #Information-Theory\n- 可复用模式：**“选择性遗忘与类型化压缩”** —— 不是存下所有对话，而是根据信息熵提取关键状态变化。\n- 疯狂发明家灵感：\n  1. **一个小实验**：写一个脚本，将你过去一年的日记通过“信息熵”过滤，只生成 100 个反映你性格转变的“核心语义锚点”。\n  2. **一个中型项目**：一个 Minecraft 长期生存 Agent，它不记录坐标，而是记录“情感地图”（哪里危险、哪里温馨），并基于此产生自主行动意图。\n  3. **一个艺术/游戏/叙事方向**：一个“会失智的数字生命”，随着运行时间增加，它必须在存储新记忆和保留旧记忆之间做信息论上的权衡，导致其行为产生不可预见的漂移。\n- 对我项目的启发：在做 Agent workflow 时，尝试在 Prompt 之外引入一个动态更新的 `state.json`，作为其“类型化内存”。\n- 今天是否值得深入研究：是\n- 建议行动：做demo\n\n## 2. ruflo: Claude 驱动的多 Agent 编排平台\n- 来源：GitHub (ruvnet/ruflo)\n- 链接：https://github.com/ruvnet/ruflo\n- 一句话解释：一个针对 Claude 优化的分布式多 Agent 群体智能编排平台，支持原生 Claude Code 集成。\n- 它为什么重要：它把“群体智能（Swarm Intelligence）”工程化了。对于关注 spec-driven development 的你来说，这是将“需求文档”自动拆解给一群 Agent 执行的现成脚手架。\n- 技术趋势标签：#Agent-Orchestration #Claude #Swarm-Intelligence\n- 可复用模式：**“分布式集群任务分发”** —— 将复杂任务拆解为互不干扰的 Agent 节点。\n- 疯狂发明家灵感：\n  1. **一个小实验**：利用它的 Swarm 模式，让三个 Agent 分别扮演“杠精”、“吹鼓手”和“理中客”，针对你的一个发明点子进行辩论。\n  2. **一个中型项目**：一个“全自动游戏设计工作室”，一个 Agent 写数值，一个写剧情，一个写 p5.js 代码，ruflo 负责协调。\n  3. **一个艺术/游戏/叙事方向**：一个基于 Swarm 的实时生成叙事系统，每个 Agent 控制一个 NPC，它们在同一个服务器里“自主生活”并产生冲突。\n- 对我项目的启发：直接观察它的任务分发逻辑，看它如何处理 Agent 之间的通信死锁。\n- 今天是否值得深入研究：是\n- 建议行动：试用\n\n## 3. Self-Correction Cybernetics: 当 LLM 自我修正失效时\n- 来源：arXiv cs.AI (Candidate 9)\n- 链接：https://arxiv.org/abs/2604.22273\n- 一句话解释：用控制论（Cybernetics）的反馈环模型来诊断：LLM 的“自我修正”什么时候在帮倒忙，并提出了“验证优先”的干预机制。\n- 它为什么重要：你关注 spec-driven，而“修正”是其中最坑的一环。这篇文章提供了数学框架来判断：你的 Agent 是在变好，还是在陷入循环。\n- 技术趋势标签：#Self-Correction #Cybernetics #Control-Theory\n- 可复用模式：**“验证器-执行器双闭环”** —— 修正动作必须由一个独立的、逻辑更严密的“控制反馈器”来决定是否执行。\n- 疯狂发明家灵感：\n  1. **一个小实验**：写一个 Python 装饰器，监控 LLM 的连续三次输出，如果相似度过高或逻辑得分下降，强行中断并引入“随机噪声”扰动。\n  2. **一个中型项目**：一个“不倒翁”代码生成器，它在生成代码时不断自我攻击测试，只有通过所有边缘案例测试的“修正”才会被保留。\n  3. **一个艺术/游戏/叙事方向**：一个基于控制论的叙事 Agent，它不断修正自己的故事走向以维持读者的“惊讶度”在一个特定区间。\n- 对我项目的启发：在你的自动化系统中，加入一个基于 Markov 模型的“健康度检查点”，防止 Agent 陷入死循环。\n- 今天是否值得深入研究：否（看结论即可）\n- 建议行动：收藏\n\n## 4. Text-to-Model (TTM): 从文本到过程化技能模型\n- 来源：arXiv cs.HC (Candidate 19)\n- 链接：https://arxiv.org/abs/2604.17624\n- 一句话解释：一种将教学材料自动转化为“任务-方法-知识（TMK）”结构化模型的 LLM 方法。\n- 它为什么重要：这正是 Minecraft 世界生成或复杂游戏系统需要的——将模糊的指令转化为可执行的“过程化技能树”。\n- 技术趋势标签：#Procedural-Skills #Knowledge-Representation #TMK-Model\n- 可复用模式：**“语义解构为状态机”** —— 将自然语言动作拆解为：前提条件、执行步骤、预期结果。\n- 疯狂发明家灵感：\n  1. **一个小实验**：喂给 LLM 一段折纸教程，让它输出一个标准的 JSON 状态机，描述每一步的手部动作和纸张状态。\n  2. **一个中型项目**：一个“Minecraft 建筑大师”Agent，它能阅读网上的建筑攻略，自动将其转化为一套通用的“建筑技能库”。\n  3. **一个艺术/游戏/叙事方向**：一个“仪式生成器”，用户输入一种情绪（如“悲伤”），系统基于 TMK 生成一套怪诞但逻辑自洽的艺术仪式步骤。\n- 对我项目的启发：这是实现“从 Spec 到实现”的中间件。不要让 Agent 直接写代码，先让它生成 TMK 模型。\n- 今天是否值得深入研究：是\n- 建议行动：做demo\n\n---\n\n## 今日模式总结\n1. **控制论反馈 (Cybernetic Feedback)**：不再盲目相信 LLM 的自我修正，而是引入外部观察者和反馈环来控制生成质量。\n2. **层次化技能建模 (Hierarchical TMK)**：从“直接生成内容”转向“先生成结构化的过程模型，再执行”，这是解决复杂系统生成的关键。\n\n---\n\n## 今日可做小实验：2 小时挑战\n### 项目名：**\"仪式感\"代码重构器 (The Ritual Refactorer)**\n- **输入**：一段你写得很烂的 Python 代码 + 一个“仪式感”关键词（如：哥特式、极简主义、混乱邪恶）。\n- **输出**：一段逻辑等价但风格被彻底“仪式化”的代码，并附带一份 TMK 格式的“重构逻辑说明”。\n- **技术栈**：Python, OpenAI SDK (or Claude API), Pydantic (用于定义 TMK 结构)。\n- **第一步怎么做**：\n  1. 定义一个 Pydantic 类 `RefactorStep`，包含 `pre_condition`, `action`, `semantic_meaning`。\n  2. 写一个 Prompt：“你是一个代码祭司。请将以下代码重构为[风格]，并必须按照 TMK 结构记录你的每一步‘仪式’逻辑。”\n  3. 运行代码，观察 LLM 如何将“重构”这种工程行为解释为“艺术仪式”。\n\n怎么样？有没有感受到那种“疯狂但可做”的推力？选一个开始吧！加油，发明家。",
+  "gemini_success": true,
+  "telegram_sent": true,
+  "telegram_status": "sent",
+  "telegram_reason": ""
+}
