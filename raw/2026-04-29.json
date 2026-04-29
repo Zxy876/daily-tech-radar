@@ -1,0 +1,300 @@
+[
+  {
+    "title": "FormalScience: Scalable Human-in-the-Loop Autoformalisation of Science with Agentic Code Generation in Lean",
+    "url": "https://arxiv.org/abs/2604.23002",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 28 Apr 2026 00:00:00 -0400",
+    "description": "arXiv:2604.23002v1 Announce Type: new \nAbstract: Formalising informal mathematical reasoning into formally verifiable code is a significant challenge for large language models. In scientific fields such as physics, domain-specific machinery (\\textit{e.g.} Dirac notation, vector calculus) imposes additional formalisation challenges that modern LLMs and agentic approaches have yet to tackle. To aid autoformalisation in scientific domains, we present FormalScience; a domain-agnostic human-in-the-lo",
+    "score": 14.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "code generation",
+      "vector",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "A Systematic Approach for Large Language Models Debugging",
+    "url": "https://arxiv.org/abs/2604.23027",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 28 Apr 2026 00:00:00 -0400",
+    "description": "arXiv:2604.23027v1 Announce Type: new \nAbstract: Large language models (LLMs) have become central to modern AI workflows, powering applications from open-ended text generation to complex agent-based reasoning. However, debugging these models remains a persistent challenge due to their opaque and probabilistic nature and the difficulty of diagnosing errors across diverse tasks and settings. This paper introduces a systematic approach for LLM debugging that treats models as observable systems, pro",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Thinking Like a Clinician: A Cognitive AI Agent for Clinical Diagnosis via Panoramic Profiling and Adversarial Debate",
+    "url": "https://arxiv.org/abs/2604.23605",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 28 Apr 2026 00:00:00 -0400",
+    "description": "arXiv:2604.23605v1 Announce Type: new \nAbstract: The application of large language models (LLMs) in clinical decision support faces significant challenges of \"tunnel vision\" and diagnostic hallucinations present in their processing unstructured electronic health records (EHRs). To address these challenges, we propose a novel chain-based clinical reasoning framework, called DxChain, which transforms the diagnostic workflow into an iterative process by mirroring a clinician's cognitive trajectory ",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Don't Make the LLM Read the Graph: Make the Graph Think",
+    "url": "https://arxiv.org/abs/2604.23057",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 28 Apr 2026 00:00:00 -0400",
+    "description": "arXiv:2604.23057v1 Announce Type: new \nAbstract: We investigate whether explicit belief graphs improve LLM performance in cooperative multi-agent reasoning. Through 3,000+ controlled trials across four LLM families in the cooperative card game Hanabi, we establish four findings. First, integration architecture determines whether belief graphs provide value: as prompt context, graphs are decorative for strong models and beneficial only for weak models on 2nd-order Theory of Mind (80% vs 10%, p<0.",
+    "score": 10.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "game",
+      "prompt",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "From Coarse to Fine: Self-Adaptive Hierarchical Planning for LLM Agents",
+    "url": "https://arxiv.org/abs/2604.23194",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 28 Apr 2026 00:00:00 -0400",
+    "description": "arXiv:2604.23194v1 Announce Type: new \nAbstract: Large language model-based agents have recently emerged as powerful approaches for solving dynamic and multi-step tasks. Most existing agents employ planning mechanisms to guide long-term actions in dynamic environments. However, current planning approaches face a fundamental limitation that they operate at a fixed granularity level. Specifically, they either provide excessive detail for simple tasks or insufficient detail for complex ones, failin",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "planning"
+    ]
+  },
+  {
+    "title": "Discovering Agentic Safety Specifications from 1-Bit Danger Signals",
+    "url": "https://arxiv.org/abs/2604.23210",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 28 Apr 2026 00:00:00 -0400",
+    "description": "arXiv:2604.23210v1 Announce Type: new \nAbstract: Can large language model agents discover hidden safety objectives through experience alone? We introduce EPO-Safe (Experiential Prompt Optimization for Safe Agents), a framework where an LLM iteratively generates action plans, receives sparse binary danger warnings, and evolves a natural language behavioral specification through reflection. Unlike standard LLM reflection methods that rely on rich textual feedback (e.g., compiler errors or detailed",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "prompt"
+    ]
+  },
+  {
+    "title": "CAP-CoT: Cycle Adversarial Prompt for Improving Chain of Thoughts in LLM Reasoning",
+    "url": "https://arxiv.org/abs/2604.23270",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 28 Apr 2026 00:00:00 -0400",
+    "description": "arXiv:2604.23270v1 Announce Type: new \nAbstract: Chain-of-Thought (CoT) prompting has emerged as a simple and effective way to elicit step-by-step solutions from large language models (LLMs). However, CoT reasoning can be unstable across runs on long, multi-step problems, leading to inconsistent answers for unchanged task. Most prior work focuses on improving the forward reasoning chain within a single pass, with less attention to iterative and contrastive correction. To address this gap, we pro",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "prompt",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "GSAR: Typed Grounding for Hallucination Detection and Recovery in Multi-Agent LLMs",
+    "url": "https://arxiv.org/abs/2604.23366",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 28 Apr 2026 00:00:00 -0400",
+    "description": "arXiv:2604.23366v1 Announce Type: new \nAbstract: Autonomous multi-agent LLM systems are increasingly deployed to investigate operational incidents and produce structured diagnostic reports. Their trustworthiness hinges on whether each claim is grounded in observed evidence rather than model-internal inference. Existing groundedness evaluators (binary classifiers, LLM-as-judge scalars, self-correction loops) treat supporting evidence as interchangeable and emit a single signal that offers no prin",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "autonomous",
+      "inference"
+    ]
+  },
+  {
+    "title": "When Corrective Hints Hurt: Prompt Design in Reasoner-Guided Repair of LLM Overcaution on Entailed Negations under OWL~2~DL",
+    "url": "https://arxiv.org/abs/2604.23398",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 28 Apr 2026 00:00:00 -0400",
+    "description": "arXiv:2604.23398v1 Announce Type: new \nAbstract: We report a reproducible error pattern in GPT-5.4 on OWL~2~DL compliance queries: the model frequently answers ``unknown'' when the reasoner-entailed answer is ``no'' under \\emph{FunctionalProperty} closure or class \\emph{disjointness}. Using 180 reasoner-audited queries from a procedural expansion of the observed pattern plus 18 hand-authored held-out queries in two unrelated domains (insurance and clinical), we compare four interaction modes und",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "GPT",
+      "prompt",
+      "procedural"
+    ]
+  },
+  {
+    "title": "Ulterior Motives: Detecting Misaligned Reasoning in Continuous Thought Models",
+    "url": "https://arxiv.org/abs/2604.23460",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 28 Apr 2026 00:00:00 -0400",
+    "description": "arXiv:2604.23460v1 Announce Type: new \nAbstract: Chain-of-Thought (CoT) reasoning has emerged as a key technique for eliciting complex reasoning in Large Language Models (LLMs). Although interpretable, its dependence on natural language limits the model's expressive bandwidth. Continuous thought models address this bottleneck by reasoning in latent space rather than human-readable tokens. While they enable richer representations and faster inference, they raise a critical safety question: how ca",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "inference",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Cognitive Alignment Deciphered: A Self-Developed Scenario-Based Prompt Scale Coupled with Representational Similarity Analysis and Social Network Analysis for Unraveling Bias Mechanisms Across Humans and LLMs",
+    "url": "https://arxiv.org/abs/2604.22775",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 28 Apr 2026 00:00:00 -0400",
+    "description": "arXiv:2604.22775v1 Announce Type: new \nAbstract: Traditional cognitive bias measurement tools are limited by narrow bias coverage, low ecological validity, and reliance on abstract self reports, constraining scenario based and human AI comparisons. We introduce the context based Cognitive Bias Assessment Scale CBAS, a scenario driven prompt template covering 58 cognitive biases across five hot cold dual system dimensions: Calculation, Belief, Information, Social, and Memory. Psychometric testing",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "RAG",
+      "prompt",
+      "memory"
+    ]
+  },
+  {
+    "title": "PageGuide: Browser extension to assist users in navigating a webpage and locating information",
+    "url": "https://arxiv.org/abs/2604.23772",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 28 Apr 2026 00:00:00 -0400",
+    "description": "arXiv:2604.23772v1 Announce Type: new \nAbstract: Users browsing the web daily struggle to quickly locate relevant information in cluttered pages, complete unfamiliar multi-step tasks, and stay focused amid distracting content. State-of-the-art AI assistants (e.g., ChatGPT, Gemini, Claude) and browser agents (e.g., OpenAI Operator, Browser Use) can answer questions and automate actions, yet they return answers without showing where the information comes from on the page, forcing users to manually",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "Gemini",
+      "GPT"
+    ]
+  },
+  {
+    "title": "Bridging Reasoning and Action: Hybrid LLM-RL Framework for Efficient Cross-Domain Task-Oriented Dialogue",
+    "url": "https://arxiv.org/abs/2604.23345",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 28 Apr 2026 00:00:00 -0400",
+    "description": "arXiv:2604.23345v1 Announce Type: cross \nAbstract: Cross-domain task-oriented dialogue requires reasoning over implicit and explicit feasibility constraints while planning long-horizon, multi-turn actions. Large language models (LLMs) can infer such constraints but are unreliable over long horizons, while Reinforcement learning (RL) optimizes long-horizon behavior yet cannot recover constraints from raw dialogue. Naively coupling LLMs with RL is therefore brittle: unverified or unstructured LLM ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "reasoning",
+      "planning"
+    ]
+  },
+  {
+    "title": "Parameter Efficiency Is Not Memory Efficiency: Rethinking Fine-Tuning for On-Device LLM Adaptation",
+    "url": "https://arxiv.org/abs/2604.22783",
+    "source": "arXiv cs.LG",
+    "published_at": "Tue, 28 Apr 2026 00:00:00 -0400",
+    "description": "arXiv:2604.22783v1 Announce Type: new \nAbstract: Parameter-Efficient Fine-Tuning (PEFT) has become the standard for adapting large language models (LLMs). In this work we challenge the wide-spread assumption that parameter efficiency equates memory efficiency and on-device adaptability. We show that this is not true - while methods like LoRA and IA3 significantly reduce trainable parameters, they remain bound by intermediate tensors that scale linearly with sequence length, often triggering out-",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "fine-tuning",
+      "memory"
+    ]
+  },
+  {
+    "title": "Show HN: Drive any macOS app in the background without stealing the cursor",
+    "url": "https://github.com/trycua/cua",
+    "source": "Hacker News",
+    "published_at": "Tue, 28 Apr 2026 16:03:34 +0000",
+    "description": "Hi HN, Francesco from Cua here.\nI hacked this project together last weekend, inspired by the Codex Computer-Use release and lessons learned from deploying GUI-operating agents for our customers. The main problem: when a UI automation process controls a desktop app today, it usually takes over the human’s session. Your cursor moves, keyboard focus gets stolen, windows jump to the front, and you have to stop working until the agent is done. That is why we have historically avoided encouraging user",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "automation",
+      "RAG"
+    ]
+  },
+  {
+    "title": "An Intelligent Fault Diagnosis Method for General Aviation Aircraft Based on Multi-Fidelity Digital Twin and FMEA Knowledge Enhancement",
+    "url": "https://arxiv.org/abs/2604.22777",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 28 Apr 2026 00:00:00 -0400",
+    "description": "arXiv:2604.22777v1 Announce Type: new \nAbstract: Fault diagnosis of general aviation aircraft faces challenges including scarce real fault data, diverse fault types, and weak fault signatures. This paper proposes an intelligent fault diagnosis framework based on multi-fidelity digital twin, integrating four modules: high-fidelity flight dynamics simulation, FMEA-driven fault injection, multi-fidelity residual feature extraction, and large language model (LLM)-enhanced interpretable report genera",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "simulation",
+      "language model"
+    ]
+  },
+  {
+    "title": "Analytica: Soft Propositional Reasoning for Robust and Scalable LLM-Driven Analysis",
+    "url": "https://arxiv.org/abs/2604.23072",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 28 Apr 2026 00:00:00 -0400",
+    "description": "arXiv:2604.23072v1 Announce Type: new \nAbstract: Large language model (LLM) agents are increasingly tasked with complex real-world analysis (e.g., in financial forecasting, scientific discovery), yet their reasoning suffers from stochastic instability and lacks a verifiable, compositional structure. To address this, we introduce Analytica, a novel agent architecture built on the principle of Soft Propositional Reasoning (SPR). SPR reframes complex analysis as a structured process of estimating t",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Towards Automated Ontology Generation from Unstructured Text: A Multi-Agent LLM Approach",
+    "url": "https://arxiv.org/abs/2604.23090",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 28 Apr 2026 00:00:00 -0400",
+    "description": "arXiv:2604.23090v1 Announce Type: new \nAbstract: Automatically generating formal ontologies from unstructured natural language remains a central challenge in knowledge engineering. While large language models (LLMs) show promise, it remains unclear which architectural design choices drive generation quality and why current approaches fail. We present a controlled experimental study using domain-specific insurance contracts to investigate these questions. We first establish a single-agent LLM bas",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model"
+    ]
+  },
+  {
+    "title": "PhySE: A Psychological Framework for Real-Time AR-LLM Social Engineering Attacks",
+    "url": "https://arxiv.org/abs/2604.23148",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 28 Apr 2026 00:00:00 -0400",
+    "description": "arXiv:2604.23148v1 Announce Type: new \nAbstract: The emerging threat of AR-LLM-based Social Engineering (AR-LLM-SE) attacks (e.g. SEAR) poses a significant risk to real-world social interactions. In such an attack, a malicious actor uses Augmented Reality (AR) glasses to capture a target visual and vocal data. A Large Language Model (LLM) then analyzes this data to identify the individual and generate a detailed social profile. Subsequently, LLM-powered agents employ social engineering strategie",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model"
+    ]
+  },
+  {
+    "title": "StoryTR: Narrative-Centric Video Temporal Retrieval with Theory of Mind Reasoning",
+    "url": "https://arxiv.org/abs/2604.23198",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 28 Apr 2026 00:00:00 -0400",
+    "description": "arXiv:2604.23198v1 Announce Type: new \nAbstract: Current video moment retrieval excels at action-centric tasks but struggles with narrative content. Models can see \\textit{what is happening} but fail to reason \\textit{why it matters}. This semantic gap stems from the lack of \\textbf{Theory of Mind (ToM)}: the cognitive ability to infer implicit intentions, mental states, and narrative causality from surface-level observations. We introduce \\textbf{StoryTR}, the first video moment retrieval bench",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "reasoning",
+      "retrieval",
+      "narrative"
+    ]
+  }
+]
