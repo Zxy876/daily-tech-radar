@@ -1,0 +1,289 @@
+[
+  {
+    "title": "Tree-of-Text: A Tree-based Prompting Framework for Table-to-Text Generation in the Sports Domain",
+    "url": "https://arxiv.org/abs/2604.26501",
+    "source": "arXiv cs.HC",
+    "published_at": "Thu, 30 Apr 2026 00:00:00 -0400",
+    "description": "arXiv:2604.26501v1 Announce Type: cross \nAbstract: Generating sports game reports from structured tables is a complex table-to-text task that demands both precise data interpretation and fluent narrative generation. Traditional model-based approaches require large, annotated datasets, while prompt-based methods using large language models (LLMs) often struggle with hallucination due to weak table comprehension. To overcome these challenges, we propose Tree-of-Text, a tree-structured prompting fr",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "game",
+      "language model",
+      "prompt",
+      "narrative"
+    ]
+  },
+  {
+    "title": "AGEL-Comp: A Neuro-Symbolic Framework for Compositional Generalization in Interactive Agents",
+    "url": "https://arxiv.org/abs/2604.26522",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 30 Apr 2026 00:00:00 -0400",
+    "description": "arXiv:2604.26522v1 Announce Type: new \nAbstract: Large Language Model (LLM)-based agents exhibit systemic failures in compositional generalization, limiting their robustness in interactive environments. This work introduces AGEL-Comp, a neuro-symbolic AI agent architecture designed to address this challenge by grounding actions of the agent. AGEL-Comp integrates three core innovations: (1) a dynamic Causal Program Graph (CPG) as a world model, representing procedural and causal knowledge as a di",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "procedural"
+    ]
+  },
+  {
+    "title": "SciHorizon-DataEVA: An Agentic System for AI-Readiness Evaluation of Heterogeneous Scientific Data",
+    "url": "https://arxiv.org/abs/2604.26645",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 30 Apr 2026 00:00:00 -0400",
+    "description": "arXiv:2604.26645v1 Announce Type: new \nAbstract: AI-for-Science (AI4Science) is increasingly transforming scientific discovery by embedding machine learning models into prediction, simulation, and hypothesis generation workflows across domains. However, the effectiveness of these models is fundamentally constrained by the AI-readiness of scientific data, for which no scalable and systematic evaluation mechanism currently exists. In this work, we propose SciHorizon-DataEVA, a novel agentic system",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow",
+      "simulation",
+      "embedding"
+    ]
+  },
+  {
+    "title": "Vibe Check: Understanding the Effects of LLM-Based Conversational Agents' Personality and Alignment on User Perceptions in Goal-Oriented Tasks",
+    "url": "https://arxiv.org/abs/2509.09870",
+    "source": "arXiv cs.HC",
+    "published_at": "Thu, 30 Apr 2026 00:00:00 -0400",
+    "description": "arXiv:2509.09870v2 Announce Type: replace \nAbstract: Large language models (LLMs) enable conversational agents (CAs) to express distinctive personalities, raising new questions about how such designs shape user perceptions. This study investigates how personality expression levels and user-agent personality alignment influence perceptions in goal-oriented tasks. In a between-subjects experiment (N=150), participants completed travel planning with CAs exhibiting low, medium, or high expression ac",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "planning"
+    ]
+  },
+  {
+    "title": "PageGuide: Browser extension to assist users in navigating a webpage and locating information",
+    "url": "https://arxiv.org/abs/2604.23772",
+    "source": "arXiv cs.HC",
+    "published_at": "Thu, 30 Apr 2026 00:00:00 -0400",
+    "description": "arXiv:2604.23772v2 Announce Type: replace \nAbstract: Users browsing the web daily struggle to quickly locate relevant information in cluttered pages, complete unfamiliar multi-step tasks, and stay focused amid distracting content. State-of-the-art AI assistants (e.g., ChatGPT, Gemini, Claude) and browser agents (e.g., OpenAI Operator, Browser Use) can answer questions and automate actions, yet they return answers without showing where the information comes from on the page, forcing users to manu",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "Gemini",
+      "GPT"
+    ]
+  },
+  {
+    "title": "reward-lens: A Mechanistic Interpretability Library for Reward Models",
+    "url": "https://arxiv.org/abs/2604.26130",
+    "source": "arXiv cs.LG",
+    "published_at": "Thu, 30 Apr 2026 00:00:00 -0400",
+    "description": "arXiv:2604.26130v1 Announce Type: new \nAbstract: Every RLHF-trained language model is shaped by a reward model, yet the mechanistic interpretability toolkit -- logit lens, direct logit attribution, activation patching, sparse autoencoders -- was built for generative LLMs whose primitives all project onto a vocabulary unembedding. Reward models replace that with a scalar regression head, breaking each tool. We present reward-lens, an open-source library that ports this toolkit to reward models, o",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "embedding",
+      "generative"
+    ]
+  },
+  {
+    "title": "PAINT: Partial-Solution Adaptive Interpolated Training for Self-Distilled Reasoners",
+    "url": "https://arxiv.org/abs/2604.26573",
+    "source": "arXiv cs.LG",
+    "published_at": "Thu, 30 Apr 2026 00:00:00 -0400",
+    "description": "arXiv:2604.26573v1 Announce Type: new \nAbstract: Improving large language model (LLM) reasoning requires supervision that is both aligned with the model's own test-time states and informative at the token level. Reinforcement learning with verifiable rewards provides on-policy exploration but offers sparse, high-variance credit; supervised fine-tuning and distillation provide dense targets but often train on fixed trajectories or rely on stronger teachers. Recent privileged on-policy self-distil",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "fine-tuning",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Benchmarking the Safety of Large Language Models for Robotic Health Attendant Control",
+    "url": "https://arxiv.org/abs/2604.26577",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 30 Apr 2026 00:00:00 -0400",
+    "description": "arXiv:2604.26577v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly considered for deployment as the control component of robotic health attendants, yet their safety in this context remains poorly characterized. We introduce a dataset of 270 harmful instructions spanning nine prohibited behavior categories grounded in the American Medical Association Principles of Medical Ethics, and use it to evaluate 72 LLMs in a simulation environment based on the Robotic Health Att",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "simulation",
+      "language model"
+    ]
+  },
+  {
+    "title": "Bian Que: An Agentic Framework with Flexible Skill Arrangement for Online System Operations",
+    "url": "https://arxiv.org/abs/2604.26805",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 30 Apr 2026 00:00:00 -0400",
+    "description": "arXiv:2604.26805v1 Announce Type: new \nAbstract: Operating and maintaining (O&M) large-scale online engine systems (search, recommendation, advertising) demands substantial human effort for release monitoring, alert response, and root cause analysis. While LLM-based agents are a natural fit for these tasks, the deployment bottleneck is not reasoning capability but orchestration: selecting, for each operational event, the relevant data (metrics, logs, change events) and the applicable operational",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Analysing Lightweight Large Language Models for Biomedical Named Entity Recognition on Diverse Ouput Formats",
+    "url": "https://arxiv.org/abs/2604.25920",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 30 Apr 2026 00:00:00 -0400",
+    "description": "arXiv:2604.25920v1 Announce Type: cross \nAbstract: Despite their strong linguistic capabilities, Large Language Models (LLMs) are computationally demanding and require substantial resources for fine-tuning, which is unadapted to privacy and budget constraints of many healthcare settings. To address this, we present an experimental analysis focused on Biomedical Named Entity Recognition using lightweight LLMs, we evaluate the impact of different output formats on model performance. The results re",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "fine-tuning"
+    ]
+  },
+  {
+    "title": "Generative AI-Based Virtual Assistant using Retrieval-Augmented Generation: An evaluation study for bachelor projects",
+    "url": "https://arxiv.org/abs/2604.25924",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 30 Apr 2026 00:00:00 -0400",
+    "description": "arXiv:2604.25924v1 Announce Type: cross \nAbstract: Large Language Models have been increasingly employed in the creation of Virtual Assistants due to their ability to generate human-like text and handle complex inquiries. While these models hold great promise, challenges such as hallucinations, missing information, and the difficulty of providing accurate and context-specific responses persist, particularly when applied to highly specialized content domains. In this paper, we focus on addressing",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "language model",
+      "retrieval",
+      "generative"
+    ]
+  },
+  {
+    "title": "The Differential Effects of Agreeableness and Extraversion on Older Adults' Perceptions of Conversational AI Explanations in Assistive Settings",
+    "url": "https://arxiv.org/abs/2603.08164",
+    "source": "arXiv cs.HC",
+    "published_at": "Thu, 30 Apr 2026 00:00:00 -0400",
+    "description": "arXiv:2603.08164v2 Announce Type: replace \nAbstract: Large Language Model-based Voice Assistants (LLM-VAs) are increasingly deployed in assistive settings for older adults, yet little is known about how an agent's personality shapes user perceptions of its explanations. This paper presents a mixed factorial experiment (N=140) examining how agreeableness and extraversion in an LLM-VA (\"Robin\") influence older adults' perceptions across seven measures: empathy, likeability, trust, reliance, satisf",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model"
+    ]
+  },
+  {
+    "title": "A Multimodal Depth-Aware Method For Embodied Reference Understanding",
+    "url": "https://arxiv.org/abs/2510.08278",
+    "source": "arXiv cs.HC",
+    "published_at": "Thu, 30 Apr 2026 00:00:00 -0400",
+    "description": "arXiv:2510.08278v3 Announce Type: replace-cross \nAbstract: Embodied Reference Understanding requires identifying a target object in a visual scene based on both language instructions and pointing cues. While prior works have shown progress in open-vocabulary object detection, they often fail in ambiguous scenarios where multiple candidate objects exist in the scene. To address these challenges, we propose a novel ERU framework that jointly leverages LLM-based data augmentation, depth-map modalit",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "multimodal",
+      "RAG"
+    ]
+  },
+  {
+    "title": "How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks",
+    "url": "https://arxiv.org/abs/2604.22750",
+    "source": "arXiv cs.HC",
+    "published_at": "Thu, 30 Apr 2026 00:00:00 -0400",
+    "description": "arXiv:2604.22750v2 Announce Type: replace-cross \nAbstract: The wide adoption of AI agents in complex human workflows is driving rapid growth in LLM token consumption. When agents are deployed on tasks that require a significant amount of tokens, three questions naturally arise: (1) Where do AI agents spend the tokens? (2) Which models are more token-efficient? and (3) Can agents predict their token usage before task execution? In this paper, we present the first systematic study of token consump",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow"
+    ]
+  },
+  {
+    "title": "Addressing Performance Saturation for LLM RL via Precise Entropy Curve Control",
+    "url": "https://arxiv.org/abs/2604.26326",
+    "source": "arXiv cs.LG",
+    "published_at": "Thu, 30 Apr 2026 00:00:00 -0400",
+    "description": "arXiv:2604.26326v1 Announce Type: new \nAbstract: Reinforcement learning (RL) has unlocked complex reasoning abilities in large language models (LLMs). However, most RL algorithms suffer from performance saturation, preventing further gains as RL training scales. This problem can be characterized by the collapse of entropy, a key diagnostic for exploration in RL. Existing attempts have tried to prevent entropy collapse through regularization or clipping, but their resulting entropy curves often e",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "CoQuant: Joint Weight-Activation Subspace Projection for Mixed-Precision LLMs",
+    "url": "https://arxiv.org/abs/2604.26378",
+    "source": "arXiv cs.LG",
+    "published_at": "Thu, 30 Apr 2026 00:00:00 -0400",
+    "description": "arXiv:2604.26378v1 Announce Type: new \nAbstract: Post-training quantization (PTQ) has become an important technique for reducing the inference cost of Large Language Models (LLMs). While recent mixed-precision methods improve ultra-low bit quantization by preserving critical subspaces in high precision, they typically construct these subspaces relying solely on activation statistics. This ignores the fundamental nature of linear operations, where the output perturbation is jointly driven by both",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "inference"
+    ]
+  },
+  {
+    "title": "Hierarchical adaptive control for real-time dynamic inference at the edge",
+    "url": "https://arxiv.org/abs/2604.26470",
+    "source": "arXiv cs.LG",
+    "published_at": "Thu, 30 Apr 2026 00:00:00 -0400",
+    "description": "arXiv:2604.26470v1 Announce Type: new \nAbstract: Industrial systems increasingly depend on Machine Learning (ML), and operate on heterogeneous nodes that must satisfy tight latency, energy, and memory constraints. Dynamic ML models, which reconfigure their computational footprint at runtime, promise high energy efficiency and lower average latency for modest accuracy tradeoffs; however, their deployment is complex due to the additional hyperparameters they rely on. These hyperparameters, control",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "RAG",
+      "inference",
+      "memory"
+    ]
+  },
+  {
+    "title": "Do Larger Models Really Win in Drug Discovery? A Benchmark Assessment of Model Scaling in AI-Driven Molecular Property and Activity Prediction",
+    "url": "https://arxiv.org/abs/2604.26498",
+    "source": "arXiv cs.LG",
+    "published_at": "Thu, 30 Apr 2026 00:00:00 -0400",
+    "description": "arXiv:2604.26498v1 Announce Type: new \nAbstract: The rapid growth of molecular foundation models and general-purpose large language models has encouraged a scale-centric view of artificial intelligence in drug discovery, in which larger pretrained models are expected to supersede compact cheminformatics models and task-specific graph neural networks (GNNs). We test this assumption on 22 molecular property and activity endpoints, including public ADMET and Tox21 benchmarks and two internal anti-i",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "neural",
+      "language model",
+      "RAG"
+    ]
+  },
+  {
+    "title": "Progressive Semantic Communication for Efficient Edge-Cloud Vision-Language Models",
+    "url": "https://arxiv.org/abs/2604.26508",
+    "source": "arXiv cs.LG",
+    "published_at": "Thu, 30 Apr 2026 00:00:00 -0400",
+    "description": "arXiv:2604.26508v1 Announce Type: new \nAbstract: Deploying Vision-Language Models (VLMs) on edge devices remains challenging due to their substantial computational and memory demands, which exceed the capabilities of resource-constrained embedded platforms. Conversely, fully offloading inference to the cloud is often impractical in bandwidth-limited environments, where transmitting raw visual data introduces substantial latency overhead. While recent edge-cloud collaborative architectures attemp",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "language model",
+      "inference",
+      "memory"
+    ]
+  },
+  {
+    "title": "Operating-Layer Controls for Onchain Language-Model Agents Under Real Capital",
+    "url": "https://arxiv.org/abs/2604.26091",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 30 Apr 2026 00:00:00 -0400",
+    "description": "arXiv:2604.26091v1 Announce Type: new \nAbstract: We study reliability in autonomous language-model agents that translate user mandates into validated tool actions under real capital. The setting is DX Terminal Pro, a 21-day deployment in which 3,505 user-funded agents traded real ETH in a bounded onchain market. Users configured vaults through structured controls and natural-language strategies, but only agents could choose normal buy/sell trades. The system produced 7.5M agent invocations, roug",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "autonomous"
+    ]
+  }
+]
