@@ -1,0 +1,302 @@
+{
+  "date": "2026-05-02",
+  "candidates": [
+    {
+      "title": "AutoSurfer -- Teaching Web Agents through Comprehensive Surfing, Learning, and Modeling",
+      "url": "https://arxiv.org/abs/2604.27253",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 01 May 2026 00:00:00 -0400",
+      "description": "arXiv:2604.27253v1 Announce Type: new \nAbstract: Recent advances in multimodal large language models (LLMs) have revolutionized web agents that can automate complex tasks on websites. However, their accuracy remains limited by the scarcity of high-quality web trajectory training data. Existing automatic trajectory generation methods suffer from incomplete website coverage due to homepage-based task proposals or random-walk exploration. Such methods often result in hallucinated or ambiguous task ",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "multimodal",
+        "RAG"
+      ]
+    },
+    {
+      "title": "Exploring Interaction Paradigms for LLM Agents in Scientific Visualization",
+      "url": "https://arxiv.org/abs/2604.27996",
+      "source": "arXiv cs.HC",
+      "published_at": "Fri, 01 May 2026 00:00:00 -0400",
+      "description": "arXiv:2604.27996v1 Announce Type: cross \nAbstract: This paper examines how different types of large language model (LLM) agents perform on scientific visualization (SciVis) tasks, where users generate visualization workflows from natural-language instructions. We compare three primary interaction paradigms, including domain-specific agents with structured tool use, computer-use agents, and general-purpose coding agents, by evaluating eight representative agents across 15 benchmark tasks and meas",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "workflow",
+        "language model",
+        "tool use"
+      ]
+    },
+    {
+      "title": "Reinforced Agent: Inference-Time Feedback for Tool-Calling Agents",
+      "url": "https://arxiv.org/abs/2604.27233",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 01 May 2026 00:00:00 -0400",
+      "description": "arXiv:2604.27233v1 Announce Type: new \nAbstract: Tool-calling agents are evaluated on tool selection, parameter accuracy, and scope recognition, yet LLM trajectory assessments remain inherently post-hoc. Disconnected from the active execution loop, such assessments identify errors that are usually addressed through prompt-tuning or retraining, and fundamentally cannot course-correct the agent in real time. To close this gap, we move evaluation into the execution loop at inference time: a special",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "inference",
+        "prompt"
+      ]
+    },
+    {
+      "title": "InteractWeb-Bench: Can Multimodal Agent Escape Blind Execution in Interactive Website Generation?",
+      "url": "https://arxiv.org/abs/2604.27419",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 01 May 2026 00:00:00 -0400",
+      "description": "arXiv:2604.27419v1 Announce Type: new \nAbstract: With the advancement of multimodal large language models (MLLMs) and coding agents, the website development has shifted from manual programming to agent-based project-level code synthesis. Existing benchmarks rely on idealized assumptions, especially for well-structured, information-rich inputs and static execution settings. In contrast, real-world development is constrained by a critical bottleneck: the semantic misalignment between ambiguous, lo",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "multimodal"
+      ]
+    },
+    {
+      "title": "When Continual Learning Moves to Memory: A Study of Experience Reuse in LLM Agents",
+      "url": "https://arxiv.org/abs/2604.27003",
+      "source": "arXiv cs.LG",
+      "published_at": "Fri, 01 May 2026 00:00:00 -0400",
+      "description": "arXiv:2604.27003v1 Announce Type: new \nAbstract: Memory-augmented LLM agents offer an appealing shortcut to continual learning: rather than updating model parameters, they accumulate experience in external memory, seemingly sidestepping the stability-plasticity dilemma of parametric learning. We show that this challenge does not disappear but resurfaces at the memory level. Under a limited context window, old and new experiences compete during retrieval, relocating the continual-learning bottlen",
+      "score": 10.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "context window",
+        "memory",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Low Rank Adaptation for Adversarial Perturbation",
+      "url": "https://arxiv.org/abs/2604.27487",
+      "source": "arXiv cs.LG",
+      "published_at": "Fri, 01 May 2026 00:00:00 -0400",
+      "description": "arXiv:2604.27487v1 Announce Type: new \nAbstract: Low-Rank Adaptation (LoRA), which leverages the insight that model updates typically reside in a low-dimensional space, has significantly improved the training efficiency of Large Language Models (LLMs) by updating neural network layers using low-rank matrices. Since the generation of adversarial examples is an optimization process analogous to model training, this naturally raises the question: Do adversarial perturbations exhibit a similar low-r",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "neural",
+        "language model",
+        "RAG"
+      ]
+    },
+    {
+      "title": "End-to-end autonomous scientific discovery on a real optical platform",
+      "url": "https://arxiv.org/abs/2604.27092",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 01 May 2026 00:00:00 -0400",
+      "description": "arXiv:2604.27092v1 Announce Type: new \nAbstract: Scientific research has long been human-led, driving new knowledge and transformative technologies through the continual revision of questions, methods and claims as evidence accumulates. Although large language model (LLM)-based agents are beginning to move beyond assisting predefined research workflows, none has yet demonstrated end-to-end autonomous discovery in a real physical system that produces a nontrivial result supported by experimental ",
+      "score": 9.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "workflow",
+        "language model",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "ChipLingo: A Systematic Training Framework for Large Language Models in EDA",
+      "url": "https://arxiv.org/abs/2604.27415",
+      "source": "arXiv cs.LG",
+      "published_at": "Fri, 01 May 2026 00:00:00 -0400",
+      "description": "arXiv:2604.27415v1 Announce Type: new \nAbstract: With the rapid advancement of semiconductor technology, Electronic Design Automation (EDA) has become an increasingly knowledge-intensive and document-driven engineering domain. Although large language models (LLMs) have shown strong general capabilities, applying them directly to EDA remains challenging due to limited domain expertise, cross-tool knowledge confusion, and degraded retrieval-augmented generation (RAG) performance after domain train",
+      "score": 9.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "automation",
+        "language model",
+        "RAG",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Think it, Run it: Autonomous ML pipeline generation via self-healing multi-agent AI",
+      "url": "https://arxiv.org/abs/2604.27096",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 01 May 2026 00:00:00 -0400",
+      "description": "arXiv:2604.27096v1 Announce Type: new \nAbstract: The purpose of our paper is to develop a unified multi-agent architecture that automates end-to-end machine learning (ML) pipeline generation from datasets and natural-language (NL) goals, improving efficiency, robustness and explainability. A five-agent system is proposed to handle profiling, intent parsing, microservice recommendation, Directed Acyclic Graph (DAG) construction and execution. It integrates code-grounded Retrieval-Augmented Genera",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "autonomous",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Step-level Optimization for Efficient Computer-use Agents",
+      "url": "https://arxiv.org/abs/2604.27151",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 01 May 2026 00:00:00 -0400",
+      "description": "arXiv:2604.27151v1 Announce Type: new \nAbstract: Computer-use agents provide a promising path toward general software automation because they can interact directly with arbitrary graphical user interfaces instead of relying on brittle, application-specific integrations. Despite recent advances in benchmark performance, strong computer-use agents remain expensive and slow in practice, since most systems invoke large multimodal models at nearly every interaction step. We argue that this uniform al",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "automation",
+        "multimodal"
+      ]
+    },
+    {
+      "title": "Web2BigTable: A Bi-Level Multi-Agent LLM System for Internet-Scale Information Search and Extraction",
+      "url": "https://arxiv.org/abs/2604.27221",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 01 May 2026 00:00:00 -0400",
+      "description": "arXiv:2604.27221v1 Announce Type: new \nAbstract: Agentic web search increasingly faces two distinct demands: deep reasoning over a single target, and structured aggregation across many entities and heterogeneous sources. Current systems struggle on both fronts. Breadth-oriented tasks demand schema-aligned outputs with wide coverage and cross-entity consistency, while depth-oriented tasks require coherent reasoning over long, branching search trajectories. We introduce \\textbf{Web2BigTable}, a mu",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "RAG",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Trace-Level Analysis of Information Contamination in Multi-Agent Systems",
+      "url": "https://arxiv.org/abs/2604.27586",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 01 May 2026 00:00:00 -0400",
+      "description": "arXiv:2604.27586v1 Announce Type: new \nAbstract: Reasoning over heterogeneous artifacts (PDFs, spreadsheets, slide decks, etc.) increasingly occurs within structured agent workflows that iteratively extract, transform, and reference external information. In these workflows, uncertainty is not merely an input-quality issue: it can redirect decomposition and routing decisions, reshape intermediate state, and produce qualitatively different execution trajectories. We study this phenomenon by treati",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "workflow",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Math Education Digital Shadows for facilitating learning with LLMs: Math performance, anxiety and confidence in simulated students and AIs",
+      "url": "https://arxiv.org/abs/2604.27618",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 01 May 2026 00:00:00 -0400",
+      "description": "arXiv:2604.27618v1 Announce Type: new \nAbstract: To enhance LLMs' impact on math education, we need data on their mathematical prowess and biases across prompts. To fill this gap, we introduce MEDS (Math Education Digital Shadows) as a dataset mapping how large language models reason about and report mathematics across human- and AI-like conditions. MEDS involves 28,000 personas from 14 LLMs (from families like Mistral, Qwen, DeepSeek, Granite, Phi and Grok) shadowing either humans or AI assista",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "prompt"
+      ]
+    },
+    {
+      "title": "Mapping how LLMs debate societal issues when shadowing human personality traits, sociodemographics and social media behavior",
+      "url": "https://arxiv.org/abs/2604.27624",
+      "source": "arXiv cs.HC",
+      "published_at": "Fri, 01 May 2026 00:00:00 -0400",
+      "description": "arXiv:2604.27624v1 Announce Type: cross \nAbstract: Large Language Models (LLMs) can strongly shape social discourse, yet datasets investigating how LLM outputs vary across controlled social and contextual prompting remain sparse. Cognitive Digital Shadows (CDS) is a 190,000-record synthetic corpus supporting analyses of LLM-generated discourse. Each CDS record is generated by one of 19 LLMs, prompted to shadow either a human persona or an AI-assistant role. CDS contains LLM responses on 4 contro",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "prompt"
+      ]
+    },
+    {
+      "title": "Building Persona-Based Agents On Demand: Tailoring Multi-Agent Workflows to User Needs",
+      "url": "https://arxiv.org/abs/2604.27882",
+      "source": "arXiv cs.HC",
+      "published_at": "Fri, 01 May 2026 00:00:00 -0400",
+      "description": "arXiv:2604.27882v1 Announce Type: cross \nAbstract: Recent advances in agentic AI are shifting automation from discrete tools to proactive multi-agent systems that coordinate multi-specialized capabilities behind unified interfaces. However, today's agent systems typically rely on hard-coded agent architectures with fixed roles, coordination patterns, and interaction flows that limit end-user personalization and make adaptation to individual needs and contexts difficult. Given this limitation, we",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "workflow",
+        "automation"
+      ]
+    },
+    {
+      "title": "From LLM-Driven Trading Card Generation to Procedural Relatedness: A Pok\\'emon Case Study",
+      "url": "https://arxiv.org/abs/2604.27972",
+      "source": "arXiv cs.HC",
+      "published_at": "Fri, 01 May 2026 00:00:00 -0400",
+      "description": "arXiv:2604.27972v1 Announce Type: cross \nAbstract: Since the dawn of Trading Card Games, the genre has grown into a multi-billion-dollar industry engaging millions of analog and digital players worldwide. Popular TCGs rely on regular updates, balance adjustments, and rotating constraints to sustain engagement. Yet, as metagames stabilize, predictable strategies dominate and viable card options diminish, often resulting in repetitive and impaired player experiences.\n  This paper investigates the ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "game",
+        "procedural"
+      ]
+    },
+    {
+      "title": "Fidelity, Diversity, and Privacy: A Multi-Dimensional LLM Evaluation for Clinical Data Augmentation",
+      "url": "https://arxiv.org/abs/2604.27014",
+      "source": "arXiv cs.LG",
+      "published_at": "Fri, 01 May 2026 00:00:00 -0400",
+      "description": "arXiv:2604.27014v1 Announce Type: new \nAbstract: The scarcity of high-quality annotated medical data, particularly in mental health, poses a significant bottleneck for training robust machine learning models. Privacy regulations restrict data sharing, making synthetic data generation a promising alternative. The use of Large Language Models (LLMs) in a data augmentation pipeline could be leveraged as an alternative in this field. In the proposed methodology, DeepSeek-R1, OpenBioLLM-Llama3 and Qw",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "RAG"
+      ]
+    },
+    {
+      "title": "Detecting Clinical Discrepancies in Health Coaching Agents: A Dual-Stream Memory and Reconciliation Architecture",
+      "url": "https://arxiv.org/abs/2604.27045",
+      "source": "arXiv cs.LG",
+      "published_at": "Fri, 01 May 2026 00:00:00 -0400",
+      "description": "arXiv:2604.27045v1 Announce Type: new \nAbstract: As Large Language Model (LLM) agents transition from single-session tools to persistent systems managing longitudinal healthcare journeys, their memory architectures face a critical challenge: reconciling two imperfect sources of truth. The patient's evolving self-report is current but prone to recall bias, while the Electronic Health Record (EHR) is medically validated but frequently stale. General-purpose agent memory systems optimize for cohere",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "language model",
+        "memory"
+      ]
+    },
+    {
+      "title": "Distributional Alignment Games for Answer-Level Fine-Tuning",
+      "url": "https://arxiv.org/abs/2604.27166",
+      "source": "arXiv cs.LG",
+      "published_at": "Fri, 01 May 2026 00:00:00 -0400",
+      "description": "arXiv:2604.27166v1 Announce Type: new \nAbstract: We focus on the problem of \\emph{Answer-Level Fine-Tuning} (ALFT), where the goal is to optimize a language model based on the correctness or properties of its final answers, rather than the specific reasoning traces used to produce them. Directly optimizing answer-level objectives is computationally intractable due to the need to marginalize over the vast space of latent reasoning paths. To overcome this, we propose a general game-theoretical fra",
+      "score": 8.0,
+      "keywords_matched": [
+        "game",
+        "language model",
+        "fine-tuning",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "PINN-Cast: Exploring the Role of Continuous-Depth NODE in Transformers and Physics Informed Loss as Soft Physical Constraints in Short-term Weather Forecasting",
+      "url": "https://arxiv.org/abs/2604.27313",
+      "source": "arXiv cs.LG",
+      "published_at": "Fri, 01 May 2026 00:00:00 -0400",
+      "description": "arXiv:2604.27313v1 Announce Type: new \nAbstract: Operational weather prediction has long relied on physics-based numerical weather prediction (NWP), whose accuracy comes at the cost of substantial compute and complex simulation workflows. Recent transformer-based forecasters offer efficient data-driven alternatives, however transformers are physics-agnostic models. Additionally, standard transformer encoders evolve representations through discrete layer updates that may be less suited to modelin",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "workflow",
+        "simulation",
+        "transformer"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-05-02\n\n你好！我是你的**疯狂发明家技术雷达**。今天从 20 篇候选论文中筛选出了 5 个最能点燃你“设计+CS”交叉神经的项目。\n\n今天的核心趋势是：**Agent 不再只是执行者，它正在变成“自愈型架构师”和“系统关联性专家”。**\n\n---\n\n## 1. InteractWeb-Bench：拒绝“盲目执行”的网页生成 Agent\n- 来源：arXiv cs.AI (2604.27419)\n- 链接：[https://arxiv.org/abs/2604.27419](https://arxiv.org/abs/2604.27419)\n- 一句话解释：这是一个让网页生成 Agent 从“只管写代码”转向“写完后像人一样去点击、测试、纠错”的评估框架。\n- 它为什么重要：目前的 Web 开发 Agent 往往是静态的（生成完就收工）。这个项目强调了**交互式闭环**，即 Agent 必须在生成的网页上跑一遍，发现按钮点不动，再回来改代码。\n- 技术趋势标签：`Agentic Workflow`, `Spec-driven Development`, `Self-Correction`\n- 可复用模式：**“运行-观测-重写”循环**。不以代码生成为终点，以交互成功为终点。\n- 疯狂发明家灵感：\n  1. **一个小实验**：写一个脚本，让 GPT-4o 生成一个 React 组件，自动在一个 Headless Browser 里打开它，截图传回给 AI，让它根据视觉反馈调整样式直到完美。\n  2. **一个中型项目**：一个“永不宕机”的个人主页生成器。你只需要用自然语言说需求，它自动部署、点击测试，如果发现某个 API 挂了，它自动寻找替代方案并重新热更新。\n  3. **一个艺术/游戏方向**：一个“自我进化”的 Minecraft UI 界面。根据玩家的操作频率，Agent 自动重构 UI 布局并实时注入到游戏中。\n- 对我项目的启发：在你的 Spec-driven 工作流中，增加一个“视觉/交互验证层”，而不仅仅是代码检查。\n- 今天是否值得深入研究：是\n- 建议行动：做 demo\n\n## 2. 从 TCG 生成到程序化关联性：以宝可梦为例\n- 来源：arXiv cs.HC (2604.27972)\n- 链接：[https://arxiv.org/abs/2604.27972](https://arxiv.org/abs/2604.27972)\n- 一句话解释：研究如何利用 LLM 生成具有“系统关联性”的集换式卡牌（TCG），确保新生成的卡牌不仅酷，而且能与现有数值系统兼容。\n- 它为什么重要：它解决了一个核心痛点：**生成式系统容易产生“孤岛内容”**。它提出了一套方法让 AI 理解游戏平衡和机制间的逻辑联系。\n- 技术趋势标签：`Procedural Content Generation (PCG)`, `Game Design`, `LLM for Games`\n- 可复用模式：**“关系感知型生成”**。生成内容时，强制要求 Agent 检索现有规则库并生成“关联度矩阵”。\n- 疯狂发明家灵感：\n  1. **一个小实验**：输入 3 个现有的 Minecraft 方块属性，让 AI 生成第 4 个方块，要求它必须能和前三个产生某种自动化连锁反应（类似红石）。\n  2. **一个中型项目**：一个完全由 AI 驱动的动态平衡卡牌游戏。每当玩家抱怨某张卡太强，Agent 自动生成一张“针对性克星卡”并分发给所有玩家。\n  3. **一个艺术/游戏/叙事方向**：一个“无限涌现”的故事书。每个新角色的技能必须基于前一个角色的弱点生成，形成无穷无尽的因果链条。\n- 对我项目的启发：对于世界生成，重点不在于生成“新东西”，而在于生成“能和旧东西互动的新连接”。\n- 今天是否值得深入研究：是\n- 建议行动：试用（关注其 Procedural Relatedness 的逻辑）\n\n## 3. Persona-Based Agents On Demand：动态按需定制 Agent 团队\n- 来源：arXiv cs.HC (2604.27882)\n- 链接：[https://arxiv.org/abs/2604.27882](https://arxiv.org/abs/2604.27882)\n- 一句话解释：不再预设“程序员 Agent”或“设计师 Agent”，而是根据用户当下的具体任务，动态地合成最适合的人格和工作流。\n- 它为什么重要：打破了 Multi-agent 系统中“硬编码角色”的局限。它让系统变得更像一个**流动的组织**。\n- 技术趋势标签：`Dynamic Multi-Agent`, `HCI`, `Automation`\n- 可复用模式：**“任务元数据 -> 人格合成 -> 工作流编排”**。\n- 疯狂发明家灵感：\n  1. **一个小实验**：做一个“角色扮演 Debugger”。当你输入一段报错代码，它根据报错类型自动合成一个“内核专家”或“前端杠精”来和你对话。\n  2. **一个中型项目**：一个“多重人格”的创意协同工具。你画草图时，它合成“极简主义大师”；你写逻辑时，它自动切换成“代码洁癖专家”。\n  3. **一个艺术/游戏/叙事方向**：一个动态 NPC 系统。NPC 的性格不是写死的，而是根据玩家的行为，实时从 LLM 库中合成一种最能引起戏剧冲突的人格。\n- 对我项目的启发：你的自动化系统可以增加一个“角色合成器”模块，根据 Spec 的复杂度自动决定派几个 Agent 出来。\n- 今天是否值得深入研究：是\n- 建议行动：收藏\n\n## 4. 真实光学平台上的端到端自主科学发现\n- 来源：arXiv cs.AI (2604.27092)\n- 链接：[https://arxiv.org/abs/2604.27092](https://arxiv.org/abs/2604.27092)\n- 一句话解释：Agent 直接操控物理实验室设备进行实验、观测、提出新假说并自动进行下一次实验，完成了科研的全闭环。\n- 它为什么重要：这是 **“Agent + 物理世界”** 的终极体现。它证明了 Agent 可以处理不确定的物理反馈，而不仅仅是数字信号。\n- 技术趋势标签：`Autonomous Agent`, `Closed-loop Discovery`, `Scientific AI`\n- 可复用模式：**“假说-实验-观测-修正”的闭环**。\n- 疯狂发明家灵感：\n  1. **一个小实验**：用 Agent 控制你的电脑音量、屏幕亮度或简单的 Arduino 灯光，让它根据你摄像头捕获的“心情”自动寻找最舒适的物理参数组合。\n  2. **一个中型项目**：一个“自主艺术策展 Agent”。它控制投影仪和音响，根据现场观众的移动轨迹（输入），不断调整视听参数（实验），寻找让观众停留最久的模式。\n  3. **一个艺术/游戏/叙事方向**：一个在 Minecraft 中自主生存并“研究”红石电路的 Agent。它自己搭建电路，观察结果，最终发明出从未见过的自动化机械。\n- 对我项目的启发：思考如何让你的 Agent 触碰“非数字”的边界（例如通过传感器或 API 操控外部系统）。\n- 今天是否值得深入研究：否（原理可借鉴，实现太重）\n- 建议行动：做 demo（做一个极简的闭环实验）\n\n## 5. 双流内存与对账架构：解决 Agent 的记忆冲突\n- 来源：arXiv cs.LG (2604.27045)\n- 链接：[https://arxiv.org/abs/2604.27045](https://arxiv.org/abs/2604.27045)\n- 一句话解释：Agent 在处理长期任务时，会遇到“用户说的”和“客观事实（如数据库记录）”不一致的情况。该架构通过双流内存进行“对账”和调和。\n- 它为什么重要：解决了 Agent 长期运行中的**信任和一致性问题**。这对于叙事系统或严肃工具链至关重要。\n- 技术趋势标签：`Memory Management`, `Reconciliation Architecture`, `Long-term Agent`\n- 可复用模式：**“主观感知流 + 客观事实流 = 调和输出”**。\n- 疯狂发明家灵感：\n  1. **一个小实验**：做一个“记账纠错 Agent”。你告诉它“我今天花了 50 块”，但它查到支付记录是 55 块，看它如何优雅地提醒你并修正记忆。\n  2. **一个中型项目**：一个具有“长期记忆”的创意写作助手。它既记得你之前设定的世界观大纲（事实流），也记得你最近随口改动的小细节（感知流），并能自动指出矛盾点。\n  3. **一个艺术/游戏/叙事方向**：一个“不可靠叙事者”NPC。它拥有两层记忆，它会根据对你的好感度，有选择性地告诉你“事实流”还是“扭曲后的感知流”。\n- 对我项目的启发：对于复杂的世界生成，你需要一个“事实清单（World State）”和一个“Agent 认知图谱”，两者不一致时正是产生有趣交互的时机。\n- 今天是否值得深入研究：是\n- 建议行动：试用（尝试构建一个简单的双流存储结构）\n\n---\n\n## 今日模式总结\n1. **闭环自愈 (Self-Healing Loops)**：不再追求一次性生成的准确率，而是建立“执行-反馈-修正”的自动化循环。\n2. **关系感知 (Relational Awareness)**：在生成个体内容时，强制引入系统级的关联性约束，避免产生逻辑孤岛。\n3. **动态编排 (Dynamic Orchestration)**：抛弃静态的 Agent 角色，转向根据任务上下文即时合成的“液态”团队架构。\n\n---\n\n## 今日可做小实验：UI 进化压力测试\n2 小时内验证“闭环自愈”模式在 UI 设计中的潜力。\n\n- **项目名**：Darwinian Button (达尔文按钮)\n- **输入**：一个模糊的 UI 需求（如：“我要一个看起来很赛博朋克、点击后会爆炸、且符合无障碍设计的提交按钮”）。\n- **输出**：一个经过 Agent 3 轮自我迭代后，在浏览器中真实运行且通过了 AI 模拟点击测试的 React 组件。\n- **技术栈**：Node.js, OpenAI API, Playwright (用于 Headless Browser 截图和点击测试)。\n- **第一步怎么做**：\n  1. 编写 Prompt 让 LLM 生成一个包含 HTML/CSS/JS 的单文件。\n  2. 使用 Playwright 启动一个本地页面加载该文件。\n  3. 让 Playwright 尝试点击按钮，并捕获：(a) 是否报错；(b) 按钮的视觉截图。\n  4. 将报错信息和截图发回给 LLM：“这是你生成的代码运行结果，按钮太小了且点击报错，请修复并优化视觉。”\n  5. 重复 3 次，看最终产物与第一版的差距。\n\n这就是今天的疯狂发明家雷达，去创造吧！",
+  "gemini_success": true,
+  "telegram_sent": true,
+  "telegram_status": "sent",
+  "telegram_reason": ""
+}
