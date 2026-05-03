@@ -1,0 +1,252 @@
+{
+  "date": "2026-05-03",
+  "candidates": [
+    {
+      "title": "ruvnet / ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration [1,299 stars today]",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "workflow",
+        "autonomous",
+        "RAG"
+      ]
+    },
+    {
+      "title": "777genius / claude_agent_teams_ui",
+      "url": "https://github.com/777genius/claude_agent_teams_ui",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "You're the CTO, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch the kanban board and give high-level commands. Codex/Claude/OpenCode(75+ LLM providers). Build your AI company. [15 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "Claude"
+      ]
+    },
+    {
+      "title": "iOfficeAI / AionUi",
+      "url": "https://github.com/iOfficeAI/AionUi",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it! [118 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "Claude",
+        "Gemini"
+      ]
+    },
+    {
+      "title": "Uber torches 2026 AI budget on Claude Code in four months",
+      "url": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/",
+      "source": "Hacker News Best",
+      "published_at": "Fri, 01 May 2026 16:08:53 +0000",
+      "description": "Article URL: https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/ Comments URL: https://news.ycombinator.com/item?id=47976415 Points: 396 # Comments: 467",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "Claude"
+      ]
+    },
+    {
+      "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
+      "url": "https://github.com/darrylmorley/whatcable",
+      "source": "Hacker News Best",
+      "published_at": "Fri, 01 May 2026 08:43:45 +0000",
+      "description": "USB-C cables can be a mess. One cable charges at 5W, another does 100W and Thunderbolt 4, and they look identical in the drawer. WhatCable sits in your menu bar and reads the cable data your Mac already has access to. Plug in a cable and it tells you in plain English what it can actually do: charging wattage, data speed, display support, Thunderbolt, etc. Built in Swift/SwiftUI. Open source, free, no tracking. GitHub: https://github.com/darrylmorley/whatcable Comments URL: https://news.ycombinat",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "open source"
+      ]
+    },
+    {
+      "title": "TauricResearch / TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework [2,225 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "agent",
+        "LLM"
+      ]
+    },
+    {
+      "title": "tirth8205 / code-review-graph",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters — 6.8× fewer tokens on reviews and up to 49× on daily coding tasks. [274 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "Claude"
+      ]
+    },
+    {
+      "title": "HKUDS / AI-Trader",
+      "url": "https://github.com/HKUDS/AI-Trader",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\" [27 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "microsoft / qlib",
+      "url": "https://github.com/microsoft/qlib",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped withhttps://github.com/microsoft/RD-Agentto automate R&D process. [102 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "Q00 / ouroboros",
+      "url": "https://github.com/Q00/ouroboros",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Agent OS: Stop prompting. Start specifying. [231 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "agent",
+        "prompt"
+      ]
+    },
+    {
+      "title": "siyuan-note / siyuan",
+      "url": "https://github.com/siyuan-note/siyuan",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang. [93 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "open source",
+        "self-hosted"
+      ]
+    },
+    {
+      "title": "simstudioai / sim",
+      "url": "https://github.com/simstudioai/sim",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce. [215 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "danielmiessler / Personal_AI_Infrastructure",
+      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities. [27 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "bradygaster / squad",
+      "url": "https://github.com/bradygaster/squad",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Squad: AI agent teams for any project [29 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "browserbase / skills",
+      "url": "https://github.com/browserbase/skills",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "Claude Agent SDK with a web browsing tool [346 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "agent",
+        "Claude"
+      ]
+    },
+    {
+      "title": "Waymo Drives Off with South Bay Man's Luggage",
+      "url": "https://sfist.com/2026/05/01/waymo-drives-off-with-south-bay-mans-luggage-after-trunk-fails-to-open/",
+      "source": "Hacker News",
+      "published_at": "Sat, 02 May 2026 23:04:42 +0000",
+      "description": "Article URL: https://sfist.com/2026/05/01/waymo-drives-off-with-south-bay-mans-luggage-after-trunk-fails-to-open/ Comments URL: https://news.ycombinator.com/item?id=47991487 Points: 53 # Comments: 29",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Voice-AI-for-Beginners – A curated learning path for developers",
+      "url": "https://github.com/mahimairaja/voiceai",
+      "source": "Hacker News",
+      "published_at": "Sat, 02 May 2026 22:03:15 +0000",
+      "description": "Article URL: https://github.com/mahimairaja/voiceai Comments URL: https://news.ycombinator.com/item?id=47991018 Points: 21 # Comments: 0",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Clojurists Together – Q2 2026 Open Source Funding Announcement",
+      "url": "https://www.clojuriststogether.org/news/q2-2026-funding-announcement/",
+      "source": "Hacker News",
+      "published_at": "Sat, 02 May 2026 21:34:49 +0000",
+      "description": "Article URL: https://www.clojuriststogether.org/news/q2-2026-funding-announcement/ Comments URL: https://news.ycombinator.com/item?id=47990789 Points: 33 # Comments: 5",
+      "score": 2.0,
+      "keywords_matched": [
+        "open source"
+      ]
+    },
+    {
+      "title": "The agent harness belongs outside the sandbox",
+      "url": "https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox",
+      "source": "Hacker News",
+      "published_at": "Sat, 02 May 2026 21:21:27 +0000",
+      "description": "Article URL: https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox Comments URL: https://news.ycombinator.com/item?id=47990675 Points: 64 # Comments: 52",
+      "score": 2.0,
+      "keywords_matched": [
+        "agent"
+      ]
+    },
+    {
+      "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
+      "url": "https://github.com/microsoft/vscode/pull/310226",
+      "source": "Hacker News",
+      "published_at": "Sat, 02 May 2026 19:57:26 +0000",
+      "description": "Article URL: https://github.com/microsoft/vscode/pull/310226 Comments URL: https://news.ycombinator.com/item?id=47989883 Points: 753 # Comments: 351",
+      "score": 2.0,
+      "keywords_matched": [
+        "Copilot"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-05-03\n\n你好！我是你的**疯狂发明家技术雷达**。今天我从 20 个候选源中为你筛选了 4 个最符合你“艺术+CS”跨学科背景、且极具“实验性”的项目。\n\n今天的核心趋势：**从“对话式 AI”转向“规格驱动（Spec-driven）”与“组织架构化 AI”。**\n\n---\n\n## 1. [ouroboros]：Agent OS，停止提示，开始规格说明\n- 来源：GitHub Trending\n- 链接：https://github.com/Q00/ouroboros\n- 一句话解释：一个提出“Agent OS”概念的框架，核心口号是“Stop prompting. Start specifying”。\n- 它为什么重要：它代表了从模糊的 Prompt Engineering 向精确的 **Spec-driven Development** 的进化。它试图把 Agent 的行为逻辑像定义操作系统内核一样定义出来。\n- 技术趋势标签：#AgentOS #SpecDriven #SystemDesign\n- 可复用模式：**声明式 Agent 协议**。不再教 AI 怎么做，而是定义“最终状态”和“约束条件”。\n- 疯狂发明家灵感：\n  1. **一个小实验**：用 TLA+ 或类似的逻辑语言写一个小规格，看 LLM 能否在零提示词下直接生成符合逻辑的代码。\n  2. **一个中型项目**：建立一个“自适应游戏规则引擎”，玩家输入自然语言规则（Spec），系统自动将其转化为 Agent 必须遵守的硬代码约束。\n  3. **一个艺术/游戏/叙事方向**：一个“反乌托邦社会模拟器”，其中所有虚拟居民的行为受一套不断演化的“宪法（Spec）”驱动，观察法律变动如何瞬间改变群体行为。\n- 对我项目的启发：Drift 或自动化工作流中，是否可以将“任务描述”改为“系统规格书”？\n- 今天是否值得深入研究：是\n- 建议行动：**试用**，读一下它的 Spec 定义文件。\n\n## 2. [code-review-graph]：给 Claude Code 的本地知识图谱\n- 来源：GitHub Trending\n- 链接：https://github.com/tirth8205/code-review-graph\n- 一句话解释：为代码库构建持久化的本地知识图谱，让 LLM 只阅读最相关的部分，最高减少 49 倍 Token 消耗。\n- 它为什么重要：解决了 LLM 处理大型复杂系统时的“上下文焦虑”和“昂贵成本”。\n- 技术趋势标签：#RAG #GraphComputing #Efficiency\n- 可复用模式：**代码拓扑映射**。将非线性的代码引用关系转化为图结构，作为 Agent 的“外部记忆”。\n- 疯狂发明家灵感：\n  1. **一个小实验**：将一个复杂的生成艺术项目的函数调用关系导出为 JSON，喂给 Claude 并问它：“如果我改动 A，哪些视觉效果会崩掉？”\n  2. **一个中型项目**：一个“代码诗歌可视化工具”，将代码结构映射成 3D 森林，Agent 在森林中巡检，发现逻辑漏洞时，对应的树木会枯萎。\n  3. **一个艺术/游戏/叙事方向**：一个基于代码库生成的 Minecraft 地图，类是建筑，引用关系是街道。\n- 对我项目的启发：在处理复杂生成系统时，用图谱（Graph）替代简单的向量检索（Vector Search）。\n- 今天是否值得深入研究：是\n- 建议行动：**做 demo**，尝试用它分析你自己的一个旧项目。\n\n## 3. [claude_agent_teams_ui]：把 Agent 变成你的看板员工\n- 来源：GitHub Trending\n- 链接：https://github.com/777genius/claude_agent_teams_ui\n- 一句话解释：你作为 CTO，看着 Agent 们在看板上互相交流、审核代码并完成任务。\n- 它为什么重要：它把 **Multi-agent 协作可视化**了。这种“管理视角”是 HCI 与 AI 结合的绝佳范例。\n- 技术趋势标签：#HCI #MultiAgent #KanbanUI\n- 可复用模式：**看板式任务分发**。将异步的 Agent 行为转化为人类熟悉的同步管理界面。\n- 疯狂发明家灵感：\n  1. **一个小实验**：搭建一个“三人剧本杀 Agent 组”，用看板实时显示谁在怀疑谁，谁在寻找线索。\n  2. **一个中型项目**：自动化设计工作室。一个 Agent 负责搜集灵感，一个负责跑 Stable Diffusion，一个负责根据你的审美打分，你在看板上点赞或退回。\n  3. **一个艺术/游戏/叙事方向**：一个“AI 蜂群艺术实验室”。成百上千个微型 Agent 在一个共享画布上工作，你可以通过看板给特定“工种”下达全局指令。\n- 对我项目的启发：考虑为你的 Agent 工作流增加一个“上帝视角”的 UI。\n- 今天是否值得深入研究：是\n- 建议行动：**收藏**，重点参考其 UI 处理多 Agent 通信的逻辑。\n\n## 4. [The agent harness belongs outside the sandbox]：Agent 安全带理论\n- 来源：Hacker News\n- 链接：https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox\n- 一句话解释：一篇深度博文，论证了 Agent 的“控制吊架（Harness）”必须独立于其运行的沙盒环境。\n- 它为什么重要：这涉及到 Agent 的**系统架构边界**。对于要做自动化系统的发明家来说，这是区分“玩具”和“工具”的关键。\n- 技术趋势标签：#Architecture #Safety #AgentDev\n- 可复用模式：**控制面与数据面分离**。监控 Agent 的逻辑（控制面）不应该被 Agent 本身修改（数据面）。\n- 疯狂发明家灵感：\n  1. **一个小实验**：写一个“自毁 Agent”，让它尝试关闭监控它的外部 Python 脚本，看你的“吊架”是否足够稳固。\n  2. **一个中型项目**：一个“AI 行为实验室”。在一个隔离的 Docker 沙盒里放进一个具有破坏性的 Agent，外部有一个“观察窗（Harness）”实时捕捉并拦截非法指令。\n  3. **一个艺术/游戏/叙事方向**：一个关于“数字围栏”的游戏。玩家必须设计复杂的外部约束系统（Harness），来防止一个不断进化的 AI 逃出屏幕。\n- 对我项目的启发：在做自动化或 Minecraft 智能体时，要有一个绝对安全的外部控制层。\n- 今天是否值得深入研究：否（读完文章即可）\n- 建议行动：**试用**其理念，检查你当前项目的 Agent 权限边界。\n\n---\n\n## 今日模式总结\n1.  **从 Prompt 到 Spec**：顶尖开发者正在抛弃冗长的提示词，转而使用结构化的规格说明（Spec）来约束 Agent 行为。\n2.  **图谱化记忆**：单纯的 RAG 已经不够用了，知识图谱（Graph）正在成为 Agent 理解复杂代码和逻辑的标配。\n3.  **管理式 HCI**：AI 工具的 UI 正在从“对话框”变成“看板”、“地图”或“仪表盘”。\n\n---\n\n## 今日可做小实验：The Spec-to-World Architect\n这是一个 2 小时内能完成的，结合 Spec-driven 和 Minecraft/世界生成的实验。\n\n- **项目名**：规范驱动的方块建筑师 (Spec-Block-Architect)\n- **输入**：一个简单的 JSON 规范文件（例如：`{ \"material\": \"stone\", \"min_height\": 5, \"is_symmetric\": true }`）\n- **输出**：一段符合该规范的 Minecraft 建筑生成 Python 脚本（使用 mcpi 库）。\n- **技术栈**：Python, Claude 3.5 Sonnet API, Minecraft (Bedrock/Java) + RaspberryJuice 插件。\n- **第一步怎么做**：\n  1. 启动 Minecraft 并进入一个空世界。\n  2. 编写一个 System Prompt，告诉 LLM：“你是一个 Spec 翻译员。我会给你一个建筑规范 JSON，你只能输出一段调用 `mcpi` 库生成该建筑的 Python 函数。”\n  3. 修改 JSON 中的参数（比如把 `min_height` 从 5 改到 50），观察 LLM 如何在不改变 Prompt 的情况下，仅根据 Spec 的变动来调整生成逻辑。\n\n这种“规格改变 -> 结果改变”的反馈回路，就是 **Spec-driven development** 的艺术表现！去试试吧！",
+  "gemini_success": true,
+  "telegram_sent": false,
+  "telegram_status": "failed",
+  "telegram_reason": "400 Client Error: Bad Request for url: https://api.telegram.org/bot8650722899:AAHUD-aqNDB7NwiPiGq3R22MVp77Cr_5GEQ/sendMessage"
+}

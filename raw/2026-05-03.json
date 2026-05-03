@@ -1,0 +1,244 @@
+[
+  {
+    "title": "ruvnet / ruflo",
+    "url": "https://github.com/ruvnet/ruflo",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration [1,299 stars today]",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "workflow",
+      "autonomous",
+      "RAG"
+    ]
+  },
+  {
+    "title": "777genius / claude_agent_teams_ui",
+    "url": "https://github.com/777genius/claude_agent_teams_ui",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "You're the CTO, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch the kanban board and give high-level commands. Codex/Claude/OpenCode(75+ LLM providers). Build your AI company. [15 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "Claude"
+    ]
+  },
+  {
+    "title": "iOfficeAI / AionUi",
+    "url": "https://github.com/iOfficeAI/AionUi",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it! [118 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "Claude",
+      "Gemini"
+    ]
+  },
+  {
+    "title": "Uber torches 2026 AI budget on Claude Code in four months",
+    "url": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/",
+    "source": "Hacker News Best",
+    "published_at": "Fri, 01 May 2026 16:08:53 +0000",
+    "description": "Article URL: https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/ Comments URL: https://news.ycombinator.com/item?id=47976415 Points: 396 # Comments: 467",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "Claude"
+    ]
+  },
+  {
+    "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
+    "url": "https://github.com/darrylmorley/whatcable",
+    "source": "Hacker News Best",
+    "published_at": "Fri, 01 May 2026 08:43:45 +0000",
+    "description": "USB-C cables can be a mess. One cable charges at 5W, another does 100W and Thunderbolt 4, and they look identical in the drawer. WhatCable sits in your menu bar and reads the cable data your Mac already has access to. Plug in a cable and it tells you in plain English what it can actually do: charging wattage, data speed, display support, Thunderbolt, etc. Built in Swift/SwiftUI. Open source, free, no tracking. GitHub: https://github.com/darrylmorley/whatcable Comments URL: https://news.ycombinat",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "open source"
+    ]
+  },
+  {
+    "title": "TauricResearch / TradingAgents",
+    "url": "https://github.com/TauricResearch/TradingAgents",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework [2,225 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "agent",
+      "LLM"
+    ]
+  },
+  {
+    "title": "tirth8205 / code-review-graph",
+    "url": "https://github.com/tirth8205/code-review-graph",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters — 6.8× fewer tokens on reviews and up to 49× on daily coding tasks. [274 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "Claude"
+    ]
+  },
+  {
+    "title": "HKUDS / AI-Trader",
+    "url": "https://github.com/HKUDS/AI-Trader",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\" [27 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "microsoft / qlib",
+    "url": "https://github.com/microsoft/qlib",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped withhttps://github.com/microsoft/RD-Agentto automate R&D process. [102 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "Q00 / ouroboros",
+    "url": "https://github.com/Q00/ouroboros",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Agent OS: Stop prompting. Start specifying. [231 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "agent",
+      "prompt"
+    ]
+  },
+  {
+    "title": "siyuan-note / siyuan",
+    "url": "https://github.com/siyuan-note/siyuan",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang. [93 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "open source",
+      "self-hosted"
+    ]
+  },
+  {
+    "title": "simstudioai / sim",
+    "url": "https://github.com/simstudioai/sim",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce. [215 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "danielmiessler / Personal_AI_Infrastructure",
+    "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities. [27 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "bradygaster / squad",
+    "url": "https://github.com/bradygaster/squad",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Squad: AI agent teams for any project [29 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "browserbase / skills",
+    "url": "https://github.com/browserbase/skills",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Claude Agent SDK with a web browsing tool [346 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "agent",
+      "Claude"
+    ]
+  },
+  {
+    "title": "Waymo Drives Off with South Bay Man's Luggage",
+    "url": "https://sfist.com/2026/05/01/waymo-drives-off-with-south-bay-mans-luggage-after-trunk-fails-to-open/",
+    "source": "Hacker News",
+    "published_at": "Sat, 02 May 2026 23:04:42 +0000",
+    "description": "Article URL: https://sfist.com/2026/05/01/waymo-drives-off-with-south-bay-mans-luggage-after-trunk-fails-to-open/ Comments URL: https://news.ycombinator.com/item?id=47991487 Points: 53 # Comments: 29",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  },
+  {
+    "title": "Voice-AI-for-Beginners – A curated learning path for developers",
+    "url": "https://github.com/mahimairaja/voiceai",
+    "source": "Hacker News",
+    "published_at": "Sat, 02 May 2026 22:03:15 +0000",
+    "description": "Article URL: https://github.com/mahimairaja/voiceai Comments URL: https://news.ycombinator.com/item?id=47991018 Points: 21 # Comments: 0",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  },
+  {
+    "title": "Clojurists Together – Q2 2026 Open Source Funding Announcement",
+    "url": "https://www.clojuriststogether.org/news/q2-2026-funding-announcement/",
+    "source": "Hacker News",
+    "published_at": "Sat, 02 May 2026 21:34:49 +0000",
+    "description": "Article URL: https://www.clojuriststogether.org/news/q2-2026-funding-announcement/ Comments URL: https://news.ycombinator.com/item?id=47990789 Points: 33 # Comments: 5",
+    "score": 2.0,
+    "keywords_matched": [
+      "open source"
+    ]
+  },
+  {
+    "title": "The agent harness belongs outside the sandbox",
+    "url": "https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox",
+    "source": "Hacker News",
+    "published_at": "Sat, 02 May 2026 21:21:27 +0000",
+    "description": "Article URL: https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox Comments URL: https://news.ycombinator.com/item?id=47990675 Points: 64 # Comments: 52",
+    "score": 2.0,
+    "keywords_matched": [
+      "agent"
+    ]
+  },
+  {
+    "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
+    "url": "https://github.com/microsoft/vscode/pull/310226",
+    "source": "Hacker News",
+    "published_at": "Sat, 02 May 2026 19:57:26 +0000",
+    "description": "Article URL: https://github.com/microsoft/vscode/pull/310226 Comments URL: https://news.ycombinator.com/item?id=47989883 Points: 753 # Comments: 351",
+    "score": 2.0,
+    "keywords_matched": [
+      "Copilot"
+    ]
+  }
+]
