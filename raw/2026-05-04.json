@@ -1,0 +1,245 @@
+[
+  {
+    "title": "ruvnet / ruflo",
+    "url": "https://github.com/ruvnet/ruflo",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration [1,840 stars today]",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "workflow",
+      "autonomous",
+      "RAG"
+    ]
+  },
+  {
+    "title": "vas3k / TaxHacker",
+    "url": "https://github.com/vas3k/TaxHacker",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories [83 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "prompt",
+      "self-hosted"
+    ]
+  },
+  {
+    "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
+    "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
+    "source": "Hacker News Best",
+    "published_at": "Sun, 03 May 2026 04:05:28 +0000",
+    "description": "Article URL: https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/ Comments URL: https://news.ycombinator.com/item?id=47993235 Points: 351 # Comments: 213",
+    "score": 6.0,
+    "keywords_matched": [
+      "Claude",
+      "Gemini",
+      "GPT"
+    ]
+  },
+  {
+    "title": "nexu-io / nexu",
+    "url": "https://github.com/nexu-io/nexu",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "The simplest desktop client for OpenClaw 🦞 — bridge your Agent to WeChat, Feishu, Slack & Discord in one click. Works with Claude Code, Codex & any LLM. BYOK, Oauth, local-first, chat from your phone 24/7. [21 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "Claude"
+    ]
+  },
+  {
+    "title": "iOfficeAI / AionUi",
+    "url": "https://github.com/iOfficeAI/AionUi",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it! [141 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "Claude",
+      "Gemini"
+    ]
+  },
+  {
+    "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper",
+    "url": "https://github.com/aattaran/deepclaude",
+    "source": "Hacker News",
+    "published_at": "Sun, 03 May 2026 22:13:20 +0000",
+    "description": "Article URL: https://github.com/aattaran/deepclaude Comments URL: https://news.ycombinator.com/item?id=48002136 Points: 157 # Comments: 68",
+    "score": 4.0,
+    "keywords_matched": [
+      "agent",
+      "Claude"
+    ]
+  },
+  {
+    "title": "TauricResearch / TradingAgents",
+    "url": "https://github.com/TauricResearch/TradingAgents",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework [3,313 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "agent",
+      "LLM"
+    ]
+  },
+  {
+    "title": "Q00 / ouroboros",
+    "url": "https://github.com/Q00/ouroboros",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Agent OS: Stop prompting. Start specifying. [102 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "agent",
+      "prompt"
+    ]
+  },
+  {
+    "title": "microsoft / qlib",
+    "url": "https://github.com/microsoft/qlib",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped withhttps://github.com/microsoft/RD-Agentto automate R&D process. [94 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "conorluddy / ios-simulator-skill",
+    "url": "https://github.com/conorluddy/ios-simulator-skill",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "An IOS Simulator Skill for ClaudeCode. Use it to optimise Claude's ability to build, run and interact with your apps. I mainly use it as an xcodebuild wrapper to save context. [50 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "Claude"
+    ]
+  },
+  {
+    "title": "czlonkowski / n8n-mcp",
+    "url": "https://github.com/czlonkowski/n8n-mcp",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you [282 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "Claude",
+      "workflow"
+    ]
+  },
+  {
+    "title": "virattt / dexter",
+    "url": "https://github.com/virattt/dexter",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "An autonomous agent for deep financial research [418 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "agent",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "simstudioai / sim",
+    "url": "https://github.com/simstudioai/sim",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce. [52 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "browserbase / skills",
+    "url": "https://github.com/browserbase/skills",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Claude Agent SDK with a web browsing tool [322 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "agent",
+      "Claude"
+    ]
+  },
+  {
+    "title": "Let's Buy Spirit Air",
+    "url": "https://letsbuyspiritair.com/",
+    "source": "Hacker News",
+    "published_at": "Sun, 03 May 2026 23:36:11 +0000",
+    "description": "Article URL: https://letsbuyspiritair.com/ Comments URL: https://news.ycombinator.com/item?id=48002777 Points: 88 # Comments: 57",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  },
+  {
+    "title": "Agentic Coding Is a Trap",
+    "url": "https://larsfaye.com/articles/agentic-coding-is-a-trap",
+    "source": "Hacker News",
+    "published_at": "Sun, 03 May 2026 22:52:07 +0000",
+    "description": "Article URL: https://larsfaye.com/articles/agentic-coding-is-a-trap Comments URL: https://news.ycombinator.com/item?id=48002442 Points: 114 # Comments: 81",
+    "score": 2.0,
+    "keywords_matched": [
+      "agent"
+    ]
+  },
+  {
+    "title": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
+    "url": "https://partyon.xyz/@nullagent/116499715071759135",
+    "source": "Hacker News",
+    "published_at": "Sun, 03 May 2026 18:03:14 +0000",
+    "description": "Article URL: https://partyon.xyz/@nullagent/116499715071759135 Comments URL: https://news.ycombinator.com/item?id=47999636 Points: 251 # Comments: 81",
+    "score": 2.0,
+    "keywords_matched": [
+      "agent"
+    ]
+  },
+  {
+    "title": "LLMs Are Not a Higher Level of Abstraction",
+    "url": "https://www.lelanthran.com/chap15/content.html",
+    "source": "Hacker News",
+    "published_at": "Sun, 03 May 2026 17:51:58 +0000",
+    "description": "Article URL: https://www.lelanthran.com/chap15/content.html Comments URL: https://news.ycombinator.com/item?id=47999520 Points: 42 # Comments: 39",
+    "score": 2.0,
+    "keywords_matched": [
+      "LLM"
+    ]
+  },
+  {
+    "title": "Southwest Headquarters Tour",
+    "url": "https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html",
+    "source": "Hacker News",
+    "published_at": "Sun, 03 May 2026 17:02:13 +0000",
+    "description": "After years of flying Southwest, I recently had the opportunity to tour the headquarters in Dallas. I particularly enjoyed seeing the full-motion 737 simulators, Network Operations Center, and TechOps maintenance hangar up close. Comments URL: https://news.ycombinator.com/item?id=47998946 Points: 188 # Comments: 54",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  },
+  {
+    "title": "Metal Gear Solid 2's source code has been leaked on 4chan",
+    "url": "https://www.thegamer.com/mgs2-hd-edition-source-code-massive-leak/",
+    "source": "Hacker News",
+    "published_at": "Sun, 03 May 2026 16:48:11 +0000",
+    "description": "Article URL: https://www.thegamer.com/mgs2-hd-edition-source-code-massive-leak/ Comments URL: https://news.ycombinator.com/item?id=47998790 Points: 226 # Comments: 95",
+    "score": 2.0,
+    "keywords_matched": [
+      "game"
+    ]
+  }
+]

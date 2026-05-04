@@ -1,0 +1,253 @@
+{
+  "date": "2026-05-04",
+  "candidates": [
+    {
+      "title": "ruvnet / ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration [1,840 stars today]",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "workflow",
+        "autonomous",
+        "RAG"
+      ]
+    },
+    {
+      "title": "vas3k / TaxHacker",
+      "url": "https://github.com/vas3k/TaxHacker",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories [83 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "prompt",
+        "self-hosted"
+      ]
+    },
+    {
+      "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
+      "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
+      "source": "Hacker News Best",
+      "published_at": "Sun, 03 May 2026 04:05:28 +0000",
+      "description": "Article URL: https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/ Comments URL: https://news.ycombinator.com/item?id=47993235 Points: 351 # Comments: 213",
+      "score": 6.0,
+      "keywords_matched": [
+        "Claude",
+        "Gemini",
+        "GPT"
+      ]
+    },
+    {
+      "title": "nexu-io / nexu",
+      "url": "https://github.com/nexu-io/nexu",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "The simplest desktop client for OpenClaw 🦞 — bridge your Agent to WeChat, Feishu, Slack & Discord in one click. Works with Claude Code, Codex & any LLM. BYOK, Oauth, local-first, chat from your phone 24/7. [21 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "Claude"
+      ]
+    },
+    {
+      "title": "iOfficeAI / AionUi",
+      "url": "https://github.com/iOfficeAI/AionUi",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it! [141 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "Claude",
+        "Gemini"
+      ]
+    },
+    {
+      "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper",
+      "url": "https://github.com/aattaran/deepclaude",
+      "source": "Hacker News",
+      "published_at": "Sun, 03 May 2026 22:13:20 +0000",
+      "description": "Article URL: https://github.com/aattaran/deepclaude Comments URL: https://news.ycombinator.com/item?id=48002136 Points: 157 # Comments: 68",
+      "score": 4.0,
+      "keywords_matched": [
+        "agent",
+        "Claude"
+      ]
+    },
+    {
+      "title": "TauricResearch / TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework [3,313 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "agent",
+        "LLM"
+      ]
+    },
+    {
+      "title": "Q00 / ouroboros",
+      "url": "https://github.com/Q00/ouroboros",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Agent OS: Stop prompting. Start specifying. [102 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "agent",
+        "prompt"
+      ]
+    },
+    {
+      "title": "microsoft / qlib",
+      "url": "https://github.com/microsoft/qlib",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped withhttps://github.com/microsoft/RD-Agentto automate R&D process. [94 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "conorluddy / ios-simulator-skill",
+      "url": "https://github.com/conorluddy/ios-simulator-skill",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "An IOS Simulator Skill for ClaudeCode. Use it to optimise Claude's ability to build, run and interact with your apps. I mainly use it as an xcodebuild wrapper to save context. [50 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "Claude"
+      ]
+    },
+    {
+      "title": "czlonkowski / n8n-mcp",
+      "url": "https://github.com/czlonkowski/n8n-mcp",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you [282 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "Claude",
+        "workflow"
+      ]
+    },
+    {
+      "title": "virattt / dexter",
+      "url": "https://github.com/virattt/dexter",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "An autonomous agent for deep financial research [418 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "agent",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "simstudioai / sim",
+      "url": "https://github.com/simstudioai/sim",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce. [52 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "browserbase / skills",
+      "url": "https://github.com/browserbase/skills",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "Claude Agent SDK with a web browsing tool [322 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "agent",
+        "Claude"
+      ]
+    },
+    {
+      "title": "Let's Buy Spirit Air",
+      "url": "https://letsbuyspiritair.com/",
+      "source": "Hacker News",
+      "published_at": "Sun, 03 May 2026 23:36:11 +0000",
+      "description": "Article URL: https://letsbuyspiritair.com/ Comments URL: https://news.ycombinator.com/item?id=48002777 Points: 88 # Comments: 57",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Agentic Coding Is a Trap",
+      "url": "https://larsfaye.com/articles/agentic-coding-is-a-trap",
+      "source": "Hacker News",
+      "published_at": "Sun, 03 May 2026 22:52:07 +0000",
+      "description": "Article URL: https://larsfaye.com/articles/agentic-coding-is-a-trap Comments URL: https://news.ycombinator.com/item?id=48002442 Points: 114 # Comments: 81",
+      "score": 2.0,
+      "keywords_matched": [
+        "agent"
+      ]
+    },
+    {
+      "title": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
+      "url": "https://partyon.xyz/@nullagent/116499715071759135",
+      "source": "Hacker News",
+      "published_at": "Sun, 03 May 2026 18:03:14 +0000",
+      "description": "Article URL: https://partyon.xyz/@nullagent/116499715071759135 Comments URL: https://news.ycombinator.com/item?id=47999636 Points: 251 # Comments: 81",
+      "score": 2.0,
+      "keywords_matched": [
+        "agent"
+      ]
+    },
+    {
+      "title": "LLMs Are Not a Higher Level of Abstraction",
+      "url": "https://www.lelanthran.com/chap15/content.html",
+      "source": "Hacker News",
+      "published_at": "Sun, 03 May 2026 17:51:58 +0000",
+      "description": "Article URL: https://www.lelanthran.com/chap15/content.html Comments URL: https://news.ycombinator.com/item?id=47999520 Points: 42 # Comments: 39",
+      "score": 2.0,
+      "keywords_matched": [
+        "LLM"
+      ]
+    },
+    {
+      "title": "Southwest Headquarters Tour",
+      "url": "https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html",
+      "source": "Hacker News",
+      "published_at": "Sun, 03 May 2026 17:02:13 +0000",
+      "description": "After years of flying Southwest, I recently had the opportunity to tour the headquarters in Dallas. I particularly enjoyed seeing the full-motion 737 simulators, Network Operations Center, and TechOps maintenance hangar up close. Comments URL: https://news.ycombinator.com/item?id=47998946 Points: 188 # Comments: 54",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Metal Gear Solid 2's source code has been leaked on 4chan",
+      "url": "https://www.thegamer.com/mgs2-hd-edition-source-code-massive-leak/",
+      "source": "Hacker News",
+      "published_at": "Sun, 03 May 2026 16:48:11 +0000",
+      "description": "Article URL: https://www.thegamer.com/mgs2-hd-edition-source-code-massive-leak/ Comments URL: https://news.ycombinator.com/item?id=47998790 Points: 226 # Comments: 95",
+      "score": 2.0,
+      "keywords_matched": [
+        "game"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-05-04\n\n你好！我是你的“疯狂发明家技术雷达”。今天的技术波段非常有趣，尤其是在 **Agent 深度集成** 和 **游戏系统解构** 两个频段上出现了极强的信号。\n\n我为你筛选了 5 条最能激发“疯狂发明”灵感的动态：\n\n---\n\n## 1. ouroboros: 从“调教”转向“规格”的 Agent OS\n- 来源：GitHub Trending\n- 链接：https://github.com/Q00/ouroboros\n- 一句话解释：一个提出“停止 Prompt，开始 Specify”口号的 Agent 操作系统。\n- 它为什么重要：它代表了 **Spec-driven development** 的极致：不再用自然语言求 AI 办事，而是通过定义清晰的状态机和规格说明书让 Agent 运行。\n- 技术趋势标签：#AgentOS #SpecDriven #SystemDesign\n- 可复用模式：**“规格即执行”模式**。将复杂的任务拆解为可验证的 Spec 节点，而不是一段模糊的 Prompt。\n- 疯狂发明家灵感：\n  1. **一个小实验**：用 Markdown 写一个“自动点奶茶”的逻辑规格书，看它能否在不同 LLM 下保持逻辑一致。\n  2. **一个中型项目**：开发一个 Minecraft 建筑 Agent，输入是“建筑蓝图规格 (JSON)”，Agent 负责在服务器里通过代码逐步实现。\n  3. **一个艺术/游戏/叙事方向**：一个“规则驱动型”互动叙事系统。玩家不输入对话，而是修改世界的“物理法则”或“社会契约”规格，观察 Agent 居民的行为演变。\n- 对我项目的启发：你的 Spec-driven 项目可以参考它的架构，将“意图”与“执行”完全解耦。\n- 今天是否值得深入研究：是\n- 建议行动：试用\n\n## 2. ios-simulator-skill: 给 Claude 装上 iPhone 假肢\n- 来源：GitHub Trending\n- 链接：https://github.com/conorluddy/ios-simulator-skill\n- 一句话解释：让 Claude Code 能够直接操控 iOS 模拟器，进行构建、运行和交互。\n- 它为什么重要：打破了 LLM 只能写代码的僵局，它现在有了**视觉反馈和交互闭环**。这是 HCI 实验的绝佳工具。\n- 技术趋势标签：#HCI #CreativeTool #MobileAgent\n- 可复用模式：**“模拟器作为 Agent 身体”模式**。\n- 疯狂发明家灵感：\n  1. **一个小实验**：让 Claude 在模拟器里玩《2048》，看它如何通过截图反馈来做决策。\n  2. **一个中型项目**：一个“UI 进化实验室”。设定一个审美目标，让 Agent 自动修改 SwiftUI 代码并在模拟器里运行，通过视觉识别打分，不断进化 UI。\n  3. **一个艺术/游戏/叙事方向**：一个住在 iPhone 里的“虚拟生命”。它会根据你手机的通知、天气、电量，自动在模拟器里生成对应的视觉艺术或日记。\n- 对我项目的启发：如果你在做 Creative Coding 或是自动化工具，这是一个现成的“手”，帮你触达移动端。\n- 今天是否值得深入研究：是\n- 建议行动：做 demo\n\n## 3. Metal Gear Solid 2 (MGS2) 源码泄露\n- 来源：Hacker News / The Gamer\n- 链接：https://www.thegamer.com/mgs2-hd-edition-source-code-massive-leak/\n- 一句话解释：传奇游戏《潜龙谍影 2》的源代码（HD版）疑似大规模泄露。\n- 它为什么重要：小岛秀夫的游戏系统是“系统化叙事”的巅峰。对于研究 **Game Systems** 和 **AI 行为树** 的跨学科学生来说，这是世界级的教科书。\n- 技术趋势标签：#GameSystems #ReverseEngineering #NarrativeSystems\n- 可复用模式：**“涌现式交互”模式**。观察 20 年前的顶级代码如何处理复杂的敌人 AI 和环境交互。\n- 疯狂发明家灵感：\n  1. **一个小实验**：在泄露的 AI 逻辑中找一段“敌人搜寻玩家”的代码，尝试用现代 LLM 重写它。\n  2. **一个中型项目**：构建一个“小岛秀夫式”的 Agent 交互系统。借鉴 MGS2 的逻辑，让 Agent 对环境中的细微变化（如地上的水渍、熄灭的灯）做出反应。\n  3. **一个艺术/游戏/叙事方向**：一个“代码考古学”装置艺术。将 MGS2 的源码片段作为随机生成的“遗迹”，在虚拟空间中展示，用户可以修改代码实时改变游戏逻辑。\n- 对我项目的启发：观察顶级游戏如何通过代码定义“世界规则”，这对你做世界生成和 Agent 交互有巨大参考价值。\n- 今天是否值得深入研究：是（纯学术/艺术研究视角）\n- 建议行动：收藏 / 搜索代码库\n\n## 4. nexu: Agent 的社交网桥\n- 来源：GitHub Trending\n- 链接：https://github.com/nexu-io/nexu\n- 一句话解释：一键将你的 Claude/Codex Agent 接入微信、飞书、Discord 等社交软件。\n- 它为什么重要：它把 Agent 从终端里解放出来，放进了**真实的人类社交上下文**中。\n- 技术趋势标签：#Automation #HCI #AgentWorkflow\n- 可复用模式：**“Agent 社交出口”模式**。\n- 疯狂发明家灵感：\n  1. **一个小实验**：做一个“代码评审机器人”，只要你在微信群发一段代码，它就自动调用 Claude Code 进行分析并回复。\n  2. **一个中型项目**：一个“跨平台自动化导演”。Agent 监控你的 Discord 需求，自动在 GitHub 写代码，并通过飞书向你汇报进度。\n  3. **一个艺术/游戏/叙事方向**：一个“多重人格社交实验”。在微信群里放 5 个性格迥异的 Agent，给它们一个初始目标（比如：策划一场谋杀案），观察它们如何与人类互动。\n- 对我项目的启发：极其适合用来展示你的 Agent 项目，让非技术人员也能通过微信体验你的发明。\n- 今天是否值得深入研究：否（原理简单，用时再看）\n- 建议行动：收藏\n\n## 5. deepclaude: 穷人的顶级 Agent 循环\n- 来源：Hacker News\n- 链接：https://github.com/aattaran/deepclaude\n- 一句话解释：用 DeepSeek V4 Pro 代替 Claude 的部分思考过程，实现 17 倍便宜的 Agent 循环。\n- 它为什么重要：疯狂发明的核心是**低成本实验**。它证明了可以通过“模型组合”来大幅降低高频 Agent 调用的成本。\n- 技术趋势标签：#LLMToolchain #CostOptimization #Agent\n- 可复用模式：**“混合脑模型”模式**。逻辑推理用便宜模型，创意/输出用贵模型。\n- 疯狂发明家灵感：\n  1. **一个小实验**：对比纯 Claude 和 DeepClaude 在解决同一个复杂 Spec 时的成本和速度。\n  2. **一个中型项目**：一个“永动机”Agent。因为它足够便宜，你可以让它 24 小时不断地在后台尝试生成新的创意、写代码、运行测试，直到产生有价值的成果。\n  3. **一个艺术/游戏/叙事方向**：一个“永不停歇的元宇宙”。Agent 不断生成世界描述、NPC 对话和任务，因为成本极低，这个世界可以无限扩张。\n- 对我项目的启发：解决你“想做大规模实验但没钱给 API 充值”的痛点。\n- 今天是否值得深入研究：是\n- 建议行动：试用\n\n---\n\n## 今日模式总结\n1.  **从“聊天”到“操控” (Chat to Control)**：Agent 正在从对话框走向 iOS 模拟器、社交软件和操作系统底层。\n2.  **混合智能架构 (Hybrid Intelligence)**：通过不同模型的组合（DeepSeek + Claude）或不同范式的组合（Spec + Prompt）来提升效率。\n\n---\n\n## 今日可做小实验：iOS 模拟器里的“数字生物”\n这是一个 2 小时内能让你兴奋起来的跨学科实验。\n\n- **项目名**：Sim-Life: UI Archeology (模拟生命：UI 考古)\n- **输入**：Claude Code + `ios-simulator-skill` + 一个基础的 SwiftUI 模板。\n- **输出**：一个在模拟器中根据“外界刺激”自动演化的 UI 界面。\n- **技术栈**：Claude Code, Xcode Simulator, TypeScript/Swift.\n- **第一步怎么做**：\n    1.  安装 `ios-simulator-skill`。\n    2.  启动 Claude Code，连接到你的 iOS 模拟器环境。\n    3.  给 Claude 一个指令：“在模拟器里启动一个空白 App。现在，你是一个住在手机里的数字生物，你的‘心情’由我当前系统的电量决定（你可以读取它）。请你根据心情，实时修改这个 App 的 SwiftUI 代码，改变它的颜色、形状和动画。开始你的表演。”\n    4.  观察 Claude 如何一边写代码，一边在模拟器里查看效果。\n\n**祝你今天发明愉快！如果有哪个项目让你想到了更疯狂的点子，随时告诉我。**",
+  "gemini_success": true,
+  "telegram_sent": true,
+  "telegram_status": "sent",
+  "telegram_reason": ""
+}
