@@ -1,0 +1,283 @@
+[
+  {
+    "title": "MervinPraison / PraisonAI",
+    "url": "https://github.com/MervinPraison/PraisonAI",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with built-in memory, RAG, and support for 100+ LLMs. [17 stars today]",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "autonomous",
+      "RAG",
+      "memory"
+    ]
+  },
+  {
+    "title": "ruvnet / ruflo",
+    "url": "https://github.com/ruvnet/ruflo",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration [2,598 stars today]",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "workflow",
+      "autonomous",
+      "RAG"
+    ]
+  },
+  {
+    "title": "BlenderRAG: High-Fidelity 3D Object Generation via Retrieval-Augmented Code Synthesis",
+    "url": "https://arxiv.org/abs/2605.00632",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 04 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.00632v1 Announce Type: cross \nAbstract: Automatic generation of executable Blender code from natural language remains challenging, with state-of-the-art LLMs producing frequent syntactic errors and geometrically inconsistent objects. We present BlenderRAG, a retrieval-augmented generation system that operates on a curated multimodal dataset of 500 expert-validated examples (text, code, image) across 50 object categories. By retrieving semantically similar examples during generation, B",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "multimodal",
+      "RAG",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Collective Recourse for Generative Urban Visualizations",
+    "url": "https://arxiv.org/abs/2509.11487",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 04 May 2026 00:00:00 -0400",
+    "description": "arXiv:2509.11487v2 Announce Type: replace \nAbstract: Text-to-image diffusion models help visualize urban futures but can amplify group-level harms. We propose collective recourse: structured community \"visual bug reports\" that trigger fixes to models and planning workflows. We (1) formalize collective recourse and a practical pipeline (report, triage, fix, verify, closure); (2) situate four recourse primitives within the diffusion stack: counter-prompts, negative prompts, dataset edits, and rewa",
+    "score": 10.0,
+    "keywords_matched": [
+      "workflow",
+      "diffusion",
+      "prompt",
+      "planning",
+      "generative"
+    ]
+  },
+  {
+    "title": "Video Game Accessibility through Shared Control for People with Upper-Limb Impairments",
+    "url": "https://arxiv.org/abs/2601.11218",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 04 May 2026 00:00:00 -0400",
+    "description": "arXiv:2601.11218v2 Announce Type: replace \nAbstract: Interacting with video games is challenging for people with upper-limb impairments, especially when multiple hand-based inputs are required in rapid succession. Human cooperation, where another person assists the player, has been proposed as a solution, but it is limited by copilot availability and co-location. An alternative is partial automation, where the player is assisted by a software agent. We present a study with 13 participants with u",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Copilot",
+      "automation",
+      "game"
+    ]
+  },
+  {
+    "title": "SPLICE: Latent Diffusion over JEPA Embeddings for Conformal Time-Series Inpainting",
+    "url": "https://arxiv.org/abs/2605.00126",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 04 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.00126v1 Announce Type: new \nAbstract: Generative models for time-series imputation achieve strong reconstruction accuracy, yet provide no finite-sample reliability guarantees, a critical limitation in power systems where imputed values inform dispatch and planning. We introduce SPLICE (Self-supervised Predictive Latent Inpainting with Conformal Envelopes), a modular framework coupling latent generative imputation with distribution-free, online-adaptive prediction intervals. A JEPA enc",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "diffusion",
+      "embedding",
+      "planning",
+      "generative"
+    ]
+  },
+  {
+    "title": "Diversity in Large Language Models under Supervised Fine-Tuning",
+    "url": "https://arxiv.org/abs/2605.00195",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 04 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.00195v1 Announce Type: new \nAbstract: Supervised Fine-Tuning (SFT) is essential for aligning Large Language Models (LLMs) with user intent, yet it is believed to suppress generative diversity. Although this reduction is frequently referenced, formal empirical testing of the phenomenon remains limited. The expressiveness of LLMs by itself was addressed by multiple prior methods. Their varying perspectives suggest that deeper analysis could yield further improvements. In this study, we ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "fine-tuning",
+      "generative"
+    ]
+  },
+  {
+    "title": "Prop-Chromeleon: Adaptive Haptic Props in Mixed Reality through Generative Artificial Intelligence",
+    "url": "https://arxiv.org/abs/2605.00804",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 04 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.00804v1 Announce Type: new \nAbstract: Mixed Reality (MR) aims to blend digital and physical worlds, but the absence of haptic feedback often breaks visual-tactile consistency. We introduce Prop-Chromeleon, a MR system based on generative artificial intelligence (AI) that dynamically transforms everyday objects into adaptive passive haptic props through user-provided text prompts. Our AI pipeline performs generation and anchoring of virtual assets that align with the shape of physical ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "generative art",
+      "prompt",
+      "generative"
+    ]
+  },
+  {
+    "title": "Understanding the Human-LLM Dynamic: A Literature Survey of LLM Use in Programming Tasks",
+    "url": "https://arxiv.org/abs/2410.01026",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 04 May 2026 00:00:00 -0400",
+    "description": "arXiv:2410.01026v2 Announce Type: replace-cross \nAbstract: Large Language Models (LLMs) are transforming programming practices, offering significant capabilities for code generation activities. While researchers have explored the potential of LLMs in various domains, this paper focuses on their use in programming tasks, drawing insights from user studies that assess the impact of LLMs on programming tasks. We first examined the user interaction behaviors with LLMs observed in these studies, from",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "code generation"
+    ]
+  },
+  {
+    "title": "Towards A Generative Protein Evolution Machine with DPLM-Evo",
+    "url": "https://arxiv.org/abs/2605.00182",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 04 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.00182v1 Announce Type: new \nAbstract: Proteins are shaped by gradual evolution under biophysical and functional constraints. Protein language models learn rich evolutionary constraints from large-scale sequences, and discrete diffusion-based protein language models~(\\eg, DPLMs) are promising for both understanding and generation. However, existing DPLMs typically rely on masking-based absorbing diffusion that contradicts a simple biological intuition: proteins evolve through accumulat",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "diffusion",
+      "language model",
+      "generative"
+    ]
+  },
+  {
+    "title": "Conformalized Quantum DeepONet Ensembles for Scalable Operator Learning with Distribution-Free Uncertainty",
+    "url": "https://arxiv.org/abs/2605.00330",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 04 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.00330v1 Announce Type: new \nAbstract: Operator learning enables fast surrogate modeling of high-dimensional dynamical systems, but existing approaches face two fundamental limitations: quadratic inference complexity and unreliable uncertainty quantification in safety-critical settings. We propose Conformalized Quantum DeepONet Ensembles, a framework that addresses both challenges simultaneously. By leveraging Quantum Orthogonal Neural Networks (QOrthoNNs), we reduce operator inference",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "neural",
+      "RAG",
+      "inference"
+    ]
+  },
+  {
+    "title": "Odysseus: Scaling VLMs to 100+ Turn Decision-Making in Games via Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2605.00347",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 04 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.00347v1 Announce Type: new \nAbstract: Given the rapidly growing capabilities of vision-language models (VLMs), extending them to interactive decision-making tasks such as video games has emerged as a promising frontier. However, existing approaches either rely on large-scale supervised fine-tuning (SFT) on human trajectories or apply reinforcement learning (RL) only in relatively short-horizon settings (typically around 20--30 turns). In this work, we study RL-based training of VLMs f",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "game",
+      "language model",
+      "fine-tuning"
+    ]
+  },
+  {
+    "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
+    "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
+    "source": "Hacker News Best",
+    "published_at": "Sun, 03 May 2026 04:05:28 +0000",
+    "description": "Article URL: https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/ Comments URL: https://news.ycombinator.com/item?id=47993235 Points: 375 # Comments: 218",
+    "score": 6.0,
+    "keywords_matched": [
+      "Claude",
+      "Gemini",
+      "GPT"
+    ]
+  },
+  {
+    "title": "What is (H)CI: Why Does the \"Human'' Matter?",
+    "url": "https://arxiv.org/abs/2605.00109",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 04 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.00109v1 Announce Type: new \nAbstract: Human-Computer Interaction (HCI) is a diverse field bringing together theories and methods from fields such as computer science, psychology, and human factors. Historically, HCI has focused on the human through ``user'' or ``human'' centered design, where the focus was either on information processing or understanding people and their concerns with respect to technology. However, amid the increasing adoption of generative AI tools, this workshop e",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "HCI",
+      "generative"
+    ]
+  },
+  {
+    "title": "The impact of coercive, normative, and mimetic Stress on Chinese teachers' continuance intention to use generative AI: An integrated perspective of the Expectation-Confirmation Model and Institutional Theory",
+    "url": "https://arxiv.org/abs/2605.00522",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 04 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.00522v1 Announce Type: new \nAbstract: This study investigates Chinese teachers' continuance intention to use generative artificial intelligence (AI) by integrating the Expectation-Confirmation Model with Institutional Theory. A sequential explanatory mixed-methods design was employed. Questionnaire data from 437 teachers were analysed using structural equation modelling, followed by semi-structured interviews with 15 teachers to further interpret the findings. The results indicate tha",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "generative art",
+      "generative"
+    ]
+  },
+  {
+    "title": "How Frontier LLMs Adapt to Neurodivergence Context: A Measurement Framework for Surface vs. Structural Change in System-Prompted Responses",
+    "url": "https://arxiv.org/abs/2605.00113",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 04 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.00113v1 Announce Type: cross \nAbstract: We examine if frontier chat-based large language models (LLMs) adjust their outputs based on neurodivergence (ND) context in system prompts and describe the nature of these adjustments. Specifically, we propose NDBench, a 576-output benchmark involving two frontier models, three system prompt types (baseline, ND-profile assertion, and ND-profile assertion with explicit instructions for adjustments), four canonical ND profiles, and 24 prompts acr",
+    "score": 6.0,
+    "keywords_matched": [
+      "LLM",
+      "language model",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Are You the A-hole? A Fair, Multi-Perspective Ethical Reasoning Framework",
+    "url": "https://arxiv.org/abs/2605.00270",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 04 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.00270v1 Announce Type: cross \nAbstract: Standard methods for aggregating natural language judgments, such as majority voting, often fail to produce logically consistent results when applied to high-conflict domains, treating differing opinions as noise. We propose a neuro-symbolic aggregation framework that formalizes conflict resolution through Weighted Maximum Satisfiability (MaxSAT). Our pipeline utilizes a language model to map unstructured natural language explanations into inter",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Vibe Coding in Product Teams: Reconfiguring AI-Assisted Workflows, Prototyping, and Collaboration",
+    "url": "https://arxiv.org/abs/2509.10652",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 04 May 2026 00:00:00 -0400",
+    "description": "arXiv:2509.10652v3 Announce Type: replace \nAbstract: Generative AI is reshaping product design practices through \"vibe coding,\" where product team members express intent in natural language and AI translates it into functional prototypes and code. Despite rapid adoption, little research has examined how vibe coding reconfigures product development workflows and collaboration. Drawing on interviews with 22 product team members across enterprises, startups, and academia, we show how vibe coding fo",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "workflow",
+      "generative"
+    ]
+  },
+  {
+    "title": "Comparing Exploration-Exploitation Strategies of LLMs and Humans: Insights from Standard Multi-armed Bandit Experiments",
+    "url": "https://arxiv.org/abs/2505.09901",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 04 May 2026 00:00:00 -0400",
+    "description": "arXiv:2505.09901v3 Announce Type: replace-cross \nAbstract: Large language models (LLMs) are increasingly used to simulate or automate human behavior in complex sequential decision-making settings. A natural question is then whether LLMs exhibit similar decision-making behavior to humans, and can achieve comparable (or superior) performance. In this work, we focus on the exploration-exploitation (E&E) tradeoff, a fundamental aspect of dynamic decision-making under uncertainty. We employ canonical",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model"
+    ]
+  },
+  {
+    "title": "Scaling Laws for Moral Machine Judgment in Large Language Models",
+    "url": "https://arxiv.org/abs/2601.17637",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 04 May 2026 00:00:00 -0400",
+    "description": "arXiv:2601.17637v3 Announce Type: replace-cross \nAbstract: Autonomous systems increasingly require moral judgment capabilities, yet whether these capabilities scale predictably with model size remains unexplored. We systematically evaluate 75 large language model configurations (0.27B--1000B parameters) using the Moral Machine framework, measuring alignment with human preferences in life-death dilemmas. We observe a consistent power-law relationship with distance from human preferences ($D$) dec",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "language model",
+      "autonomous"
+    ]
+  }
+]
