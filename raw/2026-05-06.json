@@ -1,0 +1,295 @@
+[
+  {
+    "title": "Agentopic: A Generative AI Agent Workflow for Explainable Topic Modeling",
+    "url": "https://arxiv.org/abs/2605.00833",
+    "source": "arXiv cs.LG",
+    "published_at": "Tue, 05 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.00833v1 Announce Type: new \nAbstract: Agentopic is a novel agent-based workflow for explainable topic modeling that leverages the reasoning capabilities of Large Language Models (LLMs). Existing topic modeling approaches such as Latent Dirichlet Allocation (LDA) and BERTopic often lack transparency on how topics are assigned or grouped. Agentopic addresses this by using multiple agents that collaboratively perform topic identification, validation, hierarchical grouping, and natural la",
+    "score": 16.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "language model",
+      "RAG",
+      "reasoning",
+      "generative"
+    ]
+  },
+  {
+    "title": "ruvnet / ruflo",
+    "url": "https://github.com/ruvnet/ruflo",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration [2,432 stars today]",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "workflow",
+      "autonomous",
+      "RAG"
+    ]
+  },
+  {
+    "title": "Minimal, Local, Causal Explanations for Jailbreak Success in Large Language Models",
+    "url": "https://arxiv.org/abs/2605.00123",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 05 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.00123v1 Announce Type: new \nAbstract: Safety trained large language models (LLMs) can often be induced to answer harmful requests through jailbreak prompts. Because we lack a robust understanding of why LLMs are susceptible to jailbreaks, future frontier models operating more autonomously in higher-stakes settings may similarly be vulnerable to such attacks. Prior work has studied jailbreak success by examining the model's intermediate representations, identifying directions in this s",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "autonomous",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Are Tools All We Need? Unveiling the Tool-Use Tax in LLM Agents",
+    "url": "https://arxiv.org/abs/2605.00136",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 05 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.00136v1 Announce Type: new \nAbstract: Tool-augmented reasoning has become a popular direction for LLM-based agents, and it is widely assumed to improve reasoning and reliability. However, we demonstrate that this consensus does not always hold: in the presence of semantic distractors, tool-augmented reasoning does not necessarily outperform native CoT. To explain this performance gap, we propose a Factorized Intervention Framework that isolates the cost of prompt formatting, the overh",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "prompt",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Position: agentic AI orchestration should be Bayes-consistent",
+    "url": "https://arxiv.org/abs/2605.00742",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 05 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.00742v1 Announce Type: new \nAbstract: LLMs excel at predictive tasks and complex reasoning tasks, but many high-value deployments rely on decisions under uncertainty, for example, which tool to call, which expert to consult, or how many resources to invest. While the usefulness and feasibility of Bayesian approaches remain unclear for LLM inference, this position paper argues that the control layer of an agentic AI system (that orchestrates LLMs and tools) is a clear case where Bayesi",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "inference",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "SiriusHelper: An LLM Agent-Based Operations Assistant for Big Data Platforms",
+    "url": "https://arxiv.org/abs/2605.00043",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 05 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.00043v1 Announce Type: cross \nAbstract: Big data platforms are widely used in modern enterprises, and an in-production intelligent assistant is increasingly important to help users quickly find actionable guidance and reduce operational burden. While recent LLM+RAG assistants provide a natural interface, they face practical challenges in real deployments: limited scenario coverage across both general consultation and domain-specific troubleshooting workflows, inefficient knowledge acc",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "RAG"
+    ]
+  },
+  {
+    "title": "The Garden of Forking Paths: Narrative Arc-Conditioned Gameplay Planning",
+    "url": "https://arxiv.org/abs/2605.01245",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 05 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.01245v1 Announce Type: new \nAbstract: Narrative archetypes (e.g., Hero's Journey, Three-act structure) provide universal story structures that resonate across cultures and media and are important for video game storytelling, yet existing LLM-based methods lack explicit use of these archetypes in procedurally generated games. We propose Forking Garden, a framework for narrative arc-conditioned gameplay planning that generates branching games from user-provided storylines. Our approach ",
+    "score": 10.0,
+    "keywords_matched": [
+      "LLM",
+      "game",
+      "planning",
+      "narrative",
+      "procedural"
+    ]
+  },
+  {
+    "title": "Seeking Information with RAG-Assistants: Does Model Size Matter in Human-AI Collaborations?",
+    "url": "https://arxiv.org/abs/2605.00964",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 05 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.00964v1 Announce Type: cross \nAbstract: Much research on LLMs has focused on increasing benchmark performance. However, the evaluation of such models in real-world collaborative human-AI workflows has stayed behind. This work evaluates a chatbot-style assistant based on Retrieval-Augmented Generation (RAG) in a realistic multi-turn information-seeking scenario inspired by workplace settings where compliance with local legislation and secure handling of sensitive data are often key. Sp",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "workflow",
+      "RAG",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Automated Interpretability and Feature Discovery in Language Models with Agents",
+    "url": "https://arxiv.org/abs/2605.01555",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 05 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.01555v1 Announce Type: cross \nAbstract: We introduce an autonomous multiagent framework for mechanistic interpretability that automates both explaining and finding internal features in large language models. The system runs two coupled loops: (1) explanation refinement, where an agent proposes competing hypotheses and iteratively tests them with targeted prompt controls and a multi-metric evaluation; and (2) feature discovery, where an agent generates prompt sets, constructs a k-neare",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "language model",
+      "autonomous",
+      "prompt"
+    ]
+  },
+  {
+    "title": "TUR-DPO: Topology- and Uncertainty-Aware Direct Preference Optimization",
+    "url": "https://arxiv.org/abs/2605.00224",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 05 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.00224v1 Announce Type: new \nAbstract: Aligning large language models (LLMs) with human preferences is commonly done via reinforcement learning from human feedback (RLHF) with Proximal Policy Optimization (PPO) or, more simply, via Direct Preference Optimization (DPO). While DPO is stable and RL-free, it treats preferences as flat winner vs. loser signals and is sensitive to noisy or brittle preferences arising from fragile chains of thought. We propose TUR-DPO, a topology- and uncerta",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "RAG"
+    ]
+  },
+  {
+    "title": "AgentFloor: How Far Up the tool use Ladder Can Small Open-Weight Models Go?",
+    "url": "https://arxiv.org/abs/2605.00334",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 05 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.00334v1 Announce Type: new \nAbstract: Production agentic systems make many model calls per user request, and most of those calls are short, structured, and routine. This raises a practical routing question that existing evaluations do not directly answer: which parts of an agent workflow truly require large frontier intelligence, and which can be handled by smaller models? We introduce AgentFloor, a deterministic 30-task benchmark organized as a six-tier capability ladder, spanning in",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow",
+      "tool use"
+    ]
+  },
+  {
+    "title": "AEM: Adaptive Entropy Modulation for Multi-Turn Agentic Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2605.00425",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 05 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.00425v1 Announce Type: new \nAbstract: Reinforcement learning (RL) has significantly advanced the ability of large language model (LLM) agents to interact with environments and solve multi-turn tasks. Yet effective training remains challenging, as sparse, outcome-only rewards make it difficult to assign credit to individual steps in an agent's action trajectory. A common remedy is to introduce dense intermediate supervision, such as process reward models or auxiliary self-supervised si",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model"
+    ]
+  },
+  {
+    "title": "To Call or Not to Call: A Framework to Assess and Optimize LLM Tool Calling",
+    "url": "https://arxiv.org/abs/2605.00737",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 05 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.00737v1 Announce Type: new \nAbstract: Agentic AI architectures augment LLMs with external tools, unlocking strong capabilities. However, tool use is not always beneficial; some calls may be redundant or even harmful. Effective tool use, therefore, hinges on a core LLM decision: whether to call or not call a tool, when performing a task. This decision is particularly challenging for web search tools, where the benefits of external information depend on the model's internal knowledge an",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "tool use"
+    ]
+  },
+  {
+    "title": "Mean-Field Path-Integral Diffusion: From Samples to Interacting Agents",
+    "url": "https://arxiv.org/abs/2605.00007",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 05 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.00007v1 Announce Type: cross \nAbstract: Independent sample generation is the prevailing paradigm in modern diffusion-based generative models of AI. We ask a different question: can samples \\emph{coordinate} through shared population statistics to transport probability mass more efficiently? We introduce Mean-Field Path-Integral Diffusion (MF-PID), a framework in which samples are promoted to interacting agents whose drift depends self-consistently on the evolving population density. T",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "diffusion",
+      "generative"
+    ]
+  },
+  {
+    "title": "Dynamic-TD3: A Novel Algorithm for UAV Path Planning with Dynamic Obstacle Trajectory Prediction",
+    "url": "https://arxiv.org/abs/2605.00059",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 05 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.00059v1 Announce Type: cross \nAbstract: Deep reinforcement learning (DRL) finds extensive application in autonomous drone navigation within complex, high-risk environments. However, its practical deployment faces a safety-exploration dilemma: soft penalty mechanisms encourage risky trial-and-error, while most constraint-based methods suffer degraded performance under sensor noise and intent uncertainty. We propose Dynamic-TD3, a physically enhanced framework that enforces strict safet",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "autonomous",
+      "RAG",
+      "planning"
+    ]
+  },
+  {
+    "title": "A Survey of Reasoning-Intensive Retrieval: Progress and Challenges",
+    "url": "https://arxiv.org/abs/2605.00063",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 05 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.00063v1 Announce Type: cross \nAbstract: Reasoning-Intensive Retrieval (RIR) targets retrieval settings where relevance is mediated by latent inferential links between a query and supporting evidence, rather than semantic similarity. Motivated by the emergent reasoning abilities of Large Language Models (LLMs), recent work integrates these capabilities into the IR field, spanning the entire pipeline from benchmarks to retrievers and rerankers. Despite this progress, the field lacks a s",
+    "score": 8.0,
+    "keywords_matched": [
+      "LLM",
+      "language model",
+      "reasoning",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Artificial intelligence language technologies in multilingual healthcare: Grand challenges ahead",
+    "url": "https://arxiv.org/abs/2605.01441",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 05 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.01441v1 Announce Type: cross \nAbstract: AI language technologies (AILTs), increasingly enabled by large language models (LLMs), are becoming embedded in multilingual healthcare workflows for translation, rewriting, documentation, interpreting, and messaging in language-discordant settings. Yet fluent output is not the same as clinically safe or equitable communication: performance varies across languages, accents, tasks, and workflows, and efficiency gains can hide errors, reduce trac",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "workflow",
+      "language model"
+    ]
+  },
+  {
+    "title": "GAZE: Grounded Agentic Zero-shot Evaluation with Viewer-Level Tools and Literature Retrieval on Rare Brain MRI",
+    "url": "https://arxiv.org/abs/2605.00876",
+    "source": "arXiv cs.LG",
+    "published_at": "Tue, 05 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.00876v1 Announce Type: new \nAbstract: Vision-language models (VLMs) read an image and produce text in a single forward pass, whereas radiologists typically inspect an image several times and consult the literature before writing a report. We introduce GAZE (Grounded Agentic Zero-shot Evaluation), a framework that lets a medical VLM work in this iterative way by calling viewer-level tools (zoom, windowing, contrast, edge detection) and two retrieval tools backed by the U.S. National Li",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "language model",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Watch Your Step: Information Injection in Diffusion Models via Shadow Timestep Embedding",
+    "url": "https://arxiv.org/abs/2605.00935",
+    "source": "arXiv cs.LG",
+    "published_at": "Tue, 05 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.00935v1 Announce Type: new \nAbstract: Diffusion models have become the foundation of modern generative systems, with most research focusing primarily on improving generation efficiency and output quality. The timestep embedding component is a crucial part of the diffusion pipeline, which provides a temporal conditioning signal to the denoising network, enabling it to adapt its predictions across different noise levels throughout the process. Despite their potential to contain substant",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "diffusion",
+      "embedding",
+      "generative"
+    ]
+  },
+  {
+    "title": "Learning in the Fisher Subspace: A Guided Initialization for LoRA Fine-Tuning",
+    "url": "https://arxiv.org/abs/2605.01046",
+    "source": "arXiv cs.LG",
+    "published_at": "Tue, 05 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.01046v1 Announce Type: new \nAbstract: LoRA adapts large language models (LLMs) by restricting updates to low-rank subspaces of pre-trained weights. While this substantially reduces training cost, the effectiveness of adaptation critically depends on which subspace is chosen at initialization: a poor initialization that allocates capacity to task-irrelevant directions can severely hinder downstream performance. Existing initialization strategies primarily rely on the intrinsic properti",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "fine-tuning"
+    ]
+  }
+]
