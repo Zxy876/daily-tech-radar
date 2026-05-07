@@ -1,0 +1,303 @@
+[
+  {
+    "title": "Towards Multi-Agent Autonomous Reasoning in Hydrodynamics",
+    "url": "https://arxiv.org/abs/2605.01102",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 06 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.01102v1 Announce Type: new \nAbstract: Single-agent systems (SAS) have become the default pattern for LLM-driven scientific workflows, but routing planning, tool use, and synthesis through a single context window comes with a well-known cost: as tool specifications and observational traces accumulate, the effective context available for each decision shrinks, and end-to-end reliability suffers. We present a multi-agent system (MAS) prototype for hydrodynamics in which specialized agent",
+    "score": 18.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "autonomous",
+      "tool use",
+      "context window",
+      "reasoning",
+      "planning"
+    ]
+  },
+  {
+    "title": "A Low-Latency Fraud Detection Layer for Detecting Adversarial Interaction Patterns in LLM-Powered Agents",
+    "url": "https://arxiv.org/abs/2605.01143",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 06 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.01143v1 Announce Type: new \nAbstract: Large Language Model (LLM)-powered agents demonstrate strong capabilities in autonomous task execution, tool use, and multi-step reasoning. However, their increasing autonomy also introduces a new attack surface: adversarial interactions can manipulate agent behavior through direct prompt injection, indirect content attacks, and multi-turn escalation strategies. Existing defense strategies focus on prompt-level filtering and rule-based guardrails,",
+    "score": 16.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "autonomous",
+      "tool use",
+      "prompt",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Virtual Speech Therapist: A Clinician-in-the-Loop AI Speech Therapy Agent for Personalized and Supervised Therapy",
+    "url": "https://arxiv.org/abs/2605.01101",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 06 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.01101v1 Announce Type: new \nAbstract: This paper develops Virtual Speech Therapist (VST), an intelligent agent-based platform that streamlines stuttering assessment and delivers customized therapy planning through automated and adaptive AI-driven workflows. VST integrates state-of-the-art deep learning-based stuttering classification, and multi-agent large language model (LLM) reasoning to support evidence-based clinical decision-making. The VST begins with the acquisition and feature",
+    "score": 14.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "language model",
+      "reasoning",
+      "planning"
+    ]
+  },
+  {
+    "title": "Reward Hacking Benchmark: Measuring Exploits in LLM Agents with Tool Use",
+    "url": "https://arxiv.org/abs/2605.02964",
+    "source": "arXiv cs.LG",
+    "published_at": "Wed, 06 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.02964v1 Announce Type: new \nAbstract: Reinforcement learning (RL) trained language model agents with tool access are increasingly deployed in coding assistants, research tools, and autonomous systems. We introduce the Reward Hacking Benchmark (RHB), a suite of multi-step tasks requiring sequential tool operations with naturalistic shortcut opportunities such as skipping verification steps, inferring answers from task-adjacent metadata, or tampering with evaluation-relevant functions. ",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "autonomous",
+      "tool use"
+    ]
+  },
+  {
+    "title": "ruvnet / ruflo",
+    "url": "https://github.com/ruvnet/ruflo",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration [2,192 stars today]",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "workflow",
+      "autonomous",
+      "RAG"
+    ]
+  },
+  {
+    "title": "Lifting Traces to Logic: Programmatic Skill Induction with Neuro-Symbolic Learning for Long-Horizon Agentic Tasks",
+    "url": "https://arxiv.org/abs/2605.01293",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 06 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.01293v1 Announce Type: new \nAbstract: Foundation model-driven agents often struggle with long-horizon planning due to the transient nature of purely prompting-based reasoning. While existing skill induction methods mitigate this by distilling experience into state-blind parameterized scripts, they fail to capture the conditional logic required for robust execution in dynamic environments. In this paper, we propose Neuro-Symbolic Skill Induction (NSI), a framework that lifts interactio",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "prompt",
+      "reasoning",
+      "planning"
+    ]
+  },
+  {
+    "title": "Attention: What Prevents Young Adults from Speaking Up Against Cyberbullying in an LLM-Powered Social Media Simulation",
+    "url": "https://arxiv.org/abs/2605.03287",
+    "source": "arXiv cs.HC",
+    "published_at": "Wed, 06 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.03287v1 Announce Type: new \nAbstract: Interactive, multi-agent social simulation systems have shown promise for helping users practice navigating various complex social situations across domains. This paper asks: To what extent can such systems help young adult (YA) bystanders speak up publicly against cyberbullying, a task often thwarted by complex, multi-party social dynamics? We created Upstanders' Practicum, a multi-AI-agent social media simulation powered by Large Language Models",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "simulation",
+      "language model"
+    ]
+  },
+  {
+    "title": "Designing Psychometric Bias Measures for ChatBots: An Application to Racial Bias Measurement",
+    "url": "https://arxiv.org/abs/2509.13324",
+    "source": "arXiv cs.HC",
+    "published_at": "Wed, 06 May 2026 00:00:00 -0400",
+    "description": "arXiv:2509.13324v3 Announce Type: replace \nAbstract: Artificial intelligence (AI), particularly in the form of large language models (LLMs) or chatbots, has become increasingly integrated into our daily lives. In the past five years, several LLMs have been introduced, including ChatGPT by OpenAI, Claude by Anthropic, and Llama by Meta, among others. These models have the potential to be employed across a wide range of human-machine interaction applications, such as chatbots for information retri",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "Claude",
+      "GPT",
+      "language model"
+    ]
+  },
+  {
+    "title": "Code Semantic Zooming",
+    "url": "https://arxiv.org/abs/2510.06452",
+    "source": "arXiv cs.HC",
+    "published_at": "Wed, 06 May 2026 00:00:00 -0400",
+    "description": "arXiv:2510.06452v2 Announce Type: replace \nAbstract: Recent advances in Large Language Models (LLMs) have introduced a new paradigm for software development, where source code is generated from natural language prompts. While this paradigm significantly boosts development productivity, building complex, real-world software systems remains challenging because natural language offers limited control over the code generation process. Inspired by the historical evolution of programming languages tow",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "code generation",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Generate, Filter, Control, Replay: A Comprehensive Survey of Rollout Strategies for LLM Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2605.02913",
+    "source": "arXiv cs.LG",
+    "published_at": "Wed, 06 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.02913v1 Announce Type: new \nAbstract: Reinforcement learning (RL) has become a central post-training tool for improving the reasoning abilities of large language models (LLMs). In these systems, the rollout, the trajectory sampled from a prompt to termination, including intermediate reasoning steps and optional tool or environment interactions, determines the data the optimizer learns from, yet rollout design is often underreported. This survey provides an optimizer-agnostic view of r",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "prompt",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "PERSA: Reinforcement Learning for Professor-Style Personalized Feedback with LLMs",
+    "url": "https://arxiv.org/abs/2605.01123",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 06 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.01123v1 Announce Type: new \nAbstract: Large language models (LLMs) can provide automated feedback in educational settings, but aligning an LLMs style with a specific instructors tone while maintaining diagnostic correctness remains challenging. We ask how can we update an LLM for automated feedback generation to align with a target instructors style without sacrificing core knowledge? We study how Reinforcement Learning from Human Feedback (RLHF) can adapt a transformer-based LLM to g",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "transformer",
+      "language model"
+    ]
+  },
+  {
+    "title": "GR-Ben: A General Reasoning Benchmark for Evaluating Process Reward Models",
+    "url": "https://arxiv.org/abs/2605.01203",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 06 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.01203v1 Announce Type: new \nAbstract: Currently, process reward models (PRMs) have exhibited remarkable potential for test-time scaling. Since large language models (LLMs) regularly generate flawed intermediate reasoning steps when tackling a broad spectrum of reasoning and decision-making tasks, PRMs are required to possess capabilities for detecting process-level errors in real-world scenarios. However, existing benchmarks primarily focus on mathematical reasoning, thereby failing t",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Valley3: Scaling Omni Foundation Models for E-commerce",
+    "url": "https://arxiv.org/abs/2605.01278",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 06 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.01278v1 Announce Type: new \nAbstract: In this work, we present Valley3, an omni multimodal large language model (MLLM) developed for diverse global e-commerce tasks, with unified understanding and reasoning capabilities across text, images, video, and audio. A key feature of Valley3 is its native multilingual audio capability for e-commerce, developed by extending vision-language models to better support crucial audio-visual tasks, particularly in short-video scenarios. To achieve thi",
+    "score": 8.0,
+    "keywords_matched": [
+      "LLM",
+      "language model",
+      "multimodal",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "DiagramNet: An End-to-End Recognition Framework and Dataset for Non-Standard System-Level Diagrams",
+    "url": "https://arxiv.org/abs/2605.01338",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 06 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.01338v1 Announce Type: new \nAbstract: System-level diagrams encode the architectural blueprint of chip design, specifying module functions, dataflows, and interface protocols. However, non-standardized symbols and the scarcity of structured training data hinder existing multimodal large language models (MLLMs) from recognizing these diagrams. To address this gap, we introduce DiagramNet, the first multimodal dataset for system-level diagrams, comprising 10,977 connection annotations a",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "multimodal"
+    ]
+  },
+  {
+    "title": "CoFlow: Coordinated Few-Step Flow for Offline Multi-Agent Decision Making",
+    "url": "https://arxiv.org/abs/2605.01457",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 06 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.01457v1 Announce Type: new \nAbstract: Generative models have emerged as a major paradigm for offline multi-agent reinforcement learning (MARL), but existing approaches require many iterative sampling steps. Recent few-step accelerations either distill a joint teacher into independent students or apply averaged velocities independently per agent, suggesting that few-step inference requires sacrificing inter-agent coordination. We show this trade-off is not necessary: single-pass multi-",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "RAG",
+      "inference",
+      "generative"
+    ]
+  },
+  {
+    "title": "Grounding Multi-Hop Reasoning in Structural Causal Models via Group Relative Policy Optimization",
+    "url": "https://arxiv.org/abs/2605.01482",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 06 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.01482v1 Announce Type: new \nAbstract: Multi-Hop Fact Verification (MHFV) necessitates complex reasoning across disparate evidence, posing significant challenges for Large Language Models (LLMs) which often suffer from hallucinations and fractured logical chains. Existing methods, while improving transparency via Chain-of-Thought (CoT), lack explicit modeling of the causal dependencies between evidence and claims. In this work, we introduce a novel framework that grounds reasoning in a",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "ADAPTS: Agentic Decomposition for Automated Protocol-agnostic Tracking of Symptoms",
+    "url": "https://arxiv.org/abs/2605.03212",
+    "source": "arXiv cs.HC",
+    "published_at": "Wed, 06 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.03212v1 Announce Type: cross \nAbstract: Modeling latent clinical constructs from unconstrained clinical interactions is a unique challenge in affective computing. We present ADAPTS (Agentic Decomposition for Automated Protocol-agnostic Tracking of Symptoms), a framework for automated rating of depression and anxiety severity using a mixture-of-agents LLM architecture. This approach decomposes long-form clinical interviews into symptom-specific reasoning tasks, producing auditable just",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "AI Agents for Inventory Control: Human-LLM-OR Complementarity",
+    "url": "https://arxiv.org/abs/2602.12631",
+    "source": "arXiv cs.HC",
+    "published_at": "Wed, 06 May 2026 00:00:00 -0400",
+    "description": "arXiv:2602.12631v2 Announce Type: replace-cross \nAbstract: Inventory control is a fundamental operations problem in which ordering decisions are traditionally guided by theoretically grounded operations research (OR) algorithms. However, such algorithms often rely on rigid modeling assumptions and can perform poorly when demand distributions shift or relevant contextual information is unavailable. Recent advances in large language models (LLMs) have generated interest in AI agents that can reaso",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model"
+    ]
+  },
+  {
+    "title": "An End-to-End Framework for Building Large Language Models for Software Operations",
+    "url": "https://arxiv.org/abs/2605.02906",
+    "source": "arXiv cs.LG",
+    "published_at": "Wed, 06 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.02906v1 Announce Type: new \nAbstract: In the field of software operations, Large Language Models (LLMs) have attracted increasing attention. However, existing research has not yet achieved efficient and effective end-to-end intelligent operations due to low-quality data, fragmented knowledge and insufficient learning. To explore the potential of LLMs in software operations, we propose OpsLLM, a domain-specific LLM that supports both knowledge-based question answering (QA) and root cau",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "RAG"
+    ]
+  },
+  {
+    "title": "From Synthesis to Clinical Assistance: A Strategy-Aware Agent Framework for Autism Intervention based on Real Clinical Dataset",
+    "url": "https://arxiv.org/abs/2605.02916",
+    "source": "arXiv cs.LG",
+    "published_at": "Wed, 06 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.02916v1 Announce Type: new \nAbstract: The development of AI-assisted Early Intensive Behavioral Intervention (EIBI) for Autism Spectrum Disorder (ASD) is severely constrained by data scarcity. Furthermore, while Applied Behavior Analysis (ABA) serves as the gold standard for clinical intervention, general-purpose Large Language Models (LLMs) struggle to strictly adhere to its standardized procedures, often resulting in interactions that are linguistically fluent but strategically inco",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model"
+    ]
+  }
+]
