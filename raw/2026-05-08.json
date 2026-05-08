@@ -1,0 +1,299 @@
+[
+  {
+    "title": "CreativityBench: Evaluating Agent Creative Reasoning via Affordance-Based Tool Repurposing",
+    "url": "https://arxiv.org/abs/2605.02910",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 07 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.02910v2 Announce Type: new \nAbstract: Recent advances in large language models have led to strong performance on reasoning and environment-interaction tasks, yet their ability for creative problem-solving remains underexplored. We study this capability through the lens of creative tool use, where a model repurposes available objects by reasoning about their affordances and attributes rather than relying on canonical usage. As a first step, we introduce CreativityBench, a benchmark for",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "language model",
+      "tool use",
+      "reasoning",
+      "creative tool"
+    ]
+  },
+  {
+    "title": "ScrapMem: A Bio-inspired Framework for On-device Personalized Agent Memory via Optical Forgetting",
+    "url": "https://arxiv.org/abs/2605.03804",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 07 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.03804v1 Announce Type: new \nAbstract: Long-term personalized memory for LLM agents is challenging on resource-limited edge devices due to high storage costs and multimodal complexity. To address this, we propose ScrapMem, a framework that integrates multimodal data into \"Scrapbook Page.\" ScrapMem introduces Optical Forgetting, an optical compression mechanism that progressively reduces the resolution of older memories, lowering storage cost while suppressing low-value details. To main",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "multimodal",
+      "RAG",
+      "memory"
+    ]
+  },
+  {
+    "title": "Predict-then-Diffuse: Adaptive Response Length for Compute-Budgeted Inference in Diffusion LLMs",
+    "url": "https://arxiv.org/abs/2605.04215",
+    "source": "arXiv cs.LG",
+    "published_at": "Thu, 07 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.04215v1 Announce Type: new \nAbstract: Diffusion-based Large Language Models (D-LLMs) represent a promising frontier in generative AI, offering fully parallel token generation that can lead to significant throughput advantages and superior GPU utilization over traditional autoregressive paradigm. However, this parallelism is constrained by the requirement of a fixed-size response length prior to generation. This architectural limitation imposes a severe trade-off: oversized response le",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "diffusion",
+      "language model",
+      "inference",
+      "generative"
+    ]
+  },
+  {
+    "title": "labring / FastGPT",
+    "url": "https://github.com/labring/FastGPT",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration. [15 stars today]",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "workflow",
+      "GPT",
+      "RAG",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Evaluating Prompting and Execution-Based Methods for Deterministic Computation in LLMs",
+    "url": "https://arxiv.org/abs/2605.03227",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 07 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.03227v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have demonstrated strong capabilities in natural language understanding and reasoning. However, their ability to perform exact, deterministic computation remains unclear. In this work, we systematically evaluate multiple prompting strategies, including Chain-of-Thought (CoT), Least-to-Most decomposition, Program-of-Thought (PoT), and Self-Consistency (SC), on tasks requiring precise and error-free outputs, including bi",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "prompt",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "AdapShot: Adaptive Many-Shot In-Context Learning with Semantic-Aware KV Cache Reuse",
+    "url": "https://arxiv.org/abs/2605.03644",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 07 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.03644v1 Announce Type: new \nAbstract: Many-Shot In-Context Learning (ICL) has emerged as a promising paradigm, leveraging extensive examples to unlock the reasoning potential of Large Language Models (LLMs). However, existing methods typically rely on a predetermined, fixed number of shots. This static approach often fails to adapt to the varying difficulty of different queries, leading to either insufficient context or interference from noise. Furthermore, the prohibitive computation",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "RAG",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "MEMTIER: Tiered Memory Architecture and Retrieval Bottleneck Analysis for Long-Running Autonomous AI Agents",
+    "url": "https://arxiv.org/abs/2605.03675",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 07 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.03675v1 Announce Type: new \nAbstract: Long-running autonomous AI agents suffer from a well-documented memory coherence problem: tool-execution success rates degrade 14 percentage points over 72-hour operation windows due to four compounding failure modes in existing flat-file memory systems. We present MEMTIER, a tripartite memory architecture for the OpenClaw agent runtime that introduces a structured episodic JSONL store, a five-signal weighted retrieval engine, an attention-attribu",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "autonomous",
+      "memory",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Say the Mission, Execute the Swarm: Agent-Enhanced LLM Reasoning in the Web-of-Drones",
+    "url": "https://arxiv.org/abs/2605.03788",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 07 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.03788v1 Announce Type: new \nAbstract: Large Language Models (LLMs) are increasingly explored as high-level reasoning engines for cyber-physical systems, yet their application to real-time UAV swarm management remains challenging due to heterogeneous interfaces, limited grounding, and the need for long-running closed-loop execution. This paper presents a mission-agnostic, agent-enhanced LLM framework for UAV swarm control, where users express mission objectives in natural language and ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Pro$^2$Assist: Continuous Step-Aware Proactive Assistance with Multimodal Egocentric Perception for Long-Horizon Procedural Tasks",
+    "url": "https://arxiv.org/abs/2605.04227",
+    "source": "arXiv cs.HC",
+    "published_at": "Thu, 07 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.04227v1 Announce Type: cross \nAbstract: Procedural tasks with multiple ordered steps are ubiquitous in daily life. Recent advances in multimodal large language models (MLLMs) have enabled personal assistants that support daily activities. However, existing systems primarily provide reactive guidance triggered by user queries, or limited proactive assistance for isolated short-term events rather than long-horizon procedural tasks. In this work, we introduce Pro$^2$Assist, a step-aware ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "multimodal",
+      "procedural"
+    ]
+  },
+  {
+    "title": "RetentiveKV: State-Space Memory for Uncertainty-Aware Multimodal KV Cache Eviction",
+    "url": "https://arxiv.org/abs/2605.04075",
+    "source": "arXiv cs.LG",
+    "published_at": "Thu, 07 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.04075v1 Announce Type: new \nAbstract: Multimodal Large Language Models face severe challenges in computational efficiency and memory consumption due to the substantial expansion of the visual KV cache when processing long visual contexts. Existing KV cache compression methods typically rely on the \"persistence of importance\" hypothesis to prune tokens. However, this approach proves fragile in multimodal settings due to two key issues: 1) Visual tokens display \"deferred importance,\" in",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "language model",
+      "multimodal",
+      "RAG",
+      "memory"
+    ]
+  },
+  {
+    "title": "decolua / 9router",
+    "url": "https://github.com/decolua/9router",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "🆓 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits. [149 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "Claude",
+      "Gemini",
+      "Copilot",
+      "GPT"
+    ]
+  },
+  {
+    "title": "Revisiting the Travel Planning Capabilities of Large Language Models",
+    "url": "https://arxiv.org/abs/2605.03308",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 07 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.03308v1 Announce Type: new \nAbstract: Travel planning serves as a critical task for long-horizon reasoning, exposing significant deficits in LLMs. However, existing benchmarks and evaluations primarily assess final plans in an end-to-end manner, which lacks interpretability and makes it difficult to analyze the root causes of failures. To bridge this gap, we decompose travel planning into five constituent atomic sub-capabilities, including \\emph{Constraint Extraction}, \\emph{Tool Use}",
+    "score": 9.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "tool use",
+      "reasoning",
+      "planning"
+    ]
+  },
+  {
+    "title": "Terminus-4B: Can a Smaller Model Replace Frontier LLMs at Agentic Execution Tasks?",
+    "url": "https://arxiv.org/abs/2605.03195",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 07 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.03195v1 Announce Type: new \nAbstract: Modern coding agents increasingly delegate specialized subtasks to subagents, which are smaller, focused agentic loops that handle narrow responsibilities like search, debugging or terminal execution. This architectural pattern keeps the main agent's context window clean by isolating verbose outputs (e.g. build logs, test results, etc.) within the subagent context. Typically when agents employ subagents for such tasks, they use frontier models as ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "context window"
+    ]
+  },
+  {
+    "title": "ADAPTS: Agentic Decomposition for Automated Protocol-agnostic Tracking of Symptoms",
+    "url": "https://arxiv.org/abs/2605.03212",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 07 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.03212v2 Announce Type: new \nAbstract: Modeling latent clinical constructs from unconstrained clinical interactions is a unique challenge in affective computing. We present ADAPTS (Agentic Decomposition for Automated Protocol-agnostic Tracking of Symptoms), a framework for automated rating of depression and anxiety severity using a mixture-of-agents LLM architecture. This approach decomposes long-form clinical interviews into symptom-specific reasoning tasks, producing auditable justif",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Enhancing Agent Safety Judgment: Controlled Benchmark Rewriting and Analogical Reasoning for Deceptive Out-of-Distribution Scenarios",
+    "url": "https://arxiv.org/abs/2605.03242",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 07 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.03242v1 Announce Type: new \nAbstract: Tool-using agent systems powered by large language models (LLMs) are increasingly deployed across web, app, operating-system, and transactional environments. Yet existing safety benchmarks still emphasize explicit risks, potentially overstating a model's ability to judge deceptive or ambiguous trajectories. To address this gap, we introduce ROME (Red-team Orchestrated Multi-agent Evolution), a controlled benchmark-construction pipeline that rewrit",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "What Happens Inside Agent Memory? Circuit Analysis from Emergence to Diagnosis",
+    "url": "https://arxiv.org/abs/2605.03354",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 07 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.03354v1 Announce Type: new \nAbstract: Agent memory failures are silent: an LLM-based agent can produce a fluent response even when it fails to extract, retain, or retrieve the information needed across sessions. The write-manage-read loop describes the external pipeline of these systems but leaves open which internal computations implement each stage. Tracing internal feature circuits across the Qwen-3 family (0.6B--14B) and two memory frameworks (mem0 and A-MEM), we report three find",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "memory"
+    ]
+  },
+  {
+    "title": "ReasonAudio: A Benchmark for Evaluating Reasoning Beyond Matching in Text-Audio Retrieval",
+    "url": "https://arxiv.org/abs/2605.03361",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 07 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.03361v2 Announce Type: new \nAbstract: As multimodal content continues to expand at a rapid pace, audio retrieval has emerged as a key enabling technology for media search, content organization, and intelligent assistants. However, most existing benchmarks concentrate on semantic matching and fail to capture the fact that real-world queries often demand advanced reasoning abilities, including negation understanding, temporal ordering, concurrent event recognition, and duration discrimi",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "multimodal",
+      "reasoning",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Where Paths Split: Localized, Calibrated Control of Moral Reasoning in Large Language Models",
+    "url": "https://arxiv.org/abs/2605.03609",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 07 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.03609v1 Announce Type: new \nAbstract: Large language models often display heterogeneous moral preferences across settings. We study inference-time steering toward a desired ethical framework while preserving general competence. We present Convergent-Divergent Routing, which traces and edits minimal branch points inside transformer blocks where ethical-framework-related pathways first converge and then diverge. Gating non-target branches at these loci blocks the downstream propagation ",
+    "score": 8.0,
+    "keywords_matched": [
+      "transformer",
+      "language model",
+      "inference",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Self-Improvement for Fast, High-Quality Plan Generation",
+    "url": "https://arxiv.org/abs/2605.03625",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 07 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.03625v1 Announce Type: new \nAbstract: Generative models trained on synthetic plan data are a promising approach to generalized planning. Recent work has focused on finding any valid plan, rather than a high-quality solution. We address the challenge of producing high-quality plans, a computationally hard problem, in sub-exponential time. First, we demonstrate that, given optimal data, a decoder-only transformer can generate high-quality plans for unseen problem instances. Second, we s",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "transformer",
+      "planning",
+      "generative"
+    ]
+  },
+  {
+    "title": "Tailoring Scaffolding to Diagnostic Strategies: Theory-Informed LLM-Based Agents",
+    "url": "https://arxiv.org/abs/2605.04996",
+    "source": "arXiv cs.HC",
+    "published_at": "Thu, 07 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.04996v1 Announce Type: new \nAbstract: Learning analytics systems increasingly integrate large language models (LLMs) to provide adaptive scaffolding in complex learning environments, yet personalization is often driven by global instructional choices rather than principled alignment with learning theory, limiting effectiveness and pedagogical grounding. In prior work, we examined how structuring and problematizing scaffolding approaches can be instantiated through LLM agents in a scen",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model"
+    ]
+  }
+]
