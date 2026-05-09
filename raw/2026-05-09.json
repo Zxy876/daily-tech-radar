@@ -1,0 +1,299 @@
+[
+  {
+    "title": "From History to State: Constant-Context Skill Learning for LLM Agents",
+    "url": "https://arxiv.org/abs/2605.05413",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 08 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.05413v1 Announce Type: new \nAbstract: Large language model (LLM) agents are increasingly used to operate browsers, files, code and tools, making personal assistants a natural deployment target. Yet personal agents face a privacy-cost-capability tension: cloud models execute multi-step workflows well but expose sensitive intermediate context to external APIs, while local models preserve privacy but remain less reliable. Both settings also pay repeatedly for long skill prompts and growi",
+    "score": 14.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "language model",
+      "prompt",
+      "local model"
+    ]
+  },
+  {
+    "title": "AgenticRAG: Agentic Retrieval for Enterprise Knowledge Bases",
+    "url": "https://arxiv.org/abs/2605.05538",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 08 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.05538v1 Announce Type: new \nAbstract: We present AgenticRAG, a practical agentic harness for retrieval and analysis over enterprise knowledge bases. Standard RAG pipelines place significant burden of grounding on the search stack, constraining the language model to a fixed candidate set chosen deep in the retrieval process. Our approach reduces this overdependence by layering a lightweight harness on top of existing enterprise search infrastructure, equipping a reasoning LLM with sear",
+    "score": 14.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "RAG",
+      "reasoning",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "PRISM: Perception Reasoning Interleaved for Sequential Decision Making",
+    "url": "https://arxiv.org/abs/2605.05407",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 08 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.05407v1 Announce Type: new \nAbstract: Scaling LLM-based embodied agents from text-only environments to complex multimodal settings remains a major challenge. Recent work identifies a perception-reasoning-decision gap in standalone Vision-Language Models (VLMs), which often overlook task-critical information. In this paper, we introduce PRISM, a framework that tightly couples perception (VLM) and decision (LLM) through a dynamic question-answer (DQA) pipeline. Instead of passively acce",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "multimodal",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Agentic Retrieval-Augmented Generation for Financial Document Question Answering",
+    "url": "https://arxiv.org/abs/2605.05409",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 08 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.05409v1 Announce Type: new \nAbstract: Financial document question answering (QA) demands complex multi-step numerical reasoning over heterogeneous evidence--structured tables, textual narratives, and footnotes--scattered across corporate filings. Existing retrieval-augmented generation (RAG) approaches adopt a single-pass retrieve-then-generate paradigm that struggles with the compositional reasoning chains prevalent in financial analysis. We propose FinAgent-RAG, an agentic RAG frame",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "RAG",
+      "reasoning",
+      "retrieval",
+      "narrative"
+    ]
+  },
+  {
+    "title": "MACS: Modality-Aware Capacity Scaling for Efficient Multimodal MoE Inference",
+    "url": "https://arxiv.org/abs/2605.05225",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 08 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.05225v1 Announce Type: new \nAbstract: Mixture-of-Experts Multimodal Large Language Models (MoE MLLMs) suffer from a significant efficiency bottleneck during Expert Parallelism (EP) inference due to the straggler effect. This issue is worsened in the multimodal context, as existing token-count-based load balancing methods fail to address two unique challenges: (1) Information Heterogeneity, where numerous redundant visual tokens are treated equally to semantically critical ones, and (2",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "multimodal",
+      "RAG",
+      "inference"
+    ]
+  },
+  {
+    "title": "Nonsense Helps: Prompt Space Perturbation Broadens Reasoning Exploration",
+    "url": "https://arxiv.org/abs/2605.05566",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 08 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.05566v1 Announce Type: new \nAbstract: Reinforcement learning with verifiable rewards, particularly Group Relative Policy Optimization (GRPO), has significantly advanced the reasoning capabilities of Large Language Models (LLMs). However, in complex tasks, GRPO frequently suffers from the ``zero-advantage problem'': when all sampled rollouts for a query fail, the relative advantage collapses to zero. Consequently, the model loses effective training signals for these questions, wasting ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "prompt",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Text-Graph Synergy: A Bidirectional Verification and Completion Framework for RAG",
+    "url": "https://arxiv.org/abs/2605.05643",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 08 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.05643v1 Announce Type: new \nAbstract: Retrieval-Augmented Generation (RAG) has become a core paradigm for enhancing factual grounding and multi-hop reasoning in Large Language Models (LLMs). Traditional text-based RAG often retrieves logically irrelevant pseudo-evidence, while graph-based RAG is frequently hindered by search-time pruning, which may discard potentially valid reasoning paths. Existing hybrid approaches primarily adopt simple evidence concatenation or unidirectional enha",
+    "score": 10.0,
+    "keywords_matched": [
+      "LLM",
+      "language model",
+      "RAG",
+      "reasoning",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Retrieval-Conditioned Topology Selection with Provable Budget Conservation for Multi-Agent Code Generation",
+    "url": "https://arxiv.org/abs/2605.05657",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 08 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.05657v1 Announce Type: new \nAbstract: Multi-agent LLM systems for code generation face a fundamental routing problem: the optimal orchestration topology depends on the structural complexity of the code under modification, yet existing systems select topologies without consulting the codebase. We present Retrieval-Guided Adaptive Orchestration (RGAO), an architecture that closes this loop by extracting a structural complexity vector from a hierarchical code index before selecting the o",
+    "score": 10.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "code generation",
+      "vector",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Neural Co-state Policies: Structuring Hidden States in Recurrent Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2605.05373",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 08 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.05373v1 Announce Type: new \nAbstract: A key capability of intelligent agents is operating under partial observability: reasoning and acting effectively despite missing or incomplete state observations. While recurrent (memory-based) policies learned via reinforcement learning address this by encoding history into latent state representations, their internal dynamics remain uninterpretable black boxes. This paper establishes a formal link between these hidden states and the Pontryagin ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "neural",
+      "reasoning",
+      "memory"
+    ]
+  },
+  {
+    "title": "decolua / 9router",
+    "url": "https://github.com/decolua/9router",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits. [1,052 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "Claude",
+      "Gemini",
+      "Copilot",
+      "GPT"
+    ]
+  },
+  {
+    "title": "Partial Evidence Bench: Benchmarking Authorization-Limited Evidence in Agentic Systems",
+    "url": "https://arxiv.org/abs/2605.05379",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 08 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.05379v1 Announce Type: new \nAbstract: Enterprise agents increasingly operate inside scoped retrieval systems, delegated workflows, and policy-constrained evidence environments. In these settings, access control can be enforced correctly while the system still produces an answer that appears complete even though material evidence lies outside the caller's authorization boundary. This paper introduces Partial Evidence Bench, a deterministic benchmark for measuring that failure mode. The",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "BALAR : A Bayesian Agentic Loop for Active Reasoning",
+    "url": "https://arxiv.org/abs/2605.05386",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 08 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.05386v1 Announce Type: new \nAbstract: Large language models increasingly operate in interactive settings where solving a task requires multiple rounds of information exchange with a user. However, most current systems treat dialogue reactively and lack a principled mechanism to reason about what information is missing and which question should be asked next. We propose BALAR (Bayesian Agentic Loop for Active Reasoning), a task-agnostic outer-loop algorithm that requires no fine-tuning",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "language model",
+      "fine-tuning",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "FinRAG-12B: A Production-Validated Recipe for Grounded Question Answering in Banking",
+    "url": "https://arxiv.org/abs/2605.05482",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 08 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.05482v1 Announce Type: new \nAbstract: Large language models (LLMs) are rapidly being adopted across various domains. However, their adoption in banking industry faces resistance due to demands for high accuracy, regulatory compliance, and the need for verifiable and grounded responses. We present a unified, data-efficient framework for training grounded domain-specific LLMs that optimizes answer quality, citation grounding, and calibrated refusal under real-world deployment constraint",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "RAG"
+    ]
+  },
+  {
+    "title": "Belief Memory: Agent Memory Under Partial Observability",
+    "url": "https://arxiv.org/abs/2605.05583",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 08 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.05583v1 Announce Type: new \nAbstract: LLM agents that operate over long context depend on external memory to accumulate knowledge over time. However, existing methods typically store each observation as a single deterministic conclusion (e.g., inferring \"API~X failed\" from temporary errors), even though such observations are inherently partial and potentially ambiguous. By committing to one conclusion and discarding uncertainty, these methods introduce self-reinforcing error: the agen",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "memory"
+    ]
+  },
+  {
+    "title": "Causal Probing for Internal Visual Representations in Multimodal Large Language Models",
+    "url": "https://arxiv.org/abs/2605.05593",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 08 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.05593v1 Announce Type: new \nAbstract: Despite the remarkable success of Multimodal Large Language Models (MLLMs) across diverse tasks, the internal mechanisms governing how they encode and ground distinct visual concepts remain poorly understood. To bridge this gap, we propose a causal framework based on activation steering to actively probe and manipulate internal visual representations. Through systematic intervention across four visual concept categories, our results reveal a diver",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "multimodal"
+    ]
+  },
+  {
+    "title": "Prober.ai: Gated Inquiry-Based Feedback via LLM-Constrained Personas for Argumentative Writing Development",
+    "url": "https://arxiv.org/abs/2605.05598",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 08 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.05598v1 Announce Type: new \nAbstract: The proliferation of large language models (LLMs) in educational settings has paradoxically undermined the cognitive processes they purport to support. Students increasingly outsource critical thinking to AI assistants that generate polished text on demand, resulting in measurable cognitive debt and diminished argumentative reasoning skills. We present Prober.ai, a web-based writing environment that inverts the conventional AI-tutoring paradigm: r",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Attractor Geometry of Transformer Memory: From Conflict Arbitration to Confident Hallucination",
+    "url": "https://arxiv.org/abs/2605.05686",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 08 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.05686v1 Announce Type: new \nAbstract: Language models draw on two knowledge sources: facts baked into weights (parametric memory, PM) and information in context (working memory, WM). We study two mechanistically distinct failure modes--conflict, when PM and WM disagree and interfere; and hallucination, when the queried fact was never learned. Both produce confident output regardless, making output-based monitoring blind by design. We show both failures share a unified geometric accoun",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "transformer",
+      "language model",
+      "memory"
+    ]
+  },
+  {
+    "title": "Saliency-Aware Regularized Quantization Calibration for Large Language Models",
+    "url": "https://arxiv.org/abs/2605.05693",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 08 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.05693v1 Announce Type: new \nAbstract: Post-training quantization (PTQ) is an effective approach for deploying large language models (LLMs) under memory and latency constraints. Most existing PTQ methods determine quantization parameters by minimizing a layer-wise reconstruction error on a predetermined calibration dataset, usually optimized via either scale search or Gram-based methods. However, from the perspective of generalization risk, existing calibration objectives of PTQ based ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "memory"
+    ]
+  },
+  {
+    "title": "Inference-Time Budget Control for LLM Search Agents",
+    "url": "https://arxiv.org/abs/2605.05701",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 08 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.05701v1 Announce Type: new \nAbstract: LLM search agents increasingly rely on tools at inference time, but their trajectories are often constrained by hard limits on both tool calls and generated tokens. Under such dual budgets, better answers require not only stronger models, but also explicit control over which search action should receive the next budget unit and when the accumulated evidence is sufficient to commit a final answer. We study this problem in multi-hop question answeri",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "inference"
+    ]
+  },
+  {
+    "title": "Conceal, Reconstruct, Jailbreak: Exploiting the Reconstruction-Concealment Tradeoff in MLLMs",
+    "url": "https://arxiv.org/abs/2605.05709",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 08 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.05709v1 Announce Type: new \nAbstract: Intent-obfuscation-based jailbreak attacks on multimodal large language models (MLLMs) transform a harmful query into a concealed multimodal input to bypass safety mechanisms. We show that such attacks are governed by a \\emph{reconstruction--concealment tradeoff}: the transformed input must hide harmful intent from safety filters while remaining recoverable enough for the victim model to reconstruct the original request. Through a reconstruction a",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "multimodal"
+    ]
+  }
+]
