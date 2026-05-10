@@ -1,0 +1,254 @@
+{
+  "date": "2026-05-10",
+  "candidates": [
+    {
+      "title": "decolua / 9router",
+      "url": "https://github.com/decolua/9router",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits. [1,031 stars today]",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "Claude",
+        "Gemini",
+        "Copilot",
+        "GPT"
+      ]
+    },
+    {
+      "title": "bytedance / UI-TARS-desktop",
+      "url": "https://github.com/bytedance/UI-TARS-desktop",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra [552 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "multimodal"
+      ]
+    },
+    {
+      "title": "rohitg00 / agentmemory",
+      "url": "https://github.com/rohitg00/agentmemory",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks [533 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "memory"
+      ]
+    },
+    {
+      "title": "CopilotKit / CopilotKit",
+      "url": "https://github.com/CopilotKit/CopilotKit",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "The Frontend Stack for Agents & Generative UI. React + Angular. Makers of the AG-UI Protocol [86 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "agent",
+        "Copilot",
+        "generative"
+      ]
+    },
+    {
+      "title": "earendil-works / pi",
+      "url": "https://github.com/earendil-works/pi",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods [515 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM"
+      ]
+    },
+    {
+      "title": "InsForge / InsForge",
+      "url": "https://github.com/InsForge/InsForge",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end. [123 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "RAG"
+      ]
+    },
+    {
+      "title": "PaddlePaddle / PaddleOCR",
+      "url": "https://github.com/PaddlePaddle/PaddleOCR",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages. [90 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "title": "anthropics / claude-agent-sdk-python",
+      "url": "https://github.com/anthropics/claude-agent-sdk-python",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "14 stars today",
+      "score": 4.0,
+      "keywords_matched": [
+        "agent",
+        "Claude"
+      ]
+    },
+    {
+      "title": "jingyaogong / minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h! [112 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "title": "HKUDS / AI-Trader",
+      "url": "https://github.com/HKUDS/AI-Trader",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\" [646 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "sgl-project / sglang",
+      "url": "https://github.com/sgl-project/sglang",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "SGLang is a high-performance serving framework for large language models and multimodal models. [153 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "language model",
+        "multimodal"
+      ]
+    },
+    {
+      "title": "hesreallyhim / awesome-claude-code",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic [153 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "agent",
+        "Claude"
+      ]
+    },
+    {
+      "title": "rowboatlabs / rowboat",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Open-source AI coworker, with memory [144 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "memory"
+      ]
+    },
+    {
+      "title": "vellum-ai / vellum-assistant",
+      "url": "https://github.com/vellum-ai/vellum-assistant",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "A personal AI assistant that evolves with you. Memory, personality, proactive reach-outs — across macOS, Telegram, and Slack. [54 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "memory"
+      ]
+    },
+    {
+      "title": "addyosmani / agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "Production-grade engineering skills for AI coding agents. [3,009 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "oracle-devrel / oracle-ai-developer-hub",
+      "url": "https://github.com/oracle-devrel/oracle-ai-developer-hub",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "Technical resources for AI developers to build applications, agents, and systems using Oracle AI Database and OCI services [90 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "France Moves to Break Encrypted Messaging",
+      "url": "https://reclaimthenet.org/france-moves-to-break-encrypted-messaging",
+      "source": "Hacker News",
+      "published_at": "Sat, 09 May 2026 22:14:35 +0000",
+      "description": "Article URL: https://reclaimthenet.org/france-moves-to-break-encrypted-messaging Comments URL: https://news.ycombinator.com/item?id=48078811 Points: 67 # Comments: 27",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Getting arrested in Japan",
+      "url": "https://sundaicity.com/blogs/getting-arrested-in-japan",
+      "source": "Hacker News",
+      "published_at": "Sat, 09 May 2026 21:56:19 +0000",
+      "description": "Article URL: https://sundaicity.com/blogs/getting-arrested-in-japan Comments URL: https://news.ycombinator.com/item?id=48078647 Points: 138 # Comments: 141",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Meta's embrace of A.I. is making its employees miserable",
+      "url": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
+      "source": "Hacker News",
+      "published_at": "Sat, 09 May 2026 18:33:36 +0000",
+      "description": "Article URL: https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html Comments URL: https://news.ycombinator.com/item?id=48077126 Points: 280 # Comments: 243",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    },
+    {
+      "title": "LLMs corrupt your documents when you delegate",
+      "url": "https://arxiv.org/abs/2604.15597",
+      "source": "Hacker News",
+      "published_at": "Sat, 09 May 2026 08:44:34 +0000",
+      "description": "Article URL: https://arxiv.org/abs/2604.15597 Comments URL: https://news.ycombinator.com/item?id=48073246 Points: 352 # Comments: 136",
+      "score": 2.0,
+      "keywords_matched": [
+        "LLM"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-05-10\n\n你好！我是你的**疯狂发明家技术雷达**。\n\n今天我从海量信息中为你打捞到了 5 个最能刺激你“设计+CS”跨学科大脑的项目。它们不只是工具，更是你构建“疯狂系统”的乐高积木。\n\n---\n\n## 1. UI-TARS-desktop：桌面控制的“神之手”\n- 来源：GitHub Trending\n- 链接：[https://github.com/bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)\n- 一句话解释：字节跳动开源的端到端多模态 Agent，让 AI 像真人一样看屏幕、动鼠标、操作任何桌面软件。\n- 它为什么重要：它打破了 API 的限制。如果一个软件没有 API（比如某些老旧艺术软件或封闭游戏），AI 现在也能直接“上手”操作。\n- 技术趋势标签：#ComputerUse #MultimodalAgent #HCI\n- 可复用模式：**“视觉反馈-动作执行”闭环**。不再依赖结构化数据，而是依赖视觉像素。\n- 疯狂发明家灵感：\n  1. **一个小实验**：写个脚本，让 AI 在 Photoshop 里根据你的实时语音描述，不停地切换滤镜和图层混合模式，直到它“觉得”好看。\n  2. **一个中型项目**：**“代打 Agent 制作器”**。针对某个没有开放接口的独立游戏，训练一个能自动跑图、收集素材并根据视觉画面写游记的 Agent。\n  3. **一个艺术/游戏/叙事方向**：一个住在你电脑里的“数字幽灵”，它会趁你不注意时，偷偷打开你的文档并在里面留下它对你桌面壁纸的评价。\n- 对我项目的启发：这是实现“跨软件自动化工作流”的最强补丁，尤其是处理那些没有 API 的设计工具。\n- 今天是否值得深入研究：是\n- 建议行动：试用（跑一下 Demo，看看它点击的精度）。\n\n---\n\n## 2. CopilotKit：生成式 UI 的“画板”\n- 来源：GitHub Trending\n- 链接：[https://github.com/CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)\n- 一句话解释：为 React/Angular 开发者提供的生成式 UI 组件库，让你的应用界面能根据 Agent 的状态实时“长”出来。\n- 它为什么重要：它定义了 **Generative UI** 的标准协议。界面不再是静态的，而是 Agent 思考过程的具象化。\n- 技术趋势标签：#GenerativeUI #AgenticWorkflow #Frontend\n- 可复用模式：**“状态驱动界面生成”**。UI 变成了一个动态的对话容器。\n- 疯狂发明家灵感：\n  1. **一个小实验**：做一个“心情记事本”，当你输入悲伤的内容时，整个应用的按钮、配色和布局会实时坍塌或变得灰暗。\n  2. **一个中型项目**：**“自适应创作画布”**。一个设计工具，当你画圆时，侧边栏自动生成圆周率计算器；当你画人脸时，侧边栏自动变出捏脸参数。\n  3. **一个艺术/游戏/叙事方向**：一个“会进化的说明书”。游戏 UI 会根据玩家的菜鸟程度，动态地增加或减少按钮的复杂度和视觉提示。\n- 对我项目的启发：非常适合你的“Creative Tool”方向，把 Spec-driven 直接视觉化。\n- 今天是否值得深入研究：是\n- 建议行动：做 demo（尝试集成到你现有的 React 项目中）。\n\n---\n\n## 3. minimind：2 小时炼出“小脑瓜”\n- 来源：GitHub Trending\n- 链接：[https://github.com/jingyaogong/minimind](https://github.com/jingyaogong/minimind)\n- 一句话解释：教你如何在 2 小时内从 0 训练一个 64M 参数的极简 LLM。\n- 它为什么重要：它把 LLM 从“云端神谕”变成了“本地乐高”。你不再是调用接口，而是理解大脑的构造。\n- 技术趋势标签：#SmallLanguageModel #EdgeAI #Education\n- 可复用模式：**“领域特定微型大脑”**。\n- 疯狂发明家灵感：\n  1. **一个小实验**：用你过去一年的所有聊天记录训练一个 64M 的“数字克隆”，看它能否模仿你的语气说废话。\n  2. **一个中型项目**：**“NPC 大脑工厂”**。为 Minecraft 的每个村民训练一个极其微小但性格迥异的 LLM，它们完全在本地运行，不需要网费。\n  3. **一个艺术/游戏/叙事方向**：**“物哀 Agent”**。给家里的传感器数据训练一个模型，让你的台灯拥有一个“只会思考光影”的微型灵魂。\n- 对我项目的启发：适合你对 Minecraft/世界生成的关注。如果每个实体都有一个微型 LLM，世界会变得极其生动。\n- 今天是否值得深入研究：是\n- 建议行动：收藏（作为原理学习手册）。\n\n---\n\n## 4. agentmemory：Agent 的“长期记忆体”\n- 来源：GitHub Trending\n- 链接：[https://github.com/rohitg00/agentmemory](https://github.com/rohitg00/agentmemory)\n- 一句话解释：为 AI Agent 提供的持久化记忆层，基于真实世界基准测试，解决 Agent “转头就忘”的问题。\n- 它为什么重要：没有记忆的 Agent 只是工具，有记忆的 Agent 才是“角色”。\n- 技术趋势标签：#PersistentMemory #RAG #AgenticFramework\n- 可复用模式：**“语义检索 + 时间线记忆”**。\n- 疯狂发明家灵感：\n  1. **一个小实验**：做一个“杠精机器人”，它能记住你三天前说过的逻辑漏洞，并在今天精准反击。\n  2. **一个中型项目**：**“Spec 演化史追踪器”**。在 Spec-driven 流程中，Agent 记住之前所有的修改历史和“被否决的创意”，当你问“为什么这个设计变成这样”时，它能给出复盘。\n  3. **一个艺术/游戏/叙事方向**：一个会“记仇”的游戏 Boss。它不仅记住你的招式，还记住你上次打败它后在对话框里输入的嘲讽。\n- 对我项目的启发：对于你构建复杂的自动化系统，记忆层是把“任务执行”升华为“协作”的关键。\n- 今天是否值得深入研究：否（原理懂了就行，直接用库）。\n- 建议行动：试用。\n\n---\n\n## 5. LLMs corrupt your documents (论文)：文档的“数字降解”\n- 来源：Hacker News\n- 链接：[https://arxiv.org/abs/2604.15597](https://arxiv.org/abs/2604.15597)\n- 一句话解释：研究发现，当你过度依赖 LLM 处理/修改文档时，文档的逻辑和信息会发生类似“复印件再复印”的降解和损耗。\n- 它为什么重要：它揭示了“自动化”的代价。对于追求精准的 Spec-driven 开发，这是一个必须警惕的坑。\n- 技术趋势标签：#LLM_Limitations #DataIntegrity #SpecDriven\n- 可复用模式：**“数字熵”监测**。\n- 疯狂发明家灵感：\n  1. **一个小实验**：让两个 GPT 互相总结对方的摘要，循环 100 次，看最后会变成什么样的“纯粹噪音”或“数字诗歌”。\n  2. **一个中型项目**：**“Spec 完整性校验仪”**。利用对比算法，检测 Agent 在根据 Spec 生成代码时，丢掉了哪些关键的设计细节。\n  3. **一个艺术/游戏/叙事方向**：**“记忆衰退的游戏世界”**。一个由 LLM 驱动的游戏，随着玩家游玩时间增加，NPC 的台词会变得越来越混乱、抽象，象征着世界的“数字化失智”。\n- 对我项目的启发：在做自动化系统时，必须引入“校验机制”，不能全信任 Agent 的中间产物。\n- 今天是否值得深入研究：是（读摘要即可）。\n- 建议行动：收藏（作为你项目设计中的“反思”部分）。\n\n---\n\n## 今日模式总结\n1. **视觉即接口 (Visual-as-Interface)**：Agent 开始脱离 API 限制，直接通过视觉操作人类的软件环境。\n2. **UI 具象化 (Embodied UI)**：界面不再是固定的壳子，而是 Agent 思考和状态的实时映射。\n3. **记忆与降解 (Memory vs. Corruption)**：我们一方面在给 AI 增加长期记忆，另一方面必须对抗它在处理复杂逻辑时的“数字熵增”。\n\n## 今日可做小实验：【Spec-to-UI 变形虫】\n- **项目名**：MorphingSpec UI\n- **输入**：一段简单的 Markdown 功能描述（Spec）。\n- **输出**：一个会自动根据 Spec 描述改变样式的 React 页面。\n- **技术栈**：CopilotKit + Simple React + Claude API。\n- **第一步怎么做**：\n  1. 安装 `CopilotKit`。\n  2. 定义一个 Spec 状态：`const [spec, setSpec] = useState(\"一个极简的计数器\")`。\n  3. 使用 CopilotKit 的渲染钩子，让 Agent 根据 `spec` 的关键词（如“复古”、“赛博朋克”、“极简”）动态修改 CSS 变量。\n  4. 尝试输入“一个像 90 年代游戏机的计算器”，看 UI 如何瞬间“降级”。\n\n去吧，发明家！别让这些灵感变冷。",
+  "gemini_success": true,
+  "telegram_sent": true,
+  "telegram_status": "sent",
+  "telegram_reason": ""
+}

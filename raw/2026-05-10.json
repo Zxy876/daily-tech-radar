@@ -1,0 +1,246 @@
+[
+  {
+    "title": "decolua / 9router",
+    "url": "https://github.com/decolua/9router",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits. [1,031 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "Claude",
+      "Gemini",
+      "Copilot",
+      "GPT"
+    ]
+  },
+  {
+    "title": "bytedance / UI-TARS-desktop",
+    "url": "https://github.com/bytedance/UI-TARS-desktop",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra [552 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "multimodal"
+    ]
+  },
+  {
+    "title": "rohitg00 / agentmemory",
+    "url": "https://github.com/rohitg00/agentmemory",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks [533 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "memory"
+    ]
+  },
+  {
+    "title": "CopilotKit / CopilotKit",
+    "url": "https://github.com/CopilotKit/CopilotKit",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "The Frontend Stack for Agents & Generative UI. React + Angular. Makers of the AG-UI Protocol [86 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "agent",
+      "Copilot",
+      "generative"
+    ]
+  },
+  {
+    "title": "earendil-works / pi",
+    "url": "https://github.com/earendil-works/pi",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods [515 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM"
+    ]
+  },
+  {
+    "title": "InsForge / InsForge",
+    "url": "https://github.com/InsForge/InsForge",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end. [123 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "RAG"
+    ]
+  },
+  {
+    "title": "PaddlePaddle / PaddleOCR",
+    "url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages. [90 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "LLM"
+    ]
+  },
+  {
+    "title": "anthropics / claude-agent-sdk-python",
+    "url": "https://github.com/anthropics/claude-agent-sdk-python",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "14 stars today",
+    "score": 4.0,
+    "keywords_matched": [
+      "agent",
+      "Claude"
+    ]
+  },
+  {
+    "title": "jingyaogong / minimind",
+    "url": "https://github.com/jingyaogong/minimind",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h! [112 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "LLM"
+    ]
+  },
+  {
+    "title": "HKUDS / AI-Trader",
+    "url": "https://github.com/HKUDS/AI-Trader",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\" [646 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "sgl-project / sglang",
+    "url": "https://github.com/sgl-project/sglang",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "SGLang is a high-performance serving framework for large language models and multimodal models. [153 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "language model",
+      "multimodal"
+    ]
+  },
+  {
+    "title": "hesreallyhim / awesome-claude-code",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic [153 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "agent",
+      "Claude"
+    ]
+  },
+  {
+    "title": "rowboatlabs / rowboat",
+    "url": "https://github.com/rowboatlabs/rowboat",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Open-source AI coworker, with memory [144 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "memory"
+    ]
+  },
+  {
+    "title": "vellum-ai / vellum-assistant",
+    "url": "https://github.com/vellum-ai/vellum-assistant",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "A personal AI assistant that evolves with you. Memory, personality, proactive reach-outs — across macOS, Telegram, and Slack. [54 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "memory"
+    ]
+  },
+  {
+    "title": "addyosmani / agent-skills",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Production-grade engineering skills for AI coding agents. [3,009 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "oracle-devrel / oracle-ai-developer-hub",
+    "url": "https://github.com/oracle-devrel/oracle-ai-developer-hub",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Technical resources for AI developers to build applications, agents, and systems using Oracle AI Database and OCI services [90 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "France Moves to Break Encrypted Messaging",
+    "url": "https://reclaimthenet.org/france-moves-to-break-encrypted-messaging",
+    "source": "Hacker News",
+    "published_at": "Sat, 09 May 2026 22:14:35 +0000",
+    "description": "Article URL: https://reclaimthenet.org/france-moves-to-break-encrypted-messaging Comments URL: https://news.ycombinator.com/item?id=48078811 Points: 67 # Comments: 27",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  },
+  {
+    "title": "Getting arrested in Japan",
+    "url": "https://sundaicity.com/blogs/getting-arrested-in-japan",
+    "source": "Hacker News",
+    "published_at": "Sat, 09 May 2026 21:56:19 +0000",
+    "description": "Article URL: https://sundaicity.com/blogs/getting-arrested-in-japan Comments URL: https://news.ycombinator.com/item?id=48078647 Points: 138 # Comments: 141",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  },
+  {
+    "title": "Meta's embrace of A.I. is making its employees miserable",
+    "url": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
+    "source": "Hacker News",
+    "published_at": "Sat, 09 May 2026 18:33:36 +0000",
+    "description": "Article URL: https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html Comments URL: https://news.ycombinator.com/item?id=48077126 Points: 280 # Comments: 243",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  },
+  {
+    "title": "LLMs corrupt your documents when you delegate",
+    "url": "https://arxiv.org/abs/2604.15597",
+    "source": "Hacker News",
+    "published_at": "Sat, 09 May 2026 08:44:34 +0000",
+    "description": "Article URL: https://arxiv.org/abs/2604.15597 Comments URL: https://news.ycombinator.com/item?id=48073246 Points: 352 # Comments: 136",
+    "score": 2.0,
+    "keywords_matched": [
+      "LLM"
+    ]
+  }
+]
