@@ -1,0 +1,244 @@
+[
+  {
+    "title": "apify / crawlee",
+    "url": "https://github.com/apify/crawlee",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation. [42 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "automation",
+      "GPT",
+      "RAG"
+    ]
+  },
+  {
+    "title": "decolua / 9router",
+    "url": "https://github.com/decolua/9router",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits. [803 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "Claude",
+      "Gemini",
+      "Copilot",
+      "GPT"
+    ]
+  },
+  {
+    "title": "MemoriLabs / Memori",
+    "url": "https://github.com/MemoriLabs/Memori",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Memori is agent-native memory infrastructure. A LLM-agnostic layer that turns agent execution and conversation into structured, persistent state for production systems. [62 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "memory"
+    ]
+  },
+  {
+    "title": "bytedance / UI-TARS-desktop",
+    "url": "https://github.com/bytedance/UI-TARS-desktop",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra [669 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "multimodal"
+    ]
+  },
+  {
+    "title": "rohitg00 / agentmemory",
+    "url": "https://github.com/rohitg00/agentmemory",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks [655 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "memory"
+    ]
+  },
+  {
+    "title": "affaan-m / everything-claude-code",
+    "url": "https://github.com/affaan-m/everything-claude-code",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. [1,081 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "agent",
+      "Claude",
+      "memory"
+    ]
+  },
+  {
+    "title": "Running local models on an M4 with 24GB memory",
+    "url": "https://jola.dev/posts/running-local-models-on-m4",
+    "source": "Hacker News",
+    "published_at": "Sun, 10 May 2026 23:09:10 +0000",
+    "description": "Article URL: https://jola.dev/posts/running-local-models-on-m4 Comments URL: https://news.ycombinator.com/item?id=48089091 Points: 72 # Comments: 39",
+    "score": 4.0,
+    "keywords_matched": [
+      "memory",
+      "local model"
+    ]
+  },
+  {
+    "title": "HKUDS / AI-Trader",
+    "url": "https://github.com/HKUDS/AI-Trader",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\" [163 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "ZhuLinsen / daily_stock_analysis",
+    "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets. [141 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "LLM"
+    ]
+  },
+  {
+    "title": "vllm-project / vllm-ascend",
+    "url": "https://github.com/vllm-project/vllm-ascend",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Community maintained hardware plugin for vLLM on Ascend [4 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "LLM"
+    ]
+  },
+  {
+    "title": "rowboatlabs / rowboat",
+    "url": "https://github.com/rowboatlabs/rowboat",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Open-source AI coworker, with memory [356 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "memory"
+    ]
+  },
+  {
+    "title": "addyosmani / agent-skills",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Production-grade engineering skills for AI coding agents. [1,065 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "Make America AI Ready: Strengths, Weaknesses, and Recommendations",
+    "url": "https://blog.citp.princeton.edu/2026/05/05/make-america-ai-ready-strengths-weaknesses-and-recommendations/",
+    "source": "Hacker News",
+    "published_at": "Mon, 11 May 2026 00:10:34 +0000",
+    "description": "Article URL: https://blog.citp.princeton.edu/2026/05/05/make-america-ai-ready-strengths-weaknesses-and-recommendations/ Comments URL: https://news.ycombinator.com/item?id=48089531 Points: 15 # Comments: 10",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  },
+  {
+    "title": "AI Productivity Fails",
+    "url": "https://blog.sshh.io/p/how-ai-productivity-fails",
+    "source": "Hacker News",
+    "published_at": "Sun, 10 May 2026 23:43:07 +0000",
+    "description": "Article URL: https://blog.sshh.io/p/how-ai-productivity-fails Comments URL: https://news.ycombinator.com/item?id=48089319 Points: 14 # Comments: 1",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  },
+  {
+    "title": "You Need AI That Reduces Maintenance Costs",
+    "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
+    "source": "Hacker News",
+    "published_at": "Sun, 10 May 2026 23:39:55 +0000",
+    "description": "Article URL: https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs Comments URL: https://news.ycombinator.com/item?id=48089289 Points: 15 # Comments: 3",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  },
+  {
+    "title": "PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs",
+    "url": "https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656",
+    "source": "Hacker News",
+    "published_at": "Sun, 10 May 2026 23:36:48 +0000",
+    "description": "Article URL: https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656 Comments URL: https://news.ycombinator.com/item?id=48089263 Points: 62 # Comments: 35",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  },
+  {
+    "title": "How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?",
+    "url": "https://dunkels.com/adam/claude-user-space-ip-stack-ping/",
+    "source": "Hacker News",
+    "published_at": "Sun, 10 May 2026 23:02:31 +0000",
+    "description": "Article URL: https://dunkels.com/adam/claude-user-space-ip-stack-ping/ Comments URL: https://news.ycombinator.com/item?id=48089049 Points: 4 # Comments: 0",
+    "score": 2.0,
+    "keywords_matched": [
+      "Claude"
+    ]
+  },
+  {
+    "title": "Obsidian plugin was abused to deploy a remote access trojan",
+    "url": "https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/",
+    "source": "Hacker News",
+    "published_at": "Sun, 10 May 2026 22:02:43 +0000",
+    "description": "Article URL: https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/ Comments URL: https://news.ycombinator.com/item?id=48088576 Points: 74 # Comments: 33",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  },
+  {
+    "title": "Maryland citizens hit with $2B power grid upgrade for out-of-state AI",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises",
+    "source": "Hacker News",
+    "published_at": "Sun, 10 May 2026 21:16:58 +0000",
+    "description": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises Comments URL: https://news.ycombinator.com/item?id=48088151 Points: 137 # Comments: 58",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  },
+  {
+    "title": "Local AI needs to be the norm",
+    "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+    "source": "Hacker News",
+    "published_at": "Sun, 10 May 2026 17:19:28 +0000",
+    "description": "Article URL: https://unix.foo/posts/local-ai-needs-to-be-norm/ Comments URL: https://news.ycombinator.com/item?id=48085821 Points: 555 # Comments: 264",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  }
+]
