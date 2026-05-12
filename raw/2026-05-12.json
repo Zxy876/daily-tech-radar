@@ -1,0 +1,301 @@
+[
+  {
+    "title": "From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms",
+    "url": "https://arxiv.org/abs/2605.06716",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 11 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.06716v1 Announce Type: new \nAbstract: Large Language Model (LLM)-based agents have fundamentally reshaped artificial intelligence by integrating external tools and planning capabilities. While memory mechanisms have emerged as the architectural cornerstone of these systems, current research remains fragmented, oscillating between operating system engineering and cognitive science. This theoretical divide prevents a unified view of technological synthesis and a coherent evolutionary pe",
+    "score": 14.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "RAG",
+      "planning",
+      "memory"
+    ]
+  },
+  {
+    "title": "HMACE: Heterogeneous Multi-Agent Collaborative Evolution for Combinatorial Optimization",
+    "url": "https://arxiv.org/abs/2605.07214",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 11 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.07214v1 Announce Type: new \nAbstract: Large Language Models have recently emerged as a promising paradigm for automated heuristic design for NP-hard combinatorial optimization problems. Despite this progress, existing LLM-based methods typically rely on monolithic workflows constrained by rigid templates, thereby restricting memory-guided exploration and triggering premature convergence to local optima. To design an autonomous and collaborative architecture, we introduce HMACE, a Hete",
+    "score": 14.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "language model",
+      "autonomous",
+      "memory"
+    ]
+  },
+  {
+    "title": "SHARP: A Self-Evolving Human-Auditable Rubric Policy for Financial Trading Agents",
+    "url": "https://arxiv.org/abs/2605.06822",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 11 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.06822v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly deployed for autonomous financial trading, a domain requiring continuous adaptation to noisy, non-stationary markets. Existing self-improving agents typically address this through unbounded free-form prompt optimization. However, in low signal-to-noise environments with delayed scalar rewards (P\\&L), this unstructured approach exacerbates the fundamental credit assignment problem: optimizers cannot rel",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "autonomous",
+      "prompt"
+    ]
+  },
+  {
+    "title": "When Does Critique Improve AI-Assisted Theoretical Physics? SCALAR: Structured Critic--Actor Loop for Agentic Reasoning",
+    "url": "https://arxiv.org/abs/2605.06772",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 11 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.06772v1 Announce Type: new \nAbstract: As large language models (LLMs) show increasing promise on research-level physics reasoning tasks and agentic AI becomes more common, a practical question emerges: How does the interaction between researchers and agents affect the results? We study this using SCALAR (Structured Critic--Actor Loop for AI Reasoning), an Actor--Critic--Judge pipeline applied to quantum field theory and string theory problems. The Actor proposes solutions, the Critic ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Extracting Search Trees from LLM Reasoning Traces Reveals Myopic Planning",
+    "url": "https://arxiv.org/abs/2605.06840",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 11 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.06840v1 Announce Type: new \nAbstract: Large language models (LLMs), especially reasoning models, generate extended chain-of-thought (CoT) reasoning that often contains explicit deliberation over future outcomes. Yet whether this deliberation constitutes genuine planning, how it is structured, and what aspects of it drive performance remain poorly understood. In this work, we introduce a new method to characterize LLM planning by extracting and quantifying search trees from reasoning t",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "reasoning",
+      "planning"
+    ]
+  },
+  {
+    "title": "Beyond the Black Box: Interpretability of Agentic AI Tool Use",
+    "url": "https://arxiv.org/abs/2605.06890",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 11 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.06890v1 Announce Type: new \nAbstract: AI agents are promising for high-stakes enterprise workflows, but dependable deployment remains limited because tool-use failures are difficult to diagnose and control. Agents may skip required tool calls, invoke tools unnecessarily, or take actions whose consequence becomes visible only after execution. Existing observability methods are mostly external: prompts reveal correlations, evaluations score outputs, and logs arrive only after the model ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow",
+      "tool use",
+      "prompt"
+    ]
+  },
+  {
+    "title": "The Context Gathering Decision Process: A POMDP Framework for Agentic Search",
+    "url": "https://arxiv.org/abs/2605.07042",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 11 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.07042v1 Announce Type: new \nAbstract: Large Language Model (LLM) agents are deployed in complex environments -- such as massive codebases, enterprise databases, and conversational histories -- where the relevant state far exceeds their context windows. To navigate these spaces, an agent must iteratively explore the environment to find relevant information. However, without explicit infrastructure, an agent's working memory can degrade into lossy representations of the search state, re",
+    "score": 10.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "language model",
+      "context window",
+      "memory"
+    ]
+  },
+  {
+    "title": "ARMOR: An Agentic Framework for Reaction Feasibility Prediction via Adaptive Utility-aware Multi-tool Reasoning",
+    "url": "https://arxiv.org/abs/2605.07103",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 11 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.07103v1 Announce Type: new \nAbstract: Reaction feasibility prediction, as a fundamental problem in computational chemistry, has benefited from diverse tools enabled by recent advances in artificial intelligence, particularly large language models. However, the performance of individual tools varies substantially across reactions, making it difficult for any single tool to consistently perform well across all cases. This raises a critical challenge: how to effectively leverage multiple",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "language model",
+      "RAG",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Towards Autonomous Business Intelligence via Data-to-Insight Discovery Agent",
+    "url": "https://arxiv.org/abs/2605.07202",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 11 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.07202v1 Announce Type: new \nAbstract: Transforming fragmented enterprise data into actionable insights remains a significant challenge for LLMs, constrained by complex database schemas, limitations in dynamic SQL generation, and the need for deep multi-dimensional analysis.In this paper, we propose AIDA(Autonomous Insight Discovery Agent), the first end-to-end framework designed for autonomous exploration in complex business environments. We establish a highly flexible instant retail ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "autonomous",
+      "RAG"
+    ]
+  },
+  {
+    "title": "From Surface Learning to Deep Understanding: A Grounded AI Tutoring System for Moodle",
+    "url": "https://arxiv.org/abs/2605.06963",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 11 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.06963v1 Announce Type: new \nAbstract: This demo paper describes the development of the AI Teaching \\& Learning Assistant, a modular Moodle plugin that leverages Retrieval-Augmented Generation (RAG) to deliver high-quality, hallucination-free education. The system employs a dual-centric design, providing students with interactive, Socratic-based tutoring and educators with a \"human-in-the-loop\" workspace for supervised content generation. By grounding Large Language Model (LLM) respons",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "RAG",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "ProtSent: Protein Sentence Transformers",
+    "url": "https://arxiv.org/abs/2605.06830",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 11 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.06830v1 Announce Type: new \nAbstract: Protein language models (pLMs) produce per-residue representations that capture evolutionary and structural information, yet their mean-pooled sequence embeddings are not explicitly trained to reflect functional, evolutionary or structural similarity between proteins. We present Protein Sentence Transformers (ProtSent), a contrastive fine-tuning framework for adapting PLMs into general-purpose embedding models. ProtSent trains with MultipleNegativ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "transformer",
+      "language model",
+      "embedding",
+      "fine-tuning"
+    ]
+  },
+  {
+    "title": "How to Compress KV Cache in RL Post-Training? Shadow Mask Distillation for Memory-Efficient Alignment",
+    "url": "https://arxiv.org/abs/2605.06850",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 11 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.06850v1 Announce Type: new \nAbstract: Reinforcement Learning (RL) has emerged as a crucial paradigm for unlocking the advanced reasoning capabilities of Large Language Models (LLMs), encompassing frameworks like RLHF and RLAIF. Regardless of the specific optimization algorithm (e.g., PPO, GRPO, or Online DPO), online RL inherently requires an exploratory trajectory generation (rollout) phase. However, for long-context reasoning tasks, this rollout phase imposes a severe ``memory wall'",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "reasoning",
+      "memory"
+    ]
+  },
+  {
+    "title": "wanshuiyin / Auto-claude-code-research-in-sleep",
+    "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works with Claude Code, Codex, OpenClaw, or any LLM agent. [186 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "Claude",
+      "automation",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "decolua / 9router",
+    "url": "https://github.com/decolua/9router",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits. [941 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "Claude",
+      "Gemini",
+      "Copilot",
+      "GPT"
+    ]
+  },
+  {
+    "title": "GraphDC: A Divide-and-Conquer Multi-Agent System for Scalable Graph Algorithm Reasoning",
+    "url": "https://arxiv.org/abs/2605.06671",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 11 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.06671v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have demonstrated strong potential for many mathematical problems. However, their performance on graph algorithmic tasks is still unsatisfying, since graphs are naturally more complex in topology and often require systematic multi-step reasoning, especially on larger graphs. Motivated by this gap, we propose GraphDC, a Divide-and-Conquer multi-agent framework for scalable graph algorithm reasoning. Specifically, inspir",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Weblica: Scalable and Reproducible Training Environments for Visual Web Agents",
+    "url": "https://arxiv.org/abs/2605.06761",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 11 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.06761v1 Announce Type: new \nAbstract: The web is complex, open-ended, and constantly changing, making it challenging to scale training data for visual web agents. Existing data collection attempts remain limited to offline trajectories for supervised fine-tuning or a handful of simulated environments for RL training, thus failing to capture web diversity. We propose Weblica (Web Replica), a framework for constructing reproducible and scalable web environments. Our framework leverages ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "RAG",
+      "fine-tuning"
+    ]
+  },
+  {
+    "title": "Towards Security-Auditable LLM Agents: A Unified Graph Representation",
+    "url": "https://arxiv.org/abs/2605.06812",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 11 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.06812v1 Announce Type: new \nAbstract: LLM-based agentic systems are rapidly evolving to perform complex autonomous tasks through dynamic tool invocation, stateful memory management, and multi-agent collaboration. However, this semantics-driven execution paradigm creates a severe semantic gap between low-level physical events and high-level execution intent, making post-hoc security auditing fundamentally difficult. Existing representation mechanisms, including static SBOMs and runtime",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "autonomous",
+      "memory"
+    ]
+  },
+  {
+    "title": "Agentick: A Unified Benchmark for General Sequential Decision-Making Agents",
+    "url": "https://arxiv.org/abs/2605.06869",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 11 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.06869v1 Announce Type: new \nAbstract: AI agent research spans a wide spectrum: from RL agents that learn from scratch to foundation model agents that leverage pre-trained knowledge, yet no unified benchmark enables fair comparison across these approaches. We present Agentick, a benchmark for sequential decision-making agents designed to evaluate RL, LLM, VLM, hybrid, and human agents on common ground and to power research on the fundamental challenges of sequential decision-making. Ag",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "RAG"
+    ]
+  },
+  {
+    "title": "How Well Do LLMs Perform on the Simplest Long-Chain Reasoning Tasks: An Empirical Study on the Equivalence Class Problem",
+    "url": "https://arxiv.org/abs/2605.06882",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 11 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.06882v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have achieved great improvements in recent years. Nevertheless, it still remains unclear how good LLMs are for reasoning tasks, especially for long-chain ones. In this paper, we evaluate LLMs' performance on the simplest yet long-chain reasoning task, namely the Equivalence Class Problem (ECP), i.e., determining whether two variables are equal given a set of randomly generated equivalence relations. We consider both re",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Behavior Cue Reasoning: Monitorable Reasoning Improves Efficiency and Safety through Oversight",
+    "url": "https://arxiv.org/abs/2605.07021",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 11 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.07021v1 Announce Type: new \nAbstract: Reasoning in Large Language Models (LLMs) poses a challenge for oversight as many misaligned behaviors do not surface until reasoning concludes. To address this, we introduce Behavior Cue Reasoning for making LLM reasoning more controllable and monitorable. Behavior Cues are special token sequences that a model is trained to emit immediately before specific implicit and explicit behaviors, acting as dual purpose signal and control levers. When fin",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  }
+]
