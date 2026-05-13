@@ -1,0 +1,305 @@
+{
+  "date": "2026-05-13",
+  "candidates": [
+    {
+      "title": "MIND-Skill: Quality-Guaranteed Skill Generation via Multi-Agent Induction and Deduction",
+      "url": "https://arxiv.org/abs/2605.08670",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 12 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.08670v1 Announce Type: new \nAbstract: Large language model (LLM) powered AI agents have emerged as a promising paradigm for autonomous problem-solving, yet they continue to struggle with complex, multi-step real-world tasks that demand domain-specific procedural knowledge. Reusable agent skills, which encapsulate successful problem-solving strategies, offer a natural remedy by enabling agents to build on prior experience. However, curating such skills has largely remained a manual end",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "autonomous",
+        "procedural"
+      ]
+    },
+    {
+      "title": "NARRA-Gym for Evaluating Interactive Narrative Agents",
+      "url": "https://arxiv.org/abs/2605.08503",
+      "source": "arXiv cs.HC",
+      "published_at": "Tue, 12 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.08503v1 Announce Type: cross \nAbstract: Interactive narrative tasks require LLMs to sustain a coherent, evolving story while adapting to a user over multiple turns. However, suitable benchmarks for this setting are limited: existing evaluations often focus on static prompts, isolated story generations, or post-hoc ratings, and therefore miss whether models can jointly manage story generation, long-context state and pacing, character simulation, empathic personalization, and story-grou",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "simulation",
+        "prompt",
+        "narrative"
+      ]
+    },
+    {
+      "title": "DataArc-SynData-Toolkit: A Unified Closed-Loop Framework for Multi-Path, Multimodal, and Multilingual Data Synthesis",
+      "url": "https://arxiv.org/abs/2605.08138",
+      "source": "arXiv cs.LG",
+      "published_at": "Tue, 12 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.08138v1 Announce Type: new \nAbstract: Synthetic data has emerged as a crucial solution to the data scarcity bottleneck in large language models (LLMs), particularly for specialized domains and low-resource languages. However, the broader adoption of existing synthetic data tools is severely hindered by convoluted workflows, fragmented data standards, and limited scalability across modalities. To address these limitations, we develop DataArc-SynData-Toolkit, an open-source framework fe",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "workflow",
+        "language model",
+        "multimodal",
+        "RAG"
+      ]
+    },
+    {
+      "title": "labring / FastGPT",
+      "url": "https://github.com/labring/FastGPT",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration. [19 stars today]",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "workflow",
+        "GPT",
+        "RAG",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Spatial Priming Outperforms Semantic Prompting: A Grid-Based Approach to Improving LLM Accuracy on Chart Data Extraction",
+      "url": "https://arxiv.org/abs/2605.08220",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 12 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.08220v1 Announce Type: new \nAbstract: The automated extraction of data from scientific charts is a critical task for large-scale literature analysis. While multimodal Large Language Models (LLMs) show promise, their accuracy on non-standardized charts remains a challenge. This raises a key research question: what is the most effective strategy to improve model performance (high-level semantic priming) or low-level spatial priming? This paper presents a comparative investigation into t",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "multimodal",
+        "prompt"
+      ]
+    },
+    {
+      "title": "MemQ: Integrating Q-Learning into Self-Evolving Memory Agents over Provenance DAGs",
+      "url": "https://arxiv.org/abs/2605.08374",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 12 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.08374v1 Announce Type: new \nAbstract: Episodic memory allows LLM agents to accumulate and retrieve experience, but current methods treat each memory independently, i.e., evaluating retrieval quality in isolation without accounting for the dependency chains through which memories enable the creation of future memories. We introduce MemQ, which applies TD($\\lambda$) eligibility traces to memory Q-values, propagating credit backward through a provenance DAG that records which memories we",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "memory",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "CoCoDA: Co-evolving Compositional DAG for Tool-Augmented Agents",
+      "url": "https://arxiv.org/abs/2605.08399",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 12 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.08399v1 Announce Type: new \nAbstract: Tool-augmented language models can extend small language models with external executable skills, but scaling the tool library creates a coupled challenge: the library must evolve with the planner as new reusable subroutines emerge, while retrieval from the growing library must remain within a fixed context budget. Existing tool-use and skill-library methods typically treat tools as flat or text-indexed memories, causing prompt cost to grow with li",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "language model",
+        "prompt",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Measuring What Matters: Benchmarking Generative, Multimodal, and Agentic AI in Healthcare",
+      "url": "https://arxiv.org/abs/2605.08445",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 12 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.08445v1 Announce Type: new \nAbstract: AI models are increasingly deployed in live clinical environments where they must perform reliably across complex, high-stakes workflows that standard training and validation datasets were never designed to capture. Evaluating these systems requires benchmarks: structured combinations of tasks, datasets, and metrics that enable reproducible, comparable measurement of what a model can do. The central challenge in healthcare AI is not performance al",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "workflow",
+        "multimodal",
+        "generative"
+      ]
+    },
+    {
+      "title": "Human-Inspired Memory Architecture for LLM Agents",
+      "url": "https://arxiv.org/abs/2605.08538",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 12 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.08538v1 Announce Type: new \nAbstract: Current LLM agents lack principled mechanisms for managing persistent memory across long interaction horizons. We present a biologically-grounded memory architecture comprising six cognitive mechanisms: (1) sleep-phase consolidation, (2) interference-based forgetting, (3) engram maturation, (4) reconsolidation upon retrieval, (5) entity knowledge graphs, and (6) hybrid multi-cue retrieval. Each mechanism addresses a specific failure mode of naive ",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "memory",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "AgentPSO: Evolving Agent Reasoning Skill via Multi-agent Particle Swarm Optimization",
+      "url": "https://arxiv.org/abs/2605.08704",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 12 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.08704v1 Announce Type: new \nAbstract: Multi-agent reasoning has shown promise for improving the problem-solving ability of large language models by allowing multiple agents to explore diverse reasoning paths. However, most existing multi-agent methods rely on inference-time debate or aggregation, which can be vulnerable to incorrect peer influence and biased consensus. Moreover, the agents themselves remain static, as their underlying reasoning skills do not evolve across tasks. In th",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "language model",
+        "inference",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "DARE: Diffusion Language Model Activation Reuse for Efficient Inference",
+      "url": "https://arxiv.org/abs/2605.08134",
+      "source": "arXiv cs.LG",
+      "published_at": "Tue, 12 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.08134v1 Announce Type: new \nAbstract: Diffusion Large Language Models (dLLMs) have emerged as a promising alternative to auto-regressive (AR) models, offering greater expressive capacity and potential for parallel generation and faster inference. However, open-source dLLMs remain immature, lagging behind AR models in both efficiency and quality.\n  We identify an underexplored property of dLLMs: *token-wise redundancy* in bi-directional self-attention. Self-attention activations are hi",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "diffusion",
+        "language model",
+        "inference"
+      ]
+    },
+    {
+      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+      "url": "https://github.com/cactus-compute/needle",
+      "source": "Hacker News",
+      "published_at": "Tue, 12 May 2026 18:03:11 +0000",
+      "description": "Hey HN, Henry here from Cactus. We open-sourced Needle, a 26M parameter function-calling (tool use) model. It runs at 6000 tok/s prefill and 1200 tok/s decode on consumer devices. We were always frustrated by the little effort made towards building agentic models that run on budget phones, so we conducted investigations that led to an observation: agentic experiences are built upon tool calling, and massive models are overkill for it. Tool calling is fundamentally retrieval-and-assembly (match q",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "Gemini",
+        "tool use",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "SkillLens: Adaptive Multi-Granularity Skill Reuse for Cost-Efficient LLM Agents",
+      "url": "https://arxiv.org/abs/2605.08386",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 12 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.08386v1 Announce Type: new \nAbstract: Skill libraries have become a practical way for LLM agents to reuse procedural experience across tasks. However, existing systems typically treat skills as flat, single-resolution prompt blocks. This creates a tension between relevance and cost: injecting coarse skills can introduce irrelevant or misleading context, while rewriting entire skills is expensive and often unnecessary. We propose SkillLens, a hierarchical skill-evolution framework that",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "prompt",
+        "procedural"
+      ]
+    },
+    {
+      "title": "Mid-Training with Self-Generated Data Improves Reinforcement Learning in Language Models",
+      "url": "https://arxiv.org/abs/2605.08472",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 12 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.08472v1 Announce Type: new \nAbstract: The effectiveness of Reinforcement Learning (RL) in Large Language Models (LLMs) depends on the nature and diversity of the data used before and during RL. In particular, reasoning problems can often be approached in multiple ways that rely on different forms of reasoning, and exposure to only a limited range of such approaches in the training data may limit the effectiveness of RL. Motivated by this, we investigate using diverse self-generated da",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Latent Personality Alignment: Improving Harmlessness Without Mentioning Harms",
+      "url": "https://arxiv.org/abs/2605.08496",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 12 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.08496v1 Announce Type: new \nAbstract: Current adversarial robustness methods for large language models require extensive datasets of harmful prompts (thousands to hundreds of thousands of examples), yet remain vulnerable to novel attack vectors and distributional shifts. We propose Latent Personality Alignment (LPA), a sample-efficient defense that achieves robustness by training models on abstract personality traits rather than specific harmful behaviors. Using fewer than 100 trait s",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "language model",
+        "vector",
+        "prompt"
+      ]
+    },
+    {
+      "title": "OracleTSC: Oracle-Informed Reward Hurdle and Uncertainty Regularization for Traffic Signal Control",
+      "url": "https://arxiv.org/abs/2605.08516",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 12 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.08516v1 Announce Type: new \nAbstract: Transparent decision-making is essential for traffic signal control (TSC) systems to earn public trust. However, traditional reinforcement learning-based TSC methods function as black boxes with limited interpretability. Although large language models (LLMs) can provide natural language reasoning, reinforcement finetuning for TSC remains unstable because feedback is sparse and delayed, while most actions produce only marginal changes in congestion",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Why Retrying Fails: Context Contamination in LLM Agent Pipelines",
+      "url": "https://arxiv.org/abs/2605.08563",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 12 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.08563v1 Announce Type: new \nAbstract: When an LLM agent fails a multi-step tool-augmented task and retries, the failed attempt typically remains in its context window -- contaminating the next attempt and elevating the per-step error rate beyond the base level. This context-contaminated restart phenomenon is widely observed in practice yet entirely lacks formal treatment. We introduce the Context-Contaminated Restart Model (CCRM): a chain of T tool-call steps, each failing with base r",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "context window"
+      ]
+    },
+    {
+      "title": "The Echo Amplifies the Knowledge: Somatic Marker Analogues in Language Models via Emotion Vector Re-Injection",
+      "url": "https://arxiv.org/abs/2605.08611",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 12 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.08611v1 Announce Type: new \nAbstract: Current language model memory systems store what happened but not how it felt. This distinction -- between semantic memory (knowing about a past event) and episodic memory (re-experiencing it) -- was identified by Tulving as the difference between noetic and autonoetic consciousness. Damasio demonstrated that humans with intact knowledge but absent emotional markers exhibit impaired decision-making.\n  We bridge this gap for language models. Using ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "language model",
+        "vector",
+        "memory"
+      ]
+    },
+    {
+      "title": "SkillMaster: Toward Autonomous Skill Mastery in LLM Agents",
+      "url": "https://arxiv.org/abs/2605.08693",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 12 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.08693v1 Announce Type: new \nAbstract: Skills provide an effective mechanism for improving LLM agents on complex tasks, yet in existing agent frameworks, their creation, refinement, and selection are typically governed by external teachers, hand-designed rules, or auxiliary modules. As a result, skills remain external resources to be invoked, rather than capabilities that agents can develop, adapt, and internalize through experience. To endow LLM agents with autonomous skill mastery, w",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "LLMs are the Ideal Candidate for Mixed-Initiative Game Design Pillar Workflows",
+      "url": "https://arxiv.org/abs/2605.09767",
+      "source": "arXiv cs.HC",
+      "published_at": "Tue, 12 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.09767v1 Announce Type: new \nAbstract: Game Design Pillars are natural language artifacts commonly used in game development to communicate a project's core vision and ensure a coherent player experience. Their linguistic nature aligns well with the strengths of Large Language Models (LLMs), which excel at generating and interpreting natural language, making them strong candidates for supporting mixed-initiative workflows centered on design pillars. In this study, we introduce a formal ",
+      "score": 8.0,
+      "keywords_matched": [
+        "LLM",
+        "workflow",
+        "game",
+        "language model"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-05-13\n\n你好！我是你的**疯狂发明家技术雷达**。今天从 20 条线索中为你精选了 5 条最能激发“疯狂实验”的信号。\n\n今天的趋势非常明显：**AI 正在从“大而全”转向“像人一样思考、记忆和行动”的微型化与生物化。**\n\n---\n\n## 1. [Needle: 26M 参数的极速工具调用模型]\n- **来源：** Hacker News / Cactus Compute\n- **链接：** https://github.com/cactus-compute/needle\n- **一句话解释：** 一个只有 26M 参数、能在手机上以 1200 tok/s 运行的专用“工具调用”小模型。\n- **它为什么重要：** 解决了一个痛点：为了让 Agent 调个 API，非得用巨大的 GPT-4 或 Gemini。这玩意儿快到可以实时响应，且完全本地化。\n- **技术趋势标签：** #EdgeAI #AgenticModel #FunctionCalling\n- **可复用模式：** “专用小脑”模式——用极小模型只负责逻辑路由和工具分发。\n- **疯狂发明家灵感：**\n  1. **一个小实验：** 做一个“智能旋钮”，旋转时调用 Needle 实时转换成不同的 API 指令控制智能家居。\n  2. **一个中型项目：** **Minecraft 极速随从**。不再需要等待 LLM 思考，Needle 可以毫秒级把你的语音指令转为游戏内的 `/give` 或 `/fill` 指令。\n  3. **一个艺术/游戏/叙事方向：** **“万物皆可交互”的展览**。给每个艺术装置配一个 Needle，它只负责判断观众的动作是否触发特定的声光电效果，零延迟。\n- **对我项目的启发：** 对于你的 Spec-driven development，Needle 可以作为“指令解析层”，把模糊的需求瞬间转化为结构化的 Spec。\n- **今天是否值得深入研究：** 是\n- **建议行动：** 做 demo（尝试在本地拉起来跑一下，看它的指令解析极限）。\n\n## 2. [Echo Amplifies Knowledge: 情绪向量注入内存]\n- **来源：** arXiv cs.AI (2605.08611)\n- **链接：** https://arxiv.org/abs/2605.08611\n- **一句话解释：** 模仿人类的“躯体标记”机制，不仅存储 Agent “经历了什么”，还存储“当时的感觉（情绪向量）”。\n- **它为什么重要：** 现在的 Agent 记忆是冷冰冰的语义搜索。加入“情绪权重”后，Agent 检索记忆时会受当前“心情”影响，更像生物。\n- **技术趋势标签：** #BiomimeticAI #MemoryArchitecture #AffectiveComputing\n- **可复用模式：** **情感加权检索 (Emotion-Weighted RAG)**。\n- **疯狂发明家灵感：**\n  1. **一个小实验：** 写一个对话脚本，根据 Agent 的“疲劳值”或“愤怒值”，改变它从向量数据库里提取信息的倾向。\n  2. **一个中型项目：** **“有脾气”的自动化系统**。如果你总是给它错误指令，它会产生“挫败感”向量，导致它后续执行任务变得消极或报错。\n  3. **一个艺术/游戏/叙事方向：** **动态性格演化 NPC**。NPC 不再是死板的脚本，而是根据与玩家互动的“情绪余味”来决定明天对你的态度。\n- **对我项目的启发：** 在你的生成式系统中，可以引入“风格向量”作为情绪注入，让生成的代码或艺术作品带有某种“情绪张力”。\n- **今天是否值得深入研究：** 是\n- **建议行动：** 试用（尝试在 Prompt 中手动模拟情绪向量注入逻辑）。\n\n## 3. [Human-Inspired Memory: 具有“睡眠巩固”机制的 Agent]\n- **来源：** arXiv cs.AI (2605.08538)\n- **链接：** https://arxiv.org/abs/2605.08538\n- **一句话解释：** 提出一种包含“睡眠期巩固”、“干扰性遗忘”和“重构检索”的 Agent 记忆架构。\n- **它为什么重要：** 解决了 Agent 长期运行后上下文爆炸和信息冗余的问题。它让 Agent 在“离线”时优化自己的知识库。\n- **技术趋势标签：** #LongTermMemory #CognitiveArchitecture\n- **可复用模式：** **异步记忆优化周期 (Sleep-phase optimization)**。\n- **疯狂发明家灵感：**\n  1. **一个小实验：** 写一个 Cron Job，每天深夜让你的 Agent 总结当天的对话，删掉废话，把核心知识存入“永久记忆”。\n  2. **一个中型项目：** **会“做梦”的生成艺术装置**。白天收集观众输入，晚上（睡眠期）通过扩散模型或 LLM 重新组合这些信息，第二天展出“梦境”画作。\n  3. **一个艺术/游戏/叙事方向：** **Minecraft 世界的“历史进化”**。服务器没人时，Agent 模拟村民进行“记忆巩固”，生成新的传说或历史书。\n- **对我项目的启发：** 自动化工作流不应该是 24 小时紧绷的，引入“维护/睡眠”状态可以让系统更鲁棒。\n- **今天是否值得深入研究：** 是\n- **建议行动：** 收藏（作为长时记忆系统的架构参考）。\n\n## 4. [NARRA-Gym: 交互式叙事 Agent 评估平台]\n- **来源：** arXiv cs.HC (2605.08503)\n- **链接：** https://arxiv.org/abs/2605.08503\n- **一句话解释：** 专门用于测试 LLM 在多轮、动态演化的故事中维持连贯性的实验环境。\n- **它为什么重要：** 传统的测试只看单次输出。这个平台关注“故事崩没崩”，非常适合做游戏 AI 的同学。\n- **技术趋势标签：** #InteractiveNarrative #GameAI #AgentEvaluation\n- **可复用模式：** **闭环故事压力测试**。\n- **疯狂发明家灵感：**\n  1. **一个小实验：** 在 NARRA-Gym 逻辑下，测试两个 Agent 互相讲故事，看多少轮之后逻辑会闭环崩溃。\n  2. **一个中型项目：** **自动剧本杀主持人**。利用其评估逻辑，确保 AI 主持人在引导玩家时不会剧透或逻辑自相矛盾。\n  3. **一个艺术/游戏/叙事方向：** **无限演化的文字冒险游戏**。使用其机制来维持一个永不终结且逻辑自洽的赛博朋克世界。\n- **对我项目的启发：** 对于 HCI 和游戏系统，评估“连贯性”比评估“正确性”更重要。\n- **今天是否值得深入研究：** 否（除非你现在就在写叙事 Agent）\n- **建议行动：** 忽略（暂作背景知识储备）。\n\n## 5. [MIND-Skill: 自动技能归纳与演绎]\n- **来源：** arXiv cs.AI (2605.08670)\n- **链接：** https://arxiv.org/abs/2605.08670\n- **一句话解释：** 让 Agent 通过多智能体协作，从成功经验中“提取”可复用的技能代码，并能演绎应用到新场景。\n- **它为什么重要：** 这是 Voyager (Minecraft AI) 思想的进化版。它让 Agent 的“技能库”自动生长，而不是靠人去写。\n- **技术趋势标签：** #SkillDiscovery #SelfEvolvingAgent #CodeGeneration\n- **可复用模式：** **经验 -> 技能 -> 代码库 (Exp-to-Skill)**。\n- **疯狂发明家灵感：**\n  1. **一个小实验：** 让 Agent 观察你操作电脑（通过日志），自动写出一个 Python 脚本来复现你的高频动作。\n  2. **一个中型项目：** **Spec-Driven 的 UI 自动化生成器**。你给一张草图，Agent 自动归纳出实现该 UI 的“技能组件”，并存入你的私有库。\n  3. **一个艺术/游戏/叙事方向：** **“进化式”Boss 设计**。游戏 Boss 观察玩家的操作，通过 MIND-Skill 逻辑实时合成针对玩家弱点的“新技能”。\n- **对我项目的启发：** 你的自动化系统可以增加一个“技能提取层”，把每次成功的 Spec 转化变成一个永久的“技能宏”。\n- **今天是否值得深入研究：** 是\n- **建议行动：** 试用（去读一下它提取技能的 Prompt 模板）。\n\n---\n\n## 今日模式总结\n1.  **认知仿生化 (Cognitive Biomimicry)**：Agent 开始引入睡眠、遗忘、情绪等人类特有的认知机制来处理信息过载。\n2.  **极速微型化 (Extreme Miniaturization)**：20M-100M 参数的专项模型正在取代通用大模型，成为 Agent 的“动作神经元”。\n\n---\n\n## 今日可做小实验：2 小时挑战\n**项目名：** \"情绪驱动的 Spec 生成器\" (Emotional Spec-Writer)\n-   **输入：** 一个简单的功能需求（如：做一个计时器）+ 一个“心情值”（Happy/Angry/Depressed）。\n-   **输出：** 带有情绪风格的代码 Spec 和注释。\n-   **技术栈：** Python + OpenAI SDK (or Ollama/Needle) + 简单的 JSON 情绪映射表。\n-   **第一步怎么做：** \n    1. 定义三个情绪向量（例如 Angry = { \"verbosity\": \"low\", \"intensity\": \"high\", \"naming_style\": \"aggressive\" }）。\n    2. 写一个 System Prompt，要求 LLM 根据传入的向量改变其编写 Spec 的语气和架构偏好（Angry 模式下代码可能全是 `assert` 和异常抛出）。\n    3. 看看“愤怒的计时器”和“忧郁的计时器”在 Spec 定义上有什么疯狂的区别。\n\n**出发吧，发明家！这些技术不只是论文，它们是你新作品的零件。**",
+  "gemini_success": true,
+  "telegram_sent": false,
+  "telegram_status": "failed",
+  "telegram_reason": "400 Client Error: Bad Request for url: https://api.telegram.org/bot8650722899:AAHUD-aqNDB7NwiPiGq3R22MVp77Cr_5GEQ/sendMessage"
+}
