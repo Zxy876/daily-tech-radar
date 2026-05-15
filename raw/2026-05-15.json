@@ -1,0 +1,294 @@
+[
+  {
+    "title": "Think Twice, Act Once: Verifier-Guided Action Selection For Embodied Agents",
+    "url": "https://arxiv.org/abs/2605.12620",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 14 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.12620v1 Announce Type: new \nAbstract: Building generalist embodied agents capable of solving complex real-world tasks remains a fundamental challenge in AI. Multimodal Large Language Models (MLLMs) have significantly advanced the reasoning capabilities of such agents through strong vision-language knowledge and chain-of-thought (CoT) reasoning, yet remain brittle when faced with challenging out-of-distribution scenarios. To address this, we propose Verifier-Guided Action Selection (Ve",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "multimodal",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "IdeaForge: A Knowledge Graph-Grounded Multi-Agent Framework for Cross-Methodology Innovation Analysis and Patent Claim Generation",
+    "url": "https://arxiv.org/abs/2605.13311",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 14 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.13311v1 Announce Type: new \nAbstract: Current AI-assisted innovation systems typically apply a single ideation methodology (such as TRIZ or Design Thinking) using sequential prompt-based workflows that do not preserve intermediate reasoning structure. As a result, insights generated across methodologies remain fragmented, limiting traceability, synthesis, and systematic evaluation of novelty. We present IdeaForge, a knowledge graph-grounded multi-agent framework for innovation analysi",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow",
+      "RAG",
+      "prompt",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Exploring Interaction Paradigms for LLM Agents in Scientific Visualization",
+    "url": "https://arxiv.org/abs/2604.27996",
+    "source": "arXiv cs.HC",
+    "published_at": "Thu, 14 May 2026 00:00:00 -0400",
+    "description": "arXiv:2604.27996v2 Announce Type: replace-cross \nAbstract: This paper examines how different types of large language model (LLM) agents perform on scientific visualization (SciVis) tasks, where users generate visualization workflows from natural-language instructions. We compare three primary interaction paradigms, including domain-specific agents with structured tool use, computer-use agents, and general-purpose coding agents, by evaluating eight representative agents across 15 benchmark tasks ",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "language model",
+      "tool use"
+    ]
+  },
+  {
+    "title": "MervinPraison / PraisonAI",
+    "url": "https://github.com/MervinPraison/PraisonAI",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with built-in memory, RAG, and support for 100+ LLMs. [120 stars today]",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "autonomous",
+      "RAG",
+      "memory"
+    ]
+  },
+  {
+    "title": "MAP: A Map-then-Act Paradigm for Long-Horizon Interactive Agent Reasoning",
+    "url": "https://arxiv.org/abs/2605.13037",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 14 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.13037v1 Announce Type: new \nAbstract: Current interactive LLM agents rely on goal-conditioned stepwise planning, where environmental understanding is acquired reactively during execution rather than established beforehand. This temporal inversion leads to Delayed Environmental Perception: agents must infer environmental constraints through trial-and-error, resulting in an Epistemic Bottleneck that traps them in inefficient failure cycles. Inspired by human affordance perception and co",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "reasoning",
+      "planning"
+    ]
+  },
+  {
+    "title": "AI-Generated Slides: Are They Good? Can Students Tell?",
+    "url": "https://arxiv.org/abs/2605.13532",
+    "source": "arXiv cs.HC",
+    "published_at": "Thu, 14 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.13532v1 Announce Type: cross \nAbstract: As generative AI (GenAI) tools become easily accessible, there is promise in using such tools to support instructors. To that end, this paper examines using GenAI to help generate slides from instructor authored course notes, emphasizing instructor and student perceptions. We examine an end-to-end education tool (NotebookLM), two general-purpose LLMs (Claude, M365 Copilot), and two coding assistants (Cursor, Claude Code). We first analyze whethe",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "Claude",
+      "Copilot",
+      "generative"
+    ]
+  },
+  {
+    "title": "SocialLM: Social Signal Processing of Patient-Provider Communication using LLMs and Contextual Aggregation",
+    "url": "https://arxiv.org/abs/2505.04152",
+    "source": "arXiv cs.HC",
+    "published_at": "Thu, 14 May 2026 00:00:00 -0400",
+    "description": "arXiv:2505.04152v2 Announce Type: replace-cross \nAbstract: Effective patient-provider communication is difficult to assess at scale. We examine whether large language models (LLMs) can track 20 social behaviors from clinical transcripts without fine-tuning. Across three model families and multiple prompting strategies, LLMs reliably detect social signals, though performance varies by patient race and visit segment. To address this variability under query-only API constraints, we introduce an agr",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "fine-tuning",
+      "prompt"
+    ]
+  },
+  {
+    "title": "wanshuiyin / Auto-claude-code-research-in-sleep",
+    "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works with Claude Code, Codex, OpenClaw, or any LLM agent. [138 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "Claude",
+      "automation",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "Learning Transferable Latent User Preferences for Human-Aligned Decision Making",
+    "url": "https://arxiv.org/abs/2605.12682",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 14 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.12682v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly used as reasoning modules in many applications. While they are efficient in certain tasks, LLMs often struggle to produce human-aligned solutions. Human-aligned decision making requires accounting for both explicitly stated goals and latent user preferences that shape how ambiguous situations should be resolved. Existing approaches to incorporating such preferences either rely on extensive and repeated",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "CHAL: Council of Hierarchical Agentic Language",
+    "url": "https://arxiv.org/abs/2605.12718",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 14 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.12718v1 Announce Type: new \nAbstract: Multi-agent debate has emerged as a promising approach for improving LLM reasoning on ground-truth tasks, yet current methodologies face certain structural limitations: debate tends to induce a martingale over belief trajectories, majority voting accounts for most observed gains, and LLMs exhibit confidence escalation rather than calibration across rounds. We argue that the genuine value of debate, and dialectic systems as a whole, lies not in gro",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "PROMETHEUS: Automating Deep Causal Research Integrating Text, Data and Models",
+    "url": "https://arxiv.org/abs/2605.12835",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 14 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.12835v1 Announce Type: new \nAbstract: Large language models can extract local causal claims from text, but those claims become more useful when organized as persistent, navigable world models rather than as flat summaries. We introduce PROMETHEUS, a framework that turns retrieved literature, filings, reviews, reports, agent traces, source data, code, simulations, and scientific models into causal atlases: sheaf-like families of local causal predictive-state models over an explicit cov",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "simulation",
+      "language model"
+    ]
+  },
+  {
+    "title": "Beyond Cooperative Simulators: Generating Realistic User Personas for Robust Evaluation of LLM Agents",
+    "url": "https://arxiv.org/abs/2605.12894",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 14 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.12894v1 Announce Type: new \nAbstract: Large Language Model (LLM) agents are increasingly deployed in settings where they interact with a wide variety of people, including users who are unclear, impatient, or reluctant to share information. However, collecting real interaction data at scale remains expensive. The field has turned to LLM-based user simulators as stand-ins, but these simulators inherit the behavior of their underlying models: cooperative and homogeneous. As a result, age",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model"
+    ]
+  },
+  {
+    "title": "Retrieval is Cheap, Show Me the Code: Executable Multi-Hop Reasoning for Retrieval-Augmented Generation",
+    "url": "https://arxiv.org/abs/2605.12975",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 14 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.12975v1 Announce Type: new \nAbstract: Retrieval-Augmented Generation (RAG) has become a standard approach for knowledge-intensive question answering, but existing systems remain brittle on multi-hop questions, where solving the task requires chaining multiple retrieval and reasoning steps. Key challenges are that current methods represent reasoning through free-form natural language, where intermediate states are implicit, retrieval queries can drift from intended entities, and errors",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "RAG",
+      "reasoning",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education",
+    "url": "https://arxiv.org/abs/2605.12988",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 14 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.12988v1 Announce Type: new \nAbstract: Students learning algorithms often need support as they interpret traces, debug reasoning errors, and apply procedures across unfamiliar problem instances. In this paper, we present KITE (Knowledge-Informed Tutoring Engine), a Retrieval-Augmented Generation (RAG)-based intelligent tutoring system designed to serve as a classroom teaching assistant for algorithmic reasoning and problem-solving tasks. KITE uses an intent-aware Socratic response stra",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "RAG",
+      "reasoning",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Discrete Diffusion for Complex and Congested Multi-Agent Path Finding with Sparse Social Attention",
+    "url": "https://arxiv.org/abs/2605.13296",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 14 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.13296v1 Announce Type: new \nAbstract: Multi-Agent Path Finding (MAPF) is a coordination problem that requires computing globally consistent, collision-free trajectories from individual start positions to assigned goal positions under combinatorial planning complexity. In dense environments, suboptimal initial plans induce compound conflicts that hinder feasible repair. For repair-based solvers like LNS2, initial plan quality critically affects downstream repair, yet this factor remain",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "diffusion",
+      "planning"
+    ]
+  },
+  {
+    "title": "Exploring how EFL students talk to and through AI to develop texts",
+    "url": "https://arxiv.org/abs/2605.12523",
+    "source": "arXiv cs.HC",
+    "published_at": "Thu, 14 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.12523v1 Announce Type: cross \nAbstract: Generative Artificial Intelligence (AI) introduces new considerations for English as a foreign language (EFL) writing pedagogy. This study explores how students talk to and through AI by prompt engineering and negotiating authorship, respectively, and whether any patterns in the latter relate to students' writing performance. Using an exploratory mixed methods design, we analyzed screen recordings of 44 Hong Kong secondary students completing a ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "generative art",
+      "prompt",
+      "generative"
+    ]
+  },
+  {
+    "title": "Visual Aesthetic Benchmark: Can Frontier Models Judge Beauty?",
+    "url": "https://arxiv.org/abs/2605.12684",
+    "source": "arXiv cs.HC",
+    "published_at": "Thu, 14 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.12684v1 Announce Type: cross \nAbstract: Multimodal large language models (MLLMs) are now routinely deployed for visual understanding, generation, and curation. A substantial fraction of these applications require an explicit aesthetic judgment. Most existing solutions reduce this judgment to predicting a scalar score for a single image. We first ask whether such scores faithfully capture comparative preference: in a controlled study with eight expert annotators, score-derived rankings",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "multimodal"
+    ]
+  },
+  {
+    "title": "AIvaluateXR: An Evaluation Framework for on-Device AI in XR with Benchmarking Results",
+    "url": "https://arxiv.org/abs/2502.15761",
+    "source": "arXiv cs.HC",
+    "published_at": "Thu, 14 May 2026 00:00:00 -0400",
+    "description": "arXiv:2502.15761v3 Announce Type: replace-cross \nAbstract: The deployment of large language models (LLMs) on extended reality (XR) devices has great potential to advance the field of human-AI interaction. In the case of direct, on-device model inference, selecting the appropriate model and device for specific tasks remains challenging. In this paper, we present AIvaluateXR, a comprehensive evaluation framework for benchmarking LLMs running on XR devices. To demonstrate the framework, we deploy 1",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "inference"
+    ]
+  },
+  {
+    "title": "Multi-Rollout On-Policy Distillation via Peer Successes and Failures",
+    "url": "https://arxiv.org/abs/2605.12652",
+    "source": "arXiv cs.LG",
+    "published_at": "Thu, 14 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.12652v1 Announce Type: new \nAbstract: Large language models are often post-trained with sparse verifier rewards, which indicate whether a sampled trajectory succeeds but provide limited guidance about where reasoning succeeds or fails. On-policy distillation (OPD) offers denser token-level supervision by training on student-generated trajectories, yet existing methods typically distill each rollout independently and ignore the other attempts sampled for the same prompt. We introduce M",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "language model",
+      "prompt",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "ODRPO: Ordinal Decompositions of Discrete Rewards for Robust Policy Optimization",
+    "url": "https://arxiv.org/abs/2605.12667",
+    "source": "arXiv cs.LG",
+    "published_at": "Thu, 14 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.12667v1 Announce Type: new \nAbstract: The alignment of Large Language Models (LLMs) utilizes Reinforcement Learning from AI Feedback (RLAIF) for non-verifiable domains such as long-form question answering and open-ended instruction following. These domains often rely on LLM based auto-raters to provide granular, multi-tier discrete rewards (e.g., 1-10 rubrics) that are inherently stochastic due to prompt sensitivity and sampling randomness. We empirically verify the stochasticity of a",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "prompt"
+    ]
+  }
+]
