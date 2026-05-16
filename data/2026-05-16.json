@@ -1,0 +1,304 @@
+{
+  "date": "2026-05-16",
+  "candidates": [
+    {
+      "title": "ChromaFlow: A Negative Ablation Study of Orchestration Overhead in Tool-Augmented Agent Evaluation",
+      "url": "https://arxiv.org/abs/2605.14102",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 15 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.14102v1 Announce Type: new \nAbstract: Autonomous language-model agents increasingly combine planning, tool use, document processing, browsing, code execution, and verification loops. These capabilities make agent systems more useful, but they also introduce operational failure modes that are not visible from final accuracy alone. This report presents ChromaFlow, a tool-augmented autonomous reasoning framework built around planner-directed execution, specialized tool use, and telemetry",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "autonomous",
+        "tool use",
+        "reasoning",
+        "planning"
+      ]
+    },
+    {
+      "title": "Hypergraph Enterprise Agentic Reasoner over Heterogeneous Business Systems",
+      "url": "https://arxiv.org/abs/2605.14259",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 15 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.14259v1 Announce Type: new \nAbstract: Applying Large Language Models (LLMs) to heterogeneous enterprise systems is hindered by hallucinations and failures in multi-hop, n-ary reasoning. Existing paradigms (e.g., GraphRAG, NL2SQL) lack the semantic grounding and auditable execution required for these complex environments. We introduce HEAR, an enterprise agentic reasoner built on a Stratified Hypergraph Ontology. Its base Graph Layer virtualizes provenance-aware data interfaces, while ",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "RAG",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Understanding How International Students in the U.S. Are Using Conversational AI to Support Cross-Cultural Adaptation",
+      "url": "https://arxiv.org/abs/2605.15127",
+      "source": "arXiv cs.HC",
+      "published_at": "Fri, 15 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.15127v1 Announce Type: new \nAbstract: Moving to a new culture and adapting to a new life, as an international student, can be a stressful experience. In the US, international students face unique overlapping challenges, yet the current support ecosystem, including university support systems and informal social networks, remains largely fragmented. While conversational AI has emerged as a tool used by many (e.g., generative AI chatbots like ChatGPT and Google Gemini), we do not have a ",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "Gemini",
+        "GPT",
+        "RAG",
+        "tool use",
+        "generative"
+      ]
+    },
+    {
+      "title": "Model-Adaptive Tool Necessity Reveals the Knowing-Doing Gap in LLM Tool Use",
+      "url": "https://arxiv.org/abs/2605.14038",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 15 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.14038v1 Announce Type: new \nAbstract: Large language models (LLMs) increasingly act as autonomous agents that must decide when to answer directly vs. when to invoke external tools. Prior work studying adaptive tool use has largely treated tool necessity as a model-agnostic property, annotated by human or LLM judge, and mostly cover cases where the answer is obvious (e.g., fetching the weather vs. paraphrasing text). However, tool necessity in the wild is more nuanced due to the diverg",
+      "score": 10.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "language model",
+        "autonomous",
+        "tool use"
+      ]
+    },
+    {
+      "title": "SPIN: Structural LLM Planning via Iterative Navigation for Industrial Tasks",
+      "url": "https://arxiv.org/abs/2605.14051",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 15 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.14051v1 Announce Type: new \nAbstract: Industrial LLM agent systems often separate planning from execution, yet LLM planners frequently produce structurally invalid or unnecessarily long workflows, leading to brittle failures and avoidable tool and API cost. We propose \\texttt{SPIN}, a planning wrapper that combines validated Directed Acyclic Graph (DAG) planning with prefix based execution control. \\texttt{SPIN} enforces a strict DAG contract through \\texttt{\\_validate\\_plan\\_text} an",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "workflow",
+        "planning"
+      ]
+    },
+    {
+      "title": "Bad Seeing or Bad Thinking? Rewarding Perception for Vision-Language Reasoning",
+      "url": "https://arxiv.org/abs/2605.14054",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 15 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.14054v1 Announce Type: new \nAbstract: Achieving robust perception-reasoning synergy is a central goal for advanced Vision-Language Models (VLMs). Recent advancements have pursued this goal via architectural designs or agentic workflows. However, these approaches are often limited by static textual reasoning or complicated by the significant compute and engineering burden of external agentic complexity. Worse, this heavy investment does not yield proportional gains, often witnessing a ",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "workflow",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Agentic Systems as Boosting Weak Reasoning Models",
+      "url": "https://arxiv.org/abs/2605.14163",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 15 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.14163v1 Announce Type: new \nAbstract: Can a committee of weak reasoning-model calls reach the performance of much stronger models? We study verifier-backed committee search as inference-time boosting for reasoning language models. The mechanism is not simply that ``more agents help'': samples expose latent correct solutions, while critics and comparators must recover them without access to the hidden verifier. We formalize this view by separating proposal coverage, local identifiabili",
+      "score": 10.0,
+      "keywords_matched": [
+        "agent",
+        "language model",
+        "RAG",
+        "inference",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "SimPersona: Learning Discrete Buyer Personas from Raw Clickstreams for Grounded E-Commerce Agents",
+      "url": "https://arxiv.org/abs/2605.14205",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 15 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.14205v1 Announce Type: new \nAbstract: LLM-based web agents can navigate live storefronts, yet they often collapse to a single \"average buyer\" policy, failing to capture the heterogeneous and distributional nature of real buyer populations. Existing personalization methods rely on hand-crafted prompt-based personas that are brittle, difficult to scale, context-inefficient, and unable to faithfully represent population-level behavior. We introduce SimPersona, a novel framework that lear",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "RAG",
+        "prompt"
+      ]
+    },
+    {
+      "title": "Emotion-Attended Stateful Memory (EASM):The Architecture for Hyper-Personalization at Scale",
+      "url": "https://arxiv.org/abs/2605.14833",
+      "source": "arXiv cs.HC",
+      "published_at": "Fri, 15 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.14833v1 Announce Type: cross \nAbstract: Current language model systems remain fundamentally stateless across sessions, limiting their ability to personalize interactions over time. While retrieval-augmented generation and fine-tuning improve knowledge access and domain capability, they do not enable persistent understanding of individual users. We propose an emotion-attended stateful memory architecture that dynamically constructs user-specific conversational context using long-term h",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "language model",
+        "fine-tuning",
+        "memory",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "EvolveMem:Self-Evolving Memory Architecture via AutoResearch for LLM Agents",
+      "url": "https://arxiv.org/abs/2605.13941",
+      "source": "arXiv cs.LG",
+      "published_at": "Fri, 15 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.13941v1 Announce Type: new \nAbstract: Long-term memory is essential for LLM agents that operate across multiple sessions, yet existing memory systems treat retrieval infrastructure as fixed: stored content evolves while scoring functions, fusion strategies, and answer-generation policies remain frozen at deployment. We argue that truly adaptive memory requires co-evolution at two levels: the stored knowledge and the retrieval mechanism that queries it. We present EvolveMem, a self-evo",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "memory",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Self-Pruned Key-Value Attention: Learning When to Write by Predicting Future Utility",
+      "url": "https://arxiv.org/abs/2605.14037",
+      "source": "arXiv cs.LG",
+      "published_at": "Fri, 15 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.14037v1 Announce Type: new \nAbstract: Under modern test-time compute and agentic paradigms, language models process ever-longer sequences. Efficient text generation with transformer architectures is increasingly constrained by the Key-Value cache memory footprint and bandwidth. To address this limitation, we introduce Self-Pruned Key-Value Attention (SP-KV), a mechanism designed to predict future KV utility in order to reduce the size of the long-term KV cache. This strategy operates ",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "transformer",
+        "language model",
+        "memory"
+      ]
+    },
+    {
+      "title": "PREPING: Building Agent Memory without Tasks",
+      "url": "https://arxiv.org/abs/2605.13880",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 15 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.13880v1 Announce Type: new \nAbstract: Agent memory is typically constructed either offline from curated demonstrations or online from post-deployment interactions. However, regardless of how it is built, an agent faces a cold-start gap when first introduced to a new environment without any task-specific experience available. In this paper, we study pre-task memory construction: whether an agent can build procedural memory before observing any target-environment tasks, using only self-",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "memory",
+        "procedural"
+      ]
+    },
+    {
+      "title": "PolitNuggets: Benchmarking Agentic Discovery of Long-Tail Political Facts",
+      "url": "https://arxiv.org/abs/2605.14002",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 15 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.14002v1 Announce Type: new \nAbstract: Large Reasoning Models (LRMs) embedded in agentic frameworks have transformed information retrieval from static, long context question answering into open-ended exploration. Yet real world use requires models to discover and synthesize \"long-tail\" facts from dispersed sources, a capability that remains under-evaluated. We introduce PolitNuggets, a multilingual benchmark for agentic information synthesis via constructing political biographies for 4",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "reasoning",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Bridging Legal Interpretation and Formal Logic: Faithfulness, Assumption, and the Future of AI Legal Reasoning",
+      "url": "https://arxiv.org/abs/2605.14049",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 15 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.14049v1 Announce Type: new \nAbstract: The growing adoption of large language models in legal practice brings both significant promise and serious risk. Legal professionals stand to benefit from AI that can reason over contracts, draft documents, and analyze sources at scale, yet the high-stakes nature of legal work demands a level of rigor that current AI systems do not provide. The central problem is not simply that LLMs hallucinate facts and references; it is that they systematicall",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "ClawForge: Generating Executable Interactive Benchmarks for Command-Line Agents",
+      "url": "https://arxiv.org/abs/2605.14133",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 15 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.14133v1 Announce Type: new \nAbstract: Interactive agent benchmarks face a tension between scalable construction and realistic workflow evaluation. Hand-authored tasks are expensive to extend and revise, while static prompt evaluation misses failures that only appear when agents operate over persistent state. Existing interactive benchmarks have advanced agent evaluation significantly, but most initialize tasks from clean state and do not systematically test how agents handle pre-exist",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "workflow",
+        "prompt"
+      ]
+    },
+    {
+      "title": "Grounded Continuation: A Linear-Time Runtime Verifier for LLM Conversations",
+      "url": "https://arxiv.org/abs/2605.14175",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 15 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.14175v1 Announce Type: new \nAbstract: In long conversations, an LLM can produce a next utterance that sounds plausible but rests on premises the conversation has already abandoned. Context-manipulation attacks against deployed agents now actively exploit this gap. We close it with a runtime verifier that maintains an explicit dependency graph: an LLM classifies each turn into one of 8 update operations drawn from four formalisms (dynamic epistemic logic, abductive reasoning, awareness",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Fusion-fission forecasts when AI will shift to undesirable behavior",
+      "url": "https://arxiv.org/abs/2605.14218",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 15 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.14218v1 Announce Type: new \nAbstract: The key problem facing ChatGPT-like AI's use across society is that its behavior can shift, unnoticed, from desirable to undesirable -- encouraging self-harm, extremist acts, financial losses, or costly medical and military mistakes -- and no one can yet predict when. Shifts persist in even the newest AI models despite remarkable progress in AI modeling, post-training alignment and safeguards. Here we show that a vector generalization of fusion-fi",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "GPT",
+        "RAG",
+        "vector"
+      ]
+    },
+    {
+      "title": "Good to Go: The LOOP Skill Engine That Hits 99% Success and Slashes Token Usage by 99% via One-Shot Recording and Deterministic Replay",
+      "url": "https://arxiv.org/abs/2605.14237",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 15 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.14237v1 Announce Type: new \nAbstract: Deploying AI agents for repetitive periodic tasks exposes a critical tension: Large Language Models (LLMs) offer unmatched flexibility in tool orchestration, yet their inherent stochasticity causes unpredictable failures, and repeated invocations incur prohibitive token costs. We present the LOOP SKILL ENGINE, a system that achieves a combined 99% success rate and 99% token reduction for periodic agent tasks through a one-shot recording, determini",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model"
+      ]
+    },
+    {
+      "title": "Precise Verification of Transformers through ReLU-Catalyzed Abstraction Refinement",
+      "url": "https://arxiv.org/abs/2605.14294",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 15 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.14294v1 Announce Type: new \nAbstract: Formal verification of transformers has become increasingly important due to their widespread deployment in safety-critical applications. Compared to classic neural networks, the inferences of transformers involve highly complex computations, such as dot products in self-attention layers, rendering their verification extremely difficult. Existing approaches explored over-approximation methods by constructing convex constraints to bound the output ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "transformer",
+        "neural",
+        "inference"
+      ]
+    },
+    {
+      "title": "CrystalReasoner: Reasoning and RL for Property-Conditioned Crystal Structure Generation",
+      "url": "https://arxiv.org/abs/2605.14344",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 15 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.14344v1 Announce Type: new \nAbstract: Generative modeling has emerged as a promising approach for crystal structure discovery. However, existing LLM-based generative models struggle with low-level atomic precision, while diffusion-based methods fall short in integrating high-level scientific knowledge. As a result, generated structures are often invalid, unstable, or do not possess desirable properties. To address this gap, we propose CrystalReasoner (\\method), an end-to-end LLM frame",
+      "score": 8.0,
+      "keywords_matched": [
+        "LLM",
+        "diffusion",
+        "reasoning",
+        "generative"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-05-16\n\n你好！我是你的**“疯狂发明家技术雷达”**。今天我从 20 篇候选论文中为你精选了 5 项最能激发“艺术+技术”化学反应的突破。\n\n今天的趋势非常明显：**Agent 正在从“只会说话”转向“拥有长期记忆、情绪状态和确定性技能”。**\n\n---\n\n## 1. SPIN: 工业级任务的结构化 LLM 规划\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2605.14051\n- 一句话解释：通过将 LLM 的模糊规划转化为验证过的 DAG（有向无环图），解决 Agent 乱写工作流的问题。\n- 它为什么重要：它是 **Spec-driven development** 的硬核体现。它不让 LLM 随性发挥，而是强制其输出符合逻辑结构的“图”，极大降低了自动化系统的崩溃率。\n- 技术趋势标签：#Spec-Driven #Workflow #DAG\n- 可复用模式：**“先验证结构，后执行步骤”**。在生成复杂系统（如 Minecraft 建筑或代码架构）前，先强制生成一个可校验的拓扑图。\n- 疯狂发明家灵感：\n  1. 一个小实验：做一个“食谱图生成器”，输入食材，它必须先输出一张合乎逻辑的烹饪流程 DAG，才能开始生成具体步骤。\n  2. 中型项目：**Minecraft 自动化建造师**。用户说“造个城堡”，Agent 先生成 DAG（地基->墙->塔楼），每一步必须验证前置条件。\n  3. 艺术/叙事：**非线性叙事生成器**。确保生成的支线剧情逻辑自洽，不会出现“角色已死但又说话”的逻辑 Bug。\n- 对我项目的启发：在你的自动化工具链中，引入一个“结构校验层”，把 LLM 的输出限制在特定的 Spec 协议内。\n- 今天是否值得深入研究：是\n- 建议行动：做 demo (试着用 JSON Schema 强制 LLM 输出 DAG 结构)\n\n## 2. SimPersona: 从原始点击流中学习离散买家画像\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2605.14205\n- 一句话解释：不再用枯燥的 Prompt 定义 NPC，而是通过观察用户的真实行为轨迹（点击流）自动反推并建模出“有灵魂”的 Agent 画像。\n- 它为什么重要：对于游戏系统和 HCI 非常关键。它提供了一种**“由内而外”生成个性**的方法，而不是靠人为预设。\n- 技术趋势标签：#NPC #BehavioralModelling #HCI\n- 可复用模式：**“轨迹即性格”**。记录用户在虚拟空间的位置/交互序列，将其转化为 Agent 的驱动特征。\n- 疯狂发明家灵感：\n  1. 一个小实验：记录你一周的 shell 命令历史，训练一个“命令行分身” Agent。\n  2. 中型项目：**Minecraft 观察者 NPC**。它不说话，只是观察你在服里的行为（是喜欢挖矿还是拆迁），然后进化出对应的社交态度。\n  3. 艺术/叙事：**自适应数字艺术展**。作品根据观众在展厅的走位路径，实时生成一个代表该观众个性的 Agent 形象。\n- 对我项目的启发：思考如何把“用户行为数据”作为 Agent 生成系统的输入，而不仅仅是文字描述。\n- 今天是否值得深入研究：是\n- 建议行动：收藏\n\n## 3. EASM: 情绪感知的状态化记忆架构\n- 来源：arXiv cs.HC\n- 链接：https://arxiv.org/abs/2605.14833\n- 一句话解释：给 Agent 的长短期记忆加上一层“情绪权重”，让它能记住那些让它“生气”或“开心”的交互细节。\n- 它为什么重要：解决了 LLM 记忆“冷冰冰”的问题。在艺术创作和人机交互中，**情绪的一致性**比事实的准确性更能建立连接。\n- 技术趋势标签：#EmotionalAI #Memory #Personalization\n- 可复用模式：**“情绪加权检索”**。在 RAG（检索增强生成）中，不仅搜索语义相似度，还搜索情绪匹配度。\n- 疯狂发明家灵感：\n  1. 一个小实验：写个脚本，把你的聊天记录按“情绪值”打标，做一个“坏情绪检索器”。\n  2. 中型项目：**有脾气的创意助手**。如果你一直否定它的建议，它的记忆检索会变得消极，甚至拒绝工作。\n  3. 艺术/叙事：**动态演化的交互式剧本**。角色对玩家的记忆是带感情色彩的，这直接决定了结局走向。\n- 对我项目的启发：在你设计的 Agent 工作流中增加一个 `emotion_state` 变量，影响后续的 Tool Use 决策。\n- 今天是否值得深入研究：是\n- 建议行动：试用 (尝试在 Prompt 中引入情绪状态机)\n\n## 4. PREPING: 无需任务的 Agent 预备记忆构建\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2605.13880\n- 一句话解释：Agent 在正式干活前，先通过“闲逛”和“观察”环境来构建预备知识，解决“冷启动”问题。\n- 它为什么重要：这非常像**世界生成（World Generation）**中的“前传”逻辑。Agent 不再是空降兵，而是“本地人”。\n- 技术趋势标签：#ColdStart #WorldBuilding #AutonomousAgent\n- 可复用模式：**“先探索，后行动”**。在分配任务前，先运行一个探索脚本生成环境快照。\n- 疯狂发明家灵感：\n  1. 一个小实验：让 Agent 先读完你整个项目的 README 和文件树，但不给它任务，只让它写一份“环境初印象”。\n  2. 中型项目：**Minecraft 自动勘探员**。在玩家进入前，Agent 先生成一份地质报告和生存建议。\n  3. 艺术/叙事：**生成式历史背景**。为你的游戏世界先跑一遍“历史模拟”，生成的记忆作为所有 NPC 的初始背景。\n- 对我项目的启发：优化你的开发工作流，让 Agent 在写代码前先执行一个 `survey` 步骤来理解上下文。\n- 今天是否值得深入研究：否 (理念重要，但实现可能较重)\n- 建议行动：忽略 (暂存想法即可)\n\n## 5. LOOP Skill Engine: 一次性录制与确定性回放\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2605.14237\n- 一句话解释：结合了 LLM 的灵活性和传统宏录制的确定性，让 Agent 像人类录制宏一样学习复杂技能，然后 99% 成功率重放。\n- 它为什么重要：**这是解决 LLM 随机性（Stochasticity）的神器。** 对于需要精确操作的 Creative Coding 或自动化工具极其有用。\n- 技术趋势标签：#DeterministicAI #Automation #SkillLearning\n- 可复用模式：**“LLM 编排 + 确定性脚本执行”**。用 LLM 决定“什么时候用什么宏”。\n- 疯狂发明家灵感：\n  1. 一个小实验：录制一段你在 Photoshop 或 Blender 里的操作序列，让 LLM 根据你的口令自动触发这段“技能”。\n  2. 中型项目：**Creative Coding 技能库**。把复杂的 P5.js 绘图逻辑封装成“技能”，Agent 通过自然语言调用并微调参数。\n  3. 艺术/叙事：**确定性叙事节点**。关键剧情通过录制的“技能”执行，保证视觉表现的完美，而分支逻辑交给 LLM。\n- 对我项目的启发：不要试图让 LLM 每次都写代码，应该建立一个“技能库”，让它做选择题。\n- 今天是否值得深入研究：**是 (强烈推荐)**\n- 建议行动：做 demo\n\n---\n\n## 今日模式总结\n1.  **结构化约束 (Structural Constraint)**：从随性生成转向 DAG 和 Spec 协议，确保复杂系统的稳定性。\n2.  **具身记忆 (Embodied Memory)**：记忆不再是单纯的文本，而是带有情绪权重、环境预感和行为轨迹的综合体。\n3.  **确定性技能化 (Skill Determinism)**：通过录制重放技术，将 LLM 的灵活性与传统自动化的可靠性结合。\n\n---\n\n## 今日可做小实验：【情绪驱动的创意终端】\n- **项目名**：Mood-Terminal-Painter\n- **输入**：用户的一段日常对话或心情描述。\n- **输出**：根据对话中的“情绪记忆”实时生成的 P5.js 艺术画作片段。\n- **技术栈**：Python (FastAPI) + OpenAI API (带情绪分析 Prompt) + P5.js (前端显示)\n- **第一步怎么做**：\n    1. 写一个简单的 Prompt，要求 LLM 将输入的文本转化为 5 个参数：`calmness`, `energy`, `chaos`, `warmth`, `sharpness` (0-1)。\n    2. 将这些参数映射到 P5.js 的绘图函数（如：`chaos` 影响粒子扰动，`warmth` 影响色调）。\n    3. 连续输入三段话，让 Agent 维护一个“情绪状态机”，观察画作是如何随着你的心情“进化”的。\n\n---\n*祝你今天的实验充满疯狂的火花！如果有哪个项目你想深入聊聊实现细节，随时叫我。*",
+  "gemini_success": true,
+  "telegram_sent": true,
+  "telegram_status": "sent",
+  "telegram_reason": ""
+}
