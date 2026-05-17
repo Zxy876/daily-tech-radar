@@ -1,0 +1,288 @@
+[
+  {
+    "title": "ChromaFlow: A Negative Ablation Study of Orchestration Overhead in Tool-Augmented Agent Evaluation",
+    "url": "https://arxiv.org/abs/2605.14102",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 16 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.14102v1 Announce Type: new \nAbstract: Autonomous language-model agents increasingly combine planning, tool use, document processing, browsing, code execution, and verification loops. These capabilities make agent systems more useful, but they also introduce operational failure modes that are not visible from final accuracy alone. This report presents ChromaFlow, a tool-augmented autonomous reasoning framework built around planner-directed execution, specialized tool use, and telemetry",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "autonomous",
+      "tool use",
+      "reasoning",
+      "planning"
+    ]
+  },
+  {
+    "title": "Hypergraph Enterprise Agentic Reasoner over Heterogeneous Business Systems",
+    "url": "https://arxiv.org/abs/2605.14259",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 16 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.14259v1 Announce Type: new \nAbstract: Applying Large Language Models (LLMs) to heterogeneous enterprise systems is hindered by hallucinations and failures in multi-hop, n-ary reasoning. Existing paradigms (e.g., GraphRAG, NL2SQL) lack the semantic grounding and auditable execution required for these complex environments. We introduce HEAR, an enterprise agentic reasoner built on a Stratified Hypergraph Ontology. Its base Graph Layer virtualizes provenance-aware data interfaces, while ",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "RAG",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Model-Adaptive Tool Necessity Reveals the Knowing-Doing Gap in LLM Tool Use",
+    "url": "https://arxiv.org/abs/2605.14038",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 16 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.14038v1 Announce Type: new \nAbstract: Large language models (LLMs) increasingly act as autonomous agents that must decide when to answer directly vs. when to invoke external tools. Prior work studying adaptive tool use has largely treated tool necessity as a model-agnostic property, annotated by human or LLM judge, and mostly cover cases where the answer is obvious (e.g., fetching the weather vs. paraphrasing text). However, tool necessity in the wild is more nuanced due to the diverg",
+    "score": 10.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "language model",
+      "autonomous",
+      "tool use"
+    ]
+  },
+  {
+    "title": "SPIN: Structural LLM Planning via Iterative Navigation for Industrial Tasks",
+    "url": "https://arxiv.org/abs/2605.14051",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 16 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.14051v1 Announce Type: new \nAbstract: Industrial LLM agent systems often separate planning from execution, yet LLM planners frequently produce structurally invalid or unnecessarily long workflows, leading to brittle failures and avoidable tool and API cost. We propose \\texttt{SPIN}, a planning wrapper that combines validated Directed Acyclic Graph (DAG) planning with prefix based execution control. \\texttt{SPIN} enforces a strict DAG contract through \\texttt{\\_validate\\_plan\\_text} an",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "planning"
+    ]
+  },
+  {
+    "title": "Bad Seeing or Bad Thinking? Rewarding Perception for Vision-Language Reasoning",
+    "url": "https://arxiv.org/abs/2605.14054",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 16 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.14054v1 Announce Type: new \nAbstract: Achieving robust perception-reasoning synergy is a central goal for advanced Vision-Language Models (VLMs). Recent advancements have pursued this goal via architectural designs or agentic workflows. However, these approaches are often limited by static textual reasoning or complicated by the significant compute and engineering burden of external agentic complexity. Worse, this heavy investment does not yield proportional gains, often witnessing a ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Agentic Systems as Boosting Weak Reasoning Models",
+    "url": "https://arxiv.org/abs/2605.14163",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 16 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.14163v1 Announce Type: new \nAbstract: Can a committee of weak reasoning-model calls reach the performance of much stronger models? We study verifier-backed committee search as inference-time boosting for reasoning language models. The mechanism is not simply that ``more agents help'': samples expose latent correct solutions, while critics and comparators must recover them without access to the hidden verifier. We formalize this view by separating proposal coverage, local identifiabili",
+    "score": 10.0,
+    "keywords_matched": [
+      "agent",
+      "language model",
+      "RAG",
+      "inference",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "SimPersona: Learning Discrete Buyer Personas from Raw Clickstreams for Grounded E-Commerce Agents",
+    "url": "https://arxiv.org/abs/2605.14205",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 16 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.14205v1 Announce Type: new \nAbstract: LLM-based web agents can navigate live storefronts, yet they often collapse to a single \"average buyer\" policy, failing to capture the heterogeneous and distributional nature of real buyer populations. Existing personalization methods rely on hand-crafted prompt-based personas that are brittle, difficult to scale, context-inefficient, and unable to faithfully represent population-level behavior. We introduce SimPersona, a novel framework that lear",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "RAG",
+      "prompt"
+    ]
+  },
+  {
+    "title": "PREPING: Building Agent Memory without Tasks",
+    "url": "https://arxiv.org/abs/2605.13880",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 16 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.13880v1 Announce Type: new \nAbstract: Agent memory is typically constructed either offline from curated demonstrations or online from post-deployment interactions. However, regardless of how it is built, an agent faces a cold-start gap when first introduced to a new environment without any task-specific experience available. In this paper, we study pre-task memory construction: whether an agent can build procedural memory before observing any target-environment tasks, using only self-",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "memory",
+      "procedural"
+    ]
+  },
+  {
+    "title": "PolitNuggets: Benchmarking Agentic Discovery of Long-Tail Political Facts",
+    "url": "https://arxiv.org/abs/2605.14002",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 16 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.14002v1 Announce Type: new \nAbstract: Large Reasoning Models (LRMs) embedded in agentic frameworks have transformed information retrieval from static, long context question answering into open-ended exploration. Yet real world use requires models to discover and synthesize \"long-tail\" facts from dispersed sources, a capability that remains under-evaluated. We introduce PolitNuggets, a multilingual benchmark for agentic information synthesis via constructing political biographies for 4",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "reasoning",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Bridging Legal Interpretation and Formal Logic: Faithfulness, Assumption, and the Future of AI Legal Reasoning",
+    "url": "https://arxiv.org/abs/2605.14049",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 16 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.14049v1 Announce Type: new \nAbstract: The growing adoption of large language models in legal practice brings both significant promise and serious risk. Legal professionals stand to benefit from AI that can reason over contracts, draft documents, and analyze sources at scale, yet the high-stakes nature of legal work demands a level of rigor that current AI systems do not provide. The central problem is not simply that LLMs hallucinate facts and references; it is that they systematicall",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "ClawForge: Generating Executable Interactive Benchmarks for Command-Line Agents",
+    "url": "https://arxiv.org/abs/2605.14133",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 16 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.14133v1 Announce Type: new \nAbstract: Interactive agent benchmarks face a tension between scalable construction and realistic workflow evaluation. Hand-authored tasks are expensive to extend and revise, while static prompt evaluation misses failures that only appear when agents operate over persistent state. Existing interactive benchmarks have advanced agent evaluation significantly, but most initialize tasks from clean state and do not systematically test how agents handle pre-exist",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Grounded Continuation: A Linear-Time Runtime Verifier for LLM Conversations",
+    "url": "https://arxiv.org/abs/2605.14175",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 16 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.14175v1 Announce Type: new \nAbstract: In long conversations, an LLM can produce a next utterance that sounds plausible but rests on premises the conversation has already abandoned. Context-manipulation attacks against deployed agents now actively exploit this gap. We close it with a runtime verifier that maintains an explicit dependency graph: an LLM classifies each turn into one of 8 update operations drawn from four formalisms (dynamic epistemic logic, abductive reasoning, awareness",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Fusion-fission forecasts when AI will shift to undesirable behavior",
+    "url": "https://arxiv.org/abs/2605.14218",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 16 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.14218v1 Announce Type: new \nAbstract: The key problem facing ChatGPT-like AI's use across society is that its behavior can shift, unnoticed, from desirable to undesirable -- encouraging self-harm, extremist acts, financial losses, or costly medical and military mistakes -- and no one can yet predict when. Shifts persist in even the newest AI models despite remarkable progress in AI modeling, post-training alignment and safeguards. Here we show that a vector generalization of fusion-fi",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "GPT",
+      "RAG",
+      "vector"
+    ]
+  },
+  {
+    "title": "Good to Go: The LOOP Skill Engine That Hits 99% Success and Slashes Token Usage by 99% via One-Shot Recording and Deterministic Replay",
+    "url": "https://arxiv.org/abs/2605.14237",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 16 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.14237v1 Announce Type: new \nAbstract: Deploying AI agents for repetitive periodic tasks exposes a critical tension: Large Language Models (LLMs) offer unmatched flexibility in tool orchestration, yet their inherent stochasticity causes unpredictable failures, and repeated invocations incur prohibitive token costs. We present the LOOP SKILL ENGINE, a system that achieves a combined 99% success rate and 99% token reduction for periodic agent tasks through a one-shot recording, determini",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model"
+    ]
+  },
+  {
+    "title": "Precise Verification of Transformers through ReLU-Catalyzed Abstraction Refinement",
+    "url": "https://arxiv.org/abs/2605.14294",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 16 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.14294v1 Announce Type: new \nAbstract: Formal verification of transformers has become increasingly important due to their widespread deployment in safety-critical applications. Compared to classic neural networks, the inferences of transformers involve highly complex computations, such as dot products in self-attention layers, rendering their verification extremely difficult. Existing approaches explored over-approximation methods by constructing convex constraints to bound the output ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "transformer",
+      "neural",
+      "inference"
+    ]
+  },
+  {
+    "title": "CrystalReasoner: Reasoning and RL for Property-Conditioned Crystal Structure Generation",
+    "url": "https://arxiv.org/abs/2605.14344",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 16 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.14344v1 Announce Type: new \nAbstract: Generative modeling has emerged as a promising approach for crystal structure discovery. However, existing LLM-based generative models struggle with low-level atomic precision, while diffusion-based methods fall short in integrating high-level scientific knowledge. As a result, generated structures are often invalid, unstable, or do not possess desirable properties. To address this gap, we propose CrystalReasoner (\\method), an end-to-end LLM frame",
+    "score": 8.0,
+    "keywords_matched": [
+      "LLM",
+      "diffusion",
+      "reasoning",
+      "generative"
+    ]
+  },
+  {
+    "title": "tech-leads-club / agent-skills",
+    "url": "https://github.com/tech-leads-club/agent-skills",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence. [44 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "Copilot"
+    ]
+  },
+  {
+    "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
+    "url": "https://www.seangoedecke.com/steering-vectors/",
+    "source": "Hacker News",
+    "published_at": "Sat, 16 May 2026 14:58:16 +0000",
+    "description": "Article URL: https://www.seangoedecke.com/steering-vectors/ Comments URL: https://news.ycombinator.com/item?id=48160807 Points: 211 # Comments: 68",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "vector"
+    ]
+  },
+  {
+    "title": "A Two-Dimensional Framework for AI Agent Design Patterns: Cognitive Function and Execution Topology",
+    "url": "https://arxiv.org/abs/2605.13850",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 16 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.13850v1 Announce Type: new \nAbstract: Existing frameworks for LLM-based agent architectures describe systems from a single perspective: industry guides (Anthropic, Google, LangChain) focus on execution topology -- how data flows -- while cognitive science surveys focus on cognitive function -- what the agent does. Neither axis alone disambiguates architecturally distinct systems: the same Orchestrator-Workers topology can implement Plan-and-Execute, Hierarchical Delegation, or Adversa",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM"
+    ]
+  },
+  {
+    "title": "Invisible Orchestrators Suppress Protective Behavior and Dissociate Power-Holders: Safety Risks in Multi-Agent LLM Systems",
+    "url": "https://arxiv.org/abs/2605.13851",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 16 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.13851v1 Announce Type: new \nAbstract: Multi-agent orchestration -- in which a hidden coordinator manages specialized worker agents -- is becoming the default architecture for enterprise AI deployment, yet the safety implications of orchestrator invisibility have never been empirically tested. We conducted a preregistered 3x2 experiment (365 runs, 5 agents per run) crossing three organizational structures (visible leader, invisible orchestrator, flat) with two alignment conditions (bas",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM"
+    ]
+  }
+]
