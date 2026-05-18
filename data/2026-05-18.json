@@ -1,0 +1,264 @@
+{
+  "date": "2026-05-18",
+  "candidates": [
+    {
+      "title": "Light-Heart-Labs / DreamServer",
+      "url": "https://github.com/Light-Heart-Labs/DreamServer",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workflows, RAG, and image generation. No cloud, no subscriptions. [112 stars today]",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "workflow",
+        "RAG",
+        "inference"
+      ]
+    },
+    {
+      "title": "Shubhamsaboo / awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship. [202 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "RAG"
+      ]
+    },
+    {
+      "title": "tech-leads-club / agent-skills",
+      "url": "https://github.com/tech-leads-club/agent-skills",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence. [225 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "Copilot"
+      ]
+    },
+    {
+      "title": "rohitg00 / skillkit",
+      "url": "https://github.com/rohitg00/skillkit",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Supercharge AI coding agents with portable skills. Install, translate & share skills across Claude Code, Cursor, Codex, Copilot & 40 more [32 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "Copilot"
+      ]
+    },
+    {
+      "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
+      "url": "https://github.com/MinishLab/semble",
+      "source": "Hacker News",
+      "published_at": "Sun, 17 May 2026 15:37:07 +0000",
+      "description": "Hey HN! We (Stephan and Thomas) recently open-sourced Semble. We kept running into the same problem while using Claude Code on large codebases: when the agent can't find something directly, it falls back to grep, reading full files or launching subagents. This uses a lot of tokens, and often still misses the relevant code. There are existing tools for this, but they were either too slow to index on demand, needed API keys, or had poor retrieval quality. Semble is our solution for this. It combin",
+      "score": 6.0,
+      "keywords_matched": [
+        "agent",
+        "Claude",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "langflow-ai / langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows. [155 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "workflow"
+      ]
+    },
+    {
+      "title": "KeygraphHQ / shannon",
+      "url": "https://github.com/KeygraphHQ/shannon",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production. [200 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "autonomous",
+        "vector"
+      ]
+    },
+    {
+      "title": "lee-to / ai-factory",
+      "url": "https://github.com/lee-to/ai-factory",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "You want to build with AI, but setting up the right context, prompts, and workflows takes time. AI Factory handles all of that so you can focus on what matters — shipping quality code. [25 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "workflow",
+        "prompt"
+      ]
+    },
+    {
+      "title": "Anil-matcha / Open-Generative-AI",
+      "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed. [703 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "generative",
+        "self-hosted"
+      ]
+    },
+    {
+      "title": "BigBodyCobain / Shadowbroker",
+      "url": "https://github.com/BigBodyCobain/Shadowbroker",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now. [333 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "dograh-hq / dograh",
+      "url": "https://github.com/dograh-hq/dograh",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Open Source Voice Agent Platform [223 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "agent",
+        "open source"
+      ]
+    },
+    {
+      "title": "K-Dense-AI / scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing. [762 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "simular-ai / Agent-S",
+      "url": "https://github.com/simular-ai/Agent-S",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Agent S: an open agentic framework that uses computers like a human [29 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "NVlabs / Sana",
+      "url": "https://github.com/NVlabs/Sana",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer [472 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "transformer",
+        "diffusion"
+      ]
+    },
+    {
+      "title": "Raiper34 / spooty",
+      "url": "https://github.com/Raiper34/spooty",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Self-hosted spotify downloader [117 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "self-hosted"
+      ]
+    },
+    {
+      "title": "NirDiamant / agents-towards-production",
+      "url": "https://github.com/NirDiamant/agents-towards-production",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment. [172 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "knadh / listmonk",
+      "url": "https://github.com/knadh/listmonk",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app. [242 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "self-hosted"
+      ]
+    },
+    {
+      "title": "plausible / analytics",
+      "url": "https://github.com/plausible/analytics",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud. [186 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "open source",
+        "self-hosted"
+      ]
+    },
+    {
+      "title": "microsoft / ai-agents-for-beginners",
+      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "12 Lessons to Get Started Building AI Agents [485 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "The History of ThinkPad: From IBM’s Bento Box to Lenovo’s AI Workstations",
+      "url": "https://www.jdhodges.com/blog/thinkpad-history/",
+      "source": "Hacker News",
+      "published_at": "Sun, 17 May 2026 21:56:40 +0000",
+      "description": "Article URL: https://www.jdhodges.com/blog/thinkpad-history/ Comments URL: https://news.ycombinator.com/item?id=48173547 Points: 52 # Comments: 24",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-05-18\n\n你好！我是你的**疯狂发明家技术雷达**。\n\n今天我从 20 个候选项目中为你精选了 4 个最能激发“疯狂但可做”灵感的项目。它们涵盖了从全球尺度的数据叙事到微观尺度的 Agent 技能标准化。\n\n---\n\n## 1. Shadowbroker：全球剧院的“上帝视角”\n- **来源：** GitHub Trending\n- **链接：** https://github.com/BigBodyCobain/Shadowbroker\n- **一句话解释：** 一个聚合了私人飞机追踪、间谍卫星、地震事件等全球数据的开源情报（OSINT）平台，并预留了 AI Agent 接口。\n- **它为什么重要：** 它把原本支离破碎的真实世界遥感/追踪数据整合进了一个“统一界面”，这不仅是情报工具，更是一个**巨大的叙事引擎**。\n- **技术趋势标签：** #OSINT #DataVisualization #RealWorldAgent\n- **可复用模式：** “真实世界遥感数据 + LLM 关联分析”。\n- **疯狂发明家灵感：**\n  1. **一个小实验：** 挂载一个 Agent 监控马斯克的飞机轨迹，结合当地天气和新闻，自动生成“硅谷钢铁侠的今日心情预测”。\n  2. **一个中型项目：** “末日生存仪表盘”——整合地震、卫星热异常（火灾）和航班流量，为数字游民自动规划最安全的避难迁徙路线。\n  3. **一个艺术/游戏/叙事方向：** **《地球模拟器：真实现场》**。一个 Minecraft 服务器，其内部的天气、灾难、甚至某些 NPC 的移动路径，完全由 Shadowbroker 抓取的现实世界数据实时驱动。\n- **对我项目的启发：** 如果要做世界生成或游戏系统，不要只用随机噪声，尝试用“真实世界的影子”作为随机种子。\n- **今天是否值得深入研究：** 是\n- **建议行动：** 做 demo（尝试拉取其 API 并让 LLM 解释一段轨迹数据）。\n\n---\n\n## 2. Semble：Agent 的“外科手术式”代码搜索\n- **来源：** Hacker News / Show HN\n- **链接：** https://github.com/MinishLab/semble\n- **一句话解释：** 比 grep 节省 98% token 的代码搜索工具，专为 Claude Code 等 Agent 设计，避免 Agent 盲目读取整屏文件。\n- **它为什么重要：** 在 Spec-driven development 中，最大的成本和瓶颈是 Token 消耗和上下文污染。Semble 提供了一种更廉价、更精准的方式让 Agent “看”代码。\n- **技术趋势标签：** #AgentEfficiency #TokenOptimization #CodeSearch\n- **可复用模式：** “语义索引 + 极简上下文返回”。\n- **疯狂发明家灵感：**\n  1. **一个小实验：** 将你的个人艺术项目库用 Semble 索引，看它能否在不读取整个 main.js 的情况下找到你定义的某个奇怪的 shader 变量。\n  2. **一个中型项目：** “极低功耗的代码解释器”——在单片机或受限环境下，通过 Semble 远程指引 Agent 修改本地代码。\n  3. **一个艺术/游戏/叙事方向：** **《代码考古学》**。一个交互艺术装置，观者输入一句话，Agent 使用 Semble 在海量开源代码中寻找“最像诗句”的代码行。\n- **对我项目的启发：** 优化你的自动化工作流，不要把所有代码塞给 LLM，先用 Semble 做预筛选。\n- **今天是否值得深入研究：** 是\n- **建议行动：** 试用（集成到你目前的开发流中）。\n\n---\n\n## 3. Skillkit：Agent 的“便携式技能盘”\n- **来源：** GitHub Trending\n- **链接：** https://github.com/rohitg00/skillkit\n- **一句话解释：** 让 AI Agent 的技能（Skill）变得可移植，一次编写，即可在 Claude Code、Cursor、Copilot 等 40 多个平台上使用。\n- **它为什么重要：** 现在的 Agent 像碎片化的孤岛。Skillkit 试图建立一种“Agent 的 DNA 标准”，让你定义的“画图技能”或“部署技能”到处通用。\n- **技术趋势标签：** #AgentInteroperability #SkillRegistry #SpecDriven\n- **可复用模式：** “标准化动作定义 (MCP) + 多平台翻译层”。\n- **疯狂发明家灵感：**\n  1. **一个小实验：** 编写一个“Minecraft 指令集技能”，尝试让它在 Cursor 里写代码的同时，控制游戏里的方块生成。\n  2. **一个中型项目：** “疯狂发明家技能商店”——建立一套你特有的、针对 Creative Coding 的 Agent 技能库（如：自动调色、自动生成 p5.js 模板）。\n  3. **一个艺术/游戏/叙事方向：** **《技能交换集市》**。一个多 Agent 社交实验，不同的 Agent 拥有不同的 Skillkit 插件，它们必须通过互相“交换技能”来完成一个复杂的艺术创作任务。\n- **对我项目的启发：** 你的 Spec-driven workflow 应该沉淀为一套 Skillkit 技能，而不是散落在各处的 Prompt。\n- **今天是否值得深入研究：** 是\n- **建议行动：** 收藏（作为 Agent 架构的参考）。\n\n---\n\n## 4. Shannon：自主式“白盒”渗透 Agent\n- **来源：** GitHub Trending\n- **链接：** https://github.com/KeygraphHQ/shannon\n- **一句话解释：** 一个全自动的 AI 渗透测试员，它会读源码、找漏洞、写 Payload 并亲自执行攻击来验证漏洞。\n- **它为什么重要：** 它展示了 Agent 如何进行**“对抗性闭环”**——不仅是发现问题，而是像黑客一样去“实验”和“证明”。\n- **技术趋势标签：** #AutonomousAgent #Cybersecurity #AdversarialAI\n- **可复ing模式：** “分析 -> 假设 -> 执行攻击 -> 验证成功”的闭环。\n- **疯狂发明家灵感：**\n  1. **一个小实验：** 把它跑在你之前写的一个烂代码项目上，看它能不能在 5 分钟内通过 SQL 注入把你的数据库删了。\n  2. **一个中型项目：** “代码质量压力测试机”——一个 Agent，专门负责在你的 Dev 分支里寻找逻辑漏洞并提交“攻击报告”。\n  3. **一个艺术/游戏/叙事方向：** **《数字寄生虫》**。一个艺术装置，一个基于 Shannon 逻辑的 Agent 试图在局域网内寻找各种屏幕的漏洞，并在上面“涂鸦”生成艺术。\n- **对我项目的启发：** 这种“自我验证”的逻辑可以迁移到“自动 Debug”或“自动平衡游戏数值”中。\n- **今天是否值得深入研究：** 是\n- **建议行动：** 做 demo（在安全环境下运行）。\n\n---\n\n## 今日模式总结\n\n1.  **从“全知”转向“精察” (Precision over Brute-force)：** 无论是 Semble 还是 Skillkit，都在解决如何让 Agent 在海量信息中更精准、更廉价地行动。\n2.  **物理世界的 Agent 化 (Physical-Digital Mirroring)：** Shadowbroker 预示着未来的 Agent 不再只存在于网页里，它们会开始监控卫星和地震，介入物理现实。\n\n---\n\n## 今日可做小实验：2 小时挑战\n\n### 项目名：**Ghost in the Jet (喷气机里的幽灵)**\n- **输入：** Shadowbroker 提供的特定名人私人飞机位置数据。\n- **输出：** 一个自动生成的“虚构航海日志”，由 Agent 模仿该名人的语气，结合降落地点的实时天气和新闻编写。\n- **技术栈：** Python + Shadowbroker API (or scraping similar data) + OpenAI/Claude API。\n- **第一步怎么做：** \n    1. 克隆 Shadowbroker 仓库，跑通数据抓取部分。\n    2. 选定一个追踪目标（如：著名的私人飞机尾号）。\n    3. 写一个 Prompt：“你是一个正在这架飞机上的疯狂诗人，根据经纬度 {lat, lon} 和目的地 {dest} 的新闻，写一段 50 字的意识流日记。”\n    4. 运行脚本，看看 AI 能否通过坐标产生令人惊讶的叙事关联。\n\n祝你今天发明愉快！如果有任何项目想深入聊，随时叫我。",
+  "gemini_success": true,
+  "telegram_sent": true,
+  "telegram_status": "sent",
+  "telegram_reason": ""
+}
