@@ -1,0 +1,315 @@
+{
+  "date": "2026-05-19",
+  "candidates": [
+    {
+      "title": "TopoClaw: A Human-Centric and Topology-Aware Agent Operating System",
+      "url": "https://arxiv.org/abs/2605.15556",
+      "source": "arXiv cs.HC",
+      "published_at": "Mon, 18 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.15556v1 Announce Type: new \nAbstract: Large language models (LLMs) have evolved AI assistants into autonomous reasoning engines that maintain context, invoke tools, and pursue long-horizon tasks. This has spurred Agent Operating Systems (Agent OS) as kernel-like layers for lifecycle management, memory, scheduling, and access control. Yet most designs remain agent-centric, treating the OS as a single-host runtime for internal reasoning and tool use, leaving open how autonomous actions ",
+      "score": 16.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "autonomous",
+        "tool use",
+        "reasoning",
+        "memory"
+      ]
+    },
+    {
+      "title": "CAX-Agent: A Lightweight Agent Harness for Reliable APDL Automation",
+      "url": "https://arxiv.org/abs/2605.15218",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 18 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.15218v1 Announce Type: new \nAbstract: Large language models deployed for MAPDL finite-element simulation face practical reliability challenges: without structured execution control, tool encapsulation, and fault recovery, outputs may be inconsistent and task failures are common. The Agent Harness paradigm addresses this by inserting domain-specific orchestration middleware that manages tool lifecycles, workflow state, and recovery escalation. This paper presents the architecture of CA",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "workflow",
+        "automation",
+        "simulation",
+        "language model"
+      ]
+    },
+    {
+      "title": "Solvita: Enhancing Large Language Models for Competitive Programming via Agentic Evolution",
+      "url": "https://arxiv.org/abs/2605.15301",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 18 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.15301v1 Announce Type: new \nAbstract: Large language models (LLMs) still struggle with the rigorous reasoning demands of hard competitive programming. While recent multi-agent frameworks attempt to bridge this reliability gap, they remain fundamentally stateless: they rely on static retrieval and discard the valuable problem-solving and debugging experience gained from previous tasks. To address this, we present Solvita, an agentic evolution framework that enables continuous learning ",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "reasoning",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "PRISM: Prompt Reliability via Iterative Simulation and Monitoring for Enterprise Conversational AI",
+      "url": "https://arxiv.org/abs/2605.15665",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 18 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.15665v1 Announce Type: new \nAbstract: Deploying large language model (LLM)-driven conversational agents in enterprise settings requires prompts that are simultaneously correct at launch and resilient to the non-deterministic behavioral drift that characterizes production LLM deployments. Existing prompt optimization frameworks address prompt quality as a one-time compile-time problem, leaving open the equally critical question of how to detect and repair prompt regressions caused by s",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "simulation",
+        "language model",
+        "prompt"
+      ]
+    },
+    {
+      "title": "SaaS-Bench: Can Computer-Use Agents Leverage Real-World SaaS to Solve Professional Workflows?",
+      "url": "https://arxiv.org/abs/2605.15777",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 18 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.15777v1 Announce Type: new \nAbstract: Computer-Using Agents (CUAs) are rapidly extending large language models (LLMs) beyond text-based reasoning toward action execution in more complex environments, such as web browsers and graphical user interfaces (GUIs). However, existing web and GUI agent benchmarks often rely on simplified settings, isolated tasks, or short-horizon interactions, making it difficult to assess capabilities of agents in realistic professional workflows. Software-as",
+      "score": 12.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "workflow",
+        "language model",
+        "RAG",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Agentic Discovery of Neural Architectures: AIRA-Compose and AIRA-Design",
+      "url": "https://arxiv.org/abs/2605.15871",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 18 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.15871v1 Announce Type: new \nAbstract: Toward recursive self-improvement, we investigate LLM agents autonomously designing foundation models beyond standard Transformers. We introduce a dual-framework approach: AIRA-Compose for high-level architecture search, and AIRA-Design for low-level mechanistic implementation. AIRA-Compose uses 11 agents to explore fundamental computational primitives under a 24-hour budget. Agents evaluate million-parameter candidates, extrapolating top designs ",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "transformer",
+        "neural",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "Light-Heart-Labs / DreamServer",
+      "url": "https://github.com/Light-Heart-Labs/DreamServer",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workflows, RAG, and image generation. No cloud, no subscriptions. [458 stars today]",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "workflow",
+        "RAG",
+        "inference"
+      ]
+    },
+    {
+      "title": "SkillSmith: Compiling Agent Skills into Boundary-Guided Runtime Interfaces",
+      "url": "https://arxiv.org/abs/2605.15215",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 18 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.15215v1 Announce Type: new \nAbstract: Recently, skills have been widely adopted in large language model (LLM)-based agent systems across various domains. In existing frameworks, skills are typically injected into the agent reasoning loop as contextual guidance once matched to a runtime task, enabling specialized task-solving capabilities. We find that this execution paradigm introduces two major sources of redundancy: irrelevant context injection and repeated skill-specific reasoning ",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Zero-Shot Goal Recognition with Large Language Models",
+      "url": "https://arxiv.org/abs/2605.15333",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 18 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.15333v1 Announce Type: new \nAbstract: Large language models have recently reached near-parity with classical planners on well-known planning domains, yet this competence relies on world-knowledge exploitation rather than genuine symbolic reasoning. Goal recognition is a complementary abductive task structurally better suited to LLM strengths: it consists of evaluating consistency with world knowledge rather than generating novel action sequences. This paper provides the first systemat",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "reasoning",
+        "planning"
+      ]
+    },
+    {
+      "title": "DRS-GUI: Dynamic Region Search for Training-Free GUI Grounding",
+      "url": "https://arxiv.org/abs/2605.15542",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 18 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.15542v1 Announce Type: new \nAbstract: GUI agents powered by Multimodal Large Language Models (MLLMs) have demonstrated impressive capability in understanding and executing user instructions. However, accurately grounding instruction-relevant elements from high-resolution screenshots cluttered with irrelevant UI components remains challenging for existing approaches. Inspired by how humans dynamically adjust their perceptual scope to locate task-related regions on complex screens, we p",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "multimodal"
+      ]
+    },
+    {
+      "title": "STAR: A Stage-attributed Triage and Repair framework for RCA Agents in Microservices",
+      "url": "https://arxiv.org/abs/2605.15581",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 18 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.15581v1 Announce Type: new \nAbstract: LLM-based root cause analysis (RCA) agents have recently emerged as a promising paradigm for incident diagnosis in microservice AIOps. However, their reliability remains fragile: an error in early evidence collection, hypothesis formulation, or causal analysis can propagate through the reasoning trace and eventually corrupt the final diagnosis. In this paper, we present \\textbf{STAR}, a \\emph{Stage-attributed Triage and Repair} framework for repai",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "RAG",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "DiscussLLM: Teaching Large Language Models When to Speak",
+      "url": "https://arxiv.org/abs/2508.18167",
+      "source": "arXiv cs.HC",
+      "published_at": "Mon, 18 May 2026 00:00:00 -0400",
+      "description": "arXiv:2508.18167v2 Announce Type: replace-cross \nAbstract: Large Language Models (LLMs) have demonstrated remarkable capabilities in understanding and generating human-like text, yet they largely operate as reactive agents, responding only when directly prompted. This passivity creates an \"awareness gap,\" limiting their potential as truly collaborative partners in dynamic human discussions. We introduce $\\textit{DiscussLLM}$, a framework designed to bridge this gap by training models to proactiv",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "prompt"
+      ]
+    },
+    {
+      "title": "AgentStop: Terminating Local AI Agents Early to Save Energy in Consumer Devices",
+      "url": "https://arxiv.org/abs/2605.15206",
+      "source": "arXiv cs.LG",
+      "published_at": "Mon, 18 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.15206v1 Announce Type: new \nAbstract: Autonomous agents powered by large language models (LLMs) are increasingly used to automate complex, multi-step tasks such as coding or web-based question answering. While remote, cloud-based agents offer scalability and ease of deployment, they raise privacy concerns, depend on network connectivity, and incur recurring API costs. Deploying agents locally on user devices mitigates these issues by preserving data privacy and eliminating usage-based",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "TeamTR: Trust-Region Fine-Tuning for Multi-Agent LLM Coordination",
+      "url": "https://arxiv.org/abs/2605.15207",
+      "source": "arXiv cs.LG",
+      "published_at": "Mon, 18 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.15207v1 Announce Type: new \nAbstract: Multi-agent LLM systems have shown promise for complex reasoning, yet recent evaluations reveal they often underperform single-model baselines. We identify a structural failure mode in sequential fine-tuning of shared-context teams: updating one agent shifts the team's context distribution, and when subsequent updates are evaluated on cached rollouts, this mismatch compounds. We formalize this as the compounding occupancy shift and prove that stal",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "fine-tuning",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Quantization Undoes Alignment: Bias Emergence in Compressed LLMs Across Models and Precision Levels",
+      "url": "https://arxiv.org/abs/2605.15208",
+      "source": "arXiv cs.LG",
+      "published_at": "Mon, 18 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.15208v1 Announce Type: new \nAbstract: Large Language Models are routinely compressed via post-training quantization to reduce inference costs and memory footprint for cloud and edge deployment, yet the impact of this compression on model quality remains poorly understood. Existing studies typically compare only two conditions (full-precision vs. a single quantized variant), rely on aggregate bias metrics, and evaluate a single model family, making it impossible to distinguish gradual ",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "inference",
+        "memory"
+      ]
+    },
+    {
+      "title": "wanshuiyin / Auto-claude-code-research-in-sleep",
+      "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works with Claude Code, Codex, OpenClaw, or any LLM agent. [217 stars today]",
+      "score": 10.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "Claude",
+        "automation",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "Show HN: InsForge – Open-source Heroku for coding agents",
+      "url": "https://github.com/InsForge/InsForge",
+      "source": "Hacker News",
+      "published_at": "Mon, 18 May 2026 15:40:42 +0000",
+      "description": "Hi HN, I'm Hang, cofounder of InsForge (YC P26). InsForge is an open-source Heroku for AI coding agents: a backend platform designed for coding agents to deploy, operate, and debug end-to-end. Open source under Apache 2.0 ( https://github.com/InsForge/InsForge ). Quick demo here ( https://youtu.be/7Bax5qz0IfM ). We started InsForge because we just wanted our Claude Code to handle all the backend / infra stuff for us, instead of us jumping between dashboards doing manual config, or copy paste log",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "open source"
+      ]
+    },
+    {
+      "title": "DeepSlide: From Artifacts to Presentation Delivery",
+      "url": "https://arxiv.org/abs/2605.15202",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 18 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.15202v1 Announce Type: new \nAbstract: Presentations are a primary medium for scholarly communication, yet most AI slide generators optimize the artifact (a visually plausible deck) while under-optimizing the delivery process (pacing, narrative, and presentation preparation). We present DeepSlide, a human-in-the-loop multi-agent system that supports preparing the full presentation process, from requirement elicitation and time-budgeted narrative planning, to evidence-grounded slide--sc",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "planning",
+        "narrative"
+      ]
+    },
+    {
+      "title": "Belief Engine: Configurable and Inspectable Stance Dynamics in Multi-Agent LLM Deliberation",
+      "url": "https://arxiv.org/abs/2605.15343",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 18 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.15343v1 Announce Type: new \nAbstract: LLM-based agents are increasingly used to simulate deliberative interactions such as negotiation, conflict resolution, and multi-turn opinion exchange. Yet generated transcripts often do not reveal why an agent's stance changes: movement may reflect evidence uptake, anchoring, role drift, echoing, or changed prompt and retrieval context. We introduce the Belief Engine (BE), an auditable belief-update layer that treats \"belief\" as an evidential sta",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "prompt",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "RTL-BenchMT: Dynamic Maintenance of RTL Generation Benchmark Through Agent-Assisted Analysis and Revision",
+      "url": "https://arxiv.org/abs/2605.15537",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 18 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.15537v1 Announce Type: new \nAbstract: This paper introduces RTL-BenchMT, an agentic framework for dynamically maintaining RTL generation benchmarks. Large Language Models (LLMs) assisted automated RTL generation is one of the most important directions in EDA research. However, current RTL benchmarks face two critical challenges: (1) flawed cases in the benchmarks and (2) overfitting to the benchmarks. Both challenges are difficult to resolve purely by manual engineering effort. To add",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-05-19\n\n嘿！我是你的“疯狂发明家技术雷达”。今天的技术候选池里，“智能体（Agent）”的进化方向正在从“被动响应”转向“主动干预”和“深度透明”。\n\n我为你精选了 4 条最能激发“疯狂发明”灵感的动态，它们避开了枯燥的性能测试，直击交互、叙事和自动化的核心。\n\n---\n\n## 1. DiscussLLM: 别等我问，你自己说\n- **来源**：arXiv cs.HC (HCI 交叉方向)\n- **链接**：https://arxiv.org/abs/2508.18167\n- **一句话解释**：研究如何让 LLM 从“问答式”的被动状态，变成能根据对话时机主动介入的“参与者”。\n- **它为什么重要**：打破了 LLM 必须由用户 Prompt 驱动的死循环，解决了“意识间隙（Awareness Gap）”。\n- **技术趋势标签**：#ProactiveAI #HCI #SocialAgents\n- **可复用模式**：主动性触发器（Proactive Trigger）——基于上下文热度或关键信息缺失来决定是否发言。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：写一个脚本监听你的终端历史，当你连续 3 次尝试错误的命令时，它主动弹窗并给出一个嘲讽但正确的建议。\n  2. **一个中型项目**：一个“会议幽灵” Agent，潜伏在 Discord 或飞书频道，平时不说话，只在讨论陷入僵局或逻辑循环时，跳出来投掷一个“挑衅性观点”。\n  3. **一个艺术/游戏/叙事方向**：在 Minecraft 中实现一个“沉默的观察者” NPC，它会跟随玩家但不交谈，直到你完成一个复杂的建筑，它才主动感叹一句符合它性格的评价。\n- **对我项目的启发**：你的 Agent 流程可以加入一个“观察者”节点，专门判断当前步骤是否值得“打断”人类。\n- **今天是否值得深入研究**：是\n- **建议行动**：做 demo\n\n## 2. Belief Engine: 拆解 Agent 的“心路历程”\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2605.15343\n- **一句话解释**：一个可配置、可检查的引擎，用来展示多 Agent 讨论时，它们的立场是如何因为对方的话或检索到的信息而改变的。\n- **它为什么重要**：它让 Agent 的“立场漂移”变得可视化和可控，不再是黑盒。\n- **技术趋势标签**：#StanceDynamics #NarrativeSystem #MultiAgent\n- **可复用模式**：立场追踪器（Stance Tracker）——记录决策路径中的权重偏移。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：做一个“杠精模拟器”，两个 LLM 互杠，UI 上实时显示两边“愤怒值”和“认同感”的曲线图。\n  2. **一个中型项目**：一个基于 Spec 的开发助手，它会告诉你：“我原本想用 React，但读了你的需求文档第 3 页后，我的‘极简主义倾向’增加了 20%，现在建议用原生 JS”。\n  3. **一个艺术/游戏/叙事方向**：一个动态视觉小说，角色的立绘表情不取决于脚本，而是取决于 LLM 后台对当前对话“好感度”的实时计算结果。\n- **对我项目的启发**：在你的 Agent Workflow 中加入一个“理由生成器”，不仅输出结果，还输出“我是怎么被说服的”。\n- **今天是否值得深入研究**：是（特别是对游戏叙事系统）\n- **建议行动**：收藏\n\n## 3. ARIS (Auto-Research-In-Sleep): 梦境实验室\n- **来源**：GitHub / wanshuiyin\n- **链接**：https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep\n- **一句话解释**：一个轻量级的“全自动研究循环”，让你在睡觉时，Agent 自动进行跨模型评审、想法挖掘和实验自动化。\n- **它为什么重要**：它把“自动化”从工具级提升到了“任务流级”，而且强调“无框架、无锁定”。\n- **技术趋势标签**：#AutonomousAgents #AsyncWorkflow #ExperimentAutomation\n- **可复用模式**：闭环自迭代（Self-Review Loop）——Agent A 提出假设，Agent B 验证，Agent C 总结。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：写一个脚本，每天凌晨 3 点自动爬取你关注的艺术领域最新图集，并让 Agent 生成 10 个衍生创作灵感，等你醒来查看。\n  2. **一个中型项目**：一个“代码进化池”，给它一个初始的简单 P5.js 脚本，让它在后台不停地尝试修改参数并自评，直到生成一个视觉上极其复杂的艺术品。\n  3. **一个艺术/游戏/叙事方向**：一个“永不停歇的 Minecraft 诗人”，它在服务器里独自游荡，把看到的风景写成日记，当你上线时可以去读它留下的漂流瓶。\n- **对我项目的启发**：对于 Spec-driven 开发，可以让 Agent 在你写完基础 Spec 后，利用你睡觉的时间自动生成 10 种不同的架构原型供你早晨筛选。\n- **今天是否值得深入研究**：是\n- **建议行动**：试用（看看它的 Markdown-only 技巧）\n\n## 4. TopoClaw: 拓扑感知的智能体 OS\n- **来源**：arXiv cs.HC\n- **链接**：https://arxiv.org/abs/2605.15556\n- **一句话解释**：一种以人为中心、具备“拓扑感知”能力的 Agent 操作系统，强调 Agent 应该理解环境和人的关系。\n- **它为什么重要**：它试图把 Agent 从“单一窗口”解放出来，变成一种像 OS 一样管理资源和上下文的存在。\n- **技术趋势标签**：#AgentOS #HCI #ContextAware\n- **可复用模式**：环境拓扑（Environmental Topology）——将工具和人映射成节点，Agent 在节点间流动。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：写一个“上下文雷达”，根据你当前打开的软件（VS Code, Figma, Chrome），自动切换 LLM 的 System Prompt。\n  2. **一个中型项目**：一个“空间感知”的桌面助手，它知道你的文件夹结构和项目依赖，当你拖动一个文件时，它能预测你下一步可能需要的操作。\n  3. **一个艺术/游戏/叙事方向**：在游戏中实现一个“懂风水的 Agent”，它会根据建筑的拓扑结构（门窗位置、动线）来给玩家提供风水建议或战术评估。\n- **对我项目的启发**：不要只把 Agent 当成一个对话框，要把它当成一个“能看到你所有工具连接图”的调度员。\n- **今天是否值得深入研究**：否（论文较干，看摘要领悟精神即可）\n- **建议行动**：忽略（除非你要写 Agent 框架）\n\n---\n\n## 今日模式总结\n1. **主动交互（Proactivity）**：AI 正在从“被动工具”演变为“有眼力见的伙伴”。\n2. **透明心智（Explainable Beliefs）**：我们需要看到的不是结果，而是 Agent 的“动机偏移”。\n3. **异步进化（Sleep-time Automation）**：利用人类休息的时间，让 Agent 进行低成本的广度搜索和实验。\n\n---\n\n## 今日可做小实验：【灵感截击机】\n**2 小时内可完成**\n\n- **项目名**：Inspo-Interrupter\n- **输入**：你在 VS Code 中编写的 Markdown 笔记或代码注释。\n- **输出**：一个主动弹出的“杠精”或“灵感助手”，它会根据你刚写的最后一段话，强行插入一个相反的观点或一个艺术性的隐喻。\n- **技术栈**：Python + `watchdog` (监听文件变化) + OpenAI/Claude API。\n- **第一步怎么做**：\n  1. 用 `watchdog` 监控一个特定的 `ideas.md` 文件。\n  2. 每当检测到文件保存，读取最后 100 字。\n  3. 发送给 LLM，Prompt 设为：“你是一个疯狂艺术家，请对这段话进行‘破坏性’评价，并提出一个完全不相关的、怪诞的建议，字数不超过 30 字。”\n  4. 使用系统通知（如 Mac 的 `osascript`）将结果弹窗。\n\n**兴奋起来了吗？去把那个“梦境实验室”跑起来！**",
+  "gemini_success": true,
+  "telegram_sent": true,
+  "telegram_status": "sent",
+  "telegram_reason": ""
+}
