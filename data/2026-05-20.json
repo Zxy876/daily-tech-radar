@@ -1,0 +1,311 @@
+{
+  "date": "2026-05-20",
+  "candidates": [
+    {
+      "title": "Reliability and Effectiveness of Autonomous AI Agents in Supply Chain Management",
+      "url": "https://arxiv.org/abs/2605.17036",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 19 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.17036v1 Announce Type: new \nAbstract: This paper studies autonomous generative AI agents in multi-echelon supply chains using the MIT Beer Game. We identify four inference-time levers that shape performance: model selection, policies and guardrails, centralized data sharing, and prompt engineering. Model capability is the dominant factor: an out-of-the-box reasoning model exceeds human-level performance, and optimized reasoning models reduce costs by up to 67% relative to human teams.",
+      "score": 16.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "game",
+        "autonomous",
+        "inference",
+        "prompt",
+        "reasoning",
+        "generative"
+      ]
+    },
+    {
+      "title": "NGM: A Plug-and-Play Training-Free Memory Module for LLMs",
+      "url": "https://arxiv.org/abs/2605.16893",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 19 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.16893v1 Announce Type: new \nAbstract: Recent studies introduce conditional memory modules that decouple knowledge storage from neural computation, enabling more direct knowledge access. Compared to MoE, which relies on dynamic computation paths, explicit lookup provides a more efficient knowledge retrieval mechanism. However, these approaches still depend on learned memory embeddings, requiring additional training and limiting flexibility. To address this, we propose N-gram Memory (NG",
+      "score": 14.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "neural",
+        "RAG",
+        "embedding",
+        "memory",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
+      "url": "https://github.com/antoinezambelli/forge",
+      "source": "Hacker News",
+      "published_at": "Tue, 19 May 2026 12:23:07 +0000",
+      "description": "Hi HN, I'm Antoine Zambelli, AI Director at Texas Instruments. I built Forge, an open-source reliability layer for self-hosted LLM tool-calling. What it does: - Adds domain-and-tool-agnostic guardrails (retry nudges, step enforcement, error recovery, VRAM-aware context management) to local models running on consumer hardware - Takes an 8B model from ~53% to ~99% on multi-step agentic workflows without changing the model - just the system around it - Ships with an eval harness and interactive das",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "workflow",
+        "self-hosted",
+        "local model"
+      ]
+    },
+    {
+      "title": "ANNEAL: Adapting LLM Agents via Governed Symbolic Patch Learning",
+      "url": "https://arxiv.org/abs/2605.16309",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 19 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.16309v1 Announce Type: new \nAbstract: LLM-based agents can recover from individual execution errors, yet they repeatedly fail on the same fault when the underlying process knowledge--operator schemas, preconditions, and constraints--remains unrepaired. Existing self-evolving approaches address this gap by updating prompts, memory, or model weights, but none directly repair the symbolic structures that encode how tasks are executed, and few provide the governance guarantees required fo",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "prompt",
+        "memory"
+      ]
+    },
+    {
+      "title": "From Prompts to Protocols: An AI Agent for Laboratory Automation",
+      "url": "https://arxiv.org/abs/2605.16552",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 19 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.16552v1 Announce Type: new \nAbstract: Automating science laboratories enables faster, safer, more accurate, and more reproducible execution of protocols, accelerating the discovery and testing of new materials, drugs, and more. However, setting up and running autonomous labs requires coordinating numerous instruments and robots, forcing scientists to write code, manage configuration files, and navigate complex software infrastructure. We present an AI agent architecture that integrate",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "automation",
+        "autonomous",
+        "prompt"
+      ]
+    },
+    {
+      "title": "TTE-Flash: Accelerating Reasoning-based Multimodal Representations via Think-Then-Embed Tokens",
+      "url": "https://arxiv.org/abs/2605.16638",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 19 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.16638v1 Announce Type: new \nAbstract: Recent research has demonstrated that Universal Multimodal Embedding (UME) benefits significantly from Chain-of-Thought (CoT) reasoning. In this paradigm, a generative model produces explicit reasoning traces for a multimodal query, with the final representation extracted from an  embedding token attending to both the query and the reasoning. Despite its effectiveness, the computational overhead of generating explicit CoT traces is often prohibiti",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "multimodal",
+        "embedding",
+        "reasoning",
+        "generative"
+      ]
+    },
+    {
+      "title": "Enhancing Metacognitive AI: Knowledge-Graph Population with Graph-Theoretic LLM Enrichment",
+      "url": "https://arxiv.org/abs/2605.16676",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 19 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.16676v1 Announce Type: new \nAbstract: Metacognition-the ability to monitor one's own knowledge state, spot gaps, and autonomously fill them--remains largely absent from modern AI. Here, we present MetaKGEnrich, a fully automated pipeline that endows large language model (LLM) applications with self-directed knowledge repair. The system (i) builds knowledge graphs from a seed query, (ii) detects sparse regions via seven graph metrics, (iii) has GPT-4o generate targeted questions, (iv) ",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "GPT",
+        "language model",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "NeuroMAS: Multi-Agent Systems as Neural Networks with Joint Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2605.16757",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 19 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.16757v1 Announce Type: new \nAbstract: Multi-agent language systems are often built as hand-designed workflows, where agents are assigned semantic roles and communication protocols are specified in advance. We propose NeuroMAS, a method that first treats a multi-agent language system as a trainable and scalable neural-network-like architecture with LLM agents as nodes and intermediate textual signals as edges. In NeuroMAS, agent nodes are role-free but structure-aware: the topology onl",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "workflow",
+        "neural"
+      ]
+    },
+    {
+      "title": "TOBench: A Task-Oriented Omni-Modal Benchmark for Real-World Tool-Using Agents",
+      "url": "https://arxiv.org/abs/2605.16909",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 19 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.16909v1 Announce Type: new \nAbstract: Tool-using agents are increasingly expected to operate across realistic professional workflows, where they must interpret multimodal inputs, coordinate external tools, inspect intermediate artifacts, and revise their actions before producing a final result. Existing benchmarks, however, often evaluate tool use, computer use, and multimodal reasoning in isolation, leaving a gap between benchmark settings and end-to-end omni-modal tool use in the re",
+      "score": 10.0,
+      "keywords_matched": [
+        "agent",
+        "workflow",
+        "multimodal",
+        "tool use",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "PersonaArena: Dynamic Simulation for Evaluating and Enhancing Persona-Level Role-Playing in Large Language Models",
+      "url": "https://arxiv.org/abs/2605.17044",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 19 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.17044v1 Announce Type: new \nAbstract: Large language models (LLMs) increasingly serve as interactive social agents, yet their ability to maintain coherent and authentic persona-level role-playing remains limited, particularly in realistic social scenarios. Existing research predominantly focuses on character-level settings and relies on static evaluation formats, failing to capture the complexity of everyday social interactions. In this work, we present PersonaArena, a dynamic simulat",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "simulation",
+        "language model"
+      ]
+    },
+    {
+      "title": "Helping Customers in Distress: An LLM-powered Agent that Converses, Probes, and Routes",
+      "url": "https://arxiv.org/abs/2605.16268",
+      "source": "arXiv cs.HC",
+      "published_at": "Tue, 19 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.16268v1 Announce Type: new \nAbstract: Banks receive millions of reports of fraud, scams, and disputed transactions every year, making it challenging to accurately direct customers to the appropriate specialist teams for assistance. The existing manual process driven by humans is slow and stressful for both customers and staff. To address this, we develop a customer-facing AI powered triaging agent that leverages large language models (LLMs) to conduct multi-turn conversations, ask rel",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "RAG"
+      ]
+    },
+    {
+      "title": "PropGuard: Safeguarding LLM-MAS via Propagation-Aware Exploration and Remediation",
+      "url": "https://arxiv.org/abs/2605.16346",
+      "source": "arXiv cs.LG",
+      "published_at": "Tue, 19 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.16346v1 Announce Type: new \nAbstract: LLM-based multi-agent systems (LLM-MAS) have become a promising paradigm for solving complex tasks through role specialization, tool use, memory, and collaborative reasoning. However, these interactions create new security risks that malicious instructions injected through messages, tools, or memories can propagate across agents and rounds, causing system-level compromise. Existing defenses largely rely on local filtering or graph-based anomaly de",
+      "score": 10.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "tool use",
+        "reasoning",
+        "memory"
+      ]
+    },
+    {
+      "title": "ProxyKV: Cross-Model Proxy Pruning for Efficient Long-Context LLM Inference",
+      "url": "https://arxiv.org/abs/2605.16360",
+      "source": "arXiv cs.LG",
+      "published_at": "Tue, 19 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.16360v1 Announce Type: new \nAbstract: Efficient long-context inference in Large Language Models (LLMs) is severely constrained by the Key-Value (KV) cache memory wall, yet existing pruning methods force a choice between\n  low-latency heuristics that sacrifice precision and high-precision reconstruction methods that incur prohibitive prefilling overhead. To bridge this scoring-cost--accuracy gap, we propose\n  ProxyKV, a cross-model proxy pruning framework that offloads importance scori",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "inference",
+        "memory"
+      ]
+    },
+    {
+      "title": "RAGA: Reading-And-Graph-building-Agent for Autonomous Knowledge Graph Construction and Retrieval-Augmented Generation",
+      "url": "https://arxiv.org/abs/2605.17072",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 19 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.17072v1 Announce Type: new \nAbstract: Existing LLM-driven knowledge graph (KG) construction methods predominantly employ stateless batch processing pipelines, exhibiting structural deficiencies in cross-chunk semantic relation capture, entity disambiguation, and construction process interpretability. These limitations undermine KG quality, retrieval precision, and deployment trust in high-stakes domains.\n  We propose RAGA (Reading And Graph-building Agent), an LLM-based autonomous KG ",
+      "score": 9.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "autonomous",
+        "RAG",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Counterparty Modeling is Not Strategy: The Limits of LLM Negotiators",
+      "url": "https://arxiv.org/abs/2605.16575",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 19 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.16575v1 Announce Type: new \nAbstract: Negotiation requires more than inferring what the other side wants: it requires using that information to make advantageous offers and counteroffers over multiple turns. We study whether large language model (LLM) agents do this in a controlled multi-attribute bargaining environment. We find that current LLM agents can model a counterparty's preferences, but do not reliably turn that knowledge into strategic bargaining. When given negotiating part",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model"
+      ]
+    },
+    {
+      "title": "LinAlg-Bench: A Forensic Benchmark Revealing Structural Failure Modes in LLM Mathematical Reasoning",
+      "url": "https://arxiv.org/abs/2605.16675",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 19 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.16675v1 Announce Type: new \nAbstract: We introduce LinAlg-Bench, a diagnostic benchmark evaluating 10 frontier large language models on structured linear algebra computation across a strict dimensional gradient of 3x3, 4x4, and 5x5 matrices. Spanning 9 task types and 660 SymPy-certified problems, the benchmark exhaustively evaluates 6,600 model outputs. Beyond binary accuracy, LinAlg-Bench introduces a three-stage automated forensic pipeline classifying 1,156 failures into ten primary",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "GRID: Graph Representation of Intelligence Data for Security Text Knowledge Graph Construction",
+      "url": "https://arxiv.org/abs/2605.16714",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 19 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.16714v1 Announce Type: new \nAbstract: Security knowledge graphs can provide computable external memory for security agents, but constructing them from long-form cyber threat intelligence (CTI) remains difficult: LLMs often lack grounded security-domain knowledge, and end-to-end document-to-graph training is hard to supervise with cheap, stable rewards. We present GRID (Graph Representation of Intelligence Data), an end-to-end framework for security text knowledge graph construction. G",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "memory"
+      ]
+    },
+    {
+      "title": "PopuLoRA: Co-Evolving LLM Populations for Reasoning Self-Play",
+      "url": "https://arxiv.org/abs/2605.16727",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 19 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.16727v1 Announce Type: new \nAbstract: We introduce PopuLoRA, a population-based asymmetric self-play framework for reinforcement learning with verifiable rewards (RLVR) post-training of LLMs. Teachers and students are specialised LoRA adapters on a shared frozen base: teachers propose problems, matched students solve them under a programmatic verifier, and cross-evaluation between sub-populations replaces the self-calibration that limits single-agent self-play. A family of LoRA weight",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "State Contamination in Memory-Augmented LLM Agents",
+      "url": "https://arxiv.org/abs/2605.16746",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 19 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.16746v1 Announce Type: new \nAbstract: LLM agents increasingly rely on persistent state, including transcripts, summaries, retrieved context, and memory buffers, to support long-horizon interaction. This makes safety depend not only on individual model outputs, but also on what an agent stores and later reuses. We study a failure mode we call memory laundering: toxic or adversarial context can be compressed into memory summaries that no longer appear toxic under standard detectors, whi",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "memory"
+      ]
+    },
+    {
+      "title": "Multi-Paradigm Agent Interaction in Practice:A Systematic Analysis of Generator-Evaluator, ReAct Loop,and Adversarial Evaluation in the buddyMe Framework",
+      "url": "https://arxiv.org/abs/2605.16821",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 19 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.16821v1 Announce Type: new \nAbstract: The rapid evolution of Large Language Model (LLM) agents has produced diverse interaction paradigms, yet few production systems integrate multiple paradigms within a unified architecture. This paper presents a systematic analysis of three principal agent interaction paradigms, including Multi-Agent Orchestration (Generator-Evaluator), ReAct Tool-Use Loops, and Memory-Augmented Interaction, as implemented in buddyMe, an open-source multi-model agen",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "language model",
+        "memory"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-05-20\n\n每天为你搜寻、筛选并解读最前沿的技术栈与疯狂项目。今天我从 20 篇候选文献和社区热帖中，为你精选了 **4 条**最能激发“设计+CS”跨界灵感、最适合动手实验的硬核内容。\n\n以下是今天的雷达报告：\n\n---\n\n## 1. Forge – 用 Guardrails 让 8B 小模型在 Agent 任务中达到 99% 成功率\n- **来源**：Hacker News\n- **链接**：https://github.com/antoinezambelli/forge\n- **一句话解释**：一个专为本地/自托管 LLM 设计的开源可靠性层，通过重试引导、步骤强制和 VRAM 感知上下文管理，让 8B 小模型在多步 Agent 任务中的成功率从 53% 飙升至 99%。\n- **它为什么重要**：它证明了**“小模型 + 强工程约束（Guardrails）”优于“大模型 + 裸奔”**。对于想要在本地、低延迟、零成本运行 Agent 的创意黑客来说，这是绝对的神兵利器。\n- **技术趋势标签**：#LocalLLM #AgentWorkflow #Guardrails #SpecDriven\n- **可复用模式**：**运行时状态修补（Runtime State Patching）**：当检测到工具调用格式错误或超时，不直接报错，而是动态插入“纠错 Prompt”（Nudge）引导模型自我修正，不污染全局上下文。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：用 Forge 驱动本地 Llama-3-8B，在终端里实现一个“绝对不会死机/格式永远正确”的文件自动分类与重命名 Agent。\n  2. **一个中型项目**：构建一个“本地游戏策划 Agent”，根据玩家的自然语言输入，实时生成并调用 Godot 引擎的 API。利用 Forge 确保生成的 GDScript 脚本 100% 可运行。\n  3. **一个艺术/游戏/叙事方向**：一个交互式装置：观众用自然语言与本地角色对话，Forge 确保角色在输出对话的同时，后台 100% 正确、无延迟地触发环境灯光和音效的实体控制（DMX/MIDI 协议）。\n- **对我项目的启发**：做 Spec-driven development 时，不用迷信 GPT-4。用本地 8B 模型配上 Forge 这种 Guardrail 框架，在本地就能低成本、高频次地迭代测试。\n- **今天是否值得深入研究**：是\n- **建议行动**：试用 (去克隆它的 Github 库，用 Ollama 跑一下本地工具调用)\n\n---\n\n## 2. ANNEAL: 符号补丁学习——让 Agent 自动修补底层规则\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2605.16309\n- **一句话解释**：提出一种新范式：当 LLM Agent 犯错时，不改 Prompt 也不微调权重，而是像程序员改 Bug 一样，自动生成“符号补丁”（Symbolic Patch）来修复底层的操作模式、前置条件和约束规则。\n- **它为什么重要**：传统的 Agent 纠错是“狗熊掰棒子”（这次对了下次还错）。ANNEAL 引入了“符号化规则修复”，让 Agent 拥有了真正的规则演化能力，非常契合 Spec-driven 思想。\n- **技术趋势标签**：#SymbolicAI #AgentEvolution #SpecDriven #StateMachine\n- **可复用模式**：**符号化规则自愈（Symbolic Self-Healing）**：将 Agent 的行为抽象为“前置条件-动作-后置条件”（Schema），执行失败时由 LLM 生成符号补丁更新 Schema，而不是污染上下文。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：写一个“自动修代码的 GitHub Action”，它不直接改代码，而是生成一个 `rules.json` 规则约束文件，指导后续的代码生成。\n  2. **一个中型项目**：一个 Minecraft 建造 Agent。当它因为材料不够或地形阻挡建造失败时，它会修改自己的“建筑图纸 Spec”（即符号补丁），确保下次遇到同样地形时自动绕开。\n  3. **一个艺术/游戏/叙事方向**：一个“规则自演化的桌游”。AI 充当裁判和规则制定者。随着玩家的操作，AI 不断生成新的游戏规则补丁（例如：“当玩家金币 > 100 时，禁止使用魔法”），并在前端可视化这些规则树的演变。\n- **对我项目的启发**：可以用来做游戏 NPC 的行为树生成。NPC 的性格和行为规范不是写死的，而是随着与玩家的互动，不断自我“打补丁”演化的符号系统。\n- **今天是否值得深入研究**：是\n- **建议行动**：收藏 (阅读论文中关于 “Symbolic Patch” 的定义，用于自己的 Agent 架构设计)\n\n---\n\n## 3. NeuroMAS: 把多智能体系统当成可训练的神经网络\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2605.16757\n- **一句话解释**：将多智能体系统（MAS）视作一个可训练的神经网络，其中 LLM 充当网络中的“神经元节点”，智能体之间的文本消息就是“激活值”，并通过强化学习进行联合训练。\n- **它为什么重要**：颠覆了传统“手写 Prompt 和硬编码工作流”的 Agent 协作方式。把 Agent 协作变成了真正的“计算图”，文本成了梯度传播的介质！\n- **技术趋势标签**：#MultiAgent #NeuralWorkflow #ReinforcementLearning #GenerativeSystem\n- **可复用模式**：**文本作为激活值（Text-as-Activation）**：将多个 LLM 节点串联成有向无环图（DAG），节点间的 Prompt 传递等同于神经网络的前向传播。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：用 Python 写一个极简的 3 节点“文本神经元网络”。节点 A（创意）、节点 B（逻辑）、节点 C（批判）。输入一个点子，让它们像神经元一样互相传递“文本激活值”迭代 3 次，输出最终策划案。\n  2. **一个中型项目**：构建一个“自适应游戏难度生成器”。多个 Agent 节点代表：关卡设计、怪物 AI、玩家画像。它们像神经网络一样协同优化，根据玩家的实时表现，动态微调游戏世界的生成参数。\n  3. **一个艺术/游戏/叙事方向**：一个“涌现式叙事剧场”。每个演员是一个 Agent 节点。观众的实时弹幕是“输入信号”，演员节点之间通过类似神经网络的“消息激活”来传递情绪和台词，产生完全不可预测但逻辑连贯的戏剧冲突。\n- **对我项目的启发**：极大地启发了复杂游戏系统和世界生成的设计。我们可以不把 NPC 当作孤立的个体，而是把整个村庄的 NPC 看作一个巨大的“神经网络”，玩家的举动是输入，村庄的整体社会舆论是输出。\n- **今天是否值得深入研究**：是\n- **建议行动**：做demo (手写一个基于文本激活的简易多节点传导系统)\n\n---\n\n## 4. PersonaArena: 动态角色扮演的多智能体对决沙盒\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2605.17044\n- **一句话解释**：一个动态模拟竞技场，专门用于评估和提升 LLM 在复杂社会场景中的“角色扮演（Persona）”一致性和真实性。\n- **它为什么重要**：传统的角色扮演评估是静态的（问答），而 PersonaArena 是动态的（模拟对抗/协作）。这对于做游戏 NPC、虚拟社区、互动叙事的开发者来说，是绝佳的测试基准和设计参考。\n- **技术趋势标签**：#PersonaSimulation #GameSystems #InteractiveNarrative #HCI\n- **可复用模式**：**动态博弈沙盒（Dynamic Game Arena）**：将多个具有冲突目标的 Persona 放入一个封闭的沙盒中，通过设定“生存/获胜”目标，逼迫它们暴露出角色设定上的漏洞并进行自我修正。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：用 Streamlit 做一个“苏格拉底 vs 庄子”的辩论沙盒，给他们设定不同的论点和性格强度，看他们如何动态交锋。\n  2. **一个中型项目**：建立一个“虚拟编剧协作室”。设定 5 个不同流派的编剧 Persona（科幻、悬疑、狗血等），给他们一个初始命题，让他们在沙盒中争吵、妥协，最终生成一份多视角的剧本。\n  3. **一个艺术/游戏/叙事方向**：一个“AI 狼人杀/阿瓦隆”自主游戏系统。每个 AI 都有深度的 Persona（胆小、狡诈、忠诚）。游戏过程完全可视化，玩家可以作为“上帝”插手干预，或者扮演其中一个角色，体验极度真实的社会学模拟。\n- **对我项目的启发**：在设计游戏系统或虚拟世界时，可以用这种“竞技场”机制来预先测试 NPC 之间的化学反应。在游戏上线前，让 100 个 AI NPC 在地图里自己生活 100 天，找出不合理的剧情冲突。\n- **今天是否值得深入研究**：否 (概念更重要，先收藏论文)\n- **建议行动**：收藏 (用于后续的游戏 NPC 架构参考)\n\n---\n\n## 今日模式总结\n\n1. **符号化自愈（Symbolic Self-Healing）**：从 Forge 的运行时纠错到 ANNEAL 的符号补丁，趋势正在从“让 LLM 自由发挥、反复重试”转向“用严密的符号系统/规则层去驯服、修复和约束 LLM”。\n2. **文本神经元（Text-as-Activation）**：Agent 之间的交互不再是简单的 Chat，而是高维信息的传递。像设计神经网络一样设计多智能体系统（DAG），将是未来复杂创意系统的核心架构。\n\n---\n\n## 今日可做小实验\n\n### 项目名：\"Text-Neuron\" 创意概念生成器\n**2 小时内实现一个基于“文本神经元”传递与 Guardrail 纠错的极简创意生成管线。**\n\n- **输入**：一个简单的创意种子（例如：“一句话：赛博朋克风格的茶道游戏”）。\n- **输出**：经过“创意节点”（发散）->“逻辑节点”（收敛、规则设计）->“批判节点”（可行性、Guardrail 纠错）三层神经元传导后，输出的一份**100% 格式正确的 JSON 游戏策划案**。\n- **技术栈**：Python, Ollama (本地跑 Llama3/Qwen) 或 OpenAI API, Pydantic (用于格式约束)。\n- **第一步怎么做**：\n  1. 安装依赖：`pip install openai pydantic`\n  2. 创建 `neuron.py`。\n  3. 定义三个 Prompt 模板，分别扮演“发散神经元”、“逻辑神经元”和“批判纠错神经元”。\n  4. 编写一个前向传播函数 `forward_pass(seed)`：\n     - 将 `seed` 输入“发散神经元”，获取脑洞文本。\n     - 将脑洞文本作为输入传给“逻辑神经元”，生成规则描述。\n     - 将规则描述传给“批判纠错神经元”，并使用 Pydantic 强制其输出符合 `{\"game_name\": str, \"core_mechanic\": str, \"art_style_guide\": str}` 的 JSON 格式（如果格式不对，利用 Forge 思想，自动拼接 error 信息进行一次 Nudge 重试）。\n  5. 运行并查看控制台输出的完美 JSON 策划案！",
+  "gemini_success": true,
+  "telegram_sent": false,
+  "telegram_status": "failed",
+  "telegram_reason": "400 Client Error: Bad Request for url: https://api.telegram.org/bot8650722899:AAHUD-aqNDB7NwiPiGq3R22MVp77Cr_5GEQ/sendMessage"
+}
