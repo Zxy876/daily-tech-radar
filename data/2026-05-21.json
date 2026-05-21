@@ -1,0 +1,301 @@
+{
+  "date": "2026-05-21",
+  "candidates": [
+    {
+      "title": "Formal Skill: Programmable Runtime Skills for Efficient and Accurate LLM Agents",
+      "url": "https://arxiv.org/abs/2605.19604",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 20 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.19604v1 Announce Type: new \nAbstract: Large Language Model (LLM) agents increasingly act inside real workspaces, where tools and skills determine whether model reasoning becomes reliable action. Existing skills remain largely informal: Markdown skills and instruction packs encode procedures as long natural-language documents, while function calling, Model Context Protocol (MCP) servers, and framework tools structure individual actions but usually leave workflow state, policy enforceme",
+      "score": 14.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "workflow",
+        "language model",
+        "function calling",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
+      "url": "https://github.com/antoinezambelli/forge",
+      "source": "Hacker News Best",
+      "published_at": "Tue, 19 May 2026 12:23:07 +0000",
+      "description": "Hi HN, I'm Antoine Zambelli, AI Director at Texas Instruments. I built Forge, an open-source reliability layer for self-hosted LLM tool-calling. What it does: - Adds domain-and-tool-agnostic guardrails (retry nudges, step enforcement, error recovery, VRAM-aware context management) to local models running on consumer hardware - Takes an 8B model from ~53% to ~99% on multi-step agentic workflows without changing the model - just the system around it - Ships with an eval harness and interactive das",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "workflow",
+        "self-hosted",
+        "local model"
+      ]
+    },
+    {
+      "title": "Trustworthy Agent Network: Trust in Agent Networks Must Be Baked In, Not Bolted On",
+      "url": "https://arxiv.org/abs/2605.19035",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 20 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.19035v1 Announce Type: new \nAbstract: The rapid advancement of Large Language Models has given rise to autonomous LLM-based agents capable of complex reasoning and execution. As these agents transition from isolated operation to collaborative ecosystems, we witness the emergence of the Agent-to-Agent (A2A) network, a paradigm where heterogeneous agents autonomously coordinate to solve multi-step tasks. While these networks may offer better task performance compared to simply using one",
+      "score": 10.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "language model",
+        "autonomous",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "MOCHA: Multi-Objective Chebyshev Annealing for Agent Skill Optimization",
+      "url": "https://arxiv.org/abs/2605.19330",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 20 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.19330v1 Announce Type: new \nAbstract: LLM agents organize behavior through skills - structured natural-language specifications governing how an agent reasons, retrieves, and responds. Unlike monolithic prompts, skills are multi-field artifacts subject to hard platform constraints: description fields are truncated for routing, instruction bodies are compacted via progressive disclosure, and co-resident skills compete for limited context windows. These constraints make skill optimizatio",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "prompt",
+        "context window"
+      ]
+    },
+    {
+      "title": "The Accessibility Capability Boundary: Operational Limits and Expansion Potential of AI-Generated Browser-Native Accessibility Systems",
+      "url": "https://arxiv.org/abs/2605.19638",
+      "source": "arXiv cs.HC",
+      "published_at": "Wed, 20 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.19638v1 Announce Type: new \nAbstract: As large language models (LLMs) demonstrate increasing competence in synthesizing functional user interfaces, a fundamental question emerges in accessibility computing: \\textit{how far can AI-driven accessibility systems go?} This paper introduces the \\textit{Accessibility Capability Boundary} (ACB), a formal framework for reasoning about the operational limits and expansion potential of autonomous accessibility systems, and grounds this theory in",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "autonomous",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "PASC: Pipeline-Aware Conformal Prediction with Joint Coverage Guarantees for Multi-Stage NLP and LLM Pipelines",
+      "url": "https://arxiv.org/abs/2605.18812",
+      "source": "arXiv cs.LG",
+      "published_at": "Wed, 20 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.18812v1 Announce Type: new \nAbstract: Modern NLP and LLM systems are pipelines: named entity recognition (NER) -> entity disambiguation (NED) -> entity typing, retrieval-augmented generation (retriever -> reader), and agentic chains of planner -> tool -> critic. Errors compound across stages, but existing uncertainty quantification methods either calibrate each stage independently (no joint coverage) or apply a Bonferroni union bound (joint coverage, but conservative). We present PASC",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "RAG",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Composition of Memory Experts for Diffusion World Models",
+      "url": "https://arxiv.org/abs/2605.18813",
+      "source": "arXiv cs.LG",
+      "published_at": "Wed, 20 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.18813v1 Announce Type: new \nAbstract: World models aim to predict plausible futures consistent with past observations, a capability central to planning and decision-making in reinforcement learning. Yet, existing architectures face a fundamental memory trade-off: transformers preserve local detail but are bottlenecked by quadratic attention, while recurrent and state-space models scale more efficiently but compress history at the cost of fidelity. To overcome this trade-off, we sugges",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "transformer",
+        "diffusion",
+        "planning",
+        "memory"
+      ]
+    },
+    {
+      "title": "Hybrid-LoRA: Bridging Full Fine-Tuning and Low-Rank Adaptation for Post-Training",
+      "url": "https://arxiv.org/abs/2605.18822",
+      "source": "arXiv cs.LG",
+      "published_at": "Wed, 20 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.18822v1 Announce Type: new \nAbstract: Post-training has become essential for adapting large language models (LLMs) to complex downstream behaviors, including instruction following, preference alignment, and multi-step reasoning. Reinforcement learning with verifiable rewards (RLVR) has recently emerged as a particularly effective post-training paradigm for improving reasoning capabilities, with critic-free algorithms such as GRPO and GSPO enabling scalable optimization. However, RLVR ",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "fine-tuning",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Position: Let's Develop Data Probes to Fundamentally Understand How Data Affects LLM Performance",
+      "url": "https://arxiv.org/abs/2605.18801",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 20 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.18801v1 Announce Type: new \nAbstract: Data is fundamental to large language models (LLMs). However, understanding of what makes certain data useful for different stages of an LLM workflow, including training, tuning, alignment, in-context learning, etc., and why, remains an open question. Current approaches rely heavily on extensive experimentation with large public datasets to obtain empirical heuristics for data filtering and dataset construction. These approaches are compute intens",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "workflow",
+        "language model"
+      ]
+    },
+    {
+      "title": "Evaluating the Utility of Personal Health Records in Personalized Health AI",
+      "url": "https://arxiv.org/abs/2605.18937",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 20 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.18937v1 Announce Type: new \nAbstract: Patient-managed Personal Health Records (PHRs) promises to empower patients to better understand their health; but information in the record is complex, potentially hindering insights. In this study, we assess the potential of large language models (LLMs, Gemini 3.0 Flash) to provide helpful answers to user health queries, when provided clinical data from PHRs as context. A total of 2,257 user queries were drawn from 3 different distributions to r",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "Gemini",
+        "language model"
+      ]
+    },
+    {
+      "title": "Learning to Hand Off: Provably Convergent Workflow Learning under Interface Constraints",
+      "url": "https://arxiv.org/abs/2605.19140",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 20 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.19140v1 Announce Type: new \nAbstract: We study workflow learning in a setting where specialized agents hand off control through a shared artifact, each agent observes only a local function of that artifact and its own private state, and no centralized learner accesses joint trajectories -- the operating regime of multi-agent LLM pipelines that span organizational, vendor, or trust boundaries. We formalize this regime as an interface-constrained semi-Markov decision process (IC-SMDP), ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "workflow"
+      ]
+    },
+    {
+      "title": "Progressive Autonomy as Preference Learning: A Formalization of Trust Calibration for Agentic Tool Use",
+      "url": "https://arxiv.org/abs/2605.19151",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 20 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.19151v1 Announce Type: new \nAbstract: We formalize trust calibration for agentic tool use (deciding when an automated agent's proposed action may execute autonomously versus require human approval) as a preference-learning problem. A policy gateway maintains a Gaussian-process posterior over a latent human risk-tolerance function, observed through a probit likelihood on binary approve/deny feedback, and escalates to the human exactly where the approval outcome is most uncertain. We sh",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "autonomous",
+        "tool use"
+      ]
+    },
+    {
+      "title": "SimGym: A Framework for A/B Test Simulation in E-Commerce with Traffic-Grounded VLM Agents",
+      "url": "https://arxiv.org/abs/2605.19219",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 20 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.19219v1 Announce Type: new \nAbstract: A/B testing remains the gold standard for evaluating modifications to e-commerce storefronts, yet it diverts traffic, requires weeks to reach statistical significance, and risks degrading user experience. We present SimGym, a framework for simulating A/B tests on e-commerce storefronts using vision-language model (VLM) agents operating in a live browser. The framework comprises three key components: (a) a traffic-grounded persona generation pipeli",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "simulation",
+        "language model"
+      ]
+    },
+    {
+      "title": "Can Large Language Models Revolutionize Survey Research? Experiments with Disaster Preparedness Responses",
+      "url": "https://arxiv.org/abs/2605.19229",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 20 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.19229v1 Announce Type: new \nAbstract: Survey research faces mounting structural challenges: declining response rates, sample bias, block-wise missingness among at-risk respondents, and AI-assisted fraudulent completions in online panels. Large language models (LLMs) have been proposed as a remedy, yet rigorous evaluations across the full survey workflow remain scarce, particularly in disaster contexts where data quality matters most. We present and evaluate a five-stage framework for ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "workflow",
+        "language model"
+      ]
+    },
+    {
+      "title": "Causal Evidence for Attention Head Imbalance in Modality Conflict Hallucination",
+      "url": "https://arxiv.org/abs/2605.19250",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 20 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.19250v1 Announce Type: new \nAbstract: Modality-conflict hallucination occurs when multimodal large language models (MLLMs) prioritize erroneous textual premises over contradictory visual evidence. To understand why visual evidence fails to prevail during generation, we take a mechanistic perspective and examine which internal components drive or resist this failure. We perform head-level causal analysis using path patching across five open-source MLLMs and identify two groups of atten",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "multimodal"
+      ]
+    },
+    {
+      "title": "PRISM: A Benchmark for Programmatic Spatial-Temporal Reasoning",
+      "url": "https://arxiv.org/abs/2605.19382",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 20 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.19382v1 Announce Type: new \nAbstract: Programmatic video generation through code offers geometric precision and temporal coherence beyond pixel-level diffusion models, yet rigorously evaluating whether language models can produce spatially correct animated outputs remains an open problem. We introduce PRISM, a large-scale benchmark of 10,372 human-calibrated instruction-code pairs (20 times larger than prior programmatic video generation benchmarks), grounded in real-world knowledge v",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "diffusion",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Conflict-Resilient Multi-Agent Reasoning via Signed Graph Modeling",
+      "url": "https://arxiv.org/abs/2605.19418",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 20 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.19418v1 Announce Type: new \nAbstract: LLM-based multi-agent systems (MAS) have demonstrated strong reasoning and decision-making capabilities that consistently surpass those of single LLM agents. However, their performance often suffers from naive aggregation mechanisms that assume uniformly cooperative interactions. Upon close inspection, we observe that existing graph-based MAS frameworks (1) propagate errors when conflicting signals arise without control, and (2) lack explicit mode",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "What and When to Distill: Selective Hindsight Distillation for Multi-Turn Agents",
+      "url": "https://arxiv.org/abs/2605.19447",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 20 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.19447v1 Announce Type: new \nAbstract: Reinforcement learning can train LLM agents from sparse task rewards, but long-horizon credit assignment remains challenging: a single success-or-failure signal must be distributed across many actions. Existing methods rely on trajectory-level rewards or proxy signals, without fully leveraging per-step environmental feedback. Multi-turn agent settings are underexplored, where feedback can include error messages, page changes, observations, or refe",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "RAG"
+      ]
+    },
+    {
+      "title": "Towards Multi-Model LLM Schedulers: Empirical Insights into Offloading and Preemption",
+      "url": "https://arxiv.org/abs/2605.19593",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 20 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.19593v1 Announce Type: new \nAbstract: Modern deployments of Large Language Models (LLMs) increasingly require serving multiple models with diverse architectures, sizes, and specialization on shared, heterogeneous hardware. This setting introduces new challenges for resource allocation, dispatching, and scheduling, particularly under GPU memory constraints where partial CPU-GPU offloading and preemption become necessary. While existing systems primarily optimize throughput for a single",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "memory"
+      ]
+    },
+    {
+      "title": "Toward an AI-Powered Computational Testbed for Workforce Policy",
+      "url": "https://arxiv.org/abs/2605.19064",
+      "source": "arXiv cs.HC",
+      "published_at": "Wed, 20 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.19064v1 Announce Type: new \nAbstract: Workforce transformations are difficult to forecast and costly to mismanage. In particular, the integration of artificial intelligence into knowledge work currently affects a substantial share of the global workforce, yet this transition proceeds without tools to forecast how individual employees will respond psychologically and behaviorally. We combine recent advances in LLM-powered generative agents with foundational management science and organ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "generative"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-05-21\n\n为你筛选出今日最值得关注的 4 篇前沿进展。今天的主题非常硬核且具有极高的艺术/设计实践价值：从**本地轻量级模型的极限压榨**，到**代码驱动的确定性动画生成**，再到**去中心化的创作协作模式**。\n\n---\n\n## 1. Formal Skill: Programmable Runtime Skills for Efficient and Accurate LLM Agents\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2605.19604\n- **一句话解释**：用具有严格类型、运行时可执行的“程序化技能（Formal Skills）”代替模糊的 Markdown 提示词，让 Agent 的行为像调用 API 一样精准。\n- **它为什么重要**：现在的 Agent 经常因为 Prompt 过于模糊而“幻觉”或罢工。这篇文章提出了一个中间层：把 Agent 的能力（如画图、修改文件）打包成类似 Model Context Protocol (MCP) 的运行时技能。它既有自然语言的描述（供 Agent 理解），又有严格的输入输出 Schema 校验（供系统执行）。\n- **技术趋势标签**：#AgenticWorkflow #SpecDriven #MCP #RuntimeSkills\n- **可复用模式**：**“双向声明式技能”**：技能文件（如 YAML）同时包含“给 LLM 看的自然语言意图”和“给编译器看的 JSON-Schema 校验”，在运行时动态加载和热插拔。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：写一个 MCP 服务，将 Figma 导出的组件状态自动编译成 Agent 的“视觉操作技能包”，让 LLM 能够精准控制 UI 元素的移动，而不会产生坐标越界。\n  2. **一个中型项目**：**“Spec-First 游戏关卡编译器”**：设计一个 Agent 关卡设计师，它的动作空间（放置方块、设置刷怪点）全部被定义为严格的 Formal Skills。Agent 在生成关卡时，系统会自动在后台进行物理和可达性验证，不合格的技能调用直接在运行时被拦截并重试。\n  3. **一个艺术/游戏/叙事方向**：一个**“技能可插拔的 NPC 剧场”**。NPC 的性格和法术不是写死在 Prompt 里的，而是像魔兽世界的“技能书”。玩家可以通关给 NPC 塞入新的“技能文件（YAML）”，NPC 会瞬间学会新的交互动作（如：`deliver_secret_letter(target, item)`）并开始自主执行。\n- **对我项目的启发**：在做 spec-driven 或者是自动化系统时，不要把所有的控制逻辑都塞进 system prompt。建立一个“技能运行库”，让 Agent 通过声明式接口去调用，这样你的系统会极度稳定。\n- **今天是否值得深入研究**：是\n- **建议行动**：做demo\n\n---\n\n## 2. Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks\n- **来源**：Hacker News Best\n- **链接**：https://github.com/antoinezambelli/forge\n- **一句话解释**：一个开源的本地 LLM 靠谱运行层，通过加入“重试引导”、“步骤强约束”和“显存感知上下文管理”，把 8B 小模型在 Agent 工具调用任务上的成功率从 53% 狂飙到 99%。\n- **它为什么重要**：它证明了我们**不需要昂贵的 GPT-4o API** 也能做出极其可靠的 Agent。通过在本地 8B 模型（如 Llama-3）外围套一层确定性的“看门狗”和“纠错循环”，就能让廉价的本地模型达到商业级精度。\n- **技术趋势标签**：#LocalLLM #AgenticReliability #Guardrails #ToolCalling\n- **可复用模式**：**“反向提示纠错（Nudge-on-Error）”**：当本地模型输出格式错误时，不报错退出，而是捕获错误，自动生成一条极其简短的“你刚刚犯了 X 错误，请修正并重新输出 JSON”的微提示，直接喂回模型。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：使用 Ollama 在本地运行 Llama-3-8B，写一个 50 行的 Python 装饰器，拦截所有 JSON 解析失败的输出，自动构造“纠错 Nudge”让其自愈，测试它在提取复杂结构化数据时的成功率提升。\n  2. **一个中型项目**：**“蒸汽机（Steam Deck）上的离线跑团 GM”**：一个完全运行在掌机或本地低配设备上的 TTRPG 游戏主持人。利用 Forge 机制，确保这个 8B 级别的 GM 在生成怪物数据、判定玩家骰子点数时，绝对不会输出格式混乱的文本或违反游戏数值规则。\n  3. **一个艺术/游戏/叙事方向**：**“永不下线的生成式新媒体装置”**。用一台树莓派/迷你主机运行 local LLM 控制展厅的灯光和声音。通过 Forge 机制确保即便模型“胡言乱语”，也不会发送破坏硬件的 DMX 控制指令，保证装置 24/7 稳定运行。\n- **对我项目的启发**：在设计 HCI 或艺术装置时，不要害怕本地小模型的“笨”。在模型外围写好确定性的 Guardrails 中间件，比天天调优 Prompt 有用得多。\n- **今天是否值得深入研究**：是\n- **建议行动**：试用（直接去 GitHub clone 它的纠错逻辑）\n\n---\n\n## 3. PRISM: A Benchmark for Programmatic Spatial-Temporal Reasoning\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2605.19382\n- **一句话解释**：一个专注于评估 LLM 生成“程序化时空动画（用代码控制动态画面）”能力的基准，倡导用可执行代码而非像素扩散来生成精确的视频。\n- **它为什么重要**：对于创意编程（Creative Coding）和游戏设计，用 Sora 这种像素级扩散模型生成视频是个“黑盒”，根本无法后期编辑。而**用 LLM 生成代码（如 SVG 动画、p5.js、Three.js）来渲染视频**，才是真正精准、无限分辨率且完全可编辑的未来。\n- **技术趋势标签**：#CreativeCoding #ProgrammaticVideo #SpatialTemporal #CodeGeneration\n- **可复用模式**：**“代码即视频（Code-as-Video）”**：将动态的视觉变化抽象为时间 $t$ 的函数，让 LLM 去编写这个数学/物理公式，从而生成绝对平滑、物理正确的动画。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：写一个 Prompt Chain，输入一句物理描述（如“一个球掉在地上弹起三次，带有重力和空气阻力”），让 LLM 直接输出一段完美的、可运行的 p5.js 物理模拟代码。\n  2. **一个中型项目**：**“自然语言动态 SVG 导演”**：一个 UI 工具，用户用嘴说“给我做一个科技感十足的加载动画，要齿轮咬合旋转，带有呼吸灯效果”，Agent 实时编写并注入带有 CSS Keyframes 的 SVG 代码，在网页上无缝渲染。\n  3. **一个艺术/游戏/叙事方向**：一个**“无限数字生命鱼缸”**。每一个生物都是由 LLM 用 L-system 或向量场代码实时生成的。它们在屏幕上游动、捕食、繁殖，所有的运动轨迹和身体形变都是纯代码计算出来的，观众可以随时通过对话“干预”它们的演化规则。\n- **对我项目的启发**：作为设计+CS跨学科学生，这是你的绝对主场。将“生成式系统”与“创意编程”结合，用代码作为 LLM 表达视觉的介质，避开像素生成的计算红海。\n- **今天是否值得深入研究**：是\n- **建议行动**：做demo\n\n---\n\n## 4. Learning to Hand Off: Provably Convergent Workflow Learning under Interface Constraints\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2605.19140\n- **一句话解释**：研究多个专业 Agent 如何在不了解彼此内部状态、没有中央调度的情况下，仅通过共同修改一个“共享物（Shared Artifact）”来完成复杂的协作接力。\n- **它为什么重要**：传统的 Multi-Agent 系统依赖一个极其复杂的“中央大脑”来分发任务，这非常容易崩溃。本文提出的“基于共享物的接力（Hand-off via Artifact）”更接近人类真实的协作：设计师在 Figma（共享物）上画好草图，前端看了一眼草图直接开始写代码，大家不需要天天开会，只盯着“作品”本身即可。\n- **技术趋势标签**：#MultiAgent #SharedArtifact #AsynchronousWorkflow #Handoff\n- **可复用模式**：**“艺术接力棒模式（Git-style Collaboration）”**：Agent 之间不进行直接的文本对话，而是通过对一个统一的 JSON 状态文件（Git Commit 风格）进行读取、修改、提交来触发下游 Agent 的工作。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：设计一个“精致尸体（Exquisite Corpse）”文字游戏。Agent A 写一段故事，将其存入一个 JSON 文件的 `chapter_1` 中；Agent B 监控到文件更新，读取 `chapter_1` 并续写 `chapter_2`。全程无中央调度，只靠文件变更驱动。\n  2. **一个中型项目**：**“去中心化游戏世界生成器”**：在 Minecraft 或类似的体素引擎中，Terrain Agent 生成地形并更新地图文件，NPC Agent 读取地图文件并在合适的地方生成村庄，Quest Agent 读取村庄数据并编写任务。它们互不相识，只通过“地图文件”这一媒介协同创造世界。\n  3. **一个艺术/游戏/叙事方向**：**“Agent 爵士乐即兴演奏会”**：三个 Agent 分别控制钢琴、鼓、贝斯。它们共享一个“MIDI 事件流文件”（Artifact）。每个 Agent 只负责往这个文件里添加、修改自己乐器的音符，并且根据其他乐器的最新音符做出即兴调整。\n- **对我项目的启发**：在构建复杂的生成系统或游戏系统时，解耦你的 Agent。不要让他们互相发送复杂的指令，而是让他们共同维护一个“世界状态文件”（World State Spec），通过状态的变化自然地驱动工作流。\n- **今天是否值得深入研究**：是\n- **建议行动**：做demo\n\n---\n\n## 今日模式总结\n\n1. **确定性运行时约束（Deterministic Runtime Constraints）**：无论是 Formal Skill 还是 Forge，行业正在达成共识：不能给 LLM 无限制的自由。必须在模型外围用严苛的 Schema 校验、错误拦截和运行时状态机进行“物理约束”。\n2. **代码作为媒介（Code as Medium）**：PRISM 强调了在时空和视觉生成中，代码比像素更具优越性。用 LLM 生成“可执行的视觉规则”是创意科技的核心趋势。\n3. **物导向协作（Artifact-Oriented Collaboration）**：Multi-Agent 正在从“话痨式对话（Chat-based）”走向“作品导向型（Artifact-based）”。通过共享一个 spec 文件或画布来进行异步协作，效率和稳定性远超直接对话。\n\n---\n\n## 今日可做小实验：2小时极限挑战\n\n### 项目名：SVG 动态“精致尸体”接力（SVG Exquisite Corpse Director）\n**目标**：不使用任何中央控制代码，让三个不同的本地 Llama-3 实例通过“接力修改一个 SVG 文件”，共同创作一幅带 CSS 动画的交互式矢量艺术画。\n\n- **输入**：一个初始的空白 SVG 模板。\n- **输出**：一个包含复杂几何图形、渐变色以及 CSS 旋转/平移动画的 HTML/SVG 文件，可在浏览器中直接完美运行。\n- **技术栈**：Python, Ollama (本地运行 `llama3` 或 `gemma2`), HTML/SVG。\n- **第一步怎么做**：\n  1. 在本地用 Python 写一个简单的文件监控逻辑。\n  2. **Agent 1（构图师）**：读取空白 SVG，只允许添加 `<rect>` 或 `<circle>` 作为基础构图，保存为 `art.svg`。\n  3. **Agent 2（上色与细节师）**：监控到 `art.svg` 变化，读取它，只允许在现有图形上添加 `<linearGradient>`、描边（stroke）和滤镜（filter），保存。\n  4. **Agent 3（动效师）**：监控到变化，读取它，只允许在 `<style>` 标签内注入 CSS `@keyframes` 动画，让这些图形动起来，保存。\n  5. 双击在浏览器中打开最终的 `art.svg`，看看这三个家伙在不说话的情况下，仅凭一个 SVG 文件默契地创造出了什么艺术品！",
+  "gemini_success": true,
+  "telegram_sent": false,
+  "telegram_status": "failed",
+  "telegram_reason": "400 Client Error: Bad Request for url: https://api.telegram.org/bot8650722899:AAHUD-aqNDB7NwiPiGq3R22MVp77Cr_5GEQ/sendMessage"
+}
