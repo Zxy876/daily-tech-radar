@@ -1,0 +1,289 @@
+[
+  {
+    "title": "Formal Skill: Programmable Runtime Skills for Efficient and Accurate LLM Agents",
+    "url": "https://arxiv.org/abs/2605.19604",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 21 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.19604v1 Announce Type: new \nAbstract: Large Language Model (LLM) agents increasingly act inside real workspaces, where tools and skills determine whether model reasoning becomes reliable action. Existing skills remain largely informal: Markdown skills and instruction packs encode procedures as long natural-language documents, while function calling, Model Context Protocol (MCP) servers, and framework tools structure individual actions but usually leave workflow state, policy enforceme",
+    "score": 14.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "language model",
+      "function calling",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Trustworthy Agent Network: Trust in Agent Networks Must Be Baked In, Not Bolted On",
+    "url": "https://arxiv.org/abs/2605.19035",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 21 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.19035v1 Announce Type: new \nAbstract: The rapid advancement of Large Language Models has given rise to autonomous LLM-based agents capable of complex reasoning and execution. As these agents transition from isolated operation to collaborative ecosystems, we witness the emergence of the Agent-to-Agent (A2A) network, a paradigm where heterogeneous agents autonomously coordinate to solve multi-step tasks. While these networks may offer better task performance compared to simply using one",
+    "score": 10.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "language model",
+      "autonomous",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "MOCHA: Multi-Objective Chebyshev Annealing for Agent Skill Optimization",
+    "url": "https://arxiv.org/abs/2605.19330",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 21 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.19330v1 Announce Type: new \nAbstract: LLM agents organize behavior through skills - structured natural-language specifications governing how an agent reasons, retrieves, and responds. Unlike monolithic prompts, skills are multi-field artifacts subject to hard platform constraints: description fields are truncated for routing, instruction bodies are compacted via progressive disclosure, and co-resident skills compete for limited context windows. These constraints make skill optimizatio",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "prompt",
+      "context window"
+    ]
+  },
+  {
+    "title": "Stable Personas: Dual-Assessment of Temporal Stability in LLM-Based Human Simulation",
+    "url": "https://arxiv.org/abs/2601.22812",
+    "source": "arXiv cs.HC",
+    "published_at": "Thu, 21 May 2026 00:00:00 -0400",
+    "description": "arXiv:2601.22812v2 Announce Type: replace \nAbstract: Large Language Models (LLMs) acting as artificial agents offer the potential for scalable behavioral research, yet their validity depends on whether LLMs can maintain stable personas across extended conversations. We address this point using a dual-assessment framework measuring both self-reported characteristics and observer-rated persona expression. Across two experiments testing four persona conditions (default, high, moderate, and low ADHD",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "simulation",
+      "language model"
+    ]
+  },
+  {
+    "title": "Quant.npu: Enabling Efficient Mobile NPU Inference for on-device LLMs via Fully Static Quantization",
+    "url": "https://arxiv.org/abs/2605.20295",
+    "source": "arXiv cs.LG",
+    "published_at": "Thu, 21 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.20295v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly deployed on mobile devices, where Neural Processing Units (NPUs) necessitate fully static quantization for optimal inference efficiency. However, existing post-training quantization (PTQ) methods predominantly rely on dynamic activation quantization, rendering them incompatible with NPU hardware constraints. To bridge the gap between high-fidelity PTQ and NPU-constrained inference, we propose Quant.npu",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "neural",
+      "language model",
+      "inference"
+    ]
+  },
+  {
+    "title": "Position: Let's Develop Data Probes to Fundamentally Understand How Data Affects LLM Performance",
+    "url": "https://arxiv.org/abs/2605.18801",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 21 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.18801v1 Announce Type: new \nAbstract: Data is fundamental to large language models (LLMs). However, understanding of what makes certain data useful for different stages of an LLM workflow, including training, tuning, alignment, in-context learning, etc., and why, remains an open question. Current approaches rely heavily on extensive experimentation with large public datasets to obtain empirical heuristics for data filtering and dataset construction. These approaches are compute intens",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "workflow",
+      "language model"
+    ]
+  },
+  {
+    "title": "Evaluating the Utility of Personal Health Records in Personalized Health AI",
+    "url": "https://arxiv.org/abs/2605.18937",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 21 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.18937v1 Announce Type: new \nAbstract: Patient-managed Personal Health Records (PHRs) promises to empower patients to better understand their health; but information in the record is complex, potentially hindering insights. In this study, we assess the potential of large language models (LLMs, Gemini 3.0 Flash) to provide helpful answers to user health queries, when provided clinical data from PHRs as context. A total of 2,257 user queries were drawn from 3 different distributions to r",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "Gemini",
+      "language model"
+    ]
+  },
+  {
+    "title": "Learning to Hand Off: Provably Convergent Workflow Learning under Interface Constraints",
+    "url": "https://arxiv.org/abs/2605.19140",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 21 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.19140v1 Announce Type: new \nAbstract: We study workflow learning in a setting where specialized agents hand off control through a shared artifact, each agent observes only a local function of that artifact and its own private state, and no centralized learner accesses joint trajectories -- the operating regime of multi-agent LLM pipelines that span organizational, vendor, or trust boundaries. We formalize this regime as an interface-constrained semi-Markov decision process (IC-SMDP), ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow"
+    ]
+  },
+  {
+    "title": "Progressive Autonomy as Preference Learning: A Formalization of Trust Calibration for Agentic Tool Use",
+    "url": "https://arxiv.org/abs/2605.19151",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 21 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.19151v1 Announce Type: new \nAbstract: We formalize trust calibration for agentic tool use (deciding when an automated agent's proposed action may execute autonomously versus require human approval) as a preference-learning problem. A policy gateway maintains a Gaussian-process posterior over a latent human risk-tolerance function, observed through a probit likelihood on binary approve/deny feedback, and escalates to the human exactly where the approval outcome is most uncertain. We sh",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "autonomous",
+      "tool use"
+    ]
+  },
+  {
+    "title": "SimGym: A Framework for A/B Test Simulation in E-Commerce with Traffic-Grounded VLM Agents",
+    "url": "https://arxiv.org/abs/2605.19219",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 21 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.19219v1 Announce Type: new \nAbstract: A/B testing remains the gold standard for evaluating modifications to e-commerce storefronts, yet it diverts traffic, requires weeks to reach statistical significance, and risks degrading user experience. We present SimGym, a framework for simulating A/B tests on e-commerce storefronts using vision-language model (VLM) agents operating in a live browser. The framework comprises three key components: (a) a traffic-grounded persona generation pipeli",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "simulation",
+      "language model"
+    ]
+  },
+  {
+    "title": "Can Large Language Models Revolutionize Survey Research? Experiments with Disaster Preparedness Responses",
+    "url": "https://arxiv.org/abs/2605.19229",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 21 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.19229v1 Announce Type: new \nAbstract: Survey research faces mounting structural challenges: declining response rates, sample bias, block-wise missingness among at-risk respondents, and AI-assisted fraudulent completions in online panels. Large language models (LLMs) have been proposed as a remedy, yet rigorous evaluations across the full survey workflow remain scarce, particularly in disaster contexts where data quality matters most. We present and evaluate a five-stage framework for ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "workflow",
+      "language model"
+    ]
+  },
+  {
+    "title": "Causal Evidence for Attention Head Imbalance in Modality Conflict Hallucination",
+    "url": "https://arxiv.org/abs/2605.19250",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 21 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.19250v1 Announce Type: new \nAbstract: Modality-conflict hallucination occurs when multimodal large language models (MLLMs) prioritize erroneous textual premises over contradictory visual evidence. To understand why visual evidence fails to prevail during generation, we take a mechanistic perspective and examine which internal components drive or resist this failure. We perform head-level causal analysis using path patching across five open-source MLLMs and identify two groups of atten",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "multimodal"
+    ]
+  },
+  {
+    "title": "PRISM: A Benchmark for Programmatic Spatial-Temporal Reasoning",
+    "url": "https://arxiv.org/abs/2605.19382",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 21 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.19382v1 Announce Type: new \nAbstract: Programmatic video generation through code offers geometric precision and temporal coherence beyond pixel-level diffusion models, yet rigorously evaluating whether language models can produce spatially correct animated outputs remains an open problem. We introduce PRISM, a large-scale benchmark of 10,372 human-calibrated instruction-code pairs (20 times larger than prior programmatic video generation benchmarks), grounded in real-world knowledge v",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "diffusion",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Conflict-Resilient Multi-Agent Reasoning via Signed Graph Modeling",
+    "url": "https://arxiv.org/abs/2605.19418",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 21 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.19418v1 Announce Type: new \nAbstract: LLM-based multi-agent systems (MAS) have demonstrated strong reasoning and decision-making capabilities that consistently surpass those of single LLM agents. However, their performance often suffers from naive aggregation mechanisms that assume uniformly cooperative interactions. Upon close inspection, we observe that existing graph-based MAS frameworks (1) propagate errors when conflicting signals arise without control, and (2) lack explicit mode",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "What and When to Distill: Selective Hindsight Distillation for Multi-Turn Agents",
+    "url": "https://arxiv.org/abs/2605.19447",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 21 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.19447v1 Announce Type: new \nAbstract: Reinforcement learning can train LLM agents from sparse task rewards, but long-horizon credit assignment remains challenging: a single success-or-failure signal must be distributed across many actions. Existing methods rely on trajectory-level rewards or proxy signals, without fully leveraging per-step environmental feedback. Multi-turn agent settings are underexplored, where feedback can include error messages, page changes, observations, or refe",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "RAG"
+    ]
+  },
+  {
+    "title": "Towards Multi-Model LLM Schedulers: Empirical Insights into Offloading and Preemption",
+    "url": "https://arxiv.org/abs/2605.19593",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 21 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.19593v1 Announce Type: new \nAbstract: Modern deployments of Large Language Models (LLMs) increasingly require serving multiple models with diverse architectures, sizes, and specialization on shared, heterogeneous hardware. This setting introduces new challenges for resource allocation, dispatching, and scheduling, particularly under GPU memory constraints where partial CPU-GPU offloading and preemption become necessary. While existing systems primarily optimize throughput for a single",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "memory"
+    ]
+  },
+  {
+    "title": "Evaluating multimodal emotion recognition in proactive conversational agents: A user study",
+    "url": "https://arxiv.org/abs/2605.20200",
+    "source": "arXiv cs.HC",
+    "published_at": "Thu, 21 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.20200v1 Announce Type: new \nAbstract: This article presents a multimodal emotion recognition module integrated into a proactive Socially Interactive Agent (SIA) powered by generative artificial intelligence. The system evaluates real-time affective states through two distinct channels: a computer vision-based facial recognition module and a semantic linguistic analysis engine. To validate the framework, an empirical study was conducted with 20 users who engaged in dynamic, unscripted ",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "generative art",
+      "multimodal",
+      "generative"
+    ]
+  },
+  {
+    "title": "RealUserSim: Bridging the Reality Gap in Agent Benchmarking via Grounded User Simulation",
+    "url": "https://arxiv.org/abs/2605.20204",
+    "source": "arXiv cs.HC",
+    "published_at": "Thu, 21 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.20204v1 Announce Type: new \nAbstract: LLM-based user simulation is the primary mechanism for end-to-end agent evaluation, yet simulated users are poor proxies for real humans: unconstrained LLM defaults produce a Formalism Ceiling (style match rates of 6-8% against real users), while hand-crafted behavioral directives trigger Directive Amplification, where models hyper-interpret instructions into unnatural behavioral extremes that vary dramatically across simulator models. We present ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "simulation"
+    ]
+  },
+  {
+    "title": "Art Card Game (ACG): Embedding Illustration in Gameplay to Mitigate Artist Self-Criticism",
+    "url": "https://arxiv.org/abs/2605.20465",
+    "source": "arXiv cs.HC",
+    "published_at": "Thu, 21 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.20465v1 Announce Type: new \nAbstract: Persistent self-criticism--harsh evaluative self-talk--can undermine illustrators' performance and well-being. Traditional interventions draw on psychotherapeutic approaches (e.g., compassion training) but sit outside the illustration workflow, requiring time, facilitation, and skill transfer. We propose an in-workflow alternative: evaluative off-centering, a mechanism redirecting self-critical evaluation away from an inherently self-evaluative ta",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "workflow",
+      "game",
+      "embedding"
+    ]
+  },
+  {
+    "title": "Combating Harms of Generative AI in CS1 with Code Review Interviews and a Flipped Classroom",
+    "url": "https://arxiv.org/abs/2605.21374",
+    "source": "arXiv cs.HC",
+    "published_at": "Thu, 21 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.21374v1 Announce Type: new \nAbstract: Background and Context: Large Language Models (LLMs) are more accessible and accurate than ever before, raising significant concerns for computing educators. One major concern is students using LLMs to bypass the effort needed to understand concepts and metacognitive strategies essential for success in computer science.\n  Objectives: We contribute a unique approach to assessing and building up student understanding through weekly oral code review ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "generative"
+    ]
+  }
+]
