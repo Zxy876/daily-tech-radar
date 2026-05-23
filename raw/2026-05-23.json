@@ -1,0 +1,293 @@
+[
+  {
+    "title": "AutoMCU: Feasibility-First MCU Neural Network Customization via LLM-based Multi-Agent Systems",
+    "url": "https://arxiv.org/abs/2605.21560",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 22 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.21560v1 Announce Type: new \nAbstract: Deploying neural networks on microcontroller units (MCUs) is critical for edge intelligence but remains challenging due to tight memory, storage, and computation constraints. Existing approaches, such as model compression and hardware-aware neural architecture search (HW-NAS), often depend on proxy metrics, incur high search cost, and do not fully bridge the gap between architecture design and verified deployment. This paper presents AutoMCU, a fe",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "neural",
+      "RAG",
+      "memory"
+    ]
+  },
+  {
+    "title": "yamadashy / repomix",
+    "url": "https://github.com/yamadashy/repomix",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more. [88 stars today]",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "Claude",
+      "Gemini",
+      "GPT",
+      "language model"
+    ]
+  },
+  {
+    "title": "SOLAR: A Self-Optimizing Open-Ended Autonomous Agent for Lifelong Learning and Continual Adaptation",
+    "url": "https://arxiv.org/abs/2605.20189",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 22 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.20189v1 Announce Type: new \nAbstract: Despite the remarkable success of large language models (LLMs), they still face bottlenecks while deploying in dynamic, real-world settings with primary challenges being concept drift and the high cost of gradient-based adaptation. Traditional fine-tuning (FT) struggles to adapt to non-stationary data streams without resulting in catastrophic for getting or requiring extensive manual data curation. To address these limitations within the streaming",
+    "score": 10.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "language model",
+      "autonomous",
+      "fine-tuning"
+    ]
+  },
+  {
+    "title": "Evaluating Temporal Semantic Caching and Workflow Optimization in Agentic Plan-Execute Pipelines",
+    "url": "https://arxiv.org/abs/2605.20630",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 22 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.20630v1 Announce Type: new \nAbstract: Industrial asset operations workflows are latency-sensitive because a single user query may require coordination over sensor data, work orders, failure modes, forecasting tools, and domain-specific agents. We evaluate this problem on AssetOpsBench (AOB), an industrial agent benchmark whose plan-execute pipeline exposes repeated overhead from tool discovery, LLM planning, MCP tool execution, and final summarization. Existing LLM caching techniques ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "planning"
+    ]
+  },
+  {
+    "title": "PlanningBench: Generating Scalable and Verifiable Planning Data for Evaluating and Training Large Language Models",
+    "url": "https://arxiv.org/abs/2605.20873",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 22 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.20873v1 Announce Type: new \nAbstract: Planning is a fundamental capability for large language models (LLMs) because such complex tasks require models to coordinate goals, constraints, resources, and long-term consequences into executable and verifiable solutions. Existing planning benchmarks, however, usually treat planning data as fixed collections of instances rather than controllable generation targets. This limits scenario coverage, ties difficulty to surface-level proxies rather ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "RAG",
+      "planning"
+    ]
+  },
+  {
+    "title": "AutoRPA: Efficient GUI Automation through LLM-Driven Code Synthesis from Interactions",
+    "url": "https://arxiv.org/abs/2605.21082",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 22 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.21082v1 Announce Type: new \nAbstract: Large Language Model (LLM) based agents have demonstrated proficiency in multi-step interactions with graphical user interfaces (GUIs). While most research focuses on improving single-task performance, practical scenarios often involve repetitive GUI tasks for which invoking LLM reasoning repeatedly, i.e., the ReAct paradigm, is inefficient. Prior to LLMs, traditional Robotic Process Automation (RPA) offers runtime efficiency but demands significa",
+    "score": 10.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "automation",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Diverge to Induce Prompting: Multi-Rationale Induction for Zero-Shot Reasoning",
+    "url": "https://arxiv.org/abs/2602.08028",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 22 May 2026 00:00:00 -0400",
+    "description": "arXiv:2602.08028v1 Announce Type: cross \nAbstract: To address the instability of unguided reasoning paths in standard Chain-of-Thought prompting, recent methods guide large language models (LLMs) by first eliciting a single reasoning strategy. However, relying on just one strategy for each question can still limit performance across diverse tasks. We propose Diverge-to-Induce Prompting (DIP), a framework that first prompts an LLM to generate multiple diverse high-level rationales for each questi",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "prompt",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Harnesses for Inference-Time Alignment over Execution Trajectories",
+    "url": "https://arxiv.org/abs/2605.21516",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 22 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.21516v1 Announce Type: new \nAbstract: Harness engineering has emerged as an important inference-time technique for large language model (LLM) agents, aiming to improve long-term performance through task decomposition and guided execution. However, more elaborate harnesses are not uniformly better: increasing decomposition or guidance can sometimes improve execution, but can also reduce final task success. We study harness design through the lens of inference-time trajectory alignment.",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "inference"
+    ]
+  },
+  {
+    "title": "MemTensor / MemOS",
+    "url": "https://github.com/MemTensor/MemOS",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings [59 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "memory",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Tool-Augmented Agent for Closed-loop Optimization,Simulation,and Modeling Orchestration",
+    "url": "https://arxiv.org/abs/2605.20190",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 22 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.20190v1 Announce Type: new \nAbstract: Iterative industrial design-simulation optimization is bottlenecked by the CAD-CAE semantic gap: translating simulation feedback into valid geometric edits under diverse, coupled constraints. To fill this gap, we propose COSMO-Agent (Closed-loop Optimization, Simulation, and Modeling Orchestration), a tool-augmented reinforcement learning (RL) framework that teaches LLMs to complete the closed-loop CAD-CAE process. Specifically, we cast CAD genera",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "simulation"
+    ]
+  },
+  {
+    "title": "AgentCo-op: Retrieval-Based Synthesis of Interoperable Multi-Agent Workflows",
+    "url": "https://arxiv.org/abs/2605.20425",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 22 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.20425v1 Announce Type: new \nAbstract: Designing multi-agent workflows is especially difficult in open-ended scientific settings where tasks lack curated training sets, reliable scalar evaluation metrics, and standardized interfaces between existing tools and agents. We propose AgentCo-op, a retrieval-based synthesis framework that composes reusable skills, tools, and external agents into executable workflows through typed artifact handoffs, then applies bounded self-guided local repai",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "High Quality Embeddings for Horn Logic Reasoning",
+    "url": "https://arxiv.org/abs/2605.20467",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 22 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.20467v1 Announce Type: new \nAbstract: Neural networks can be trained to rank the choices made by logical reasoners, resulting in more efficient searches for answers. A key step in this process is creating useful embeddings, i.e., numeric representations of logical statements. This paper introduces and evaluates several approaches to creating embeddings that result in better downstream results. We train embeddings using triplet loss, which requires examples consisting of an anchor, a p",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "neural",
+      "embedding",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "AgentAtlas: Beyond Outcome Leaderboards for LLM Agents",
+    "url": "https://arxiv.org/abs/2605.20530",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 22 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.20530v1 Announce Type: new \nAbstract: Large language model agents now act on codebases, browsers, operating systems, calendars, files, and tool ecosystems, but the benchmarks used to evaluate them are fragmented: each emphasizes a different unit of measurement (final task success, tool-call validity, repeated-pass consistency, trajectory safety, or attack robustness). A line of 2024-2025 work has converged on the diagnosis that a single accuracy column is no longer the right unit of c",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "language model",
+      "RAG"
+    ]
+  },
+  {
+    "title": "Conflict-Aware Additive Guidance for Flow Models under Compositional Rewards",
+    "url": "https://arxiv.org/abs/2605.20758",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 22 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.20758v1 Announce Type: new \nAbstract: Inference-time guided sampling steers state-of-the-art diffusion and flow models without fine-tuning by interpreting the generation process as a controllable trajectory. This provides a simple and flexible way to inject external constraints (e.g., cost functions or pre-trained verifiers) for controlled generation. However, existing methods often fail when composing multiple constraints simultaneously, which leads to deviations from the true data m",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "diffusion",
+      "fine-tuning",
+      "inference"
+    ]
+  },
+  {
+    "title": "Governance by Construction for Generalist Agents",
+    "url": "https://arxiv.org/abs/2605.20874",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 22 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.20874v1 Announce Type: new \nAbstract: Enterprise agents are increasingly expected to operate autonomously across tools and interfaces, yet production deployments require governance by construction. Systems must specify which actions are allowed, when human oversight is required, and what information may be exposed, without rebuilding the agent for each domain. This demo presents CUGA's policy system, a modular policy-as-code layer that composes with a generalist LLM agent to deliver p",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "ScenePilot: Controllable Boundary-Driven Critical Scenario Generation for Autonomous Driving",
+    "url": "https://arxiv.org/abs/2605.21168",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 22 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.21168v1 Announce Type: new \nAbstract: Safety-critical scenarios are central to evaluating autonomous driving systems, yet their rarity in naturalistic logs makes simulation-based stress testing indispensable. Most scenario generation methods treat surrounding agents as adversaries, but they either (i) induce failures without explicitly modeling vehicle-road physical limits, yielding visually extreme yet physically unsolvable crashes, or (ii) enforce physical feasibility or policy feas",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "simulation",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "PALS: Power-Aware LLM Serving for Mixture-of-Experts Models",
+    "url": "https://arxiv.org/abs/2605.21427",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 22 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.21427v1 Announce Type: new \nAbstract: Large language model (LLM) inference has become a dominant workload in modern data centers, driving significant GPU utilization and energy consumption. While prior systems optimize throughput and latency by batching, scheduling, and parallelism, they largely treat GPU power as a static constraint rather than a controllable resource. In this paper, we present a power-aware runtime for LLM serving, PALS, that treats GPU power caps as a first-class c",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "inference"
+    ]
+  },
+  {
+    "title": "FlowLM: Few-Step Language Modeling via Diffusion-to-Flow Adaptation",
+    "url": "https://arxiv.org/abs/2605.20199",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 22 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.20199v1 Announce Type: cross \nAbstract: We present FlowLM, a flow matching language model transformed from pre-trained diffusion language models via efficient fine-tuning. By re-aligning the curved sampling trajectories of diffusion models into straight-line flows, FlowLM enables high quality few-step generation that rivals or even outperforms the quality of 2,000-step diffusion sampling with very few training epochs. Remarkably, finetuned FlowLM reaches performance saturation with on",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "diffusion",
+      "language model",
+      "fine-tuning"
+    ]
+  },
+  {
+    "title": "Evaluating multimodal emotion recognition in proactive conversational agents: A user study",
+    "url": "https://arxiv.org/abs/2605.20200",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 22 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.20200v1 Announce Type: cross \nAbstract: This article presents a multimodal emotion recognition module integrated into a proactive Socially Interactive Agent (SIA) powered by generative artificial intelligence. The system evaluates real-time affective states through two distinct channels: a computer vision-based facial recognition module and a semantic linguistic analysis engine. To validate the framework, an empirical study was conducted with 20 users who engaged in dynamic, unscripte",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "generative art",
+      "multimodal",
+      "generative"
+    ]
+  },
+  {
+    "title": "Narrative Sharpens Gender Gaps: Surveying Film Characters with LLM Agents",
+    "url": "https://arxiv.org/abs/2605.22091",
+    "source": "arXiv cs.HC",
+    "published_at": "Fri, 22 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.22091v1 Announce Type: new \nAbstract: Mainstream film is one of the richest sources of cultural content that AI systems learn from. Yet we have few tools for measuring the gender values it encodes. We present a proof-of-concept framework that turns fictional film characters into surveyable LLM agents. Using 160 U.S. films (1990--2019), we build 734 character agents from script dialogue and scene descriptions, condense their personas via expert-style reflections, and simulate World Val",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "narrative"
+    ]
+  }
+]
