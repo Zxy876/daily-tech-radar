@@ -1,0 +1,298 @@
+[
+  {
+    "title": "SciAtlas: A Large-Scale Knowledge Graph for Automated Scientific Research",
+    "url": "https://arxiv.org/abs/2605.22878",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 25 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.22878v1 Announce Type: new \nAbstract: The exponential growth of global academic output has confronted researchers and AI agents with an unprecedented ``information explosion,'' where fragmented and unstructured knowledge organization impedes deep interdisciplinary integration. Current academic retrieval tools predominantly rely on superficial keyword matching or vector-space semantic retrieval, which lack the topological reasoning capabilities required to navigate complex logical conn",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "RAG",
+      "vector",
+      "reasoning",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Parallel Context Compaction for Long-Horizon LLM Agent Serving",
+    "url": "https://arxiv.org/abs/2605.23296",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 25 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.23296v1 Announce Type: new \nAbstract: Long-horizon LLM agents accumulate growing conversation histories that eventually exceed the model's context window. Context compaction via LLM-based summarization keeps the conversation bounded, but summarization is inherently lossy and the blocking call stalls agent inference for tens of seconds. Moreover, the operator has no fine-grained control over summary volume since prompt instructions are largely ignored, and as context grows, both the am",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "inference",
+      "prompt",
+      "context window"
+    ]
+  },
+  {
+    "title": "One Policy, Infinite NPCs: Persona-Traceable Shared RL Policies for Scalable Game Agents",
+    "url": "https://arxiv.org/abs/2605.23652",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 25 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.23652v1 Announce Type: new \nAbstract: On a 300-persona life-simulation benchmark, pcsp achieves compositional zero-shot persona identification up to 17x above chance, Spearman rho approx 0.73 semantic-behavioral alignment, and 22x faster inference than an LLM-as-policy baseline. Life simulation games require hundreds to thousands of non-player characters (NPCs) that behave consistently with distinct personalities while remaining controllable through designer-authored natural language.",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "game",
+      "simulation",
+      "inference"
+    ]
+  },
+  {
+    "title": "LFRAG: Layout-oriented Fine-grained Retrieval-Augmented Generation on Multimodal Document Understanding",
+    "url": "https://arxiv.org/abs/2605.22829",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 25 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.22829v1 Announce Type: cross \nAbstract: Multimodal Retrieval-Augmented Generation (RAG) has emerged as an effective paradigm for enhancing Large Language Models (LLMs) with external knowledge. However, existing multimodal RAG systems predominantly rely on coarse-grained page-level retrieval, which fails to capture fine-grained semantic and layout structures in visually rich documents, thereby compromising retrieval accuracy and leading to redundant context in downstream tasks. To addr",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "multimodal",
+      "RAG",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Can AI Guess What You Know? Performance Comparison of Large Language Models for Human Domain Knowledge Estimation From Communication Logs",
+    "url": "https://arxiv.org/abs/2605.22971",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 25 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.22971v1 Announce Type: cross \nAbstract: Employees often struggle to identify ``who knows what,'' leading to organizational productivity losses. We investigate whether Large Language Models (LLMs) can infer individual domain knowledge directly from long-term Slack logs. Analyzing 27,188 messages from 43 users, we evaluated seven models (including Gemini, Claude, and GPT families) by comparing their zero-shot estimates against self-reported skill ratings from 27 participants. Gemini 2.5",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "Claude",
+      "Gemini",
+      "GPT",
+      "language model"
+    ]
+  },
+  {
+    "title": "GENSTRAT: Toward a Science of Strategic Reasoning in Large Language Models",
+    "url": "https://arxiv.org/abs/2605.23238",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 25 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.23238v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly deployed as economic agents in marketplaces, auctions, and bidding settings. Anticipating their behavior in any specific deployment is hard. Existing strategic-reasoning benchmarks evaluate models on fixed canonical games. These benchmarks may saturate as the frontier improves, and they do not allow evaluators to generalize with confidence from benchmark performance to the varied and messy strategic en",
+    "score": 10.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "game",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Evaluating Large Language Models in a Complex Hidden Role Game",
+    "url": "https://arxiv.org/abs/2605.22826",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 25 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.22826v1 Announce Type: cross \nAbstract: Quantifying the deceptive potential of Large Language Models (LLMs) is critical for AI safety, yet difficult to achieve in uncontrolled environments. This work investigates the reasoning, persuasion, and deceptive capabilities of LLMs within the social deduction game Secret Hitler. I introduce an open-source framework and novel metrics to measure performance: Role Identification Accuracy, Deception Retention Rate, and Game State Impact Rate. By ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "game",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "A Generative AI Driven Interactive Narrative Serious Game for Stress Relief and Its Randomized Controlled Pilot Study",
+    "url": "https://arxiv.org/abs/2605.11562",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 25 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.11562v2 Announce Type: replace \nAbstract: Background: Stress has become a widespread phenomenon, and serious games are increasingly recognized as engaging tools for stress relief. However, despite the rapid advancement of Generative Artificial Intelligence (Gen-AI), its integration into stress-relief serious games remains insufficiently explored. Objective: This study aimed to address this gap by developing \"Reverie\", an Gen-AI driven serious game powered by the Unity engine and ChatG",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "game",
+      "generative art",
+      "narrative",
+      "generative"
+    ]
+  },
+  {
+    "title": "Transcoders Trace Visual Grounding and Hallucinations in Vision-Language Models",
+    "url": "https://arxiv.org/abs/2605.22902",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 25 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.22902v1 Announce Type: new \nAbstract: Generative Vision-Language Models (VLMs) perform well on multimodal reasoning, but how visual inputs are transformed to text remains poorly understood. Existing interpretability work on VLMs uses Sparse Autoencoders (SAEs), which decompose static residual representations and miss the functional updates that drive cross-modal interaction. We adopt a function-centric framework based on Transcoders, sparse approximations of MLP sublayers that act as ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "language model",
+      "multimodal",
+      "reasoning",
+      "generative"
+    ]
+  },
+  {
+    "title": "Test-Time Training Undermines Safety Guardrails",
+    "url": "https://arxiv.org/abs/2605.22984",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 25 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.22984v1 Announce Type: new \nAbstract: Test-Time Training (TTT) is an emerging paradigm that enables models to adapt their parameters during inference, improving performance on tasks such as few-shot learning, retrieval-augmented generation, and complex reasoning. However, this dynamic adaptation introduces new vulnerabilities that adversaries can exploit to jailbreak models. We identify three threat models for TTT and demonstrate how attackers can leverage them to bypass safety filter",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "RAG",
+      "inference",
+      "reasoning",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "mukul975 / Anthropic-Cybersecurity-Skills",
+    "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0 [1,004 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "Gemini",
+      "Copilot"
+    ]
+  },
+  {
+    "title": "PathCal: State-Aware Reflection-Marker Calibration for Efficient Reasoning",
+    "url": "https://arxiv.org/abs/2605.23074",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 25 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.23074v1 Announce Type: new \nAbstract: The emergence of Large Reasoning Language Models (LRMs) has paved the way for tackling complex reasoning tasks through test-time scaling by generating long-form Chain-of-Thought (CoT) trajectories during inference. Meanwhile, these trajectories often contain explicit reflection markers such as ``wait'', ``but'', and ``alternatively'', signaling hesitation, revision, and the consideration of alternative explorations, respectively. Recent studies on",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "language model",
+      "inference",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "AutoResearch AI: Towards AI-Powered Research Automation for Scientific Discovery",
+    "url": "https://arxiv.org/abs/2605.23204",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 25 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.23204v1 Announce Type: new \nAbstract: Scientific research is being reshaped by AI systems that move beyond isolated assistance toward longer-horizon workflows spanning literature grounding, hypothesis generation, experimentation, validation, reporting, and revision. This shift marks a transition from task-level AI for science to workflow-level research automation. Yet current systems remain fragmented, differing in autonomy, domain scope, execution environment, validation mechanism, a",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "workflow",
+      "automation",
+      "RAG"
+    ]
+  },
+  {
+    "title": "When Planning Fails Despite Correct Execution: On Epistemic Calibration for LLM-Based Multi-Agent Systems",
+    "url": "https://arxiv.org/abs/2605.23414",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 25 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.23414v1 Announce Type: new \nAbstract: LLM-based multi-agent systems can fail even when planned actions are executed correctly because agents may misjudge their knowledge when evaluating plan feasibility, a phenomenon we term epistemic miscalibration in planning. Unlike execution errors, epistemic miscalibration is latent during planning, as generated plans can remain self-consistent and executable without observable errors; the miscalibration is also dynamic, as new information can al",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "planning"
+    ]
+  },
+  {
+    "title": "MemAudit: Post-hoc Auditing of Poisoned Agent Memory via Causal Attribution and Structural Anomaly Detection",
+    "url": "https://arxiv.org/abs/2605.23723",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 25 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.23723v1 Announce Type: new \nAbstract: Large language model agents increasingly rely on persistent memory to store past interactions, retrieve relevant demonstrations, and improve long-horizon task execution. However, this memory mechanism also creates a practical security vulnerability: an adversarial user may inject malicious records into the agent's memory through ordinary interaction, and these records can later be retrieved to steer the agent's reasoning and actions. Existing defe",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "language model",
+      "reasoning",
+      "memory"
+    ]
+  },
+  {
+    "title": "Beyond Binary Edits Robust Multimodal Knowledge Editing with Adversarial Subspace Alignment",
+    "url": "https://arxiv.org/abs/2605.23780",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 25 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.23780v1 Announce Type: new \nAbstract: Multimodal large language models (MLLMs) need efficient mechanisms to update knowledge without degrading existing capabilities. While intrinsic multimodal knowledge editing achieves strong reliability and locality, it often exhibits limited generality, failing to propagate edits across semantically equivalent visual and linguistic variations. This issue arises from the lack of explicit semantic supervision, rigid editing scopes, and biased anchori",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "multimodal"
+    ]
+  },
+  {
+    "title": "MindCopilot: Towards Formalizing and Evaluating Granular Human-LLM Co-Writing",
+    "url": "https://arxiv.org/abs/2605.23535",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 25 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.23535v1 Announce Type: new \nAbstract: Recent writing assistants are increasingly shifting from passive, prompt-driven interaction to proactive, suggestion-based completion, which integrates localized continuations into the writing flow and reduces coordination burden. However, existing evaluations simply focus on output quality, failing to capture how users accept, edit, or repair suggestions in real-time interaction, and thus obscuring the true usability of proactive co-writing syste",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "Copilot",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Human Decision-Making with Persuasive and Narrative LLM Explanations",
+    "url": "https://arxiv.org/abs/2605.23867",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 25 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.23867v1 Announce Type: new \nAbstract: Large language models (LLMs) have the potential to aid and improve human decision-making in classification tasks, not only by providing fairly accurate predictions, but also in their ability to generate cogent narrative explanations of those predictions. Prior work has demonstrated that people generally find AI narrative explanations to be understandable, trustworthy, and convincing for changing beliefs and opinions; however, less is known about t",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "narrative"
+    ]
+  },
+  {
+    "title": "How to Steer Your Multi-Agent System: Human-LLM Collaborative Planning",
+    "url": "https://arxiv.org/abs/2605.23023",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 25 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.23023v1 Announce Type: cross \nAbstract: In orchestrated multi-agent systems, humans often struggle to manage plans due to their complexity and limited transparency. Existing approaches rely on outcome-level supervision, where users verify only final outputs without visibility into intermediate reasoning. We formalize a design space for human-LLM co-planning interactions along three axes: mode (semantic vs. structural), scope (global vs. targeted), and level (low vs. high-level edits).",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "reasoning",
+      "planning"
+    ]
+  },
+  {
+    "title": "LLM-Based Educational Simulation: Evaluating Temporal Student Persona Stability Across ADHD Profiles",
+    "url": "https://arxiv.org/abs/2605.06307",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 25 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.06307v2 Announce Type: replace \nAbstract: Student simulation with Large language models (LLMs) offers a scalable alternative for educational research and teacher training. Yet, its validity depends on whether models maintain stable personas across extended interactions. We test this prerequisite using a dual-assessment framework measuring self-reported characteristics and observer-rated behavioral expressions. Across two experiments testing four clinically-grounded ADHD persona condit",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "simulation",
+      "language model"
+    ]
+  }
+]
