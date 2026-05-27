@@ -1,0 +1,300 @@
+[
+  {
+    "title": "Towards trustworthy agentic AI: a comprehensive survey of safety, robustness, privacy, and system security",
+    "url": "https://arxiv.org/abs/2605.23989",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 26 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.23989v1 Announce Type: new \nAbstract: Agentic AI systems -- Large Language Models (LLMs) augmented with planning, tool use, memory, and long-horizon interactions -- can execute complex tasks autonomously, but their multi-step trajectories introduce new failure modes that challenge trustworthiness. This survey provides a focused examination of trustworthy agentic AI through two core dimensions that are critical for high-risk deployments: Safety and Robustness, and Privacy and System Se",
+    "score": 16.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "autonomous",
+      "tool use",
+      "planning",
+      "memory"
+    ]
+  },
+  {
+    "title": "Why We Need World Models for AGI: Where LLMs Fail and How World Models May Outperform",
+    "url": "https://arxiv.org/abs/2605.23972",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 26 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.23972v1 Announce Type: new \nAbstract: Large language models achieve strong performance in language generation and knowledge-intensive tasks, yet remain limited in settings requiring causal reasoning, persistent state tracking, and long-horizon planning. We argue that these limitations may arise from an objective-level mismatch between sequence prediction and reasoning over latent environment dynamics. To formalize this distinction, we introduce Latent Dynamics Inference (LDI), a conce",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "inference",
+      "reasoning",
+      "planning"
+    ]
+  },
+  {
+    "title": "From Multi-Agent Systems and the Semantic Web to Agentic AI: A Unified Narrative of the Web of Agents",
+    "url": "https://arxiv.org/abs/2507.10644",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 26 May 2026 00:00:00 -0400",
+    "description": "arXiv:2507.10644v4 Announce Type: replace-cross \nAbstract: The Web of Agents (WoA) transforms the document-centric Web into an environment of autonomous agents acting on users' behalf, a vision newly tractable as large language models (LLMs) mature. We argue that across three decades the WoA has undergone a \\emph{semantic-effort migration} in chronological order: from platform-side coordination (Multi-Agent Systems, Generation~I), through data-side annotation (Semantic Web, Generation~II), to mo",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "autonomous",
+      "narrative"
+    ]
+  },
+  {
+    "title": "Agent-ToM: Learning to Monitor Autonomous LLM Agents via Theory-of-Mind Reasoning",
+    "url": "https://arxiv.org/abs/2605.24216",
+    "source": "arXiv cs.LG",
+    "published_at": "Tue, 26 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.24216v1 Announce Type: new \nAbstract: Monitoring autonomous large language model (LLM) agents for covert malicious behavior is challenging due to delayed, context-dependent, and long-horizon attack patterns. Agents may pursue hidden objectives while maintaining superficially benign behavior, making detection difficult even with full trajectory access. Prior monitoring approaches improve scaffolding or ensemble aggregation, but treat each trajectory independently and do not learn from ",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "autonomous",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Toward Reliable Design of LLM-Enabled Agentic Workflows: Optimizing Latency-Reliability-Cost Tradeoffs",
+    "url": "https://arxiv.org/abs/2605.23929",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 26 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.23929v1 Announce Type: new \nAbstract: Modern AI systems increasingly rely on workflows composed of multiple interacting agents, some powered by large language models (LLMs) and others by conventional computational modules. This paper analyzes the fundamental tradeoffs between latency, reliability, and cost in LLM-enabled agentic workflows. We introduce performance models for both LLM and non-LLM agents that capture the relationship between computational effort and output quality, inco",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "language model"
+    ]
+  },
+  {
+    "title": "LGMT: Logic-Grounded Metamorphic Testing for Evaluating the Reasoning Reliability of LLMs",
+    "url": "https://arxiv.org/abs/2605.23965",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 26 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.23965v1 Announce Type: new \nAbstract: Large Language Models (LLMs) achieve strong performance on logical reasoning benchmarks, yet their reliability remains uncertain. Existing evaluations rely on static benchmarks, which fail to assess robustness under logically equivalent transformations and often overestimate reasoning capability. We propose LGMT (Logic-Grounded Metamorphic Testing), an oracle-free framework that leverages first-order logic (FOL) to evaluate LLM reasoning. By deriv",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "RAG",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Reason--Imagine--Act: Closed-Loop LLM Decision Making with World Models for Autonomous Driving",
+    "url": "https://arxiv.org/abs/2605.24004",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 26 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.24004v1 Announce Type: new \nAbstract: Large language models (LLMs) are promising for autonomous driving, but semantics-only decision policies can yield physically unsafe behavior in dynamic traffic. Existing methods either perform online language reasoning without explicit dynamics verification or use world models mainly in offline pipelines, leaving a gap between semantic intent and physical feasibility at decision time. We propose Reason--Imagine--Act (RIA), a closed-loop framework ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "autonomous",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "SkillEvolBench: Benchmarking the Evolution from Episodic Experience to Procedural Skills",
+    "url": "https://arxiv.org/abs/2605.24117",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 26 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.24117v1 Announce Type: new \nAbstract: Large language model (LLM) agents accumulate rich episodic trajectories while solving real-world tasks, but it remains unclear whether such experience can be distilled into reusable procedural skills. We introduce SkillEvolBench, a diagnostic benchmark for evaluating this step from experience reuse to skill formation. It contains 180 tasks across six real-world agent environments, organized into role-conditioned task families with shared latent pr",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "procedural"
+    ]
+  },
+  {
+    "title": "End-to-End Intracortical Speech Decoding from Neural Activity",
+    "url": "https://arxiv.org/abs/2605.24313",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 26 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.24313v1 Announce Type: cross \nAbstract: Current high-performing intracortical speech neuroprostheses achieve low word error rates but typically rely on external language models during inference, increasing memory, computation, and latency. In this work, we investigate whether meaningful character-level decoding is achievable without such models. We propose an end-to-end Conformer-based neural decoder trained directly on intracortical recordings from a participant with amyotrophic late",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "neural",
+      "language model",
+      "inference",
+      "memory"
+    ]
+  },
+  {
+    "title": "mukul975 / Anthropic-Cybersecurity-Skills",
+    "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0 [880 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "Gemini",
+      "Copilot"
+    ]
+  },
+  {
+    "title": "dograh-hq / dograh",
+    "url": "https://github.com/dograh-hq/dograh",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across Speech to Speech or LLM/STT/TTS, with a visual workflow builder, MCP native and telephony support. [399 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "workflow",
+      "open source",
+      "self-hosted"
+    ]
+  },
+  {
+    "title": "thedotmack / claude-mem",
+    "url": "https://github.com/thedotmack/claude-mem",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More [352 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "Gemini",
+      "Copilot"
+    ]
+  },
+  {
+    "title": "How Much Thinking is Enough? Quantifying and Understanding Redundancy in LLM Reasoning",
+    "url": "https://arxiv.org/abs/2605.23926",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 26 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.23926v1 Announce Type: new \nAbstract: Reasoning-capable large language models solve hard problems by emitting long chains of thought, paying heavily in latency, GPU time, and energy. Casual inspection of their traces reveals extensive reformulation, verification, and circular self-reflection, yet how much of this deliberation is actually necessary has never been measured at scale or explained from first principles. This paper closes both gaps.\n  We formalise reasoning redundancy direc",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "BODHI: Precise OS Kernel Specification Inference",
+    "url": "https://arxiv.org/abs/2605.23931",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 26 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.23931v1 Announce Type: new \nAbstract: The formal verification of operating system kernels requires precise specifications that capture the intended behavior of system calls. Writing these specifications manually demands deep domain expertise, motivating the use of large language models (LLMs) to automate the process. However, in OSV-Bench, a benchmark of 245 specification generation tasks derived from the Hyperkernel OS kernel, the best reported Pass@1 is 55.10%. We propose a domain k",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "inference"
+    ]
+  },
+  {
+    "title": "MEMOR-E: In-Context and Fine-Tuned LLM Personalization for Alzheimer's Assistive Robotics",
+    "url": "https://arxiv.org/abs/2605.23941",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 26 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.23941v1 Announce Type: new \nAbstract: Alzheimer's disease is a neurodegenerative disorder marked by progressive declines in memory and language that reduce independence in daily life, motivating socially assistive robotic support. This paper presents MEMOR-E, a mobile quadruped robot with an interactive tablet interface that assists patients and caregivers through medication reminders, routine guidance, memory oriented interactions, and companionship. We evaluated the feasibility of f",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "memory",
+      "generative"
+    ]
+  },
+  {
+    "title": "Stop Comparing LLM Agents Without Disclosing the Harness",
+    "url": "https://arxiv.org/abs/2605.23950",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 26 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.23950v1 Announce Type: new \nAbstract: This position paper argues that, for long-horizon tasks evaluated across models with comparable frontier capability, the agent execution harness, namely the infrastructure layer that governs context construction, tool interaction, orchestration, and verification around a language model, is often a stronger determinant of agent performance than the model it wraps. We formalize and defend the Binding Constraint Thesis: in this regime, performance va",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model"
+    ]
+  },
+  {
+    "title": "LC-ERD: Mining Latent Logic for Self-Evolving Reasoning via Consistency-Regulated Reward Decomposition",
+    "url": "https://arxiv.org/abs/2605.24005",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 26 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.24005v1 Announce Type: new \nAbstract: The evolution of Large Language Model (LLM) reasoning is bottlenecked by the scarcity of high-quality process data. While self-alignment via endogenous rewards offers a solution, mining valid supervision faces three challenges: (1) Label Noise via Mimetic Bias, where rewards prioritize statistical likelihood over logical truth, creating a \"correctness illusion\" that masks compounding errors; (2) Coarse-Grained Supervision, where sparse global outc",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "EvoSci: A Bio-Inspired Multi-Agent Framework for the Evolution of Scientific Discovery",
+    "url": "https://arxiv.org/abs/2605.24018",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 26 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.24018v1 Announce Type: new \nAbstract: Large language models (LLMs), have shown strong potential in scientific discovery, yet existing methods still face substantial challenges in the design of research workflows and multi-role collaboration mechanisms. To mitigate these issues, we propose EvoSci, a multi-agent scientific collaboration framework, which integrates bio-inspired evolution with knowledge graph modeling. To iteratively generate, evaluate, and refine research ideas, EvoSci i",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "workflow",
+      "language model"
+    ]
+  },
+  {
+    "title": "AI Content Moderation in Therapy Conversations",
+    "url": "https://arxiv.org/abs/2605.25454",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 26 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.25454v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly being used for emotional support. They are also being developed for formal therapy purposes. However, LLMs like ChaptGPT or Llama are often developed with content moderation guardrails that prevent them from discussing sensitive subjects with users for both liability and safety purposes, and this inability to broach these subjects may affect their capacity as therapists. In this study, we perform an al",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "GPT",
+      "language model"
+    ]
+  },
+  {
+    "title": "Mixture of Complementary Agents for Robust LLM Ensemble",
+    "url": "https://arxiv.org/abs/2605.24048",
+    "source": "arXiv cs.LG",
+    "published_at": "Tue, 26 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.24048v1 Announce Type: new \nAbstract: Multi-AI collaboration, such as ensembling or debating large language models (LLMs), is a promising paradigm for aggregating information and boosting performance. A foundational step in these pipelines is to feed the responses of several proposer LLMs into a summarizer LLM, which synthesizes a better answer. However, choosing which proposers to include is non-trivial. Existing approaches primarily focus either on accuracy (picking the strongest mo",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model"
+    ]
+  }
+]
