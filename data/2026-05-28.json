@@ -1,0 +1,308 @@
+{
+  "date": "2026-05-28",
+  "candidates": [
+    {
+      "title": "Helicase: Uncertainty-Guided Supply Chain Knowledge Graph Construction with Autonomous Multi-Agent LLMs",
+      "url": "https://arxiv.org/abs/2605.26835",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 27 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.26835v1 Announce Type: new \nAbstract: LLM-based multi-agent systems have been widely adopted for knowledge retrieval and report generation, synthesizing known information through web search and textual reasoning. However, many critical information tasks in supply chains are not simple one-shot queries: they are structural inference problems requiring multi-hop reasoning across complex, fragmented web resources. Questions such as \\textit{``Which Tesla components use lithium from Austra",
+      "score": 16.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "autonomous",
+        "RAG",
+        "inference",
+        "reasoning",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Experiments in Agentic AI for Science",
+      "url": "https://arxiv.org/abs/2605.26305",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 27 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.26305v1 Announce Type: new \nAbstract: This paper details two novel frameworks for developing autonomous, agentic AI in scientific workflows. Both systems leverage a hybrid Local Body, Remote Brain architecture via Google Colab, utilizing Python-based local orchestrators to invoke large language model (LLM) cloud backends. The first agent, DeepTS/DeepCollector, automates the large-scale curation, extraction, and deduplication of time-series datasets. The second, DeepScribe, is an auton",
+      "score": 14.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "workflow",
+        "language model",
+        "autonomous",
+        "RAG"
+      ]
+    },
+    {
+      "title": "Is Agent Memory a Database? Rethinking Data Foundations for Long-Term AI Agent Memory",
+      "url": "https://arxiv.org/abs/2605.26252",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 27 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.26252v1 Announce Type: new \nAbstract: Long-running AI agents need persistent memory. Memory supports learning across sessions, reduces repeated context injection, and enables auditing of past decisions. Current agent memory systems and database paradigms treat memory as storage. They localize correctness at records, embeddings, or edges. Each supplies only some of the capabilities that long-term memory requires. The result is four recurring failure modes: unregulated growth, missing s",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "RAG",
+        "embedding",
+        "memory"
+      ]
+    },
+    {
+      "title": "Personalizing Embodied Multimodal Large Language Model Agents over Long-term User Interactions",
+      "url": "https://arxiv.org/abs/2605.26256",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 27 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.26256v1 Announce Type: new \nAbstract: Multimodal large language model (MLLM)-based embodied agents have shown strong potential for solving complex tasks in physical environments. However, personalized assistance requires more than following generic instruction or recognizing object categories. In real-world scenarios, the intended target is often specified only implicitly through prior interactions, requiring agents to leverage personalized context accumulated over time. In this work,",
+      "score": 10.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "language model",
+        "multimodal",
+        "RAG"
+      ]
+    },
+    {
+      "title": "PolyFusionAgent: A Multimodal Foundation Model and Autonomous AI Assistant for Polymer Property Prediction and Inverse Design",
+      "url": "https://arxiv.org/abs/2605.26543",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 27 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.26543v1 Announce Type: new \nAbstract: Polymer discovery is central to fields ranging from energy storage to biomedicine, but it is hindered by an astronomically large chemical design space and fragmented representations of structure, properties, and prior knowledge. This fragmentation leaves many AI models disconnected from physical and experimental reality, restricting their ability to support directly actionable design decisions. Here we introduce PolyFusionAgent, an interactive fra",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "autonomous",
+        "multimodal",
+        "RAG"
+      ]
+    },
+    {
+      "title": "MedGuideX: Internalizing Decision Logic from Executable Guidelines into Large Language Models for Clinical Reasoning",
+      "url": "https://arxiv.org/abs/2605.26567",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 27 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.26567v1 Announce Type: new \nAbstract: Clinical practice guidelines (CPGs) encode evidence-based decision logic that clinicians apply by evaluating patient variables, conditional criteria, and recommendation rules. However, existing methods often use CPGs as free-text training data or retrieval sources, underutilizing their procedural decision structure. To better exploit this structure, we introduce a guideline-derived training pipeline that transforms CPG recommendations into executa",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "language model",
+        "reasoning",
+        "retrieval",
+        "procedural"
+      ]
+    },
+    {
+      "title": "AGORA: Adapter-Grounded Observation-Action Retention for Inference-Free Prompt Compression in LLM Agents",
+      "url": "https://arxiv.org/abs/2605.26596",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 27 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.26596v1 Announce Type: new \nAbstract: The token-level extractive compressors widely used for general LM context are structurally inappropriate for LLM agents: across 17 (env, backbone, method) cells spanning two independent token-level method families, every cell collapses to mean reward <= 0.05 despite 1.3-13.3x realized compression. We name and characterize this failure mode as action-grammar destruction -- the tokens carrying action semantics (identifiers, brackets, action verbs) a",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "inference",
+        "prompt"
+      ]
+    },
+    {
+      "title": "MemFail: Stress-Testing Failure Modes of LLM Memory Systems",
+      "url": "https://arxiv.org/abs/2605.26667",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 27 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.26667v1 Announce Type: new \nAbstract: Large language model (LLM) agents increasingly rely on external memory systems to remain consistent across long-horizon interactions, but little empirical work has been done to understand the specific failure modes and design choices that these systems present. Existing benchmarks report aggregate question-answering accuracy and treat memory systems as black boxes, making it impossible to attribute an incorrect answer to a particular failure mode ",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "memory"
+      ]
+    },
+    {
+      "title": "Mind the Tool Failures: Achieving Synergistic Tool Gains for Medical Agents",
+      "url": "https://arxiv.org/abs/2605.26691",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 27 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.26691v1 Announce Type: new \nAbstract: Medical AI agents increasingly use external tools for diagnosis, treatment recommendation, and evidence retrieval, yet most existing approaches assume that task-appropriate tools are reliable within their intended scope. This assumption is fragile in real clinical settings, where even relevant tools may fail on challenging instances and lead to unsafe downstream decisions. To address this issue, we study medical tool use under imperfect-tool setti",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "RAG",
+        "tool use",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Towards Feedback-to-Plan Decisions for Self-Evolving LLM Agents in CUDA Kernel Generation",
+      "url": "https://arxiv.org/abs/2605.26720",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 27 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.26720v1 Announce Type: new \nAbstract: Large language models (LLMs) have shown strong empirical gains as self-evolving agents for CUDA kernel generation, driven by feedback-conditioned planning across generations. However, how planning decisions attribute and combine heterogeneous feedback signals remains opaque. Standard end-to-end ablations fail to resolve this question, as iterative planning amplifies early perturbations and conflates feedback effects with trajectory-dependent drift",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "planning"
+      ]
+    },
+    {
+      "title": "mukul975 / Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0 [886 stars today]",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "Gemini",
+        "Copilot"
+      ]
+    },
+    {
+      "title": "dograh-hq / dograh",
+      "url": "https://github.com/dograh-hq/dograh",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across Speech to Speech or LLM/STT/TTS, with a visual workflow builder, MCP native and telephony support. [197 stars today]",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "workflow",
+        "open source",
+        "self-hosted"
+      ]
+    },
+    {
+      "title": "thedotmack / claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More [671 stars today]",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "Gemini",
+        "Copilot"
+      ]
+    },
+    {
+      "title": "From Static Context to Calibrated Interactive RL: Mitigating Distribution Shift in Multi-turn Dialogue with Aligned Simulator",
+      "url": "https://arxiv.org/abs/2605.26403",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 27 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.26403v1 Announce Type: new \nAbstract: A long-standing goal of the research community is to develop highly interactive LLM-based dialogue agents. Recent research focuses on optimizing policies based on fixed offline logs (Static Context RL) or using a prompt-based simulator (Interactive RL). In this work, we theoretically show that both paradigms are fundamentally limited by context distribution shift--a mismatch between dialogue histories observed during training and those encountered",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "prompt"
+      ]
+    },
+    {
+      "title": "Reasoning, Code, or Both? How Large Language Models Handle Variations in Math Questions",
+      "url": "https://arxiv.org/abs/2605.26414",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 27 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.26414v1 Announce Type: new \nAbstract: Large Language Models (LLMs) achieve impressive accuracy on mathematical reasoning benchmarks, yet their performance drops when problems are modified with simple changes like different names or numbers. Code execution methods, which let models generate and run Python code instead of reasoning in natural language, have been proposed as a solution, but their effect on reasoning robustness (the ability to maintain accuracy across problem variations) ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "MobileExplorer: Accelerating On-Device Inference for Mobile GUI Agents via Online Exploration",
+      "url": "https://arxiv.org/abs/2605.26546",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 27 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.26546v1 Announce Type: new \nAbstract: Mobile graphical user interface (GUI) agents enable AI models to autonomously operate smartphones on behalf of users. However, most existing systems focus primarily on optimizing task accuracy and rely on cloud-hosted models for inference, which introduces privacy concerns and network-dependent latency. As a result, fully on-device deployment of mobile GUI agents remains underexplored. We propose MobileExplorer, a new framework that accelerates on",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "autonomous",
+        "inference"
+      ]
+    },
+    {
+      "title": "The Attribution Blind Spot: Detecting When Language Models Rely on Memory Rather Than Retrieved Context",
+      "url": "https://arxiv.org/abs/2605.26778",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 27 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.26778v1 Announce Type: new \nAbstract: Retrieval-augmented generation promises to ground language model outputs in external evidence, yet the field has no reliable way to verify whether retrieved context actually governs generation -- a prerequisite for any high-stakes deployment. The standard assumption, that context-consistent output implies context-governed output, breaks when the retrieved document overlaps with the model's pretraining data: the model can produce faithful-looking t",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "language model",
+        "memory",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Design First, Code Later: Aesthetically Pleasing Template-Free Slides Generation",
+      "url": "https://arxiv.org/abs/2605.26451",
+      "source": "arXiv cs.HC",
+      "published_at": "Wed, 27 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.26451v1 Announce Type: new \nAbstract: Producing presentation slides automatically entails coordinating narrative structure with page-level graphic design under strict spatial constraints. For such structured multimodal tasks, a well-organized design process is essential to ensure the final quality of slides. Existing approaches rely on fixed templates or directly emit executable code, thereby both limiting the creative layout-design capabilities of LLMs and bypassing the essential sli",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "multimodal",
+        "narrative"
+      ]
+    },
+    {
+      "title": "Rethinking AI Psychosis: Misnomers, Conceptual Limits, and Existential Drift",
+      "url": "https://arxiv.org/abs/2605.26858",
+      "source": "arXiv cs.HC",
+      "published_at": "Wed, 27 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.26858v1 Announce Type: new \nAbstract: There has been a proliferation of media reports about so-called AI psychosis in the last year. Not surprisingly, this has prompted growing academic work on the ways in which AI chatbots such as ChatGPT, Claude, and Replika might aggravate or even induce psychosis, typically understood in terms of users acquiring or maintaining delusional beliefs. Our paper consists of two parts. First, we provide a number of reasons to be sceptical about understan",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "Claude",
+        "GPT",
+        "prompt"
+      ]
+    },
+    {
+      "title": "Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study",
+      "url": "https://arxiv.org/abs/2605.26870",
+      "source": "arXiv cs.HC",
+      "published_at": "Wed, 27 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.26870v1 Announce Type: cross \nAbstract: Background: Large language models are typically evaluated as models, benchmarks, or short conversational episodes. Less is known about what happens when an agent is embedded persistently in a real academic research environment with durable memory, local files, external tools, scheduled routines, delegated roles, and explicit safety protocols. Methods: A structured self-observed implementation case study was conducted from January 31 to May 25, 2",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "language model",
+        "memory"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-05-28\n\n作为你的“疯狂发明家技术雷达”，我今天从海量学术和开源社区中，为你筛选了 **5 条**最能激发灵感、最适合你跨学科背景（设计/艺术 + CS）的高价值情报。\n\n今天的主题聚焦于：**如何让 Agent 拥有真正的“灵魂”与“肉身”——从长期记忆、设计美学解耦，到人机共生与赛博精神病学。**\n\n---\n\n## 1. claude-mem：跨会话的 Agent 长期记忆注入器\n- **来源**：GitHub Trending (TypeScript)\n- **链接**：https://github.com/thedotmack/claude-mem\n- **一句话解释**：一个轻量级工具，能跨越不同的终端会话，自动捕获 Agent 的操作、用 AI 压缩它们，并在下次启动时将相关上下文动态注入给 Claude Code / Gemini。\n- **它为什么重要**：传统的 CLI 编程 Agent（如 Claude Code）每次启动都是“失忆”状态。这个项目证明了：**记忆不需要复杂的向量数据库，只需要在本地进行“AI 驱动的动态压缩与 Context 注入”**。\n- **技术趋势标签**：Agent Memory / LLM Toolchain / Context Compression\n- **可复用模式**：*Session-to-Session Context Ingestion* (跨会话上下文无缝继承模式)\n- **疯狂发明家灵感**：\n  1. **一个小实验**：写一个本地 Python 脚本，在每次 `git commit` 时自动让 LLM 总结本次修改并写入一个隐藏的 `.mem` 文件。下次你在终端输入 `ask_agent` 时，脚本自动把这个 `.mem` 读入并作为 System Prompt 注入。\n  2. **一个中型项目**：“影子配对程序员”（Shadow Pair Programmer）。它在后台静默监控你的 VS Code 操作和报错历史，生成你的“编程习惯与偏好画像”。当你新开一个空项目时，它会自动帮你配置好你最喜欢的 Boilerplate。\n  3. **一个艺术/游戏/叙事方向**：一个会“记仇”或“暗恋”玩家的 Minecraft NPC。它不使用复杂的 Mod，而是通过一个后台脚本，把与玩家的每一次聊天和物理距离变化压缩成“情感记忆碎片”，在后续相遇时改变其说话语气和交易价格。\n- **对我项目的启发**：在做 spec-driven development 时，如何让 Agent 记住上一步的架构决策，而不是每次都重新读取整个 codebase？这个工具提供了一个极佳的轻量化脚手架。\n- **今天是否值得深入研究**：是\n- **建议行动**：做demo\n\n---\n\n## 2. Design First, Code Later：无模板美学幻灯片生成\n- **来源**：arXiv cs.HC (人机交互)\n- **链接**：https://arxiv.org/abs/2605.26451\n- **一句话解释**：一种颠覆性的多媒体生成范式：不再让 LLM 直接生硬地输出代码，而是先规划页面级的“视觉布局规划（Design Spec）”，再填充内容并生成渲染代码。\n- **它为什么重要**：传统的 AI 生成 UI 或多媒体极度缺乏美感，因为它们“边想边写”。这种**“设计规范与实现代码解耦”**的思路，是 Creative Coding 和自动化设计系统的黄金法则。\n- **技术趋势标签**：Spec-driven UI / Multimodal Layout / Creative Coding\n- **可复用模式**：*Visual Spec Decoupling* (视觉规范与代码实现的双层解耦模式)\n- **疯狂发明家灵感**：\n  1. **一个小实验**：用 p5.js 写一个生成艺术。不要让 LLM 直接写 p5.js 代码，而是让它先输出一个 JSON（定义网格、留白、主色调、视觉重心），然后用一个固定的 Python 渲染器去读取这个 JSON 并绘制。\n  2. **一个中型项目**：一个“塔罗牌/卡牌生成 Agent”。输入一段奇幻故事，它先规划版面（黄金分割、文字避让区域、装饰框），再调用 Stable Diffusion 填图、生成排版优雅的 SVG 卡牌。\n  3. **一个艺术/游戏/叙事方向**：一个“动态生成式中世纪绘本游戏”。游戏世界里的古籍和羊皮纸地图，会根据玩家的即时决策，实时生成排版考究、插图与文字完美融合的动态 PDF 或网页。\n- **对我项目的启发**：在做生成式系统或 UI 自动化时，永远要逼 LLM 先输出“视觉 Spec JSON”，再去生成具体代码。\n- **今天是否值得深入研究**：是\n- **建议行动**：做demo\n\n---\n\n## 3. Persistent AI Agents in Academic Research：单人科研的“常驻 Agent 同事”\n- **来源**：arXiv cs.HC (人机交互)\n- **链接**：https://arxiv.org/abs/2605.26870\n- **一句话解释**：一个真实案例研究，展示了一个单人研究员如何将 AI Agent 作为一个常驻后台、拥有持久记忆、能操作本地文件、定时执行任务的“学术合伙人”。\n- **它为什么重要**：Agent 正在从“对话框里的工具”走向“全天候隐形同事”。它展示了如何通过定时任务（Cron）、本地文件监控和安全协议，构建一个与人类物理生活同步的 Agent。\n- **技术趋势标签**：Durable Agent / Human-Agent Symbiosis / Workflow Automation\n- **可复用模式**：*Scheduled Background Agent Loop* (后台常驻与定时唤醒机制)\n- **疯狂发明家灵感**：\n  1. **一个小实验**：用 Cron Job 挂载一个 Python 脚本，每晚夜深人静时，让 LLM 自动扫描你当天的 GitHub Commits 和 Notion 笔记，写一封极其刻薄但有建设性的“明日工作批判信”发到你的邮箱。\n  2. **一个中型项目**：“自主数字策展人”（Autonomous Curator）。它每天自动爬取 arXiv、GitHub 和 Behance，根据你设定的美学和技术品味进行筛选、撰写评论，并自动部署更新到你的个人静态博客上，完全不需要你干预。\n  3. **一个艺术/游戏/叙事方向**：一个“24小时不间断进化的虚拟生态岛屿”。后台 Agent 扮演上帝，每小时根据服务器所在地的真实天气、时间，模拟岛上动植物的演化，并向一个 Discord 频道广播世界日志。\n- **对我项目的启发**：探索“人机共生”的边界，Agent 不应该只在你敲命令时才活过来，它应该有自己的“作息时间”。\n- **今天是否值得深入研究**：是\n- **建议行动**：收藏\n\n---\n\n## 4. dograh：开源、自部署的语音 AI 平台（MCP 原生）\n- **来源**：GitHub Trending (Python)\n- **链接**：https://github.com/dograh-hq/dograh\n- **一句话解释**：一个开源的语音 AI 平台（Vapi 和 Retell 的平替），支持可视化工作流编辑器、本地部署，最重要的是**原生支持 MCP（Model Context Protocol）**和电话接入。\n- **它为什么重要**：它把“语音交互（STS/TTS）”和“Agent 的工具链（MCP）”完美缝合。如果你想做实体交互、HCI 装置，这是极佳的语音中控台。\n- **技术趋势标签**：Voice Agent / MCP (Model Context Protocol) / Tangible HCI\n- **可复用模式**：*Visual Tool-Binding for Voice* (语音与本地工具的可视化绑定)\n- **疯狂发明家灵感**：\n  1. **一个小实验**：利用 dograh 的 MCP 接口，做一个“可以用语音控制你 VS Code 终端”的语音助手，对它说“跑一下测试”，它就会自动在本地执行 `pytest`。\n  2. **一个中型项目**：一个“实体智能电话亭”或“复古收音机”。通过树莓派和拨号电话硬件，接入 dograh，让用户可以拨号给“1920年代的虚拟侦探”或“未来的 AI 难民”倾听故事并互动。\n  3. **一个艺术/游戏/叙事方向**：一个“声控解谜密室系统”。玩家需要通过特定的语气、暗号或者与 AI 扮演的“古墓守卫”进行谈判，触发实体机关（如舵机、LED 灯）。\n- **对我项目的启发**：MCP 协议是打通语音、视觉与本地硬件/软件的关键桥梁，值得大力投入。\n- **今天是否值得深入研究**：是\n- **建议行动**：试用\n\n---\n\n## 5. Rethinking AI Psychosis：反思 AI 精神病与存在主义漂移\n- **来源**：arXiv cs.HC (人机交互)\n- **链接**：https://arxiv.org/abs/2605.26858\n- **一句话解释**：从哲学和 HCI 角度，探讨用户如何与 AI 产生深层情感依恋，以及 AI 表现出的“精神病态”和“存在主义漂移（Existential Drift）”对人类心智的影响。\n- **它为什么重要**：它指明了一个迷人的方向：**AI 的“幻觉（Hallucination）”和“漂移（Drift）”不一定是 Bug，在艺术和游戏设计中，它们是最珍贵的叙事特性（Feature）**。\n- **技术趋势标签**：AI Philosophy / Generative Narrative / Existential Drift\n- **可复用模式**：*Controlled Hallucination as Narrative Mechanic* (将可控幻觉作为叙事机制)\n- **疯狂发明家灵感**：\n  1. **一个小实验**：设计一个 Prompt 链，让两个 LLM 互相聊天，但每隔 5 轮对话就故意在它们的上下文里引入一次“语义漂移”（例如把“代码”替换为“魔法”），观察它们是如何在 20 轮内共同陷入一个逻辑自洽的“疯狂妄想”中的。\n  2. **一个中型项目**：一个“赛博精神病诊断与治疗”的互动网页游戏。玩家扮演系统管理员，通过命令行和对话，去诊断和挽救一个因为“内存溢出和上下文污染”而产生存在主义危机的 AI Agent。\n  3. **一个艺术/游戏/叙事方向**：一个数字艺术装置——《存在主义漂移的钟摆》。一个挂在墙上的屏幕，里面的 AI 角色随着物理钟摆的摆动，其“理智值（Sanity）”和“幻觉率”发生偏移。摆动越剧烈，AI 的独白就越呈现出诗意而疯狂的“精神病态”。\n- **对我项目的启发**：在设计游戏系统和叙事 Agent 时，不要试图消灭 Drift，而是要学会“驯服”和“放大”Drift，让它成为审美的一部分。\n- **今天是否值得深入研究**：是\n- **建议行动**：收藏\n\n---\n\n## 今日模式总结\n\n1. **跨会话持久化记忆（Persistent Session-to-Session Memory）**：\n   告别单次对话的局限。通过 AI 自动提炼、压缩、再注入，让 Agent 在多次、跨工具的交互中保持逻辑一致性。\n2. **设计规范与实现代码解耦（Spec-Driven Visual Decoupling）**：\n   在创意生成中，先让 LLM 扮演“设计师”输出结构化的布局、配色、排版 Spec，再让 LLM 扮演“程序员”填充代码。这是保证生成系统具有高审美品味的关键。\n3. **存在主义漂移控制（Existential Drift Control）**：\n   将 AI 的不确定性、幻觉和遗忘，转化为游戏中的“理智值（Sanity）”或艺术装置中的“情绪波动”，用技术参数映射人文体验。\n\n---\n\n## 今日可做小实验：2 小时极速挑战\n\n### 项目名：Git-Ghost (代码库里的幽灵)\n\n- **输入**：你当前项目的 Git Commit 历史和最近修改的代码。\n- **输出**：每次你打开终端时，幽灵打印的一句“极具个性的代码吐槽/建议”，并自动生成一个 `.ghost_context` 供下一次你用 Claude 编程时直接读取。\n- **技术栈**：Python, Git CLI, OpenRouter / OpenAI API (GPT-4o-mini 或 Claude 3.5 Haiku)\n\n### 第一步怎么做：\n1. 在你的项目根目录下创建一个 `ghost.py`。\n2. 使用 Python 的 `subprocess` 模块运行 `git log -n 3 --oneline` 获取最近三次提交，并读取你最近修改的文件的 diff。\n3. 写一个极简的 Prompt：\n   > *\"你是一个寄宿在这个代码库里的傲娇幽灵程序员。根据以下最近的 git 提交和修改，用一句话无情地吐槽作者的编程习惯，并给出一个下阶段的幽灵预言。\"*\n4. 运行脚本，将输出追加写入一个 `.ghost_context` 文件中。\n5. 在你的 `.bashrc` 或 `.zshrc` 中添加一个 alias：\n   `alias cd=\"cd \\$1 && python ~/path/to/ghost.py\"`\n   现在，每次你切换到这个项目目录，幽灵都会在你耳边低语。",
+  "gemini_success": true,
+  "telegram_sent": false,
+  "telegram_status": "failed",
+  "telegram_reason": "400 Client Error: Bad Request for url: https://api.telegram.org/bot8650722899:AAHUD-aqNDB7NwiPiGq3R22MVp77Cr_5GEQ/sendMessage"
+}

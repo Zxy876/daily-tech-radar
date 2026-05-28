@@ -1,0 +1,300 @@
+[
+  {
+    "title": "Helicase: Uncertainty-Guided Supply Chain Knowledge Graph Construction with Autonomous Multi-Agent LLMs",
+    "url": "https://arxiv.org/abs/2605.26835",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 27 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.26835v1 Announce Type: new \nAbstract: LLM-based multi-agent systems have been widely adopted for knowledge retrieval and report generation, synthesizing known information through web search and textual reasoning. However, many critical information tasks in supply chains are not simple one-shot queries: they are structural inference problems requiring multi-hop reasoning across complex, fragmented web resources. Questions such as \\textit{``Which Tesla components use lithium from Austra",
+    "score": 16.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "autonomous",
+      "RAG",
+      "inference",
+      "reasoning",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Experiments in Agentic AI for Science",
+    "url": "https://arxiv.org/abs/2605.26305",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 27 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.26305v1 Announce Type: new \nAbstract: This paper details two novel frameworks for developing autonomous, agentic AI in scientific workflows. Both systems leverage a hybrid Local Body, Remote Brain architecture via Google Colab, utilizing Python-based local orchestrators to invoke large language model (LLM) cloud backends. The first agent, DeepTS/DeepCollector, automates the large-scale curation, extraction, and deduplication of time-series datasets. The second, DeepScribe, is an auton",
+    "score": 14.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "language model",
+      "autonomous",
+      "RAG"
+    ]
+  },
+  {
+    "title": "Is Agent Memory a Database? Rethinking Data Foundations for Long-Term AI Agent Memory",
+    "url": "https://arxiv.org/abs/2605.26252",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 27 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.26252v1 Announce Type: new \nAbstract: Long-running AI agents need persistent memory. Memory supports learning across sessions, reduces repeated context injection, and enables auditing of past decisions. Current agent memory systems and database paradigms treat memory as storage. They localize correctness at records, embeddings, or edges. Each supplies only some of the capabilities that long-term memory requires. The result is four recurring failure modes: unregulated growth, missing s",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "RAG",
+      "embedding",
+      "memory"
+    ]
+  },
+  {
+    "title": "Personalizing Embodied Multimodal Large Language Model Agents over Long-term User Interactions",
+    "url": "https://arxiv.org/abs/2605.26256",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 27 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.26256v1 Announce Type: new \nAbstract: Multimodal large language model (MLLM)-based embodied agents have shown strong potential for solving complex tasks in physical environments. However, personalized assistance requires more than following generic instruction or recognizing object categories. In real-world scenarios, the intended target is often specified only implicitly through prior interactions, requiring agents to leverage personalized context accumulated over time. In this work,",
+    "score": 10.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "language model",
+      "multimodal",
+      "RAG"
+    ]
+  },
+  {
+    "title": "PolyFusionAgent: A Multimodal Foundation Model and Autonomous AI Assistant for Polymer Property Prediction and Inverse Design",
+    "url": "https://arxiv.org/abs/2605.26543",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 27 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.26543v1 Announce Type: new \nAbstract: Polymer discovery is central to fields ranging from energy storage to biomedicine, but it is hindered by an astronomically large chemical design space and fragmented representations of structure, properties, and prior knowledge. This fragmentation leaves many AI models disconnected from physical and experimental reality, restricting their ability to support directly actionable design decisions. Here we introduce PolyFusionAgent, an interactive fra",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "autonomous",
+      "multimodal",
+      "RAG"
+    ]
+  },
+  {
+    "title": "MedGuideX: Internalizing Decision Logic from Executable Guidelines into Large Language Models for Clinical Reasoning",
+    "url": "https://arxiv.org/abs/2605.26567",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 27 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.26567v1 Announce Type: new \nAbstract: Clinical practice guidelines (CPGs) encode evidence-based decision logic that clinicians apply by evaluating patient variables, conditional criteria, and recommendation rules. However, existing methods often use CPGs as free-text training data or retrieval sources, underutilizing their procedural decision structure. To better exploit this structure, we introduce a guideline-derived training pipeline that transforms CPG recommendations into executa",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "language model",
+      "reasoning",
+      "retrieval",
+      "procedural"
+    ]
+  },
+  {
+    "title": "AGORA: Adapter-Grounded Observation-Action Retention for Inference-Free Prompt Compression in LLM Agents",
+    "url": "https://arxiv.org/abs/2605.26596",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 27 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.26596v1 Announce Type: new \nAbstract: The token-level extractive compressors widely used for general LM context are structurally inappropriate for LLM agents: across 17 (env, backbone, method) cells spanning two independent token-level method families, every cell collapses to mean reward <= 0.05 despite 1.3-13.3x realized compression. We name and characterize this failure mode as action-grammar destruction -- the tokens carrying action semantics (identifiers, brackets, action verbs) a",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "inference",
+      "prompt"
+    ]
+  },
+  {
+    "title": "MemFail: Stress-Testing Failure Modes of LLM Memory Systems",
+    "url": "https://arxiv.org/abs/2605.26667",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 27 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.26667v1 Announce Type: new \nAbstract: Large language model (LLM) agents increasingly rely on external memory systems to remain consistent across long-horizon interactions, but little empirical work has been done to understand the specific failure modes and design choices that these systems present. Existing benchmarks report aggregate question-answering accuracy and treat memory systems as black boxes, making it impossible to attribute an incorrect answer to a particular failure mode ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "memory"
+    ]
+  },
+  {
+    "title": "Mind the Tool Failures: Achieving Synergistic Tool Gains for Medical Agents",
+    "url": "https://arxiv.org/abs/2605.26691",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 27 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.26691v1 Announce Type: new \nAbstract: Medical AI agents increasingly use external tools for diagnosis, treatment recommendation, and evidence retrieval, yet most existing approaches assume that task-appropriate tools are reliable within their intended scope. This assumption is fragile in real clinical settings, where even relevant tools may fail on challenging instances and lead to unsafe downstream decisions. To address this issue, we study medical tool use under imperfect-tool setti",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "RAG",
+      "tool use",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Towards Feedback-to-Plan Decisions for Self-Evolving LLM Agents in CUDA Kernel Generation",
+    "url": "https://arxiv.org/abs/2605.26720",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 27 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.26720v1 Announce Type: new \nAbstract: Large language models (LLMs) have shown strong empirical gains as self-evolving agents for CUDA kernel generation, driven by feedback-conditioned planning across generations. However, how planning decisions attribute and combine heterogeneous feedback signals remains opaque. Standard end-to-end ablations fail to resolve this question, as iterative planning amplifies early perturbations and conflates feedback effects with trajectory-dependent drift",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "planning"
+    ]
+  },
+  {
+    "title": "mukul975 / Anthropic-Cybersecurity-Skills",
+    "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0 [886 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "Gemini",
+      "Copilot"
+    ]
+  },
+  {
+    "title": "dograh-hq / dograh",
+    "url": "https://github.com/dograh-hq/dograh",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across Speech to Speech or LLM/STT/TTS, with a visual workflow builder, MCP native and telephony support. [197 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "workflow",
+      "open source",
+      "self-hosted"
+    ]
+  },
+  {
+    "title": "thedotmack / claude-mem",
+    "url": "https://github.com/thedotmack/claude-mem",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More [671 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "Gemini",
+      "Copilot"
+    ]
+  },
+  {
+    "title": "From Static Context to Calibrated Interactive RL: Mitigating Distribution Shift in Multi-turn Dialogue with Aligned Simulator",
+    "url": "https://arxiv.org/abs/2605.26403",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 27 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.26403v1 Announce Type: new \nAbstract: A long-standing goal of the research community is to develop highly interactive LLM-based dialogue agents. Recent research focuses on optimizing policies based on fixed offline logs (Static Context RL) or using a prompt-based simulator (Interactive RL). In this work, we theoretically show that both paradigms are fundamentally limited by context distribution shift--a mismatch between dialogue histories observed during training and those encountered",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Reasoning, Code, or Both? How Large Language Models Handle Variations in Math Questions",
+    "url": "https://arxiv.org/abs/2605.26414",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 27 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.26414v1 Announce Type: new \nAbstract: Large Language Models (LLMs) achieve impressive accuracy on mathematical reasoning benchmarks, yet their performance drops when problems are modified with simple changes like different names or numbers. Code execution methods, which let models generate and run Python code instead of reasoning in natural language, have been proposed as a solution, but their effect on reasoning robustness (the ability to maintain accuracy across problem variations) ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "MobileExplorer: Accelerating On-Device Inference for Mobile GUI Agents via Online Exploration",
+    "url": "https://arxiv.org/abs/2605.26546",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 27 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.26546v1 Announce Type: new \nAbstract: Mobile graphical user interface (GUI) agents enable AI models to autonomously operate smartphones on behalf of users. However, most existing systems focus primarily on optimizing task accuracy and rely on cloud-hosted models for inference, which introduces privacy concerns and network-dependent latency. As a result, fully on-device deployment of mobile GUI agents remains underexplored. We propose MobileExplorer, a new framework that accelerates on",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "autonomous",
+      "inference"
+    ]
+  },
+  {
+    "title": "The Attribution Blind Spot: Detecting When Language Models Rely on Memory Rather Than Retrieved Context",
+    "url": "https://arxiv.org/abs/2605.26778",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 27 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.26778v1 Announce Type: new \nAbstract: Retrieval-augmented generation promises to ground language model outputs in external evidence, yet the field has no reliable way to verify whether retrieved context actually governs generation -- a prerequisite for any high-stakes deployment. The standard assumption, that context-consistent output implies context-governed output, breaks when the retrieved document overlaps with the model's pretraining data: the model can produce faithful-looking t",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "language model",
+      "memory",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Design First, Code Later: Aesthetically Pleasing Template-Free Slides Generation",
+    "url": "https://arxiv.org/abs/2605.26451",
+    "source": "arXiv cs.HC",
+    "published_at": "Wed, 27 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.26451v1 Announce Type: new \nAbstract: Producing presentation slides automatically entails coordinating narrative structure with page-level graphic design under strict spatial constraints. For such structured multimodal tasks, a well-organized design process is essential to ensure the final quality of slides. Existing approaches rely on fixed templates or directly emit executable code, thereby both limiting the creative layout-design capabilities of LLMs and bypassing the essential sli",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "multimodal",
+      "narrative"
+    ]
+  },
+  {
+    "title": "Rethinking AI Psychosis: Misnomers, Conceptual Limits, and Existential Drift",
+    "url": "https://arxiv.org/abs/2605.26858",
+    "source": "arXiv cs.HC",
+    "published_at": "Wed, 27 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.26858v1 Announce Type: new \nAbstract: There has been a proliferation of media reports about so-called AI psychosis in the last year. Not surprisingly, this has prompted growing academic work on the ways in which AI chatbots such as ChatGPT, Claude, and Replika might aggravate or even induce psychosis, typically understood in terms of users acquiring or maintaining delusional beliefs. Our paper consists of two parts. First, we provide a number of reasons to be sceptical about understan",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "Claude",
+      "GPT",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study",
+    "url": "https://arxiv.org/abs/2605.26870",
+    "source": "arXiv cs.HC",
+    "published_at": "Wed, 27 May 2026 00:00:00 -0400",
+    "description": "arXiv:2605.26870v1 Announce Type: cross \nAbstract: Background: Large language models are typically evaluated as models, benchmarks, or short conversational episodes. Less is known about what happens when an agent is embedded persistently in a real academic research environment with durable memory, local files, external tools, scheduled routines, delegated roles, and explicit safety protocols. Methods: A structured self-observed implementation case study was conducted from January 31 to May 25, 2",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "language model",
+      "memory"
+    ]
+  }
+]
