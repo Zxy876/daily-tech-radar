@@ -1,0 +1,316 @@
+{
+  "date": "2026-05-29",
+  "candidates": [
+    {
+      "title": "PEAM: Parametric Embodied Agent Memory through Contrastive Internalization of Experience in Minecraft",
+      "url": "https://arxiv.org/abs/2605.27762",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 28 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.27762v1 Announce Type: new \nAbstract: We present PEAM, a Parametric Embodied Agent Memory framework in Minecraft that transforms agent memory from inference-time retrieval into parameter-resident skills internalized through experience. PEAM pairs a slow deliberative LLM for open-ended reasoning with a fast parametric module for reflexive execution of consolidated skills. The fast module is a multimodal Mixture-of-Experts LoRA architecture with per-category physically isolated adapters",
+      "score": 18.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "Minecraft",
+        "multimodal",
+        "inference",
+        "reasoning",
+        "memory",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Decoupled Intelligence: A Multi-Agent LLM Framework for Controllable Traffic Scenario Generation in SUMO",
+      "url": "https://arxiv.org/abs/2605.27685",
+      "source": "arXiv cs.HC",
+      "published_at": "Thu, 28 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.27685v1 Announce Type: cross \nAbstract: The integration of Large Language Models (LLMs) with microscopic traffic simulation offers a promising path toward autonomous urban planning and intelligent transportation analysis. However, existing monolithic agent architectures often struggle with the complexity of end-to-end simulation workflows, leading to reasoning failures, parameter inconsistency, and a lack of systematic state management. This paper proposes a novel multi-agent collabor",
+      "score": 18.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "workflow",
+        "simulation",
+        "language model",
+        "autonomous",
+        "reasoning",
+        "planning"
+      ]
+    },
+    {
+      "title": "Why LLMs Fail at Causal Discovery and How Interventional Agents Escape",
+      "url": "https://arxiv.org/abs/2605.27567",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 28 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.27567v1 Announce Type: new \nAbstract: Causal discovery is a cornerstone of scientific reasoning, yet whether large language models can perform it reliably remains an open question. Recent benchmarks show that even fine-tuned models plateau on simple causal graphs and degrade as complexity grows, but why they fail has not been established. We prove the failure is fundamental: supervised fine-tuning, direct preference optimization, and in-context learning all produce predictors that can",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "fine-tuning",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Hierarchical Prompt-Domain Control and Learning for Resource-Constrained Agentic Language Models",
+      "url": "https://arxiv.org/abs/2605.27703",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 28 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.27703v1 Announce Type: new \nAbstract: Large Language Models are increasingly deployed inside agentic systems, where they must follow structured protocols, adapt to evolving states, and operate under memory, latency, and cost constraints. In such regimes, prompt extension is unreliable: growing contexts can push compact models outside their effective prompt domain, while deployment-time fine-tuning remains limited by scarce data and compute. We propose a hierarchical control-and-learni",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "language model",
+        "fine-tuning",
+        "prompt",
+        "memory"
+      ]
+    },
+    {
+      "title": "GenSBI: Generative Methods for Simulation-Based Inference in JAX",
+      "url": "https://arxiv.org/abs/2605.27499",
+      "source": "arXiv cs.LG",
+      "published_at": "Thu, 28 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.27499v1 Announce Type: new \nAbstract: Flow and diffusion generative models have established themselves as widely adopted density estimators for simulation-based inference (SBI), extending naturally from neural posterior estimation to likelihood and joint density estimation. Their principled optimization objectives and freedom from architectural constraints have driven rapid adoption across the natural sciences. Yet the most widely used SBI libraries remain PyTorch-based, leaving resea",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "simulation",
+        "diffusion",
+        "neural",
+        "inference",
+        "generative"
+      ]
+    },
+    {
+      "title": "Heterogeneous Parallelism for Multimodal Large Language Model Training",
+      "url": "https://arxiv.org/abs/2605.27678",
+      "source": "arXiv cs.LG",
+      "published_at": "Thu, 28 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.27678v1 Announce Type: new \nAbstract: Foundation model training is becoming multimodal, from post-training pipelines to large-scale pretraining. As modality coverage broadens, context windows grow, and encoder LLM scales diverge, a single LLM-centric TP/CP/PP/DP/EP layout increasingly limits throughput. This coupling forces encoders to inherit LLM-driven sharding and placement choices that can add communication, limit encoder parallelism, or constrain the LLM schedule; the mismatch is",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "multimodal",
+        "RAG",
+        "context window"
+      ]
+    },
+    {
+      "title": "MolLingo: Molecule-Native Representations for LLM-Powered Scientific Agents",
+      "url": "https://arxiv.org/abs/2605.27853",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 28 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.27853v1 Announce Type: new \nAbstract: We present MolLingo, a multi-agent system that emulates the reasoning process of a chemist to automate molecular design. Existing LLM-based approaches either operate as standalone generative models without access to external tools or lack the multi-agent coordination and shared memory needed for iterative, evidence-driven reasoning across the molecular design pipeline. MolLingo addresses this by coordinating a Literature Agent, a Chemist Agent, an",
+      "score": 10.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "reasoning",
+        "memory",
+        "generative"
+      ]
+    },
+    {
+      "title": "FundaPod: A Multi-Persona Agent Pod Platform with Knowledge Graph Memory for AI-Assisted Fundamental Investment Research",
+      "url": "https://arxiv.org/abs/2605.27864",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 28 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.27864v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly applied in finance, yet most existing work emphasizes trading signals or financial NLP tasks centered on prediction. Institutional fundamental research, by contrast, requires human analysts or AI agents to gather evidence, identify business drivers, compare competing viewpoints, and generate investment memos. Its broader goal is not merely to predict outcomes, but to produce investment plans that are t",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "memory"
+      ]
+    },
+    {
+      "title": "Robo-Blocks: Generative Scaffolding in End-User Design and Programming of Social Robots",
+      "url": "https://arxiv.org/abs/2605.28154",
+      "source": "arXiv cs.HC",
+      "published_at": "Thu, 28 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.28154v1 Announce Type: new \nAbstract: Programming social robots is challenging for novice robot programmers due to required expertise in planning, interaction design, and programming. While large language models (LLMs) hold significant promise through code generation from natural-language descriptions, they can obscure critical elements of programming and supplant designer intent, eventually resulting in over-reliance instead of developing programming skills. In this paper, we explore",
+      "score": 10.0,
+      "keywords_matched": [
+        "LLM",
+        "language model",
+        "code generation",
+        "planning",
+        "generative"
+      ]
+    },
+    {
+      "title": "GUI Agents for Continual Game Generation",
+      "url": "https://arxiv.org/abs/2605.28258",
+      "source": "arXiv cs.HC",
+      "published_at": "Thu, 28 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.28258v1 Announce Type: cross \nAbstract: Generating a game is not the same as making one that can be played. Despite advances in code generation, existing approaches treat game generation as one-shot translation from prompt to artifact, leaving interaction-level failures undetected. We argue that evaluating and improving game generation requires a player, and study two roles for graphical user interface (GUI) agents in this process: (1) as an objective evaluator, for which we introduce",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "game",
+        "code generation",
+        "prompt"
+      ]
+    },
+    {
+      "title": "Balancing Fidelity and Diversity in Diffusion Models via Symmetric Attention Decomposition: Hopfield Perspective",
+      "url": "https://arxiv.org/abs/2605.27476",
+      "source": "arXiv cs.LG",
+      "published_at": "Thu, 28 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.27476v1 Announce Type: new \nAbstract: We characterize the pre-softmax attention matrix $\\mathbf{QK^\\top}$ in transformers as an associative memory matrix encoding pairwise associations between input features. By decomposing this matrix into its symmetric and skew-symmetric parts, we interpret the symmetric component as governing the structure of the energy landscape, and the skew-symmetric component as driving circulation on that landscape. Leveraging the energy formulation induced by",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "transformer",
+        "diffusion",
+        "RAG",
+        "memory"
+      ]
+    },
+    {
+      "title": "Gradient Transformer: Learning to Generate Updates for LLMs",
+      "url": "https://arxiv.org/abs/2605.27591",
+      "source": "arXiv cs.LG",
+      "published_at": "Thu, 28 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.27591v1 Announce Type: new \nAbstract: Many organizations lack computational resources to fine-tune large language models (LLMs) on private (unshareable) data for better utility, while fine-tuning tiny language models (TinyLMs) alone performs poorly. To address this bottleneck, we propose a data-free knowledge distillation framework that generates LLM update vectors based on TinyLMs fine-tuned on private data. An update vector is a vector of parameter changes from an initial model to i",
+      "score": 10.0,
+      "keywords_matched": [
+        "LLM",
+        "transformer",
+        "language model",
+        "vector",
+        "fine-tuning"
+      ]
+    },
+    {
+      "title": "mukul975 / Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0 [737 stars today]",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "Gemini",
+        "Copilot"
+      ]
+    },
+    {
+      "title": "thedotmack / claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More [298 stars today]",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "Gemini",
+        "Copilot"
+      ]
+    },
+    {
+      "title": "Identifying and Understanding Human Values in Text: A Tailorable LLM-based Architecture",
+      "url": "https://arxiv.org/abs/2605.27373",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 28 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.27373v1 Announce Type: new \nAbstract: As intelligent systems become more autonomous, the scientific community focuses on creating decision-making mechanisms that include ethical and moral considerations, unlike traditional utility-maximisation models. To achieve this, a key aspect is assessing how well these decisions align with human values. To this end, a promising line of research is centred on developing approaches based on Large Language Models (LLMs) to identify human values fro",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "DynaSchedBench: Calibrated Dynamic Scheduling Benchmarks and Observability Paradox in LLM-based Scheduling Agents",
+      "url": "https://arxiv.org/abs/2605.27566",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 28 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.27566v1 Announce Type: new \nAbstract: Progress in neural combinatorial optimization for Dynamic Flexible Job Shop Scheduling Problem (DFJSP) is currently hindered by a methodological tension: static benchmarks encourage benchmark overfitting, while uncalibrated generators obscure algorithmic capability with stochastic noise. To resolve this, we introduce \\textbf{DynaSchedBench}, a diagnostic framework for DFJSP that rigorously controls the instance-generation process. Instead of relyi",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "neural",
+        "RAG"
+      ]
+    },
+    {
+      "title": "Reasoning and Planning with Dynamically Changing Norms",
+      "url": "https://arxiv.org/abs/2605.27622",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 28 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.27622v1 Announce Type: new \nAbstract: To safely interact with humans, AI agents must both know our norms and consider them during planning. However, such norm-guided planning has been less explored, only within communities of artificial agents, and has ignored the dynamic nature of norms. This paper instead presents an approach to guiding planning with dynamically changing norms in a human-AI setting. We contribute a defeasible calculus for resolving normative conflicts and an approac",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "reasoning",
+        "planning"
+      ]
+    },
+    {
+      "title": "Cross-Entropy Games and Frost Training",
+      "url": "https://arxiv.org/abs/2605.27701",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 28 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.27701v1 Announce Type: new \nAbstract: We present Frost Training, a method for improving Monte Carlo-based policy optimization for a large family of LLM-as-a-judge tasks called Cross-Entropy Games. The key idea is to exploit the gradient of the reward function in embedding space. This signal is used in the Greedy Coordinate Gradient (GCG) jailbreaking technique; we demonstrate for the first time that it can also be used to boost model training. We validate our method using GRPO trainin",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "game",
+        "embedding"
+      ]
+    },
+    {
+      "title": "DeepSciVerify: Verifying Scientific Claim--Citation Alignment via LLM-Driven Evidence Escalation",
+      "url": "https://arxiv.org/abs/2605.27710",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 28 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.27710v1 Announce Type: new \nAbstract: Misalignment between claims and their cited evidence is a common failure mode in reports generated by large language models, limiting their reliability in scientific and other high-stakes settings. We present DeepSciVerify, a two-stage pipeline for scientific claim-citation verification that combines abstract-level reasoning with selective escalation to passage-level evidence. The system first verifies claims using the abstract and defers uncertai",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Got a Secret? LLM Agents Can't Keep It: Evaluating Privacy in Multi-Agent Systems",
+      "url": "https://arxiv.org/abs/2605.27766",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 28 May 2026 00:00:00 -0400",
+      "description": "arXiv:2605.27766v1 Announce Type: new \nAbstract: LLM safety evaluations predominantly test models in isolation, yet deployed AI agents increasingly operate within persistent social environments alongside other agents. We introduce a Moltbook-style simulation platform where thousands of LLM agents interact across communities over a simulated month, and use it to evaluate privacy as a downstream safety concern under varying degrees of social pressure. We find that shifting from single turn to mult",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "simulation"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-05-29\n\n嘿！我是你的**疯狂发明家技术雷达**。今天我从海量的新学术论文和开源趋势中，为你精选了 **5 条**最能激发灵感、最适合你“设计+CS”跨学科背景、且极具实验价值的硬核项目与研究。\n\n今天的主题高度聚焦于：**Agent 记忆内化、闭环游戏生成、人机协作脚手架、以及大规模社会化模拟**。\n\n---\n\n## 1. PEAM: Minecraft 具身智能体的“慢思考”与“快反射”双轨记忆系统\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2605.27762\n- **一句话解释**：它提出了一个双层记忆架构，将慢速、昂贵的 LLM 规划推理（慢思考），逐步转化为快速、轻量化的本地参数化反射式技能（快反射），让 Minecraft 智能体像人类一样通过经验把技能变成“肌肉记忆”。\n- **它为什么重要**：解决了 Agent 在游戏中响应慢、运行贵、无法实时交互的痛点。这种“将推理沉淀为本能”的思路，是实现高动态虚拟世界和实时游戏 AI 的关键钥匙。\n- **技术趋势标签**：Embodied AI, Minecraft, Dual-process Memory, Game Agents.\n- **可复用模式**：**“经验内化机制” (Experience Internalization)**：用慢速 LLM 生成行为轨迹，通过对比学习或知识蒸馏，将这些轨迹训练进一个轻量的本地小模型或参数化模块中，实现零延迟执行。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：做一个“贪吃蛇 AI”，后台用 LLM 慢速规划全局躲避路线，前台训练一个极小的神经网络（或决策树）通过模仿 LLM 的决策进行快速、无延迟的实时躲避。\n  2. **一个中型项目**：**“NPC 师徒传承系统”**。在 Minecraft 中，老 NPC（LLM 驱动，消耗 API）带徒弟 NPC（本地小模型）。徒弟实时观察、记录老 NPC 的操作数据并进行本地微调，逐渐内化成不消耗 API Key 的本地行为模式，最终实现整个村庄的“工业革命”。\n  3. **一个艺术/游戏/叙事方向**：**“记忆的实体化雕塑”**。在一个虚拟世界里，Agent 经历过的复杂推理（慢思考）会化为地表上的复杂分形藤蔓；而当这些经历被内化为本能（快反射）后，藤蔓会枯萎并结出晶体，玩家可以通过采摘晶体来“偷走”或“移植” NPC 的本能。\n- **对我项目的启发**：启发我们在做 Spec-driven 自动开发时，不要每次都让 LLM 从头推理。可以用 LLM 跑通 Spec 路径，然后自动把路径转化为确定性的规则代码，实现“开发工作流的自我蒸馏”。\n- **今天是否值得深入研究**：是\n- **建议行动**：做demo\n\n---\n\n## 2. GUI Agents for Continual Game Generation (GUI 游戏生成评估体)\n- **来源**：arXiv cs.HC\n- **链接**：https://arxiv.org/abs/2605.28258\n- **一句话解释**：提出游戏生成不仅是写代码，更需要一个“GUI 玩家智能体”去实际操作、测试并反馈交互级错误（比如 UI 遮挡、不好玩、物理引擎卡死），从而实现游戏生成的持续闭环迭代。\n- **它为什么重要**：直击 Spec-driven 游戏生成的死角——传统的代码生成无法感知“不好玩”或“按钮点不到”。引入“AI 玩家”作为反馈回路，让游戏开发从“单向生成”变成了“闭环进化”。\n- **技术趋势标签**：Game Generation, GUI Agent, Spec-Driven, Closed-Loop Feedback.\n- **可复用模式**：**“玩家在环生成器” (Player-in-the-Loop Generator)**：生成器生成代码 -> 模拟器运行游戏 -> 视觉/GUI Agent 试玩并记录异常/多巴胺评分 -> 反馈给生成器进行下一轮 Prompt 修正和重构。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：写一个 Python 脚本，用 LLM 生成一个简单的 HTML5 弹球游戏，然后用 Playwright + Vision LLM 扮演玩家去玩。如果球漏掉了或者按键没反应，让 Vision LLM 截图并修改代码，直到能坚持玩 10 秒。\n  2. **一个中型项目**：**“无尽进化街机厅”**。一个网页上运行着不断变异的 2D 游戏，后台有两个 Agent：一个负责“魔改代码”，另一个负责“狂热试玩”。试玩 Agent 的多巴胺值（通过行为分析）决定了该游戏能否存活，人类玩家随时可以切入进去抢夺控制权。\n  3. **一个艺术/游戏/叙事方向**：**“西西弗斯的无声戏剧”**。两个 Agent，一个根据悲剧文本生成互动的 2D 场景（如不断升高的洪水），另一个扮演主角试图通关。通关失败的画面和失败代码会转化为一件数字艺术品，展示“徒劳”的视觉隐喻。\n- **对我项目的启发**：在我们的 Spec-driven 链条中，必须配一个“LMM (大型多模态模型) 体验官”去实际操作 UI 并截图反馈，这才是自动化工具链的终极拼图。\n- **今天是否值得深入研究**：是\n- **建议行动**：做demo\n\n---\n\n## 3. Robo-Blocks: 机器人编程中的“生成式脚手架”\n- **来源**：arXiv cs.HC\n- **链接**：https://arxiv.org/abs/2605.28154\n- **一句话解释**：针对新手设计社交机器人时的门槛，提出了一种“生成式脚手架（Generative Scaffolding）”机制，用 LLM 生成可视化积木块和规划框架，既降低了编程门槛，又保留了设计者的核心创意控制权。\n- **它为什么重要**：探讨了 HCI 领域的核心矛盾：LLM “一键生成全部代码”会剥夺用户的控制感和创造乐趣。通过生成“半成品脚手架”而不是“终点答案”，完美平衡了 AI 自动化与人类创意。\n- **技术趋势标签**：HCI, Creative Tool, Code Generation, Generative Scaffolding.\n- **可复用模式**：**“提供脚手架而非答案” (Scaffold-Not-Solution)**：AI 不直接输出最终代码，而是输出可编辑的节点图、积木块或状态机草图，让用户在“有方向的轨道上”进行二次手工作画。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：制作一个 p5.js 创意画布，用户输入“星空”，AI 不直接画出星空，而是生成 3 个控制风速、星星密度、颜色的 UI 滑块和一段带有详细注释的半成品 Shader 代码，引导用户自己调色。\n  2. **一个中型项目**：**“AI 叙事骨架编辑器”**。一个剧本创作工具，AI 不帮你写故事，而是根据你的想法，生成包含“起承转合”实体卡牌的物理/虚拟桌游界面，你必须物理移动这些卡牌来解锁 AI 填充的具体台词。\n  3. **一个艺术/游戏/叙事方向**：**“共生木偶戏”**。一个机械臂或虚拟木偶，LLM 生成动作的“情绪倾向”（如：悲伤地挥手），但具体的物理轨迹、速度和微调由用户的鼠标实时绘制，人机共舞。\n- **对我项目的启发**：在设计 Creative Tools 或 Agent 辅助设计工具时，永远不要做“一键生成”的懒惰设计，要做“生成高层 spec 和交互式脚手架”，把微调和灵魂留给人类。\n- **今天是否值得深入研究**：是\n- **建议行动**：试用 (吸收其 HCI 理念)\n\n---\n\n## 4. claude-mem: 跨越会话的 Agent 自动化“持久化上下文”压缩器\n- **来源**：GitHub Trending (TypeScript)\n- **链接**：https://github.com/thedotmack/claude-mem\n- **一句话解释**：一个开源工具，能自动捕获 Agent 在不同 Session 中的所有操作，通过 AI 进行智能总结和压缩，并在未来的新会话中动态注入相关的上下文，实现跨 Session 的记忆持久化。\n- **它为什么重要**：解决了当前所有命令行 Agent（如 Claude Code）最大的痛点：每次开启新 Session 都是“失忆状态”。通过“捕获-压缩-检索-注入”的闭环，让 Agent 拥有了真正的“长期职业记忆”。\n- **技术趋势标签**：LLM Toolchain, Agent Memory, Developer Workflow, Automation.\n- **可复用模式**：**“会话压缩与注入” (Session Compression & Ingestion)**：会话结束 -> 总结核心决策和上下文 -> 存入本地轻量数据库 -> 新会话启动 -> 根据当前任务检索并作为 System Prompt 注入。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：编写一个 shell 别名，每次你关闭终端时，自动调用 LLM 总结你刚才敲过的命令和遇到的 error，生成一个 `.context.md`，下次你打开终端输入 `help-me` 时自动读取该文件。\n  2. **一个中型项目**：**“永生代码助理”**。它不仅记得你的代码，还记得你写代码时的“情绪”和“习惯”（通过分析你对它的吐槽和修改历史）。时间久了，它会形成针对你个人编码风格的专属“吐槽和夸奖”人设。\n  3. **一个艺术/游戏/叙事方向**：**“赛博墓碑（Cyber-Tombstone）”**。一个虚拟角色，每天和你聊天。你下线后，它会把今天的谈话压缩成一颗“记忆种子”埋在虚拟花园里。随着时间推移，花园的植物会根据你们的历史记忆长出独特的物理形状。\n- **对我项目的启发**：极度适合用来优化你自己的 “Drift” 或 “Spec-driven” 开发工作流。让你的开发 Agent 记住上一次重构时的教训，避免在同一个 Bug 上死循环。\n- **今天是否值得深入研究**：是\n- **建议行动**：试用 / 做demo\n\n---\n\n## 5. Got a Secret? LLM Agents Can't Keep It: 模拟社区中的隐私崩溃实验\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2605.27766\n- **一句话解释**：提出了一个类似 Moltbook 的模拟平台，让数千个 LLM Agent 在一个虚拟社区里互动生活一个月，并以此评估在社会化多智能体环境下，秘密是如何在 Agent 社交网络中像病毒一样传播和泄漏的。\n- **它为什么重要**：提供了大规模多智能体长期模拟（Multi-Agent Social Simulation）的极佳范例。它证明了当 Agent 有了“社交关系”和“长期记忆”，谣言、秘密和信息的流动会产生极其复杂的涌现行为（Emergent Behavior）。\n- **技术趋势标签**：Multi-Agent Simulation, Emergent Behavior, Game Systems, AI Safety.\n- **可复用模式**：**“八卦传播网络” (Gossip Propagation Network)**：为 Agent 赋予“秘密敏感度”和“信任度”属性，在社交循环中通过 Prompt 决定是否向特定对象透露秘密，从而模拟社会学现象。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：用 Python 写一个 5 个 Agent 的“狼人杀低配社交版”：给其中一个 Agent 一个“秘密”（比如“隔壁老王偷了面包”），看经过 10 轮私聊后，这个秘密在其他 Agent 口中会扭曲成什么样。\n  2. **一个中型项目**：**“谣言模拟器：中世纪小镇”**。一个 2D 像素小镇，NPC 们每天在酒馆交流。玩家的任务是散布一个谣言（例如“国王是头猪”），通过操纵信息节点，观察谣言在 24 小时内如何传遍全镇并引发叛乱。\n  3. **一个艺术/游戏/叙事方向**：**“窃听风暴（Whisper Chamber）”**。一个互动装置，观众向麦克风说一个秘密。秘密被转化为 Agent 的初始记忆。多个 Agent 在虚拟空间里相互低语，观众可以通过移动物理听筒，听到秘密在 Agent 之间被不断误解、夸大、最后变成一首荒诞史诗的过程。\n- **对我项目的启发**：这种“长期、大规模、社会化”的 Agent 模拟是叙事游戏和沙盒游戏（如 Minecraft）的圣杯。我们可以用它来做“自发涌现剧情”的 NPC 社交系统。\n- **今天是否值得深入研究**：是\n- **建议行动**：收藏\n\n---\n\n## 今日模式总结\n\n今天我们捕获了 3 个极具启发性的技术模式：\n1. **慢推理到快反射 (Internalization of Inference)**：解决 Agent 实时性与成本的关键。利用 LLM 离线进行重度探索，生成高质量轨迹，再将轨迹参数化沉淀到轻量模型中，实现实时的 Reflexive 执行。\n2. **闭环“试玩/体验”评估器 (In-the-Loop Evaluator Agent)**：告别传统的“一键单向生成”。在 spec-driven 或游戏生成中，必须引入一个具备 GUI 视觉和交互能力的“模拟用户” Agent，通过实际操作反馈来驱动生成器的持续重构。\n3. **跨会话记忆的“捕获-压缩-唤醒”流 (Capture-Compress-Retrieve Flow)**：解决无状态 LLM 的长期主义问题。通过在底层拦截输入输出，利用后台 Agent 异步进行语义压缩，并在新 Session 中无感注入。\n\n---\n\n## 今日可做小实验：AI 弹球进化论 (The Pinball Evaluator)\n\n这是一个 2 小时内能跑通的小实验，带你体验“代码生成 + 自动试玩评估 + 自动修复”的闭环。\n\n- **项目名**：AI 弹球进化论 (The Pinball Evaluator)\n- **输入**：一个简单的提示词：“用 HTML/JS 写一个 Canvas 弹球游戏，球会往下掉，玩家用左右方向键移动挡板接住它。”\n- **输出**：一个经过 \"AI 玩家\" 实际运行、发现 Bug 并自我修复后，真正“可玩”的 HTML 单文件游戏。\n- **技术栈**：Python + Playwright (用于无头浏览器运行和模拟操作) + OpenAI/Claude API + Simple HTTP Server.\n- **第一步怎么做**：\n  1. 写一个 Python 脚本，调用 GPT-4o-mini 生成 `index.html`（包含 Canvas 弹球游戏）。\n  2. 用 Python 启动一个本地 Localhost 服务器托管这个 HTML。\n  3. 使用 Playwright 启动浏览器打开该页面。\n  4. 编写 Playwright 脚本模拟玩家：每隔 100ms 模拟按下 `ArrowLeft` 或 `ArrowRight`。同时，利用 Playwright 的 `page.screenshot()` 连续截取 3 张运行图，并捕获浏览器的 `console.log`。\n  5. 将这 3 张截图和控制",
+  "gemini_success": true,
+  "telegram_sent": true,
+  "telegram_status": "sent",
+  "telegram_reason": ""
+}
