@@ -1,0 +1,233 @@
+[
+  {
+    "title": "anthropics / claude-code",
+    "url": "https://github.com/anthropics/claude-code",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. [592 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "workflow"
+    ]
+  },
+  {
+    "title": "affaan-m / ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. [908 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "agent",
+      "Claude",
+      "memory"
+    ]
+  },
+  {
+    "title": "The California state assembly has passed the 'Protect Our Games Act'",
+    "url": "https://www.invenglobal.com/articles/22330/stop-killing-games-movement-gains-momentum-california-assembly-passes-game-protection-bill",
+    "source": "Hacker News Best",
+    "published_at": "Fri, 29 May 2026 19:55:56 +0000",
+    "description": "Article URL: https://www.invenglobal.com/articles/22330/stop-killing-games-movement-gains-momentum-california-assembly-passes-game-protection-bill Comments URL: https://news.ycombinator.com/item?id=48328365 Points: 248 # Comments: 259",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "game"
+    ]
+  },
+  {
+    "title": "harry0703 / MoneyPrinterTurbo",
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. [2,768 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "LLM"
+    ]
+  },
+  {
+    "title": "apache / airflow",
+    "url": "https://github.com/apache/airflow",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows [11 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "workflow"
+    ]
+  },
+  {
+    "title": "anomalyco / opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "The open source coding agent. [379 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "agent",
+      "open source"
+    ]
+  },
+  {
+    "title": "RealKai42 / qwerty-learner",
+    "url": "https://github.com/RealKai42/qwerty-learner",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers [61 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "memory"
+    ]
+  },
+  {
+    "title": "FareedKhan-dev / train-llm-from-scratch",
+    "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "A straightforward method for training your LLM, from downloading data to generating text. [327 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "LLM"
+    ]
+  },
+  {
+    "title": "Anyone can build a platform now. Almost nobody can get people to find it",
+    "url": "https://claudefolio.com/blog/anyone-can-build-a-platform-now-almost-nobody-can-get-people-to-find-it",
+    "source": "Hacker News",
+    "published_at": "Sun, 31 May 2026 00:55:17 +0000",
+    "description": "Article URL: https://claudefolio.com/blog/anyone-can-build-a-platform-now-almost-nobody-can-get-people-to-find-it Comments URL: https://news.ycombinator.com/item?id=48342097 Points: 12 # Comments: 0",
+    "score": 2.0,
+    "keywords_matched": [
+      "Claude"
+    ]
+  },
+  {
+    "title": "Domain expertise has always been the real moat",
+    "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
+    "source": "Hacker News",
+    "published_at": "Sat, 30 May 2026 20:40:57 +0000",
+    "description": "Article URL: https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/ Comments URL: https://news.ycombinator.com/item?id=48340411 Points: 267 # Comments: 170",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  },
+  {
+    "title": "EY Canada published a cybersecurity report and most citations were hallucinated",
+    "url": "https://gptzero.me/investigations/ey",
+    "source": "Hacker News Best",
+    "published_at": "Sat, 30 May 2026 19:02:54 +0000",
+    "description": "Article URL: https://gptzero.me/investigations/ey Comments URL: https://news.ycombinator.com/item?id=48339580 Points: 270 # Comments: 126",
+    "score": 2.0,
+    "keywords_matched": [
+      "GPT"
+    ]
+  },
+  {
+    "title": "Anthropic surpasses OpenAI to become most valuable AI startup",
+    "url": "https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup",
+    "source": "Hacker News Best",
+    "published_at": "Sat, 30 May 2026 13:56:34 +0000",
+    "description": "Article URL: https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup Comments URL: https://news.ycombinator.com/item?id=48336233 Points: 387 # Comments: 442",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  },
+  {
+    "title": "Proposed new US funding rules: We can cancel any grant at any time",
+    "url": "https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/",
+    "source": "Hacker News Best",
+    "published_at": "Sat, 30 May 2026 11:41:29 +0000",
+    "description": "Article URL: https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/ Comments URL: https://news.ycombinator.com/item?id=48335135 Points: 311 # Comments: 3",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  },
+  {
+    "title": "SQLite is all you need for durable workflows",
+    "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
+    "source": "Hacker News Best",
+    "published_at": "Fri, 29 May 2026 17:54:50 +0000",
+    "description": "Article URL: https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/ Comments URL: https://news.ycombinator.com/item?id=48326802 Points: 673 # Comments: 371",
+    "score": 2.0,
+    "keywords_matched": [
+      "workflow"
+    ]
+  },
+  {
+    "title": "Notes from the Mistral AI Now Summit",
+    "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+    "source": "Hacker News Best",
+    "published_at": "Fri, 29 May 2026 16:22:01 +0000",
+    "description": "Article URL: https://koenvangilst.nl/lab/mistral-ai-now-summit Comments URL: https://news.ycombinator.com/item?id=48325340 Points: 453 # Comments: 200",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  },
+  {
+    "title": "GTA 6 Developers Unionize",
+    "url": "https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/",
+    "source": "Hacker News Best",
+    "published_at": "Fri, 29 May 2026 15:32:55 +0000",
+    "description": "Article URL: https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/ Comments URL: https://news.ycombinator.com/item?id=48324499 Points: 725 # Comments: 504",
+    "score": 2.0,
+    "keywords_matched": [
+      "game"
+    ]
+  },
+  {
+    "title": "Please Use AI",
+    "url": "https://shawnsmucker.substack.com/p/please-use-ai",
+    "source": "Hacker News Best",
+    "published_at": "Fri, 29 May 2026 13:50:25 +0000",
+    "description": "Article URL: https://shawnsmucker.substack.com/p/please-use-ai Comments URL: https://news.ycombinator.com/item?id=48323101 Points: 762 # Comments: 389",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  },
+  {
+    "title": "Is AI causing a repeat of frontend’s lost decade?",
+    "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
+    "source": "Hacker News Best",
+    "published_at": "Fri, 29 May 2026 11:09:32 +0000",
+    "description": "Article URL: https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/ Comments URL: https://news.ycombinator.com/item?id=48321631 Points: 396 # Comments: 327",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  },
+  {
+    "title": "Claude Code – Everything you can configure that the docs don't tell you",
+    "url": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
+    "source": "Hacker News Best",
+    "published_at": "Fri, 29 May 2026 02:13:20 +0000",
+    "description": "Article URL: https://buildingbetter.tech/p/i-read-the-claude-code-source-code Comments URL: https://news.ycombinator.com/item?id=48318174 Points: 325 # Comments: 64",
+    "score": 2.0,
+    "keywords_matched": [
+      "Claude"
+    ]
+  },
+  {
+    "title": "galilai-group / stable-worldmodel",
+    "url": "https://github.com/galilai-group/stable-worldmodel",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "A platform for reproducible world model research and evaluation [318 stars today]",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  }
+]

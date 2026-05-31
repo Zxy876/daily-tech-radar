@@ -1,0 +1,241 @@
+{
+  "date": "2026-05-31",
+  "candidates": [
+    {
+      "title": "anthropics / claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. [592 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "workflow"
+      ]
+    },
+    {
+      "title": "affaan-m / ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. [908 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "agent",
+        "Claude",
+        "memory"
+      ]
+    },
+    {
+      "title": "The California state assembly has passed the 'Protect Our Games Act'",
+      "url": "https://www.invenglobal.com/articles/22330/stop-killing-games-movement-gains-momentum-california-assembly-passes-game-protection-bill",
+      "source": "Hacker News Best",
+      "published_at": "Fri, 29 May 2026 19:55:56 +0000",
+      "description": "Article URL: https://www.invenglobal.com/articles/22330/stop-killing-games-movement-gains-momentum-california-assembly-passes-game-protection-bill Comments URL: https://news.ycombinator.com/item?id=48328365 Points: 248 # Comments: 259",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "game"
+      ]
+    },
+    {
+      "title": "harry0703 / MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. [2,768 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "title": "apache / airflow",
+      "url": "https://github.com/apache/airflow",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows [11 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "workflow"
+      ]
+    },
+    {
+      "title": "anomalyco / opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "The open source coding agent. [379 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "agent",
+        "open source"
+      ]
+    },
+    {
+      "title": "RealKai42 / qwerty-learner",
+      "url": "https://github.com/RealKai42/qwerty-learner",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers [61 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "memory"
+      ]
+    },
+    {
+      "title": "FareedKhan-dev / train-llm-from-scratch",
+      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "A straightforward method for training your LLM, from downloading data to generating text. [327 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "title": "Anyone can build a platform now. Almost nobody can get people to find it",
+      "url": "https://claudefolio.com/blog/anyone-can-build-a-platform-now-almost-nobody-can-get-people-to-find-it",
+      "source": "Hacker News",
+      "published_at": "Sun, 31 May 2026 00:55:17 +0000",
+      "description": "Article URL: https://claudefolio.com/blog/anyone-can-build-a-platform-now-almost-nobody-can-get-people-to-find-it Comments URL: https://news.ycombinator.com/item?id=48342097 Points: 12 # Comments: 0",
+      "score": 2.0,
+      "keywords_matched": [
+        "Claude"
+      ]
+    },
+    {
+      "title": "Domain expertise has always been the real moat",
+      "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
+      "source": "Hacker News",
+      "published_at": "Sat, 30 May 2026 20:40:57 +0000",
+      "description": "Article URL: https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/ Comments URL: https://news.ycombinator.com/item?id=48340411 Points: 267 # Comments: 170",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    },
+    {
+      "title": "EY Canada published a cybersecurity report and most citations were hallucinated",
+      "url": "https://gptzero.me/investigations/ey",
+      "source": "Hacker News Best",
+      "published_at": "Sat, 30 May 2026 19:02:54 +0000",
+      "description": "Article URL: https://gptzero.me/investigations/ey Comments URL: https://news.ycombinator.com/item?id=48339580 Points: 270 # Comments: 126",
+      "score": 2.0,
+      "keywords_matched": [
+        "GPT"
+      ]
+    },
+    {
+      "title": "Anthropic surpasses OpenAI to become most valuable AI startup",
+      "url": "https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup",
+      "source": "Hacker News Best",
+      "published_at": "Sat, 30 May 2026 13:56:34 +0000",
+      "description": "Article URL: https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup Comments URL: https://news.ycombinator.com/item?id=48336233 Points: 387 # Comments: 442",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Proposed new US funding rules: We can cancel any grant at any time",
+      "url": "https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/",
+      "source": "Hacker News Best",
+      "published_at": "Sat, 30 May 2026 11:41:29 +0000",
+      "description": "Article URL: https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/ Comments URL: https://news.ycombinator.com/item?id=48335135 Points: 311 # Comments: 3",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    },
+    {
+      "title": "SQLite is all you need for durable workflows",
+      "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
+      "source": "Hacker News Best",
+      "published_at": "Fri, 29 May 2026 17:54:50 +0000",
+      "description": "Article URL: https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/ Comments URL: https://news.ycombinator.com/item?id=48326802 Points: 673 # Comments: 371",
+      "score": 2.0,
+      "keywords_matched": [
+        "workflow"
+      ]
+    },
+    {
+      "title": "Notes from the Mistral AI Now Summit",
+      "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+      "source": "Hacker News Best",
+      "published_at": "Fri, 29 May 2026 16:22:01 +0000",
+      "description": "Article URL: https://koenvangilst.nl/lab/mistral-ai-now-summit Comments URL: https://news.ycombinator.com/item?id=48325340 Points: 453 # Comments: 200",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    },
+    {
+      "title": "GTA 6 Developers Unionize",
+      "url": "https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/",
+      "source": "Hacker News Best",
+      "published_at": "Fri, 29 May 2026 15:32:55 +0000",
+      "description": "Article URL: https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/ Comments URL: https://news.ycombinator.com/item?id=48324499 Points: 725 # Comments: 504",
+      "score": 2.0,
+      "keywords_matched": [
+        "game"
+      ]
+    },
+    {
+      "title": "Please Use AI",
+      "url": "https://shawnsmucker.substack.com/p/please-use-ai",
+      "source": "Hacker News Best",
+      "published_at": "Fri, 29 May 2026 13:50:25 +0000",
+      "description": "Article URL: https://shawnsmucker.substack.com/p/please-use-ai Comments URL: https://news.ycombinator.com/item?id=48323101 Points: 762 # Comments: 389",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Is AI causing a repeat of frontend’s lost decade?",
+      "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
+      "source": "Hacker News Best",
+      "published_at": "Fri, 29 May 2026 11:09:32 +0000",
+      "description": "Article URL: https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/ Comments URL: https://news.ycombinator.com/item?id=48321631 Points: 396 # Comments: 327",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Claude Code – Everything you can configure that the docs don't tell you",
+      "url": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
+      "source": "Hacker News Best",
+      "published_at": "Fri, 29 May 2026 02:13:20 +0000",
+      "description": "Article URL: https://buildingbetter.tech/p/i-read-the-claude-code-source-code Comments URL: https://news.ycombinator.com/item?id=48318174 Points: 325 # Comments: 64",
+      "score": 2.0,
+      "keywords_matched": [
+        "Claude"
+      ]
+    },
+    {
+      "title": "galilai-group / stable-worldmodel",
+      "url": "https://github.com/galilai-group/stable-worldmodel",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "A platform for reproducible world model research and evaluation [318 stars today]",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-05-31\n\n嘿！我是你的**疯狂发明家技术雷达**。今天我从海量线索中为你筛选了 **4 条**最能激发灵感、最适合动手折腾的硬核项目与趋势。\n\n今天的主题非常明确：**AI 正在从“对话框”里走出来，直接接管我们的终端、本地文件系统和生存状态。**\n\n---\n\n## 1. Claude Code (Anthropic 官方终端智能体)\n- **来源**：GitHub Trending / Hacker News\n- **链接**：https://github.com/anthropics/claude-code\n- **一句话解释**：Anthropic 官方推出的、活在终端里的 Agent 编码工具，能直接理解你的代码库，执行复杂的重构、运行测试、管理 Git 工作流。\n- **它为什么重要**：它标志着 AI 辅助编程从“编辑器补全（Cursor/Copilot）”时代正式迈向“自主终端代理（Terminal Agent）”时代。它拥有极高的 Shell 执行权限和自我纠错能力，是研究 **Spec-driven development**（声明式/规约驱动开发）的终极实验场。\n- **技术趋势标签**：`AI Agent` / `CLI-HCI` / `LLM Toolchain` / `Spec-Driven`\n- **可复用模式**：**终端即接口（Terminal-as-UI）**。让 Agent 拥有完整的 Bash 执行权、文件读写权和测试反馈循环，形成闭环的“自我修正（Self-Correction）”网络。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：写一个物理外设（如用 ESP32 控制的 NeoPixel 灯带），读取 Claude Code 的运行日志。当它在终端里“思考”、“运行测试”、“报错”、“修复”时，灯带实时切换不同的呼吸律动和颜色，让 Agent 的思考过程物理可视化。\n  2. **一个中型项目**：**Spec-to-App 自动编译器**。你只写一个 Markdown 格式的设计规范（Spec），脚本检测到更新后，自动唤醒 Claude Code，让它在后台默默把代码写完、跑通测试、提交 Git，你全程只需刷新浏览器看结果。\n  3. **一个艺术/游戏/叙事方向**：**“无尽自毁代码游戏”**。一个运行在本地的网页游戏，其核心逻辑由 Claude Code 实时维护。玩家通过输入文字改变游戏规则，Claude Code 会在终端里实时重构游戏代码并热重载。如果它重构失败导致崩溃，游戏世界就会发生“地震”或“湮灭”。\n- **对我项目的启发**：极其启发 Spec-driven 开发。我们可以把“设计规范”直接作为编译器的输入，让这类 CLI Agent 充当底层的编译器。\n- **今天是否值得深入研究**：是\n- **建议行动**：做demo（立刻安装，并在你目前的一个小玩具项目上试用它）。\n\n---\n\n## 2. ECC (Agent 认知与记忆装甲)\n- **来源**：GitHub Trending\n- **链接**：https://github.com/affaan-m/ECC\n- **一句话解释**：一个专为 Claude Code、Cursor 等编程智能体设计的性能优化与“装甲”系统，为它们注入持久记忆、本能（Instincts）、技能库和安全防护。\n- **它为什么重要**：现在的 Agent 最大的痛点是“健忘”和“无纪律”。ECC 通过在底层构建认知架构（Cognitive Architecture），让 AI 拥有了“本能反应”和“长期记忆”，这正是构建复杂游戏 NPC 或自动化流水线急需的底层技术。\n- **技术趋势标签**：`Agent Memory` / `Cognitive Architecture` / `HCI`\n- **可复用模式**：**认知外挂（Cognitive Harnessing）**。将大模型的“推理能力”与“行为本能/长期记忆”解耦，通过外部向量库和硬编码规则规范 Agent 的行为边界。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：为你的 p5.js 艺术创作库写一个“审美本能文件”（Instinct File），强制任何接入的 AI Agent 在生成视觉代码时，必须遵守某种特定美学（如“极简主义”、“赛博朋克”或“包豪斯”）。\n  2. **一个中型项目**：**“艺术家数字孪生”助手**。利用 ECC 架构，将你过去的艺术设计作品、灵感随笔、常用配色做成“记忆体”。当你用 AI 辅助创作时，这个助手会像“另一个你”一样，用你一贯的直觉给你提建议。\n  3. **一个艺术/游戏/叙事方向**：**“有脾气”的 Minecraft 居民**。利用 ECC 的记忆与本能系统，让 Minecraft 里的 NPC 不仅能记住玩家对他们的好坏，还会根据“生存本能”自主决定是否搬家、甚至联合其他 NPC 抵制恶霸玩家。\n- **对我项目的启发**：在做 Agent 流程时，不要只写 System Prompt。我们需要像 ECC 一样，为 Agent 建立结构化的“本能（Instincts）”和“记忆（Memory）”数据库。\n- **今天是否值得深入研究**：是\n- **建议行动**：试用（阅读其源码，看它如何优雅地组织 Agent 的“本能”与“记忆”）。\n\n---\n\n## 3. Stable-Worldmodel (稳定世界模型平台)\n- **来源**：GitHub Trending\n- **链接**：https://github.com/galilai-group/stable-worldmodel\n- **一句话解释**：一个用于研究和评估“可复现世界模型（World Models）”的开放平台，让 AI 学会模拟物理环境和游戏世界。\n- **它为什么重要**：传统的游戏生成是基于规则或噪点的，而“世界模型”让 AI 能够像人类一样，通过观察预测“下一步会发生什么”。这是通往真正“生成式游戏系统（Generative Game Systems）”和“神经网络游戏引擎”的钥匙。\n- **技术趋势标签**：`World Model` / `Game Systems` / `Generative AI` / `Minecraft`\n- **可复用模式**：**动作-状态-预测闭环（Action-State-Prediction Loop）**。用神经网络取代传统的物理引擎，让世界根据玩家的动作进行“幻觉式”的演进。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：训练一个极小的世界模型来模拟康威生命游戏（Game of Life），让 AI 代理在这个“被神经网络幻觉出来”的生命游戏世界里生存。\n  2. **一个中型项目**：**“梦境地形生成器”**。在 Minecraft 中，地形不再由 Noise 函数生成，而是由一个简化的世界模型根据玩家的“心跳/移动速度”（模拟数据）实时预测生成。玩家走得越快，世界崩解或重组得越疯狂。\n  3. **一个艺术/游戏/叙事方向**：**“交互式幻觉画廊”**。用摄像头捕捉展厅里观众的动作，输入到一个实时世界模型中。投影仪将世界模型预测的“平行宇宙画廊”投射在墙上，观众的每一个微小动作都会引发画廊物理规则的剧烈扭曲。\n- **对我项目的启发**：世界生成（World Gen）不一定非要用复杂的算法，用“预测模型”来做状态转移，能创造出极具梦幻感、超现实的游戏体验。\n- **今天是否值得深入研究**：是（概念极其超前）\n- **建议行动**：收藏（作为生成式世界、Minecraft 生成方向的硬核技术储备）。\n\n---\n\n## 4. SQLite is all you need for durable workflows (本地优先的持久化工作流)\n- **来源**：Hacker News Best\n- **链接**：https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/\n- **一句话解释**：一篇文章硬核展示了如何不用任何重型云端工具（如 Temporal、Airflow），仅用本地的 SQLite 数据库，就能构建出极其强健、抗崩溃、可中断恢复的 Agent 自动化工作流。\n- **它为什么重要**：作为独立开发者和艺术家，我们讨厌复杂的云端架构。AI Agent 运行慢且容易中断，使用本地 SQLite 作为状态机，能让我们以最轻量、最优雅的方式，做出“断电也不怕”的本地自动化系统。\n- **技术趋势标签**：`Local-First` / `Durable Execution` / `LLM Toolchain` / `Automation`\n- **可复用模式**：**数据库即状态机（Database-as-State-Machine）**。每一次 Agent 的调用、生成、工具执行，都原子化地记录在本地 SQLite 中，随时可重试、回滚、审计。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：写一个“绝对不会死”的批量 AI 图像生成脚本。用 SQLite 记录每张图的生成状态。哪怕你在生成到第 50 张时电脑断网、断电，重新开机后一键就能完美断点续传。\n  2. **一个中型项目**：**“本地创意生产线 OS”**。一个完全运行在本地的创意 Agent 编排系统。Agent A 写大纲，Agent B 生成代码，Agent C 渲染。所有 Agent 之间的接力、资产传递、错误重试，全部由一个本地 SQLite 数据库驱动，无缝且极速。\n  3. **一个艺术/游戏/叙事方向**：**“永远不会遗忘的叙事沙盒”**。一个由 AI 驱动的文字冒险游戏，玩家的每一个选择、NPC 的每一次闲聊、世界的每一片落叶，都通过 SQLite 进行严格的事务级持久化。游戏可以随时“倒带”到任意历史时刻重新开始。\n- **对我项目的启发**：不要去碰那些复杂的云端 Workflow 引擎，本地开发 Creative Tools 或 Agent 自动化时，SQLite 就是最优雅、最硬核的“后悔药”和“时光机”。\n- **今天是否值得深入研究**：是\n- **建议行动**：做demo（在接下来的小实验里直接用上这个模式）。\n\n---\n\n## 今日模式总结\n\n1. **智能体降维打击终端（Terminal-Native Agency）**：AI 正在脱离浏览器沙盒。通过直接对终端的读写和执行，Agent 变成了真正的“本地副驾驶”。\n2. **轻量级持久化（Local-First Durability）**：在 AI 时代，由于大模型响应慢、易出错，**“能随时中断并恢复”**的设计（如 SQLite 驱动的工作流）成为了本地开发的新标准。\n3. **认知与本体的分离（Cognitive Decoupling）**：不再指望一个 Prompt 解决所有问题，而是通过外部的“装甲（ECC）”来规范 Agent 的记忆、本能和行为边界。\n\n---\n\n## 今日可做小实验：2 小时极速挑战\n\n### **项目名**：Resilient-Creative-Agent (防崩溃的创意生成流水线)\n\n*   **输入**：一个创意主题（例如：“赛博朋克风格的雨天”）\n*   **输出**：\n    1. 一个自动生成的 ASCII 艺术和一首诗。\n    2. 一个 `history.db` 数据库，记录了每一步的执行状态（PENDING -> RUNNING -> COMPLETED）。\n    3. 支持**中途断电模拟**：如果在生成诗歌后你强行杀死进程，重新运行后它会直接跳过诗歌生成，直接进行 ASCII 艺术渲染。\n*   **技术栈**：Python, `sqlite3`, `openai` 或 `anthropic` SDK (或者任何你常用的本地 LLM API)。\n*   **第一步怎么做**：\n    1. 创建一个 `app.py`。\n    2. 用 Python 的 `sqlite3` 初始化一个表：\n       ```sql\n       CREATE TABLE IF NOT EXISTS workflow_steps (\n           id TEXT PRIMARY KEY,\n           step_name TEXT,\n           status TEXT, -- 'PENDING', 'COMPLETED'\n           result TEXT\n       );\n       ```\n    3. 写入两个步骤：`generate_poem` 和 `generate_ascii`。\n    4. 编写主循环：读取数据库，发现哪个步骤是 `PENDING`，就调用 AI 生成，生成完立刻写入数据库并将状态改为 `COMPLETED`。\n    5. **测试**：在第一步运行完时，用 `Ctrl+C` 强行掐断程序。重新运行，看看它是否能优雅地从第二步直接开始！",
+  "gemini_success": true,
+  "telegram_sent": false,
+  "telegram_status": "failed",
+  "telegram_reason": "400 Client Error: Bad Request for url: https://api.telegram.org/bot8650722899:AAHUD-aqNDB7NwiPiGq3R22MVp77Cr_5GEQ/sendMessage"
+}
