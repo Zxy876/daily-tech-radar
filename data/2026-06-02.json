@@ -1,0 +1,300 @@
+{
+  "date": "2026-06-02",
+  "candidates": [
+    {
+      "title": "ruvnet / ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "🌊 The leading agent meta-harness for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration [366 stars today]",
+      "score": 14.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "workflow",
+        "autonomous",
+        "RAG",
+        "memory"
+      ]
+    },
+    {
+      "title": "COMPASS: Cognitive MCTS-Guided Process Alignment for Safe Search Agents",
+      "url": "https://arxiv.org/abs/2605.30838",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 01 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2605.30838v1 Announce Type: new \nAbstract: LLM-powered search agents enable multi-step reasoning and tool use. However, these capabilities introduce retrieval-induced safety degradation, as harmful intents may decompose into seemingly innocuous sub-queries that lead to unsafe outcomes. Existing alignment methods struggle to capture sparse safety signals and fail to supervise diverse violations across multi-step interactions. We propose COMPASS, a Cognitive MCTS-Guided Process Alignment fra",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "tool use",
+        "reasoning",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "BilliardPhys-Bench: Benchmarking Physical Reasoning and Visual Dynamics of Multimodal LLMs",
+      "url": "https://arxiv.org/abs/2605.30900",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 01 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2605.30900v1 Announce Type: new \nAbstract: Current multimodal models handle static image recognition well, but intuitive physical reasoning remains a weakness. Predicting how objects will move and interact from a single image is still difficult for these systems. We present BilliardPhys-Bench, a benchmark for physical reasoning in synthetic billiards environments. Its procedural engine generates randomized scenarios with friction and elastic collisions. The benchmark tests three abilities:",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "multimodal",
+        "reasoning",
+        "procedural"
+      ]
+    },
+    {
+      "title": "COLLEAGUE.SKILL: Automated AI Skill Generation via Expert Knowledge Distillation",
+      "url": "https://arxiv.org/abs/2605.31264",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 01 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2605.31264v1 Announce Type: new \nAbstract: LLM agents are increasingly expected not only to complete isolated tasks, but also to carry bounded representations of human expertise, judgment, and interaction style. Building such person-grounded agents remains difficult because actionable knowledge associated with a person or role is usually embedded in heterogeneous traces rather than written as clean instructions. Existing memory and persona systems capture fragments of this evidence, while ",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "RAG",
+        "memory"
+      ]
+    },
+    {
+      "title": "Learning to Adapt: Self-Improving Web Agent via Cognitive-Aware Exploration",
+      "url": "https://arxiv.org/abs/2605.31365",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 01 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2605.31365v1 Announce Type: new \nAbstract: Recent advances in Multimodal Large Language Models (MLLMs) have led to promising progress in web agents. However, existing web agents often rely on handcrafted execution pipelines or expensive expert trajectories, limiting their adaptability to complex, dynamic environments. To address these challenges, we propose SCALE (Self-Cognitive-Aware Learning and Exploration), which leverages three adversarial roles, Selector, Predictor, and Judger to aut",
+      "score": 10.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "language model",
+        "multimodal",
+        "RAG"
+      ]
+    },
+    {
+      "title": "TRINE: A Token-Aware, Runtime-Adaptive FPGA Inference Engine for Multimodal AI",
+      "url": "https://arxiv.org/abs/2603.22867",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 01 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2603.22867v1 Announce Type: cross \nAbstract: Multimodal stacks that mix ViTs, CNNs, GNNs, and transformer NLP strain embedded platforms because their compute/memory patterns diverge and hard real-time targets leave little slack. TRINE is a single-bitstream FPGA accelerator and compiler that executes end-to-end multimodal inference without reconfiguration. Layers are unified as DDMM/SDDMM/SpMM and mapped to a mode-switchable engine that toggles at runtime among weight/output-stationary syst",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "transformer",
+        "multimodal",
+        "inference",
+        "memory"
+      ]
+    },
+    {
+      "title": "Can Generative AI help people navigate Radical Moral Disagreements? The CONSIDER prototype",
+      "url": "https://arxiv.org/abs/2605.31574",
+      "source": "arXiv cs.HC",
+      "published_at": "Mon, 01 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2605.31574v1 Announce Type: new \nAbstract: Radical Moral Disagreements (RMDs) are highly polarising topics that are increasingly censored in everyday life, with growing evidence suggesting that this polarisation carries measurable costs to public mental health. To address these challenges, some researchers have proposed Large Language Models (LLMs) as a means to support more democratic deliberation and better moral reasoning. Yet existing tools are poorly calibrated to help people navigate",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "reasoning",
+        "generative"
+      ]
+    },
+    {
+      "title": "PhyDrawGen: Physically Grounded Diagram Generation from Natural Language",
+      "url": "https://arxiv.org/abs/2605.30512",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 01 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2605.30512v1 Announce Type: new \nAbstract: Generating physics diagrams from text requires strict adherence to physical laws. While current generative models produce visually plausible outputs, they systematically hallucinate force vectors, ignore conservation laws, and violate geometric constraints. We present PhyDrawGen, a neuro-symbolic pipeline that decouples semantic scene understanding from physical constraint satisfaction. First, a large language model extracts a typed scene graph fr",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "language model",
+        "vector",
+        "generative"
+      ]
+    },
+    {
+      "title": "Uncertainty-Aware and Temporally Regulated Expert Advice in Reinforcement Learning for Autonomous Driving",
+      "url": "https://arxiv.org/abs/2605.30576",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 01 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2605.30576v1 Announce Type: new \nAbstract: Exploration in reinforcement learning for autonomous driving is inherently unsafe: agents must experience novel behaviors to learn, yet exploration can lead to collisions or off-road driving. We propose an uncertainty-aware framework that leverages expert advice to guide exploration while avoiding long-term dependence. Advice is triggered when epistemic or aleatoric uncertainty exceeds adaptive thresholds derived from rolling buffers, ensuring adv",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "autonomous",
+        "RAG"
+      ]
+    },
+    {
+      "title": "Harness Updating Is Not Harness Benefit: Disentangling Evolution Capabilities in Self-Evolving LLM Agents",
+      "url": "https://arxiv.org/abs/2605.30621",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 01 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2605.30621v1 Announce Type: new \nAbstract: LLM agents are increasingly deployed as systems built around editable external harnesses, including prompts, skills, memories and tools, that shape task execution without changing model parameters. Harness self-evolution adapts such agents by updating these harnesses from execution evidence. Yet it remains unclear whether a model's base capability in task-solving predicts its capabilities in harness self-evolution: which models produce useful harn",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "prompt"
+      ]
+    },
+    {
+      "title": "MAVEN: Improving Generalization in Agentic Tool Calling",
+      "url": "https://arxiv.org/abs/2605.30738",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 01 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2605.30738v1 Announce Type: new \nAbstract: Generalization across agentic tool-calling environments remains a central challenge for reliable agentic reasoning systems. Although large language models achieve strong results on individual benchmarks, their ability to compose reasoning strategies, preserve intermediate states, and coordinate tools across domains remains underexplored. We present MAVEN (Modular Agentic Verification and Execution Network), a lightweight symbolic reasoning scaffol",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Learning Agent-Compatible Context Management for Long-Horizon Tasks",
+      "url": "https://arxiv.org/abs/2605.30785",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 01 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2605.30785v1 Announce Type: new \nAbstract: LLM agents increasingly face long-horizon tasks such as web search and deep research in real-world applications, where accumulated context can cause long-context degradation and reasoning failures. Prior work mitigates this through context management with agent-side context control or fixed strategies such as summarization, which require training the agent itself for adaptation - making it impractical for closed-source agents and ignoring that dif",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Distilling LLM Feedback for Lean Theorem Proving",
+      "url": "https://arxiv.org/abs/2605.30861",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 01 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2605.30861v1 Announce Type: new \nAbstract: Post-training for reasoning models typically combines supervised fine-tuning with reinforcement learning from verifiable rewards, most commonly with GRPO. However, this algorithm suffers from sparse rewards, limited exploration, and mode collapse. Building upon recent works on self-distillation, we propose Feedback Distillation, a training method where the model is trained to match, at the token level, its own distribution conditioned on privilege",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "fine-tuning",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "UniScale: Adaptive Unified Inference Scaling via Online Joint Optimization of Model Routing and Test-Time Scaling",
+      "url": "https://arxiv.org/abs/2605.30898",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 01 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2605.30898v1 Announce Type: new \nAbstract: In real-world deployments of large language models (LLMs), balancing inference quality and computational cost has become a central challenge. Existing approaches tackle this trade-off along two largely independent dimensions: model routing, which switches among models of different scales to match request complexity, and test-time scaling (TTS), which adjusts inference-time compute within a fixed model for fine-grained control. However, this decoup",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "inference"
+      ]
+    },
+    {
+      "title": "Industrializing Prediction-Powered Inference: The GLIDE Library for Reliable GenAI and Agentic Systems Evaluation",
+      "url": "https://arxiv.org/abs/2605.31278",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 01 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2605.31278v1 Announce Type: new \nAbstract: Reliable evaluation of agentic systems requires unbiased estimates with valid uncertainty, but standard practice navigates between costly human annotation and biased LLM-as-judge proxies. Prediction-powered inference (PPI) combines both into debiased estimates with valid confidence intervals, yet its various methods remain scattered across papers under partial implementations. We introduce GLIDE, an open-source Python library that unifies state-of",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "inference"
+      ]
+    },
+    {
+      "title": "Diagnosing Failure Modes of Shared-State Collaboration in Resource-Constrained Visual Agents",
+      "url": "https://arxiv.org/abs/2605.31354",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 01 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2605.31354v1 Announce Type: new \nAbstract: Modular visual reasoning systems increasingly rely on shared working memory for multi-step collaboration, yet the failure dynamics of intermediate state evolution in low-capacity regimes remain underexplored. We study failure modes of collaborative reasoning with weak learners (4B--8B models) through the lens of noise accumulation. We introduce CoSee, an auditing framework that formalizes the read-write-verify loop to trace information flow in doc",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "reasoning",
+        "memory"
+      ]
+    },
+    {
+      "title": "AutoSci: A Memory-Centric Agentic System for the Full Scientific Research Lifecycle",
+      "url": "https://arxiv.org/abs/2605.31468",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 01 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2605.31468v1 Announce Type: new \nAbstract: Scientific research has traditionally been human-intensive, requiring researchers to coordinate literature, ideas, experiments, manuscripts, and review responses across long project cycles. The rise of LLM-based scientific agents creates an opportunity to automate this process. Such a system must support the full research lifecycle, maintain structured persistent memory across projects, and improve its own research procedures over time. However, e",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "memory"
+      ]
+    },
+    {
+      "title": "LinTree: Improving LLM Reasoning with Explicitly Structured Search Histories",
+      "url": "https://arxiv.org/abs/2605.31492",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 01 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2605.31492v1 Announce Type: new \nAbstract: Large language models (LLMs) often solve reasoning problems by generating intermediate traces that explore and revise partial solutions. From a search perspective, these traces can be viewed as linearized search trees, where the model extends a partial solution, abandons it when it fails, and backtracks to try alternatives. Compared with traditional heuristic-guided search, such a policy has a potential advantage: it conditions on the whole search",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "TUX: Measuring Human--AI Tacit Understanding",
+      "url": "https://arxiv.org/abs/2605.30930",
+      "source": "arXiv cs.HC",
+      "published_at": "Mon, 01 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2605.30930v1 Announce Type: new \nAbstract: As large language models (LLMs) increasingly act as collaborative partners, human--AI alignment is often evaluated through explicit task success, accuracy, or reward optimization. Yet many collaborative settings depend on tacit understanding: whether an agent can align with a human's evaluative stance or representational priors without clear objectives, communication, or feedback. To study this capacity, we develop a spectrum-placement task inspir",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model"
+      ]
+    },
+    {
+      "title": "Developing a UXR Point of View for Cognitive Accessibility in Mobile Learning with Generative AI",
+      "url": "https://arxiv.org/abs/2605.31149",
+      "source": "arXiv cs.HC",
+      "published_at": "Mon, 01 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2605.31149v1 Announce Type: new \nAbstract: This study investigates how UX research (UXR) principles, combined with Large Language Model (LLM)-supported analysis, can be used to improve the quality of requirements for mobile learning systems designed for learners with cognitive disabilities. Using the UXR Point-of-View (PoV) pyramid as a methodological framework, the study progressed through four stages: foundational structuring of psychological, behavioral, and design layers; structured va",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "generative"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-06-02\n\n好！作为你的“疯狂发明家技术雷达”，我为你搜罗了最新鲜、最怪异、最有潜力的技术浪潮。这些内容都经过我的“疯狂但可做”雷达筛选，希望能点燃你跨学科创意的火花。\n\n---\n\n## [1] RUFRLO: 智能体协同的 Claude 元框架\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/ruvnet/ruflo\n- 一句话解释：一个专注于 Claude 的智能体（agent）协同框架，可以部署和协调自主工作流，构建对话式 AI 系统。\n- 它为什么重要：它提供了一个开箱即用的框架来构建复杂的、多智能体的系统，特别是在 Claude 生态中。对于需要智能体之间协同完成任务、具备自适应记忆和 RAG 集成的项目来说，这是个强大的起点。\n- 技术趋势标签：AI, agent, LLM, workflow, autonomous, RAG, memory, Claude\n- 可复用模式：多智能体系统编排，自适应记忆管理，工具调用协调。\n- 疯狂发明家灵感：\n    1. **一个小型实验：** 构建一个“AI 侦探”智能体团队，每个智能体负责搜集不同来源（如维基百科、新闻摘要）的信息，然后协同分析，找出某个历史事件的“真相”。\n    2. **一个中型项目：** 开发一个“AI 虚拟团队协作工具”，模拟一个项目管理团队，让不同的智能体（产品经理、设计师、开发者）就一个假想的产品需求进行讨论、迭代和决策。\n    3. **一个艺术/游戏/叙事方向：** 创建一个“AI 叙事生成器”，让多个智能体扮演不同的角色（主角、反派、旁白），根据给定的主题和初步情节，实时生成一个动态的、可交互的故事。\n- 对我项目的启发：这是构建复杂 AI 驱动的叙事系统或模拟环境的绝佳起点，可以轻松集成到你的 CS 背景中，并与艺术/设计相结合。\n- 今天是否值得深入研究：是\n- 建议行动：试用 / 做demo\n\n---\n\n## [2] BilliardPhys-Bench: 评估多模态 LLM 的物理推理能力\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2605.30900\n- 一句话解释：一个专门用于测试多模态 LLM 在模拟台球环境中的物理推理和视觉动态感知能力的基准测试。\n- 它为什么重要：当前多模态模型在理解静态图像方面表现优异，但在预测物体运动和交互等物理直觉方面仍是弱项。这个基准挑战了 LLM 的“理解世界”的能力，对需要物理模拟或交互的游戏、机器人等领域至关重要。\n- 技术趋势标签：AI, LLM, multimodal, reasoning, procedural, game systems\n- 可复用模式：程序化生成测试场景，物理模拟与视觉理解结合，评估模型在动态环境下的泛化能力。\n- 疯狂发明家灵感：\n    1. **一个小型实验：** 使用一个现有的多模态 LLM，输入一张台球桌的图片，让它尝试预测一个球被击打后的运动轨迹（可以用简单的物理引擎验证）。\n    2. **一个中型项目：** 构建一个“AI 物理定律探索器”，让 LLM 观看一系列物理现象（如掉落、碰撞、杠杆），然后让它尝试归纳和表述背后的物理规则。\n    3. **一个艺术/游戏/叙事方向：** 开发一款“AI 导演的物理动画生成器”，用户提供一个简单的场景和指令，LLM 负责生成符合物理规律的动态动画，可以用于短片、游戏过场动画等。\n- 对我项目的启发：这直接连接了你的 CS 背景（物理引擎、LLM）和艺术/游戏方向，可以用来探索 AI 在生成可信物理交互内容方面的潜力，尤其适合与 Minecraft 的世界生成结合。\n- 今天是否值得深入研究：是\n- 建议行动：做demo\n\n---\n\n## [3] COLLEAGUE.SKILL: 通过专家知识蒸馏自动化 AI 技能生成\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.abs/2605.31264\n- 一句话解释：一种通过蒸馏人类专家的知识，来自动生成 LLM Agent 所需的“技能”的方法。\n- 它为什么重要：让 LLM Agent 拥有更接近人类的专业知识和行为风格是关键挑战。这个方法提供了一种将非结构化的专家知识转化为 Agent 可用的技能的途径，能让 Agent 更智能、更具人性化。\n- 技术趋势标签：AI, agent, LLM, RAG, memory, automation, HCI\n- 可复用模式：知识蒸馏，领域特定技能生成，个性化 Agent。\n- 疯狂发明家灵感：\n    1. **一个小型实验：** 选择一个你擅长的领域（如某种编程技巧、音乐理论），找到一些相关的博客文章或教程，尝试用 LLM 提取关键步骤和概念，生成一个简单的“技能”来回答相关问题。\n    2. **一个中型项目：** 构建一个“AI 创意导师”，让它学习你喜欢的艺术家的创作过程（通过分析他们的访谈、创作日志），然后能够根据你的想法提供具体的创作建议和技术指导。\n    3. **一个艺术/游戏/叙事方向：** 开发一个“AI 角色行为生成器”，让它学习不同类型角色的对话风格、动机和行为模式（例如，从剧本或小说中提取），然后生成具有独特个性的 NPC 角色，用于游戏或互动叙事。\n- 对我项目的启发：这直接关系到如何让你的 Agent 拥有更强的“个性”和“专业能力”，非常适合与 HCI 和叙事系统结合，创造更有深度和互动性的体验。\n- 今天是否值得深入研究：是\n- 建议行动：收藏 / 做demo\n\n---\n\n## [4] MAVEN: 提升 Agentic Tool Calling 的泛化能力\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.abs/2605.30738\n- 一句话解释：一种改进 LLM Agent 调用工具（tool calling）能力的方法，使其在不同环境中都能更好地泛化和组合使用工具。\n- 它为什么重要：Agent 的核心能力之一是调用外部工具来完成复杂任务。MAVEN 旨在解决 Agent 在跨领域、跨工具调用时的泛化和策略组合问题，这对于构建更鲁棒、更通用的 Agent 系统至关重要。\n- 技术趋势标签：AI, agent, LLM, reasoning, automation, tool use\n- 可复用模式：工具调用策略优化，跨领域泛化，Agentic 工作流编排。\n- 疯狂发明家灵感：\n    1. **一个小型实验：** 找一个简单的 LLM，让它尝试调用两个不同的 API（例如，一个天气 API 和一个日历 API）来完成一个任务，比如“明天北京的天气怎么样？如果下雨，提醒我取消下午的会议。”\n    2. **一个中型项目：** 构建一个“AI 自动化内容创作助手”，让 Agent 能够根据用户需求，调用不同的工具（如文本生成、图像生成、代码生成、数据分析）来完成一篇完整的博客文章或报告。\n    3. **一个艺术/游戏/叙事方向：** 创建一个“AI 交互式世界构建工具”，用户可以通过自然语言描述场景元素和规则，Agent 能够调用图形渲染、物理模拟、AI NPC 行为等工具，实时生成一个游戏关卡或虚拟世界。\n- 对我项目的启发：这是提升你的 Agent 系统处理复杂任务和与外部世界（工具、API）交互能力的关键。与你的游戏系统和世界生成兴趣点结合，潜力巨大。\n- 今天是否值得深入研究：是\n- 建议行动：试用 / 做demo\n\n---\n\n## [5] CONSIDER: 生成式 AI 助力理解激进的道德分歧\n- 来源：arXiv cs.HC\n- 链接：https://arxiv.abs/2605.31574\n- 一句话解释：一个名为 CONSIDER 的原型系统，探索如何利用 LLM 帮助人们理解和处理高度对立的道德分歧。\n- 它为什么重要：在信息爆炸和观点极化的时代，理解和沟通“激进的道德分歧”（Radical Moral Disagreements, RMDs）变得越来越困难，但也越来越重要。这个研究关注 AI 在促进民主讨论和减少社会撕裂方面的应用，极具社会价值和创新性。\n- 技术趋势标签：AI, LLM, language model, reasoning, generative, HCI, narrative systems\n- 可复用模式：AI 辅助的辩论与调解，共情与理解生成，复杂叙事生成。\n- 疯狂发明家灵感：\n    1. **一个小型实验：** 选择一个有争议但相对温和的社会话题，让 LLM 扮演两个对立观点的角色，生成一段双方理性对话，并尝试总结双方的核心论点。\n    2. **一个中型项目：** 开发一个“AI 道德困境模拟器”，用户可以输入一个复杂的道德场景，LLM 会生成不同的伦理分析框架（如功利主义、义务论）下的观点，并引导用户进行思考。\n    3. **一个艺术/游戏/叙事方向：** 创建一个“AI 叙事生成器”，专门用于探索和表现社会中的复杂伦理冲突。例如，生成一部互动电影，让玩家在不同的道德选择中体验其后果，AI 负责生成不同角度的叙事和人物反应。\n- 对我项目的启发：这完美契合了你的艺术/设计/游戏/叙事系统结合的兴趣，特别是如何用 AI 创造有深度、有思想的互动体验。它也是 HCI 和 AI 伦理交叉领域的一个重要方向。\n- 今天是否值得深入研究：是\n- 建议行动：收藏 / 做demo\n\n---\n\n## 今日模式总结\n今天我们看到了 **Agentic Systems 的协同与泛化** 是一个核心主题，RUFRLO 和 MAVEN 都指向了如何让多个 Agent 更有效地协作，以及如何让 Agent 在调用工具时具备更好的跨环境能力。同时，**AI 在理解复杂现实世界和人际互动中的应用** 也非常突出，BilliardPhys-Bench 挑战了 AI 的物理直觉，而 CONSIDER 则探索了 AI 在处理社会敏感议题中的潜力。\n\n## 今日可做小实验\n**项目名：** “AI 艺术风格融合器” (AI Art Style Fuser)\n\n**目标：** 利用 LLM 的理解能力，尝试融合两种不同的艺术风格，并生成一个概念性的描述。\n\n**输入：**\n1.  **风格 A 描述：** 简短描述一种艺术风格，例如：“梵高的星空风格，充满动感的笔触和鲜明的色彩。”\n2.  **风格 B 描述：** 简短描述另一种艺术风格，例如：“赛博朋克风格，霓虹灯光、未来感建筑和科技元素。”\n\n**输出：**\n一个描述，将两种风格融合后可能产生的艺术作品的概念。例如：“一个拥有梵高式旋转笔触和强烈情感色彩的城市夜景，但城市建筑是高耸入云的未来派摩天大楼，街道上闪烁着霓虹灯光，可能还有全息广告牌。”\n\n**技术栈：**\n*   Python\n*   OpenAI API (或任何支持文本生成的 LLM API，如 Claude)\n\n**第一步怎么做：**\n1.  安装 `openai` Python 库 (`pip install openai`)。\n2.  获取你的 OpenAI API 密钥，并设置环境变量。\n3.  编写一个 Python 脚本，定义一个函数，接受两个风格描述作为输入。\n4.  构建一个 Prompt，指示 LLM 融合这两种风格，并生成一个概念描述。例如：\n    ```python\n    prompt = f\"\"\"\n    你是一个创意总监，擅长融合不同的艺术风格。\n    请将以下两种艺术风格融合，并描述融合后可能产生的艺术作品的概念：\n\n    风格 A: \"{style_a_description}\"\n    风格 B: \"{style_b_description}\"\n\n    输出一个简洁的概念描述，突出融合后的独特之处。\n    \"\"\"\n    ```\n5.  调用 LLM API（例如 `openai.ChatCompletion.create`）发送 prompt，并打印返回的描述。\n6.  尝试不同的风格组合，看看能产生什么有趣的融合。\n\n这个实验可以在 2 小时内完成，让你快速体验 LLM 在概念生成和风格融合方面的能力，为后续的生成式艺术或游戏世界设计打下基础。",
+  "gemini_success": true,
+  "telegram_sent": true,
+  "telegram_status": "sent",
+  "telegram_reason": ""
+}
