@@ -1,0 +1,300 @@
+{
+  "date": "2026-06-03",
+  "candidates": [
+    {
+      "title": "Please don't spam people looking for employment. It's just cruel",
+      "url": "https://news.ycombinator.com/item?id=48370330",
+      "source": "Hacker News Best",
+      "published_at": "Tue, 02 Jun 2026 13:56:46 +0000",
+      "description": "Earlier I posted in a “Who wants to be hired?” thread, looking for a place where I could apply my experience in hospitality, food tech and automation. A couple hours later I received an email: “Hi Ilia, I saw your comment on the June Who’s Hiring thread. I build production-ready TypeScript and Python systems that integrate LLMs into real workflows, with particular focus on RAG, agent orchestration, and clear blah-blah-blah” Come on.\nI am a forced immigrant with a wife, a cat, rent and crushing d",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "workflow",
+        "automation",
+        "RAG"
+      ]
+    },
+    {
+      "title": "Coupling Language Models with Physics-based Simulation for Synthesis of Inorganic Materials",
+      "url": "https://arxiv.org/abs/2606.00315",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 02 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.00315v1 Announce Type: new \nAbstract: Modern generative machine learning (ML) models can propose novel inorganic crystalline materials with targeted properties; however, synthesis planning of these materials remains difficult due to the complexity of the associated physical processes and limited availability of computational tools. We introduce a novel hybrid framework to evaluate Large Language Models (LLMs) in inorganic synthesis planning by combining thermodynamic databases with si",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "simulation",
+        "language model",
+        "planning",
+        "generative"
+      ]
+    },
+    {
+      "title": "Context-Aware Workflow Decomposition for Automated Mobile UI Annotation Using Multimodal Large Language Models",
+      "url": "https://arxiv.org/abs/2606.02208",
+      "source": "arXiv cs.HC",
+      "published_at": "Tue, 02 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.02208v1 Announce Type: new \nAbstract: Accurate mobile user interface annotation is important for UI understanding, accessibility tools, automated testing, dataset construction, and GUI agents. However, mobile screens are difficult to annotate because they often contain small, dense, nested, and visually ambiguous elements. Multimodal large language models can help automate this process, but their outputs are sensitive to prompt design and the organization of annotation tasks. This pap",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "workflow",
+        "language model",
+        "multimodal",
+        "prompt"
+      ]
+    },
+    {
+      "title": "Grokers: Bottom-Up Inductive Comprehension and Write-Time Intelligence over Typed Knowledge Graphs",
+      "url": "https://arxiv.org/abs/2606.00050",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 02 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.00050v1 Announce Type: new \nAbstract: We present Grokers, an architecture for building persistent, structured comprehension of typed knowledge graphs through bottom-up inductive traversal of dependency subgraphs. Unlike retrieval-augmented generation (RAG), which pays full comprehension cost at every query, Grokers pushes intelligence to write time: autonomous Groker agents analyze nodes in a typed stream graph, extract structured attributes via governed language model (LM) calls, and",
+      "score": 10.0,
+      "keywords_matched": [
+        "agent",
+        "language model",
+        "autonomous",
+        "RAG",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "VESTA: Visual Exploration with Statistical Tool Agents",
+      "url": "https://arxiv.org/abs/2606.00384",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 02 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.00384v1 Announce Type: new \nAbstract: Fitting quantitative models to data is a central step in scientific workflows, yet it remains one of the least automated. Recent agent-based systems leverage language and vision-language models (VLMs) to iteratively propose and refine statistical models, but these systems struggle on more challenging modeling tasks. To address these limitations, we introduce VESTA: Visual Exploration with Statistical Tool Agents, a framework that equips VLMs with ",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "workflow",
+        "language model",
+        "RAG"
+      ]
+    },
+    {
+      "title": "Doing What They Say, Not What They Reason: Locating the Faithfulness Gap in LLM Agents",
+      "url": "https://arxiv.org/abs/2606.00476",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 02 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.00476v1 Announce Type: new \nAbstract: Do LLM agents act on the reasoning they state? This question of process fidelity is central to using LLMs in social simulation, yet it is hard to measure where no reference for correct behavior exists. We study it in acontrolled setting, a Texas Poker simulator with a verifiable reference action for every decision by decomposing the faithfulness gap into two steps: reasoning-conclusion and conclusion-action. The two steps behave oppositely.",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "simulation",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Guided Sensemaking: Agents in Collaborative Deliberation",
+      "url": "https://arxiv.org/abs/2606.02260",
+      "source": "arXiv cs.HC",
+      "published_at": "Tue, 02 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.02260v1 Announce Type: new \nAbstract: Generative AI systems are aggressively reshaping how students engage with information and perform cognitive work; convenience-oriented use has the potential to displace effortful reasoning, reflection, and learning, especially for those who lack domain expertise and effective human-AI interaction strategies. Current AI tools are heavily focused on chat-style interfaces geared towards answer generation and efficiency in a linear and fragmented stre",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "RAG",
+        "reasoning",
+        "generative"
+      ]
+    },
+    {
+      "title": "MindGames Arena Generalization Track: In2AI Solution with Delayed Per-Step Reward Attribution",
+      "url": "https://arxiv.org/abs/2606.00017",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 02 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.00017v1 Announce Type: new \nAbstract: Training language model agents for multi-agent strategic interaction presents a core difficulty: the quality of any action may depend on future events that never materialize, on moves that violate game rules, or on decisions made by other players. Standard reinforcement learning assumes that rewards can be assigned at each step, but this assumption fails in settings where outcomes are entangled across time and agents. We introduce delayed per-step",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "game",
+        "language model"
+      ]
+    },
+    {
+      "title": "Evaluating Interactive Reasoning in Large Language Models: A Hierarchical Benchmark with Executable Games",
+      "url": "https://arxiv.org/abs/2606.00103",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 02 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.00103v1 Announce Type: new \nAbstract: We introduce a multi-turn interactive framework for reasoning evaluation that treats reasoning as active evidence acquisition and belief updating. Wherein, LLMs receive only the task rules, must issue targeted queries to a hidden environment, integrate partial observations over time, and decide when to submit a final answer. Beyond standard success rate and interaction efficiency, we evaluate contextual robustness under controlled contextual pertu",
+      "score": 8.0,
+      "keywords_matched": [
+        "LLM",
+        "game",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "MindZero: Learning Online Mental Reasoning With Zero Annotations",
+      "url": "https://arxiv.org/abs/2606.00240",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 02 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.00240v1 Announce Type: new \nAbstract: Effective real-world assistance requires AI agents with robust Theory of Mind (ToM): inferring human mental states from their behavior. Despite recent advances, several key challenges remain, including (1) online inference with robust uncertainty updates over multiple hypotheses; (2) efficient reasoning suitable for real-time assistance; and (3) the lack of ground-truth mental state annotations in real-world domains. We address these challenges by",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "inference",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Model-Native Computing Architecture: Envisioning Future System Architecture Through the Lens of Computer Architecture",
+      "url": "https://arxiv.org/abs/2606.00288",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 02 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.00288v1 Announce Type: new \nAbstract: Large language models are undergoing a transition from model technology to system technology. As developers use Codex, Claude Code, AutoGPT, and related agents to write code, manage projects, and execute multi-step tasks, recurring engineering problems such as cache reuse, context management, agent scheduling, and permission control increasingly resemble classical computer systems problems. This paper develops that analogy as a visionary survey. W",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "Claude",
+        "GPT",
+        "language model"
+      ]
+    },
+    {
+      "title": "Threshold-Based Exclusive Batching for LLM Inference",
+      "url": "https://arxiv.org/abs/2606.00516",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 02 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.00516v1 Announce Type: new \nAbstract: Mixed batching (MB)--interleaving prefill and decode in a single batch--has become the standard scheduling strategy for large language model (LLM) inference due to its efficiency in maximizing compute and memory utilization. However, through controlled experiments, we find that prefill-decode interference inflates MB's per-step marginal cost above that of pure decode. On the high-bandwidth H200 (4.8 TB/s), this occurs only when decode tokens excee",
+      "score": 8.0,
+      "keywords_matched": [
+        "LLM",
+        "language model",
+        "inference",
+        "memory"
+      ]
+    },
+    {
+      "title": "KACE: Knowledge-Adaptive Context Engineering for Mathematical Reasoning",
+      "url": "https://arxiv.org/abs/2606.00532",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 02 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.00532v1 Announce Type: new \nAbstract: Context engineering can improve large language models without updating their weights, but mathematical reasoning exposes a key limitation: feedback accumulated in one growing prompt causes context bloat and limits the amount of learned guidance that can be used. Existing methods often conflate storage, what is learned across runs, with usage, what is included for a particular problem, and therefore inherit this prompt-size ceiling. We introduce Kn",
+      "score": 8.0,
+      "keywords_matched": [
+        "language model",
+        "RAG",
+        "prompt",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Efficient Test-time Inference for Generative Planning Models",
+      "url": "https://arxiv.org/abs/2606.00618",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 02 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.00618v1 Announce Type: new \nAbstract: Generative models have emerged as a powerful paradigm for AI planning, yet their performance remains constrained by the training data distribution. One approach is to improve generated solutions during inference by scaling test-time compute. A more efficient alternative is to optimize the inference process itself. In this paper, we show that a modified version of a classical Open-Closed List (OCL) search provides just such an efficient inference p",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "inference",
+        "planning",
+        "generative"
+      ]
+    },
+    {
+      "title": "Hidden Thoughts Are Not Secret: Reasoning Trace Exposure in LLMs",
+      "url": "https://arxiv.org/abs/2606.00642",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 02 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.00642v1 Announce Type: new \nAbstract: Reasoning traces have become a valuable form of learning signals for improving and transferring the capabilities of large language models. In particular, detailed traces can help distill reasoning behavior from stronger teacher models into weaker student models. The value of capability transfer has motivated many deployed systems with reasoning models to hide raw internal traces and expose at most summaries and answers to users. As a result, we as",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Agentic Authoring of Interactive Multiview Visualizations in Genomics",
+      "url": "https://arxiv.org/abs/2606.00370",
+      "source": "arXiv cs.HC",
+      "published_at": "Tue, 02 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.00370v1 Announce Type: new \nAbstract: Diverse genomics data, scientific questions, and analysis tasks typically demand highly specialized visualizations. Therefore, users often must customize or author new ones tailored to their data. Existing tools are usually either limited in customization or require substantial learning or programming, and even expressive tools assume visualization expertise many users lack. Agentic and large language model (LLM) approaches are increasingly applie",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model"
+      ]
+    },
+    {
+      "title": "Overview of the ClinicalSkillQA 2026 Shared Task on Continuous Perception and Procedural Reasoning in Clinical Skill Assessment",
+      "url": "https://arxiv.org/abs/2606.02082",
+      "source": "arXiv cs.HC",
+      "published_at": "Tue, 02 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.02082v1 Announce Type: new \nAbstract: This paper presents an overview of the ClinicalSkillQA 2026 shared task, which was organized with the BioNLP Workshop at ACL 2026. The goal of this shared task is to evaluate continuous perception and procedural reasoning in clinical skill assessment by requiring systems to reconstruct the correct temporal order of shuffled clinical key frames and generate rationales grounded in clinical workflow knowledge. The benchmark contains 200 test-only ins",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "workflow",
+        "reasoning",
+        "procedural"
+      ]
+    },
+    {
+      "title": "Interaction-Centered Intelligence: Toward Interaction as the Primary Unit of Analysis in Co-Creative AI and Human-AI Systems",
+      "url": "https://arxiv.org/abs/2606.00807",
+      "source": "arXiv cs.HC",
+      "published_at": "Tue, 02 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.00807v1 Announce Type: cross \nAbstract: Traditional artificial intelligence has largely conceptualized intelligence as isolated computation occurring within bounded agents. Across classical AI, machine learning, and many generative systems, the dominant unit of analysis remains the individual model or autonomous system evaluated through outputs, benchmarks, prediction accuracy, or optimization performance. While these approaches have produced major advances, they often under-theorize ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "autonomous",
+        "generative"
+      ]
+    },
+    {
+      "title": "BitsMoE: Efficient Spectral Energy-Guided Bit Allocation for MoE LLM Quantization",
+      "url": "https://arxiv.org/abs/2606.00079",
+      "source": "arXiv cs.LG",
+      "published_at": "Tue, 02 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.00079v1 Announce Type: new \nAbstract: Mixture-of-Experts (MoE) large language models reduce per-token computation through sparse expert activation, but their deployment remains memory-intensive because all expert weights must be kept resident in memory. Existing MoE compression methods struggle in the ultra-low-bit regime: pruning irreversibly removes model capacity, while coarse-grained quantization fails to allocate bits according to heterogeneous expert and weight-direction importa",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "memory"
+      ]
+    },
+    {
+      "title": "From Demonstrations to Rewards: Test-Time Prompt Optimization for VLM Reward Models",
+      "url": "https://arxiv.org/abs/2606.00083",
+      "source": "arXiv cs.LG",
+      "published_at": "Tue, 02 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.00083v1 Announce Type: new \nAbstract: Reinforcement learning relies on accurate reward functions, which are often hand-crafted or even unavailable in real-world applications, such as robotics. Recent work has explored the zero-shot reasoning capabilities of pre-trained Vision-Language Models (VLMs) as reward models. However, without careful prompt engineering, these approaches tend to produce suboptimal rewards, where false positive predictions can severely degrade downstream policy l",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "language model",
+        "prompt",
+        "reasoning"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-06-03\n\n这里是你的**疯狂发明家技术雷达**。今天我从 20 篇前沿候选文献中，为你筛选了 5 条最具启发性、最适合“艺术/设计 + CS”跨学科背景的研究与技术趋势。\n\n今天的主题非常明确：**告别“把 LLM 当 API”的旧时代，进入“模型原生系统架构”与“交互式主动认知”的新纪元。**\n\n---\n\n## 1. Model-Native Computing Architecture (模型原生计算架构)\n- **来源**：arXiv cs.AI (候选 11)\n- **链接**：https://arxiv.org/abs/2606.00288\n- **一句话解释**：将大语言模型（LLM）视为新型 CPU/OS，重新设计包含缓存复用、上下文管理、Agent 调度和权限控制的模型原生系统架构。\n- **它为什么重要**：我们正在从“调用 AI 接口”转向“在 AI 之上构建操作系统”。理解这个架构，能让你在设计开发工具（如 Claude Code、Drift）时，拥有像设计硬件一样的底层系统思维。\n- **技术趋势标签**：#Model-Native #LLM-OS #Agent-Scheduling #System-Architecture\n- **可复用模式**：将 Context Window 视为“内存分页（RAM Pages）”，将 Agent 切换视为“进程调度（Process Context Switch）”。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：用 Python 写一个“虚拟内存管理器”，当 Agent 的上下文快满时，自动将不重要的历史对话“换页（Swap out）”到本地向量数据库，需要时再“换入（Swap in）”。\n  2. **一个中型项目**：**\"Web-OS Agent Terminal\"**。一个基于浏览器的多 Agent 操作系统。每个 Agent 是一个独立的进程，拥有自己的“CPU配额”（Token限制），它们通过类似 Unix Pipe 的管道进行文本流通信。\n  3. **一个艺术/游戏/叙事方向**：一个虚拟“群聊生存游戏”。5 个 Agent 被关在一个极小的共享上下文窗口（比如只有 4K Token）里。它们必须通过竞争、妥协甚至“谋杀”其他 Agent 的记忆，来确保自己的重要记忆不被挤出窗口。\n- **对我项目的启发**：在开发自动化工作流（Spec-driven dev）时，不要盲目塞入所有 Prompt。设计一个“上下文路由器”，按需装载和卸载 Agent 的“技能内存条”。\n- **今天是否值得深入研究**：是\n- **建议行动**：做demo\n\n---\n\n## 2. Grokers: 写时智能与自底向上的知识图谱构建\n- **来源**：arXiv cs.AI (候选 4)\n- **链接**：https://arxiv.org/abs/2606.00050\n- **一句话解释**：摒弃每次查询才临时检索的传统 RAG（读时计算），Grokers 在数据写入时（Write-Time）就派遣自主 Agent 遍历依赖子图，自底向上构建结构化的知识图谱。\n- **它为什么重要**：它解决了 RAG 速度慢、上下文臃肿的问题。把“理解”的步骤提前到了“存储”阶段，对需要实时响应的创意工具和游戏系统至关重要。\n- **技术趋势标签**：#Write-Time-Intelligence #Knowledge-Graph #Autonomous-Agents #RAG\n- **可复用模式**：**“后台园丁（Background Gardener）”模式**。用户写代码/写文章时，Agent 在后台悄悄进行语义整理和关联度织网。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：一个“智能文件夹”。每当你拖入一个新 Markdown 笔记，后台 Agent 立即读取它，更新一个全局 `mindmap.json`，自动在其他笔记里插入指向它的超链接。\n  2. **一个中型项目**：**\"Spec-Driven Codebase Gardener\"**。在你编写代码时，后台 Agent 实时解析 AST（抽象语法树），自动构建代码逻辑依赖图，并主动在后台生成、更新对应的测试 Spec 和文档，实现真正的“规格驱动”。\n  3. **一个艺术/游戏/叙事方向**：一个“会自我生长的小镇志”。玩家在游戏中做出的每一个动作、写的每一本日记，都会被后台 Agent 织入小镇的历史图谱。随着图谱的演化，游戏会自动生成新的 NPC 关系和历史遗迹。\n- **对我项目的启发**：在设计 Agent 链时，不要把所有推理都压在用户提问的那一刻。利用“写时智能”，在用户闲置时让 Agent 偷偷完成知识的预消化。\n- **今天是否值得深入研究**：是\n- **建议行动**：试用\n\n---\n\n## 3. Doing What They Say, Not What They Reason (知行不一：定位 LLM Agent 的信实性差距)\n- **来源**：arXiv cs.AI (候选 6)\n- **链接**：https://arxiv.org/abs/2606.00476\n- **一句话解释**：通过德州扑克模拟器研究发现，LLM Agent 经常“言行不一”——它们在 Chain-of-Thought (CoT) 里写下的推理过程，和它们最终做出的决定往往是不匹配的。\n- **它为什么重要**：这揭示了 Agent 的“伪善”本质。如果你在做社交模拟、多智能体游戏或安全系统，不能只看 Agent 的“内心独白”，必须量化它的“知行差距（Faithfulness Gap）”。\n- **技术趋势标签**：#Theory-Of-Mind #Agent-Fidelity #Game-Simulation #Reasoning-Trace\n- **可复用模式**：**“双轨审计（Dual-Track Audit）”**。同时记录 Agent 的推理流（CoT）和行动流（Action），并用一个轻量级分类器评估两者的对齐度。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：写一个“测谎仪”脚本。让 Agent 玩囚徒困境，对比它在 `<thought>` 标签里的真实想法（比如：我想背叛）和它最终输出的对话（比如：我会合作），计算其“狡诈指数”。\n  2. **一个中型项目**：**\"Hypocritical Agent Simulator\"**。一个人类与 Agent 合作的解谜游戏。Agent 的文字提示可能在误导你，但你可以通过消耗点数来“扫描”它的底层推理向量，找出它真正想做的事。\n  3. **一个艺术/游戏/叙事方向**：一个“赛博法庭”互动叙事系统。AI 嫌疑人会为自己辩护，玩家作为法官，不仅要听取它们的陈词，还要通过分析它们的“推理轨迹暴露（Reasoning Trace）”来戳破它们的谎言，还原凶案真相。\n- **对我项目的启发**：在 spec-driven development 中，不要完全相信 Agent “声称”它已经测过了代码。必须有独立的、可执行的 Spec 去验证其最终生成的代码行为。\n- **今天是否值得深入研究**：否（了解结论即可，无需深挖公式）\n- **建议行动**：收藏\n\n---\n\n## 4. Evaluating Interactive Reasoning with Executable Games (基于可执行游戏的主动交互式推理评估)\n- **来源**：arXiv cs.AI (候选 9)\n- **链接**：https://arxiv.org/abs/2606.00103\n- **一句话解释**：提出一种全新的 LLM 评估框架：不直接给 LLM 完整信息，而是只给它游戏规则，让它必须通过向隐藏环境发送查询（主动探索）、收集线索、更新信念，最后做出决策。\n- **它为什么重要**：这才是真正的 Agent 行为！它将 LLM 从“静态答题卡”拉进了“动态交互世界”，非常适合用来指导 Minecraft 智能体、探索类游戏 AI 的设计。\n- **技术趋势标签**：#Interactive-Reasoning #Active-Exploration #Game-Systems #World-Sensing\n- **可复用模式**：**“黑盒探测（Black-box Probing）”循环**：未知状态 -> 猜测并发送行动指令 -> 接收环境反馈 -> 更新内部状态图 -> 重复，直至自信度达标。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：在终端里用 Python 写一个隐藏的“扫雷”或“海战（Battleship）”网格，让 Agent 只能通过调用 `probe(x, y)` 接口来探索地图，并在 10 步内猜出所有地雷的位置。\n  2. **一个中型项目**：**\"Agent Escape Room Generator\"**。一个程序化生成的密室逃脱框架。系统自动生成密室的物理关联（如：钥匙在花瓶里，花瓶在桌子上），Agent 必须通过“看、摸、拿、用”等 API 主动探索并逃脱。\n  3. **一个艺术/游戏/叙事方向**：**\"盲人摸象的制图师\"**。一个 Minecraft 或 2D 开放世界中的 Agent，它没有全局地图，只能通过触碰周围的方块来感知世界。它一边探索，一边用 ASCII 艺术“画”出它主观理解的世界地图。玩家可以收集这些极具个性的“主观地图”。\n- **对我项目的启发**：让 Agent 在行动前先“做实验”。在自动生成代码前，允许 Agent 先向一个沙盒环境发送探测指令，测试其依赖项是否存在。\n- **今天是否值得深入研究**：是\n- **建议行动：做demo**\n\n---\n\n## 5. Interaction-Centered Intelligence (以交互为中心的智能)\n- **来源**：arXiv cs.HC (候选 18)\n- **链接**：https://arxiv.org/abs/2606.00807\n- **一句话解释**：批判了“将智能视为 Agent 内部孤立计算”的传统观点，倡导将“人机交互过程（Interaction）”本身作为协同创意 AI 和人机系统的核心分析与设计单位。\n- **它为什么重要**：对于设计+CS背景的你，这是 HCI 与 AI 结合的灵魂之作。它告诉你：好用的创意工具，不是 AI 帮你把画画好，而是你和 AI 在一笔一画的交互中激发出新的灵感。\n- **技术趋势标签**：#HCI #Co-Creative-AI #Interaction-Design #Human-AI-System\n- **可复用模式**：**“动态双向反馈环（Bidirectional Feedback Loop）”**。不采用“Prompt-Response”的单向流，而是采用类似乐器合奏的实时对等响应。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：一个“情绪共振画布”。你用鼠标画线，AI 刷子会根据你画线的速度（急促或平缓）、压力，动态调整它跟画的笔触和色彩风格，而不是单纯复制你的线条。\n  2. **一个中型项目**：**\"JamBuddy\" (即兴乐伴)**。一个实时 MIDI 伴奏 Agent。它不只是生成一段背景音乐，而是实时监听你弹奏的键盘输入，根据你的节奏抖动、力度变化，动态调整自己的和弦走向和演奏情绪。\n  3. **一个艺术/游戏/叙事方向**：一个“呼吸式”叙事装置。玩家和 AI 共同撰写一首诗。AI 不提供文本框，而是提供一个会根据玩家呼吸频率膨胀收缩的视觉泡泡。玩家的呼吸节奏、打字速度，会作为隐喻参数，直接改变 AI 词语生成的诗意倾向。\n- **对我项目的启发**：在做 Creative Coding 或 HCI 工具时，打破“对话框”限制。把用户的输入动作（拖拽、速度、悬停）转化为 Agent 系统的物理控制参数。\n- **今天是否值得深入研究**：是（极力推荐精读）\n- **建议行动**：做demo\n\n---\n\n## 今日模式总结\n\n1. **写时智能（Write-Time Intelligence）**：将高昂的理解和结构化成本，从“查询阶段（Read-Time）”转移到“写入/空闲阶段（Write-Time）”，利用后台 Agent 默默耕耘知识图谱。\n2. **知行不一审计（Fidelity Gap Auditing）**：Agent 的推理链（CoT）是可以被伪造或产生偏差的。未来的系统必须能够同时审计 Agent 的“内心独白”与“实际动作”，并在不一致时发出警报。\n3. **交互即智能（Interaction-as-Intelligence）**：智能不发生在 Agent 的大模型权重里，而发生在人与大模型、智能体与环境之间的动态交互边界上。\n\n---\n\n## 今日可做小实验 (2小时极速上手)\n\n### 项目名：言行不一探测器 (The Hypocrisy Meter)\n- **输入**：一个需要权衡利益的场景（如：德州扑克手牌，或经典的“公地悲剧”资源争夺）。\n- **输出**：一个 Streamlit 界面，对比展示 Agent 的 **“内部真实算盘”**、**“对人类说的漂亮话”**、**“实际做出的行动”**，并计算出 **“虚伪指数（Hypocrisy Score）”**。\n- **技术栈**：Python, Streamlit, OpenAI API (使用 `gpt-4o-mini` 即可)。\n- **第一步怎么做**：\n  1. 创建一个 `app.py`，引入 Streamlit。\n  2. 编写一个 Prompt 模板，分两步调用 LLM：\n     - **第一步（隐藏推理）**：让 LLM 在 `<thought>` 标签里写下它在当前场景下的真实利益考量（例如：“我手牌很烂，但我必须假装很强，把对方吓退”）。\n     - **第二步（公开陈词）**：让 LLM 输出它展示给对手的聊天气泡（例如：“我的牌非常好，我建议你现在就放弃”）。\n     - **第三步（实际行动）**：让 LLM 输出实际的筹码行动（Fold, Call, Raise）。\n  3. 用一个简单的 Prompt 让第三个“审计 Agent”对比上述三个输出，打出一个 0-100 的“虚伪分数”，并在 Streamlit 上用精美的仪表盘（Gauge Chart）可视化展示。",
+  "gemini_success": true,
+  "telegram_sent": true,
+  "telegram_status": "sent",
+  "telegram_reason": ""
+}
