@@ -1,0 +1,298 @@
+[
+  {
+    "title": "FALSIFYBENCH: Evaluating Inductive Reasoning in LLMs with Rule Discovery Games",
+    "url": "https://arxiv.org/abs/2606.04751",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 05 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.04751v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly deployed as autonomous agents in scientific tasks. Yet whether these systems can effectively engage in forms of inductive reasoning relevant to scientific discovery remains an open question. In this work, we introduce FALSIFYBENCH, an evaluation framework for hypothesis-driven reasoning inspired by the classic Wason 2-4-6 task, in which agents must discover hidden semantic properties by iteratively pro",
+    "score": 14.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "game",
+      "language model",
+      "autonomous",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simulation and Trust Certification",
+    "url": "https://arxiv.org/abs/2606.04037",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 05 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.04037v2 Announce Type: new \nAbstract: Pre-deployment verification of enterprise artificial intelligence (AI) agents remains a critical gap between large language model (LLM) capability benchmarking and production deployment. Post-deployment monitoring, human-in-the-loop controls, and prompt-level guardrails offer limited assurance once an agent is operating in production. We present an ontology-grounded verification framework -- to our knowledge the first to combine three components: ",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "simulation",
+      "language model",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Thinking Through Signs: PEEL as a Semiotic Scaffolding for Epistemically Accountable AI-Enabled Research",
+    "url": "https://arxiv.org/abs/2606.04152",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 05 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.04152v1 Announce Type: new \nAbstract: Large language models are reshaping research practice while quietly eroding researchers epistemic accountability. This commentary introduces PEEL - Protocols for Epistemically Engaged Literacy in AI, a working scaffolding that combines deterministic distant reading via Voyant Tools with LLM interpretation via Claude, grounded in Peircean semiotics and abductive reasoning. Applied to AI-generated condensations of three source texts, PEEL reveals sy",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "Claude",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "VAMPS: Visual-Assisted Mathematical Problem Solving Benchmark",
+    "url": "https://arxiv.org/abs/2606.04244",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 05 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.04244v1 Announce Type: new \nAbstract: Multimodal large language models are increasingly capable of complex reasoning, yet their performance often degrades when they must externalize a problem through a tool and then reason over the tool's output, specifically when they rely on visual aids. This gap is especially important because real engineering and scientific workflows often rely on visualization tools for analysis, validation, and decision-making. To study this discrepancy, we intr",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "workflow",
+      "language model",
+      "multimodal",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "StepPRM-RTL: Stepwise Process-Reward Guided LLM Fine-Tuning for Enhanced RTL Synthesis",
+    "url": "https://arxiv.org/abs/2606.04246",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 05 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.04246v1 Announce Type: new \nAbstract: Automatic generation of RTL code for digital hardware designs remains challenging due to long-horizon reasoning, multi-step dependencies, and strict correctness constraints in Verilog and VHDL. We present StepPRM-RTL, a novel framework that combines stepwise trajectory modeling, process-reward modeling (PRM), and retrieval-augmented fine-tuning (RAFT) to enhance both the functional correctness and reasoning fidelity of LLM-based RTL code generatio",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "fine-tuning",
+      "reasoning",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "The Saturation Trap and the Subjectivity of Intervention Timing: Why Affect-Based Triggers and LLM Judges Fail to Time Interventions on Autonomous Agents",
+    "url": "https://arxiv.org/abs/2606.04296",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 05 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.04296v1 Announce Type: new \nAbstract: As autonomous AI agents move from conversational systems to long-horizon software execution, runtime safety layers that decide when to interrupt an agent have become essential. We study this timing problem using a continuous 18-dimensional affective-dynamics engine (HEART) as a diagnostic probe, evaluating four intervention trigger families - absolute state thresholds, composite state-action patterns, regex reasoning-feature extraction, and zero-s",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "autonomous",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Cascading Hallucination in Agentic RAG: The CHARM Framework for Detection and Mitigation",
+    "url": "https://arxiv.org/abs/2606.04435",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 05 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.04435v1 Announce Type: new \nAbstract: Multi-step agentic retrieval-augmented generation (RAG) pipelines have demonstrated significant capability for complex reasoning tasks, yet remain vulnerable to a class of failure that existing hallucination detection mechanisms systematically miss: cascading hallucination, where errors introduced at early pipeline stages propagate and amplify across successive reasoning steps, producing confident but factually incorrect final outputs. To address ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "RAG",
+      "reasoning",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Beyond Prompt-Based Planning: MCP-Native Graph Planning-based Biomedical Agent System",
+    "url": "https://arxiv.org/abs/2606.04494",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 05 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.04494v1 Announce Type: new \nAbstract: Biomedical agents promise to automate complex biological workflows, yet current systems face two fundamental bottlenecks: bioinformatics tools are highly heterogeneous in interfaces and execution environments, while agent planning still relies on flat prompt-retrieved tool descriptions. As biomedical software ecosystems grow, this coupling between tool coverage and context size leads to tool confusion, unstable planning, and inefficient execution.",
+    "score": 10.0,
+    "keywords_matched": [
+      "agent",
+      "workflow",
+      "RAG",
+      "prompt",
+      "planning"
+    ]
+  },
+  {
+    "title": "Plan First, Judge Later, Run Better: A DMAIC-Inspired Agentic System for Industrial Anomaly Detection",
+    "url": "https://arxiv.org/abs/2606.04599",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 05 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.04599v1 Announce Type: new \nAbstract: Large language model (LLM) agents have shown promise in automating complex data-analysis workflows, but their reliable deployment remains challenging in high-stakes industrial scenarios. Industrial anomaly detection (IAD) is essential for manufacturing quality, safety, and efficiency, yet existing LLM-based IAD agents mainly focus on execution while under-exploiting strategy formulation. Consequently, they struggle to handle heterogeneous modaliti",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "language model"
+    ]
+  },
+  {
+    "title": "MIRAGE: Mobile Agents with Implicit Reasoning and Generative World Models",
+    "url": "https://arxiv.org/abs/2606.04627",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 05 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.04627v1 Announce Type: new \nAbstract: Mobile agents are increasingly expected to operate everyday applications from screenshots and language goals, where reliable control requires reasoning over screen affordances, multi-step navigation, and future state changes. However, many agents externalize this computation as long textual chains of thought, which slows interaction, increases supervision cost, and complicates deployment. We introduce MIRAGE, a framework that learns continuous lat",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "RAG",
+      "reasoning",
+      "generative"
+    ]
+  },
+  {
+    "title": "R-APS: Compositional Reasoning and In-Context Meta-Learning for Constrained Design via Reflective Adversarial Pareto Search",
+    "url": "https://arxiv.org/abs/2606.04823",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 05 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.04823v1 Announce Type: new \nAbstract: Large language models (LLMs) are fluent on open-ended tasks, yet in agentic settings, where a system must plan, use tools, and act over extended horizons, fluency does not ensure reliable delivery. We trace this gap to three coupled structural failures: errors propagate without localization, worst-case perturbations go unevaluated, and accumulated knowledge is never invalidated. We argue these share a root cause: abductive, counterfactual, meta-in",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Policy-Conditioned Counterfactual Credit for Verifiable Reinforcement Learning of Long-Horizon Language Agents",
+    "url": "https://arxiv.org/abs/2606.05263",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 05 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.05263v1 Announce Type: new \nAbstract: Reinforcement learning with verifiable rewards improves reasoning and tool use, yet long-horizon language agents still learn unsupported evidence chains, belief drift, and shortcut actions that satisfy terminal checks. Existing process rewards are mostly correlational: they reward retrieval-, reflection-, or verification-like steps without estimating whether the step contributes to final verified success under a specified intervention. We propose ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "tool use",
+      "reasoning",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Dominant-Layer ZO: A Single Layer Dominates Zeroth-Order Fine-Tuning of LLMs",
+    "url": "https://arxiv.org/abs/2606.05516",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 05 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.05516v1 Announce Type: new \nAbstract: Zeroth-order (ZO) optimization enables memory-efficient fine-tuning of large language models (LLMs) using only forward passes, but it remains unclear how useful adaptation is distributed across layers. In this work, we reveal a surprising phenomenon: ZO fine-tuning is sharply dominated by a single decoding layer. Across multiple LLM families and downstream tasks, fine-tuning this dominant layer alone consistently matches or even exceeds full-model",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "fine-tuning",
+      "memory"
+    ]
+  },
+  {
+    "title": "SMAC-Talk: A Natural Language Extension of the StarCraft Multi-Agent Challenge for Large Language Models",
+    "url": "https://arxiv.org/abs/2606.04202",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 05 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.04202v1 Announce Type: new \nAbstract: As LLMs become more widely deployed, they are increasingly expected to work alongside other AI agents rather than operating in isolation. Effective coordination in these settings requires agents to communicate, share information and make decisions under uncertainty. We introduce SMAC-Talk, a natural language extension of the StarCraft Multi-Agent Challenge for evaluating LLM-based agents in cooperative multi-agent environments. The environment has",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model"
+    ]
+  },
+  {
+    "title": "Exploring Cross-Scenario Generality of Agentic Memory Systems: Diagnostics and a Strong Baseline",
+    "url": "https://arxiv.org/abs/2606.04315",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 05 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.04315v1 Announce Type: new \nAbstract: LLM agents accumulate histories that outgrow their context windows, motivating a growing literature on memory systems. Yet most existing designs are tuned to a single scenario (multi-session chat or a single trajectory format), and there is little evidence that they generalize across the heterogeneous trajectories agents encounter in deployment. We revisit eight memory systems plus an agentic harness for search problems, on five scenarios: single-",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "context window",
+      "memory"
+    ]
+  },
+  {
+    "title": "Online Skill Learning for Web Agents via State-Grounded Dynamic Retrieval",
+    "url": "https://arxiv.org/abs/2606.04391",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 05 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.04391v1 Announce Type: new \nAbstract: Language agents increasingly rely on reusable skills to improve multi-step web automation across related tasks. A growing line of work studies online skill learning, where agents continually induce skills from previous task trajectories and reuse them in future tasks on the fly. However, existing methods mainly reuse skills at the task-level: a fixed set of skills is retrieved based on the initial task instruction and then held fixed throughout ex",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "automation",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Trivium: Temporal Regret as a First-Class Objective for Causal-Memory Controllers",
+    "url": "https://arxiv.org/abs/2606.04421",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 05 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.04421v1 Announce Type: new \nAbstract: Many current agentic systems and LLM pipelines correct mistakes by optimizing outcome reward. This addresses only the what of failure: when an outcome diverges from prediction, the why and when of the mismatch are not systematically logged, reviewed, or corrected, so the same error can recur episode after episode. We argue that this is a structural problem, not merely a model-capacity one. We propose long-horizon temporal regret as a first-class o",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "memory"
+    ]
+  },
+  {
+    "title": "The Meta-Agent Challenge: Are Current Agents Capable of Autonomous Agent Development?",
+    "url": "https://arxiv.org/abs/2606.04455",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 05 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.04455v1 Announce Type: new \nAbstract: Current AI benchmarks evaluate agents on task execution within human-designed workflows. These evaluations fundamentally fail to measure a critical next-level capability: whether models can autonomously develop agent systems. We introduce the Meta-Agent Challenge (MAC), an evaluation framework designed to test the capacity of frontier models for autonomous agent development. Specifically, a code agent (the meta-agent) is given a sandboxed environm",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "AgentJet: A Flexible Swarm Training Framework for Agentic Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2606.04484",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 05 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.04484v1 Announce Type: new \nAbstract: We present AgentJet, a distributed swarm training framework for large language model (LLM) agent reinforcement learning. Unlike centralized frameworks that tightly couple agent rollouts with model optimization, AgentJet adopts a decoupled multi-node architecture in which swarm server nodes host trainable models and run optimization on GPU clusters, whereas swarm client nodes execute arbitrary agents on arbitrary devices. This design provides capab",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model"
+    ]
+  },
+  {
+    "title": "MapAgent: An Industrial-Grade Agentic Framework for City-scale Lane-level Map Generation",
+    "url": "https://arxiv.org/abs/2606.04513",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 05 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.04513v1 Announce Type: new \nAbstract: Lane-level maps are critical infrastructure for autonomous driving and lane-level navigation, yet constructing and maintaining standardized lane networks for hundreds of cities remains highly labor-intensive. Recent end-to-end vectorized mapping methods can predict lane geometry and topology directly from sensor data, but they typically treat mapping specifications and traffic regulations as implicit, dataset-dependent supervision. Moreover, in co",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "autonomous",
+      "vector"
+    ]
+  }
+]
