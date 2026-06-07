@@ -1,0 +1,288 @@
+[
+  {
+    "title": "khoj-ai / khoj",
+    "url": "https://github.com/khoj-ai/khoj",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free. [46 stars today]",
+    "score": 16.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "Claude",
+      "Gemini",
+      "automation",
+      "GPT",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "0x4m4 / hexstrike-ai",
+    "url": "https://github.com/0x4m4/hexstrike-ai",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities. [46 stars today]",
+    "score": 16.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "Claude",
+      "Copilot",
+      "automation",
+      "GPT",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "Brick-Composer: Using MLLMs for Assembly with Diverse Bricks",
+    "url": "https://arxiv.org/abs/2606.05445",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 06 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.05445v1 Announce Type: new \nAbstract: We dream of AI agents that can read arbitrary designs and construct real-world objects from reusable building blocks. As a first step toward this vision, we study whether multimodal large language models (MLLMs) possess the visual grounding and spatial reasoning capabilities required for brick assembly. We formulate brick assembly as a sequential decision-making problem, where each step involves two subtasks: brick selection, identifying the targe",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "multimodal",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "FIDES: Faithful Inference via Deep Evidence Signals for Retrieval-Memory Conflict in RAG",
+    "url": "https://arxiv.org/abs/2606.05644",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 06 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.05644v1 Announce Type: new \nAbstract: When retrieved evidence contradicts parametric memory, language models frequently ignore context and default to memorized priors -- a failure that undermines the core purpose of retrieval augmentation. Contrastive decoding amplifies the context-conditioned output to suppress parametric bias, but existing methods rest on an implicit assumption that this bias is uniform across tokens. A single global contrastive weight over-penalizes safe tokens whi",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "language model",
+      "RAG",
+      "inference",
+      "memory",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "What Should Agents Say? Action-state Communication for Efficient Multi-Agent Systems",
+    "url": "https://arxiv.org/abs/2606.05304",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 06 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.05304v1 Announce Type: new \nAbstract: Multi-agent systems (MAS) built on large language models are typically organized around roles, pipelines, and turn schedules, while the content that agents pass to one another is often left as unconstrained natural language. However, this free-form communication can rapidly inflate token usage, consume the shared context window, and ultimately affect both system performance and inference cost. We analyze five common inter-agent communication strat",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "language model",
+      "inference",
+      "context window"
+    ]
+  },
+  {
+    "title": "Insurance of Agentic AI",
+    "url": "https://arxiv.org/abs/2606.05449",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 06 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.05449v1 Announce Type: new \nAbstract: Agentic artificial intelligence (AI) systems are transforming the risk landscape by extending beyond information generation to autonomous planning, tool invocation, decision execution, and persistent modification of digital and physical environments. These capabilities introduce novel exposures that do not fit neatly within traditional insurance categories such as cyber, professional liability, product liability, or directors and officers coverage",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "autonomous",
+      "RAG",
+      "planning"
+    ]
+  },
+  {
+    "title": "GuardNet: Ensemble Strategies of Shallow Neural Networks for Robust Prompt Injection and Jailbreak Detection",
+    "url": "https://arxiv.org/abs/2606.05566",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 06 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.05566v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have transformed natural language processing, but they remain vulnerable to Prompt Injection (PI) and Jailbreak (JB) attacks. In addition, benchmark evaluations may be affected by contamination and partial information leakage, compromising performance estimates. This work presents GuardNet, a guardrail system based on an ensemble of shallow neural networks (BiLSTMs) with approximately 47 million parameters. We investig",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "neural",
+      "language model",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Safety Paradox: How Enhanced Safety Awareness Leaves LLMs Vulnerable to Posterior Attack",
+    "url": "https://arxiv.org/abs/2606.05614",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 06 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.05614v1 Announce Type: new \nAbstract: Large language models (LLMs) are rigorously aligned to refuse harmful requests, a process that inherently cultivates a latent capacity to evaluate and recognize unsafe content. In this work, we reveal that this advanced safety awareness inadvertently introduces a fatal vulnerability. We introduce Posterior Attack, a single-query jailbreak that bypasses guardrails by prompting the model to generate the exact harmful response its internal classifier",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Self-Commitment Latency: A Reward-Free Probe for Prompted Implicit Hacking",
+    "url": "https://arxiv.org/abs/2606.05625",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 06 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.05625v1 Announce Type: new \nAbstract: Implicit reward hacking is hard to audit when a language model's chain of thought appears benign: a final answer may be anchored by a prompt shortcut while the written reasoning still resembles ordinary problem solving. Verifier-based probes expose such behavior by measuring how early truncated reasoning contexts obtain high reward, but require a task-specific reward signal. This paper proposes a weaker-input alternative, self-commitment latency, ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "language model",
+      "prompt",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Answer Presence Drives RAG Rewriting Gains",
+    "url": "https://arxiv.org/abs/2606.05633",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 06 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.05633v1 Announce Type: new \nAbstract: Retrieval-augmented QA pipelines often route retrieved passages through an LLM \\emph{rewriter} before a smaller reader, lifting F1 by tens of points on multi-hop benchmarks; this gain is typically credited to improved evidence quality. We ask whether that lift is causally driven by the gold answer string appearing in the rewritten context rather than by curation per se, using a controlled intervention audit. For each rewritten context we re-run th",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "RAG",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Shubhamsaboo / awesome-llm-apps",
+    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship. [206 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "RAG"
+    ]
+  },
+  {
+    "title": "How Far Did They Go? The Persuasive Tactics of Covert LLM Agents in a Discontinued Field Experiment",
+    "url": "https://arxiv.org/abs/2606.05256",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 06 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.05256v1 Announce Type: new \nAbstract: This study analyzes a publicly released dataset from a discontinued field experiment on Reddit's r/ChangeMyView. The intervention, conducted by unknown, external researchers and halted following ethical backlash, involved undisclosed AI-generated accounts engaging users in live debate. After public disclosure, Reddit authorized moderators to release an archive of the AI-generated comments, creating a rare opportunity to examine how large language ",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM"
+    ]
+  },
+  {
+    "title": "Agents' Last Exam",
+    "url": "https://arxiv.org/abs/2606.05405",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 06 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.05405v1 Announce Type: new \nAbstract: Recent AI systems have achieved strong results on a wide range of benchmarks, yet these gains have not translated into economically meaningful deployment across many professional domains. We argue that this gap is largely an evaluation problem: widely used benchmarks lack sustained performance measurement on real and economically valuable workflows. This paper introduces Agents' Last Exam (ALE), a benchmark designed to evaluate AI agents on long-h",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow"
+    ]
+  },
+  {
+    "title": "Mutation Without Variation: Convergence Dynamics in LLM-Driven Program Evolution",
+    "url": "https://arxiv.org/abs/2606.05408",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 06 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.05408v1 Announce Type: new \nAbstract: When an LLM repeatedly mutates a program, does it explore new forms or circle back to the same ones? We study this question by analyzing LLM-driven mutation chains in the absence of selection pressure within a domain-specific language, varying prompt design, model family, and stochastic replication. We find that LLM-based mutation consistently converges toward restricted attractor regions in program space. Convergence is especially severe at the s",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Minimizing the Hidden Cost of Scales: Graph-Guided Ultra-Low-Bit Quantization for Large Language Models",
+    "url": "https://arxiv.org/abs/2606.05429",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 06 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.05429v1 Announce Type: new \nAbstract: Post-training quantization (PTQ) is critical for the efficient deployment of large language models (LLMs). Recent ultra-low-bit PTQ methods rely on rigid weight-saliency assumptions or position heuristics, introducing substantial hidden scaling overhead. We propose SAGE-PTQ (Saliency-Aware Graph-guided Efficient PTQ), a novel ultra-low-bit quantization framework for LLMs that minimizes hidden scaling cost. SAGE-PTQ separates salient and unsalient ",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model"
+    ]
+  },
+  {
+    "title": "Ten Headache Specialists versus Artificial Intelligence for Clinical Literature Summarization: A Critical Evaluation and Comparison",
+    "url": "https://arxiv.org/abs/2606.05436",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 06 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.05436v1 Announce Type: new \nAbstract: Summarizing the latest medical literature to guide clinical decision-making is essential for evidence-based medicine and high-quality patient care. Yet clinicians face increasing challenges due to limited time with patients and a rapidly growing volume of published articles. Although retrieval-augmented large language models (LLMs) have shown promise in clinical summarization, human evaluations of their effectiveness in synthesizing broader scient",
+    "score": 6.0,
+    "keywords_matched": [
+      "LLM",
+      "language model",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "PSEBench: A Controllable and Verifiable Benchmark for Evaluating LLMs in Patient Safety Event Triage",
+    "url": "https://arxiv.org/abs/2606.05463",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 06 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.05463v1 Announce Type: new \nAbstract: Patient safety event triage, determining whether a clinical event is reportable under jurisdiction-specific policy, is a high-stakes task typically performed manually by patient safety experts. Although LLMs may support this workflow, reliable evaluation is limited by the lack of benchmarks to capture evidence-grounded policy reasoning, proactive information seeking for incomplete reports, and principled abstention in irreducibly ambiguous cases. ",
+    "score": 6.0,
+    "keywords_matched": [
+      "LLM",
+      "workflow",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Step-by-Step Optimization-like Reasoning in LLMs over Expanding Search Spaces",
+    "url": "https://arxiv.org/abs/2606.05464",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 06 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.05464v1 Announce Type: new \nAbstract: Verifiable reward training has improved mathematical and coding reasoning, but these domains capture only part of step-by-step decision making. Many real-world tasks require finding a high-value feasible plan among many valid alternatives. We introduce OPT*, a scalable family of optimization-style tasks for training and evaluating LLM step-by-step optimization-like reasoning along a complexity axis: each task provides a feasibility checker and eva",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "EpiEvolve: Self-Evolving Agents for Streaming Pandemic Forecasting under Regime Shifts",
+    "url": "https://arxiv.org/abs/2606.05513",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 06 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.05513v1 Announce Type: new \nAbstract: Epidemic LLM forecasters are usually trained and evaluated as static supervised models, whereas operational pandemic forecasting is a streaming process in which labels arrive after predictions and disease regimes shift over time. We study this mismatch in weekly COVID-19 hospitalization trend forecasting across five variant regimes. We introduce EpiEvolve, a self-evolving agent that wraps an LLM forecaster trained on the warm-start period and keep",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM"
+    ]
+  },
+  {
+    "title": "ansible / ansible",
+    "url": "https://github.com/ansible/ansible",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems.https://docs.ansible.com. [14 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "automation"
+    ]
+  }
+]

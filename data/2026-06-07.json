@@ -1,0 +1,296 @@
+{
+  "date": "2026-06-07",
+  "candidates": [
+    {
+      "title": "khoj-ai / khoj",
+      "url": "https://github.com/khoj-ai/khoj",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free. [46 stars today]",
+      "score": 16.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "Claude",
+        "Gemini",
+        "automation",
+        "GPT",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "0x4m4 / hexstrike-ai",
+      "url": "https://github.com/0x4m4/hexstrike-ai",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities. [46 stars today]",
+      "score": 16.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "Claude",
+        "Copilot",
+        "automation",
+        "GPT",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "Brick-Composer: Using MLLMs for Assembly with Diverse Bricks",
+      "url": "https://arxiv.org/abs/2606.05445",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 06 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.05445v1 Announce Type: new \nAbstract: We dream of AI agents that can read arbitrary designs and construct real-world objects from reusable building blocks. As a first step toward this vision, we study whether multimodal large language models (MLLMs) possess the visual grounding and spatial reasoning capabilities required for brick assembly. We formulate brick assembly as a sequential decision-making problem, where each step involves two subtasks: brick selection, identifying the targe",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "multimodal",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "FIDES: Faithful Inference via Deep Evidence Signals for Retrieval-Memory Conflict in RAG",
+      "url": "https://arxiv.org/abs/2606.05644",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 06 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.05644v1 Announce Type: new \nAbstract: When retrieved evidence contradicts parametric memory, language models frequently ignore context and default to memorized priors -- a failure that undermines the core purpose of retrieval augmentation. Contrastive decoding amplifies the context-conditioned output to suppress parametric bias, but existing methods rest on an implicit assumption that this bias is uniform across tokens. A single global contrastive weight over-penalizes safe tokens whi",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "language model",
+        "RAG",
+        "inference",
+        "memory",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "What Should Agents Say? Action-state Communication for Efficient Multi-Agent Systems",
+      "url": "https://arxiv.org/abs/2606.05304",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 06 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.05304v1 Announce Type: new \nAbstract: Multi-agent systems (MAS) built on large language models are typically organized around roles, pipelines, and turn schedules, while the content that agents pass to one another is often left as unconstrained natural language. However, this free-form communication can rapidly inflate token usage, consume the shared context window, and ultimately affect both system performance and inference cost. We analyze five common inter-agent communication strat",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "language model",
+        "inference",
+        "context window"
+      ]
+    },
+    {
+      "title": "Insurance of Agentic AI",
+      "url": "https://arxiv.org/abs/2606.05449",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 06 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.05449v1 Announce Type: new \nAbstract: Agentic artificial intelligence (AI) systems are transforming the risk landscape by extending beyond information generation to autonomous planning, tool invocation, decision execution, and persistent modification of digital and physical environments. These capabilities introduce novel exposures that do not fit neatly within traditional insurance categories such as cyber, professional liability, product liability, or directors and officers coverage",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "autonomous",
+        "RAG",
+        "planning"
+      ]
+    },
+    {
+      "title": "GuardNet: Ensemble Strategies of Shallow Neural Networks for Robust Prompt Injection and Jailbreak Detection",
+      "url": "https://arxiv.org/abs/2606.05566",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 06 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.05566v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have transformed natural language processing, but they remain vulnerable to Prompt Injection (PI) and Jailbreak (JB) attacks. In addition, benchmark evaluations may be affected by contamination and partial information leakage, compromising performance estimates. This work presents GuardNet, a guardrail system based on an ensemble of shallow neural networks (BiLSTMs) with approximately 47 million parameters. We investig",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "neural",
+        "language model",
+        "prompt"
+      ]
+    },
+    {
+      "title": "Safety Paradox: How Enhanced Safety Awareness Leaves LLMs Vulnerable to Posterior Attack",
+      "url": "https://arxiv.org/abs/2606.05614",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 06 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.05614v1 Announce Type: new \nAbstract: Large language models (LLMs) are rigorously aligned to refuse harmful requests, a process that inherently cultivates a latent capacity to evaluate and recognize unsafe content. In this work, we reveal that this advanced safety awareness inadvertently introduces a fatal vulnerability. We introduce Posterior Attack, a single-query jailbreak that bypasses guardrails by prompting the model to generate the exact harmful response its internal classifier",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "prompt"
+      ]
+    },
+    {
+      "title": "Self-Commitment Latency: A Reward-Free Probe for Prompted Implicit Hacking",
+      "url": "https://arxiv.org/abs/2606.05625",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 06 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.05625v1 Announce Type: new \nAbstract: Implicit reward hacking is hard to audit when a language model's chain of thought appears benign: a final answer may be anchored by a prompt shortcut while the written reasoning still resembles ordinary problem solving. Verifier-based probes expose such behavior by measuring how early truncated reasoning contexts obtain high reward, but require a task-specific reward signal. This paper proposes a weaker-input alternative, self-commitment latency, ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "language model",
+        "prompt",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Answer Presence Drives RAG Rewriting Gains",
+      "url": "https://arxiv.org/abs/2606.05633",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 06 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.05633v1 Announce Type: new \nAbstract: Retrieval-augmented QA pipelines often route retrieved passages through an LLM \\emph{rewriter} before a smaller reader, lifting F1 by tens of points on multi-hop benchmarks; this gain is typically credited to improved evidence quality. We ask whether that lift is causally driven by the gold answer string appearing in the rewritten context rather than by curation per se, using a controlled intervention audit. For each rewritten context we re-run th",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "RAG",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Shubhamsaboo / awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship. [206 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "RAG"
+      ]
+    },
+    {
+      "title": "How Far Did They Go? The Persuasive Tactics of Covert LLM Agents in a Discontinued Field Experiment",
+      "url": "https://arxiv.org/abs/2606.05256",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 06 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.05256v1 Announce Type: new \nAbstract: This study analyzes a publicly released dataset from a discontinued field experiment on Reddit's r/ChangeMyView. The intervention, conducted by unknown, external researchers and halted following ethical backlash, involved undisclosed AI-generated accounts engaging users in live debate. After public disclosure, Reddit authorized moderators to release an archive of the AI-generated comments, creating a rare opportunity to examine how large language ",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM"
+      ]
+    },
+    {
+      "title": "Agents' Last Exam",
+      "url": "https://arxiv.org/abs/2606.05405",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 06 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.05405v1 Announce Type: new \nAbstract: Recent AI systems have achieved strong results on a wide range of benchmarks, yet these gains have not translated into economically meaningful deployment across many professional domains. We argue that this gap is largely an evaluation problem: widely used benchmarks lack sustained performance measurement on real and economically valuable workflows. This paper introduces Agents' Last Exam (ALE), a benchmark designed to evaluate AI agents on long-h",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "workflow"
+      ]
+    },
+    {
+      "title": "Mutation Without Variation: Convergence Dynamics in LLM-Driven Program Evolution",
+      "url": "https://arxiv.org/abs/2606.05408",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 06 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.05408v1 Announce Type: new \nAbstract: When an LLM repeatedly mutates a program, does it explore new forms or circle back to the same ones? We study this question by analyzing LLM-driven mutation chains in the absence of selection pressure within a domain-specific language, varying prompt design, model family, and stochastic replication. We find that LLM-based mutation consistently converges toward restricted attractor regions in program space. Convergence is especially severe at the s",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "prompt"
+      ]
+    },
+    {
+      "title": "Minimizing the Hidden Cost of Scales: Graph-Guided Ultra-Low-Bit Quantization for Large Language Models",
+      "url": "https://arxiv.org/abs/2606.05429",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 06 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.05429v1 Announce Type: new \nAbstract: Post-training quantization (PTQ) is critical for the efficient deployment of large language models (LLMs). Recent ultra-low-bit PTQ methods rely on rigid weight-saliency assumptions or position heuristics, introducing substantial hidden scaling overhead. We propose SAGE-PTQ (Saliency-Aware Graph-guided Efficient PTQ), a novel ultra-low-bit quantization framework for LLMs that minimizes hidden scaling cost. SAGE-PTQ separates salient and unsalient ",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model"
+      ]
+    },
+    {
+      "title": "Ten Headache Specialists versus Artificial Intelligence for Clinical Literature Summarization: A Critical Evaluation and Comparison",
+      "url": "https://arxiv.org/abs/2606.05436",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 06 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.05436v1 Announce Type: new \nAbstract: Summarizing the latest medical literature to guide clinical decision-making is essential for evidence-based medicine and high-quality patient care. Yet clinicians face increasing challenges due to limited time with patients and a rapidly growing volume of published articles. Although retrieval-augmented large language models (LLMs) have shown promise in clinical summarization, human evaluations of their effectiveness in synthesizing broader scient",
+      "score": 6.0,
+      "keywords_matched": [
+        "LLM",
+        "language model",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "PSEBench: A Controllable and Verifiable Benchmark for Evaluating LLMs in Patient Safety Event Triage",
+      "url": "https://arxiv.org/abs/2606.05463",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 06 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.05463v1 Announce Type: new \nAbstract: Patient safety event triage, determining whether a clinical event is reportable under jurisdiction-specific policy, is a high-stakes task typically performed manually by patient safety experts. Although LLMs may support this workflow, reliable evaluation is limited by the lack of benchmarks to capture evidence-grounded policy reasoning, proactive information seeking for incomplete reports, and principled abstention in irreducibly ambiguous cases. ",
+      "score": 6.0,
+      "keywords_matched": [
+        "LLM",
+        "workflow",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Step-by-Step Optimization-like Reasoning in LLMs over Expanding Search Spaces",
+      "url": "https://arxiv.org/abs/2606.05464",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 06 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.05464v1 Announce Type: new \nAbstract: Verifiable reward training has improved mathematical and coding reasoning, but these domains capture only part of step-by-step decision making. Many real-world tasks require finding a high-value feasible plan among many valid alternatives. We introduce OPT*, a scalable family of optimization-style tasks for training and evaluating LLM step-by-step optimization-like reasoning along a complexity axis: each task provides a feasibility checker and eva",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "EpiEvolve: Self-Evolving Agents for Streaming Pandemic Forecasting under Regime Shifts",
+      "url": "https://arxiv.org/abs/2606.05513",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 06 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.05513v1 Announce Type: new \nAbstract: Epidemic LLM forecasters are usually trained and evaluated as static supervised models, whereas operational pandemic forecasting is a streaming process in which labels arrive after predictions and disease regimes shift over time. We study this mismatch in weekly COVID-19 hospitalization trend forecasting across five variant regimes. We introduce EpiEvolve, a self-evolving agent that wraps an LLM forecaster trained on the warm-start period and keep",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM"
+      ]
+    },
+    {
+      "title": "ansible / ansible",
+      "url": "https://github.com/ansible/ansible",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems.https://docs.ansible.com. [14 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "automation"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-06-07\n\n这里是你的**疯狂发明家技术雷达**。今天从 20 条候选动态中，我为你精选了 **3 条**最具启发性、最适合“艺术/设计 + CS”跨学科背景的研究与项目。\n\n今天的主题非常硬核且浪漫：**空间拼装、代码的基因突变、以及特工（Agent）之间的“无声默契”**。\n\n---\n\n## 1. Brick-Composer: Using MLLMs for Assembly with Diverse Bricks\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2606.05445\n- **一句话解释**：研究如何让多模态大模型（MLLM）像人类看说明书拼乐高一样，通过视觉识别和空间推理，一步步用基础积木（Bricks）拼装出复杂的三维物体。\n- **它为什么重要**：它打通了“2D视觉/设计意图”与“3D空间离散化拼装”之间的通道。对于喜欢 Minecraft、体素（Voxel）艺术和生成式系统的你来说，这是将 AI 引入物理/虚拟世界建造的完美桥梁。\n- **技术趋势标签**：#MLLM #空间推理 #体素生成 #HCI\n- **可复用模式**：`目标图像 -> MLLM 空间分解 -> 离散积木序列化步骤（x, y, z, block_type） -> 渲染/建造`。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：写一个 Python 脚本，输入一张极简的像素画，让 GPT-4o 输出对应的 Minecraft `/setblock` 指令序列，在游戏里自动盖出这个图案。\n  2. **一个中型项目**：**\"AI-Lego-Sculptor\"（AI 乐高雕塑家）**。用户上传任意 3D 模型的照片，AI 代理（Agent）在 WebGL 页面中实时、一步步地用虚拟乐高积木将其拼装出来，并在拼装过程中向用户解释它的“力学和美学考量”。\n  3. **一个艺术/游戏/叙事方向**：**《巴别塔的盲眼建筑师》**。一个双人协作游戏：人类玩家扮演“设计师”（只能画草图），AI 扮演“盲眼建筑师”（只能理解空间坐标和积木）。AI 必须通过理解人类的草图，在虚拟世界中建造一座不断长高的城堡，玩家需要通过文字纠正它的空间偏差。\n- **对我项目的启发**：在做世界生成或 creative coding 时，不要让 LLM 直接生成复杂的 3D Mesh，而是让它生成**“离散的装配指令”**。这极大地降低了模型的推理难度，且天然具备极高的人机交互性。\n- **今天是否值得深入研究**：是\n- **建议行动**：做demo\n\n---\n\n## 2. Mutation Without Variation: Convergence Dynamics in LLM-Driven Program Evolution\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2606.05408\n- **一句话解释**：论文发现，当让 LLM 反复迭代/突变一段代码（且不施加任何外部筛选压力）时，代码并不会无限发散，而是会收敛到某些特定的、稳定的“吸引子（Attractor）”状态。\n- **它为什么重要**：揭示了 AI 自动编程的“重力场”。在 Spec-driven development（规范驱动开发）中，如果你让 AI 自由发挥，它会陷入某种思维死胡同。理解这个“收敛动力学”，我们就能设计出“反收敛”的机制，逼迫 AI 保持创造力。\n- **技术趋势标签**：#代码演化 #Spec-driven #生成艺术 #数字生态\n- **可复用模式**：`代码 -> LLM 突变 -> AST（抽象语法树）哈希对比 -> 检测收敛 -> 注入对抗性扰动`。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：写一个链式突变脚本。输入一段简单的 Canvas 绘图代码，让 LLM 连续突变 20 代（“微调这段代码，让画面更丰富”），观察它的视觉效果最终是稳定在某个图案，还是彻底崩溃。\n  2. **一个中型项目**：**\"Synthetic Code Ecologies\"（合成代码生态缸）**。在网页里运行多个“代码生物”（比如用 p5.js 写的自主移动的 Agent），它们的行为代码由 LLM 控制。当它们碰撞时，代码会发生“有性繁殖/突变”。引入“环境灾变”来打破论文中提到的“无变异收敛”，观察代码物种的演化。\n  3. **一个艺术/游戏/叙事方向**：**《失控的编译器》**。一个解谜游戏，玩家需要在一座废弃的 AI 空间站里，通过向一个不断自我突变、逐渐僵化的 AI 核心注入“逻辑病毒”（对抗性 Prompt），迫使它突变出新的功能代码来帮你开门。\n- **对我项目的启发**：在设计自动化 Agent 工作流时，如果发现 Agent 的输出越来越单一，说明系统陷入了“吸引子”。必须引入类似“退火算法”的随机性，或者在 Prompt 中强制加入“禁止使用的模式”（Negative Specs）。\n- **今天是否值得深入研究**：是\n- **建议行动**：试用（跑一个 10 代的代码突变实验）\n\n---\n\n## 3. What Should Agents Say? Action-state Communication for Efficient Multi-Agent Systems\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2606.05304\n- **一句话解释**：研究指出，多特工系统（MAS）中让 Agent 用大白话（自然语言）聊天太浪费 Token 且容易跑题，应该让他们使用结构化的“动作-状态（Action-State）”协议进行高效、高密度的通信。\n- **它为什么重要**：解决了多 Agent 协同中的“废话文学”问题。对于游戏系统设计、NPC 社交模拟、以及自动化开发工作流，这套协议能让 Agent 运行速度提升数倍，成本降低 90%。\n- **技术趋势标签**：#多特工系统 #通信协议 #游戏系统 #Agent工作流\n- **可复用模式**：`Agent A 发送状态 JSON -> Agent B 更新世界状态 -> Agent B 做出动作决策`（用极简 JSON 替代 Natural Language Chat）。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：用 Python 写两个正在下棋或合作解谜的 Agent，限制它们只能通过特定的 JSON 格式（例如 `{ \"status\": \"thinking\", \"action\": \"move_to\", \"target\": [3, 4] }`）交流，不准说一句废话，测试其任务完成率。\n  2. **一个中型项目**：**\"The Silent Voxel Town\"（静默体素小镇）**。在网页端运行一个 3D 模拟小镇，里面的 AI 居民（矿工、木匠、商人）通过底层的 Action-State 协议进行资源交易和建筑规划，前端将他们的“无声通信”可视化为头顶流动的彩色数据线。\n  3. **一个艺术/游戏/叙事方向**：**《无声合唱》**。一个声音装置艺术。三个 AI 歌手 Agent，它们不能听到对方的声音，只能通过极低带宽的“情感状态码”协议进行通信。它们需要根据对方传输的“张力值”和“和谐度”来调整自己的音高，最终合奏出一首随机但和谐的交响乐。\n- **对我项目的启发**：在构建复杂 Agent 链时，戒掉“让 Agent 互相写信（自然语言）”的习惯。为它们设计一套 Spec-driven 的微型通信协议（Schema），这才是工业级 Agent 系统的未来。\n- **今天是否值得深入研究**：是\n- **建议行动**：做demo\n\n---\n\n## 今日模式总结\n\n今天我们捕获了 3 个核心技术模式：\n1. **空间装配序列化（Spatial Assembly Serialization）**：将复杂的 3D 生成问题降维转化为 MLLM 易于理解的“离散积木拼装步骤”，极适合游戏和 creative coding。\n2. **代码吸引子动力学（Code Attractor Dynamics）**：认识到 LLM 自动编程存在“自然收敛/僵化”的特性，在设计生成式系统时必须主动引入“变异扰动”。\n3. **状态-动作协议化（State-Action Protocolization）**：在多 Agent 系统中，用高密度的 JSON 协议取代低效的自然语言对话，实现低成本、高并发的 Agent 协同。\n\n---\n\n## 今日可做小实验：代码降级观测器 (Code Degenerator)\n\n利用 **Candidate 14** 的理论，我们来做一个 2 小时内的代码演化小实验，亲眼观察 LLM 代码突变的“收敛吸引子”。\n\n- **项目名**：Code Degenerator & Attractor Mapper\n- **输入**：一段标准的、可运行的 JavaScript 绘图代码（比如用 Canvas 画一个旋转的彩色五角星）。\n- **输出**：一个 HTML 页面，左边是原始代码和第 10 代、第 20 代突变后的代码，右边是它们运行出来的 Canvas 视觉效果对比图，以及每次突变的相似度曲线。\n- **技术栈**：Node.js + HTML + Anthropic Claude API (或 OpenAI GPT-4o-mini)\n- **第一步怎么做**：\n  1. 准备好你的 API Key，新建一个 Node.js 项目并安装 `@google/generative-ai` 或 `openai`。\n  2. 写一个初始的 `initial_code.js`，里面包含一个在 `<canvas>` 上画图的自执行函数。\n  3. 编写 Prompt：\n     > \"你是一个代码变异器。请对以下 JavaScript Canvas 绘图代码进行微小的、随机的修改（例如改变颜色、旋转速度、线条粗细或几何算法），但必须保持其在 Canvas 上有视觉输出且无语法错误。直接输出修改后的代码，不要任何 Markdown 标记和解释。\"\n  4. 写一个 Loop 循环，把初始代码丢给 LLM，拿到输出后写入 `generation_1.js`；然后把 `generation_1.js` 作为输入再丢给 LLM，循环 10 次。\n  5. 编写一个极简的 HTML 页面，用 `<iframe>` 或直接把这 10 代代码动态 `eval()` 运行在画布上，看看它们最终是变成了一团乱麻，还是收敛成了一个极其简单的“单色圆点”（收敛状态）。",
+  "gemini_success": true,
+  "telegram_sent": false,
+  "telegram_status": "failed",
+  "telegram_reason": "400 Client Error: Bad Request for url: https://api.telegram.org/bot8650722899:AAHUD-aqNDB7NwiPiGq3R22MVp77Cr_5GEQ/sendMessage"
+}
