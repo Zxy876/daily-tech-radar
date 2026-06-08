@@ -1,0 +1,266 @@
+{
+  "date": "2026-06-08",
+  "candidates": [
+    {
+      "title": "khoj-ai / khoj",
+      "url": "https://github.com/khoj-ai/khoj",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free. [64 stars today]",
+      "score": 16.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "Claude",
+        "Gemini",
+        "automation",
+        "GPT",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
+      "url": "https://github.com/devenjarvis/lathe",
+      "source": "Hacker News",
+      "published_at": "Sun, 07 Jun 2026 11:16:46 +0000",
+      "description": "Hey HN! Lathe is an experiment in using LLMs to teach me something new, instead of doing the work for me. It generates a hands-on, source-backed tutorial for any technical topic you want to learn. Then you work through it yourself by reading and typing the code by hand ( gasp ) in a local UI built for exactly that. It's a Go CLI plus LLM agent skills (Claude Code / Cursor / Codex). You prompt something like \"/lathe build a 3D slicer in Erlang\", run `lathe serve` to spin up a local webapp, and re",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "Claude",
+        "prompt"
+      ]
+    },
+    {
+      "title": "SudoHopeX / KaliGPT",
+      "url": "https://github.com/SudoHopeX/KaliGPT",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "KaliGPT: an Agentic AI (built with Gemini, ChatGPT, Ollama, OpenRouter Models) fine tuned for ethical hackers & students in offensive security making workflows smarter, faster, and more accessible. [39 stars today]",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Gemini",
+        "workflow",
+        "GPT"
+      ]
+    },
+    {
+      "title": "aaif-goose / goose",
+      "url": "https://github.com/aaif-goose/goose",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM [322 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "open source"
+      ]
+    },
+    {
+      "title": "AstrBotDevs / AstrBot",
+      "url": "https://github.com/AstrBotDevs/AstrBot",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨ [110 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM"
+      ]
+    },
+    {
+      "title": "moorcheh-ai / memanto",
+      "url": "https://github.com/moorcheh-ai/memanto",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Memory that AI Agents Love! [69 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "memory"
+      ]
+    },
+    {
+      "title": "CopilotKit / CopilotKit",
+      "url": "https://github.com/CopilotKit/CopilotKit",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol [578 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "agent",
+        "Copilot",
+        "generative"
+      ]
+    },
+    {
+      "title": "InsForge / InsForge",
+      "url": "https://github.com/InsForge/InsForge",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end. [151 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "RAG"
+      ]
+    },
+    {
+      "title": "mvanhorn / last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary [1,111 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "RyanCodrai / turbovec",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings [1,554 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "vector"
+      ]
+    },
+    {
+      "title": "MemPalace / mempalace",
+      "url": "https://github.com/MemPalace/mempalace",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "The best-benchmarked open-source AI memory system. And it's free. [452 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "memory"
+      ]
+    },
+    {
+      "title": "Panniantong / Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. [961 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "plastic-labs / honcho",
+      "url": "https://github.com/plastic-labs/honcho",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Memory library for building stateful agents [43 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "agent",
+        "memory"
+      ]
+    },
+    {
+      "title": "luongnv89 / claude-howto",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. [154 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "agent",
+        "Claude"
+      ]
+    },
+    {
+      "title": "ashishpatel26 / 500-AI-Agents-Projects",
+      "url": "https://github.com/ashishpatel26/500-AI-Agents-Projects",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more. [101 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "danielmiessler / Personal_AI_Infrastructure",
+      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities. [337 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "cline / cline",
+      "url": "https://github.com/cline/cline",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant. [46 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "agent",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "ggml-org / llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "LLM inference in C/C++ [158 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "LLM",
+        "inference"
+      ]
+    },
+    {
+      "title": "The Smallest Brain You Can Build: A Perceptron in Python",
+      "url": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
+      "source": "Hacker News",
+      "published_at": "Mon, 08 Jun 2026 00:28:37 +0000",
+      "description": "Article URL: https://ranpara.net/posts/perceptron-explained-from-scratch/ Comments URL: https://news.ycombinator.com/item?id=48440064 Points: 39 # Comments: 6",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Proliferate (YC S25) is hiring to building open source Codex",
+      "url": "https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer",
+      "source": "Hacker News",
+      "published_at": "Sun, 07 Jun 2026 17:01:17 +0000",
+      "description": "Article URL: https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer Comments URL: https://news.ycombinator.com/item?id=48436669 Points: 0 # Comments: 0",
+      "score": 2.0,
+      "keywords_matched": [
+        "open source"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-06-08\n\n这里是你的**疯狂发明家技术雷达**。今天我从 20 个候选源中，为你精选了 **4 条**最能激发“设计+CS”跨界火花、最适合动手折腾的项目。\n\n今天的主题是：**夺回控制权（反向 Copilot）、打破聊天框（生成式 UI）以及给 Agent 装上白嫖全网的“眼睛”。**\n\n---\n\n## 1. [Lathe – 让 LLM 教你写代码，而不是替你写代码]\n- **来源**：Hacker News\n- **链接**：https://github.com/devenjarvis/lathe\n- **一句话解释**：一个命令行工具加本地 UI，通过生成手把手的、有来源支撑的教程，逼你**亲手输入代码**来学习新领域，而不是让 AI 直接帮你写完。\n- **它为什么重要**：在 Copilot 和 Cursor 泛滥的时代，人类的“肌肉记忆”和深度理解正在退化。Lathe 逆向利用 LLM，把 AI 从“代笔者”变成了“严厉的导师”。这种“故意制造阻碍”的 HCI（人机交互）设计极具启发性。\n- **技术趋势标签**：#HCI #Anti-Copilot #Active-Learning #Developer-Workflow\n- **可复用模式**：**“逆向副驾驶”（Reverse Copilot）模式** —— 限制 AI 的直接输出，让 AI 生成“脚手架”和“检查点”，强制人类进行物理操作（打字、画画）来完成闭环。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：写一个 VS Code 插件，当你用 AI 生成代码时，它会把代码模糊化成背景，只给出逻辑提示，你必须自己敲一遍才能解锁运行。\n  2. **一个中型项目**：“AI 编程学徒手艺坊”——一个结合 Spec-driven 的游戏开发系统。AI 生成游戏机制的物理公式和伪代码，玩家必须在限定时间内手敲并调试，通关后解锁游戏新关卡。\n  3. **一个艺术/游戏/叙事方向**：一个互动装置，AI 生成一首诗或一幅画的“指令”（类似 Sol LeWitt 的墙壁画指令），观众必须用实体画笔在画布上按照指令作画，AI 的摄像头实时评估相似度并给予语音指导（“左边再红一点”）。\n- **对我项目的启发**：启发你的 Spec-driven workflow。不要让 Agent 直接写出最终代码，而是让 Agent 生成“测试用例（Specs）”和“填空题”，你来填空，从而保持你的掌控感。\n- **今天是否值得深入研究**：是\n- **建议行动**：做demo\n\n---\n\n## 2. [CopilotKit – 智能体与生成式 UI 的前端大一统框架]\n- **来源**：GitHub Trending\n- **链接**：https://github.com/CopilotKit/CopilotKit\n- **一句话解释**：一个用于构建 Agent 和 Generative UI（生成式界面）的前端技术栈，提出 AG-UI 协议。\n- **它为什么重要**：传统的聊天框（Chatbot）是交互设计的退步。未来的 AI 交互是“生成式 UI”，即 Agent 根据当前上下文动态生成按钮、滑块、图表。CopilotKit 把这个过程标准化了，非常适合设计+CS 背景的你。\n- **技术趋势标签**：#Generative-UI #HCI #React #Agent-Interaction\n- **可复用模式**：**“状态驱动的 UI 动态投影”（State-Driven UI Generation）** —— Agent 不输出文本，而是输出一个 JSON State，前端组件库根据这个 State 动态渲染出最适合当前任务的微型交互界面。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：一个“情绪音色合成器”，Agent 识别你说话的情绪，动态在网页上生成几个滑块（如“愤怒度”、“空灵感”），让你实时微调 AI 的声音。\n  2. **一个中型项目**：“我的世界（Minecraft）战术指挥面板”——一个网页端 Agent 界面，Agent 在游戏里探索，根据它发现的资源（如钻石、僵尸），在网页上实时生成“挖掘”、“逃跑”、“建造”的动态按钮。\n  3. **一个艺术/游戏/叙事方向**：“涌现式叙事剧场”——一个多人文字冒险游戏，AI 动态生成的不是文字，而是根据剧情发展动态生成的“交互式卡片”（UI卡片），玩家通过组合这些动态卡片来推动剧情。\n- **对我项目的启发**：极大地启发了你的 Creative Tool 想法。不要再写 Chatbot 了！用这个框架把你脑子里的 Agent 变成一个拥有动态控制面板的“超级乐器”或“设计工作台”。\n- **今天是否值得深入研究**：是\n- **建议行动**：试用\n\n---\n\n## 3. [Agent-Reach – 给你的 Agent 装上“白嫖”全网的眼睛]\n- **来源**：GitHub Trending\n- **链接**：https://github.com/Panniantong/Agent-Reach\n- **一句话解释**：一个免 API Key、一键抓取并读取 Twitter, Reddit, YouTube, GitHub, B站, 红书等主流平台的 CLI 工具，让 Agent 拥有全网视野。\n- **它为什么重要**：现在的 Agent 往往受限于昂贵的 API 或过时的训练数据。Agent-Reach 解决了“数据输入”的痛点，用极低成本（零API费用）让 Agent 实时感知人类数字社会的脉搏。\n- **技术趋势标签**：#Agent-Senses #Web-Scraping #Data-Pipeline #Autonomous-Agent\n- **可复用模式**：**“零 API 遥测模式”（Zero-API Telemetry）** —— 绕过平台限制，将社交媒体转化为 Agent 的“环境传感器输入”（Environmental Input）。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：“悲喜温度计”——一个每小时自动抓取小红书/Twitter 关键词“焦虑/开心”的脚本，用 Arduino 控制一个物理舵机指针，指示今天互联网的情绪温度。\n  2. **一个中型项目**：“自演化 Minecraft 雕塑家”——Agent 每天抓取 B 站或 Reddit 上的热门梗（Trends），然后自动在 Minecraft 服务器里用方块生成一个代表该梗的巨型像素雕塑，并写下一块告示牌解释。\n  3. **一个艺术/游戏/叙事方向**：“数字幽灵的日常”——一个运行在电子墨水屏上的自主 Agent，它每天“偷窥”你指定的几个社交媒体账号（比如你最喜欢的艺术家），结合它自己的“性格”，写日记、画画，并假装自己是他们的数字私生子。\n- **对我项目的启发**：解决你做“世界生成”或“自动化系统”时的数据源问题。你可以让你的游戏 NPC 或者自动化 Agent 实时读取真实世界的社交媒体动态，以此作为它们在虚拟世界中行动的“动机”。\n- **今天是否值得深入研究**：是\n- **建议行动**：收藏\n\n---\n\n## 4. [The Smallest Brain You Can Build – 从零手写一个感知机]\n- **来源**：Hacker News\n- **链接**：https://ranpara.net/posts/perceptron-explained-from-scratch/\n- **一句话解释**：一篇极简、硬核且富有美感的教程，教你如何用纯 Python（不依赖任何库）从零构建和训练一个感知机（神经网络的始祖）。\n- **它为什么重要**：在 LLM 动辄千亿参数的今天，“回归本质”具有极高的艺术和教学价值。理解最简单的“1比特脑”，能帮你解构 AI 的神秘感，非常适合做创造性可视化（Creative Visualization）。\n- **技术趋势标签**：#Creative-Coding #Explainable-AI #Retro-Tech #Interactive-Art\n- **可复用模式**：**“裸金属 AI 模式”（Bare-metal AI）** —— 剥离所有复杂的深度学习框架，将神经网络简化为纯粹的数学权重和输入输出，便于在单片机、创意画布（p5.js）或游戏引擎（Minecraft 红石）中物理实现。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：用 p5.js 将这个感知机可视化。在画布上点点，看那条“决策边界线”是如何随着训练一步步旋转、拟合，把两类点分开的。\n  2. **一个中型项目**：“我的世界红石脑”——利用红石火把和中继器，在 Minecraft 里完全用物理红石线路实现这个感知机，让它能分类你丢入漏斗的物品。\n  3. **一个艺术/游戏/叙事方向**：“物理神经元交响乐”——一个实体装置，有 4 个物理旋钮（代表权重和偏置）和一根指针。观众旋转旋钮来“手动训练”这个感知机分类不同的声音，当分类正确时，装置会演奏出一支和谐的机械乐曲。\n- **对我项目的启发**：艺术与技术的完美结合点。你可以用最底层的算法，在最受限制的媒介（如 Minecraft、网页 Canvas、微控制器）里实现“真正的智能”，这比单纯调用 OpenAI API 酷一万倍。\n- **今天是否值得深入研究**：否（原理简单，适合收藏作为灵感库）\n- **建议行动**：收藏\n\n---\n\n## 今日模式总结\n\n1. **主动认知摩擦（Cognitive Friction by Design）**：不再一味追求“无缝、一键生成”，而是通过故意在人机交互中设计“摩擦力”（如手敲代码、物理作画），来增强人类的掌控感和学习深度（代表：*Lathe*）。\n2. **免 API 动态环境感知（Zero-API Telemetry）**：Agent 的输入端正在摆脱昂贵的商业 API 限制。通过轻量化、无侵入的抓取工具，让 Agent 直接将整个互联网作为其运行的“上下文”和“环境传感器”（代表：*Agent-Reach*）。\n\n---\n\n## 今日可做小实验 (2小时内)\n\n### 项目名：**\"反向 Cursor\" 终端打字修行器 (Reverse-Cursor Typist)**\n\n- **输入**：你输入一个想学习/编写的代码主题（例如 `\"A* pathfinding in Python\"`）。\n- **输出**：一个终端交互式打字界面。LLM 生成代码，但你不能复制。你必须在终端里一字不差地敲完，敲错一个字就会发出警报。敲完后，它会自动运行你的代码，并展示运行结果。\n- **技术栈**：\n  - Python 3\n  - `click` 或 `curses` 库（用于终端交互）\n  - `google-genai` (Gemini SDK，免费额度大) 或本地 `Ollama`\n- **第一步怎么做**：\n  1. 初始化一个 Python 脚本，调用 Gemini API，使用 System Prompt：`“你是一个严厉的编程导师。根据用户的输入，只返回一段不超过 15 行的、无任何注释的 Python 核心算法代码，不要解释，只给代码块。”`\n  2. 运行脚本，获取代码字符串。\n  3. 写一个简单的循环，逐个字符读取你的键盘输入（可以使用 Python 内置的 `sys.stdin.read(1)`），并与代码字符串对比。如果输入正确，终端打印绿色字符；如果输入错误，打印红色字符并调用 `print('\\a', end='')`（触发系统蜂鸣声）。\n  4. 全部敲完后，使用 `exec()` 或保存为临时文件并用 `subprocess` 运行，查看你亲手敲出来的代码运行结果！",
+  "gemini_success": true,
+  "telegram_sent": false,
+  "telegram_status": "failed",
+  "telegram_reason": "400 Client Error: Bad Request for url: https://api.telegram.org/bot8650722899:AAHUD-aqNDB7NwiPiGq3R22MVp77Cr_5GEQ/sendMessage"
+}

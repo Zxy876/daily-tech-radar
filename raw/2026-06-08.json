@@ -1,0 +1,258 @@
+[
+  {
+    "title": "khoj-ai / khoj",
+    "url": "https://github.com/khoj-ai/khoj",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free. [64 stars today]",
+    "score": 16.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "Claude",
+      "Gemini",
+      "automation",
+      "GPT",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
+    "url": "https://github.com/devenjarvis/lathe",
+    "source": "Hacker News",
+    "published_at": "Sun, 07 Jun 2026 11:16:46 +0000",
+    "description": "Hey HN! Lathe is an experiment in using LLMs to teach me something new, instead of doing the work for me. It generates a hands-on, source-backed tutorial for any technical topic you want to learn. Then you work through it yourself by reading and typing the code by hand ( gasp ) in a local UI built for exactly that. It's a Go CLI plus LLM agent skills (Claude Code / Cursor / Codex). You prompt something like \"/lathe build a 3D slicer in Erlang\", run `lathe serve` to spin up a local webapp, and re",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "Claude",
+      "prompt"
+    ]
+  },
+  {
+    "title": "SudoHopeX / KaliGPT",
+    "url": "https://github.com/SudoHopeX/KaliGPT",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "KaliGPT: an Agentic AI (built with Gemini, ChatGPT, Ollama, OpenRouter Models) fine tuned for ethical hackers & students in offensive security making workflows smarter, faster, and more accessible. [39 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Gemini",
+      "workflow",
+      "GPT"
+    ]
+  },
+  {
+    "title": "aaif-goose / goose",
+    "url": "https://github.com/aaif-goose/goose",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM [322 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "open source"
+    ]
+  },
+  {
+    "title": "AstrBotDevs / AstrBot",
+    "url": "https://github.com/AstrBotDevs/AstrBot",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨ [110 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM"
+    ]
+  },
+  {
+    "title": "moorcheh-ai / memanto",
+    "url": "https://github.com/moorcheh-ai/memanto",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Memory that AI Agents Love! [69 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "memory"
+    ]
+  },
+  {
+    "title": "CopilotKit / CopilotKit",
+    "url": "https://github.com/CopilotKit/CopilotKit",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol [578 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "agent",
+      "Copilot",
+      "generative"
+    ]
+  },
+  {
+    "title": "InsForge / InsForge",
+    "url": "https://github.com/InsForge/InsForge",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end. [151 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "RAG"
+    ]
+  },
+  {
+    "title": "mvanhorn / last30days-skill",
+    "url": "https://github.com/mvanhorn/last30days-skill",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary [1,111 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "RyanCodrai / turbovec",
+    "url": "https://github.com/RyanCodrai/turbovec",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "A vector index built on TurboQuant, written in Rust with Python bindings [1,554 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "vector"
+    ]
+  },
+  {
+    "title": "MemPalace / mempalace",
+    "url": "https://github.com/MemPalace/mempalace",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "The best-benchmarked open-source AI memory system. And it's free. [452 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "memory"
+    ]
+  },
+  {
+    "title": "Panniantong / Agent-Reach",
+    "url": "https://github.com/Panniantong/Agent-Reach",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. [961 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "plastic-labs / honcho",
+    "url": "https://github.com/plastic-labs/honcho",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Memory library for building stateful agents [43 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "agent",
+      "memory"
+    ]
+  },
+  {
+    "title": "luongnv89 / claude-howto",
+    "url": "https://github.com/luongnv89/claude-howto",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. [154 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "agent",
+      "Claude"
+    ]
+  },
+  {
+    "title": "ashishpatel26 / 500-AI-Agents-Projects",
+    "url": "https://github.com/ashishpatel26/500-AI-Agents-Projects",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more. [101 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "danielmiessler / Personal_AI_Infrastructure",
+    "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities. [337 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "cline / cline",
+    "url": "https://github.com/cline/cline",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant. [46 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "agent",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "ggml-org / llama.cpp",
+    "url": "https://github.com/ggml-org/llama.cpp",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "LLM inference in C/C++ [158 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "LLM",
+      "inference"
+    ]
+  },
+  {
+    "title": "The Smallest Brain You Can Build: A Perceptron in Python",
+    "url": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
+    "source": "Hacker News",
+    "published_at": "Mon, 08 Jun 2026 00:28:37 +0000",
+    "description": "Article URL: https://ranpara.net/posts/perceptron-explained-from-scratch/ Comments URL: https://news.ycombinator.com/item?id=48440064 Points: 39 # Comments: 6",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  },
+  {
+    "title": "Proliferate (YC S25) is hiring to building open source Codex",
+    "url": "https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer",
+    "source": "Hacker News",
+    "published_at": "Sun, 07 Jun 2026 17:01:17 +0000",
+    "description": "Article URL: https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer Comments URL: https://news.ycombinator.com/item?id=48436669 Points: 0 # Comments: 0",
+    "score": 2.0,
+    "keywords_matched": [
+      "open source"
+    ]
+  }
+]
