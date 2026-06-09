@@ -1,0 +1,302 @@
+[
+  {
+    "title": "AdMem: Advanced Memory for Task-solving Agents",
+    "url": "https://arxiv.org/abs/2606.06787",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 08 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.06787v1 Announce Type: new \nAbstract: Large Language Models (LLMs) show promise as tool-using agents but remain limited in long-horizon tasks that require remembering, organizing, and reusing knowledge. Prior memory approaches aim to resolve the situation, but mainly focus on storing factual information. Recent work on procedural memory improves task reuse, yet often reduces to replaying past successes without addressing failure cases or online scalability. We introduce a unified and ",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "memory",
+      "procedural"
+    ]
+  },
+  {
+    "title": "Workflow-to-Skill: Skill Creation via Routing-Workflow-Semantics-Attachments Decomposition",
+    "url": "https://arxiv.org/abs/2606.06893",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 08 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.06893v1 Announce Type: new \nAbstract: Large language model agents increasingly rely on Skills to encode procedural knowledge, yet high-quality Skills remain costly to hand-write. This paper studies automatic Skill construction from heterogeneous interaction evidence, including demonstrations, agent trajectories, tool traces, and execution logs. We argue that trace-to-skill construction is not simple summarization tasks, because traces are fragmented, redundant, and may miss rare but s",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow",
+      "language model",
+      "RAG",
+      "procedural"
+    ]
+  },
+  {
+    "title": "Adversarial Co-Thinking: Calibration and Triangulation Across Multiple GenAI Tools in HCI Writing",
+    "url": "https://arxiv.org/abs/2606.06702",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 08 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.06702v1 Announce Type: new \nAbstract: This paper examines what happens when GenAI tools are fully embedded in the drafting of an academic paper rather than confined to late-stage polishing. To investigate how an intensive multi-tool GenAI workflow differs from conventional academic writing, I drafted this paper from the first sentence in parallel with three GenAI tools - Claude, ChatGPT, and Gemini - comparing their outputs against my own intended contribution. Across this process, a ",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "Claude",
+      "Gemini",
+      "workflow",
+      "HCI",
+      "GPT"
+    ]
+  },
+  {
+    "title": "How reliable are LLMs when it comes to playing dice?",
+    "url": "https://arxiv.org/abs/2606.07515",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 08 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.07515v1 Announce Type: cross \nAbstract: We investigate the probabilistic reasoning capabilities of large language models through a controlled benchmarking study on discrete probability problems. We constructed two datasets, respectively a set of standard exercises and a set of counterintuitive exercises, designed to trigger heuristic reasoning, and evaluated 8 state-of-the-art models, each tested with and without Chain-of-Thought prompting. Models achieve an average accuracy of 0.96 o",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "RAG",
+      "prompt",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "PandaAI: A Practical Agent CQ2 for Neuro-symbolic Data Analysis And Integrated Decision-Making in Quantitative Finance",
+    "url": "https://arxiv.org/abs/2606.06823",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 08 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.06823v1 Announce Type: new \nAbstract: While deep learning has excelled in various domains, its application to sequential decision-making in finance remains challenging due to the low Signal-to-Noise Ratio (SNR) and non-stationarity of financial data. Leveraging the reasoning capabilities of Large Language Models (LLMs), we propose \\textbf{PandaAI}, a closed-loop neuro-symbolic LLM agent with market regime modeling and constrained alpha generation, which bridges general LLM reasoning w",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "RAG",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "TALAN: Task-Aligned Latent Adaptation Networks for Targeted Post-Training of Large Language Models",
+    "url": "https://arxiv.org/abs/2606.06902",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 08 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.06902v1 Announce Type: new \nAbstract: Targeted post-training aims to improve reasoning, math, and code without degrading strengths. Low-rank adapters are efficient but task-global; activation interventions are input-aware but often require separate probes, vectors, or inference-time steering. We introduce TALAN (Task-Aligned Latent Adaptation Networks), a sequence-conditioned latent side path inserted into a transformer's residual stream and co-trained with a low-rank adapter in one S",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "transformer",
+      "language model",
+      "vector",
+      "inference",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
+    "url": "https://github.com/devenjarvis/lathe",
+    "source": "Hacker News Best",
+    "published_at": "Sun, 07 Jun 2026 11:16:46 +0000",
+    "description": "Hey HN! Lathe is an experiment in using LLMs to teach me something new, instead of doing the work for me. It generates a hands-on, source-backed tutorial for any technical topic you want to learn. Then you work through it yourself by reading and typing the code by hand ( gasp ) in a local UI built for exactly that. It's a Go CLI plus LLM agent skills (Claude Code / Cursor / Codex). You prompt something like \"/lathe build a 3D slicer in Erlang\", run `lathe serve` to spin up a local webapp, and re",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "Claude",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Declarative Skills for AI Agents in Knowledge-Grounded Tool-Use Workflows",
+    "url": "https://arxiv.org/abs/2606.06923",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 08 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.06923v1 Announce Type: new \nAbstract: We study orchestration mechanisms for tool-using AI agents in realistic customer-service workflows over an unstructured knowledge base. We argue that declarative agents -- AI agents equipped with natural-language skill files appended to the system prompt -- are an effective orchestration paradigm. Concretely, we compare (i) a DeclarativeAgent that reads three domain-specific skill files at inference time and decides its own control flow, (ii) an I",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow",
+      "inference",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Exploring Agentic Tool-Calling Decisions via Uncertainty-Aligned Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2606.06976",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 08 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.06976v1 Announce Type: new \nAbstract: Large language model (LLM)-based agents often make suboptimal tool-use decisions, including unsupported tool invocation and hallucinated direct responses, which may accumulate errors throughout multi-step interactions. Existing approaches mainly improve these behaviors through inference-time correction or coarse-grained reward signals based on decision outcomes and structured checklists, leaving the uncertainty characteristics of agent decisions u",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "inference"
+    ]
+  },
+  {
+    "title": "When Does Multi-Agent Collaboration Help? An Entropy Perspective",
+    "url": "https://arxiv.org/abs/2602.04234",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 08 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2602.04234v6 Announce Type: cross \nAbstract: Multi-agent systems (MAS) have emerged as a prominent paradigm for leveraging large language models (LLMs) to tackle complex tasks. However, the mechanisms governing the effectiveness of MAS built upon publicly available LLMs, specifically the underlying rationales for their success or failure, remain largely unexplored. In this paper, we revisit MAS through the perspective of \\textit{entropy}, considering both intra- and inter-agent dynamics by",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "RAG"
+    ]
+  },
+  {
+    "title": "Training for Technology: Adoption and Productive Use of Generative AI in Legal Analysis",
+    "url": "https://arxiv.org/abs/2603.04982",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 08 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2603.04982v3 Announce Type: replace-cross \nAbstract: Can targeted user training unlock the productive potential of generative artificial intelligence in professional settings? We study this question using a randomized experiment in which 164 law students completed an issue-spotting examination under one of three conditions: no GenAI access, optional access to a large language model (LLM), or LLM access with a brief training intervention.\n  Untrained LLM access proved counterproductive: rel",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "generative art",
+      "language model",
+      "generative"
+    ]
+  },
+  {
+    "title": "FAIR-Calib: Frontier-Aware Instability-Reweighted Calibration for Post-Training Quantization of Diffusion Large Language Models",
+    "url": "https://arxiv.org/abs/2606.06547",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 08 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.06547v1 Announce Type: new \nAbstract: Diffusion Large Language Models (dLLMs) refine tokens iteratively but commit them irreversibly, leading to a \"stability lag\" where early decisions remain fragile even after being written. We reveal that Post-Training Quantization (PTQ) error easily flips these borderline decisions at the write frontier, which are then permanently locked in and amplified. To address this, we propose Frontier-Aware Instability-Reweighted Calibration (FAIR-Calib), a ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "diffusion",
+      "language model",
+      "RAG"
+    ]
+  },
+  {
+    "title": "SCALE: Scalable Cross-Attention Learning with Extrapolation for Agentic Workflow Scheduling",
+    "url": "https://arxiv.org/abs/2606.06820",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 08 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.06820v1 Announce Type: new \nAbstract: Agentic Large Language Model (LLM) systems decompose complex tasks into workflow Directed Acyclic Graphs (DAGs) whose primitives must be scheduled on heterogeneous clusters. Existing deep reinforcement learning (DRL) schedulers are tied to a fixed cluster size and require retraining whenever the number of servers changes. We propose SCALE (Scalable Cross-Attention Learning with Extrapolation), a DRL scheduler that generalizes to unseen cluster sca",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "language model"
+    ]
+  },
+  {
+    "title": "alistaitsacle / free-llm-api-keys",
+    "url": "https://github.com/alistaitsacle/free-llm-api-keys",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Free LLM API keys for GPT-5.5, Claude, DeepSeek, Gemini, Grok — copy, paste, use. Updated 3-5x daily. No credit card needed. [76 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "Claude",
+      "Gemini",
+      "GPT"
+    ]
+  },
+  {
+    "title": "SafeGene: Reusable Adapters for Transferable Safety Alignment",
+    "url": "https://arxiv.org/abs/2606.06519",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 08 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.06519v1 Announce Type: new \nAbstract: Open-weight LLMs are increasingly fine-tuned into customized assistants, but downstream fine-tuning can weaken safety alignment and make models more vulnerable to malicious prompts, even when the training data is not intentionally harmful. This creates a recurring safety recovery problem as target models are repeatedly updated with new task data or user interactions. We propose SafeGene, a reusable safety-adapter module designed for cross-task reu",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "fine-tuning",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Lean4Agent: Formal Modeling and Verification for Agent Workflow and Trajectory",
+    "url": "https://arxiv.org/abs/2606.06523",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 08 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.06523v1 Announce Type: new \nAbstract: Equipping Large Language Models (LLMs) to execute reliable multi-step workflows has become a central challenge in artificial intelligence. Despite recent advances in LLMs' agentic capabilities, most agent systems still lack formal methods for specifying, verifying, and debugging their workflow and execution trajectories. This challenge mirrors a long-standing problem in mathematics, where the ambiguity of natural languages (NLs) motivates the deve",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "workflow",
+      "language model"
+    ]
+  },
+  {
+    "title": "Evidence-Based Intelligent Diagnostic and Therapeutic Visualization System with Large Language Models: Multi-Turn Interaction and Multimodal Treatment Plan Generation",
+    "url": "https://arxiv.org/abs/2606.06869",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 08 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.06869v1 Announce Type: new \nAbstract: Aim: Existing AI-assisted traditional Chinese medicine diagnostic tools suffer from opaque reasoning processes, passive interaction, and limited treatment plan presentation. This\n  study proposes a knowledge-enhanced visual diagnostic system to improve the transparency and interpretability of syndrome differentiation and treatment.\n  Methods: The system is built upon a Neo4j knowledge graph comprising 241 syndromes, 1,263 symptoms, and 2,485 relat",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "language model",
+      "multimodal",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Quantum-Inspired Trace-Augmented Evidence Selection for Reasoning over Structured Hypothesis Spaces",
+    "url": "https://arxiv.org/abs/2606.06941",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 08 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.06941v1 Announce Type: new \nAbstract: Large language models (LLMs) now solve a wide range of expert-level exams at or above human level, yet remain brittle on specialised, evidence-intensive domains such as law. On these tasks, errors arise not only from gaps in world knowledge but also from subtle distinctions between pieces of evidence and inconsistent use of supporting evidence. The most common aggregator over sampled chain-of-thought (CoT) traces, majority vote, returns the most p",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Teaching the Way, Not the Answer: Privileged Tutoring Distillation for Multimodal Policy Optimization",
+    "url": "https://arxiv.org/abs/2606.07000",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 08 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.07000v1 Announce Type: new \nAbstract: Recent post-training methods, particularly Reinforcement Learning with Verifiable Rewards (RLVR), have significantly enhanced the reasoning ability of Large Vision-Language Models (LVLMs). However, the sparse nature of verifiable rewards provides little token-level supervision for failed rollouts, often leading to inefficient exploration in complex multimodal reasoning tasks. Although policy distillation can offer dense guidance, external teacher ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "language model",
+      "multimodal",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "DuMate-DeepResearch: An Auditable Multi-Agent System with Recursive Search and Rubric-Grounded Reasoning",
+    "url": "https://arxiv.org/abs/2606.07299",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 08 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.07299v1 Announce Type: new \nAbstract: Deep Research (DR) has emerged as a new agentic paradigm to tackle complex, open-ended research tasks, demanding systems that can iteratively frame problems, acquire evidence, verify sources, and synthesize long-form reports. In practice, however, current DR systems are constrained by four interrelated limitations: long-horizon planning over an underspecified scope, the bottleneck of decomposing and scheduling such tasks within a single agent, hal",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "reasoning",
+      "planning"
+    ]
+  }
+]
