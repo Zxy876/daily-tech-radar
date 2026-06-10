@@ -1,0 +1,302 @@
+[
+  {
+    "title": "PathoSage: Towards Multi-Source Evidence Adjudication in Pathology via Experience-Aware Agentic Workflow",
+    "url": "https://arxiv.org/abs/2606.07549",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 09 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.07549v1 Announce Type: new \nAbstract: Recent advances in Multimodal Large Language Models (MLLMs) and agent workflows have shown strong promise for computational pathology, yet reliable patch-level reasoning remains challenging. End-to-end pathology MLLMs often hallucinate morphological features, while recent agentic systems usually merge tool outputs and retrieved knowledge into a shared context, making decisions vulnerable to conflicting evidence and context contamination. We propos",
+    "score": 14.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "language model",
+      "multimodal",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Why Limit the Residual Stream to Layers and Not Tokens? Persistent Memory for Continuous Latent Reasoning",
+    "url": "https://arxiv.org/abs/2606.07720",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 09 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.07720v1 Announce Type: new \nAbstract: Large language models (LLMs) have demonstrated remarkable reasoning abilities on mathematical and multi-hop planning tasks. The CoCoNuT (Chain of Continuous Thought) paradigm~\\cite{hao2024coconut} extends this by enabling models to reason in latent space, exploring multiple reasoning paths simultaneously rather than committing to a single chain early on. However, we identify a limitation we term the \\textbf{concept bottleneck}. At each reasoning p",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "reasoning",
+      "planning",
+      "memory"
+    ]
+  },
+  {
+    "title": "Distilling LLM Reasoning into an Interpretable Policy Tree for Human-AI Collaboration",
+    "url": "https://arxiv.org/abs/2606.08596",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 09 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.08596v1 Announce Type: cross \nAbstract: Constructing efficient and reliable policies to assist humans is indispensable for human-AI collaboration. Existing methods mainly follow two lines of work. Most prior work relies on multi-agent reinforcement learning (MARL) to learn black-box policies, which limits interpretability and raises safety concerns. Recent methods query large language models (LLMs) at each decision step, causing slow responses and high inference costs. We propose Coll",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "inference",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Syll: Open-Source Personal Automation with Cross-Surface Execution",
+    "url": "https://arxiv.org/abs/2606.07594",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 09 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.07594v1 Announce Type: new \nAbstract: Personal AI agents must increasingly operate across APIs, shells, web surfaces, and desktop GUIs, yet many systems remain tuned to a single interface and offer limited support for user teaching and auditability. We present Syll, an open-source, self-hosted multimodal agent harness that unifies MCP/API tools, CLI execution, and visual GUI control in a modular runtime, enabling agents to coordinate computer use across heterogeneous interfaces while ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "automation",
+      "multimodal",
+      "self-hosted"
+    ]
+  },
+  {
+    "title": "Beyond Goodhart's Law: A Dynamic Benchmark for Evaluating Compliance in Multi-Agent Systems",
+    "url": "https://arxiv.org/abs/2606.07805",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 09 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.07805v1 Announce Type: new \nAbstract: The rapid evolution of Large Language Models (LLMs) from passive assistants to autonomous, execution-capable agents has introduced critical operational risks. Most current evaluation frameworks neglect procedural compliance, leading to ''Machiavellian'' behaviors where agents strategically violate safety rules to maximize rewards - a direct manifestation of Goodhart's Law. To address this blind spot, we introduce MAC-Bench, a dynamic, adversarial ",
+    "score": 10.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "language model",
+      "autonomous",
+      "procedural"
+    ]
+  },
+  {
+    "title": "Where Instruction Hierarchy Breaks: Diagnosing and Repairing Failures in Reasoning Language Models",
+    "url": "https://arxiv.org/abs/2606.07808",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 09 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.07808v1 Announce Type: new \nAbstract: Reasoning language models deployed in agentic workflows must follow an instruction hierarchy: when instructions from different sources conflict, the model should obey the highest-privilege applicable instruction. Existing benchmarks largely measure this behavior end-to-end, asking whether the final response is compliant. However, a non-compliant response can arise from several distinct failures: the model may fail to identify the relevant instruct",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Joint Structural Pruning and Mixed-Precision Quantization for LLM Compression",
+    "url": "https://arxiv.org/abs/2606.07819",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 09 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.07819v1 Announce Type: new \nAbstract: Recently, the efficiency of Large Language Models (LLMs) deployment has become a critical concern in practical applications. While post-training quantization (PTQ) and structural pruning are established techniques for reducing memory footprint and inference latency, most existing PTQ approaches optimize quantization errors on a per-layer basis, overlooking how errors accumulate and propagate through the network, often resulting in suboptimal solut",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "inference",
+      "memory"
+    ]
+  },
+  {
+    "title": "SKILL.nb: Selective Formalization and Gated Execution for Durable Agent Workflows",
+    "url": "https://arxiv.org/abs/2606.08049",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 09 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.08049v1 Announce Type: new \nAbstract: AI agents increasingly turn past experience into reusable artifacts such as code, workflows, and procedural memories. Reuse can improve efficiency, but it also creates a lifecycle reliability problem: artifacts that succeed once may fail under environment drift, underspecified tasks, or changing task distributions, especially in web automation. We introduce SKILL.nb, a framework for governing reusable agent workflows with evidence-calibrated lifec",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow",
+      "automation",
+      "procedural"
+    ]
+  },
+  {
+    "title": "Cross-LLM Consistency in Inference: Evidence from Shared Interactions",
+    "url": "https://arxiv.org/abs/2606.08129",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 09 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.08129v1 Announce Type: new \nAbstract: Large language models (LLMs) differ in architecture, training data, and optimization procedures, yet they may still develop similar internal inference patterns. In this paper, we examine this hypothesis using interaction-based explanations. We find that LLMs often share interaction patterns when predicting the same target token from the same prompt. This consistency is more pronounced among advanced LLMs. Shared interactions also tend to be lower-",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "inference",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Decision-Aware Memory Cards: Counterfactual-Inspired Context Selection and Compression for Tool-Using LLM Agents",
+    "url": "https://arxiv.org/abs/2606.08151",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 09 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.08151v1 Announce Type: new \nAbstract: Tool-using LLM agents often fail not because relevant text is absent, but because decisive evidence is not selected, compressed, or surfaced at action time. We present CICL, a decision-aware context layer that turns instance evidence into a context graph, routes deterministic, Opus-assisted, Qwen, Codex/GPT-5.5, and Qwen-QLoRA judgments through a shared eight-field schema, scores units by action shift, outcome uplift, necessity, and negative-trans",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "GPT",
+      "memory"
+    ]
+  },
+  {
+    "title": "Multimodal Large Language Models as Synthetic Participants in Video-Based Studies: An Evaluation",
+    "url": "https://arxiv.org/abs/2606.07541",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 09 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.07541v1 Announce Type: new \nAbstract: Multimodal large language models (MLLMs) have shown strong performance on objective tasks such as video understanding and reasoning. However, it remains unclear whether they can approximate subjective human responses, which depend not only on content comprehension but also on individuals' social contexts. To address this gap, we evaluate MLLMs as synthetic participants in an emerging task: assessing perceived sensory engagement with short videos. ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "multimodal",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "From Human Guidance to Autonomy: Agent Skill System for End-to-End LLM Deployment on Spatial NPUs",
+    "url": "https://arxiv.org/abs/2606.07586",
+    "source": "arXiv cs.LG",
+    "published_at": "Tue, 09 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.07586v1 Announce Type: new \nAbstract: Spatial neural processing units (NPUs) provide an energy-efficient platform for edge LLM inference, but efficiently deploying an LLM end-to-end on such hardware remains labor-intensive. Although AI coding agents have begun to lower this cost, existing studies have largely focused on single-kernel optimization rather than end-to-end LLM deployment on resource-constrained spatial NPUs.\n  We present a two-stage methodology, instantiated on the AMD XD",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "neural",
+      "inference"
+    ]
+  },
+  {
+    "title": "MetaEvo: A Meta-Optimization Framework for Experience-Driven Agent Evolution",
+    "url": "https://arxiv.org/abs/2606.07603",
+    "source": "arXiv cs.LG",
+    "published_at": "Tue, 09 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.07603v1 Announce Type: new \nAbstract: Large language models (LLMs) exhibit strong reasoning capabilities, yet most LLM-based agents are statically deployed and unable to improve through task interactions. Existing experience-driven methods often rely on memory or heuristics without enhancing the model's ability to learn, treating it as a passive executor and leading to early performance plateaus and limited long-term improvement. To address this issue, we propose MetaEvo, a two-stage ",
+    "score": 10.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "language model",
+      "reasoning",
+      "memory"
+    ]
+  },
+  {
+    "title": "wanshuiyin / Auto-claude-code-research-in-sleep",
+    "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works with Claude Code, Codex, OpenClaw, or any LLM agent. [106 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "Claude",
+      "automation",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "thedotmack / claude-mem",
+    "url": "https://github.com/thedotmack/claude-mem",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More [218 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "Gemini",
+      "Copilot"
+    ]
+  },
+  {
+    "title": "x1xhlol / system-prompts-and-models-of-ai-tools",
+    "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models [79 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "open source",
+      "prompt"
+    ]
+  },
+  {
+    "title": "OmniMem: Perturbation-aware Memory Compression for Streaming Audio-Visual LLMs",
+    "url": "https://arxiv.org/abs/2606.07577",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 09 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.07577v1 Announce Type: new \nAbstract: Audio-visual large language models (LLMs) hold strong promise for long-form video understanding, yet their long-video inference is fundamentally limited by the linear growth of video tokens and key-value (KV) caches. We present OmniMem, a memory-efficient streaming framework designed specifically for audio-visual LLMs. Unlike existing compression methods that treat all tokens uniformly, OmniMem introduces a modality-aware memory allocation strateg",
+    "score": 8.0,
+    "keywords_matched": [
+      "LLM",
+      "language model",
+      "inference",
+      "memory"
+    ]
+  },
+  {
+    "title": "Automatic Extraction of Structured Information from Brain MRI Reports Using an Open-Weight Large Language Model",
+    "url": "https://arxiv.org/abs/2606.07721",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 09 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.07721v1 Announce Type: new \nAbstract: Objectives: Automatic data extraction from free-text radiology reports enables large-scale research, but few studies assessed the performance of large language models (LLMs) on Dutch neuroradiology reports. Methods: We analyzed 947 brain MRI reports from a tertiary memory clinic (2016-2021), authored by consultant neuroradiologists. Trained medical students annotated thirty variables; 100 reports were double-annotated to assess inter-rater reliabi",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "memory"
+    ]
+  },
+  {
+    "title": "Contract2Tool: Learning Preconditions and Effects for Reliable Tool-Augmented LLM Agents",
+    "url": "https://arxiv.org/abs/2606.07904",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 09 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.07904v1 Announce Type: new \nAbstract: Tool-augmented large language model agents increasingly rely on external APIs, but standard tool schemas describe how to call a tool, not when the tool is causally appropriate or what task state it produces. Causal tool filtering addresses this gap by using lightweight contracts that specify each tool's preconditions, effects, risk level, and cost. However, manually writing and maintaining such contracts does not scale to large or changing tool ec",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model"
+    ]
+  },
+  {
+    "title": "MemToolAgent overview with a simple restaurant booking scenario where the agent retrieves similar memories, receives feedback on an invalid time format, and generates a reflection to update its memory",
+    "url": "https://arxiv.org/abs/2606.07909",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 09 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.07909v1 Announce Type: new \nAbstract: Modern large language model (LLM) agents can use external tools to help users solve complex tasks. However, for problems that require learning from long-term historical events or from previous agent-environment interactions, LLM agents are required to use memory mechanisms to store and retrieve experiences. While sophisticated memory systems exist for dialogue agents, few studies have empirically examined how to improve agents' tool-using capabili",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "language model",
+      "memory"
+    ]
+  }
+]
