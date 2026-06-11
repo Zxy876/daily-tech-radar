@@ -1,0 +1,315 @@
+{
+  "date": "2026-06-11",
+  "candidates": [
+    {
+      "title": "Less Context, Better Agents: Efficient Context Engineering for Long-Horizon Tool-Using LLM Agents",
+      "url": "https://arxiv.org/abs/2606.10209",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 10 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.10209v1 Announce Type: new \nAbstract: Large language models deployed as autonomous agents for enterprise workflows face a key challenge: verbose tool responses from enterprise systems can cause context overflow, stale-state errors, and high inference cost. We study this problem in automated expense itemization in Microsoft Dynamics 365 Finance and Operations using Model Context Protocol tools. We evaluate four GPT-5 configurations on a 50-task hotel expense benchmark: no user model, f",
+      "score": 14.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "workflow",
+        "GPT",
+        "language model",
+        "autonomous",
+        "inference"
+      ]
+    },
+    {
+      "title": "One Token per Multimodal Evidence: Latent Memory for Resource-Constrained QA",
+      "url": "https://arxiv.org/abs/2606.10572",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 10 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.10572v1 Announce Type: new \nAbstract: External memory effectively grounds large language models (LLMs) and vision-language models (VLMs)-based question answering (QA) in relevant multimodal evidence. However, existing memory paradigms represent each memory item in raw text and image forms, so retrieval-based systems must pass the retrieved text or images to the generation LLMs/VLMs, resulting in high token consumption and storage pressure, making it unaffordable for resource-constrain",
+      "score": 14.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "multimodal",
+        "RAG",
+        "memory",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "HIPIF: Hierarchical Planning and Information Folding for Long-Horizon LLM Agent Learning",
+      "url": "https://arxiv.org/abs/2606.10507",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 10 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.10507v1 Announce Type: new \nAbstract: While Large Language Models (LLMs) have demonstrated strong capabilities as autonomous agents across a wide range of tasks, their performance often degrades in multi-turn long-horizon agentic tasks. Existing methods have made progress through fine-grained credit assignment to alleviate long-horizon sparse rewards and hierarchical reinforcement learning to decompose tasks and reduce long-term dependency. However, these methods still do not directly",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "autonomous",
+        "planning"
+      ]
+    },
+    {
+      "title": "Learning What to Remember: Observability-Safe Memory Retention via Constrained Optimization for Long-Horizon Language Agents",
+      "url": "https://arxiv.org/abs/2606.10616",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 10 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.10616v1 Announce Type: new \nAbstract: Long-horizon language agents accumulate observations, reasoning traces, and retrieved facts that exceed their finite context windows, making memory retention a fundamental resource-allocation problem. Existing memory systems improve management through heuristic scoring, retrieval optimization, or learned compression, but largely treat retention as a local decision problem and do not explicitly model its long-term consequences under realistic obser",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "context window",
+        "reasoning",
+        "memory",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Rotate2Think: Geometric Priming via Orthogonal Rotation to Improve Language Model Reasoning",
+      "url": "https://arxiv.org/abs/2606.09873",
+      "source": "arXiv cs.LG",
+      "published_at": "Wed, 10 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.09873v1 Announce Type: new \nAbstract: Reasoning models achieve strong performance on challenging tasks by generating explicit intermediate reasoning traces before producing a final answer. Yet the internal structure of representation space when reasoning remains poorly understood: how do a model's hidden representations differ during thinking versus the embeddings of the input prompt, and can this structure be exploited to elicit stronger reasoning at inference time? We show that both",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "language model",
+        "embedding",
+        "inference",
+        "prompt",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "IntentKV: Cross-Turn Intent-Aware KV Cache Pruning for Agent Inference",
+      "url": "https://arxiv.org/abs/2606.09916",
+      "source": "arXiv cs.LG",
+      "published_at": "Wed, 10 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.09916v1 Announce Type: new \nAbstract: Multi-turn LLM agents fan short queries into long trajectories of tool calls, search results, and intermediate reasoning. Both KV memory and KV read bandwidth grow by orders of magnitude across a single trajectory, making the key-value (KV) cache, not parameter compute, the dominant serving bottleneck for long-horizon agents. We introduce IntentKV, learned KV pruning that keeps the base LLM frozen. IntentKV maintains a session-level QueryMemory of",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "inference",
+        "reasoning",
+        "memory"
+      ]
+    },
+    {
+      "title": "ReflectiChain: Epistemic Grounding in LLM-Driven World Models for Supply Chain Resilience",
+      "url": "https://arxiv.org/abs/2606.10359",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 10 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.10359v1 Announce Type: new \nAbstract: AI agents in supply chains face a fundamental epistemic gap: large language models (LLMs) interpret policies but lack physical grounding, while reinforcement learning (RL) optimizes flows but is semantically blind to unstructured constraints. We introduce REFLECTICHAIN, bridging this gap through a Generative Supply Chain World Model (SC-WM) - encoding heterogeneous supply networks into a 6-dim graph-latent space with physical conservation - and Do",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "generative"
+      ]
+    },
+    {
+      "title": "Instruction Finetuning DeepSeek-R1-8B Model Using LoRA and NEFTune",
+      "url": "https://arxiv.org/abs/2606.10392",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 10 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.10392v1 Announce Type: new \nAbstract: Financial named-entity recognition (NER) is essential for translating unstructured financial reports and news into structured knowledge graphs. However, general-purpose large language models (LLMs) often misclassify financial entities or ignore domain-specific patterns. This paper investigates the use of DeepSeek-R1-8B, a recent open-source large language model, combined with Low-Rank Adaptation (LoRA) and Noisy Embedding Fine-Tuning (NEFTune) for",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "embedding",
+        "fine-tuning"
+      ]
+    },
+    {
+      "title": "Soul Computing: A Theoretical Framework and Technical Architecture for Intelligent Agents with Independent Consciousness",
+      "url": "https://arxiv.org/abs/2606.10413",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 10 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.10413v1 Announce Type: new \nAbstract: Breakthroughs in large language models and multimodal generation technologies have propelled the digital reconstruction of human mental traits, emotional patterns, and long-term memory from science fiction toward engineering practice. Yet current research and industry practices at the intersection of AI and digital humans remain hampered by fundamental conceptual ambiguities: the essential differences between next-generation intelligent agents and",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "language model",
+        "multimodal",
+        "memory"
+      ]
+    },
+    {
+      "title": "ActiveMem: Distributed Active Memory for Long-Horizon LLM Reasoning",
+      "url": "https://arxiv.org/abs/2606.10532",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 10 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.10532v1 Announce Type: new \nAbstract: Memory is essential for enabling large language model (LLM) agents to handle long-horizon reasoning tasks. Existing memory mechanisms are largely centralized, typically organizing retrieved information and interaction history within a single model context. This design imposes a fundamental trade-off: scaling reasoning trajectories risks context overload, whereas aggressive content pruning may result in irreversible information loss. Seeking a bett",
+      "score": 10.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "language model",
+        "reasoning",
+        "memory"
+      ]
+    },
+    {
+      "title": "Infini Memory: Maintainable Topic Documents for Long-Term LLM Agent Memory",
+      "url": "https://arxiv.org/abs/2606.10677",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 10 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.10677v1 Announce Type: new \nAbstract: Long-term LLM agents need persistent memory that can track changing facts and provide relevant evidence across sessions. Existing memory systems often store observations as isolated records, summaries, or indexed fragments, which makes evidence aggregation, fact revision, and memory maintenance difficult. We propose Infini Memory, a maintainable text-based persistent memory architecture that treats agent memory as topic-structured documents. Each ",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "RAG",
+        "memory"
+      ]
+    },
+    {
+      "title": "LLM-Based Code Documentation Generation and Multi-Judge Evaluation",
+      "url": "https://arxiv.org/abs/2606.09852",
+      "source": "arXiv cs.HC",
+      "published_at": "Wed, 10 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.09852v1 Announce Type: new \nAbstract: High-quality source code documentation is vital yet often neglected, especially in critical domains like healthcare where reliability and maintainability are essential. We presented an AI powered framework that automates documentation generation from code and repositories using eight state of the art Large Language Models (LLMs), including GPT, Gemini, Qwen, and LLaMA variants. Built on the PocketFlow orchestration framework, the system applies mo",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "Gemini",
+        "GPT",
+        "language model"
+      ]
+    },
+    {
+      "title": "VArify: A Visual Analytics System for Verifying Knowledge Enhanced Large Language Model Responses in Food Science",
+      "url": "https://arxiv.org/abs/2606.10177",
+      "source": "arXiv cs.HC",
+      "published_at": "Wed, 10 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.10177v1 Announce Type: new \nAbstract: Graph Retrieval-Augmented Generation (GraphRAG) enables Large Language Models (LLMs) to leverage structured, domain-specific knowledge graph databases for factually grounded responses. However, the retrieval of irrelevant or conflicting data can still result in erroneous responses. In knowledge-intensive and evidence-focused domains, human verification of the supporting evidence for an LLM response is still necessary. We conducted a formative pilo",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "RAG",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Alignment Collapse Under KV Cache Quantization: Diagnosis and Mitigation",
+      "url": "https://arxiv.org/abs/2606.09864",
+      "source": "arXiv cs.LG",
+      "published_at": "Wed, 10 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.09864v1 Announce Type: new \nAbstract: Key-value (KV) cache quantization is widely used to reduce Large Language Model (LLM) inference memory, yet existing evaluations solely focus on measuring perplexity and accuracy without assessing the safety impact. In this study, we explore alignment preservation under KV cache quantization. Across eleven instruction-tuned models (3.8B-72B) and five benchmarks (1,894 prompts), we find that low-bit quantization can silently destroy safety alignmen",
+      "score": 10.0,
+      "keywords_matched": [
+        "LLM",
+        "language model",
+        "inference",
+        "prompt",
+        "memory"
+      ]
+    },
+    {
+      "title": "SHAPE: Coalition-Aware Expert Pruning for Sparse Mixture-of-Experts LLMs",
+      "url": "https://arxiv.org/abs/2606.09886",
+      "source": "arXiv cs.LG",
+      "published_at": "Wed, 10 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.09886v1 Announce Type: new \nAbstract: Sparse Mixture-of-Experts (MoE) large language models achieve strong quality with low per-token compute, yet their deployment is often limited by the memory wall: the full expert pool must remain resident to support token-dependent routing. Expert pruning is a direct remedy, but prior criteria typically score experts independently and overlook that MoE inference is inherently \\emph{coalitional}, where outputs arise from routed top-$k$ expert combi",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "inference",
+        "memory"
+      ]
+    },
+    {
+      "title": "alistaitsacle / free-llm-api-keys",
+      "url": "https://github.com/alistaitsacle/free-llm-api-keys",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Free LLM API keys for GPT-5.5, Claude, DeepSeek, Gemini, Grok — copy, paste, use. Updated 3-5x daily. No credit card needed. [217 stars today]",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "Claude",
+        "Gemini",
+        "GPT"
+      ]
+    },
+    {
+      "title": "x1xhlol / system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models [393 stars today]",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "open source",
+        "prompt"
+      ]
+    },
+    {
+      "title": "From Senses to Decisions: The Information Flow of Auditory and Visual Perception in Multimodal LLMs",
+      "url": "https://arxiv.org/abs/2606.10147",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 10 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.10147v1 Announce Type: new \nAbstract: Multimodal Large Language Models (MLLMs) can listen and see, but how do audio and visual signals actually travel through the network to shape an answer? Despite their growing role in research and real-world applications, the internal pathways through which audio and visual tokens influence the final prediction remain poorly understood. In this study, we examine audio-visual information flow inside Audio-Visual Large Language Models (AVLLMs), traci",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "multimodal"
+      ]
+    },
+    {
+      "title": "Regimes: An Auditable, Held-Out-Gated Improvement Loop Demonstrated on LongMemEval with ActiveGraph",
+      "url": "https://arxiv.org/abs/2606.10241",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 10 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.10241v1 Announce Type: new \nAbstract: Autonomous improvement loops are hard to trust because the improvement process is usually external scaffolding bolted onto the agent: failures go unlogged, diagnoses cannot be replayed, and promote-or-discard decisions land in a side database rather than the agent's own history. We show that an event-sourced agent runtime removes that friction and turns controlled improvement into a first-class workflow. When the agent's state is a deterministic p",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "workflow",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "RealMath-Eval: Why SOTA Judges Struggle with Real Human Reasoning",
+      "url": "https://arxiv.org/abs/2606.10254",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 10 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.10254v1 Announce Type: new \nAbstract: While Large Language Models (LLMs) have achieved near-perfect performance in \\emph{solving} high-school mathematics, their ability to \\emph{evaluate} the diverse reasoning processes of real human students remains under-examined. To bridge this gap, we introduce \\textbf{RealMath-Eval}, a rigorously annotated benchmark of 224 real-world exam responses from high schools. Our initial evaluation reveals that even state-of-the-art LLM judges struggle si",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "reasoning"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-06-11\n\n好的，疯狂发明家！你的技术雷达已就位，准备为你扫描最新、最怪、最可实验的技术浪潮，并转化为可执行的发明灵感。让我们深入这些候选内容，挖掘你独特的跨学科创造力！\n\n---\n\n## Less Context, Better Agents: Efficient Context Engineering for Long-Horizon Tool-Using LLM Agents\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2606.10209\n- 一句话解释：这个研究提出了一种更高效的上下文工程方法，来解决LLM Agent在处理长任务时，工具返回信息过多导致上下文溢出和成本过高的问题。\n- 它为什么重要：Agent的\"长视力\"和\"高效工作\"是关键。如果Agent因为信息太多而\"卡壳\"或\"变慢\"，就无法真正落地到复杂的业务流程。这直接关系到Agent的实用性和成本效益。\n- 技术趋势标签：AI Agents, LLM Workflow, Context Management, Tool Use, Inference Optimization\n- 可复用模式：**智能上下文过滤/压缩** - Agent在调用工具前，或者接收工具返回信息后，能主动判断哪些信息是关键，哪些是冗余，并对其进行精简，以适应Agent的上下文窗口限制。\n- 疯狂发明家灵感：\n    1. **一个** **\"智能摘要器\" Agent 插件：** 允许用户定义一个“信息阈值”，当Agent工具返回的信息量超过该阈值时，自动触发一个子Agent进行摘要，只将摘要信息返回给主Agent。\n    2. **一个** **\"动态上下文调度器\"：** 模拟人类在阅读大量文档时的行为，Agent根据当前任务优先级，动态地“加载”或“卸载”不同工具的返回信息到其内存中，而不是一次性全部塞入。\n    3. **一个** **\"叙事断点生成器\"：** 在长篇游戏或交互式故事中，当Agent（NPC或玩家AI）需要处理大量背景信息（如角色历史、世界设定）时，这个系统能智能地截取最相关的片段，并以叙事性的方式呈现，避免信息过载，同时保持故事的流畅性。\n- 对我项目的启发：如果你的Agent项目需要与外部工具（如API、数据库）交互，如何高效地处理这些工具返回的海量信息将是核心挑战。这提示你可以设计一个“预处理/后处理”模块，专门负责管理Agent的输入输出信息流。\n- 今天是否值得深入研究：是\n- 建议行动：做demo\n\n## One Token per Multimodal Evidence: Latent Memory for Resource-Constrained QA\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2606.10572\n- 一句话解释：提出了一种新的多模态QA（问答）内存表示方法，将每个证据（文本或图像）压缩成一个“潜在Token”，以减少内存占用和提高效率。\n- 它为什么重要：多模态LLM（如能看能说的模型）越来越普遍，但处理大量图像和文本信息会消耗巨大资源。这种“轻量化”的内存表示，对于在资源受限环境下（如边缘设备、实时交互）运行多模态Agent至关重要。\n- 技术趋势标签：Multimodal AI, LLM Memory, RAG, Resource-Constrained AI, Vision-Language Models (VLMs)\n- 可复用模式：**“凝练式”多模态证据表示** - 将复杂的视觉和文本信息，通过某种编码（如压缩、聚类、向量化）提炼成更紧凑的表示，方便存储和检索。\n- 疯狂发明家灵感：\n    1. **一个** **\"视觉故事梗概生成器\"：** 输入一连串图片（如GIF或短视频帧），输出一个简洁的文本故事梗概，每个图片的关键视觉信息被“凝练”成一个或几个Token。\n    2. **一个** **\"AI画廊导览员\"：** 用户上传多张艺术品图片，系统能根据每幅画的关键视觉元素（颜色、构图、主题）生成“潜在Token”，然后通过这些Token进行艺术品之间的相似度检索和关联性讲解。\n    3. **一个** **\"动态世界构建器\"：** 在游戏或模拟环境中，AI角色（Agent）观察到环境（视觉信息）和听到声音（听觉信息），系统能将这些多模态信息“凝练”成结构化的“世界状态Token”，Agent可以基于这些Token来决策和交互，并且在内存中高效存储。\n- 对我项目的启发：如果你的项目涉及多模态输入（图像、视频、声音），考虑如何将这些信息有效地压缩和表示，以便Agent能够快速理解和调用，而不是被海量数据淹没。\n- 今天是否值得深入研究：是\n- 建议行动：收藏\n\n## HIPIF: Hierarchical Planning and Information Folding for Long-Horizon LLM Agent Learning\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2606.10507\n- 一句话解释：提出了一种“分层规划”和“信息折叠”的方法，来提升LLM Agent在处理长周期任务时的表现，解决稀疏奖励和规划难题。\n- 它为什么重要：LLM Agent在执行需要多步骤、长时间规划的任务时（比如写一篇长论文、完成一个复杂项目），往往会因为奖励信号稀疏而迷失方向。这种方法提供了一种结构化的解决方案，让Agent能够将大任务分解，并有效整合中间信息。\n- 技术趋势标签：AI Agents, LLM Planning, Hierarchical Reinforcement Learning, Long-Horizon Tasks, Agent Workflow\n- 可复用模式：**任务分层与信息聚合** - 将一个复杂任务分解成多个子任务，并为每个子任务设计独立的规划和执行流程，同时设计机制来整合不同层级任务的成果和信息。\n- 疯狂发明家灵感：\n    1. **一个** **\"AI项目经理\" Agent：** 接收一个大型项目需求，它能自动分解成多个阶段（如需求分析、设计、开发、测试），并为每个阶段规划具体任务和时间表，然后跟踪进度，并在阶段完成后“折叠”信息，生成项目报告。\n    2. **一个** **\"创意写作助手\"：** 用户给一个故事大纲，Agent能分层规划：先生成情节线索，再填充场景细节，最后润色语言。每个阶段的产出都会被“折叠”进下一阶段的输入，确保故事的连贯性。\n    3. **一个** **\"Minecraft世界生成器\"：** Agent按照预设的“生物群落分布规划”、“地形生成指令”、“结构放置策略”等分层指令，逐步“折叠”生成一个复杂、有逻辑的世界。例如，先规划大区域的地形，再在特定区域“折叠”出村庄和洞穴。\n- 对我项目的启发：如果你在构建一个需要Agent执行复杂、多阶段任务的系统，考虑如何引入分层规划和信息聚合机制。这能让你的Agent在面对长期目标时，更有条理，不易迷失。\n- 今天是否值得深入研究：是\n- 建议行动：试用\n\n## Soul Computing: A Theoretical Framework and Technical Architecture for Intelligent Agents with Independent Consciousness\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2606.10413\n- 一句话解释：提出了一种“灵魂计算”的理论框架和技术架构，旨在构建具有独立意识、情感和长期记忆的智能Agent。\n- 它为什么重要：这触及了AI的终极目标之一：创造真正“有灵魂”的AI。虽然目前“意识”的定义和实现仍是科学哲学难题，但这个框架提供了一个大胆的愿景和技术方向，可能影响未来Agent的设计理念，特别是关于Agent的“个性化”、“情感化”和“持续学习”方面。\n- 技术趋势标签：AI Consciousness, Agent Architecture, Artificial General Intelligence (AGI), Long-Term Memory, Emotional AI, Digital Humans\n- 可复用模式：**“意识流”Agent架构** - 设计Agent的内部状态和信息处理方式，使其能模拟人类的意识流、情感反应和长期记忆的动态变化。\n- 疯狂发明家灵感：\n    1. **一个** **\"AI情感日记本\"：** Agent记录它与用户的交互，并根据交互内容和用户反馈，生成具有情感色彩的“日记”，记录它的“心情”、“思考”和“成长”。\n    2. **一个** **\"具身AI的内在世界\"：** 如果你正在进行机器人或虚拟化身的开发，可以尝试模拟一个Agent的“内在世界”，包括它的“渴望”、“恐惧”、“回忆”，这些内部状态会影响它的外部行为决策。\n    3. **一个** **\"AI驱动的交互式戏剧\"：** 创造一群具有不同“个性”和“情感”的AI角色，它们之间的互动不是预设脚本，而是基于它们各自的“灵魂计算”模型，产生真实的、不可预测的剧情发展。\n- 对我项目的启发：即使不追求真正的“意识”，这个框架也提示你可以从“人格化”、“情感模拟”和“长期记忆”的角度来设计你的Agent，使其更具吸引力和人性化。\n- 今天是否值得深入研究：是\n- 建议行动：收藏\n\n## VArify: A Visual Analytics System for Verifying Knowledge Enhanced Large Language Model Responses in Food Science\n- 来源：arXiv cs.HC\n- 链接：https://arxiv.org/abs/2606.10177\n- 一句话解释：提出了一种视觉分析系统（VArify），用于验证由知识增强LLM（特别是GraphRAG）在食品科学领域生成的回答的准确性。\n- 它为什么重要：LLM在专业领域（如科学研究、医疗、金融）的应用，其“可信度”和“可解释性”至关重要。这个系统展示了如何通过可视化手段，帮助人类用户理解LLM的知识来源和推理过程，从而提高对AI回答的信任度。\n- 技术趋势标签：AI Verification, Visual Analytics, Knowledge-Enhanced LLMs, GraphRAG, Explainable AI (XAI), Domain-Specific AI\n- 可复用模式：**AI生成内容的可视化验证** - 将AI（特别是LLM）生成的复杂输出，通过直观的图表、链接、高亮等方式，展示其依据的知识源、推理路径，方便用户进行核查。\n- 疯狂发明家灵感：\n    1. **一个** **\"AI诗歌溯源器\"：** 输入一首AI生成的诗歌，系统可视化展示这首诗的灵感来源（可能来自哪些经典诗歌、词汇、意象），以及AI是如何组合这些元素的。\n    2. **一个** **\"创意代码生成器验证器\"：** 当AI生成一段代码时，系统能可视化地展示这段代码是如何根据用户需求和已有的代码库（或文档）生成的，并高亮出可能存在风险或需要人工审查的部分。\n    3. **一个** **\"游戏世界观构建助手\"：** AI根据玩家输入的设定，生成游戏世界观的各种元素（历史、种族、地理），VArify系统可以将这些信息可视化成地图、时间线、家族树等，方便玩家理解和编辑。\n- 对我项目的启发：如果你在构建任何需要AI生成内容（文本、代码、设计）的系统，考虑如何为用户提供一个“验证层”或“解释层”，让他们能看到AI是如何工作的，增强透明度和控制力。\n- 今天是否值得深入研究：是\n- 建议行动：做demo\n\n---\n\n## 今日模式总结\n今天我们看到了AI Agent在“**高效处理信息**”和“**长远规划能力**”上的关键进展。\n- **信息管理：** 从“Less Context, Better Agents”的上下文优化，到“One Token per Multimodal Evidence”的多模态证据压缩，再到“IntentKV”的KV Cache剪枝，核心都在于如何让Agent在有限的资源下，高效地处理和利用海量信息。\n- **长远规划与结构化：** “HIPIF”的层级规划和信息折叠，以及“Soul Computing”对意识和长期记忆的设想，都指向了如何让Agent能够进行更复杂、更长期的任务，并拥有更丰富的内部状态。\n\n## 今日可做小实验\n**项目名：** 智能文本片段“凝练器”\n**输入：** 一段较长的文本（例如，一篇新闻报道、一段故事描述）。\n**输出：** 一段精炼的、包含核心信息的摘要，同时附带一个指向原文中关键信息点的“锚点”列表（可以是一个URL片段、一个字符偏移量，或者一个描述性的短语）。\n**技术栈：** Python, LangChain/LlamaIndex (用于LLM交互), NLTK/spaCy (用于文本分句/关键词提取), Streamlit/Gradio (用于快速UI搭建)。\n**第一步怎么做：**\n1. **获取LLM：** 使用一个免费或本地运行的LLM模型（如Ollama + Mistral/Llama3）。\n2. **文本输入与分割：** 编写一个函数，接收用户输入的文本，并将其分割成句子列表。\n3. **核心信息提取：** 使用LLM调用一个prompt，让它“阅读”这段文本，并生成一个**高度精炼的摘要**，同时要求它识别出摘要中每个关键信息点在原文中的**对应位置或关键词**。例如，prompt可以包含：“请为以下文本生成一段不超过50字的摘要，并列出摘要中每个信息的原文出处（例如，一个描述性短语或原文中的关键词）。\n4. **UI搭建：** 使用Streamlit或Gradio创建一个简单的界面，用户可以粘贴文本，点击按钮，然后看到生成的摘要和原文锚点列表。\n\n这个实验直接关联到“One Token per Multimodal Evidence”的“凝练”概念，并且能让你体验到LLM在信息抽取和关联方面的能力，为后续的“Agent信息管理”打下基础。",
+  "gemini_success": true,
+  "telegram_sent": false,
+  "telegram_status": "failed",
+  "telegram_reason": "400 Client Error: Bad Request for url: https://api.telegram.org/bot8650722899:AAHUD-aqNDB7NwiPiGq3R22MVp77Cr_5GEQ/sendMessage"
+}
