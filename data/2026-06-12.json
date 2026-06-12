@@ -1,0 +1,309 @@
+{
+  "date": "2026-06-12",
+  "candidates": [
+    {
+      "title": "Organize then Retrieve: Hierarchical Memory Navigation for Efficient Agents",
+      "url": "https://arxiv.org/abs/2606.11680",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 11 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.11680v1 Announce Type: new \nAbstract: Large language model (LLM) agents struggle with long-horizon tasks due to their inherent statelessness, requiring all task-relevant information to be encoded in growing input contexts. The resulting degraded reasoning quality, increased inference cost, and higher latency necessitate efficient working memory mechanisms. However, existing approaches either rely on lossy compression or similarity-based retrieval, which often fail to capture temporal ",
+      "score": 16.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "inference",
+        "reasoning",
+        "memory",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "MODF-SIR: A Multi-agent Omni-modal Distilled Framework for Social Intelligence Reasoning",
+      "url": "https://arxiv.org/abs/2606.12018",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 11 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.12018v1 Announce Type: new \nAbstract: We propose a multi-agent collaborative framework built upon a lightweight Multimodal Large Language Model (MLLM), specifically designed for social intelligence reasoning. A key feature of our approach is that both the training and inference phases are augmented via knowledge distillation. Within this architecture, multi-modal data pertinent to social intelligence is precisely localized. Furthermore, relevant long-tail events are identified, extrac",
+      "score": 14.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "multimodal",
+        "inference",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Architecture-Aware Reinforcement Learning Makes Sliding-Window Attention Competitive in Math Reasoning",
+      "url": "https://arxiv.org/abs/2606.11634",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 11 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.11634v1 Announce Type: new \nAbstract: The rapid progress of reasoning and agentic large language models (LLMs) has increased the demand for long-context inference, but self-attention (SA) scales quadratically with context length.\n  To address this, we study SWARR (Sliding-Window Attention with Reinforced Adaptation for Math Reasoning), a practical recipe for adapting SWA models to mathematical reasoning. SWARR has two stages: (1) efficient conversion from a pretrained SA model to SWA ",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "inference",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Mind the Perspective: Let's Reason Recursively for Theory of Mind",
+      "url": "https://arxiv.org/abs/2606.11724",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 11 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.11724v1 Announce Type: new \nAbstract: Theory of Mind (ToM) reasoning requires inferring agents' beliefs from partial and asymmetric observations, which remains an open challenge for LLMs. Existing prompting-based approaches improve ToM reasoning through observable-event filtering or temporal belief chains, without explicitly modeling nested beliefs. We introduce RecToM, an inference-time framework for ToM reasoning that models nested beliefs via recursive perspective construction. Rec",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "inference",
+        "prompt",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "SVoT: State-aware Visualization-of-Thought for Spatial Reasoning via Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2606.11770",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 11 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.11770v1 Announce Type: new \nAbstract: Spatial reasoning remains a challenge for Multimodal Large Language Models (MLLMs), as it requires reliable multi-hop inference over both intermediate states and state transitions. Current studies often leave intermediate states unverified and treat state transitions as implicit processes, which limits reliability in multi-hop spatial reasoning. To address this, we propose State-aware Visualization-of-Thought (SVoT), a reinforcement learning frame",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "multimodal",
+        "inference",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "SkillJuror: Measuring How Agent Skill Organization Changes Runtime Behavior",
+      "url": "https://arxiv.org/abs/2606.11543",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 11 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.11543v1 Announce Type: new \nAbstract: Agent Skills augment large language model (LLM) agents with procedural knowledge at inference time, but current benchmarks rarely distinguish what a Skill says from how it is organized. We study this distinction through Progressive Disclosure, where a concise root file points agents to supporting resources on demand, and compare it with a normalized flat baseline. We present SkillJuror, a framework for evaluating Skill writing paradigms through se",
+      "score": 10.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "language model",
+        "inference",
+        "procedural"
+      ]
+    },
+    {
+      "title": "A Lightweight Multi-Agent Framework for Automated Concrete Barrier Design",
+      "url": "https://arxiv.org/abs/2606.12040",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 11 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.12040v1 Announce Type: new \nAbstract: The design of reinforced concrete highway barriers is a safety-critical process that requires strict compliance with regulatory provisions such as the AASHTO-LRFD bridge design guidelines. Current engineering practice relies heavily on manual, iterative, and heuristic calculations to satisfy complex nonlinear material and mechanics constraints. Although Large Language Models (LLMs) demonstrate strong generative capabilities, their direct applicati",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "generative"
+      ]
+    },
+    {
+      "title": "From Consumption to Reflection: Designing Human-AI Relations for Stable Reasoning",
+      "url": "https://arxiv.org/abs/2606.11195",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 11 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.11195v1 Announce Type: cross \nAbstract: Large language models (LLMs) have transformed how humans access information, but not how we reason with it. Their fluency accelerates consumption while bypassing the slow, reflective processes that underpin sound judgment. This paper introduces Relational Reflective Intelligence (RRI), an inference-time governance layer that operationalizes reflection through auditable reasoning loops. RRI operates not inside the model but around it, providing a",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "inference",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "FlowBank: Query-Adaptive Agentic Workflows Optimization through Precompute-and-Reuse",
+      "url": "https://arxiv.org/abs/2606.11290",
+      "source": "arXiv cs.LG",
+      "published_at": "Thu, 11 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.11290v1 Announce Type: new \nAbstract: Large Language Model (LLM)-based multi-agent systems are increasingly powerful, but current agentic workflow optimization paradigms make an unsatisfying trade-off. Task-level methods spend substantial offline compute yet deploy only a single workflow, leaving complementary candidates unused, while query-level methods synthesize a new workflow per query at substantial inference cost. Our motivating analysis shows these paradigms are more complement",
+      "score": 10.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "workflow",
+        "language model",
+        "inference"
+      ]
+    },
+    {
+      "title": "alistaitsacle / free-llm-api-keys",
+      "url": "https://github.com/alistaitsacle/free-llm-api-keys",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Free LLM API keys for GPT-5.5, Claude, DeepSeek, Gemini, Grok — copy, paste, use. Updated 3-5x daily. No credit card needed. [96 stars today]",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "Claude",
+        "Gemini",
+        "GPT"
+      ]
+    },
+    {
+      "title": "x1xhlol / system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models [368 stars today]",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "open source",
+        "prompt"
+      ]
+    },
+    {
+      "title": "Position: Hippocampal Explicit Memory Is the Cornerstone for AGI",
+      "url": "https://arxiv.org/abs/2606.11245",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 11 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.11245v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have demonstrated remarkable capabilities across various tasks, raising expectations for Artificial General Intelligence (AGI). This position paper argues that integrating explicit memory is the cornerstone for advancing LLMs toward AGI. The key reason is that the underlying learning mechanism of LLMs is highly analogous to human implicit memory. However, higher-order cognitive functions necessary for AGI, such as long",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "memory"
+      ]
+    },
+    {
+      "title": "Skill-Augmented AI Agents for Medical Research Analysis: An Exploratory Multi-Model Human Evaluation in an NSCLC Transcriptomic Biomarker Task",
+      "url": "https://arxiv.org/abs/2606.11830",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 11 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.11830v1 Announce Type: new \nAbstract: Background. Large language models and AI agents are increasingly used to support biomedical research, but native model outputs may omit key analytical steps, misuse methods, or overstate conclusions. We evaluated whether autonomous access to a medical research skill package was associated with higher-quality AI-generated transcriptomic research-analysis outputs compared with native AI without skills. Methods. We conducted an exploratory multi-mode",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "language model",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "AutoMine Solution for AV2 2026 Scenario Mining Challenge",
+      "url": "https://arxiv.org/abs/2606.11874",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 11 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.11874v1 Announce Type: new \nAbstract: With the development of autonomous driving systems, mining high-value, safety-critical, and planning-relevant scenarios from large-scale driving logs has become essential for data-driven evaluation. In this paper, we propose AutoMine, a robust self-refining scenario mining method based on LLMs and VLMs. AutoMine uses semantics-preserving prompt augmentation to reduce LLM prompt sensitivity, combines robust trajectory atomic functions with VLM-base",
+      "score": 8.0,
+      "keywords_matched": [
+        "LLM",
+        "autonomous",
+        "prompt",
+        "planning"
+      ]
+    },
+    {
+      "title": "Nonslop: A Gamified Experiment in Human-AI Collaborative Writing",
+      "url": "https://arxiv.org/abs/2606.12350",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 11 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.12350v1 Announce Type: new \nAbstract: The rapid proliferation of large language models (LLMs) raises critical questions about human creativity and individual expression in an era of AI-assisted creation. When do humans adopt AI suggestions, and what are the implications for individual voice?\n  This study examines these questions through a gamified writing exercise where 74 participants (214 responses) replied to prompts while AI-generated word suggestions were available as they wrote.",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "prompt"
+      ]
+    },
+    {
+      "title": "PoQ-Judge: A Multi-Architecture Evaluation Framework for Cost-Aware Proof-of-Quality in Decentralized LLM Inference",
+      "url": "https://arxiv.org/abs/2606.11196",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 11 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.11196v1 Announce Type: cross \nAbstract: Decentralized LLM inference networks need lightweight, reference-free quality evaluation for Proof of Quality (PoQ). We present PoQ-Judge, a framework that trains dedicated judge models to score query-output pairs without ground-truth references. We study three architectures across the quality-cost tradeoff: a TextCNN judge, a MiniLM cross-encoder, and a DeBERTa judge. Using two-stage training on UltraFeedback plus GPT-labeled in-domain data, th",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "GPT",
+        "inference"
+      ]
+    },
+    {
+      "title": "Least-Action-Guided Diffusion for Physical Extrapolation",
+      "url": "https://arxiv.org/abs/2606.11277",
+      "source": "arXiv cs.LG",
+      "published_at": "Thu, 11 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.11277v1 Announce Type: new \nAbstract: Reliable extrapolation remains a central challenge for generative models in computational physics, because models trained over finite ranges of time, parameters, or geometries may produce physically inconsistent predictions outside the training distribution. We introduce a least-action-principle-guided diffusion, LAPG, a framework that promotes physical consistency during inference rather than relying solely on constraints imposed during training.",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "diffusion",
+        "inference",
+        "generative"
+      ]
+    },
+    {
+      "title": "Recursive Binding on a Budget: Subspace Carving in Order-p Tensor Memories",
+      "url": "https://arxiv.org/abs/2606.11391",
+      "source": "arXiv cs.LG",
+      "published_at": "Thu, 11 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.11391v1 Announce Type: new \nAbstract: Tensor Product Representations provide the structural fidelity required for symbolic reasoning in models but suffer from exponential dimensionality growth when encoding deep recursive structures. Conversely, Vector Symbolic Architectures maintain constant dimensionality but sacrifice capacity and fidelity due to noisy compression via superposition. In this work, we propose Orthogonal Subspace Carving (OSC), a memory architecture that binds fillers",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "vector",
+        "reasoning",
+        "memory"
+      ]
+    },
+    {
+      "title": "Counterexample Guided Learning in the Large using Reasoning Agents",
+      "url": "https://arxiv.org/abs/2606.11521",
+      "source": "arXiv cs.LG",
+      "published_at": "Thu, 11 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.11521v1 Announce Type: new \nAbstract: LLMs and LLM agents should improve when given feedback, but identifying when they are able to do so is difficult: feedback is heterogeneous, domain-specific, and difficult to control. We approach this challenge by asking LLMs to perform regular-expression induction, a classical symbolic learning problem where precise mechanisms for feedback exist in the form of counterexamples. In counterexample-guided learning, a learner (LLM) proposes candidate ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "mlflow / mlflow",
+      "url": "https://github.com/mlflow/mlflow",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controlling costs and managing access to models and data. [24 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "open source"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-06-12\n\n嘿！我是你的**疯狂发明家技术雷达**。今天我从海量的新论文和开源项目中，为你人肉筛选了 **5 条**最性感、最能激发“艺术+CS”跨界火花、最适合动手折腾的宝藏。\n\n今天的内容高度聚焦于：**如何让 Agent 拥有空间视觉草稿、如何重塑人机交互的“摩擦力”、以及如何逆向最前沿的 Spec-driven 自动化工具**。\n\n让我们直接进入疯狂发明家的灵感世界！\n\n---\n\n## 1. [system-prompts-and-models-of-ai-tools]\n- **来源**：GitHub Trending\n- **链接**：https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools\n- **一句话解释**：这是一个野生开源仓库，无情地扒光并收集了当前最火爆的 AI 编程和生成工具（如 Cursor, v0, Lovable, Devin, Claude Code）的内部系统提示词（System Prompts）和工具定义。\n- **它为什么重要**：这是 Spec-driven development（声明式驱动开发）和 AI 自动化工具的“圣经”。通过逆向这些价值数亿美元的产品的 Prompt，你能直接看懂顶级工业级 Agent 是如何被约束、如何隐式读取文件、如何进行 self-correction（自我纠错）的。\n- **技术趋势标签**：`LLM Toolchain`, `Spec-Driven`, `System Prompts`, `Reverse Engineering`\n- **可复用模式**：**角色隔离与多阶段工具调用协议**——学习 Cursor 如何在后台隐式读取文件、校验编译错误并优雅地向用户汇报。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：把 Cursor 或 v0 的系统提示词导入一个极简的 Python 脚本，用本地的 Deepseek 或 Claude API，看看它是否能在你的终端里完美复现“自动重构 HTML”的魔术。\n  2. **一个中型项目**：**\"Spec-to-Art\" 自动生成器**。模仿 v0 的系统提示词，写一个专门生成 P5.js 动态交互艺术或 SVG 动画的 Agent 链，用户只需写一句模糊的诗意描述，它就能自动生成、预览并迭代代码。\n  3. **一个艺术/游戏/叙事方向**：**\"The AI Game Master's Secret Bible\"**。逆向这些提示词中的“约束机制”，用来约束一个文字冒险游戏（RPG）里的 NPC，让他们严格遵守物理规则和剧情大纲，绝不穿帮。\n- **对我项目的启发**：极大地加速你的 spec-driven 自动化系统的开发。不用自己交学费去瞎试 prompt，直接看行业大佬的满分作业。\n- **今天是否值得深入研究**：是\n- **建议行动**：**试用**（克隆下来，挑一个你最常用的工具如 v0/Cursor 的 prompt 仔细读一遍）。\n\n---\n\n## 2. [From Consumption to Reflection: Designing Human-AI Relations for Stable Reasoning]\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2606.11195\n- **一句话解释**：论文提出了“关系反思智能”（Relational Reflective Intelligence, RRI），一种在推理阶段干预用户与 AI 交互的机制，旨在打破人类对 AI 极速生成内容的“无脑消费”，强迫人类进行慢思考和双向反思。\n- **它为什么重要**：极度契合 HCI 和艺术技术（Art-tech）。当前的 AI 工具都在追求“快”和“无摩擦”，但这抹杀了人类的批判性思维。这篇论文探讨了如何通过**“故意制造摩擦（Friction）”**来重塑人机协同，对创意工具的设计有巨大颠覆性。\n- **技术趋势标签**：`HCI`, `Human-AI Interaction`, `Reflective Design`, `Inference-time Governance`\n- **可复用模式**：**摩擦力设计模式（Friction-by-Design）**——在 AI 给出最终答案前，强制要求用户进行假设检验、对立观点阐述或“找茬”，从而激活人类的慢思考。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：做一个 Chrome 插件 **\"Socratic Copilot\"**。当你在 ChatGPT 里提问时，它不会直接显示答案，而是先用模糊遮罩挡住，逼你写下“我预测的答案是什么”或者“我为什么要问这个问题”，写完才解锁答案。\n  2. **一个中型项目**：**\"The Doubtful Editor\"（怀疑论编辑器）**。一个写小说/写代码的 IDE，AI 助手不会帮你写代码，而是扮演一个“杠精”，不断质疑你的设计方案，生成反例，逼迫你重构自己的 spec。\n  3. **一个艺术/游戏/叙事方向**：一个艺术装置/叙事游戏**《共生辩论》**。玩家必须和 AI 共同创作一首诗，但如果玩家一味同意 AI 的修改，屏幕就会逐渐变暗并被“机械垃圾”填满；只有玩家提出反驳和修改，画面才会绽放。\n- **对我项目的启发**：启发你在设计 Agent 工作流或 Creative Tool 时，不要一味追求“一键生成”，有时候“阻碍”和“对话”才是通往好艺术/好设计的钥匙。\n- **今天是否值得深入研究**：是\n- **建议行动**：**做demo**（写一个简单的“摩擦力”Prompt 交互界面）。\n\n---\n\n## 3. [Mind the Perspective: Let's Reason Recursively for Theory of Mind]\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2606.11724\n- **一句话解释**：提出了 RecToM，一种在推理阶段通过显式地“递归模拟”其他智能体的信念（\"我知道你以为我知道...\"）来提升 LLM 心智理论（Theory of Mind）能力的方法。\n- **它为什么重要**：对于游戏系统、叙事系统和多智能体（Multi-agent）社会模拟至关重要。传统的 Agent 只是根据环境做出反应，而 RecToM 让 Agent 拥有了“猜测别人在想什么”的能力，这是实现高阶戏剧冲突、欺骗、合作游戏的核心。\n- **技术趋势标签**：`Theory of Mind`, `Recursive Reasoning`, `Game Systems`, `Multi-Agent`\n- **可复用模式**：**嵌套信念树（Nested Belief Tree）**——在 Prompt 中构建类似 `Belief(Agent_A, Belief(Agent_B, Event_X))` 的状态表征。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：用 Python 写一个简单的“谁是卧底”的 3-Agent 局，使用 RecToM 提示词模板，让 Agent A 试图猜测 Agent B 是否怀疑自己。\n  2. **一个中型项目**：**\"The Double-Agent Sandbox\"**。一个在 Web 端的微型 2D 潜行游戏，AI 守卫不仅会巡逻，还会根据“它以为玩家知道它的路线”来反向设伏，玩家必须利用这种心智博弈通关。\n  3. **一个艺术/游戏/叙事方向**：互动叙事装置**《第二人称的猜忌》**。两个屏幕上分别有两个 AI 虚拟角色在对话，它们不直接交流，而是各自在屏幕下方滚动显示它们的“内心戏”（对对方意图的无限递归猜测），观众可以通过输入悄悄话去干扰它们的信任链。\n- **对我项目的启发**：提供了在游戏和叙事中，如何让 AI 角色表现得“狡猾”、“有人性”、“有深度”的具体推理框架。\n- **今天是否值得深入研究**：是\n- **建议行动**：**做demo**。\n\n---\n\n## 4. [SVoT: State-aware Visualization-of-Thought for Spatial Reasoning via Reinforcement Learning]\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2606.11770\n- **一句话解释**：提出 SVoT 框架，让多模态大模型在进行空间推理（如走迷宫、拼图、3D组装）时，不仅在脑子里想，还要显式地把“中间状态”和“状态转移”可视化出来（画草图），并用强化学习来验证这些可视化。\n- **它为什么重要**：完美契合 **Minecraft/世界生成、空间设计和 3D 生成系统**。它证明了“把思考过程画出来”能大幅提升 AI 处理物理和空间问题的能力。\n- **技术趋势标签**：`Spatial Reasoning`, `Visualization-of-Thought`, `Minecraft/Worldgen`, `Multimodal RL`\n- **可复用模式**：**“状态-动作-新状态”的可视化循环**（Visual State-Transition Loop），用图像/体素网格作为 Agent 思考的草稿纸（Scratchpad）。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：在 P5.js 中写一个迷宫，让 LLM 每次走一步时，必须在控制台输出当前的迷宫 ASCII 字符图，并在图上标记出它预测的下一步，以此来完成迷宫导航。\n  2. **一个中型项目**：**\"Minecraft LLM Architect\"**。一个在 Minecraft 中的建筑 Agent。它在建造复杂的 3D 建筑前，先在本地生成一张 3D 像素透视草图，对比 spec，确认无误后再去游戏里放置方块。\n  3. **一个艺术/游戏/叙事方向**：自动生成艺术装置**《脑内迷宫》**。AI 试图解决一个物理谜题，它每进行一次“空间推理”，投影仪就会将它脑海中的“状态过渡草图”实时渲染在墙上，形成一幅动态的、由逻辑推理驱动的视觉艺术。\n- **对我项目的启发**：别只让 Agent 输出文字，让它们学会输出“视觉草稿”来辅助它们做更复杂的 3D 空间设计或世界生成。\n- **今天是否值得深入研究**：是\n- **建议行动**：**做demo**。\n\n---\n\n## 5. [SkillJuror: Measuring How Agent Skill Organization Changes Runtime Behavior]\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2606.11543\n- **一句话解释**：研究了 Agent 运行时技能（Skills）的不同组织形式对效果的影响，特别提出并验证了**“渐进式披露”（Progressive Disclosure）**模式——即只给 Agent 一个精简的根文件目录，需要时再按需索引支撑资源。\n- **它为什么重要**：启发 Agent 架构设计和 spec-driven 自动化。在构建复杂的创意工具或自动化系统时，把所有 API 和技能一股脑塞给 LLM 会导致上下文灾难，而“渐进式披露”是解决这一痛点的优雅设计模式。\n- **技术趋势标签**：`Agent Architecture`, `Progressive Disclosure`, `Skill Organization`, `LLM Toolchain`\n- **可复用模式**：**根索引-分支加载模式**（Root-to-Branch Resource Loading），让 Agent 像人类程序员查阅文档一样，先看 API 目录，决定调用哪个后再去 load 详细 spec。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：写一个 Python 脚本，管理 50 个不同的 P5.js 绘图函数（Skills）。主 Agent 只有一个 `index.json` 目录，当用户提出“画一个流体”时，Agent 必须先调用 `lookup_skill()` 获取具体函数的用法，再生成代码。\n  2. **一个中型项目**：**\"The Lazy Developer Agent\"**。一个自动化开发工具，它初始只有极简的 spec，在编写代码时，它会像侦探一样，根据报错信息自主、渐进地去 github wiki 或本地代码库中拉取“知识包”。\n  3. **一个艺术/游戏/叙事方向**：互动叙事游戏**《记忆解密》**。玩家扮演侦探，AI 扮演失忆的嫌疑人。嫌疑人的大脑（Agent Skills）被设计成“渐进式披露”架构。玩家必须问对特定关键词，AI 才能“解锁”并加载更深层的记忆模块（Skills），从而吐露新的线索。\n- **对我项目的启发**：优化你的 agent workflow，用“渐进式披露”来设计你的 Agent 记忆和技能系统，省钱、省 context 还更聪明。\n- **今天是否值得深入研究**：否 (可作为架构参考，但不用立刻读完论文)\n- **建议行动**：**收藏**。\n\n---\n\n## 今日模式总结\n\n1. **推理期认知摩擦（Inference-Time Cognitive Friction）**：无论是 RRI 还是 RecToM，当前的趋势正在从“追求极速无脑的单向生成”转向“在推理阶段引入延迟、递归、摩擦和反思”，从而让 AI 和人类的协作更有深度。\n2. **空间思维的视觉草稿纸（Visual Scratchpad）**：如 SVoT 所示，多模态 Agent 正在学会在行动前先“画草图”。将中间状态可视化并作为下一步的输入，是突破 3D、游戏世界生成瓶颈的关键。\n3. **渐进式资源装载（Progressive Resource Hydration）**：如 SkillJuror 所示，不要一次性喂饱 Agent。通过“极简目录 + 按需加载”的架构，能显著提升 Agent 在复杂、长流程任务中的执行效率和准确度。\n\n---\n\n## 今日可做小实验：2小时内搞定\n\n### 项目名：多疑商人的心智模拟器 (The Suspicious Merchant's Mind)\n一个基于 RecToM (心智理论递归推理) 的微型 RPG 对话交互界面。\n\n- **输入**：玩家输入一句砍价或试探性的话语（例如：“我听说城东的杂货铺这个药水只要 5 个金币。”）\n- **输出**：\n  1. 商人表面上说的话（\"哎呀，那都是假货...\"）\n  2. 网页上以嵌套卡片形式可视化呈现的**“商人内心嵌套信念树”**：\n     * *[第一层]* 商人对玩家意图的猜测。\n     * *[第二层]* 商人认为“玩家以为我知道什么”。\n     * *[第三层]* 商人决定隐藏的秘密。\n- **技术栈**：\n  * Python (FastAPI) 或 纯 HTML/JS\n  * Claude 3.5 Sonnet / GPT-4o API\n  * CSS (用于渲染好看的嵌套卡片 UI)\n- **第一步怎么做**：\n  在 Python 中写一个 Prompt，强制 LLM 返回一个严格的 JSON 格式。Prompt 模版如下：\n  ```json\n  你是一个多疑的魔法药水商人。玩家正在向你买药水。\n  请根据玩家的输入，严格返回以下 JSON 格式：\n  {\n    \"spoken_response\": \"你对玩家说的话\",\n    \"theory_of_mind\": {\n      \"level_1_my_belief\": \"我（商人）认为玩家说这句话的真实意图是...\",\n      \"level_2_player_belief\": \"我认为玩家以为我（商人）知道...\",\n      \"level_3_deception_plan\": \"为了多赚金币，我决定隐瞒什么...\"\n    }\n  }\n  ```\n  用 Postman 或一个极简的 Python 脚本跑通这个 API，然后用 CSS 把这三个 Level 渲染成“剥洋葱”式的视觉动效！",
+  "gemini_success": true,
+  "telegram_sent": true,
+  "telegram_status": "sent",
+  "telegram_reason": ""
+}

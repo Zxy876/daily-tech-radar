@@ -1,0 +1,301 @@
+[
+  {
+    "title": "Organize then Retrieve: Hierarchical Memory Navigation for Efficient Agents",
+    "url": "https://arxiv.org/abs/2606.11680",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 11 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.11680v1 Announce Type: new \nAbstract: Large language model (LLM) agents struggle with long-horizon tasks due to their inherent statelessness, requiring all task-relevant information to be encoded in growing input contexts. The resulting degraded reasoning quality, increased inference cost, and higher latency necessitate efficient working memory mechanisms. However, existing approaches either rely on lossy compression or similarity-based retrieval, which often fail to capture temporal ",
+    "score": 16.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "inference",
+      "reasoning",
+      "memory",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "MODF-SIR: A Multi-agent Omni-modal Distilled Framework for Social Intelligence Reasoning",
+    "url": "https://arxiv.org/abs/2606.12018",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 11 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.12018v1 Announce Type: new \nAbstract: We propose a multi-agent collaborative framework built upon a lightweight Multimodal Large Language Model (MLLM), specifically designed for social intelligence reasoning. A key feature of our approach is that both the training and inference phases are augmented via knowledge distillation. Within this architecture, multi-modal data pertinent to social intelligence is precisely localized. Furthermore, relevant long-tail events are identified, extrac",
+    "score": 14.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "multimodal",
+      "inference",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Architecture-Aware Reinforcement Learning Makes Sliding-Window Attention Competitive in Math Reasoning",
+    "url": "https://arxiv.org/abs/2606.11634",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 11 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.11634v1 Announce Type: new \nAbstract: The rapid progress of reasoning and agentic large language models (LLMs) has increased the demand for long-context inference, but self-attention (SA) scales quadratically with context length.\n  To address this, we study SWARR (Sliding-Window Attention with Reinforced Adaptation for Math Reasoning), a practical recipe for adapting SWA models to mathematical reasoning. SWARR has two stages: (1) efficient conversion from a pretrained SA model to SWA ",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "inference",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Mind the Perspective: Let's Reason Recursively for Theory of Mind",
+    "url": "https://arxiv.org/abs/2606.11724",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 11 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.11724v1 Announce Type: new \nAbstract: Theory of Mind (ToM) reasoning requires inferring agents' beliefs from partial and asymmetric observations, which remains an open challenge for LLMs. Existing prompting-based approaches improve ToM reasoning through observable-event filtering or temporal belief chains, without explicitly modeling nested beliefs. We introduce RecToM, an inference-time framework for ToM reasoning that models nested beliefs via recursive perspective construction. Rec",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "inference",
+      "prompt",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "SVoT: State-aware Visualization-of-Thought for Spatial Reasoning via Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2606.11770",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 11 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.11770v1 Announce Type: new \nAbstract: Spatial reasoning remains a challenge for Multimodal Large Language Models (MLLMs), as it requires reliable multi-hop inference over both intermediate states and state transitions. Current studies often leave intermediate states unverified and treat state transitions as implicit processes, which limits reliability in multi-hop spatial reasoning. To address this, we propose State-aware Visualization-of-Thought (SVoT), a reinforcement learning frame",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "multimodal",
+      "inference",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "SkillJuror: Measuring How Agent Skill Organization Changes Runtime Behavior",
+    "url": "https://arxiv.org/abs/2606.11543",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 11 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.11543v1 Announce Type: new \nAbstract: Agent Skills augment large language model (LLM) agents with procedural knowledge at inference time, but current benchmarks rarely distinguish what a Skill says from how it is organized. We study this distinction through Progressive Disclosure, where a concise root file points agents to supporting resources on demand, and compare it with a normalized flat baseline. We present SkillJuror, a framework for evaluating Skill writing paradigms through se",
+    "score": 10.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "language model",
+      "inference",
+      "procedural"
+    ]
+  },
+  {
+    "title": "A Lightweight Multi-Agent Framework for Automated Concrete Barrier Design",
+    "url": "https://arxiv.org/abs/2606.12040",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 11 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.12040v1 Announce Type: new \nAbstract: The design of reinforced concrete highway barriers is a safety-critical process that requires strict compliance with regulatory provisions such as the AASHTO-LRFD bridge design guidelines. Current engineering practice relies heavily on manual, iterative, and heuristic calculations to satisfy complex nonlinear material and mechanics constraints. Although Large Language Models (LLMs) demonstrate strong generative capabilities, their direct applicati",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "generative"
+    ]
+  },
+  {
+    "title": "From Consumption to Reflection: Designing Human-AI Relations for Stable Reasoning",
+    "url": "https://arxiv.org/abs/2606.11195",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 11 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.11195v1 Announce Type: cross \nAbstract: Large language models (LLMs) have transformed how humans access information, but not how we reason with it. Their fluency accelerates consumption while bypassing the slow, reflective processes that underpin sound judgment. This paper introduces Relational Reflective Intelligence (RRI), an inference-time governance layer that operationalizes reflection through auditable reasoning loops. RRI operates not inside the model but around it, providing a",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "inference",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "FlowBank: Query-Adaptive Agentic Workflows Optimization through Precompute-and-Reuse",
+    "url": "https://arxiv.org/abs/2606.11290",
+    "source": "arXiv cs.LG",
+    "published_at": "Thu, 11 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.11290v1 Announce Type: new \nAbstract: Large Language Model (LLM)-based multi-agent systems are increasingly powerful, but current agentic workflow optimization paradigms make an unsatisfying trade-off. Task-level methods spend substantial offline compute yet deploy only a single workflow, leaving complementary candidates unused, while query-level methods synthesize a new workflow per query at substantial inference cost. Our motivating analysis shows these paradigms are more complement",
+    "score": 10.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "workflow",
+      "language model",
+      "inference"
+    ]
+  },
+  {
+    "title": "alistaitsacle / free-llm-api-keys",
+    "url": "https://github.com/alistaitsacle/free-llm-api-keys",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Free LLM API keys for GPT-5.5, Claude, DeepSeek, Gemini, Grok — copy, paste, use. Updated 3-5x daily. No credit card needed. [96 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "Claude",
+      "Gemini",
+      "GPT"
+    ]
+  },
+  {
+    "title": "x1xhlol / system-prompts-and-models-of-ai-tools",
+    "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models [368 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "open source",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Position: Hippocampal Explicit Memory Is the Cornerstone for AGI",
+    "url": "https://arxiv.org/abs/2606.11245",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 11 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.11245v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have demonstrated remarkable capabilities across various tasks, raising expectations for Artificial General Intelligence (AGI). This position paper argues that integrating explicit memory is the cornerstone for advancing LLMs toward AGI. The key reason is that the underlying learning mechanism of LLMs is highly analogous to human implicit memory. However, higher-order cognitive functions necessary for AGI, such as long",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "memory"
+    ]
+  },
+  {
+    "title": "Skill-Augmented AI Agents for Medical Research Analysis: An Exploratory Multi-Model Human Evaluation in an NSCLC Transcriptomic Biomarker Task",
+    "url": "https://arxiv.org/abs/2606.11830",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 11 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.11830v1 Announce Type: new \nAbstract: Background. Large language models and AI agents are increasingly used to support biomedical research, but native model outputs may omit key analytical steps, misuse methods, or overstate conclusions. We evaluated whether autonomous access to a medical research skill package was associated with higher-quality AI-generated transcriptomic research-analysis outputs compared with native AI without skills. Methods. We conducted an exploratory multi-mode",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "language model",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "AutoMine Solution for AV2 2026 Scenario Mining Challenge",
+    "url": "https://arxiv.org/abs/2606.11874",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 11 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.11874v1 Announce Type: new \nAbstract: With the development of autonomous driving systems, mining high-value, safety-critical, and planning-relevant scenarios from large-scale driving logs has become essential for data-driven evaluation. In this paper, we propose AutoMine, a robust self-refining scenario mining method based on LLMs and VLMs. AutoMine uses semantics-preserving prompt augmentation to reduce LLM prompt sensitivity, combines robust trajectory atomic functions with VLM-base",
+    "score": 8.0,
+    "keywords_matched": [
+      "LLM",
+      "autonomous",
+      "prompt",
+      "planning"
+    ]
+  },
+  {
+    "title": "Nonslop: A Gamified Experiment in Human-AI Collaborative Writing",
+    "url": "https://arxiv.org/abs/2606.12350",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 11 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.12350v1 Announce Type: new \nAbstract: The rapid proliferation of large language models (LLMs) raises critical questions about human creativity and individual expression in an era of AI-assisted creation. When do humans adopt AI suggestions, and what are the implications for individual voice?\n  This study examines these questions through a gamified writing exercise where 74 participants (214 responses) replied to prompts while AI-generated word suggestions were available as they wrote.",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "prompt"
+    ]
+  },
+  {
+    "title": "PoQ-Judge: A Multi-Architecture Evaluation Framework for Cost-Aware Proof-of-Quality in Decentralized LLM Inference",
+    "url": "https://arxiv.org/abs/2606.11196",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 11 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.11196v1 Announce Type: cross \nAbstract: Decentralized LLM inference networks need lightweight, reference-free quality evaluation for Proof of Quality (PoQ). We present PoQ-Judge, a framework that trains dedicated judge models to score query-output pairs without ground-truth references. We study three architectures across the quality-cost tradeoff: a TextCNN judge, a MiniLM cross-encoder, and a DeBERTa judge. Using two-stage training on UltraFeedback plus GPT-labeled in-domain data, th",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "GPT",
+      "inference"
+    ]
+  },
+  {
+    "title": "Least-Action-Guided Diffusion for Physical Extrapolation",
+    "url": "https://arxiv.org/abs/2606.11277",
+    "source": "arXiv cs.LG",
+    "published_at": "Thu, 11 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.11277v1 Announce Type: new \nAbstract: Reliable extrapolation remains a central challenge for generative models in computational physics, because models trained over finite ranges of time, parameters, or geometries may produce physically inconsistent predictions outside the training distribution. We introduce a least-action-principle-guided diffusion, LAPG, a framework that promotes physical consistency during inference rather than relying solely on constraints imposed during training.",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "diffusion",
+      "inference",
+      "generative"
+    ]
+  },
+  {
+    "title": "Recursive Binding on a Budget: Subspace Carving in Order-p Tensor Memories",
+    "url": "https://arxiv.org/abs/2606.11391",
+    "source": "arXiv cs.LG",
+    "published_at": "Thu, 11 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.11391v1 Announce Type: new \nAbstract: Tensor Product Representations provide the structural fidelity required for symbolic reasoning in models but suffer from exponential dimensionality growth when encoding deep recursive structures. Conversely, Vector Symbolic Architectures maintain constant dimensionality but sacrifice capacity and fidelity due to noisy compression via superposition. In this work, we propose Orthogonal Subspace Carving (OSC), a memory architecture that binds fillers",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "vector",
+      "reasoning",
+      "memory"
+    ]
+  },
+  {
+    "title": "Counterexample Guided Learning in the Large using Reasoning Agents",
+    "url": "https://arxiv.org/abs/2606.11521",
+    "source": "arXiv cs.LG",
+    "published_at": "Thu, 11 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.11521v1 Announce Type: new \nAbstract: LLMs and LLM agents should improve when given feedback, but identifying when they are able to do so is difficult: feedback is heterogeneous, domain-specific, and difficult to control. We approach this challenge by asking LLMs to perform regular-expression induction, a classical symbolic learning problem where precise mechanisms for feedback exist in the form of counterexamples. In counterexample-guided learning, a learner (LLM) proposes candidate ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "mlflow / mlflow",
+    "url": "https://github.com/mlflow/mlflow",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controlling costs and managing access to models and data. [24 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "open source"
+    ]
+  }
+]
