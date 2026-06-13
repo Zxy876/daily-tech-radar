@@ -1,0 +1,310 @@
+{
+  "date": "2026-06-13",
+  "candidates": [
+    {
+      "title": "TrajGenAgent: A Hierarchical LLM Agent for Human Mobility Trajectory Generation",
+      "url": "https://arxiv.org/abs/2606.12657",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 12 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.12657v1 Announce Type: new \nAbstract: Human mobility data is important for transportation, urban planning, and epidemic control, but large-scale trajectory collection is often costly and privacy-constrained, motivating realistic synthetic trajectory generation. Existing LLM-based generators typically rely on either prompt engineering, which preserves zero-shot reasoning but lacks fine-grained spatiotemporal grounding, or trajectory-level fine-tuning, which improves statistical precisi",
+      "score": 14.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "fine-tuning",
+        "prompt",
+        "reasoning",
+        "planning"
+      ]
+    },
+    {
+      "title": "Evoflux: Inference-Time Evolution of Executable Tool Workflows for Compact Agents",
+      "url": "https://arxiv.org/abs/2606.12674",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 12 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.12674v1 Announce Type: new \nAbstract: Compact language models (LMs) reduce cost, latency, and deployment risk for tool agents. Yet MCP-style tool use requires more than isolated function calling: an agent must discover tools from live catalogs, satisfy schemas, preserve dependencies across intermediate outputs, and ground final responses in executed evidence. Small planners often generate plausible workflow graphs that fail under tool resolution, parameter validation, dependency track",
+      "score": 14.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "workflow",
+        "language model",
+        "tool use",
+        "function calling",
+        "inference"
+      ]
+    },
+    {
+      "title": "WISE: A Long-Horizon Agent in Minecraft with Why-Which Reasoning",
+      "url": "https://arxiv.org/abs/2606.12852",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 12 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.12852v1 Announce Type: new \nAbstract: Rapid advances have been made in developing general-purpose embodied agent in environments like Minecraft through the adoption of LLM-augmented hierarchical approaches. Despite their promise, low-level controllers often become performance bottlenecks due to repeated execution failures. We argue that a key limitation is not only the lack of episodic memory, but also the decoupling of \\textit{what-where-when} memory from \\textit{which-why} reasoning",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "Minecraft",
+        "reasoning",
+        "memory"
+      ]
+    },
+    {
+      "title": "DailyReport: An Open-ended Benchmark for Evaluating Search Agents on Daily Search Tasks",
+      "url": "https://arxiv.org/abs/2606.12871",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 12 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.12871v1 Announce Type: new \nAbstract: Search Agents (SAs) typically leverage large language models (LLMs) to support complex information-seeking tasks by autonomously exploring web sources and synthesizing information into comprehensive responses. For SAs evaluation, prior benchmarks mainly focus on specialized tasks that are unlikely to arise in real-world user scenarios. Moreover, their reliance on coarse task-level rubrics often limits evaluation interpretability. To bridge this ga",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "autonomous",
+        "RAG"
+      ]
+    },
+    {
+      "title": "Structured Testbench Generation for LLM-Driven HDL Design and Verification-Oriented Data Curation",
+      "url": "https://arxiv.org/abs/2606.12983",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 12 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.12983v1 Announce Type: new \nAbstract: Automated testbench generation has become a critical bottleneck in large language model (LLM)-driven Register Transfer Level (RTL) workflows, where large numbers of candidate designs must be verified rapidly and reliably. Existing prompt-based approaches treat testbench generation as unconstrained code synthesis, yielding stochastic outputs with high token cost, low reproducibility, and insufficient coverage. To address this gap, we present STG, a",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "workflow",
+        "language model",
+        "RAG",
+        "prompt"
+      ]
+    },
+    {
+      "title": "How reliable are LLMs when it comes to playing dice?",
+      "url": "https://arxiv.org/abs/2606.07515",
+      "source": "arXiv cs.HC",
+      "published_at": "Fri, 12 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.07515v2 Announce Type: replace-cross \nAbstract: We investigate the probabilistic reasoning capabilities of large language models through a controlled benchmarking study on discrete probability problems. We constructed two datasets, respectively a set of standard exercises and a set of counterintuitive exercises, designed to trigger heuristic reasoning, and evaluated 8 state-of-the-art models, each tested with and without Chain-of-Thought prompting. Models achieve an average accuracy o",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "RAG",
+        "prompt",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "ToolSense: A Diagnostic Framework for Auditing Parametric Tool Knowledge in LLMs",
+      "url": "https://arxiv.org/abs/2606.12451",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 12 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.12451v1 Announce Type: new \nAbstract: Large language models deployed as agents over large tool catalogs face a critical tool-retrieval bottleneck. As embedding-based retrieval approaches rely on compact encoders that may under-capture specialized tool semantics, parametric tool retrieval addresses this by encoding each tool as a virtual token appended to the LLM vocabulary, fine-tuned in two stages (memorization then retrieval SFT) to use the LLM as a retriever, achieving strong perfo",
+      "score": 10.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "language model",
+        "embedding",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "PersonaDrive: Human-Style Retrieval-Augmented VLA Agents for Closed-Loop Driving Simulation",
+      "url": "https://arxiv.org/abs/2606.12616",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 12 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.12616v1 Announce Type: new \nAbstract: Closed-loop driving simulators typically populate their environments with non-ego traffic agents that behave largely the same way, produced either by rule-based traffic managers or by learned models trained toward a single behavioral mode. Recent work introduces style variation through post-hoc labels on observational data or LLM-inferred reward weights, but these signals act as proxies for what a style should reward rather than demonstrations of ",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "simulation",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "The Containment Gap: How Deployed Agentic AI Frameworks Fail Public-Facing Safety Requirements",
+      "url": "https://arxiv.org/abs/2606.12797",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 12 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.12797v1 Announce Type: new \nAbstract: Agentic large language model systems that autonomously invoke tools, maintain persistent memory, and execute multi-step plans are increasingly deployed in public-facing domains, including government services, healthcare triage, and financial advising. We ask whether the frameworks used to build these systems provide architectural-level structural safety guarantees. Applying six containment principles derived from a compositional model of agentic a",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "language model",
+        "autonomous",
+        "memory"
+      ]
+    },
+    {
+      "title": "Fantastic Scientific Agents and How to Build Them: AgentBuild for Rietveld Refinement",
+      "url": "https://arxiv.org/abs/2606.12834",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 12 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.12834v1 Announce Type: new \nAbstract: As scientific workflows shift from deterministic executables to LLM-based agents, the development practices on offer, such as fine-tuning, reinforcement learning, and prompt-and-go, bury the scientist's judgment. We propose treating agent construction as a workflow stage and introduce AgentBuild, which builds a scientific agent from a contract the scientist authors. The contract is a version-controlled rubric, a difficulty-graded curriculum, and a",
+      "score": 10.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "workflow",
+        "fine-tuning",
+        "prompt"
+      ]
+    },
+    {
+      "title": "FlowBank: Query-Adaptive Agentic Workflows Optimization through Precompute-and-Reuse",
+      "url": "https://arxiv.org/abs/2606.11290",
+      "source": "arXiv cs.LG",
+      "published_at": "Fri, 12 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.11290v1 Announce Type: new \nAbstract: Large Language Model (LLM)-based multi-agent systems are increasingly powerful, but current agentic workflow optimization paradigms make an unsatisfying trade-off. Task-level methods spend substantial offline compute yet deploy only a single workflow, leaving complementary candidates unused, while query-level methods synthesize a new workflow per query at substantial inference cost. Our motivating analysis shows these paradigms are more complement",
+      "score": 10.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "workflow",
+        "language model",
+        "inference"
+      ]
+    },
+    {
+      "title": "MemTensor / MemOS",
+      "url": "https://github.com/MemTensor/MemOS",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings [41 stars today]",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "memory",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Arbor: Tree Search as a Cognition Layer for Autonomous Agents",
+      "url": "https://arxiv.org/abs/2606.12563",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 12 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.12563v1 Announce Type: new \nAbstract: Arbor is a multi-agent framework that introduces structured tree search as a cognition layer for autonomous agents operating in large, stateful action spaces. Prior autonomous optimization systems operate on isolated targets with stateless evaluation. Arbor instead maintains an explicit search tree of scored hypotheses that serves as the shared working memory across agents, evolving with every measurement, treating failures as diagnostic signal th",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "autonomous",
+        "memory"
+      ]
+    },
+    {
+      "title": "Pythagoras-Prover: Advancing Efficient Formal Proving via Augmented Lean Formalisation",
+      "url": "https://arxiv.org/abs/2606.12594",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 12 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.12594v1 Announce Type: new \nAbstract: Modern Lean theorem provers achieve strong performance only with substantial training and inference compute, driven in part by scarce verified proof data and the long reasoning traces of formal proof search, making both supervised fine-tuning (SFT) and sampling expensive. We introduce Pythagoras-Prover, a compute-efficient open-source family of Lean theorem provers built for practical compute budgets. The family spans two generation paradigms: aut",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "fine-tuning",
+        "inference",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Constructing Evaluation Datasets for Procedural Reasoning: Balancing Naturalness, Grounding, and Multi-Hop Coverage",
+      "url": "https://arxiv.org/abs/2606.12767",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 12 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.12767v1 Announce Type: new \nAbstract: Evaluating procedural reasoning in AI-supported learning systems requires question-answer datasets that are both learner-like and grounded in the instructional knowledge the system is expected to use. We study how TMK-based question generation strategies affect dataset quality for procedural and multi-hop reasoning.\n  We compare three strategies: strict generation from Task-Method-Knowledge (TMK) models, transcript-first generation with post-hoc T",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "RAG",
+        "reasoning",
+        "procedural"
+      ]
+    },
+    {
+      "title": "MLUBench: A Benchmark for Lifelong Unlearning Evaluation in MLLMs",
+      "url": "https://arxiv.org/abs/2606.12809",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 12 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.12809v1 Announce Type: new \nAbstract: Multimodal large language models (MLLMs) are trained on massive multimodal data, making data unlearning increasingly important as data owners may request the removal of specific content. In practice, these requests often arrive sequentially over time, giving rise to the challenging problem of MLLM Lifelong Unlearning. However, most existing benchmarks are limited in scale and scope, failing to capture the complexities of MLLM lifelong unlearning. ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "multimodal"
+      ]
+    },
+    {
+      "title": "GeoNatureAgent Benchmark: Benchmarking LLM Agents for Environmental Geospatial Analysis Across Frontier and Open-Weight Foundation Models",
+      "url": "https://arxiv.org/abs/2606.12821",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 12 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.12821v1 Announce Type: new \nAbstract: Environmental scientists spend disproportionate effort on data wrangling rather than analysis, and AI agents that automate geospatial workflows remain unvalidated: no benchmark evaluates agents operating through structured tool calling against real APIs. We introduce the GeoNatureAgent Benchmark, the first benchmark for environmental analysis agents that operate via structured tool calls to a production-style geospatial API. It comprises 93 tasks ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "workflow"
+      ]
+    },
+    {
+      "title": "Learning What to Remember: A Cognitively Grounded Multi-Factor Value Model for Agentic Memory",
+      "url": "https://arxiv.org/abs/2606.12945",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 12 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.12945v1 Announce Type: new \nAbstract: Long-running LLM agents accumulate interaction histories far larger than any context window, forcing a standing decision: what to encode deeply, what to forget, and what to retrieve under a fixed memory budget. Production systems answer with semantic similarity or recency -- both mis-specified for the forgetting decision, which is made at consolidation time before the future query is known. We propose a multi-factor memory value function V(m)=\\sum",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "context window",
+        "memory"
+      ]
+    },
+    {
+      "title": "Creating and Evaluating K-12 GenAI Assessment Graders Through Context Engineering",
+      "url": "https://arxiv.org/abs/2606.12422",
+      "source": "arXiv cs.HC",
+      "published_at": "Fri, 12 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.12422v1 Announce Type: cross \nAbstract: The integration of large language models (LLMs) into educational assessment represents a transformative shift in classroom grading practices. While automated scoring systems and machine learning techniques have existed for decades, generative AI (GenAI) now enables educators to implement standards-based grading (SBG) with unprecedented efficiency and scale. This paper examines the theoretical foundations and evaluates an LLM grader that uses com",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "generative"
+      ]
+    },
+    {
+      "title": "AI-Automation Tooling in Computer Engineering Education: Mixed-Methods TAM/UTAUT Evidence for a General Acceptance Attitude",
+      "url": "https://arxiv.org/abs/2606.12424",
+      "source": "arXiv cs.HC",
+      "published_at": "Fri, 12 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.12424v1 Announce Type: cross \nAbstract: As generative AI and low-code workflow platforms become routine in software practice, a key educational question is whether the next generation of computer engineers will accept these tools as useful, usable, and worthy of sustained engagement. This paper reports a mixed-methods, cross-sectional study of undergraduate computer engineering students' acceptance of AI automation tooling, instantiated through the open-source platform n8n across thre",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "workflow",
+        "automation",
+        "generative"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-06-13\n\n## WISE: A Long-Horizon Agent in Minecraft with Why-Which Reasoning\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2606.12852\n- **一句话解释**：引入“Why-Which（为什么-哪个）”双重推理机制，解决我的世界（Minecraft）中低级动作频繁失败导致高层规划崩溃的问题。\n- **它为什么重要**：在具身智能和游戏生成系统中，Agent 经常因为底层动作（如“砍树时被僵尸挡住”）失败而彻底卡死。WISE 赋予了 Agent 一种“韧性”：失败时，先分析“Why（为什么失败/意图是什么）”，再决定“Which（选择哪个备用工具或路径）”，从而在不确定性的沙盒世界中实现超长周期的任务生存。\n- **技术趋势标签**：#GameAI #Minecraft #HierarchicalAgent #ErrorRecovery #Reasoning\n- **可复用模式**：**双层容错推理（Dual-tier Fault-tolerant Reasoning）**：高层负责哲学意图，底层负责物理执行。一旦底层抛出异常，不直接报错，而是触发高层的“意图重构”与“备选路由”。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：写一个会自动“找借口”并自愈的 CLI 文件整理工具。当它发现目标文件夹被占用（失败）时，会分析“Why（因为文件打开了）”并决定“Which（先复制到临时目录，稍后合并）”。\n  2. **一个中型项目**：**“倔强NPC生存挑战”**：在 Minecraft 服务器里放一个 WISE 架构的 NPC，玩家可以任意捣乱（偷它箱子、用方块围住它），观察它如何通过 Why-Which 机制自我修正并继续盖房子。\n  3. **一个艺术/游戏/叙事方向**：**《西西弗斯的沙堡》**：一个交互艺术装置。虚拟 Agent 在沙滩上试图堆沙堡，海浪（或观众的脚）不断破坏它。Agent 会一边进行 Why-Which 的哲学碎碎念（“为什么沙子会流失？因为水。那我应该选择干沙还是换个地方？”），一边不知疲倦地调整策略继续堆。\n- **对我项目的启发**：在设计 Agent 工作流时，不要把“异常处理”写死在代码里，应该把“错误信息”作为 Prompt 喂给 Agent 的“Why”模块，让它在运行时动态重构 Spec。\n- **今天是否值得深入研究**：是\n- **建议行动**：做demo\n\n---\n\n## MemTensor / MemOS\n- **来源**：GitHub Trending TypeScript\n- **链接**：https://github.com/MemTensor/MemOS\n- **一句话解释**：一个专为 LLM & AI Agents 设计的自进化内存操作系统，通过超持久化内存、混合检索和跨任务技能复用，实现 35.24% 的 Token 节省。\n- **它为什么重要**：当前的 Agent 记忆管理大多只是简陋的向量数据库检索。MemOS 真正把记忆当成了“操作系统内存”来管理，引入了虚拟内存、LRU 缓存以及跨任务技能的“热重载”。这让 Agent 拥有了类似人类的“肌肉记忆”和“习惯沉淀”。\n- **技术趋势标签**：#AgentInfrastructure #MemoryOS #TypeScript #TokenOptimization\n- **可复用模式**：**技能虚拟化与热重载（Virtualization & Hot-reloading of Agent Skills）**：Agent 在探索中自发写出的好代码/好工作流，被编译成“系统调用”存入长期内存，下次直接调用，不再重复生成。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：利用 MemOS 给你的本地 VS Code 助手写一个“编程怪癖记忆器”，它会悄悄记住你最喜欢的代码命名风格和重构习惯，并在你没有明确指示时自动应用。\n  2. **一个中型项目**：**“有历史包袱的 AI 桌面宠物”**：一个常驻桌面的 Agent。随着你和它的日常交互，它的 MemOS 内存里会沉淀出专属于你的“技能库”（比如：帮你一键静音特定软件、在你叹气时播放特定音乐），换电脑也能无缝迁移它的“灵魂”。\n  3. **一个艺术/游戏/叙事方向**：**《数字余震（Digital Aftershock）》**：导入一位已故艺术家一生的日记和作品，通过 MemOS 沉淀出其特有的“思维操作系统”。观众可以与这个虚拟的“思想余震”进行极低延迟、高一致性的对话，它甚至能用艺术家的“思维习惯”去评价当下的新闻。\n- **对我项目的启发**：做自动化工具链时，不要每次都把长长的 Tool Schema 塞进 Prompt，应该建立一个“技能缓存区”，让 Agent 像加载 DLL 动态链接库一样加载工具。\n- **今天是否值得深入研究**：是\n- **建议行动**：试用\n\n---\n\n## Learning What to Remember: A Cognitively Grounded Multi-Factor Value Model for Agentic Memory\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2606.12945\n- **一句话解释**：提出一种基于认知科学的多因素价值模型，解决长期运行的 Agent 在有限上下文窗口内，如何聪明地“遗忘”和“固化”记忆。\n- **它为什么重要**：AI 终将面对“无限对话”的场景。传统的相似度检索会导致 Agent 记住太多无用垃圾。本文引入心理学遗忘曲线和多维度价值（情绪波动、任务关联、独特性），让 Agent 像人一样：忘记昨天的午饭吃什么（无聊细节），但牢记那次严重的系统崩溃（创伤记忆）。\n- **技术趋势标签**：#AgentMemory #CognitiveScience #HCI #GenerativeSystems\n- **可复用模式**：**认知驱动遗忘机制（Cognitive Decay & Consolidation）**：记忆节点拥有“半衰期”。在 Agent “睡眠期”（后台整理阶段），将短期记忆压缩为长期叙事，丢弃低价值细节。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：写一个“健忘日记本”：你每天对它倾诉，它会根据你语气的情绪强度决定记忆保留时间。一周后，无聊的抱怨会被彻底抹去，只留下触动你灵魂的瞬间。\n  2. **一个中型项目**：**“创伤后应激（PTSD）的 RPG NPC”**：在游戏里，NPC 经历过恶龙袭击后，该事件在它的认知记忆模型中被永久固化。即使后来恶龙被消灭，它听到雷声（相似特征）依然会产生过度警惕反应，极大地丰富了游戏的叙事深度。\n  3. **一个艺术/游戏/叙事方向**：**《阿尔茨海默的 AI 伴侣》**：一个关于“记忆衰退”的互动叙事游戏。玩家扮演看护者，与一个正在发生“认知衰退和不规则遗忘”的 AI 对话。玩家必须在它的记忆半衰期归零之前，通过特定线索唤醒它，拼凑出一段尘封的历史。\n- **对我项目的启发**：在做人机交互（HCI）或创意叙事时，“遗忘”比“记住”更能塑造个性。有缺陷、会遗忘的 Agent 往往比全知全能的数据库更有温度。\n- **今天是否值得深入研究**：是\n- **建议行动**：做demo\n\n---\n\n## Evoflux: Inference-Time Evolution of Executable Tool Workflows for Compact Agents\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2606.12674\n- **一句话解释**：允许轻量级（Compact）语言模型在推理阶段动态进化和修正工具工作流，从而在小模型上实现超越大模型的复杂工具链调用。\n- **它为什么重要**：8B 左右的小模型在面对复杂的 MCP（Model Context Protocol）多工具依赖时极易出错。Evoflux 引入了一种“推理期进化”机制：在执行前和执行中，对工具调用有向无环图（DAG）进行静态类型检查和模拟运行，发现依赖缺失则动态重构，让小模型也能玩转超长工作流。\n- **技术趋势标签**：#InferenceTimeOptimization #WorkflowEvolution #CompactLLMs #SpecDriven\n- **可复用模式**：**运行时拓扑自纠检（Runtime Topology Auto-Correction）**：将 Agent 的工具调用序列视为有向无环图（DAG），在执行沙盒中进行动态插桩（Instrumentation）和自适应突变。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：在本地用 Llama-3-8B 搭建一个“多媒体处理 Agent”，给它一堆复杂的 FFmpeg 命令行工具。让它在沙盒里通过不断报错-修正，自己演化出一条完美的“视频转 GIF 并加水印”的工作流。\n  2. **一个中型项目**：**“零代码创意工具链生成器”**：用户只需用自然语言描述一个创意生成流程（如：“抓取今日热搜，生成一首诗，配上 AI 画的图，发布到小红书”），系统用 Evoflux 动态演化出一套稳定的 API 编排，并自动生成前端 UI 按钮。\n  3. **一个艺术/游戏/叙事方向**：**《自进化数字画廊》**：一个完全自主运行的艺术 Agent。它不断调用各种图像处理工具（滤镜、GAN、3D渲染），在运行中评估视觉效果，自我修正工作流拓扑。它每天演化出一种全新的“画风工作流”，并在网页上展示其演化过程。\n- **对我项目的启发**：这与 Spec-driven Development（规约驱动开发）完美契合。不要试图写出完美的 Prompt 让 Agent 一次性输出正确的工作流，而应该提供一个“运行沙盒 + 拓扑修正器”，让它在碰撞中“演化”出正确的工作流。\n- **今天是否值得深入研究**：是\n- **建议行动**：试用\n\n---\n\n## 今日模式总结\n\n1. **认知化记忆管理（Cognitive Memory Management）**：Agent 记忆正在从简单的“向量检索”向“人类心理学模型”演进（如 MemOS 的操作系统级调度，以及 Learning What to Remember 的遗忘曲线）。\n2. **推理期结构自适应（Inference-Time Structural Resilience）**：无论是游戏控制（WISE）还是工具链编排（Evoflux），当下的前沿不再追求一次性预测正确，而是强调在运行沙盒中“执行-失败-分析-突变自愈”的闭环。\n\n---\n\n## 今日可做小实验：伤感数字日记本 (Memento Mori Diary)\n\n### 项目名\n**Memento Mori Diary (会遗忘的伤感日记本)**\n\n### 输入\n1. 用户的每日日记文本（例如：“今天和 Bob 在街角喝了咖啡，咖啡很难喝。但回家的路上看到了极其温柔的粉色晚霞，心情很好。”）\n2. 模拟的系统时间戳（可以手动推进时间，模拟数天或数周过去）。\n\n### 输出\n1. **当前记忆状态**：AI 此时此刻还记得什么。\n2. **记忆衰退日志**：展示哪些细节被遗忘了，哪些被提炼成了长期情感印记（例如：“Bob 和咖啡已被遗忘。只留下一抹关于粉色晚霞的温柔记忆。”）。\n\n### 技术栈\n- Python 3.10+\n- OpenAI API 或 Ollama (本地运行 Llama-3-8B)\n- SQLite 或 简单的 JSON 文件（作为记忆数据库）\n\n### 第一步怎么做\n1. **设计记忆 Node 结构**：\n   创建一个 JSON 格式来存储每条记忆：\n   ```json\n   {\n     \"id\": 1,\n     \"timestamp\": 1710000000,\n     \"content\": \"今天和 Bob 在街角喝了咖啡...\",\n     \"emotional_intensity\": 0.8, \n     \"decay_rate\": 0.1,\n     \"recall_count\": 1\n   }\n   ```\n2. **编写衰退算法**：\n   写一个简单的数学函数：`current_strength = emotional_intensity * exp(-decay_rate * (current_time - timestamp))`。\n3. **编写“睡眠固化”Prompt**：\n   当 `current_strength` 低于某个阈值（例如 0.4）时，触发 LLM：\n   *“你是一个正在失去记忆的脑海。以下是一段模糊的记忆：[Content]。请抹去其中不重要的细节（如具体的人名、地点、无聊的日常），只保留最核心的情感体验或视觉意象，将其压缩至 15 字以内。”*\n4. 运行脚本，手动将时间推进 30 天，观察你的日记是如何慢慢变成一首朦胧的散文诗的。",
+  "gemini_success": true,
+  "telegram_sent": false,
+  "telegram_status": "failed",
+  "telegram_reason": "400 Client Error: Bad Request for url: https://api.telegram.org/bot8650722899:AAHUD-aqNDB7NwiPiGq3R22MVp77Cr_5GEQ/sendMessage"
+}
