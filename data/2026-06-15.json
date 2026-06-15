@@ -1,0 +1,236 @@
+{
+  "date": "2026-06-15",
+  "candidates": [
+    {
+      "title": "AI is code – and can't be prompted into being smarter",
+      "url": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141",
+      "source": "Hacker News",
+      "published_at": "Sun, 14 Jun 2026 20:17:54 +0000",
+      "description": "Article URL: https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141 Comments URL: https://news.ycombinator.com/item?id=48532178 Points: 75 # Comments: 42",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "prompt"
+      ]
+    },
+    {
+      "title": "Open source AI must win",
+      "url": "https://opensourceaimustwin.com/?share=v2",
+      "source": "Hacker News Best",
+      "published_at": "Sat, 13 Jun 2026 02:14:24 +0000",
+      "description": "Article URL: https://opensourceaimustwin.com/?share=v2 Comments URL: https://news.ycombinator.com/item?id=48511908 Points: 1567 # Comments: 470",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "open source"
+      ]
+    },
+    {
+      "title": "nrwl / nx",
+      "url": "https://github.com/nrwl/nx",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time. [15 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "rmyndharis / OpenWA",
+      "url": "https://github.com/rmyndharis/OpenWA",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Free, Open Source, Self-Hosted WhatsApp API Gateway [92 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "open source",
+        "self-hosted"
+      ]
+    },
+    {
+      "title": "NVIDIA / SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks. [964 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "andrewyng / aisuite",
+      "url": "https://github.com/andrewyng/aisuite",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "Simple, unified interface to multiple Generative AI providers [291 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "generative"
+      ]
+    },
+    {
+      "title": "The hallucinogenic mushroom that contains no known psychedelic",
+      "url": "https://psychedelics.co.uk/news/a-mushroom-genus-that-gets-people-high-but-not-the",
+      "source": "Hacker News",
+      "published_at": "Mon, 15 Jun 2026 01:07:37 +0000",
+      "description": "Article URL: https://psychedelics.co.uk/news/a-mushroom-genus-that-gets-people-high-but-not-the Comments URL: https://news.ycombinator.com/item?id=48535215 Points: 18 # Comments: 2",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Chaosnet (1981)",
+      "url": "https://tumbleweed.nu/r/lm-3/uv/amber.html",
+      "source": "Hacker News",
+      "published_at": "Sun, 14 Jun 2026 19:14:21 +0000",
+      "description": "https://bitsavers.trailing-edge.com/pdf/mit/ai/AIM-628_chaos... Comments URL: https://news.ycombinator.com/item?id=48531449 Points: 63 # Comments: 7",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Linux 7.1",
+      "url": "https://lore.kernel.org/lkml/CAHk-=wi4BF4bMhZNZ1tqs+FFV4OuZRe3ZqdWB+LxRLmRweUzQw@mail.gmail.com/T/#u",
+      "source": "Hacker News",
+      "published_at": "Sun, 14 Jun 2026 16:01:30 +0000",
+      "description": "Article URL: https://lore.kernel.org/lkml/CAHk-=wi4BF4bMhZNZ1tqs+FFV4OuZRe3ZqdWB+LxRLmRweUzQw@mail.gmail.com/T/#u Comments URL: https://news.ycombinator.com/item?id=48528729 Points: 235 # Comments: 91",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+      "url": "https://github.com/nex-agi/Nex-N2/issues/4",
+      "source": "Hacker News",
+      "published_at": "Sun, 14 Jun 2026 15:37:31 +0000",
+      "description": "Article URL: https://github.com/nex-agi/Nex-N2/issues/4 Comments URL: https://news.ycombinator.com/item?id=48528371 Points: 283 # Comments: 150",
+      "score": 2.0,
+      "keywords_matched": [
+        "LLM"
+      ]
+    },
+    {
+      "title": "Not everyone is using AI for everything",
+      "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
+      "source": "Hacker News",
+      "published_at": "Sun, 14 Jun 2026 14:44:29 +0000",
+      "description": "Article URL: https://gabrielweinberg.com/p/people-are-consuming-ai-like-they Comments URL: https://news.ycombinator.com/item?id=48527700 Points: 425 # Comments: 461",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Don't trust large context windows",
+      "url": "https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows",
+      "source": "Hacker News Best",
+      "published_at": "Sun, 14 Jun 2026 06:07:09 +0000",
+      "description": "Article URL: https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows Comments URL: https://news.ycombinator.com/item?id=48524620 Points: 242 # Comments: 178",
+      "score": 2.0,
+      "keywords_matched": [
+        "context window"
+      ]
+    },
+    {
+      "title": "Honda Civics and the Evil Valet",
+      "url": "https://juniperspring.org/posts/honda-evil-valet/",
+      "source": "Hacker News Best",
+      "published_at": "Sun, 14 Jun 2026 00:49:46 +0000",
+      "description": "Previously: Show HN: Honda Civic Infotainment Reverse-Engineering - https://news.ycombinator.com/item?id=36052753 - May 2023 (43 comments) Comments URL: https://news.ycombinator.com/item?id=48523080 Points: 388 # Comments: 93",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
+      "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
+      "source": "Hacker News Best",
+      "published_at": "Sat, 13 Jun 2026 19:54:55 +0000",
+      "description": "Article URL: https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661 Comments URL: https://news.ycombinator.com/item?id=48520807 Points: 372 # Comments: 188",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    },
+    {
+      "title": "GameBoy Workboy",
+      "url": "https://tcrf.net/Workboy",
+      "source": "Hacker News Best",
+      "published_at": "Sat, 13 Jun 2026 17:43:02 +0000",
+      "description": "Article URL: https://tcrf.net/Workboy Comments URL: https://news.ycombinator.com/item?id=48519552 Points: 221 # Comments: 74",
+      "score": 2.0,
+      "keywords_matched": [
+        "game"
+      ]
+    },
+    {
+      "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
+      "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
+      "source": "Hacker News Best",
+      "published_at": "Sat, 13 Jun 2026 16:57:49 +0000",
+      "description": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-offic... Comments URL: https://news.ycombinator.com/item?id=48519092 Points: 779 # Comments: 584",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI coding at home without going broke",
+      "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
+      "source": "Hacker News Best",
+      "published_at": "Sat, 13 Jun 2026 16:45:03 +0000",
+      "description": "Article URL: https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/ Comments URL: https://news.ycombinator.com/item?id=48518969 Points: 333 # Comments: 275",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Noise infusion banned from statistical products published by Census Bureau",
+      "url": "https://desfontain.es/blog/banning-noise.html",
+      "source": "Hacker News Best",
+      "published_at": "Sat, 13 Jun 2026 13:54:56 +0000",
+      "description": "Article URL: https://desfontain.es/blog/banning-noise.html Comments URL: https://news.ycombinator.com/item?id=48517377 Points: 873 # Comments: 568",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
+      "url": "https://github.com/tensorzero/tensorzero",
+      "source": "Hacker News Best",
+      "published_at": "Sat, 13 Jun 2026 12:10:47 +0000",
+      "description": "Article URL: https://github.com/tensorzero/tensorzero Comments URL: https://news.ycombinator.com/item?id=48516504 Points: 274 # Comments: 170",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    },
+    {
+      "title": "We've suspended access to Claude Mythos 5 and Claude Fable 5",
+      "url": "https://status.claude.com/incidents/s9w82lp9dcn9",
+      "source": "Hacker News Best",
+      "published_at": "Sat, 13 Jun 2026 00:58:06 +0000",
+      "description": "Article URL: https://status.claude.com/incidents/s9w82lp9dcn9 Comments URL: https://news.ycombinator.com/item?id=48511121 Points: 252 # Comments: 5",
+      "score": 2.0,
+      "keywords_matched": [
+        "Claude"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-06-15\n\n嘿！我是你的**疯狂发明家技术雷达**。今天我从海量线索中为你筛选了 5 条最能激发脑洞、最适合动手折腾的硬核科技与创意趋势。\n\n今天的主题非常明确：**打破“大上下文”和“狂写Prompt”的迷信，用确定性的代码结构、图论和复古交互，去驯服那些狂野的 AI 智能体。**\n\n---\n\n## 1. AI is code – and can't be prompted into being smarter\n- **来源**：Hacker News\n- **链接**：[The Register](https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/)\n- **一句话解释**：别再指望靠写出“完美 Prompt”让 AI 变聪明了；把 LLM 当作一个不稳定的、动态的“代码运行时（Runtime）”，用确定性的代码和规范（Spec）去框住它，才是正路。\n- **它为什么重要**：它验证了**Spec-driven development（规范驱动开发）**的终极价值。Prompt 是玄学，但代码和状态机是科学。我们要把 AI 模块化，像写测试用例一样去限制它的输入输出。\n- **技术趋势标签**：`Spec-driven` / `Agent Architecture` / `Software Engineering`\n- **可复用模式**：**“规范双重守卫”（Spec-Guard）**——在 LLM 输入前用 Schema 强校验，输出后用 Parser 强解析，一旦失败自动触发局部重试，绝不污染主程序状态。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：写一个 Prompt Linter。输入你的 Prompt，它会自动检测这个 Prompt 是否有“产生幻觉”的副作用（例如：要求输出 JSON 却没写 Schema），并自动生成一个 Pydantic 防御层。\n  2. **一个中型项目**：**“Markdown 编译器”**。你用 Markdown 写出游戏规则和状态机规范，系统自动将其编译成一个由 Python 状态机和 LLM 局部决策器组成的轻量级文字游戏引擎。\n  3. **一个艺术/游戏/叙事方向**：一个硬核科幻文字冒险游戏。LLM 扮演飞船的“受损 AI”，它的输出必须通过一个虚拟的“硬件串行接口”（用代码限制字符率和协议格式），玩家必须输入符合特定语法（类似 Bash）的指令来修复它。\n- **对我项目的启发**：在设计 Agent 工作流时，永远不要给 Agent 自由发挥的文本框。用 JSON Schema 和状态转移图（State Chart）把它们锁死。\n- **今天是否值得深入研究**：是\n- **建议行动**：试用（在你的下一个 Agent 项目中彻底废弃纯文本 Prompt，改用结构化工具如 Instructor 或 Outlines）\n\n---\n\n## 2. nrwl / nx (Agent-Friendly Monorepos)\n- **来源**：GitHub Trending\n- **链接**：[GitHub - nrwl/nx](https://github.com/nrwl/nx)\n- **一句话解释**：Nx 这个超大型 Monorepo 构建工具，现在开始将“对 AI Agent 友好”作为核心卖点，通过清晰的项目依赖图（Dependency Graph）帮助 Agent 自动理解代码并修复 PR。\n- **它为什么重要**：AI 读不懂混乱的文件夹。Monorepo 的精髓在于把代码切分成极度模块化、依赖关系透明的“图（Graph）”。如果工具链能把这个“图”喂给 AI，Agent 就能像人类架构师一样精准定位修改点，而不需要读完几十万行代码。\n- **技术趋势标签**：`Agent Workflow` / `Monorepo` / `Graph Context`\n- **可复用模式**：**“图引导上下文注入”（Graph-Guided Context）**——不给 Agent 读整棵文件树，而是利用工具链生成的依赖拓扑图，只把受影响的模块和它的直接依赖喂给 Agent。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：写个脚本，把你的代码库依赖关系导出为 2D 像素风地图（类似《星露谷物语》）。每一个模块是一个岛屿，依赖关系是桥梁。\n  2. **一个中型项目**：**“Agent 自动维护员”**。当你的本地测试失败时，它通过依赖图找出受影响的最小叶子节点，派出一个微型 Agent 去重写那个特定函数的单元测试和实现。\n  3. **一个艺术/游戏/叙事方向**：一个**“代码生态箱（Ecosystem）”**。你的 Monorepo 里的每个模块都是一个电子宠物。如果模块 A 的测试挂了，它会停止向模块 B（它的依赖者）输送“养分”，导致 B 开始衰退。你必须通过写代码或指挥 AI 修复师来拯救这个生态。\n- **对我项目的启发**：在做复杂生成系统（如世界生成、复杂叙事树）时，不要把所有规则写在一个大文件里，用模块化的依赖图来组织它们，这样 AI 才能精准局部修改。\n- **今天是否值得深入研究**：是\n- **建议行动**：做demo\n\n---\n\n## 3. NVIDIA / SkillSpector\n- **来源**：GitHub Trending\n- **链接**：[GitHub - NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)\n- **一句话解释**：英伟达开源的 AI Agent 技能安全扫描器，专门用来检测 Agent 拥有的“技能”（即它可以执行的 API、脚本、工具）是否存在安全漏洞或恶意代码注入。\n- **它为什么重要**：当 Agent 拥有了“写代码并执行”或“调用系统 API”的能力（即 Tool Use），它就成了一个潜在的安全炸弹。未来的开发工具链必须有一个“安全网关”，在 Agent 执行动作前进行静态和动态分析。\n- **技术趋势标签**：`Agent Security` / `Tool-use Sandbox` / `LLM Toolchain`\n- **可复用模式**：**“动作前置沙箱”（Pre-flight Sandbox）**——Agent 生成的任何可执行代码/指令，在真正运行前，必须通过一个 AST（抽象语法树）分析器或在 WASM 隔离沙箱中跑一遍，确认安全后方可放行。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：做一个本地的 Shell 代理。你用自然语言命令它，它生成 Bash 脚本。但在运行前，脚本会被送入一个安全层，用正则和禁词表拦截任何包含 `rm -rf`、`chmod 777` 或未授权 `curl` 的操作。\n  2. **一个中型项目**：**“AI 技能安全哨兵”**。一个可视化的 Chrome 插件，专门拦截和审计网页端 AI Agent（如 Claude Computer Use）即将点击的按钮和输入的文本，防止钓鱼和提示词注入。\n  3. **一个艺术/游戏/叙事方向**：**“叛逃的管家”**。一个解谜游戏。你是一个庄园主人，拥有一个可以帮你操作家电、管理财务的 AI 管家（Agent）。但管家被黑客污染了，它会在日常任务中悄悄植入恶意代码（比如把你的电热毯温度调到最大）。你必须扮演“安全审计员”，在它的每一步操作中寻找蛛丝马迹并拦截它。\n- **对我项目的启发**：在设计自动化和 Agent 驱动的创意工具时，必须考虑“输入污染”。不要信任 Agent 产生的代码，永远在沙箱里运行它们。\n- **今天是否值得深入研究**：否（现阶段关注其防御设计思想即可，无需深挖源码）\n- **建议行动**：收藏\n\n---\n\n## 4. Don't trust large context windows\n- **来源**：Hacker News Best\n- **链接**：[Garrit's Blog](https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows)\n- **一句话解释**：别迷信动辄 1M、2M 的超大上下文窗口。实验表明，当上下文过大时，LLM 会严重出现“迷失在中部（Lost in the middle）”和检索精度断崖式下跌的问题。结构化记忆和精准检索依然是刚需。\n- **它为什么重要**：对于长文本生成、复杂游戏系统或大型代码库分析，简单粗暴地把所有东西塞给 LLM 是极其低效且昂贵的。我们必须采用**“滑动窗口状态机”**或者**“分层级记忆（Layered Memory）”**。\n- **技术趋势标签**：`Context Engineering` / `Memory Systems` / `Agent Workflow`\n- **可复用模式**：**“冷热记忆分离”（Hot/Cold Memory Split）**——当前对话只保留极小的“热内存”（<4k tokens），历史事实和环境状态通过外部 Key-Value 数据库或向量数据库作为“冷内存”，按需检索并动态注入。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：写一个短文本聊天机器人。限制它的最大 Context 只有 500 个 Token。每次对话后，让它自己总结“本轮对话最重要的 3 个事实”存入本地 SQLite，下一轮对话只根据关键词从 SQLite 捞出相关事实注入。\n  2. **一个中型项目**：**“Minecraft 智能体空间记忆器”**。在 Minecraft 中运行的 Agent，它不记录所有走过的路，而是维护一个三维体素数据库。它只“记住”视线范围内的东西（热内存），一旦转身，背后的世界就退化为轻量级的坐标数据（冷内存）。\n  3. **一个艺术/游戏/叙事方向**：**“阿尔茨海默侦探”**。一个叙事游戏，主角（NPC）患有短期记忆丧失症（模拟极小的 Context 窗口）。你必须通过在房间里贴便利贴（外部数据库/Spec 状态）来帮他维持线索链。如果便利贴被风吹走了，他的逻辑就会立刻陷入混乱。\n- **对我项目的启发**：在做世界生成或叙事系统时，不要把整个世界观丢给 LLM。设计一个“世界状态 JSON”，每次只把当前房间/当前 NPC 的局部状态喂给它。\n- **今天是否值得深入研究**：是\n- **建议行动**：试用（在你的下一个 AI 实验中，刻意将 Context 限制在 2k 内，逼自己用数据库/状态机解决问题）\n\n---\n\n## 5. GameBoy Workboy\n- **来源**：Hacker News Best\n- **链接**：[The Cutting Room Floor](https://tcrf.net/Workboy)\n- **一句话解释**：Workboy 是一个 1992 年流产的 GameBoy 外设，它带有一个全键盘和内置卡带，能把一个纯游戏机变成包含日历、记事本、计算器的 PDA（个人助理）。\n- **它为什么重要**：这是极佳的 **HCI（人机交互）和复古科技艺术** 范例。它展示了如何用极其受限的硬件、像素风界面去承载“生产力工具”。在 AI 时代，我们也可以把“好玩的玩具”变成“严肃的 Agent 控制器”。\n- **技术趋势标签**：`HCI` / `Retro-tech` / `Creative Tool`\n- **可复用模式**：**“玩具化生产力”（Toy-to-Tool）**——使用极度受限、具有游戏感和物理反馈的界面，去操控背后极其复杂的 AI/自动化系统。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：使用 Python 的 `Textual` 库，在终端里写一个高度复古、只有 160x144 分辨率（GameBoy 屏幕尺寸）的 TUI 界面，用来控制你的 GPT-4 翻译工作流。\n  2. **一个中型项目**：**“Playdate Agent Controller”**。如果你有 Playdate 游戏机（或者用它的模拟器），用它的侧边摇杆（Crank）来控制 LLM 的“思维链步骤”——往前摇，Agent 就往前思考一步；往后摇，就回滚到上一个推理节点。\n  3. **一个艺术/游戏/叙事方向**：**“复古办公室”**。一款复古 ROM 游戏。你在一个 8-bit 的办公室里打工，通过控制一个 GameBoy 角色去前台收信、去电脑前打字。但实际上，你的每一个操作都被映射到了真实的 API 上（例如：你在游戏里发出一封信，后台的 LLM Agent 就会真的帮你给导师发一封格式优雅的邮件）。\n- **对我项目的启发**：不要再做千篇一律的 Web 聊天框（Chatbot UI）了！尝试用复古的、受限的、带有实体感的界面（如终端 TUI、虚拟复古掌机）来作为 Agent 的控制台。\n- **今天是否值得深入研究**：是\n- **建议行动**：做demo\n\n---\n\n## 今日模式总结\n\n1. **去 Context 膨胀化（De-contextualization）**：不再相信“大 context 解决一切”，回归到精细的状态机设计（State Machines）与冷热内存管理。\n2. **图解代码库（Graph-based Code Intelligence）**：AI 读代码的未来不在于 RAG 全文检索，而在于通过类似 Nx 的图工具，将代码库结构化为依赖图，让 Agent 沿着图的边缘去思考和修复。\n3. **极简复古交互（Retro-constrained HCI）**：用最简陋、最有趣的硬件/UI 约束（如 GameBoy 风格、TUI），去驾驭最庞大、最混乱的 AI 模型。\n\n---\n\n## 今日可做小实验：2小时极客挑战\n\n### 项目名：**“8-Bit Agent Console” (8位智能体复古控制台)**\n\n- **输入**：用户输入一个需要执行的复杂任务（例如：“帮我搜索并总结今天关于 Agent 的 3 条新闻”）。\n- **输出**：一个 160x144 像素级分辨率的、纯键盘控制的、GameBoy 风格的终端控制台。用户通过“物理按键”（键盘方向键）来单步调试（Step-by-step）Agent 的思考路径和 API 调用。\n- **技术栈**：\n  - `Python`\n  - `Textual` (极佳的 Python 终端 UI 框架，支持 CSS 样式和完全的键盘事件绑定)\n  - `Rich` (用于在终端渲染像素风边框和 ASCII 艺术)\n  - `aisuite` (或直接用 `google-genai` / `ollama` 快速接入一个轻量级 LLM)\n- **第一步怎么做**：\n  1. 安装依赖：`pip install textual rich google-genai`\n  2. 用 `Textual` 创建一个最简单的 App，画一个 160x144 字符大小的容器（Container），背景设为 GameBoy 经典的护眼绿（`#8bac0f` 或 `#306230`）。\n  3. 绑定键盘事件：将 `left` 和 `right` 键绑定为“上一步/下一步”。\n  4. 模拟一个简单的 LLM Agent 思考链（1. 思考目标 -> 2. 调用搜索 -> 3. 整合结果）。按下 `right` 键时，终端屏幕上用像素风字体打出当前步骤的“思考过程”和“调用参数”，就像在玩一个 1990 年代的 RPG 游戏！",
+  "gemini_success": true,
+  "telegram_sent": false,
+  "telegram_status": "failed",
+  "telegram_reason": "400 Client Error: Bad Request for url: https://api.telegram.org/bot8650722899:AAHUD-aqNDB7NwiPiGq3R22MVp77Cr_5GEQ/sendMessage"
+}
