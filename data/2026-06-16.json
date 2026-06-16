@@ -1,0 +1,299 @@
+{
+  "date": "2026-06-16",
+  "candidates": [
+    {
+      "title": "GitOfThoughts: Version-Controlled Reasoning and Agent Memory You Can Replay, Diff, and Merge",
+      "url": "https://arxiv.org/abs/2606.14470",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 15 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.14470v1 Announce Type: new \nAbstract: Large language model (LLM) reasoning is ephemeral: chains of thought vanish with the context window, pruned search branches leave no record, and memory buffers cannot be diffed, merged, or audited. Every other complex software process (code, infrastructure, data, experiments) is version-controlled; reasoning is not. We introduce GitOfThoughts, which stores an agent's reasoning tree as a git repository: every scored thought is a commit, scores are ",
+      "score": 14.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "context window",
+        "reasoning",
+        "memory"
+      ]
+    },
+    {
+      "title": "From Chatbot to Digital Colleague: The Paradigm Shift Toward Persistent Autonomous AI",
+      "url": "https://arxiv.org/abs/2606.14502",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 15 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.14502v1 Announce Type: new \nAbstract: Large Language Models (LLMs) are undergoing a fundamental transformation from conversational generators into integrated AI systems capable of reasoning, action, memory, and self-improvement. We conceptualize this transition as a shift from Chatbot to Digital Colleague: from conversational answers to persistent work. We organize this transition along two tightly coupled dimensions. First, at the cognitive core level, LLMs are advancing from Chatbot",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "autonomous",
+        "reasoning",
+        "memory"
+      ]
+    },
+    {
+      "title": "Efficient On-Device Diffusion LLM Inference with Mobile NPU",
+      "url": "https://arxiv.org/abs/2606.13740",
+      "source": "arXiv cs.LG",
+      "published_at": "Mon, 15 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.13740v1 Announce Type: new \nAbstract: Diffusion large language models (dLLMs) accelerate generation by denoising multiple tokens in parallel, making them attractive for latency-sensitive mobile inference. However, repeated denoising introduces substantial computation on smartphones. Mobile neural processing units (NPUs) offer high-throughput dense matrix computation, but efficiently exploiting them remains challenging: token commitment shrinks per-block effective workloads, token revi",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "diffusion",
+        "neural",
+        "language model",
+        "inference"
+      ]
+    },
+    {
+      "title": "MA-ProofBench: A Two-Tiered Evaluation of LLMs for Theorem Proving in Mathematical Analysis",
+      "url": "https://arxiv.org/abs/2606.13782",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 15 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.13782v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have made notable progress in automated theorem proving, yet existing formal benchmarks remain limited in both mathematical coverage and difficulty. Most are concentrated in areas that are easier to formalize, such as algebra and elementary number theory, and provide limited coverage of subfields that require deeper reasoning, including mathematical analysis. To address this gap, we introduce MA-ProofBench, to the best",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "RAG",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Poker Arena: Multi-Axis Profiling of Strategic Reasoning and Memory in LLMs",
+      "url": "https://arxiv.org/abs/2606.13815",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 15 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.13815v1 Announce Type: new \nAbstract: Strategic reasoning under uncertainty underpins consequential decisions in negotiation, finance, and policy, but prevailing game-play benchmarks collapse heterogeneous reasoning dimensions into a single scalar, leaving the capability structure of frontier LLMs unexamined. We introduce Poker Arena, a no-limit Texas Hold'em tournament platform that couples a three-layer memory architecture (within-hand, session, and cross-session) with a nine-axis c",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "game",
+        "reasoning",
+        "memory"
+      ]
+    },
+    {
+      "title": "FactoryLLM: A Safe and Open-Source AI Playground for Evaluating LLMs in Smart Factories",
+      "url": "https://arxiv.org/abs/2606.14119",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 15 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.14119v1 Announce Type: new \nAbstract: Fault diagnostics and recovery in smart factories is challenging because critical information is dispersed across manuals of multiple machines which are interconnected through the manufacturing process. Large Language Models (LLMs) can provide a promising approach. In this paper, we propose FactoryLLM, a safe and open-source AI playground designed for evaluating different LLM-based retrieval-augmented generation (RAG) models by analysing documents",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "RAG",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "SkillAudit: Ground-Truth-Free Skill Evolution via Paired Trajectory Auditing",
+      "url": "https://arxiv.org/abs/2606.14239",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 15 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.14239v1 Announce Type: new \nAbstract: Agent skills are structured procedural packages that guide frozen LLM agents in specialized workflows. Skills rarely remain sufficient after deployment: edge cases, API changes, and deployment constraints become visible only through use, making skill evolution a practical necessity. Existing methods depend on privileged feedback such as held-out validation scores, hidden test outcomes, or environment rewards -- signals often unavailable when a pra",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "workflow",
+        "procedural"
+      ]
+    },
+    {
+      "title": "Orchestra-o1: Omnimodal Agent Orchestration",
+      "url": "https://arxiv.org/abs/2606.13707",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 15 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.13707v1 Announce Type: new \nAbstract: The recent success of agent swarms has shifted the paradigm of large language model (LLM)-based agents from single-agent workflows to multi-agent systems, highlighting the importance of agent orchestration for task decomposition and collaboration. However, existing orchestration frameworks are limited to a narrow set of modalities and struggle to generalize to more complex settings where heterogeneous modalities coexist and interact. This limitati",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "workflow",
+        "language model"
+      ]
+    },
+    {
+      "title": "Hybrid Open-Ended Tri-Evolution Makes Better Deep Researcher",
+      "url": "https://arxiv.org/abs/2606.13710",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 15 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.13710v1 Announce Type: new \nAbstract: Deep research and agent evolution serve as de-facto tasks for AI agents in real-world applications toward artificial general intelligence. The former enables autonomous retrieval and integration of information in open-ended environments to tackle open-ended research tasks, yet it is constrained by the static parametric deep research capabilities of agent systems. The latter allows agents to autonomously interact with the environment to gain experi",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "autonomous",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "WorkBench Revisited: Workplace Agents Two Years On",
+      "url": "https://arxiv.org/abs/2606.13715",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 15 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.13715v1 Announce Type: new \nAbstract: The best agent on WorkBench in March 2024, GPT-4, completed 43% of tasks and took an unintended harmful action, such as emailing the wrong person, on 26% of them. We re-visit the benchmark in June 2026 and find that the best agent to date, Claude Opus 4.8, completes 89% and takes an unintended harmful action on 2.5%. Aside from this considerable progress in frontier agent performance, three things stand out. First, capability and safety go togethe",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "title": "Minim: Privacy-Aware Minimal View for Agents via Trusted Local Sanitization",
+      "url": "https://arxiv.org/abs/2606.13949",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 15 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.13949v1 Announce Type: new \nAbstract: Modern LLM-powered autonomous agents increasingly rely on rich user interface (UI) state observations to achieve reliable action grounding in complex digital environments. However, many deployments transmit the full UI state to remote inference servers even when most elements are irrelevant to the current task, which can leak sensitive but unnecessary context such as authentication codes, private notifications, and background application states. W",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "autonomous",
+        "inference"
+      ]
+    },
+    {
+      "title": "AFFORDANCE20Q: Evaluating Affordance Reasoning from Physical Properties",
+      "url": "https://arxiv.org/abs/2606.14240",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 15 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.14240v1 Announce Type: new \nAbstract: Affordance reasoning, the inference of an object's action possibilities from its physical properties (e.g., shape and material), is fundamental to human physical understanding and increasingly critical for Large Language Models (LLMs). However, existing affordance benchmarks largely expose explicit object identities in the evaluation setup, allowing models to rely on memorized object-affordance mappings rather than reasoning over physical properti",
+      "score": 8.0,
+      "keywords_matched": [
+        "LLM",
+        "language model",
+        "inference",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "HarnessX: A Composable, Adaptive, and Evolvable Agent Harness Foundry",
+      "url": "https://arxiv.org/abs/2606.14249",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 15 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.14249v1 Announce Type: new \nAbstract: AI agent performance depends critically on the runtime harness, comprising the prompts, tools, memory, and control flow that mediate how a model observes, reasons, and acts. Yet today's harnesses remain largely hand-crafted and static: each new model or task still demands bespoke scaffolding, and the rich traces produced during execution are rarely distilled back into systematic improvement. We introduce HarnessX, a foundry for composable, adaptiv",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "prompt",
+        "memory"
+      ]
+    },
+    {
+      "title": "Communication Policy Evolution for Proactive LLM Agents",
+      "url": "https://arxiv.org/abs/2606.14314",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 15 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.14314v1 Announce Type: new \nAbstract: LLM agents have rapidly evolved into autonomous systems, yet a persistent information gap remains between users and agents: communication is costly, while users' identical preferences further limit information exchange. To investigate how agents should communicate across modalities, this paper formalizes Communication Policy, establishes textual and UI-based policies, and then evaluates communication policies across diverse environments, personas,",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "When the Tool Decides: LLM Agents Defer Blindly to Graph Neural Network Tools, and Stronger Backbones Defer More",
+      "url": "https://arxiv.org/abs/2606.14476",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 15 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.14476v1 Announce Type: new \nAbstract: A growing line of work equips large language model (LLM) agents with graph neural networks (GNNs) as callable tools, assuming the agent exercises judgment over when and how much to rely on such a tool. We test this directly. We expose a frozen GNN to a ReAct-style LLM agent as an explicit tool and measure, on node classification over a text-attributed graph (ogbn-arxiv, replicated on WikiCS), whether the agent uses the tool or merely obeys it. We ",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "neural",
+        "language model"
+      ]
+    },
+    {
+      "title": "Rethinking the UI of GenUI: A Tale of Two Designs",
+      "url": "https://arxiv.org/abs/2606.13843",
+      "source": "arXiv cs.HC",
+      "published_at": "Mon, 15 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.13843v1 Announce Type: new \nAbstract: GenUI is an emergent class of AI tools that use large models to generate UI mock-ups based on users' high-level descriptions, promising to democratize UX design exploration for a broader audience. Most GenUI designs to date tend to inherit the conventions of conversational large models, such as ChatGPT and Gemini, where a user describes their design needs primarily via an unstructured prompt, and the tool then takes a depth-first approach, delving",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "Gemini",
+        "GPT",
+        "prompt"
+      ]
+    },
+    {
+      "title": "Verifiable User Simulation for Search and Recommendation Systems",
+      "url": "https://arxiv.org/abs/2606.14474",
+      "source": "arXiv cs.HC",
+      "published_at": "Mon, 15 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.14474v1 Announce Type: cross \nAbstract: Large-language-model (LLM) based user simulation is increasingly adopted for evaluating search engines, recommender systems, and retrieval-augmented generation pipelines, yet most simulators remain opaque: it is difficult to determine why a simulated user made a particular choice or whether that choice is consistent with the intended user profile. Compounding this, recent research shows that LLMs can produce biased or discriminatory responses de",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "simulation",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Can Editing 1 Neuron Fix Repetition Loops in LLMs?",
+      "url": "https://arxiv.org/abs/2606.13705",
+      "source": "arXiv cs.LG",
+      "published_at": "Mon, 15 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.13705v1 Announce Type: new \nAbstract: Yes. Can it cure doom loops? Probably not.\n  The Gemma 4 instruction-tuned models share a reproducible failure: on long factual enumeration prompts, such as listing every episode of a TV series, the 88 IAU constellations, or the 151 original Pokemon, they collapse into repetition, either a tight verbatim loop or a list whose entries decay onto a single answer. These loops occur at rates as high as 95% and survive prompt rewording, inference-engine",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "inference",
+        "prompt"
+      ]
+    },
+    {
+      "title": "UP-NRPA: User Portrait based Nested Rollout Policy Adaptation for Planning with Large Language Models in Goal-oriented Dialogue Systems",
+      "url": "https://arxiv.org/abs/2606.13683",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 15 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.13683v1 Announce Type: new \nAbstract: To address the challenge that current dialogue policy planning methods struggle to dynamically adapt to diverse user characteristics, this paper proposes a User Portrait based Nested Rollout Policy Adaptation (UP-NRPA) online framework with Large Language Models. In contrast to conventional approaches dependent on model training and require offline reinforcement learning policy models for user groups, UP-NRPA enables dynamic customization of dialo",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "language model",
+        "planning"
+      ]
+    },
+    {
+      "title": "Capability Minimization as a Safety Primitive: Risk-Aware Causal Gating for Least-Privilege LLM Agents",
+      "url": "https://arxiv.org/abs/2606.13884",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 15 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.13884v1 Announce Type: new \nAbstract: Modern decision systems increasingly rely on learned components whose outputs may be confident yet wrong, exposing downstream actions to costly errors. We introduce Risk-Aware Causal Gating (RACG), a framework that decides whether to act on, defer, or abstain from a model's prediction by combining causal effect estimation with calibrated risk control. RACG models the causal pathway from candidate actions to outcomes and gates each decision accordi",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-06-16\n\n嘿！我是你的**疯狂发明家技术雷达**。今天从 20 篇前沿文献中，我为你筛选出了 **5 条**最能激发“设计+CS”跨界火花、最适合动手折腾的硬核研究。\n\n今天的主题高度聚焦于：**解构 AI 的黑盒（把推理过程 Git 化、把神经元当旋钮拧）、让 Agent 自己重构身体，以及干掉无聊的 Chat 框。**\n\n---\n\n## 1. GitOfThoughts: Version-Controlled Reasoning and Agent Memory You Can Replay, Diff, and Merge\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2606.14470\n- **一句话解释**：把 LLM 的推理过程（Chain of Thought）和 Agent 的记忆当成一个 Git 仓库，支持分支（Branch）、差异对比（Diff）、合并（Merge）和回滚（Checkout）。\n- **它为什么重要**：现在的 LLM 推理是“一次性”的，上下文窗口一关，思考过程就烟消云散了。如果把思考过程“Git化”，我们就能像管理代码一样管理 AI 的“心智模型”：当 Agent 走入死胡同，直接 `git checkout` 回到上一步，换个分支继续想；甚至可以合并两个不同 Agent 的思考分支！\n- **技术趋势标签**：`Agent Memory` | `Version Control` | `Spec-Driven Dev` | `LLM Toolchain`\n- **可复用模式**：**思考树的版本控制（Reasoning-as-Git-Tree）**。用有向无环图（DAG）来显式存储和操纵 LLM 的上下文状态。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：写一个 CLI 工具，当你让 LLM 写代码写崩时，你可以输入 `git-ot checkout HEAD~2`，强制模型退回到两步前的思考状态，并注入一个新的提示词分叉。\n  2. **一个中型项目**：**“多重宇宙”小说编辑器**。人类和 AI 共同在一个 Git 树上写故事。AI 会在关键剧情节点自动拉出 3 个 `feature/branch`（比如：主角黑化、主角逃跑、世界毁灭），用户可以在画布上 Diff 两个分支的剧情走向，并一键 Merge 它们。\n  3. **一个艺术/游戏/叙事方向**：一个 Roguelike 游戏。NPC 的记忆和决策完全是一个公开的 Git Repo。玩家可以通过修改、回滚或强行 Merge 敌对 NPC 的“记忆分支”来改变游戏世界的历史线。\n- **对我项目的启发**：在 Spec-driven 开发中，如果生成的代码偏离了 Spec，不要重新生成，而是用 Git-Diff 找出模型在哪个“思考 Commit”上开始偏离，然后只重写那个特定分支。\n- **今天是否值得深入研究**：是\n- **建议行动**：做 demo\n\n---\n\n## 2. SkillAudit: Ground-Truth-Free Skill Evolution via Paired Trajectory Auditing\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2606.14239\n- **一句话解释**：无需人工标注，通过对比 Agent 执行任务成功与失败的成对轨迹，自动审计并迭代重构 Agent 的“技能库”（即封装好的工具代码）。\n- **它为什么重要**：Agent 的技能（比如“操控浏览器”或“画图”）会随着环境或 API 变化而失效。SkillAudit 让 Agent 具备了自我进化的能力——它能自己当测试员和架构师，找出自己代码里的 bug 并打补丁。\n- **技术趋势标签**：`Self-Evolving Agents` | `Automated Programming` | `Workflow Optimization`\n- **可复用模式**：**成对轨迹审计（Paired Trajectory Auditing）**。对比“差生”和“优等生”的执行路径，精准定位代码中的逻辑漏洞。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：写一个“自愈式”爬虫 Agent。当目标网站改版导致爬取失败时，它会自动对比历史成功运行的 HTML 结构和当前失败的结构，修改自己的 BeautifulSoup 提取代码。\n  2. **一个中型项目**：**Minecraft 建筑大师进化器**。Agent 尝试在 Minecraft 里建造复杂的红石机关。每次失败（比如红石信号没接通），它都会启动一个 Audit 进程，对比成功建造简单机关的轨迹，自动重构并升级自己的“红石铺设技能包”。\n  3. **一个艺术/游戏/叙事方向**：一个自适应的生成艺术装置。Agent 尝试绘制符合观众心率变化的动态视觉。它不断审计观众的反馈，自我重构绘图的 Shader 代码，演化出全新的视觉风格。\n- **对我项目的启发**：自动化工作流不应该是静态的。我们可以让 Agent 运行一个后台的 \"Audit Daemon\"，一旦检测到工作流异常，自动触发代码级重构。\n- **今天是否值得深入研究**：是\n- **建议行动**：收藏\n\n---\n\n## 3. HarnessX: A Composable, Adaptive, and Evolvable Agent Harness Foundry\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2606.14249\n- **一句话解释**：一个将 Agent 的运行时骨架（Harness，包括 Prompt、工具、内存、控制流）解耦为可组合、可自适应进化组件的“铸造厂”。\n- **它为什么重要**：现在的 Agent 框架（如 LangChain）都是硬编码的。HarnessX 认为，Agent 的“身体”（工具和控制流）应该像乐高积木一样，由模型根据任务复杂度在运行时动态组装、调整甚至进化。\n- **技术趋势标签**：`Agent Architecture` | `Dynamic Scaffolding` | `Meta-Programming`\n- **可复用模式**：**热插拔 Agent 骨架（Hot-swappable Agent Harness）**。将 LLM 核心与它的外部“感官”和“肢体”完全解耦，支持运行时动态突变。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：用 Python 编写一个 `@adaptive_harness` 装饰器。当输入任务很简单时，Agent 只有基本的 Text 接口；当输入任务涉及复杂计算时，它会自动在运行时给自己“插上”一个 Python 解释器和 RAG 内存条。\n  2. **一个中型项目**：**“无代码”Agent 突变沙盒**。一个可视化界面，用户可以看到一个 Agent 节点。随着你丢给它不同的任务，你能实时看到它身上“长出”新的工具节点、内存管道或规划模块，就像一个生物在适应环境。\n  3. **一个艺术/游戏/叙事方向**：一个虚拟生态系统。每个 Agent 是一只“电子宠物”，它们的“性格”（Harness 配置）会根据虚拟环境的压力（如食物短缺、温度变化）发生基因突变，进化出不同的生存策略。\n- **对我项目的启发**：在设计 Agent 工作流时，抛弃固定的 Pipeline 脑回路。让 Agent 成为一个“宿主”，由它自己去声明它当前需要什么 Spec 和 Tool。\n- **今天是否值得深入研究**：是\n- **建议行动**：做 demo\n\n---\n\n## 4. Rethinking the UI of GenUI: A Tale of Two Designs\n- **来源**：arXiv cs.HC\n- **链接**：https://arxiv.org/abs/2606.13843\n- **一句话解释**：批判了当前 GenUI（生成式UI）过度依赖“对话框”的现状，提出不应该用 Chat 界面，而应该采用更符合人类直觉的、基于画布和直接操纵的全新空间交互范式。\n- **它为什么重要**：作为设计+CS跨学科学生，这篇论文直击痛点！Chat 界面是设计探索的灾难。真正的生成式 UI 应该是空间化的、可直接拖拽微调的，AI 应该隐藏在交互画布的背后，而不是作为一个话痨对话框存在。\n- **技术趋势标签**：`HCI` | `Generative UI` | `Creative Tools` | `Spatial Design`\n- **可复用模式**：**直接操纵画布（Direct-Manipulation Canvas）**。用手势、滑块、节点连接等非文本交互来隐式触发 LLM 的 UI 生成与重构。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：做一个极简网页，中间是一个卡片，旁边只有一个滑块。滑动滑块，后台的 LLM 会动态生成并渲染不同密度、不同风格、甚至不同排版的 React 组件，没有任何聊天框。\n  2. **一个中型项目**：**“画板即代码” (Sketch-to-App) 空间编辑器**。一个无限画布，用户用画笔粗糙地画一个框，写上 \"Login\"，AI 立刻在原地将其编译成可交互的真实前端组件。用户可以直接拖拽组件的边缘来调整间距，AI 在后台自动重构 CSS 代码。\n  3. **一个艺术/游戏/叙事方向**：一个“言出法随”的游戏关卡编辑器。你在画布上画一条波浪线，写下“岩浆”，它就变成一段具有物理碰撞和动态粒子效果的岩浆地形，游戏角色可以直接在画布里跑通测试。\n- **对我项目的启发**：彻底干掉你项目里的 Chat 窗口！探索如何用更自然的 HCI 维度（如拖拽、缩放、颜色拾取）来作为 Agent 的输入 spec。\n- **今天是否值得深入研究**：是\n- **建议行动**：做 demo\n\n---\n\n## 5. Can Editing 1 Neuron Fix Repetition Loops in LLMs?\n- **来源**：arXiv cs.LG\n- **链接**：https://arxiv.org/abs/2606.13705\n- **一句话解释**：研究人员发现，只需定位并编辑/抑制 Gemma 4 模型中的**一个特定神经元**，就能彻底解决模型在长列表生成时陷入无限重复死循环（Doom Loops）的 Bug。\n- **它为什么重要**：这简直是黑客帝国式的浪漫！以前我们解决 AI 复读机问题需要复杂的 Prompt Engineering，现在我们直接拿着“手术刀”，在模型的神经网络里把那个“复读机神经元”切掉。这为控制生成系统的风格和行为开辟了全新路径。\n- **技术趋势标签**：`Mechanistic Interpretability` | `Model Hacking` | `Generative Control`\n- **可复用模式**：**靶向激活抑制（Targeted Activation Suppression）**。在推理过程中，通过钩子（Hooks）动态干预特定神经元的激活值来改变输出特性。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：使用 `transformer-lens` 库加载一个开源小模型（如 Llama-3-8B），找到在生成文本时激活度最高的几个神经元，手动把它们归零，观察生成的文本风格会发生怎样戏剧性的恶搞变化。\n  2. **一个中型项目**：**“神经元合成器” (Neural Synthesizer) 文本生成器**。做一个像音乐合成器一样的物理/虚拟面板，每个旋钮对应模型内部的某一个特定神经元簇（比如“幽默感神经元”、“悲观主义神经元”）。用户一边拧旋钮，AI 一边实时生成具有对应风格偏差的文字。\n  3. **一个艺术/游戏/叙事方向**：一个文字冒险游戏，玩家扮演一个“脑机接口黑客”。你需要通过调节 AI 叙事模型内部的“痛觉”、“疯狂”或“理性”神经元，来改变故事世界的物理规律和 NPC 的精神状态。\n- **对我项目的启发**：控制生成系统不一定非要写 Prompt，可以尝试在推理阶段进行“白盒注入”和“神经元干预”，这会创造出极其诡异且独特的生成艺术效果。\n- **今天是否值得深入研究**：否（非常酷，但偏底层学术，可作为灵感储备，无需立刻啃论文）。\n- **建议行动**：收藏\n\n---\n\n## 今日模式总结\n\n1. **推理版本控制（Reasoning VCS）**：把 LLM 的思考链路（CoT）从“瞬时状态”转变为“持久化、可分支、可合并的 DAG 图”，为 Spec-driven 开发提供后悔药和多路径并行探索的能力。\n2. **动态运行时骨架（Dynamic Harness）**：Agent 不再是写死的代码，而是具备自我审计（Audit）和动态组装（Composable）能力的自适应系统。\n3. **空间化生成式交互（Spatial GenUI）**：去对话框化。将大模型生成能力无缝嵌入到传统的直接操纵画布中，创造真正好用的创意工具。\n\n---\n\n## 今日可做小实验：GitOfThoughts Canvas (2小时极速挑战)\n\n我们来把 **GitOfThoughts** 和 **GenUI** 结合，做一个极其炫酷的可视化原型！\n\n- **项目名**：`git-ot-canvas` (Git-like 思考树画布)\n- **输入**：一个初始任务（如：“设计一个未来感播放器 UI”）\n- **输出**：一个可视化的思维分支树。你可以点击任意节点，让 AI 分叉出两个不同的设计方向（如“赛博朋克风”和“极简主义风”），并在画布上实时 Diff 它们的 HTML 代码。\n- **技术栈**：\n  - **后端**：Python + FastAPI + LiteLLM (调用 Claude/GPT)\n  - **前端**：HTML/JS + TailwindCSS + `vis-network` (用于绘制交互式节点树)\n  - **数据结构**：一个简单的 JSON 格式 DAG 树，每个节点代表一个 `Commit`，包含 `id`, `parent_id`, `prompt`, `thought_process`, `ui_code`。\n\n### 第一步怎么做（30分钟极速起步代码）：\n\n创建一个 `app.py`，定义你的 GitOfThoughts 节点数据结构和分叉逻辑：\n\n```python\nimport uuid\nfrom pydantic import BaseModel\nfrom typing import List, Optional\n\nclass CommitNode(BaseModel):\n    id: str\n    parent_id: Optional[str] = None\n    prompt: str\n    thought: str\n    code: str\n\nclass ThoughtTree:\n    def __init__(self):\n        self.nodes = {}\n        \n    def commit(self, parent_id: Optional[str], prompt: str, thought: str, code: str) -> str:\n        node_id = str(uuid.uuid4())[:8]\n        node = CommitNode(id=node_id, parent_id=parent_id, prompt=prompt, thought=thought, code=code)\n        self.nodes[node_id] = node\n        return node_id\n\n# 初始化树并创建 Root 节点\ntree = ThoughtTree()\nroot_id = tree.commit(\n    parent_id=None, \n    prompt=\"Create a basic button\", \n    thought=\"I should make a simple blue button first.\", \n    code=\"<button class='bg-blue-500 text-white p-2 rounded'>Button</button>\"\n)\n\n# 模拟分叉：在 root 基础上分叉出“圆角风格”\nfork_1_id = tree.commit(\n    parent_id=root_id,\n    prompt=\"Make it extremely rounded and glowing\",\n    thought=\"Let's change rounded to rounded-full and add shadow-lg shadow-blue-500/50.\",\n    code=\"<button class='bg-blue-500 text-white p-2 rounded-full shadow-lg shadow-blue-500/50'>Glowing Button</button>\"\n)\n\nprint(f\"Root Node: {root_id}\")\nprint(f\"Forked Node: {fork_1_id} (Parent: {tree.nodes[fork_1_id].parent_id})\")\n```\n\n写完这段，立刻用 `vis-network` 写个前端把这个树画出来。恭喜你，你已经迈出了“疯狂发明家”的第一步！",
+  "gemini_success": true,
+  "telegram_sent": false,
+  "telegram_status": "failed",
+  "telegram_reason": "400 Client Error: Bad Request for url: https://api.telegram.org/bot8650722899:AAHUD-aqNDB7NwiPiGq3R22MVp77Cr_5GEQ/sendMessage"
+}

@@ -1,0 +1,291 @@
+[
+  {
+    "title": "GitOfThoughts: Version-Controlled Reasoning and Agent Memory You Can Replay, Diff, and Merge",
+    "url": "https://arxiv.org/abs/2606.14470",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 15 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.14470v1 Announce Type: new \nAbstract: Large language model (LLM) reasoning is ephemeral: chains of thought vanish with the context window, pruned search branches leave no record, and memory buffers cannot be diffed, merged, or audited. Every other complex software process (code, infrastructure, data, experiments) is version-controlled; reasoning is not. We introduce GitOfThoughts, which stores an agent's reasoning tree as a git repository: every scored thought is a commit, scores are ",
+    "score": 14.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "context window",
+      "reasoning",
+      "memory"
+    ]
+  },
+  {
+    "title": "From Chatbot to Digital Colleague: The Paradigm Shift Toward Persistent Autonomous AI",
+    "url": "https://arxiv.org/abs/2606.14502",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 15 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.14502v1 Announce Type: new \nAbstract: Large Language Models (LLMs) are undergoing a fundamental transformation from conversational generators into integrated AI systems capable of reasoning, action, memory, and self-improvement. We conceptualize this transition as a shift from Chatbot to Digital Colleague: from conversational answers to persistent work. We organize this transition along two tightly coupled dimensions. First, at the cognitive core level, LLMs are advancing from Chatbot",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "autonomous",
+      "reasoning",
+      "memory"
+    ]
+  },
+  {
+    "title": "Efficient On-Device Diffusion LLM Inference with Mobile NPU",
+    "url": "https://arxiv.org/abs/2606.13740",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 15 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.13740v1 Announce Type: new \nAbstract: Diffusion large language models (dLLMs) accelerate generation by denoising multiple tokens in parallel, making them attractive for latency-sensitive mobile inference. However, repeated denoising introduces substantial computation on smartphones. Mobile neural processing units (NPUs) offer high-throughput dense matrix computation, but efficiently exploiting them remains challenging: token commitment shrinks per-block effective workloads, token revi",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "diffusion",
+      "neural",
+      "language model",
+      "inference"
+    ]
+  },
+  {
+    "title": "MA-ProofBench: A Two-Tiered Evaluation of LLMs for Theorem Proving in Mathematical Analysis",
+    "url": "https://arxiv.org/abs/2606.13782",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 15 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.13782v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have made notable progress in automated theorem proving, yet existing formal benchmarks remain limited in both mathematical coverage and difficulty. Most are concentrated in areas that are easier to formalize, such as algebra and elementary number theory, and provide limited coverage of subfields that require deeper reasoning, including mathematical analysis. To address this gap, we introduce MA-ProofBench, to the best",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "RAG",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Poker Arena: Multi-Axis Profiling of Strategic Reasoning and Memory in LLMs",
+    "url": "https://arxiv.org/abs/2606.13815",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 15 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.13815v1 Announce Type: new \nAbstract: Strategic reasoning under uncertainty underpins consequential decisions in negotiation, finance, and policy, but prevailing game-play benchmarks collapse heterogeneous reasoning dimensions into a single scalar, leaving the capability structure of frontier LLMs unexamined. We introduce Poker Arena, a no-limit Texas Hold'em tournament platform that couples a three-layer memory architecture (within-hand, session, and cross-session) with a nine-axis c",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "game",
+      "reasoning",
+      "memory"
+    ]
+  },
+  {
+    "title": "FactoryLLM: A Safe and Open-Source AI Playground for Evaluating LLMs in Smart Factories",
+    "url": "https://arxiv.org/abs/2606.14119",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 15 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.14119v1 Announce Type: new \nAbstract: Fault diagnostics and recovery in smart factories is challenging because critical information is dispersed across manuals of multiple machines which are interconnected through the manufacturing process. Large Language Models (LLMs) can provide a promising approach. In this paper, we propose FactoryLLM, a safe and open-source AI playground designed for evaluating different LLM-based retrieval-augmented generation (RAG) models by analysing documents",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "RAG",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "SkillAudit: Ground-Truth-Free Skill Evolution via Paired Trajectory Auditing",
+    "url": "https://arxiv.org/abs/2606.14239",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 15 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.14239v1 Announce Type: new \nAbstract: Agent skills are structured procedural packages that guide frozen LLM agents in specialized workflows. Skills rarely remain sufficient after deployment: edge cases, API changes, and deployment constraints become visible only through use, making skill evolution a practical necessity. Existing methods depend on privileged feedback such as held-out validation scores, hidden test outcomes, or environment rewards -- signals often unavailable when a pra",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "procedural"
+    ]
+  },
+  {
+    "title": "Orchestra-o1: Omnimodal Agent Orchestration",
+    "url": "https://arxiv.org/abs/2606.13707",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 15 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.13707v1 Announce Type: new \nAbstract: The recent success of agent swarms has shifted the paradigm of large language model (LLM)-based agents from single-agent workflows to multi-agent systems, highlighting the importance of agent orchestration for task decomposition and collaboration. However, existing orchestration frameworks are limited to a narrow set of modalities and struggle to generalize to more complex settings where heterogeneous modalities coexist and interact. This limitati",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "workflow",
+      "language model"
+    ]
+  },
+  {
+    "title": "Hybrid Open-Ended Tri-Evolution Makes Better Deep Researcher",
+    "url": "https://arxiv.org/abs/2606.13710",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 15 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.13710v1 Announce Type: new \nAbstract: Deep research and agent evolution serve as de-facto tasks for AI agents in real-world applications toward artificial general intelligence. The former enables autonomous retrieval and integration of information in open-ended environments to tackle open-ended research tasks, yet it is constrained by the static parametric deep research capabilities of agent systems. The latter allows agents to autonomously interact with the environment to gain experi",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "autonomous",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "WorkBench Revisited: Workplace Agents Two Years On",
+    "url": "https://arxiv.org/abs/2606.13715",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 15 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.13715v1 Announce Type: new \nAbstract: The best agent on WorkBench in March 2024, GPT-4, completed 43% of tasks and took an unintended harmful action, such as emailing the wrong person, on 26% of them. We re-visit the benchmark in June 2026 and find that the best agent to date, Claude Opus 4.8, completes 89% and takes an unintended harmful action on 2.5%. Aside from this considerable progress in frontier agent performance, three things stand out. First, capability and safety go togethe",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "GPT"
+    ]
+  },
+  {
+    "title": "Minim: Privacy-Aware Minimal View for Agents via Trusted Local Sanitization",
+    "url": "https://arxiv.org/abs/2606.13949",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 15 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.13949v1 Announce Type: new \nAbstract: Modern LLM-powered autonomous agents increasingly rely on rich user interface (UI) state observations to achieve reliable action grounding in complex digital environments. However, many deployments transmit the full UI state to remote inference servers even when most elements are irrelevant to the current task, which can leak sensitive but unnecessary context such as authentication codes, private notifications, and background application states. W",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "autonomous",
+      "inference"
+    ]
+  },
+  {
+    "title": "AFFORDANCE20Q: Evaluating Affordance Reasoning from Physical Properties",
+    "url": "https://arxiv.org/abs/2606.14240",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 15 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.14240v1 Announce Type: new \nAbstract: Affordance reasoning, the inference of an object's action possibilities from its physical properties (e.g., shape and material), is fundamental to human physical understanding and increasingly critical for Large Language Models (LLMs). However, existing affordance benchmarks largely expose explicit object identities in the evaluation setup, allowing models to rely on memorized object-affordance mappings rather than reasoning over physical properti",
+    "score": 8.0,
+    "keywords_matched": [
+      "LLM",
+      "language model",
+      "inference",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "HarnessX: A Composable, Adaptive, and Evolvable Agent Harness Foundry",
+    "url": "https://arxiv.org/abs/2606.14249",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 15 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.14249v1 Announce Type: new \nAbstract: AI agent performance depends critically on the runtime harness, comprising the prompts, tools, memory, and control flow that mediate how a model observes, reasons, and acts. Yet today's harnesses remain largely hand-crafted and static: each new model or task still demands bespoke scaffolding, and the rich traces produced during execution are rarely distilled back into systematic improvement. We introduce HarnessX, a foundry for composable, adaptiv",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "prompt",
+      "memory"
+    ]
+  },
+  {
+    "title": "Communication Policy Evolution for Proactive LLM Agents",
+    "url": "https://arxiv.org/abs/2606.14314",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 15 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.14314v1 Announce Type: new \nAbstract: LLM agents have rapidly evolved into autonomous systems, yet a persistent information gap remains between users and agents: communication is costly, while users' identical preferences further limit information exchange. To investigate how agents should communicate across modalities, this paper formalizes Communication Policy, establishes textual and UI-based policies, and then evaluates communication policies across diverse environments, personas,",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "When the Tool Decides: LLM Agents Defer Blindly to Graph Neural Network Tools, and Stronger Backbones Defer More",
+    "url": "https://arxiv.org/abs/2606.14476",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 15 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.14476v1 Announce Type: new \nAbstract: A growing line of work equips large language model (LLM) agents with graph neural networks (GNNs) as callable tools, assuming the agent exercises judgment over when and how much to rely on such a tool. We test this directly. We expose a frozen GNN to a ReAct-style LLM agent as an explicit tool and measure, on node classification over a text-attributed graph (ogbn-arxiv, replicated on WikiCS), whether the agent uses the tool or merely obeys it. We ",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "neural",
+      "language model"
+    ]
+  },
+  {
+    "title": "Rethinking the UI of GenUI: A Tale of Two Designs",
+    "url": "https://arxiv.org/abs/2606.13843",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 15 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.13843v1 Announce Type: new \nAbstract: GenUI is an emergent class of AI tools that use large models to generate UI mock-ups based on users' high-level descriptions, promising to democratize UX design exploration for a broader audience. Most GenUI designs to date tend to inherit the conventions of conversational large models, such as ChatGPT and Gemini, where a user describes their design needs primarily via an unstructured prompt, and the tool then takes a depth-first approach, delving",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "Gemini",
+      "GPT",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Verifiable User Simulation for Search and Recommendation Systems",
+    "url": "https://arxiv.org/abs/2606.14474",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 15 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.14474v1 Announce Type: cross \nAbstract: Large-language-model (LLM) based user simulation is increasingly adopted for evaluating search engines, recommender systems, and retrieval-augmented generation pipelines, yet most simulators remain opaque: it is difficult to determine why a simulated user made a particular choice or whether that choice is consistent with the intended user profile. Compounding this, recent research shows that LLMs can produce biased or discriminatory responses de",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "simulation",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Can Editing 1 Neuron Fix Repetition Loops in LLMs?",
+    "url": "https://arxiv.org/abs/2606.13705",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 15 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.13705v1 Announce Type: new \nAbstract: Yes. Can it cure doom loops? Probably not.\n  The Gemma 4 instruction-tuned models share a reproducible failure: on long factual enumeration prompts, such as listing every episode of a TV series, the 88 IAU constellations, or the 151 original Pokemon, they collapse into repetition, either a tight verbatim loop or a list whose entries decay onto a single answer. These loops occur at rates as high as 95% and survive prompt rewording, inference-engine",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "inference",
+      "prompt"
+    ]
+  },
+  {
+    "title": "UP-NRPA: User Portrait based Nested Rollout Policy Adaptation for Planning with Large Language Models in Goal-oriented Dialogue Systems",
+    "url": "https://arxiv.org/abs/2606.13683",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 15 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.13683v1 Announce Type: new \nAbstract: To address the challenge that current dialogue policy planning methods struggle to dynamically adapt to diverse user characteristics, this paper proposes a User Portrait based Nested Rollout Policy Adaptation (UP-NRPA) online framework with Large Language Models. In contrast to conventional approaches dependent on model training and require offline reinforcement learning policy models for user groups, UP-NRPA enables dynamic customization of dialo",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "language model",
+      "planning"
+    ]
+  },
+  {
+    "title": "Capability Minimization as a Safety Primitive: Risk-Aware Causal Gating for Least-Privilege LLM Agents",
+    "url": "https://arxiv.org/abs/2606.13884",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 15 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.13884v1 Announce Type: new \nAbstract: Modern decision systems increasingly rely on learned components whose outputs may be confident yet wrong, exposing downstream actions to costly errors. We introduce Risk-Aware Causal Gating (RACG), a framework that decides whether to act on, defer, or abstain from a model's prediction by combining causal effect estimation with calibrated risk control. RACG models the causal pathway from candidate actions to outcomes and gates each decision accordi",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM"
+    ]
+  }
+]
