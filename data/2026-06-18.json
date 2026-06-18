@@ -1,0 +1,312 @@
+{
+  "date": "2026-06-18",
+  "candidates": [
+    {
+      "title": "promptfoo / promptfoo",
+      "url": "https://github.com/promptfoo/promptfoo",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic. [41 stars today]",
+      "score": 14.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "Gemini",
+        "GPT",
+        "RAG",
+        "prompt"
+      ]
+    },
+    {
+      "title": "ruvnet / ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "🌊 The leading agent meta-harness for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration [167 stars today]",
+      "score": 14.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "workflow",
+        "autonomous",
+        "RAG",
+        "memory"
+      ]
+    },
+    {
+      "title": "FinAcumen: Financial Multimodal Reasoning via Self-Evolving Experience Memory Harness",
+      "url": "https://arxiv.org/abs/2606.17642",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 17 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.17642v1 Announce Type: new \nAbstract: Financial multimodal reasoning requires agents to coordinate numerical computation, retrieval, visual interpretation, and temporal grounding across heterogeneous evidence sources. Existing tool-augmented agents improve execution fidelity, yet remain largely stateless across episodes, repeatedly rediscovering reasoning strategies and failure patterns. In high-stakes financial settings, this leads to unreliable tool routing, noisy retrieval, and hal",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "multimodal",
+        "reasoning",
+        "memory",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "PromptMN: Pseudo Prompting Language",
+      "url": "https://arxiv.org/abs/2606.17164",
+      "source": "arXiv cs.HC",
+      "published_at": "Wed, 17 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.17164v1 Announce Type: cross \nAbstract: Prompting has become the primary interface between humans and generative AI, yet many natural language prompts remain fragile: roles, goals, constraints, and expected outputs are often buried in prose or left implicit. In agentic and software development workflows, a misread at the first handoff can propagate through every step, since a significant portion of agent failures stem from context ambiguities rather than model limitations. This paper ",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "workflow",
+        "RAG",
+        "prompt",
+        "generative"
+      ]
+    },
+    {
+      "title": "diegosouzapw / OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA. [73 stars today]",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "Claude",
+        "Gemini",
+        "Copilot",
+        "GPT",
+        "multimodal"
+      ]
+    },
+    {
+      "title": "Incumbent Advantage: Brand Bias and Cognitive Manipulation Dynamics in LLM Recommendation Systems",
+      "url": "https://arxiv.org/abs/2606.17443",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 17 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.17443v1 Announce Type: new \nAbstract: Large language models (LLMs) are becoming a major way for consumers to find products, but we do not yet understand how brands compete in this new channel. We study brand dynamics in LLM recommendations using skincare products -- a category where consumers cannot easily judge quality before buying and must rely on brand reputation -- across three commercial LLMs (GPT-4o-mini, Claude Sonnet, Gemini 3 Flash), with a robustness check on search goods. ",
+      "score": 10.0,
+      "keywords_matched": [
+        "LLM",
+        "Claude",
+        "Gemini",
+        "GPT",
+        "language model"
+      ]
+    },
+    {
+      "title": "LLM-as-Judge in Education: A Curriculum-Grounded Marking Pipeline",
+      "url": "https://arxiv.org/abs/2606.17507",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 17 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.17507v1 Announce Type: new \nAbstract: Generative AI and large language models (LLMs) are increasingly applied to question generation and automated assessment. However, deploying LLMs in preparation for high-stakes exams requires more than prompt engineering; it demands software pipelines that systematically ground model outputs in authorised curriculum artefacts and marking guidelines issued by education authorities. This paper presents a curriculum-grounded, configurable LLM-as-Judge",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "prompt",
+        "generative"
+      ]
+    },
+    {
+      "title": "SEAGym: An Evaluation Environment for Self-Evolving LLM Agents",
+      "url": "https://arxiv.org/abs/2606.17546",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 17 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.17546v1 Announce Type: new \nAbstract: Self-evolving LLM-based agents improve mainly by changing their agent harness: the structured execution layer around a base model, including prompts, memory, tools, middleware, runtime state, and the model-tool interaction loop. Existing evaluations often reduce this process to isolated task scores or a single sequential curve, obscuring whether an update produces reusable improvement, overfits recent tasks, increases cost, or harms older behavior",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "prompt",
+        "memory"
+      ]
+    },
+    {
+      "title": "Beyond Domains: Reusing Web Skills via Transferable Interaction Patterns",
+      "url": "https://arxiv.org/abs/2606.17645",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 17 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.17645v1 Announce Type: new \nAbstract: Large language model (LLM) web agents are usually deployed as tool callers: each turn, the model reads a fresh page observation and emits one structured tool action. When every action is a low-level primitive, horizons grow quickly and so do policy-facing LLM completions, dominating latency and cost on benchmarks such as Mind2Web and WebArena. Recent systems therefore wrap repeated interaction fragments as web skills: callable tools built from suc",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "RAG"
+      ]
+    },
+    {
+      "title": "Using Cognitive Models to Improve Language Model Simulation of Human Persuasion Games",
+      "url": "https://arxiv.org/abs/2606.17657",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 17 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.17657v1 Announce Type: new \nAbstract: People make decisions differently in strategic interactions. Some update beliefs like a Bayesian; others exhibit biases like motivated reasoning. Although creators of large language models use simulated humans for safety evaluations and training, they often fail to cover this breadth of human behavior. We argue that cognitive science and economics provide a convenient tool for doing so, making use of mathematical models of human decision-making. W",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "game",
+        "simulation",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Algorithmic Prompt Generation for Diverse Human-like Teaming and Communication with Large Language Models",
+      "url": "https://arxiv.org/abs/2504.03991",
+      "source": "arXiv cs.HC",
+      "published_at": "Wed, 17 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2504.03991v2 Announce Type: replace-cross \nAbstract: Understanding how humans collaborate and communicate in teams is essential for improving human-agent teaming and AI-assisted decision-making. However, relying solely on data from large-scale user studies is impractical due to logistical, ethical, and practical constraints, necessitating synthetic models of multiple diverse human behaviors. Recently, agents powered by Large Language Models (LLMs) have been shown to emulate human-like beha",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "prompt"
+      ]
+    },
+    {
+      "title": "From Paper to Program: Knowledge Externalization for AI-Assisted Quantum Many-Body Code Generation",
+      "url": "https://arxiv.org/abs/2604.04089",
+      "source": "arXiv cs.HC",
+      "published_at": "Wed, 17 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2604.04089v3 Announce Type: replace-cross \nAbstract: Large language models can write scientific code, but direct paper-to-program translation remains fragile when correctness depends on tacit conventions in the literature. We identify this bottleneck as \\textbf{knowledge externalization}: converting implicit computational assumptions -- index conventions, gauge choices, fermionic signs, contraction order, and memory constraints -- into an explicit technical specification before implementat",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "language model",
+        "code generation",
+        "RAG",
+        "memory"
+      ]
+    },
+    {
+      "title": "Verified Detection and Prevention of Concurrency Anomalies in Multi-Agent Large Language Model Systems",
+      "url": "https://arxiv.org/abs/2606.17182",
+      "source": "arXiv cs.LG",
+      "published_at": "Wed, 17 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.17182v1 Announce Type: new \nAbstract: Multi-agent LLM systems share state through memory stores, vector indices, and tool registries. We model such sharing as long-running read-generate-write operations under deterministic-generation semantics -- the regime durable-execution engines enforce by deterministic replay -- and formalize four concurrency anomalies in TLA+: stale-generation, phantom-tool, causal-cascade, and tool-effect reordering, structural analogues of classical isolation ",
+      "score": 10.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "language model",
+        "vector",
+        "memory"
+      ]
+    },
+    {
+      "title": "Can LLMs Be CEOs? Benchmarking Strategic Resource Reallocation with Multi-Role Agent Simulation",
+      "url": "https://arxiv.org/abs/2606.17459",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 17 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.17459v1 Announce Type: new \nAbstract: Evaluating the decision-making capabilities of large language models (LLMs) is a growing research priority, yet existing benchmarks focus on isolated cognitive tasks such as reasoning, knowledge retrieval, and economic rationality in stylized settings. These evaluations overlook the defining challenge of real executive decision-making: integrating conflicting recommendations from specialized stakeholders under information asymmetry, organizational",
+      "score": 9.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "simulation",
+        "language model",
+        "reasoning",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
+      "url": "https://github.com/Adam-CAD/CADAM",
+      "source": "Hacker News",
+      "published_at": "Wed, 17 Jun 2026 16:14:04 +0000",
+      "description": "Hey HN! I'm Zach from Adam ( https://adam.new/ ). We're building AI agents for mechanical CAD software. We’ve built the company on two fundamental beliefs: - AI will be the primary medium for creating mechanical designs just like it is in software today. - The best paradigm for CAD generation is to generate CAD as code (text -> code -> CAD). We’re building CADAM, an open source Text to CAD platform. It's a React app (TanStack Start) with a Supabase backend for auth, database, and file storage. T",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "open source",
+        "RAG"
+      ]
+    },
+    {
+      "title": "Quantifying Consistency in LLM Logical Reasoning via Structural Uncertainty",
+      "url": "https://arxiv.org/abs/2606.17312",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 17 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.17312v1 Announce Type: new \nAbstract: Large language models can arrive at the same answer through reasoning paths that are unstable, contradictory, or difficult to rank consistently -- a failure mode especially prevalent in multi-step deductive reasoning. Existing methods assess reliability primarily through output dispersion -- measuring how much sampled answers differ -- but this discards a complementary signal: whether the model can consistently rank competing reasoning candidates.",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "MemTrace: Probing What Final Accuracy Misses in Long-Term Memory",
+      "url": "https://arxiv.org/abs/2606.17328",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 17 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.17328v1 Announce Type: new \nAbstract: LLM agents increasingly maintain long-term memory of user facts across sessions. Yet such memory is usually evaluated by aggregating accuracy over question rows or episodes. Because this approach scores question rows independently, even when several questions probe the same fact, it cannot show how that fact behaves as conditions change. We introduce MemTrace, a benchmark whose unit of measurement is the knowledge point: a single typed fact about ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "memory"
+      ]
+    },
+    {
+      "title": "Distributed General-Purpose Agent Networks: Architecture, Key Mechanisms, and Prototypes",
+      "url": "https://arxiv.org/abs/2606.17368",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 17 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.17368v1 Announce Type: new \nAbstract: Large language models have accelerated the transition from passive conversational assistants to autonomous agents that can understand goals, plan actions, invoke tools, and execute multi-step tasks. Yet the capability of a single agent remains constrained by its local data, tool permissions, runtime environment, and governance boundary. This paper studies distributed general-purpose agent networks: open peer-to-peer networks in which heterogeneous",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "language model",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "Shattering the Autoregressive Curse: Dynamic Epistemic Entropy Orchestrated Erasable Reinforcement Learning for LLMs",
+      "url": "https://arxiv.org/abs/2606.17735",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 17 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.17735v1 Announce Type: new \nAbstract: Although reinforcement learning (RL) has expanded the cognitive boundaries of large language models (LLMs), it often remains vulnerable to the autoregressive curse in long-horizon logical reasoning: small epistemic perturbations introduced early in generation can propagate irreversibly along the Markov decision process flow, triggering cascading failures that drive the reasoning trajectory toward collapse. To overcome this autoregressive cascade, ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "DecoSearch: Complexity-Aware Routing and Plan-Level Repair for Text-to-SQL",
+      "url": "https://arxiv.org/abs/2606.17821",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 17 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.17821v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have demonstrated remarkable capabilities in translating natural language to SQL, yet existing methods still falter on complex queries requiring multi-step, data-aware reasoning. We introduce DecoSearch, a training-free framework that addresses this by routing each query to the appropriate level of reasoning effort. A lightweight Schema Selector first prunes the full database schema to the relevant tables and columns. ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "reasoning"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-06-18\n\n太棒了！作为你的“疯狂发明家技术雷达”，我已为你筛选出今日最值得关注的 5 项技术内容，它们都具备“够新、够怪、够可实验”的特质，并且能直接激发你的跨学科项目灵感。让我们开始吧！\n\n---\n\n## [Promptfoo: AI Prompt Testing & Red Teaming]\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/promptfoo/promptfoo\n- 一句话解释：Promptfoo 是一个强大的工具，用于测试、评估和迭代你的 AI 提示（prompts）、Agents 和 RAG 系统，并能比较不同模型的性能。\n- 它为什么重要：在 AI 开发流程中，提示工程和 Agent 的稳定性至关重要。Promptfoo 提供了一个系统化的方法来验证和优化这些关键组件，减少“幻觉”和意外行为，尤其是在生产环境部署前。\n- 技术趋势标签：AI 开发工作流, Agent, RAG, Prompt Engineering, Model Evaluation, Spec-Driven Development\n- 可复用模式：Automated Prompt Testing Framework, Model Performance Comparison Suite, Agent Behavior Validation\n- 疯狂发明家灵感：\n    1. **一个小的实验**：用 Promptfoo 测试同一个复杂创意写作提示在 GPT-4、Claude 3 Opus 和 Gemini 1.5 Pro 之间的输出差异，观察它们的风格、连贯性和创意水平。\n    2. **一个中型项目**：构建一个“Prompt Portfolio Manager”，利用 Promptfoo 自动运行一系列测试用例，为每个提示生成一个“健康分数”和详细的性能报告，并支持版本控制和回归测试。\n    3. **一个艺术/游戏/叙事方向**：设计一个“AI 叙事诊断器”，用 Promptfoo 自动化测试生成式叙事系统在不同输入（如玩家选择、世界状态）下的表现，找出叙事逻辑上的漏洞或不一致之处。\n- 对我项目的启发：可以用来测试和优化我的生成式艺术和游戏叙事系统的提示，确保其行为符合预期，并能量化不同模型在特定创意任务上的表现。\n- 今天是否值得深入研究：是\n- 建议行动：试用 / 做demo\n\n---\n\n## [Ruflo: Claude Agent Meta-Harness]\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/ruvnet/ruflo\n- 一句话解释：Ruflo 是一个用于 Claude 的高级 Agent 元框架，可以部署智能多 Agent 群体，协调自主工作流，并构建会话式 AI 系统。\n- 它为什么重要：它提供了一个框架来管理和协调多个 AI Agent，实现更复杂的自主任务和交互。这对于构建需要多个专业 AI 协作完成任务的系统至关重要。\n- 技术趋势标签：Agent, Multi-Agent Systems, Autonomous Workflows, Claude, Conversational AI, LLM Toolchain\n- 可复用模式：Agent Swarm Orchestration, Autonomous Workflow Design, Conversational Agent Coordination\n- 疯狂发明家灵感：\n    1. **一个小的实验**：创建一个由两个 Claude Agent 组成的简单群组，一个负责生成创意点子，另一个负责评估和细化这些点子，看它们如何协作。\n    2. **一个中型项目**：构建一个“AI 协作设计助手”，使用 Ruflo 协调多个 Agent（如一个负责用户需求分析，一个负责概念草图生成，一个负责用户反馈收集），来协助完成一个产品设计流程。\n    3. **一个艺术/游戏/叙事方向**：设计一个“动态世界生成 Agent 集群”，让 Agent 们基于预设规则和随机事件，共同生成一个不断演变的虚拟世界，每个 Agent 负责世界的某个方面（如生态、文化、历史事件）。\n- 对我项目的启发：为我构建复杂的 Agent 系统提供了现成的框架，尤其是在利用 Claude 的能力方面，可以探索多 Agent 协同进行创意生成或世界构建。\n- 今天是否值得深入研究：是\n- 建议行动：试用 / 做demo\n\n---\n\n## [FinAcumen: Financial Multimodal Reasoning with Self-Evolving Experience Memory]\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2606.17642\n- 一句话解释：该研究提出了一种金融领域的多模态推理 Agent，它通过“自我演进的经验记忆”来协调数值计算、检索、视觉解释和时间理解，解决现有 Agent 缺乏跨会话状态的问题。\n- 它为什么重要：它解决了 AI Agent 在复杂、多模态、时间序列任务中“遗忘”和“重复学习”的问题，通过持续积累和利用经验来提升推理能力。这对于需要长期记忆和上下文理解的 Agent 至关重要。\n- 技术趋势标签：AI Agent, Multimodal AI, Memory Systems, Reasoning, Financial AI, Experience Replay\n- 可复用模式：Experience Memory for Agents, Multimodal Reasoning Pipelines, Stateful Agent Architectures\n- 疯狂发明家灵感：\n    1. **一个小的实验**：尝试构建一个简单的 Agent，让它在处理一系列包含文本和图片的金融新闻时，能记住并利用之前分析过的公司信息来预测当前新闻的影响。\n    2. **一个中型项目**：开发一个“AI 艺术历史研究员 Agent”，它能阅读大量艺术史文献、分析艺术品图片，并能根据其“经验记忆”来理解和解释不同艺术流派的演变和相互影响。\n    3. **一个艺术/游戏/叙事方向**：设计一个“AI 角色成长系统”，让游戏中的 NPC Agent 拥有“经验记忆”，能记住与玩家的互动、过去的事件，并基于这些记忆来发展其行为模式、对话风格和对世界的理解。\n- 对我项目的启发：为我的 Agent 项目提供了关于如何构建更持久、更具学习能力的记忆系统的思路，尤其是在处理复杂、多模态信息和需要长期上下文的场景下。\n- 今天是否值得深入研究：是\n- 建议行动：收藏 / 做demo\n\n---\n\n## [OmniRoute: Free AI Gateway with 160+ Providers]\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/diegosouzapw/OmniRoute\n- 一句话解释：OmniRoute 是一个免费的 AI 网关，通过一个端点连接超过 160 个 AI 模型提供商（包括大量免费选项），并支持多模态 API，显著降低使用成本。\n- 它为什么重要：它极大地降低了 AI 模型的使用门槛和成本，使得开发者可以轻松地实验和集成各种模型，包括免费的 Claude/GPT/Gemini。这对于原型开发和成本敏感的项目非常有价值。\n- 技术趋势标签：LLM Toolchain, AI Gateway, Multimodal APIs, Cost Optimization, AI Accessibility\n- 可复用模式：Unified AI API Layer, Model Provider Abstraction, Cost-Effective AI Experimentation\n- 疯狂发明家灵感：\n    1. **一个小的实验**：用 OmniRoute 快速搭建一个简单的“AI 图像描述生成器”，输入一张图片，让它通过多个免费模型（如免费的 Gemini 或 Claude）生成不同的描述，比较结果。\n    2. **一个中型项目**：创建一个“AI 创意内容生成器”，用户输入一个主题，系统自动调用 OmniRoute 连接多个模型（文本生成、图像生成、音乐生成），组合生成一个多模态的创意作品。\n    3. **一个艺术/游戏/叙事方向**：开发一个“AI 叙事分支编辑器”，用户可以通过图形界面定义故事节点和条件，系统通过 OmniRoute 调用不同的 LLM 来生成不同分支的文本内容，实现快速的故事原型构建。\n- 对我项目的启发：为我提供了一个低成本、高灵活性的方式来测试和集成各种 LLM 和多模态模型，这对于我快速原型设计和探索不同 AI 能力的组合非常有帮助。\n- 今天是否值得深入研究：是\n- 建议行动：试用 / 做demo\n\n---\n\n## [Incumbent Advantage: Brand Bias in LLM Recommendation Systems]\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2606.17443\n- 一句话解释：该研究探讨了大型语言模型（LLM）在推荐系统中如何表现出“品牌偏见”，以及这种偏见如何影响消费者决策，尤其是在产品质量难以在购买前判断的情况下。\n- 它为什么重要：它揭示了 LLM 作为推荐渠道时可能存在的“操纵”或“偏见”问题，这对于理解 AI 在商业和用户体验中的作用至关重要。这与 spec-driven development 中的“规范”和“预期行为”有关。\n- 技术趋势标签：LLM, Recommendation Systems, Bias, Human-Computer Interaction (HCI), Brand Dynamics, Spec-Driven Development\n- 可复用模式：Bias Detection in LLM Outputs, Fair Recommendation Algorithms, User Behavior Modeling in AI Contexts\n- 疯狂发明家灵感：\n    1. **一个小的实验**：设计一个简单的 prompt，让 ChatGPT 或 Claude 推荐一款护肤品，然后故意在 prompt 中加入一些“暗示性”的品牌信息，观察推荐结果是否发生变化。\n    2. **一个中型项目**：构建一个“AI 推荐系统公平性测试器”，模拟用户在不同品牌信息下的查询，并使用 LLM 来评估推荐结果是否受到不公平的品牌影响，并可视化这些偏见。\n    3. **一个艺术/游戏/叙事方向**：创建一个交互式艺术装置，通过 LLM 生成的推荐列表来反映社会中存在的品牌偏见和消费主义，让观众反思 AI 在信息传播中的角色。\n- 对我项目的启发：让我思考在设计 AI Agent 和生成系统时，如何识别和规避潜在的“规范性偏见”，确保输出的公平性和中立性，这与 spec-driven development 中定义行为规范息息相关。\n- 今天是否值得深入研究：是\n- 建议行动：收藏 / 做demo\n\n---\n\n## 今日模式总结\n今天出现的最显著的模式是 **Agent 系统的进化与标准化**。从 Ruflo 的多 Agent 群体协调，到 FinAcumen 的经验记忆，再到 OmniRoute 提供的便捷模型接入，都指向了构建更智能、更自主、更易于管理的 AI Agent 的方向。同时，**AI 输出的可靠性与可控性** 也是一个重要主题，Promptfoo 解决了测试问题，而 Incumbent Advantage 则揭示了 LLM 在推荐场景下的内在偏见，这都与 Spec-Driven Development 强调的“明确规范与验证”不谋而合。\n\n## 今日可做小实验\n**项目名：** \"AI 创意点子碰撞器\"\n\n**输入：**\n1. 一个核心创意概念（例如：“会飞的城市”，“情绪驱动的音乐生成器”，“时间旅行者的日记”）。\n2. 你选择的两个不同 LLM 模型（例如：Claude 3 Sonnet 和 GPT-3.5 Turbo，或者通过 OmniRoute 连接的免费模型）。\n\n**输出：**\n- 每个模型针对该核心概念生成的 3 个不同方向的创意点子。\n- 对比两个模型生成的点子在独特性、可行性和趣味性上的简要分析。\n\n**技术栈：**\n- Python\n- `openai` (或其他模型提供商的 SDK，如 `anthropic`)\n- `promptfoo` (可选，用于更正式的测试)\n- 任何可以方便访问你选择的模型的库\n\n**第一步怎么做：**\n1. **安装必要的库：** `pip install openai anthropic` (或根据你选择的模型进行调整)。\n2. **准备 API 密钥：** 获取你选择的模型的 API 密钥。\n3. **编写 Python 脚本：**\n   - 定义一个函数，接收一个概念和模型名称，然后使用该模型的 API 生成 3 个关于该概念的创意点子。\n   - 调用此函数两次，分别使用你选择的两个模型。\n   - 编写简单的代码来比较两个模型生成的点子，例如：\n     - 检查是否有重叠的点子。\n     - 简单地描述一下哪个模型生成的点子更“疯狂”或更“实用”。\n4. **运行脚本：** 输入你的核心创意概念，看看 AI 会产生什么有趣的碰撞！\n\n这个实验能在 2 小时内完成，让你直接体验不同模型在创意生成上的差异，并为你后续更复杂的 Agent 协作项目打下基础。祝你玩得开心！",
+  "gemini_success": true,
+  "telegram_sent": true,
+  "telegram_status": "sent",
+  "telegram_reason": ""
+}
