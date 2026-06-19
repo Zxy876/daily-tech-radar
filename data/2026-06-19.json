@@ -1,0 +1,309 @@
+{
+  "date": "2026-06-19",
+  "candidates": [
+    {
+      "title": "Generative-Model Predictive Planning for Navigation in Partially Observable Environments",
+      "url": "https://arxiv.org/abs/2606.18888",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 18 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.18888v1 Announce Type: new \nAbstract: Navigation in partially observable environments presents a significant challenge for autonomous agents, requiring effective decision-making with limited sensory information in unknown environments. Belief-based methods, particularly those using neural networks to approximate the belief space, often fail to capture the inherent multimodality of belief spaces, especially in high-dimensional cases with perceptual aliasing. While generative models pre",
+      "score": 14.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "neural",
+        "autonomous",
+        "multimodal",
+        "planning",
+        "generative"
+      ]
+    },
+    {
+      "title": "When Prompts Mislead: Textual Dominance and Diagnostic Bias in MLLMs",
+      "url": "https://arxiv.org/abs/2606.18262",
+      "source": "arXiv cs.HC",
+      "published_at": "Thu, 18 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.18262v1 Announce Type: new \nAbstract: Multimodal large language models (MLLMs) are increasingly being evaluated for medical applications, where computational constraints often make prompting strategies the only practical alternative to fine-tuning. Such strategies are generally assumed to support diagnostic reasoning, yet their potential failure modes in medical MLLMs remain poorly characterized. We analyze FundusExpert-1B, an open-source ophthalmology MLLM, on a hemorrhage versus dru",
+      "score": 14.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "multimodal",
+        "fine-tuning",
+        "prompt",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "CaVe-VLM-CoT: An Interpretable Vision-Language Model Framework",
+      "url": "https://arxiv.org/abs/2606.18385",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 18 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.18385v1 Announce Type: new \nAbstract: Vision-Language Models (VLMs) remain prone to hallucinations, producing fluent but visually unfaithful outputs. Existing chain-of-thought and retrieval-augmented methods only partially address this, as they neither enforce step-level citation grounding nor route verification failures back to retrieval for correction. We present CaVe-VLM-CoT, a modular reflection-based agentic-RAG framework that enforces evidence-grounded reasoning through a five-s",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "language model",
+        "RAG",
+        "reasoning",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "SciRisk-Bench: A Risk-Dimension-Aware Benchmark for AI4Science Safety",
+      "url": "https://arxiv.org/abs/2606.18936",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 18 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.18936v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly embedded in AI for Science (AI4Science) workflows, from scientific question answering and literature analysis to laboratory planning and autonomous discovery. This progress creates an urgent need for safety benchmarks that evaluate not only scientific competence, but also whether models recognize and avoid risks in high-stakes scientific contexts. Existing AI4Science safety datasets cover several disci",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "workflow",
+        "language model",
+        "autonomous",
+        "planning"
+      ]
+    },
+    {
+      "title": "RTSGameBench: An RTS Benchmark for Strategic Reasoning by Vision-Language Models",
+      "url": "https://arxiv.org/abs/2606.18950",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 18 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.18950v1 Announce Type: new \nAbstract: Modern Vision-Language Models (VLMs) often struggle with strategic reasoning, i.e., anticipating and influencing other agents' actions, under uncertainty in competitive and cooperative settings. Real-time strategy (RTS) games can be a natural testbed for diagnosing this limitation, as they demand coordination with allies, adaptation to opponents' strategy, and long-horizon planning under partial observability. However, existing RTS benchmarks offe",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "game",
+        "language model",
+        "reasoning",
+        "planning"
+      ]
+    },
+    {
+      "title": "Caring Without Feeling: Affective Dynamics as the Control Layer of Human-AI Agent Collaboration",
+      "url": "https://arxiv.org/abs/2606.18259",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 18 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.18259v1 Announce Type: cross \nAbstract: AI agents that plan, retain memory across sessions, invoke external tools and act with partial autonomy are transforming human--AI collaboration. Research on affective computing, simulated empathy in large language models, trust in automation and AI safety has illuminated important design principles, yet these literatures remain fragmented. No integrated account explains how affective cues operate within agentic collaboration -- settings in whic",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "automation",
+        "language model",
+        "RAG",
+        "memory"
+      ]
+    },
+    {
+      "title": "labring / FastGPT",
+      "url": "https://github.com/labring/FastGPT",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration. [42 stars today]",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "workflow",
+        "GPT",
+        "RAG",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "User as Engram: Internalizing Per-User Memory as Local Parametric Edits",
+      "url": "https://arxiv.org/abs/2606.19172",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 18 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.19172v1 Announce Type: new \nAbstract: Personal memory in a language model is two problems: content and reasoning skill. The brain keeps the two apart (a sparse, local engram in the hippocampus for each episode, a slow neocortex for the shared skills that interpret it), so a new fact need not overwrite everything else. Most personalization today keeps a user's facts outside the weights, in a natural-language memory file or a retrieval index. When facts are written into the model instea",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "language model",
+        "reasoning",
+        "memory",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Mitigating Anchoring Bias in LLM-Based Agents for Energy-Efficient 6G Autonomous Networks",
+      "url": "https://arxiv.org/abs/2606.18272",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 18 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.18272v1 Announce Type: cross \nAbstract: This paper presents an autonomous agentic resource negotiation framework designed to enable zero-touch network slicing in 6G architectures using Large Language Model (LLM) agents. While LLMs offer powerful reasoning capabilities, we demonstrate that such agents inherently suffer from anchoring bias, rigidly adhering to initial heuristic proposals and causing severe network over-provisioning. To systematically mitigate this cognitive bias, we pro",
+      "score": 10.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "language model",
+        "autonomous",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Beyond Prediction: Tail-Aware Scheduling for LLM Inference",
+      "url": "https://arxiv.org/abs/2606.18431",
+      "source": "arXiv cs.LG",
+      "published_at": "Thu, 18 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.18431v1 Announce Type: new \nAbstract: LLM serving exhibits extreme length variability, making size-based scheduling difficult in practice. Recent LLM schedulers approximate SJF/SRPT using predicted decode lengths or ranks and primarily report mean-centric metrics such as TTFT and TBT. We show that these prediction-driven policies can be fragile under distribution shifts, bursty arrivals, and GPU memory pressure, while offering limited control over the tail latency (P90-P99) that domin",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "RAG",
+        "inference",
+        "memory"
+      ]
+    },
+    {
+      "title": "CEO-Bench: Can Agents Play the Long Game?",
+      "url": "https://arxiv.org/abs/2606.18543",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 18 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.18543v1 Announce Type: new \nAbstract: Language model agents are becoming proficient executors at isolated, short-horizon tasks such as software engineering and customer service. Yet real-world challenges require a combination of sophisticated skills that remain largely untested in agents: (1) navigating long horizons amid uncertainty; (2) acquiring information in noisy environments; (3) adapting to a changing world; (4) orchestrating multiple moving parts toward a coherent goal. We in",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "game",
+        "language model"
+      ]
+    },
+    {
+      "title": "ProfiLLM: Utility-Aligned Agentic User Profiling for Industrial Ride-Hailing Dispatch",
+      "url": "https://arxiv.org/abs/2606.18803",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 18 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.18803v1 Announce Type: new \nAbstract: Bringing Large Language Models (LLMs) into industrial ride-hailing dispatch as semantic feature extractors over platform-scale behavioral logs is a compelling but under-explored data systems problem. Production matching pipelines remain dominated by structured numerical features, yet decisive behavioral signals (e.g., a driver's habitual aversion to certain regions) are inherently contextual and naturally expressible as LLM-generated user profiles",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model"
+      ]
+    },
+    {
+      "title": "WorldLines: Benchmarking and Modeling Long-Horizon Stateful Embodied Agents",
+      "url": "https://arxiv.org/abs/2606.18847",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 18 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.18847v1 Announce Type: new \nAbstract: To assist humans over extended periods in real homes, embodied agents must remember user routines, world states, and past interactions. Existing long-term memory benchmarks mainly evaluate language-centric retrieval and question answering, while embodied benchmarks often focus on short-horizon task execution without testing long-term memory use in dynamic environments. We introduce WorldLines, a project-driven benchmark for long-horizon embodied h",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "memory",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Externalizing Research Synthesis and Validation in AI Scientists through a Research Harness",
+      "url": "https://arxiv.org/abs/2606.18874",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 18 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.18874v1 Announce Type: new \nAbstract: AI systems can increasingly automate scientific workflows, but the reasoning that links prior evidence, generated ideas, experiments and final claims often remains implicit inside model inference. Here we introduce Xcientist, a research harness that externalizes research synthesis and experimental validation into inspectable, contract-governed processes. Xcientist organizes literature evidence, idea states, implementation plans, ablation records a",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "workflow",
+        "inference",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Decoupling Search from Reasoning: A Vendor-Agnostic Grounding Architecture for LLM Agents",
+      "url": "https://arxiv.org/abs/2606.18947",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 18 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.18947v1 Announce Type: new \nAbstract: Production LLM agents increasingly depend on real-time search, yet native search grounding bundles retrieval policy, provider choice, evidence injection, cost, latency, and generation behavior behind a single model-provider boundary. This coupling makes grounding hard to inspect, tune, reuse, or port, and can trigger Search-Induced Verbosity that breaks strict output contracts. We present Decoupled Search Grounding (DSG), a vendor-agnostic boundar",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "reasoning",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Examining Human-Like Behaviors in LLMs: A Multi-Dimensional Analysis of Model Behaviors, User Factors, and System Prompts",
+      "url": "https://arxiv.org/abs/2606.18258",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 18 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.18258v1 Announce Type: cross \nAbstract: Large language models (LLMs) exhibit a wide range of human-like behaviors, from expressing thoughts and emotions, to engaging in relationship-building with users, to refusing requests and maintaining boundaries. Despite their prevalence, researchers and practitioners lack methods and empirical insights to make informed decisions about when and what types of human-like behaviors LLMs should exhibit. To fill this gap, we present a multi-dimensiona",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "prompt"
+      ]
+    },
+    {
+      "title": "Simulating Hate Speech Cascades with Multi-LLM Agents: Empirical Grounding, Modeling Fidelity, and Intervention Strategies",
+      "url": "https://arxiv.org/abs/2606.18264",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 18 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.18264v1 Announce Type: cross \nAbstract: Faithful modeling of hateful content propagation on online platforms remains an open problem for moderation research. Classical cascade models that do not explicitly represent the profile, community, and content factors associated with hateful-content propagation may yield moderation strategies that behave less effectively when deployed in real-world scenarios. Multi-agent large language model (LLM) systems can, in principle, make each reshare d",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model"
+      ]
+    },
+    {
+      "title": "Retrieval-Based Brain Decoding by Alignment, not Complexity",
+      "url": "https://arxiv.org/abs/2606.19081",
+      "source": "arXiv cs.HC",
+      "published_at": "Thu, 18 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.19081v1 Announce Type: cross \nAbstract: A prominent theory in cognitive science suggests that concepts in the brain are organized as high-dimensional vectors, with semantic meaning captured by directions and relative angles in this space. Brain decoding is the effort of reconstructing or retrieving stimuli (or their representations) from neural activity and involves finding a function that approximates how the brain represents concepts. This motivates the investigation of contrastive ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "neural",
+        "vector",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Written by AI, Managed by AI: Semantic Space Control and Index Sickness Elimination Across 391 Consecutive Sessions",
+      "url": "https://arxiv.org/abs/2606.19121",
+      "source": "arXiv cs.HC",
+      "published_at": "Thu, 18 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.19121v1 Announce Type: cross \nAbstract: The prevailing engineering intuition for addressing conceptual drift in long-horizon LLM collaboration is to trade more formal constraints for more reliable outputs -- designing symbolic identifier systems, accumulating defensive rules in System Prompts, expanding context windows. Our engineering record shows that in long-horizon settings, this direction may produce effects contrary to design intent. Using action research methods in a real softw",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "prompt",
+        "context window"
+      ]
+    },
+    {
+      "title": "Attribution-Guided and Coverage-Maximized Pruning for Structural MoE Compression",
+      "url": "https://arxiv.org/abs/2606.18304",
+      "source": "arXiv cs.LG",
+      "published_at": "Thu, 18 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.18304v1 Announce Type: new \nAbstract: Mixture-of-Experts (MoE) models scale compute efficiently, yet remain expensive to deploy due to their substantial memory footprint and inference overhead. Prior compression methods mainly operate at the expert level, either removing entire experts or ranking experts by coarse-grained importance scores. However, such expert-wise decisions are often too coarse to capture fine-grained redundancy, leading to misallocated pruning budgets and limited c",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "RAG",
+        "inference",
+        "memory"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-06-19\n\n好的，疯狂发明家！你的技术雷达已启动，为你筛选出今日最闪耀、最怪异、最能点燃你跨学科创造力的技术发现。我们不玩虚的，直接给你可执行的灵感！\n\n---\n\n## [CaVe-VLM-CoT: 可解释的视觉-语言模型框架]\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2606.18385\n- 一句话解释：一个新框架，让视觉-语言模型（VLM）在生成答案时，能像侦探一样“引用”和“核实”视觉证据，并且在出错时能回溯原因。\n- 它为什么重要：当前 VLM 容易“胡说八道”（hallucinations），CaVe-VLM-CoT 引入了可解释性和可信度，让 AI 的视觉推理过程透明化，这对于需要高准确性的应用至关重要，也为艺术和叙事创作提供了更可控的工具。\n- 技术趋势标签：AI, VLM, 可解释性 (Interpretability), RAG (通过引用模拟), Reasoning, 艺术技术, 生成式系统\n- 可复用模式：**可溯源的生成 (Attributed Generation)** - AI 在生成内容时，不仅提供结果，还附带其“证据链”或“思考过程”。\n- 疯狂发明家灵感：\n    1.  **一个小的实验：** 尝试用 CaVe-VLM-CoT 的思路，为一个简单的图像描述生成任务，让模型不仅描述图片，还要链接到图片中的特定像素区域作为“证据”。\n    2.  **一个中型的项目：** 构建一个“AI 艺术评论家”系统。输入一张艺术作品，AI 不仅能描述它，还能“引用”画面中的元素（颜色、线条、构图）来解释其风格、情感或潜在含义，并能指出哪些艺术理论“支持”它的判断。\n    3.  **一个艺术/游戏/叙事方向：** 创造一个互动式叙事游戏，玩家通过向 AI 提问关于游戏世界（图像、场景）的问题，AI 必须给出有视觉证据支持的答案。如果 AI 给出错误信息，玩家可以“质疑”它的证据，促使 AI 重新推理。\n- 对我项目的启发：可以让你构建更“负责任”的生成式艺术工具，或者更有深度的游戏 NPC，它们能基于视觉信息进行“有理有据”的对话和行为。\n- 今天是否值得深入研究：是\n- 建议行动：收藏 / 试用（如果代码可用）\n\n---\n\n## [RTSGameBench: 视觉-语言模型（VLM）的即时战略（RTS）游戏基准测试]\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2606.18950\n- 一句话解释：一个专门为测试 VLM 在即时战略游戏（如星际争霸）中的战略推理能力而设计的基准测试。\n- 它为什么重要：RTS 游戏需要 VLM 在不确定、动态且有其他玩家（AI 或人类）参与的环境中进行长期规划、预测对手行为和协作。这比当前许多静态的 VLM 评估更接近真实世界的复杂性，对开发更强大的 AI 代理至关重要。\n- 技术趋势标签：AI, agent, game systems, VLM, reasoning, planning, 具身智能 (Embodied Agents - 游戏中的代理可以看作一种形式), Minecraft/世界生成 (类比)\n- 可复用模式：**游戏化评估 (Gamified Evaluation)** - 利用复杂游戏环境来挑战和评估 AI 的高级能力，特别是与多智能体交互和战略规划相关的能力。\n- 疯狂发明家灵感：\n    1.  **一个小的实验：** 尝试让一个基础 VLM（如 GPT-4V）分析一个 RTS 游戏的录像片段，并预测下一秒可能发生的事件或玩家的下一步行动。\n    2.  **一个中型的项目：** 构建一个“AI 战术分析师”工具。输入 RTS 游戏录像，AI 能够识别关键战术，预测对手的战略意图，并为玩家提供战术建议。可以考虑与 Minecraft 的录像分析结合。\n    3.  **一个艺术/游戏/叙事方向：** 设计一个“AI 导演”系统，用于生成 RTS 游戏中的叙事事件。AI 可以观察游戏进程，并根据玩家的行为、游戏状态和潜在的对手策略，动态生成具有戏剧性的事件或对话。\n- 对我项目的启发：为你的游戏系统设计提供新的评估维度，以及为 AI 代理设计更具挑战性的“心智模型”和规划能力。\n- 今天是否值得深入研究：是\n- 建议行动：收藏 / 试用（如果 RTS 游戏接口可用）\n\n---\n\n## [User as Engram: 将用户记忆作为局部参数编辑来内化]\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2606.19172\n- 一句话解释：一种新的个性化 LLM 的方法，不是把用户的记忆（事实）存储在模型外部，而是像大脑一样，将每个用户/事件的记忆“编码”到模型参数的局部区域，同时保留共享的推理能力。\n- 它为什么重要：解决了当前 LLM 个性化中的一个关键瓶颈：如何让模型既能记住大量个体信息，又不损害其通用能力，并且高效。这对于构建需要长期记忆和个性化交互的 AI 代理至关重要。\n- 技术趋势标签：AI, LLM, memory, personalization, parameter-efficient fine-tuning, HCI, agent workflow\n- 可复用模式：**参数化记忆 (Parametric Memory)** - 将外部知识或记忆直接集成到模型权重中，而非仅通过检索。\n- 疯狂发明家灵感：\n    1.  **一个小的实验：** 尝试为一个简单的文本生成模型，用“参数化记忆”的方式，让它记住几个关于特定主题（如某个虚构角色）的“事实”，并在生成相关文本时引用这些事实。\n    2.  **一个中型的项目：** 开发一个“AI 故事伙伴”。模型能够学习用户的故事创作偏好、角色设定、情节线索，并将这些信息“编码”到模型中，在后续的故事创作中保持一致性，并且能根据用户反馈进行“局部调整”。\n    3.  **一个艺术/游戏/叙事方向：** 创造一个“动态世界生成器”。模型根据玩家在游戏中的行为和选择（即“用户记忆”），动态地修改游戏世界的某些属性或生成新的内容，使世界真正地“记住”并响应玩家的历程。\n- 对我项目的启发：为你的 AI 代理和世界生成系统提供一种更深层次、更具内聚力的个性化和长期记忆机制。\n- 今天是否值得深入研究：是\n- 建议行动：收藏 / 做demo (概念验证)\n\n---\n\n## [Decoupling Search from Reasoning: LLM Agent 的供应商无关的地面化架构]\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2606.18947\n- 一句话解释：提出一种解耦 LLM Agent 的搜索（检索信息）和推理（处理信息）的架构，使得搜索部分更加灵活，可以替换不同的搜索工具，并且更容易检查和控制。\n- 它为什么重要：当前的 LLM Agent 通常将搜索和推理紧密耦合，导致难以优化、替换搜索源或理解搜索结果如何影响推理。这种解耦能提高 Agent 的适应性、可调试性和效率。\n- 技术趋势标签：AI, agent, LLM, reasoning, retrieval, LLM工具链 (Toolchains), spec-driven development (通过解耦实现更精细的控制)\n- 可复用模式：**搜索-推理分离 (Search-Reasoning Separation)** - 将信息检索模块与核心决策/生成模块独立开，允许独立优化和替换。\n- 疯狂发明家灵感：\n    1.  **一个小的实验：** 构建一个简单的 Agent，它能接收一个问题，然后调用一个独立的“搜索模块”（可以是简单的关键词搜索或 API 调用），获取信息，再将信息传递给一个 LLM 进行回答。\n    2.  **一个中型的项目：** 开发一个“智能研究助手”平台。用户输入一个研究主题，Agent 能够灵活地接入不同的信息源（网络搜索、学术数据库 API、本地文件），并根据结果进行综合分析和报告。关键在于，你可以轻松切换或添加新的信息源。\n    3.  **一个艺术/游戏/叙事方向：** 创造一个“AI 编剧助手”。Agent 能够根据用户提供的故事大纲或场景描述，通过调用不同的“信息源”（如历史事件数据库、文学作品分析工具、世界文化知识库），来丰富情节、生成细节、检查逻辑一致性。\n- 对我项目的启发：让你设计更模块化、更易于扩展和调试的 LLM Agent 系统，特别是在需要集成多种外部工具或数据源时。\n- 今天是否值得深入研究：是\n- 建议行动：收藏 / 做demo\n\n---\n\n## [ labring / FastGPT: 基于 LLM 的知识平台 ]\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/labring/FastGPT\n- 一句话解释：一个开箱即用的、基于 LLM 的知识平台，集成了数据处理、RAG（检索增强生成）和可视化的 AI 工作流编排。\n- 它为什么重要：FastGPT 提供了一个快速构建问答系统和知识管理应用的框架，特别是其可视化工作流编排能力，非常适合非专业开发者快速实现复杂的 AI 应用，并且支持 RAG，这是当前 LLM 应用的核心技术之一。\n- 技术趋势标签：AI, LLM, workflow, GPT, RAG, retrieval, LLM工具链, 自动化系统, creative tool\n- 可复用模式：**可视化 AI 工作流 (Visual AI Workflow Orchestration)** - 通过图形界面连接和配置 AI 组件，实现复杂任务的自动化。\n- 疯狂发明家灵感：\n    1.  **一个小的实验：** 使用 FastGPT 快速搭建一个简单的“个人知识库问答系统”。上传一些 Markdown 文档，然后尝试问它里面的问题。\n    2.  **一个中型的项目：** 构建一个“AI 创意内容生成器”。利用 FastGPT 的可视化工作流，连接一个 LLM 负责文本生成，一个 RAG 模块负责提供灵感素材（如从你的艺术作品库中检索），再连接一个简单的图像生成 API。你可以设计各种工作流来生成诗歌、故事梗概、甚至概念艺术的描述。\n    3.  **一个艺术/游戏/叙事方向：** 开发一个“AI 游戏 NPC 知识库”。将游戏世界的 lore、角色背景、任务信息等数据导入 FastGPT，构建一个 RAG 系统，让 NPC 能够基于这些知识与玩家进行更丰富、更一致的对话。你可以通过可视化工作流来设计 NPC 的对话逻辑和信息检索策略。\n- 对我项目的启发：提供了一个现成的、易于上手的工具来快速实现 RAG 和工作流自动化，非常适合快速原型开发和实验。\n- 今天是否值得深入研究：是\n- 建议行动：收藏 / 试用\n\n---\n\n## 今日模式总结\n今天我们看到了几个关键模式：\n\n1.  **可解释与可信赖的 AI (Interpretable & Trustworthy AI):** 强调 AI 的决策过程需要透明化、可追溯，例如 CaVe-VLM-CoT 框架，这对于艺术、设计和需要高精度交互的领域至关重要。\n2.  **多模态与复杂环境中的 AI 代理 (Multimodal & Complex Environment Agents):** 聚焦于 AI 代理在更真实、更动态的环境（如 RTS 游戏）中的表现，以及如何评估和提升其战略推理能力，RTSGameBench 是一个很好的例子。\n3.  **个性化与长时记忆的 AI (Personalized & Long-Term Memory AI):** 探索如何让 AI 真正“记住”用户和环境信息，并将其内化以实现更深度的个性化和连贯性，User as Engram 提出的参数化记忆是一个突破。\n4.  **模块化与解耦的 AI 工具链 (Modular & Decoupled AI Toolchains):** 强调将 AI 系统拆分成可独立优化、替换的组件，如搜索与推理的分离，以及使用可视化工具（FastGPT）来编排工作流，这大大提升了开发效率和系统的灵活性。\n\n## 今日可做小实验\n**项目名：** 图像故事碎片生成器\n\n**目标：** 利用 CaVe-VLM-CoT 的“可溯源生成”思想，让 AI 基于一张图片生成一段“故事碎片”，并且指出图片中是哪个区域“触发”了这段故事的生成。\n\n**输入：** 一张图片（例如，你自己的某个概念艺术草图，或者一张有故事感的照片）。\n\n**输出：**\n1.  一段简短的（3-5句话）故事描述，与图片内容相关。\n2.  一个标注了图片区域的“证据图”，表示故事的哪个部分来源于图片的哪个视觉元素。\n\n**技术栈：**\n*   Python\n*   一个基础的 VLM 模型（例如，如果你有访问权限，可以使用 LLaVA 或类似模型，或者通过 API 调用如 GPT-4V）\n*   一个图像处理库（如 Pillow/PIL）\n*   （可选）一个简单的 Web 框架（如 Flask/Streamlit）来展示结果。\n\n**第一步怎么做：**\n1.  **获取图片：** 选择一张图片作为你的输入。\n2.  **调用 VLM API/模型：** 向 VLM 提出一个 prompt，例如：“请根据这张图片，生成一段富有想象力的故事碎片。同时，请尽量指出图片中是哪个区域或哪些元素启发了你故事的某一部分。返回故事文本和一个说明性的‘证据图’（可以使用bounding boxes或高亮区域表示）。”\n3.  **处理输出：** 解析 VLM 返回的故事文本和“证据图”。如果 VLM 支持返回 bounding boxes，直接使用它们。如果不支持，你可以尝试让 VLM 用文字描述出“关键区域”，然后你自己手动在图片上圈出。\n4.  **展示结果：** 将原始图片、生成的故事文本和证据图（例如，在原图上叠加一个高亮框）一起展示出来。\n\n这个实验可以在 2 小时内完成，特别是如果你能找到一个支持“视觉注意力”或“区域标注”的 VLM API。它直接体现了 CaVe-VLM-CoT 的核心思想，并能立即产生有趣的可视化结果！",
+  "gemini_success": true,
+  "telegram_sent": true,
+  "telegram_status": "sent",
+  "telegram_reason": ""
+}
