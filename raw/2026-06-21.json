@@ -1,0 +1,292 @@
+[
+  {
+    "title": "Human-on-the-Loop Orchestration for AI-Assisted Legal Discovery",
+    "url": "https://arxiv.org/abs/2606.19812",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 20 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.19812v1 Announce Type: new \nAbstract: Autonomous Large Language Model (LLM) agents are increasingly deployed in electronic discovery (e-discovery), where compounding errors across multi-step reasoning chains can constitute legal malpractice. Unlike single-turn retrieval, agentic workflows operating over privileged document corpora exhibit a class of failure we term \"trajectory collapse\": an early misclassification silently propagates, rendering an entire privilege review invalid. This",
+    "score": 16.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "language model",
+      "autonomous",
+      "reasoning",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "ORAgentBench: Can LLM Agents Solve Challenging Operations Research Tasks End to End?",
+    "url": "https://arxiv.org/abs/2606.19787",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 20 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.19787v1 Announce Type: new \nAbstract: Large language models are increasingly deployed as autonomous agents for multi-step tasks in executable environments, yet their ability to perform realistic operations research (OR) work remains unclear. Existing OR evaluations often decouple modeling from solving, rely on pre-formalized or text-only instances, and rarely test the full workflow from operational artifacts to validated decisions. In this work, we introduce ORAgentBench, an execution",
+    "score": 14.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "language model",
+      "autonomous",
+      "RAG"
+    ]
+  },
+  {
+    "title": "ruvnet / ruflo",
+    "url": "https://github.com/ruvnet/ruflo",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "🌊 The leading agent meta-harness for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration [182 stars today]",
+    "score": 14.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "workflow",
+      "autonomous",
+      "RAG",
+      "memory"
+    ]
+  },
+  {
+    "title": "Deontic Policies for Runtime Governance of Agentic AI Systems",
+    "url": "https://arxiv.org/abs/2606.19464",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 20 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.19464v1 Announce Type: new \nAbstract: Autonomous agentic AI systems driven by Large Language Models (LLMs) introduce a new class of security, privacy, and compliance challenges: an agent that can invoke tools, manipulate data, install software, and coordinate with peer agents across organizational boundaries must be constrained not just by authentication and access control, but by the full structure of enterprise governance. This includes specifying what agents are permitted and prohi",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "Configurable Clinical Information Extraction with Agentic RAG: What Works, What Breaks, and Why",
+    "url": "https://arxiv.org/abs/2606.19602",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 20 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.19602v1 Announce Type: new \nAbstract: Patient contexts span hundreds of heterogeneous documents and thousands of structured data points, yet the document-level metadata that AI systems need for retrieval and triage is absent or incomplete. Standard retrieval-augmented generation fails on this data, mishandling temporal reasoning, cross-document dependencies, and missing metadata. We deploy ACIE (Agentic Clinical Information Extraction) at University Medicine Essen: an on-premise agent",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "RAG",
+      "reasoning",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "mukul975 / Anthropic-Cybersecurity-Skills",
+    "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0 [343 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "Gemini",
+      "Copilot"
+    ]
+  },
+  {
+    "title": "Emergent Alignment",
+    "url": "https://arxiv.org/abs/2606.19527",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 20 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.19527v1 Announce Type: new \nAbstract: Can Large Language Models (LLMs) discern when their own outputs are misaligned with human ethics? And can they self-correct? We endow an LLM with a conscience step that reviews its own reasoning and outputs, and we extend the training loss with an alignment component using Direct Preference Optimization (DPO) to steer the model away from non-ethical outputs. The result is an online technique to align models in a wide range of applications: trainin",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "ITNet: A Learnable Integral Transform That Subsumes Convolution, Attention, and Recurrence",
+    "url": "https://arxiv.org/abs/2606.19538",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 20 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.19538v1 Announce Type: new \nAbstract: Convolutional networks, recurrent networks, and transformers each encode different inductive biases -- locality, sequential memory, and content-dependent pairwise interaction -- and have remained mathematically distinct since their inception. We show that this fragmentation reflects not a fundamental diversity in how signals should be processed, but rather incomplete views of a single underlying mathematical object: a learnable integral transform.",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "transformer",
+      "RAG",
+      "memory"
+    ]
+  },
+  {
+    "title": "Uncertainty Decomposition for Clarification Seeking in LLM Agents",
+    "url": "https://arxiv.org/abs/2606.19559",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 20 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.19559v1 Announce Type: new \nAbstract: Recent position papers argue that the classical aleatoric/epistemic uncertainty framework is insufficient for interactive large language model (LLM) agents and call for underspecification-aware, decomposed, and communicable uncertainty representations that can unlock new agent capabilities such as proactive clarification seeking and shared mental-model building. Practical deployment constraints -- black-box APIs, interactive latency budgets, and t",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model"
+    ]
+  },
+  {
+    "title": "Analyzing the Narration Gap in LLM-Solver Loops",
+    "url": "https://arxiv.org/abs/2606.19588",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 20 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.19588v1 Announce Type: new \nAbstract: Formal tools such as SAT and SMT solvers are increasingly embedded in language model reasoning pipelines when a safety or security critical question can be formulated in logic. Unlike chain of thought whose steps are sampled from the model distribution without formal guarantee, a solver produces a sound and independently verifiable answer. However, the soundness guarantee can be lost in the interaction between the solver and the model. The hybrid ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Which Pairs to Compare for LLM Post-Training?",
+    "url": "https://arxiv.org/abs/2606.19607",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 20 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.19607v1 Announce Type: new \nAbstract: Preference-based post-training has become a central paradigm for aligning language models. A common data-collection strategy is to generate a small set of completions for each prompt and label the resulting comparison pairs. However, human preference labels are often much more expensive than generating additional completions, suggesting a different use of the same labeling budget: generate a larger pool of completions, but label only the most info",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "prompt"
+    ]
+  },
+  {
+    "title": "BrainG3N: A Dual-Purpose Tokenizer for Controllable 3D Brain MRI Generation",
+    "url": "https://arxiv.org/abs/2606.19651",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 20 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.19651v1 Announce Type: new \nAbstract: Three-dimensional (3D) brain MRI is central to clinical neurology and neuro-oncology, where generative models could augment under-represented cohorts, simulate disease trajectories, and support privacy-preserving data sharing. Latent diffusion has been the go-to solution for modeling imaging data, but it places two competing demands on the tokenizer: encoder embeddings must retain the clinical information that downstream tasks act on, and the deco",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "diffusion",
+      "embedding",
+      "generative"
+    ]
+  },
+  {
+    "title": "Beyond Static Leaderboards: Predictive Validity for the Evaluation of LLM Agents",
+    "url": "https://arxiv.org/abs/2606.19704",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 20 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.19704v1 Announce Type: new \nAbstract: Agent benchmarks are growing fast, but no single benchmark touches more than four or five of the dimensions that deployment exposes. This paper aggregates the largest coordinated deep-dive of one MCP-based industrial-agent benchmark to date: fourteen parallel implementation studies covering new asset classes (including a multi-modal visual extension), alternative orchestrations, retrieval strategies, reasoning modes, infrastructure optimizations, ",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "reasoning",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "A Comparative Study of Pretrained Transformer Models for Quranic ASR: Speech Representations, Label Formats, and Dataset Composition",
+    "url": "https://arxiv.org/abs/2606.19747",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 20 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.19747v1 Announce Type: new \nAbstract: Quran Automatic Speech Recognition (ASR) aims to convert Quranic recitation into text, enabling applications such as aided memorisation tools and Quranic search engines. However, existing ASR models often exhibit high Word Error Rates (WER) on user-recited verses and lack full coverage of the Quranic corpus. This paper presents a systematic empirical study of domain-specific fine-tuning of pretrained Transformer-based models for Quranic ASR, using",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "transformer",
+      "RAG",
+      "fine-tuning"
+    ]
+  },
+  {
+    "title": "Beyond Entropy: Learning from Token-Level Distributional Deviations for LLM Reasoning",
+    "url": "https://arxiv.org/abs/2606.19771",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 20 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.19771v1 Announce Type: new \nAbstract: Reinforcement Learning with Verifiable Rewards (RLVR) has significantly advanced Large Language Model (LLM) reasoning; however, it faces a fundamental optimization instability: uniform token updates precipitate entropy collapse, leading to premature convergence to suboptimal strategies, whereas excessive Shannon Entropy maximization can cause entropy explosion, driving blind exploration toward incoherent reasoning chains. To resolve this dichotomy",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "MetaResearcher: Scaling Deep Research via Self-Reflective Reinforcement Learning in Adversarial Virtual Environments",
+    "url": "https://arxiv.org/abs/2606.19893",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 20 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.19893v1 Announce Type: new \nAbstract: Deep research agents have demonstrated remarkable capabilities in autonomous information gathering and synthesis, yet their training remains constrained by the static nature of simulated environments, the limits of fact-retrieval-only task designs, and the inefficiency of outcome-based reinforcement learning. In this work, we propose MetaResearcher, a novel framework that scales deep research agent training across four synergistic dimensions. Firs",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "autonomous",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Multi-Agent Transactive Memory",
+    "url": "https://arxiv.org/abs/2606.19911",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 20 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.19911v1 Announce Type: new \nAbstract: The decentralized deployment of LLM agents with diverse capabilities across diverse tasks motivates infrastructure for knowledge sharing across heterogeneous agent populations. Just as search engines index human-generated artifacts to support human problem solving, retrieval systems can organize agent-generated artifacts for reuse across agent populations. We extend retrieval-augmented generation - which demonstrates the value of human-authored ar",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "memory",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Diffusion Language Models: An Experimental Analysis",
+    "url": "https://arxiv.org/abs/2606.19475",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 20 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.19475v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have revolutionized language modeling through autoregressive generation, enabling strong performance across a wide range of tasks. Recently, Diffusion Language Models (DLMs) have emerged as an alternative paradigm that generates text through iterative denoising rather than next-token prediction, allowing parallel refinement of entire sequences. While numerous diffusion-based architectures have been proposed, difference",
+    "score": 6.0,
+    "keywords_matched": [
+      "LLM",
+      "diffusion",
+      "language model"
+    ]
+  },
+  {
+    "title": "Hidden Anchors in Multi-Agent LLM Deliberation",
+    "url": "https://arxiv.org/abs/2606.19494",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 20 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.19494v1 Announce Type: new \nAbstract: Multi-agent LLM deliberation, where agents exchange and revise answers over several rounds, is increasingly used to improve reasoning and accuracy, yet how and why it works is rarely modelled. Such deliberation mirrors how humans reach decisions. As social animals we are pulled both by the group, the herd effect that classical opinion-dynamics models such as DeGroot and Friedkin--Johnsen capture, and by our own internal belief, which they do not. ",
+    "score": 6.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "LLM Doesn't Know What It Doesn't Know: Detecting Epistemic Blind Spots via Cross-Model Attribution Divergence on Clinical Tabular Data",
+    "url": "https://arxiv.org/abs/2606.19509",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 20 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.19509v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly applied to structured clinical data, yet whether they can recognize the limits of their own knowledge on such tasks remains unexplored. We study this question through the lens of cross-model attribution divergence with the goal of reducing epistemic uncertainty for structured tasks, comparing Qwen 2.5 7B and XGBoost on a prediction task via attribution divergence analysis. We report four findings. Firs",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model"
+    ]
+  }
+]

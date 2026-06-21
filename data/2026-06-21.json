@@ -1,0 +1,300 @@
+{
+  "date": "2026-06-21",
+  "candidates": [
+    {
+      "title": "Human-on-the-Loop Orchestration for AI-Assisted Legal Discovery",
+      "url": "https://arxiv.org/abs/2606.19812",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 20 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.19812v1 Announce Type: new \nAbstract: Autonomous Large Language Model (LLM) agents are increasingly deployed in electronic discovery (e-discovery), where compounding errors across multi-step reasoning chains can constitute legal malpractice. Unlike single-turn retrieval, agentic workflows operating over privileged document corpora exhibit a class of failure we term \"trajectory collapse\": an early misclassification silently propagates, rendering an entire privilege review invalid. This",
+      "score": 16.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "workflow",
+        "language model",
+        "autonomous",
+        "reasoning",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "ORAgentBench: Can LLM Agents Solve Challenging Operations Research Tasks End to End?",
+      "url": "https://arxiv.org/abs/2606.19787",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 20 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.19787v1 Announce Type: new \nAbstract: Large language models are increasingly deployed as autonomous agents for multi-step tasks in executable environments, yet their ability to perform realistic operations research (OR) work remains unclear. Existing OR evaluations often decouple modeling from solving, rely on pre-formalized or text-only instances, and rarely test the full workflow from operational artifacts to validated decisions. In this work, we introduce ORAgentBench, an execution",
+      "score": 14.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "workflow",
+        "language model",
+        "autonomous",
+        "RAG"
+      ]
+    },
+    {
+      "title": "ruvnet / ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "🌊 The leading agent meta-harness for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration [182 stars today]",
+      "score": 14.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "workflow",
+        "autonomous",
+        "RAG",
+        "memory"
+      ]
+    },
+    {
+      "title": "Deontic Policies for Runtime Governance of Agentic AI Systems",
+      "url": "https://arxiv.org/abs/2606.19464",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 20 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.19464v1 Announce Type: new \nAbstract: Autonomous agentic AI systems driven by Large Language Models (LLMs) introduce a new class of security, privacy, and compliance challenges: an agent that can invoke tools, manipulate data, install software, and coordinate with peer agents across organizational boundaries must be constrained not just by authentication and access control, but by the full structure of enterprise governance. This includes specifying what agents are permitted and prohi",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "Configurable Clinical Information Extraction with Agentic RAG: What Works, What Breaks, and Why",
+      "url": "https://arxiv.org/abs/2606.19602",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 20 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.19602v1 Announce Type: new \nAbstract: Patient contexts span hundreds of heterogeneous documents and thousands of structured data points, yet the document-level metadata that AI systems need for retrieval and triage is absent or incomplete. Standard retrieval-augmented generation fails on this data, mishandling temporal reasoning, cross-document dependencies, and missing metadata. We deploy ACIE (Agentic Clinical Information Extraction) at University Medicine Essen: an on-premise agent",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "RAG",
+        "reasoning",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "mukul975 / Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0 [343 stars today]",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "Gemini",
+        "Copilot"
+      ]
+    },
+    {
+      "title": "Emergent Alignment",
+      "url": "https://arxiv.org/abs/2606.19527",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 20 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.19527v1 Announce Type: new \nAbstract: Can Large Language Models (LLMs) discern when their own outputs are misaligned with human ethics? And can they self-correct? We endow an LLM with a conscience step that reviews its own reasoning and outputs, and we extend the training loss with an alignment component using Direct Preference Optimization (DPO) to steer the model away from non-ethical outputs. The result is an online technique to align models in a wide range of applications: trainin",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "ITNet: A Learnable Integral Transform That Subsumes Convolution, Attention, and Recurrence",
+      "url": "https://arxiv.org/abs/2606.19538",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 20 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.19538v1 Announce Type: new \nAbstract: Convolutional networks, recurrent networks, and transformers each encode different inductive biases -- locality, sequential memory, and content-dependent pairwise interaction -- and have remained mathematically distinct since their inception. We show that this fragmentation reflects not a fundamental diversity in how signals should be processed, but rather incomplete views of a single underlying mathematical object: a learnable integral transform.",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "transformer",
+        "RAG",
+        "memory"
+      ]
+    },
+    {
+      "title": "Uncertainty Decomposition for Clarification Seeking in LLM Agents",
+      "url": "https://arxiv.org/abs/2606.19559",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 20 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.19559v1 Announce Type: new \nAbstract: Recent position papers argue that the classical aleatoric/epistemic uncertainty framework is insufficient for interactive large language model (LLM) agents and call for underspecification-aware, decomposed, and communicable uncertainty representations that can unlock new agent capabilities such as proactive clarification seeking and shared mental-model building. Practical deployment constraints -- black-box APIs, interactive latency budgets, and t",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model"
+      ]
+    },
+    {
+      "title": "Analyzing the Narration Gap in LLM-Solver Loops",
+      "url": "https://arxiv.org/abs/2606.19588",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 20 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.19588v1 Announce Type: new \nAbstract: Formal tools such as SAT and SMT solvers are increasingly embedded in language model reasoning pipelines when a safety or security critical question can be formulated in logic. Unlike chain of thought whose steps are sampled from the model distribution without formal guarantee, a solver produces a sound and independently verifiable answer. However, the soundness guarantee can be lost in the interaction between the solver and the model. The hybrid ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Which Pairs to Compare for LLM Post-Training?",
+      "url": "https://arxiv.org/abs/2606.19607",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 20 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.19607v1 Announce Type: new \nAbstract: Preference-based post-training has become a central paradigm for aligning language models. A common data-collection strategy is to generate a small set of completions for each prompt and label the resulting comparison pairs. However, human preference labels are often much more expensive than generating additional completions, suggesting a different use of the same labeling budget: generate a larger pool of completions, but label only the most info",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "prompt"
+      ]
+    },
+    {
+      "title": "BrainG3N: A Dual-Purpose Tokenizer for Controllable 3D Brain MRI Generation",
+      "url": "https://arxiv.org/abs/2606.19651",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 20 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.19651v1 Announce Type: new \nAbstract: Three-dimensional (3D) brain MRI is central to clinical neurology and neuro-oncology, where generative models could augment under-represented cohorts, simulate disease trajectories, and support privacy-preserving data sharing. Latent diffusion has been the go-to solution for modeling imaging data, but it places two competing demands on the tokenizer: encoder embeddings must retain the clinical information that downstream tasks act on, and the deco",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "diffusion",
+        "embedding",
+        "generative"
+      ]
+    },
+    {
+      "title": "Beyond Static Leaderboards: Predictive Validity for the Evaluation of LLM Agents",
+      "url": "https://arxiv.org/abs/2606.19704",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 20 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.19704v1 Announce Type: new \nAbstract: Agent benchmarks are growing fast, but no single benchmark touches more than four or five of the dimensions that deployment exposes. This paper aggregates the largest coordinated deep-dive of one MCP-based industrial-agent benchmark to date: fourteen parallel implementation studies covering new asset classes (including a multi-modal visual extension), alternative orchestrations, retrieval strategies, reasoning modes, infrastructure optimizations, ",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "reasoning",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "A Comparative Study of Pretrained Transformer Models for Quranic ASR: Speech Representations, Label Formats, and Dataset Composition",
+      "url": "https://arxiv.org/abs/2606.19747",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 20 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.19747v1 Announce Type: new \nAbstract: Quran Automatic Speech Recognition (ASR) aims to convert Quranic recitation into text, enabling applications such as aided memorisation tools and Quranic search engines. However, existing ASR models often exhibit high Word Error Rates (WER) on user-recited verses and lack full coverage of the Quranic corpus. This paper presents a systematic empirical study of domain-specific fine-tuning of pretrained Transformer-based models for Quranic ASR, using",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "transformer",
+        "RAG",
+        "fine-tuning"
+      ]
+    },
+    {
+      "title": "Beyond Entropy: Learning from Token-Level Distributional Deviations for LLM Reasoning",
+      "url": "https://arxiv.org/abs/2606.19771",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 20 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.19771v1 Announce Type: new \nAbstract: Reinforcement Learning with Verifiable Rewards (RLVR) has significantly advanced Large Language Model (LLM) reasoning; however, it faces a fundamental optimization instability: uniform token updates precipitate entropy collapse, leading to premature convergence to suboptimal strategies, whereas excessive Shannon Entropy maximization can cause entropy explosion, driving blind exploration toward incoherent reasoning chains. To resolve this dichotomy",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "MetaResearcher: Scaling Deep Research via Self-Reflective Reinforcement Learning in Adversarial Virtual Environments",
+      "url": "https://arxiv.org/abs/2606.19893",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 20 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.19893v1 Announce Type: new \nAbstract: Deep research agents have demonstrated remarkable capabilities in autonomous information gathering and synthesis, yet their training remains constrained by the static nature of simulated environments, the limits of fact-retrieval-only task designs, and the inefficiency of outcome-based reinforcement learning. In this work, we propose MetaResearcher, a novel framework that scales deep research agent training across four synergistic dimensions. Firs",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "autonomous",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Multi-Agent Transactive Memory",
+      "url": "https://arxiv.org/abs/2606.19911",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 20 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.19911v1 Announce Type: new \nAbstract: The decentralized deployment of LLM agents with diverse capabilities across diverse tasks motivates infrastructure for knowledge sharing across heterogeneous agent populations. Just as search engines index human-generated artifacts to support human problem solving, retrieval systems can organize agent-generated artifacts for reuse across agent populations. We extend retrieval-augmented generation - which demonstrates the value of human-authored ar",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "memory",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Diffusion Language Models: An Experimental Analysis",
+      "url": "https://arxiv.org/abs/2606.19475",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 20 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.19475v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have revolutionized language modeling through autoregressive generation, enabling strong performance across a wide range of tasks. Recently, Diffusion Language Models (DLMs) have emerged as an alternative paradigm that generates text through iterative denoising rather than next-token prediction, allowing parallel refinement of entire sequences. While numerous diffusion-based architectures have been proposed, difference",
+      "score": 6.0,
+      "keywords_matched": [
+        "LLM",
+        "diffusion",
+        "language model"
+      ]
+    },
+    {
+      "title": "Hidden Anchors in Multi-Agent LLM Deliberation",
+      "url": "https://arxiv.org/abs/2606.19494",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 20 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.19494v1 Announce Type: new \nAbstract: Multi-agent LLM deliberation, where agents exchange and revise answers over several rounds, is increasingly used to improve reasoning and accuracy, yet how and why it works is rarely modelled. Such deliberation mirrors how humans reach decisions. As social animals we are pulled both by the group, the herd effect that classical opinion-dynamics models such as DeGroot and Friedkin--Johnsen capture, and by our own internal belief, which they do not. ",
+      "score": 6.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "LLM Doesn't Know What It Doesn't Know: Detecting Epistemic Blind Spots via Cross-Model Attribution Divergence on Clinical Tabular Data",
+      "url": "https://arxiv.org/abs/2606.19509",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 20 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.19509v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly applied to structured clinical data, yet whether they can recognize the limits of their own knowledge on such tasks remains unexplored. We study this question through the lens of cross-model attribution divergence with the goal of reducing epistemic uncertainty for structured tasks, comparing Qwen 2.5 7B and XGBoost on a prediction task via attribution divergence analysis. We report four findings. Firs",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-06-21\n\n为你筛选出今日最值得关注的 **4 个** 前沿学术与开源项目。它们完美契合你对 AI 工作流、游戏/叙事系统、HCI 以及 spec-driven 系统的关注，能直接为你的“疯狂发明”提供燃料。\n\n---\n\n## ruvnet / ruflo\n- **来源**：GitHub Trending TypeScript\n- **链接**：https://github.com/ruvnet/ruflo\n- **一句话解释**：一个专为 Claude 设计的高性能多智能体（Multi-agent）群控元框架，支持自学习群体智能、自适应记忆和原生 Claude Code 集成。\n- **它为什么重要**：目前大多数 Agent 框架（如 LangChain）过于笨重。`ruflo` 走的是“轻量级、高并发、元控制（meta-harness）”路线，并且原生适配了目前最强的编程模型 Claude Code。这意味着你可以直接用它来编写“控制 Agent 的 Agent”，非常适合构建自动化的 Spec-to-Code 工作流。\n- **技术趋势标签**：#AgenticWorkflow #TypeScript #ClaudeCode #SwarmIntelligence\n- **可复用模式**：**Meta-Harnessing（元劫持模式）**——不直接调用 LLM API，而是通过程序去劫持、编排和引导已经具备自主能力的终端 Agent（如 Claude Code CLI），实现双层自动化。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：写一个 TS 脚本，启动 3 个 Claude 实例。一个负责写前端，一个负责写后端，第三个充当“挑刺的 PM”，让它们在本地文件夹里通过文件读写“吵架”并最终合成一个单页面 Web 应用。\n  2. **一个中型项目**：“本地游戏 Jam 机器”。输入一个游戏创意，4 个 ruflo 智能体（策划、美术生成、代码、音效索引）协同工作，在 10 分钟内于本地生成一个完整的、可运行的 HTML5 游戏。\n  3. **一个艺术/游戏/叙事方向**：“代码戏剧舞台”。在网页上可视化展示 5 个 Agent 互相重构对方代码的过程。每个 Agent 都有独特的“编程审美”（极简主义、面条代码爱好者、注释狂魔），它们的每一次 Git Commit 都是一次叙事和性格展示。\n- **对我项目的启发**：在你的 Spec-driven 流程中，不要只用一个 Agent 闷头写代码。用 ruflo 搭建一个“架构师-程序员-测试员”三足鼎立的本地群控系统。\n- **今天是否值得深入研究**：是\n- **建议行动**：做 demo\n\n---\n\n## Uncertainty Decomposition for Clarification Seeking in LLM Agents\n- **来源**：arXiv cs.AI (2606.19559)\n- **链接**：https://arxiv.org/abs/2606.19559\n- **一句话解释**：研究如何让 LLM 智能体在面对模糊指令时，主动“解构”自己的不确定性，并向人类提出精准的澄清问题，而不是瞎猜或死机。\n- **它为什么重要**：在 HCI（人机交互）和创意工具设计中，最痛苦的是“意图对齐”。用户输入“给我设计一个酷炫的关卡”，传统 Agent 会直接盲盒生成。而该论文提出的方法让 Agent 能够分析：“我对‘关卡结构’有 80% 把握，但对‘酷炫的定义’（是赛博朋克还是废土风）只有 20% 把握”，从而主动向你提问。\n- **技术趋势标签**：#HCI #ActiveClarification #UncertaintyEstimation #CreativeTools\n- **可复用模式**：**Active Clarification Loop（主动澄清循环）**——在执行前计算 Token 的概率分布或使用 Prompt 自省，将“不确定性”分类，转化为人类可选择的多选题。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：一个 SVG 绘图助手。当你输入“画一只猫”时，它不直接画，而是分析自己的不确定性，弹出提示：“你想要的是（A）极简简笔画，还是（B）复杂的几何猫？”确认后再下笔。\n  2. **一个中型项目**：一个“打破沙锅问到底”的 spec-driven 需求分析器。它会拿着你的草率 Spec，连续提出 3 个直击灵魂的架构级问题，逼迫你把 Spec 完善后，才允许你开始生成代码。\n  3. **一个艺术/游戏/叙事方向**：“社恐的 NPC”。游戏里的 NPC 不再机械地回答问题。如果你给的线索不明确，NPC 会表现出疑惑、焦虑，并根据它自身的“性格参数”向玩家追问细节，甚至把“澄清问题”变成解谜任务的一部分。\n- **对我项目的启发**：极大地优化你的 Agent 工作流。在 Agent 执行高风险任务（如删改代码、生成关键世界配置文件）前，引入不确定性检测，让它“不懂就问”。\n- **今天是否值得深入研究**：是\n- **建议行动**：试用 / 记入设计模式\n\n---\n\n## Analyzing the Narration Gap in LLM-Solver Loops\n- **来源**：arXiv cs.AI (2606.19588)\n- **链接**：https://arxiv.org/abs/2606.19588\n- **一句话解释**：探讨如何将“感性”的 LLM 与“理性”的形式化求解器（如 SAT/SMT 求解器）结合，解决 LLM 生成内容缺乏硬性逻辑保证的问题。\n- **它为什么重要**：LLM 擅长“写故事/吹水”（Vibe），而 Solver（求解器）擅长“算逻辑/解约束”（Logic）。比如在 Minecraft 世界生成中，LLM 负责设计地牢的“克苏鲁氛围描述”，而 Solver 负责计算“地牢的门和钥匙分布是否绝对有解（不会出现死锁）”。两者的结合是程序化生成（PCG）的圣杯。\n- **技术趋势标签**：#NeuroSymbolic #SolverLoop #ProceduralGeneration #Minecraft\n- **可复用模式**：**Neuro-Symbolic Translation（神智融合循环）**——LLM 负责生成文本草稿 -> 解析器提取逻辑约束 -> 求解器验证 -> 求解器将失败原因反馈给 LLM 进行修正。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：用 Python 的 `z3-solver` 配合 gpt-4o-mini，做一个“绝对有解的数独谜题生成器”。LLM 负责给数独包装一个奇幻的背景故事，Z3 负责确保数独矩阵有唯一解。\n  2. **一个中型项目**：Minecraft 关卡 spec 生成器。用户用自然语言描述：“我想要一个跳跃解谜关卡，岩浆在下面，难度中等。”系统将其翻译为 Z3 约束，计算出方块的绝对坐标，然后在 Minecraft 中自动摆放。\n  3. **一个艺术/游戏/叙事方向**：“逻辑完美的侦探游戏”。LLM 动态生成嫌疑人对话，但后台有一个 SAT 求解器实时监控所有的谎言和线索。如果玩家指出了逻辑矛盾，求解器会立刻锁定罪犯，确保游戏绝不会因为 LLM 的胡说八道而产生剧情硬伤。\n- **对我项目的启发**：对于 Spec-driven 流程，不能只靠 LLM 自我审查。引入一个轻量级的 AST 编译器或逻辑验证器（如 JSON Schema 校验），作为 LLM 生成代码的“物理定律”。\n- **今天是否值得深入研究**：是（强烈推荐，非常适合跨学科背景）\n- **建议行动**：做 demo\n\n---\n\n## Multi-Agent Transactive Memory\n- **来源**：arXiv cs.AI (2606.19911)\n- **链接**：https://arxiv.org/abs/2606.19911\n- **一句话解释**：提出了一种去中心化的“交互记忆”机制，让多个异构 Agent 可以像人类社会一样，互相检索和分享彼此生成的知识与工具。\n- **它为什么重要**：传统的 Multi-agent 系统中，记忆要么是全局共享的（导致上下文爆炸），要么是完全孤立的。这篇论文模仿了人类心理学中的“交互记忆”（Transactive Memory）——我不必记住所有知识，我只需要记住“谁知道这个知识”。这对于构建大型虚拟社会、NPC 社区或复杂的分布式开发工具至关重要。\n- **技术趋势标签**：#AgentMemory #DecentralizedSystems #SociologicalAI #GameSystems\n- **可复用模式**：**Directory-of-Expertise（专家索引目录）**——Agent 将自己的“专长”和“历史产出”生成向量索引，其他 Agent 遇到困难时，先检索“谁最擅长解决这个问题”，然后定向发起求助。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：在一个本地网络中运行 5 个小 Agent，分别代表不同的“历史学家”（罗马、大唐、玛雅等）。当你问一个跨文化问题时，它们通过一个共享的“黄页”互相引荐、讨论，最后给你一份联合报告。\n  2. **一个中型项目**：Minecraft 智能村民生态。村民 A（矿工）知道金矿坐标，村民 B（铁匠）知道怎么合成高级铁镐。它们不通过上帝视角通信，而是通过“聊天”和“记忆交换索引”进行知识交易。\n  3. **一个艺术/游戏/叙事方向**：“谣言传播模拟器”。在一个虚拟小镇里，Agent 们互相八卦。每个人只记住八卦的碎片和“谁告诉我的”。玩家作为侦探，需要通过审讯不同的人，重建出一条由于“交互记忆偏差”而被扭曲的真相链。\n- **对我项目的启发**：在设计复杂的 Agent 自动化流水线时，避免使用单一的“全知 Agent”，而是设计一个“前台 Agent”作为路由器，根据任务的 Embedding 去检索并唤醒最合适的“专家 Agent”。\n- **今天是否值得深入研究**：是\n- **建议行动**：收藏\n\n---\n\n## 今日模式总结\n\n1. **主动澄清模式 (Active Clarification)**：AI 不再是“有求必应”的死板工具。通过度量自身的不确定性，AI 学会在关键节点“踩刹车”向人类提问，实现高弹性的 HCI 交互。\n2. **神智融合循环 (Neuro-Symbolic Loop)**：将“生成式（LLM）”与“决定式（求解器/验证器）”强强联合。LLM 负责提供创意和叙事包装，求解器负责兜底硬性逻辑和物理规则。\n3. **交互式记忆路由 (Transactive Memory Routing)**：去中心化多智能体系统的新范式。智能体之间通过“元数据索引”了解彼此的专长，实现轻量级、高扩展性的社会化协同。\n\n---\n\n## 今日可做小实验\n\n### 项目名：犹豫不决的 SVG 抽象画家 (The Hesitant SVG Painter)\n- **输入**：用户的一句抽象创意描述（例如：\"A sad robot drinking oil in a rainy cyberpunk city\"）。\n- **输出**：一个精心绘制的 SVG 画作。但在绘制过程中，终端会暂停，指出自己对“悲伤”和“雨夜”在视觉呈现上的不确定性，并提供 3 个极具个性的视觉选项供用户选择，选择后再完成绘制。\n- **技术栈**：\n  - Python / Node.js\n  - OpenAI API (使用 `gpt-4o-mini`，开启 `logprobs` 参数以获取 Token 不确定性，或者直接用 Prompt 进行“自我不确定性解构”)\n  - SVG 渲染查看器（任意浏览器）\n- **第一步怎么做**：\n  1. 编写第一个 Prompt，让 LLM 扮演“艺术策划”。输入用户的创意，让它输出一个 JSON，包含：\n     - 它对这个创意的理解。\n     - 它最不确定的 2 个视觉呈现维度（例如：色彩饱和度、线条粗细）。\n     - 针对这两个维度，为用户提供各 3 个具体选项。\n  2. 在终端展示这些选项，等待用户输入（例如选择 A 或 B）。\n  3. 编写第二个 Prompt，将用户的选择与原始创意合并，命令 LLM 生成最终的纯 SVG 代码。\n  4. 将 SVG 代码保存为 `.svg` 文件，并在浏览器中打开。感受这种“人机协商”带来的独特对齐体验！",
+  "gemini_success": true,
+  "telegram_sent": true,
+  "telegram_status": "sent",
+  "telegram_reason": ""
+}
