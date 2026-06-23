@@ -1,0 +1,247 @@
+[
+  {
+    "title": "mukul975 / Anthropic-Cybersecurity-Skills",
+    "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0 [956 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "Gemini",
+      "Copilot"
+    ]
+  },
+  {
+    "title": "topoteretes / cognee",
+    "url": "https://github.com/topoteretes/cognee",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine. [688 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "memory",
+      "self-hosted"
+    ]
+  },
+  {
+    "title": "vectorize-io / hindsight",
+    "url": "https://github.com/vectorize-io/hindsight",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Hindsight: Agent Memory That Learns [126 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "agent",
+      "vector",
+      "memory"
+    ]
+  },
+  {
+    "title": "lyogavin / airllm",
+    "url": "https://github.com/lyogavin/airllm",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "AirLLM 70B inference with single 4GB GPU [193 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "inference"
+    ]
+  },
+  {
+    "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
+    "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
+    "source": "Hacker News Best",
+    "published_at": "Sun, 21 Jun 2026 22:55:23 +0000",
+    "description": "Article URL: https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions Comments URL: https://news.ycombinator.com/item?id=48623434 Points: 203 # Comments: 46",
+    "score": 4.0,
+    "keywords_matched": [
+      "LLM",
+      "fine-tuning"
+    ]
+  },
+  {
+    "title": "Identity verification on Claude",
+    "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+    "source": "Hacker News Best",
+    "published_at": "Sun, 21 Jun 2026 12:44:13 +0000",
+    "description": "https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_... Comments URL: https://news.ycombinator.com/item?id=48618455 Points: 844 # Comments: 704",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "Claude"
+    ]
+  },
+  {
+    "title": "calesthio / OpenMontage",
+    "url": "https://github.com/calesthio/OpenMontage",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio. [2,938 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "bytedance / deer-flow",
+    "url": "https://github.com/bytedance/deer-flow",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. [738 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "agent",
+      "RAG"
+    ]
+  },
+  {
+    "title": "ZhuLinsen / daily_stock_analysis",
+    "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs. [1,557 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "LLM"
+    ]
+  },
+  {
+    "title": "NVIDIA / skills",
+    "url": "https://github.com/NVIDIA/skills",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "AI agent skills published by NVIDIA [242 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "Q00 / ouroboros",
+    "url": "https://github.com/Q00/ouroboros",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Agent OS: Stop prompting. Start specifying. [15 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "agent",
+      "prompt"
+    ]
+  },
+  {
+    "title": "unclecode / crawl4ai",
+    "url": "https://github.com/unclecode/crawl4ai",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here:https://discord.gg/jP8KfhDhyN [169 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "LLM"
+    ]
+  },
+  {
+    "title": "JCodesMore / ai-website-cloner-template",
+    "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Clone any website with one command using AI coding agents [100 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "corsairdev / corsair",
+    "url": "https://github.com/corsairdev/corsair",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Your Agent's Integration Layer [149 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "tashfeenahmed / freellmapi",
+    "url": "https://github.com/tashfeenahmed/freellmapi",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers (~1.7B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only. [250 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "LLM"
+    ]
+  },
+  {
+    "title": "stablyai / orca",
+    "url": "https://github.com/stablyai/orca",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile. [210 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "DeusData / codebase-memory-mcp",
+    "url": "https://github.com/DeusData/codebase-memory-mcp",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. [1,185 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "RAG",
+      "memory"
+    ]
+  },
+  {
+    "title": "mattpocock / skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Skills for Real Engineers. Straight from my .claude directory. [2,051 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "Claude"
+    ]
+  },
+  {
+    "title": "Runing GLM-5.2 on local hardware",
+    "url": "https://unsloth.ai/docs/models/glm-5.2",
+    "source": "Hacker News",
+    "published_at": "Mon, 22 Jun 2026 21:21:01 +0000",
+    "description": "Article URL: https://unsloth.ai/docs/models/glm-5.2 Comments URL: https://news.ycombinator.com/item?id=48636377 Points: 165 # Comments: 69",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  },
+  {
+    "title": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
+    "url": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509",
+    "source": "Hacker News",
+    "published_at": "Mon, 22 Jun 2026 19:06:48 +0000",
+    "description": "Article URL: https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509 Comments URL: https://news.ycombinator.com/item?id=48634585 Points: 286 # Comments: 153",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  }
+]
