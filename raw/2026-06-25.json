@@ -1,0 +1,297 @@
+[
+  {
+    "title": "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems",
+    "url": "https://arxiv.org/abs/2606.23927",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 24 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.23927v1 Announce Type: new \nAbstract: Agentic AI systems powered by large language models (LLMs) are rapidly evolving into autonomous decision-making systems, exposing attack vectors beyond those of traditional LLM vulnerabilities. Existing security evaluations are often tied to specific implementations or domains, limiting unified comparison across heterogeneous systems. To address this gap, we introduce RIFT-Bench, a graph representation-driven methodology for dynamic red-teaming th",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "autonomous",
+      "vector"
+    ]
+  },
+  {
+    "title": "SP-Mind: An Autonomous Reasoning Agent for Spatial Proteomics Analysis",
+    "url": "https://arxiv.org/abs/2606.24235",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 24 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.24235v1 Announce Type: new \nAbstract: Spatial proteomics enables single-cell-resolution characterization of protein expression within tissue architecture, playing a critical role in understanding tumor microenvironments and guiding precision medicine. However, current analysis workflows remain fragmented, requiring expert manual orchestration of heterogeneous tools and limiting research scalability and reproducibility. We present SP-Mind, the first autonomous AI agent designed to unif",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow",
+      "autonomous",
+      "RAG",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Accelerating Disaggregated RL for Visual Generative LLMs with Diffusion-Based Parallelism and Trainer-Assisted Generation",
+    "url": "https://arxiv.org/abs/2606.24369",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 24 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.24369v1 Announce Type: new \nAbstract: Reinforcement learning (RL) has become a dominant post-training paradigm, driving the emergence of high-performance RL systems such as veRL for autoregressive large language models (LLMs). In parallel, diffusion-oriented RL algorithms, e.g., DanceGRPO and FlowGRPO, have rapidly expanded the scope of RL from language reasoning to diffusion-based visual and flow-based generation. However, efficient RL systems for diffusion generative LLMs remain und",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "diffusion",
+      "language model",
+      "reasoning",
+      "generative"
+    ]
+  },
+  {
+    "title": "ReM-MoA: Reasoning Memory Sustains Mixture-of-Agents Scaling",
+    "url": "https://arxiv.org/abs/2606.24437",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 24 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.24437v1 Announce Type: new \nAbstract: Mixture-of-Agents (MoA) architectures improve inference-time scaling by organizing multiple LLM agents into layered reasoning pipelines. However, existing MoA variants fail to sustain gains as depth increases, exhibiting degradation, early plateauing, or saturation. We propose ReM-MoA, a memory-augmented MoA framework that sustains scaling through two mechanisms: (1) a Ranked Reasoning Memory that persistently stores and ranks reasoning traces fro",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "inference",
+      "reasoning",
+      "memory"
+    ]
+  },
+  {
+    "title": "CompressKV: Semantic-Retrieval-Guided KV-Cache Compression for Resource-Efficient Long-Context LLM Inference",
+    "url": "https://arxiv.org/abs/2606.24467",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 24 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.24467v1 Announce Type: new \nAbstract: Long-context large language model (LLM) inference is increasingly constrained by the memory footprint and decoding cost of key-value (KV) caches, limiting sustainable deployment on resource-constrained hardware. Existing KV cache eviction methods typically apply heuristic token scoring over all heads in GQA-based LLMs. These methods ignore the different functionalities of attention heads, leading to the eviction of critical tokens and thus degradi",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "inference",
+      "memory",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Critique of Agent Model",
+    "url": "https://arxiv.org/abs/2606.23991",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 24 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.23991v1 Announce Type: new \nAbstract: What is an agent? What constitutes agency? With the rise of Large Language Model (LLM) systems marketed as ``coding agents'', ``AI co-scientists'', and other ``agentic\" tools that promise to drive up productivity, and at the same time, ``existential\" concerns such as AI escaping human control with destructive power under a speculative ``machine agency\" against humans, it has become essential to clarify where automation ends and agency begins, both",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "automation",
+      "language model"
+    ]
+  },
+  {
+    "title": "SupplyNet: Supporting Visual Exploratory Learning in Supply Chain via Contextual Multi-Agent Simulation",
+    "url": "https://arxiv.org/abs/2606.24694",
+    "source": "arXiv cs.HC",
+    "published_at": "Wed, 24 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.24694v1 Announce Type: new \nAbstract: Simulation has long supported supply chain management instruction by letting learners observe network behavior and test decision strategies. Recent progress in LLM-driven agents opens new possibilities for richer, more adaptive simulations, but many existing systems still present abstract, opaque data that overwhelms learners and discourages active exploration. We introduce \\textit{SupplyNet}, a gamified visual simulation system built on a context",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "simulation",
+      "RAG"
+    ]
+  },
+  {
+    "title": "\"Zooming In\" on Agentic Web Browsers as Assistive Technologies: A Case Study with a Low-Vision Technology Expert",
+    "url": "https://arxiv.org/abs/2606.24870",
+    "source": "arXiv cs.HC",
+    "published_at": "Wed, 24 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.24870v1 Announce Type: new \nAbstract: Agentic Web Browsers (AWBs), powered by Large Language Models (LLMs), are emerging as autonomous systems capable of navigating the Web on behalf of users. Beyond enhancing productivity, they could also offer significant promise as Assistive Technologies (ATs) for visually-impaired individuals, transforming web interaction into a fluid conversational exchange. In this paper, we present a case study with a low-vision technology expert, examining how",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "Lect\\=uraAgents: A Multi-Agent Framework for Adaptive Personalized AI-Assisted Learning and Embodied Teaching",
+    "url": "https://arxiv.org/abs/2606.16428",
+    "source": "arXiv cs.HC",
+    "published_at": "Wed, 24 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.16428v2 Announce Type: replace-cross \nAbstract: Effective personalized AI-assisted learning demands systems that can not only generate accurate learner-specific educational materials, but also dynamically adapt their instruction to diverse learners. However, existing educational agents have primarily focused on lecture content automation and simulations, which often fall short of modelling multimodal and embodied instructional methods tailored for the individual learner. To this end, ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "automation",
+      "simulation",
+      "multimodal"
+    ]
+  },
+  {
+    "title": "mukul975 / Anthropic-Cybersecurity-Skills",
+    "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0 [1,031 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "Gemini",
+      "Copilot"
+    ]
+  },
+  {
+    "title": "Can Language Model Agents be Helpful Circuit Explainers in Mechanistic Interpretability?",
+    "url": "https://arxiv.org/abs/2606.24026",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 24 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.24026v1 Announce Type: new \nAbstract: Mechanistic interpretability has made substantial progress in automatically localizing circuits, but explaining what localized components do remains labor-intensive and difficult to standardize. In this work, we study whether language model (LM) agents can assist with this explanation problem once a circuit has already been identified. We introduce AgenticInterpBench, a benchmark for circuit explanation built from 84 semi-synthetic transformer cir",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "transformer",
+      "language model"
+    ]
+  },
+  {
+    "title": "Beyond Trajectory Imitation: Strategy-Guided Policy Optimization for LLM Reasoning",
+    "url": "https://arxiv.org/abs/2606.24064",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 24 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.24064v1 Announce Type: new \nAbstract: Distilling reasoning capabilities from strong to weak language models typically involves imitating specific solution trajectories, effectively transferring what to answer rather than how to reason. This trajectory-level imitation encourages memorization of instance-specific steps rather than acquisition of transferable problem-solving skills, limiting generalization to novel problems. We propose Strategy-Guided Policy Optimization (SGPO), which re",
+    "score": 8.0,
+    "keywords_matched": [
+      "LLM",
+      "language model",
+      "RAG",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "ReMMD: Realistic Multilingual Multi-Image Agentic Verification for Multimodal Misinformation Detection",
+    "url": "https://arxiv.org/abs/2606.24112",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 24 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.24112v1 Announce Type: new \nAbstract: Multimodal misinformation detection is increasingly important because viral posts now combine long multilingual narratives, several images, mixed provenance, and subtle text--image framing errors. Existing benchmarks and methods remain poorly matched to this setting: they usually isolate short captions, single images, binary labels, or one manipulation source, while agentic verification remains costly under realistic evidence search. We present Re",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "multimodal",
+      "narrative"
+    ]
+  },
+  {
+    "title": "VeryTrace: Verifying Reasoning Traces through Compilable Formalism and Structured Verification",
+    "url": "https://arxiv.org/abs/2606.24124",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 24 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.24124v1 Announce Type: new \nAbstract: Multi-step reasoning with Chain-of-Thought (CoT) prompting remains fragile: logical errors or hallucinations in early steps silently propagate, producing confident but incorrect conclusions. This paper presents VeryTrace, a zero-shot verification-and-repair framework that formalizes natural-language reasoning traces into a structured, compilable representation. VeryTrace introduces a Domain-Specific Language (DSL) that (i) makes step dependencies ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "RAG",
+      "prompt",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "FlowR2A: Learning Reward-to-Action Distribution for Multimodal Driving Planning",
+    "url": "https://arxiv.org/abs/2606.24231",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 24 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.24231v1 Announce Type: new \nAbstract: Multimodal driving planning faces a long-standing tension between two paradigms: scoring-based methods benefit from dense reward supervision but are confined to a fixed action vocabulary, while anchor-based methods generate proposals dynamically yet suffer from sparse supervision constrained to a single ground-truth trajectory. In this work, we propose FlowR2A, which resolves this tension by reframing simulation-based rewards from discriminative t",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "simulation",
+      "multimodal",
+      "planning"
+    ]
+  },
+  {
+    "title": "LemonHarness Technical Report",
+    "url": "https://arxiv.org/abs/2606.24311",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 24 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.24311v1 Announce Type: new \nAbstract: As large language model (LLM) agents are applied to longer tasks, they increasingly modify workspace state across multiple rounds of iteration. However, agents typically observe only tool outputs and log fragments, while the actual state changes occur in the file system. Without explicit workspace boundaries, state-changing operations such as file writes and temporary artifact generation may scatter changes across paths. Over time, these weakly co",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "language model",
+      "RAG"
+    ]
+  },
+  {
+    "title": "The Latent Bridge: A Continuous Slow-Fast Channel for Real-Time Game Agents",
+    "url": "https://arxiv.org/abs/2606.24470",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 24 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.24470v1 Announce Type: new \nAbstract: A real-time agent for general computer use - with games as the most demanding case - must act within tens of milliseconds while still planning over seconds. These two regimes sit at opposite ends of the latency-quality tradeoff. A reasoning VLM (Qwen3-VL-8B-Thinking) deliberates effectively but requires ~1.5 s per response - far too slow for a 15 Hz control loop. In contrast, a reactive VLM (MiniCPM-o 4.5) acts in milliseconds but underperforms on",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "game",
+      "reasoning",
+      "planning"
+    ]
+  },
+  {
+    "title": "Human-Centered Design: The Disclosure of Generative Artificial Intelligence for Emerging Professionals",
+    "url": "https://arxiv.org/abs/2606.24136",
+    "source": "arXiv cs.HC",
+    "published_at": "Wed, 24 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.24136v1 Announce Type: new \nAbstract: As the Human centered design continues to grow, generative AI has the potential to streamline the research process by iterating tasks within established workflows to increase efficiency. However, integrating AI raises concerns surrounding ethical bias, complexity, and the lack of prioritization of humanistic values. Emerging professionals represent a cohort with the opportunity to learn Human Centered Design principles, yet without this foundation",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "workflow",
+      "generative art",
+      "generative"
+    ]
+  },
+  {
+    "title": "EvidenceLens: A Claim-Evidence Matrix for Auditing Financial Question Answering",
+    "url": "https://arxiv.org/abs/2606.23724",
+    "source": "arXiv cs.HC",
+    "published_at": "Wed, 24 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.23724v1 Announce Type: cross \nAbstract: Large language models are increasingly used to answer questions over annual reports, earnings decks, and analyst notes, yet their outputs remain difficult to verify in high-stakes financial workflows. A fluent answer can blend directly grounded statements, weak synthesis, and unsupported claims across narrative text, tables, and charts. We present EvidenceLens, a visual analytics prototype that treats financial question answering as a claim-evid",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "workflow",
+      "language model",
+      "narrative"
+    ]
+  },
+  {
+    "title": "Reinforcement Learning for Computer-Use Agents with Autonomous Evaluation",
+    "url": "https://arxiv.org/abs/2606.24515",
+    "source": "arXiv cs.HC",
+    "published_at": "Wed, 24 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.24515v1 Announce Type: cross \nAbstract: Computer-Use Agents (CUAs) execute high-level user goals by perceiving and acting directly within graphical user interfaces. However, reinforcement learning for CUAs remains difficult because open-ended desktop environments rarely provide scalable, machine-readable reward signals: task success is often visually grounded and hard to specify with handcrafted reward functions or dense manual labels.\n  We propose an RL fine-tuning framework that use",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "autonomous",
+      "fine-tuning"
+    ]
+  }
+]
