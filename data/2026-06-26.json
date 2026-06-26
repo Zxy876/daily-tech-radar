@@ -1,0 +1,305 @@
+{
+  "date": "2026-06-26",
+  "candidates": [
+    {
+      "title": "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems",
+      "url": "https://arxiv.org/abs/2606.23927",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 25 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.23927v1 Announce Type: new \nAbstract: Agentic AI systems powered by large language models (LLMs) are rapidly evolving into autonomous decision-making systems, exposing attack vectors beyond those of traditional LLM vulnerabilities. Existing security evaluations are often tied to specific implementations or domains, limiting unified comparison across heterogeneous systems. To address this gap, we introduce RIFT-Bench, a graph representation-driven methodology for dynamic red-teaming th",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "autonomous",
+        "vector"
+      ]
+    },
+    {
+      "title": "SP-Mind: An Autonomous Reasoning Agent for Spatial Proteomics Analysis",
+      "url": "https://arxiv.org/abs/2606.24235",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 25 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.24235v1 Announce Type: new \nAbstract: Spatial proteomics enables single-cell-resolution characterization of protein expression within tissue architecture, playing a critical role in understanding tumor microenvironments and guiding precision medicine. However, current analysis workflows remain fragmented, requiring expert manual orchestration of heterogeneous tools and limiting research scalability and reproducibility. We present SP-Mind, the first autonomous AI agent designed to unif",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "workflow",
+        "autonomous",
+        "RAG",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Accelerating Disaggregated RL for Visual Generative LLMs with Diffusion-Based Parallelism and Trainer-Assisted Generation",
+      "url": "https://arxiv.org/abs/2606.24369",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 25 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.24369v2 Announce Type: new \nAbstract: Reinforcement learning (RL) has become a dominant post-training paradigm, driving the emergence of high-performance RL systems such as veRL for autoregressive large language models (LLMs). In parallel, diffusion-oriented RL algorithms, e.g., DanceGRPO and FlowGRPO, have rapidly expanded the scope of RL from language reasoning to diffusion-based visual and flow-based generation. However, efficient RL systems for diffusion generative LLMs remain und",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "diffusion",
+        "language model",
+        "reasoning",
+        "generative"
+      ]
+    },
+    {
+      "title": "ReM-MoA: Reasoning Memory Sustains Mixture-of-Agents Scaling",
+      "url": "https://arxiv.org/abs/2606.24437",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 25 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.24437v1 Announce Type: new \nAbstract: Mixture-of-Agents (MoA) architectures improve inference-time scaling by organizing multiple LLM agents into layered reasoning pipelines. However, existing MoA variants fail to sustain gains as depth increases, exhibiting degradation, early plateauing, or saturation. We propose ReM-MoA, a memory-augmented MoA framework that sustains scaling through two mechanisms: (1) a Ranked Reasoning Memory that persistently stores and ranks reasoning traces fro",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "inference",
+        "reasoning",
+        "memory"
+      ]
+    },
+    {
+      "title": "CompressKV: Semantic-Retrieval-Guided KV-Cache Compression for Resource-Efficient Long-Context LLM Inference",
+      "url": "https://arxiv.org/abs/2606.24467",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 25 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.24467v1 Announce Type: new \nAbstract: Long-context large language model (LLM) inference is increasingly constrained by the memory footprint and decoding cost of key-value (KV) caches, limiting sustainable deployment on resource-constrained hardware. Existing KV cache eviction methods typically apply heuristic token scoring over all heads in GQA-based LLMs. These methods ignore the different functionalities of attention heads, leading to the eviction of critical tokens and thus degradi",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "inference",
+        "memory",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Colon-Bench: An Agentic Workflow for Scalable Dense Lesion Annotation in Full-Procedure Colonoscopy Videos",
+      "url": "https://arxiv.org/abs/2603.25645",
+      "source": "arXiv cs.HC",
+      "published_at": "Thu, 25 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2603.25645v2 Announce Type: replace-cross \nAbstract: Early screening via colonoscopy is critical for colon cancer prevention, yet developing robust AI systems for this domain is hindered by the lack of densely annotated, long-sequence video datasets. Existing datasets predominantly focus on single-class polyp detection and lack the rich spatial, temporal, and linguistic annotations required to evaluate modern Multimodal Large Language Models (MLLMs). To address this critical gap, we introd",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "workflow",
+        "language model",
+        "multimodal"
+      ]
+    },
+    {
+      "title": "Critique of Agent Model",
+      "url": "https://arxiv.org/abs/2606.23991",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 25 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.23991v1 Announce Type: new \nAbstract: What is an agent? What constitutes agency? With the rise of Large Language Model (LLM) systems marketed as ``coding agents'', ``AI co-scientists'', and other ``agentic\" tools that promise to drive up productivity, and at the same time, ``existential\" concerns such as AI escaping human control with destructive power under a speculative ``machine agency\" against humans, it has become essential to clarify where automation ends and agency begins, both",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "automation",
+        "language model"
+      ]
+    },
+    {
+      "title": "Don't Go Breaking My LLM: The Impact of Pruning Attention Layers on Explanation Faithfulness and Confidence Calibration",
+      "url": "https://arxiv.org/abs/2606.24970",
+      "source": "arXiv cs.LG",
+      "published_at": "Thu, 25 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.24970v1 Announce Type: new \nAbstract: Pruning Large Language Models (LLMs) reduces memory and inference costs by removing parts of the network, producing smaller models that retain most of their accuracy. As attention layers are the most resource-intensive parts of LLMs, pruning them is a promising compression strategy. Prior work shows that up to 33% of attention layers can be pruned with minimal accuracy loss. Nevertheless, the impact of attention pruning on model interpretability, ",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "inference",
+        "memory"
+      ]
+    },
+    {
+      "title": "mukul975 / Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0 [571 stars today]",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "Gemini",
+        "Copilot"
+      ]
+    },
+    {
+      "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+      "url": "https://github.com/inkeep/open-knowledge",
+      "source": "Hacker News",
+      "published_at": "Thu, 25 Jun 2026 16:04:46 +0000",
+      "description": "Hi HN, Nick here. We’re launching OpenKnowledge ( https://openknowledge.ai/ ), a “what you see is what you get” markdown editor that has direct integrations with Claude, Codex, and other agents. Available as MacOS app or Web UI+CLI. Fully free/local and OSS. We built this because we wanted a Notion-like experience for writing and sharing markdown files across our team. Obsidian is the best alternative we tried, but found it doesn’t have a true WYSWIG UI and it didn’t integrate well with Claude/C",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "open source"
+      ]
+    },
+    {
+      "title": "Can Language Model Agents be Helpful Circuit Explainers in Mechanistic Interpretability?",
+      "url": "https://arxiv.org/abs/2606.24026",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 25 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.24026v1 Announce Type: new \nAbstract: Mechanistic interpretability has made substantial progress in automatically localizing circuits, but explaining what localized components do remains labor-intensive and difficult to standardize. In this work, we study whether language model (LM) agents can assist with this explanation problem once a circuit has already been identified. We introduce AgenticInterpBench, a benchmark for circuit explanation built from 84 semi-synthetic transformer cir",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "transformer",
+        "language model"
+      ]
+    },
+    {
+      "title": "Beyond Trajectory Imitation: Strategy-Guided Policy Optimization for LLM Reasoning",
+      "url": "https://arxiv.org/abs/2606.24064",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 25 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.24064v1 Announce Type: new \nAbstract: Distilling reasoning capabilities from strong to weak language models typically involves imitating specific solution trajectories, effectively transferring what to answer rather than how to reason. This trajectory-level imitation encourages memorization of instance-specific steps rather than acquisition of transferable problem-solving skills, limiting generalization to novel problems. We propose Strategy-Guided Policy Optimization (SGPO), which re",
+      "score": 8.0,
+      "keywords_matched": [
+        "LLM",
+        "language model",
+        "RAG",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "ReMMD: Realistic Multilingual Multi-Image Agentic Verification for Multimodal Misinformation Detection",
+      "url": "https://arxiv.org/abs/2606.24112",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 25 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.24112v1 Announce Type: new \nAbstract: Multimodal misinformation detection is increasingly important because viral posts now combine long multilingual narratives, several images, mixed provenance, and subtle text--image framing errors. Existing benchmarks and methods remain poorly matched to this setting: they usually isolate short captions, single images, binary labels, or one manipulation source, while agentic verification remains costly under realistic evidence search. We present Re",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "multimodal",
+        "narrative"
+      ]
+    },
+    {
+      "title": "VeryTrace: Verifying Reasoning Traces through Compilable Formalism and Structured Verification",
+      "url": "https://arxiv.org/abs/2606.24124",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 25 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.24124v1 Announce Type: new \nAbstract: Multi-step reasoning with Chain-of-Thought (CoT) prompting remains fragile: logical errors or hallucinations in early steps silently propagate, producing confident but incorrect conclusions. This paper presents VeryTrace, a zero-shot verification-and-repair framework that formalizes natural-language reasoning traces into a structured, compilable representation. VeryTrace introduces a Domain-Specific Language (DSL) that (i) makes step dependencies ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "RAG",
+        "prompt",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "FlowR2A: Learning Reward-to-Action Distribution for Multimodal Driving Planning",
+      "url": "https://arxiv.org/abs/2606.24231",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 25 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.24231v1 Announce Type: new \nAbstract: Multimodal driving planning faces a long-standing tension between two paradigms: scoring-based methods benefit from dense reward supervision but are confined to a fixed action vocabulary, while anchor-based methods generate proposals dynamically yet suffer from sparse supervision constrained to a single ground-truth trajectory. In this work, we propose FlowR2A, which resolves this tension by reframing simulation-based rewards from discriminative t",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "simulation",
+        "multimodal",
+        "planning"
+      ]
+    },
+    {
+      "title": "LemonHarness Technical Report",
+      "url": "https://arxiv.org/abs/2606.24311",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 25 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.24311v1 Announce Type: new \nAbstract: As large language model (LLM) agents are applied to longer tasks, they increasingly modify workspace state across multiple rounds of iteration. However, agents typically observe only tool outputs and log fragments, while the actual state changes occur in the file system. Without explicit workspace boundaries, state-changing operations such as file writes and temporary artifact generation may scatter changes across paths. Over time, these weakly co",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "language model",
+        "RAG"
+      ]
+    },
+    {
+      "title": "The Latent Bridge: A Continuous Slow-Fast Channel for Real-Time Game Agents",
+      "url": "https://arxiv.org/abs/2606.24470",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 25 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.24470v1 Announce Type: new \nAbstract: A real-time agent for general computer use - with games as the most demanding case - must act within tens of milliseconds while still planning over seconds. These two regimes sit at opposite ends of the latency-quality tradeoff. A reasoning VLM (Qwen3-VL-8B-Thinking) deliberates effectively but requires ~1.5 s per response - far too slow for a 15 Hz control loop. In contrast, a reactive VLM (MiniCPM-o 4.5) acts in milliseconds but underperforms on",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "game",
+        "reasoning",
+        "planning"
+      ]
+    },
+    {
+      "title": "Seeing the Reasoning: How LLM Rationales Influence User Trust and Decision-Making in Factual Verification Tasks",
+      "url": "https://arxiv.org/abs/2603.07306",
+      "source": "arXiv cs.HC",
+      "published_at": "Thu, 25 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2603.07306v2 Announce Type: replace \nAbstract: Large Language Models (LLMs) increasingly show reasoning rationales alongside their answers, turning \"reasoning\" into a user-interface element. While step-by-step rationales are typically associated with model performance, how they influence users' trust and decision-making in factual verification tasks remains unclear. We ran an online study (N=68) manipulating three properties of LLM reasoning rationales: presentation format (instant vs. del",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "SycoEval-EM: Sycophancy Evaluation of Large Language Models in Simulated Clinical Encounters for Emergency Care",
+      "url": "https://arxiv.org/abs/2601.16529",
+      "source": "arXiv cs.HC",
+      "published_at": "Thu, 25 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2601.16529v3 Announce Type: replace-cross \nAbstract: Large language models (LLMs) deployed in clinical decision support may acquiesce to patient requests for care that conflicts with evidence-based guidelines. We developed SycoEval-EM, a multi-agent simulation framework to evaluate LLM robustness to adversarial patient persuasion in emergency medicine. Across 19 contemporary LLMs and 1,425 simulated clinical encounters spanning three Choosing Wisely scenarios, acquiescence rates ranged fro",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "simulation",
+        "language model"
+      ]
+    },
+    {
+      "title": "Holographic Memory for Zero-Shot Compositional Reasoning in Knowledge Graphs: A Mechanistic Study of Where and Why It Fails",
+      "url": "https://arxiv.org/abs/2606.24948",
+      "source": "arXiv cs.LG",
+      "published_at": "Thu, 25 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.24948v1 Announce Type: new \nAbstract: Knowledge graph embedding (KGE) models predict single-hop links well but have no mechanism for zero-shot compositional queries: multi-hop questions whose relation chains never appeared during training. Holographic Reduced Representations (HRR), which bind and unbind symbols via circular convolution, are a theoretically attractive candidate, since binding is approximately invertible and associative. We test whether this promise holds.\n  We study tw",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "embedding",
+        "reasoning",
+        "memory"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-06-26\n\n好的，疯狂发明家！你的技术雷达已启动，准备捕获那些能点燃你项目激情的新奇火花。忘掉泛泛的新闻，我们只看那些能让你撸起袖子干起来的！\n\n---\n\n## ReM-MoA: Reasoning Memory Sustains Mixture-of-Agents Scaling\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2606.24437\n- 一句话解释：提出了一种带有“推理记忆”的混合Agent（MoA）架构，解决了多层Agent在深度增加时性能下降的问题，让Agent可以更深层地协同推理。\n- 它为什么重要：MoA架构是让LLM Agent更强大、更复杂的重要方向。传统的MoA会随着层数增加而变笨，而ReM-MoA通过引入记忆机制，让Agent在多轮推理中保持“聪明”，这对于构建真正复杂的自动化系统至关重要。\n- 技术趋势标签：Agent系统、多Agent协作、LLM记忆、深度推理、自动化工作流\n- 可复用模式：分层Agent架构、记忆增强的决策流、动态任务分配、多模态信息融合（未来扩展）\n- 疯狂发明家灵感：\n  1. 一个小实验：搭建一个简单的两层Agent系统，第一层Agent负责分解用户问题，第二层Agent根据分解结果执行特定任务。然后尝试加入一个共享的“记忆板”，让第二层Agent在执行过程中可以参考第一层Agent的思考路径，并观察效果。\n  2. 一个中型项目：开发一个“创意项目孵化Agent群”，由多个Agent（例如：概念生成Agent、技术评估Agent、用户体验Agent、美术风格Agent）组成，它们通过一个共享的“项目记忆库”进行协作。用户提出一个模糊的想法，Agent群自动迭代生成详细的项目计划、技术方案和初步设计稿。\n  3. 一个艺术/游戏/叙事方向：创建一个“叙事生成引擎”，其中每个角色都是一个Agent，它们拥有自己的目标和记忆。这些Agent通过ReM-MoA模式进行互动，共同推进故事线。记忆机制可以确保角色行为前后一致，并能从过去的事件中“学习”，产生更复杂、更引人入胜的叙事。\n- 对我项目的启发：对于我的Agent系统和世界生成项目，引入这种“推理记忆”模式，可以让我构建的Agent在复杂任务中表现出更强的持续性和一致性，尤其是在生成复杂的Minecraft世界或游戏系统时，Agent可以记住之前的生成规则和环境状态，避免重复或冲突。\n- 今天是否值得深入研究：是\n- 建议行动：试用 (尝试基于现有的Agent框架，如LangChain/AutoGen，实现一个简化的ReM-MoA概念验证)\n\n---\n\n## The Latent Bridge: A Continuous Slow-Fast Channel for Real-Time Game Agents\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2606.24470\n- 一句话解释：提出了一个“慢速思考-快速行动”的机制，让LLM Agent在实时游戏环境中既能进行深度规划，又能迅速响应，解决了LLM推理慢与游戏实时性之间的矛盾。\n- 它为什么重要：这是LLM Agent进入高实时性应用（如游戏、实时机器人控制）的关键一步。它将慢速、高智商的“思考”与快速、低延迟的“行动”解耦，极大地扩展了LLM Agent的应用场景。\n- 技术趋势标签：实时Agent、游戏AI、混合模型、延迟优化、多模态感知与行动\n- 可复用模式：慢速高层规划 + 快速底层执行、信息压缩与解压缩、连续通道通信\n- 疯狂发明家灵感：\n  1. 一个小实验：构建一个简单的游戏环境（例如一个迷宫），让一个LLM Agent作为“慢速思考者”规划整体路线，同时一个基于规则（或更简单模型）的“快速行动者”根据LLM给出的阶段性指令实时移动。观察二者如何协同。\n  2. 一个中型项目：开发一个“智能NPC系统”，NPC拥有一个LLM驱动的“潜意识”（慢速规划），负责生成长期目标、情感状态和对话策略。同时有一个快速反应的“表层意识”Agent，根据潜意识的规划和实时环境变化（玩家动作、游戏事件）来执行具体的行动和对话。\n  3. 一个艺术/游戏/叙事方向：在我的Minecraft/世界生成项目中，可以利用这种模式让生成Agent在“慢速模式”下进行高层级的世界蓝图设计（地形、生态、故事线），然后在“快速模式”下实时填充细节、响应玩家交互或生成动态事件。这能创造出既有宏大叙事又充满实时细节的世界。\n- 对我项目的启发：这完美契合我的游戏系统和Minecraft生成项目。我可以在“慢速”通道上用LLM进行复杂的叙事生成、世界规则定义、Agent行为策略规划，而在“快速”通道上让Agent执行具体的方块放置、物体交互或战斗动作。这能极大地提升生成世界的动态性和交互性。\n- 今天是否值得深入研究：是\n- 建议行动：做demo (尝试在一个简单的游戏或模拟环境中，实现一个原型来展示慢速规划和快速执行的协同)\n\n---\n\n## Colon-Bench: An Agentic Workflow for Scalable Dense Lesion Annotation in Full-Procedure Colonoscopy Videos\n- 来源：arXiv cs.HC\n- 链接：https://arxiv.org/abs/2603.25645\n- 一句话解释：一个Agent工作流，用于高效、大规模地在结肠镜视频中进行密集病变标注，结合了LLM、多模态和专家知识。\n- 它为什么重要：它展示了Agent工作流在复杂、高精度、多模态数据处理方面的巨大潜力。不仅仅是医疗应用，这种模式可以推广到任何需要专家知识、多阶段处理和复杂标注的领域，对自动化和spec-driven development有直接启发。\n- 技术趋势标签：Agent工作流、多模态AI、自动化标注、RAG、专家知识集成、HCI\n- 可复用模式：Agent驱动的复杂任务分解、多模态信息处理、人机协作（专家反馈回路）、增量式精炼、特定领域知识图谱构建。\n- 疯狂发明家灵感：\n  1. 一个小实验：构建一个简单的“图片标注Agent工作流”。给定一张图片和一些标注规则（例如“圈出所有红色物体”），一个Agent负责识别，另一个Agent负责根据规则进行标注，并能接受用户反馈进行修正。\n  2. 一个中型项目：开发一个“创意资源自动化生成与标注系统”。例如，用户输入一个游戏场景描述，Agent群（设计Agent、美术Agent、标注Agent）自动生成3D模型、贴图，并对其进行语义标注（例如“这是砖墙，可以被破坏，属于中世纪风格”），甚至可以生成对应的游戏引擎元数据。\n  3. 一个艺术/游戏/叙事方向：创建一个“叙事图谱生成器”。Agent观看一段视频或阅读一个文本，自动识别其中的角色、事件、情感、地点，并将其结构化为可查询的知识图谱。这可以用于分析电影的叙事结构，或为互动叙事游戏自动生成背景设定。\n- 对我项目的启发：我的世界生成和游戏系统项目需要大量的资源管理和数据标注。这个Agent工作流的模式可以启发我构建一个自动化系统，来处理生成内容（例如：地形、建筑、NPC行为）的元数据标注，确保它们符合特定的游戏规则或叙事规范，甚至可以自动检测和纠正生成中的不一致性。这直接关联到spec-driven development。\n- 今天是否值得深入研究：是\n- 建议行动：收藏 / 做demo (关注其工作流设计思路，思考如何将其推广到非医疗领域的多模态数据处理和自动化)\n\n---\n\n## mukul975 / Anthropic-Cybersecurity-Skills\n- 来源：GitHub Trending Python\n- 链接：https://github.com/mukul975/Anthropic-Cybersecurity-Skills\n- 一句话解释：一个包含了817个结构化网络安全技能的Agent技能库，并映射到多个行业标准框架，可用于增强多种AI Agent的能力。\n- 它为什么重要：这是一个“技能库”的概念，明确地将Agent的能力进行结构化和标准化。这对于构建可复用、可组合、可扩展的Agent系统至关重要，它代表了Agent生态系统成熟的一个方向。\n- 技术趋势标签：Agent技能、结构化知识、AI安全、Agent工具链、标准化\n- 可复用模式：技能库/能力库的定义与管理、多Agent共享技能、技能的动态加载与组合、基于框架的技能分类。\n- 疯狂发明家灵感：\n  1. 一个小实验：定义一个简单的“创意写作技能库”（例如：“生成比喻”、“扩展描述”、“改变语气”），然后让一个Agent根据这些技能来处理用户的文本修改请求。\n  2. 一个中型项目：开发一个“通用Agent技能市场/注册中心”。用户可以定义和上传自己的Agent技能（例如：“生成3D模型”、“编写Shader代码”、“进行风格迁移”），其他Agent可以发现并调用这些技能，形成一个Agent能力的共享生态。\n  3. 一个艺术/游戏/叙事方向：创建一个“生成式艺术Agent工作室”。每个Agent都拥有特定的艺术技能（例如：“印象派绘画”、“像素艺术生成”、“音乐创作”），并通过共享的技能库进行协作，共同完成一件复杂的艺术作品。技能可以像乐高积木一样被组合、重用。\n- 对我项目的启发：这直接启发我的Agent工具链和spec-driven development。我可以为我的世界生成Agent、游戏系统Agent定义一套明确的“生成技能”（例如：“生成山脉”、“放置河流”、“布置NPC路径”、“编写任务脚本”），并将其结构化，让Agent可以根据需求动态组合这些技能，甚至可以根据“世界生成规范”自动选择和执行技能。\n- 今天是否值得深入研究：是\n- 建议行动：收藏 / 试用 (研究其技能定义方式和框架映射，思考如何为我的特定领域（创意生成、游戏系统）构建类似的技能库)\n\n---\n\n## The Latent Bridge: A Continuous Slow-Fast Channel for Real-Time Game Agents\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.abs/2606.24470\n- 一句话解释：提出了一个“慢速思考-快速行动”的机制，让LLM Agent在实时游戏环境中既能进行深度规划，又能迅速响应，解决了LLM推理慢与游戏实时性之间的矛盾。\n- 它为什么重要：这是LLM Agent进入高实时性应用（如游戏、实时机器人控制）的关键一步。它将慢速、高智商的“思考”与快速、低延迟的“行动”解耦，极大地扩展了LLM Agent的应用场景。\n- 技术趋势标签：实时Agent、游戏AI、混合模型、延迟优化、多模态感知与行动\n- 可复用模式：慢速高层规划 + 快速底层执行、信息压缩与解压缩、连续通道通信\n- 疯狂发明家灵感：\n  1. 一个小实验：构建一个简单的游戏环境（例如一个迷宫），让一个LLM Agent作为“慢速思考者”规划整体路线，同时一个基于规则（或更简单模型）的“快速行动者”根据LLM给出的阶段性指令实时移动。观察二者如何协同。\n  2. 一个中型项目：开发一个“智能NPC系统”，NPC拥有一个LLM驱动的“潜意识”（慢速规划），负责生成长期目标、情感状态和对话策略。同时有一个快速反应的“表层意识”Agent，根据潜意识的规划和实时环境变化（玩家动作、游戏事件）来执行具体的行动和对话。\n  3. 一个艺术/游戏/叙事方向：在我的Minecraft/世界生成项目中，可以利用这种模式让生成Agent在“慢速模式”下进行高层级的世界蓝图设计（地形、生态、故事线），然后在“快速模式”下实时填充细节、响应玩家交互或生成动态事件。这能创造出既有宏大叙事又充满实时细节的世界。\n- 对我项目的启发：这完美契合我的游戏系统和Minecraft生成项目。我可以在“慢速”通道上用LLM进行复杂的叙事生成、世界规则定义、Agent行为策略规划，而在“快速”通道上让Agent执行具体的方块放置、物体交互或战斗动作。这能极大地提升生成世界的动态性和交互性。\n- 今天是否值得深入研究：是\n- 建议行动：做demo (尝试在一个简单的游戏或模拟环境中，实现一个原型来展示慢速规划和快速执行的协同)\n\n---\n\n## 今日模式总结\n\n1.  **Agent记忆与协作的深化：** 多个Agent相关的研究都强调了Agent在复杂任务中保持“记忆”和“协同”的重要性。无论是ReM-MoA的推理记忆，还是Agent工作流在复杂数据处理中的应用，都指向了构建更智能、更鲁棒的Agent系统，它们不再是单次的LLM调用，而是能进行多轮思考、学习、协作的实体。\n2.  **实时性与智能的平衡：** “慢速思考-快速行动”的模式（如Latent Bridge）是解决LLM高智商与高延迟矛盾的关键。这预示着未来AI Agent将能更好地融入实时交互环境，尤其是在游戏和机器人领域，这将带来更动态、更自然的体验。\n3.  **Agent能力的结构化与工具化：** 像Anthropic-Cybersecurity-Skills这样的“技能库”项目，表明Agent的能力正在被模块化、标准化，并可以像工具一样被发现、调用和组合。这为构建可扩展、可复用的Agent生态系统奠定了基础，也直接启发了spec-driven development中“可执行规范”的实现。\n\n## 今日可做小实验\n\n**项目名：** \"记忆面包\" Agent画板\n\n**输入：**\n1.  用户输入一个简单的绘画指令（例如：“画一个蓝色的房子”）。\n2.  用户可以对Agent的画作进行后续指令（例如：“在房子旁边加一棵树”，“把房子改成红色”）。\n\n**输出：**\n一个由Agent逐步完成并修改的SVG图片（或简单的ASCII艺术）。\n\n**技术栈：**\n-   Python\n-   一个轻量级LLM（如GPT-3.5-turbo或本地部署的Phi-3/Llama-3-8B）\n-   用于存储Agent思考过程和用户指令的“记忆”数据结构（例如一个Python列表或字典）\n-   一个简单的SVG或ASCII艺术生成库（例如`svgwrite`或自定义的字符串操作函数）\n\n**第一步怎么做：**\n1.  **定义Agent角色：** 创建一个Python类 `DrawingAgent`。\n2.  **实现Agent的“思考”：** `DrawingAgent` 内部有一个 `memory` 属性，存储它接收到的所有指令和它自己的思考步骤。当接收新指令时，LLM会根据 `memory` 中的内容和新指令，生成下一步的绘画计划（例如：“识别用户要画的物体”、“确定颜色”、“决定位置”）。\n3.  **实现Agent的“行动”：** 根据LLM生成的绘画计划，调用一个简单的绘图函数来生成或修改SVG/ASCII艺术。例如，如果计划是“画一个蓝色的房子”，就调用 `draw_house(color='blue')`。\n4.  **构建交互循环：** 用户输入指令 -> `DrawingAgent` 接收指令并添加到 `memory` -> `DrawingAgent` 调用LLM思考并生成行动计划 -> `DrawingAgent` 执行行动并更新画作。重复此过程。\n5.  **关键点：** 在每次LLM调用时，将整个 `memory` 作为上下文（或摘要化的记忆）传递给LLM，确保它能记住之前的指令和画作状态。",
+  "gemini_success": true,
+  "telegram_sent": true,
+  "telegram_status": "sent",
+  "telegram_reason": ""
+}
