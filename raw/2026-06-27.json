@@ -1,0 +1,290 @@
+[
+  {
+    "title": "Localizing RL-Induced Tool Use to a Single Crosscoder Feature",
+    "url": "https://arxiv.org/abs/2606.26474",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 26 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.26474v1 Announce Type: new \nAbstract: Fine-tuning through RL reshapes the internal representations of language models to enable agentic behaviors such as tool use, yet the mechanistic basis of these changes remains poorly understood. While RL substantially improves structured tool-call generation, it is unclear which features emerge, which are preserved, and whether identified features can be leveraged for retraining-free behavioral control. In this work, we show that $\\textit{Dedicat",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "language model",
+      "RAG",
+      "tool use",
+      "fine-tuning"
+    ]
+  },
+  {
+    "title": "Retrieval-Warmed Energy-Based Reasoning: A Five-Arm Ablation Methodology for Diffusion-as-Inference on Structured Reasoning Tasks",
+    "url": "https://arxiv.org/abs/2606.26476",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 26 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.26476v1 Announce Type: new \nAbstract: Warm-started diffusion samplers accelerate iterative inference, but it is rarely clear which part of the pipeline carries the gain. We study \\textbf{retrieval-warmed energy-based reasoning (RW-EBR)} -- an IRED energy-based diffusion model \\cite{du2024ired} augmented with a Modern Hopfield trajectory memory -- and contribute a \\textbf{five-arm ablation methodology} (oracle, best-constant, per-query-random, shuffled, aligned) that separates three co",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "diffusion",
+      "inference",
+      "reasoning",
+      "memory",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "How Do Tool-Augmented LLM Agents Perform on Real-World Energy Analytics Tasks?",
+    "url": "https://arxiv.org/abs/2606.26346",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 26 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.26346v1 Announce Type: new \nAbstract: Agentic benchmarks have emerged across general-purpose and domain-specific settings, including finance, coding, law, and drug discovery, yet energy-domain evaluations remain largely limited to static knowledge recall. This is a critical gap for a sector that requires live data retrieval, specialized regulatory and market knowledge, and multi-step quantitative reasoning under real-world constraints.\n  We present an empirical study of tool-augmented",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "reasoning",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "OpenFinGym: A Verifiable Multi-Task Gym Environment for Evaluating Quant Agents",
+    "url": "https://arxiv.org/abs/2606.26350",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 26 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.26350v1 Announce Type: new \nAbstract: Although large language model agents are increasingly applied to quantitative-finance workflows, their evaluation remains fragmented across isolated tasks, while the financial relevance of benchmark tasks is often overlooked. Yet financial workflows are inherently multi-stage, spanning interdependent tasks such as forecasting, strategy construction, risk management, and trading. Existing platforms typically focus on a single task, and can therefor",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow",
+      "language model",
+      "RAG"
+    ]
+  },
+  {
+    "title": "Instruction Bleed: Cross-Module Interference in Prompt-Composed Agentic Systems",
+    "url": "https://arxiv.org/abs/2606.26356",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 26 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.26356v1 Announce Type: new \nAbstract: Practitioners of prompt-composed agentic systems report a recurring failure mode: editing one prompt module silently shifts the behavior of others despite no shared variable or executable dependency. We formalize this as compositional behavioral leakage (CBL): interference between modules sharing a context window. CBL is enabled by architectural non-isolation: transformer self-attention provides no formal boundary between concatenated modules. We ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "transformer",
+      "prompt",
+      "context window"
+    ]
+  },
+  {
+    "title": "Narration-of-Thought: Inference-Time Scaffolding for Defeasible Ethical Reasoning in Large Language Models",
+    "url": "https://arxiv.org/abs/2606.26366",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 26 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.26366v1 Announce Type: new \nAbstract: Standard chain-of-thought on moral dilemmas exhibits two failure modes: stakeholder collapse (the trace names at most one party with a stake in the outcome) and uncertainty suppression (no explicit unknowns or hedges before committing to an action). We introduce narration-of-thought (NoT), a system prompt that structures chain-of-thought into five sections: protagonist, stakeholders, two-step consequences, uncertainty, then commitment. NoT adds no",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "language model",
+      "inference",
+      "prompt",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+    "url": "https://github.com/inkeep/open-knowledge",
+    "source": "Hacker News Best",
+    "published_at": "Thu, 25 Jun 2026 16:04:46 +0000",
+    "description": "Hi HN, Nick here. We’re launching OpenKnowledge ( https://openknowledge.ai/ ), a “what you see is what you get” markdown editor that has direct integrations with Claude, Codex, and other agents. Available as MacOS app or Web UI+CLI. Fully free/local and OSS. We built this because we wanted a Notion-like experience for writing and sharing markdown files across our team. Obsidian is the best alternative we tried, but found it doesn’t have a true WYSWIG UI and it didn’t integrate well with Claude/C",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "open source"
+    ]
+  },
+  {
+    "title": "Agentic Analysis for Agentic Infrastructure: An LLM-Powered Pipeline for Comparative Governance of DAO and Corporate AI Protocols",
+    "url": "https://arxiv.org/abs/2606.26203",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 26 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.26203v1 Announce Type: new \nAbstract: As AI agent protocols proliferate, the governance structures shaping their interoperability standards remain empirically underexamined. We introduce an LLM-powered comparative pipeline for large-scale governance discourse analysis, integrating automated annotation, neural topic modeling, and multi-layer network analysis to study socio-technical power structures at scale. We validate it on two contrasting standards for agent interoperability: ERC-8",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "neural"
+    ]
+  },
+  {
+    "title": "Governing Actions, Not Agents: Institutional Attestation as a Governance Model for Autonomous AI Systems",
+    "url": "https://arxiv.org/abs/2606.26298",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 26 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.26298v1 Announce Type: new \nAbstract: Autonomous AI agents may begin to perform consequential, irreversible actions such as clinical prescribing and production software deployment. This paper observes that human institutions have governed powerful autonomous actors not by monitoring their reasoning but by requiring independently attested evidence at the point of consequential action. We formalise this institutional pattern as a computational governance model for AI agent systems. Unde",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "autonomous",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "MKG-RAG-Bench: Benchmarking Retrieval in Multimodal Knowledge Graph-Augmented Generation",
+    "url": "https://arxiv.org/abs/2606.26458",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 26 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.26458v1 Announce Type: new \nAbstract: Retrieval-augmented generation (RAG) over knowledge graphs has emerged as a promising approach for grounding large language models, yet existing benchmarks largely overlook the challenges of retrieval in multimodal knowledge graph RAG (MKG-RAG). In practice, retrieval is a critical bottleneck: multimodal knowledge is heterogeneous, difficult to align across modalities, and often poorly served by retrievers designed for unstructured corpora. To add",
+    "score": 8.0,
+    "keywords_matched": [
+      "language model",
+      "multimodal",
+      "RAG",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Boundary-Aware Context Grounding for A Low-Channel EEG Agent",
+    "url": "https://arxiv.org/abs/2606.26519",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 26 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.26519v1 Announce Type: new \nAbstract: Large language models (LLMs) can make scientific software easier to use. However, a general model does not automatically know which measurements a particular sensor can support, which algorithms are implemented in the current software, or which conclusions are justified by a computed result. These distinctions are especially important for low-channel electroencephalography (EEG), where sparse spatial coverage and variable signal quality make plaus",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "language model",
+      "RAG"
+    ]
+  },
+  {
+    "title": "DanceDuo: Bridging Human Movement and AI Choreography",
+    "url": "https://arxiv.org/abs/2606.26507",
+    "source": "arXiv cs.HC",
+    "published_at": "Fri, 26 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.26507v1 Announce Type: new \nAbstract: In recent years, advancements in deep learning and generative models have revolutionized music-driven dance generation. This paper introduces a novel platform, namely DanceDuo, leveraging diffusion models to generate AI-choreographed dance sequences synchronized with a variety of music genres, to encourage dancing practice. The system allows users to interact with AI by selecting music tracks, humanoid models, and importing personal dance videos f",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "diffusion",
+      "RAG",
+      "generative"
+    ]
+  },
+  {
+    "title": "HiLSVA: Design and Evaluation of a Human-in-the-Loop Agentic System for Scientific Visualization",
+    "url": "https://arxiv.org/abs/2606.26614",
+    "source": "arXiv cs.HC",
+    "published_at": "Fri, 26 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.26614v1 Announce Type: new \nAbstract: Large language model (LLM) agents enable natural language interaction for scientific visualization (SciVis). Still, prior systems have essentially prioritized autonomy over human analytical control, thereby limiting transparency and human oversight. We present HiLSVA, a human-in-the-loop agentic system that supports mixed-initiative SciVis workflows. HiLSVA integrates a plan-first multi-agent architecture with explicit human oversight, stepwise pr",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "workflow",
+      "language model"
+    ]
+  },
+  {
+    "title": "Reviving Reflection-in-Action: Instilling Designerly Thinking in AI-Supported Ideation through Multimodal Prompting",
+    "url": "https://arxiv.org/abs/2606.26626",
+    "source": "arXiv cs.HC",
+    "published_at": "Fri, 26 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.26626v1 Announce Type: new \nAbstract: Current AI-powered creativity support tools (AI-CSTs) primarily use text prompting to generate solution-oriented outputs. However, the potential value of multimodal prompting in designer-AI interaction, specifically the introduction of productive friction to encourage iteration and reflection, has not been fully explored. To address this, we developed SketchifAI, a prototype AI-CST, and evaluated it with design students. In a mixed-methods, within",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "multimodal",
+      "RAG",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Knowledge-Based Pull Requests: A Trusted Workflow for Agent-Mediated Knowledge Collaboration",
+    "url": "https://arxiv.org/abs/2606.26721",
+    "source": "arXiv cs.HC",
+    "published_at": "Fri, 26 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.26721v1 Announce Type: cross \nAbstract: AI coding agents are changing the bottleneck in software collaboration: code is increasingly cheap, while understanding intent, negotiating scope, and governing long-term project responsibility remain costly. This paper proposes \\emph{Knowledge-Based Pull Requests} (KPR), a trusted workflow for agent-mediated software collaboration across trust boundaries, including open source, enterprise, vendor, contractor, and customer-driven settings. In KP",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow",
+      "open source"
+    ]
+  },
+  {
+    "title": "Optimizing CUDA like a Human: Micro-Profiling Tools as Expert Surrogates for LLM-Based GPU Kernel Optimization",
+    "url": "https://arxiv.org/abs/2606.26453",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 26 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.26453v1 Announce Type: new \nAbstract: We present KernelPro, a closed-loop multi-agent system that automatically generates, profiles, and iteratively optimizes GPU kernel code by integrating large language model (LLM) code generation with hardware profiler feedback and pluggable bottleneck detection tools. KernelPro introduces four contributions: (1) a semantic feedback operator that encodes expert heuristics as pluggable micro-profiling tools, transforming raw hardware metrics into ac",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "language model",
+      "code generation"
+    ]
+  },
+  {
+    "title": "topoteretes / cognee",
+    "url": "https://github.com/topoteretes/cognee",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine. [729 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "memory",
+      "self-hosted"
+    ]
+  },
+  {
+    "title": "didilili / ai-agents-from-zero",
+    "url": "https://github.com/didilili/ai-agents-from-zero",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "🚀 2026 最系统的 AI Agent 速成指南｜智能体实战教程 · 完整学习路径 + 实战项目 + 面试题库 · 对标大模型应用开发工程师岗位 · 覆盖LangChain / LangGraph / Coze / Dify / MCP / skills / LLM / RAG / 提示词 · 企业级部署与微调 · 从0到企业级落地 + 从学习到上线项目 + 面试准备一体化 [31 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "RAG"
+    ]
+  },
+  {
+    "title": "SKILL-DISCO: Distilling and Compiling Agent Traces into Reusable Procedural Skills",
+    "url": "https://arxiv.org/abs/2606.26669",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 26 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.26669v1 Announce Type: new \nAbstract: Agents often repeatedly solve similar task instances from scratch, leading to unnecessary reasoning cost and long execution traces. Prior work has explored workflow reuse and executable skill induction, but it remains unclear which task scenarios admit procedural skills and how the shared procedural structure should be represented across successful traces. We study this problem in FSM-defined scenarios, where successful traces can be viewed as pat",
+    "score": 7.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow",
+      "reasoning",
+      "procedural"
+    ]
+  },
+  {
+    "title": "The gap between open weights LLMs and closed source LLMs",
+    "url": "https://blog.doubleword.ai/frontier-os-llm",
+    "source": "Hacker News",
+    "published_at": "Fri, 26 Jun 2026 21:14:47 +0000",
+    "description": "Article URL: https://blog.doubleword.ai/frontier-os-llm Comments URL: https://news.ycombinator.com/item?id=48692058 Points: 114 # Comments: 95",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "open weights"
+    ]
+  }
+]
