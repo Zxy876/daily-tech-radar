@@ -1,0 +1,287 @@
+{
+  "date": "2026-06-28",
+  "candidates": [
+    {
+      "title": "How Do Tool-Augmented LLM Agents Perform on Real-World Energy Analytics Tasks?",
+      "url": "https://arxiv.org/abs/2606.26346",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 27 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.26346v1 Announce Type: new \nAbstract: Agentic benchmarks have emerged across general-purpose and domain-specific settings, including finance, coding, law, and drug discovery, yet energy-domain evaluations remain largely limited to static knowledge recall. This is a critical gap for a sector that requires live data retrieval, specialized regulatory and market knowledge, and multi-step quantitative reasoning under real-world constraints.\n  We present an empirical study of tool-augmented",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "reasoning",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "OpenFinGym: A Verifiable Multi-Task Gym Environment for Evaluating Quant Agents",
+      "url": "https://arxiv.org/abs/2606.26350",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 27 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.26350v1 Announce Type: new \nAbstract: Although large language model agents are increasingly applied to quantitative-finance workflows, their evaluation remains fragmented across isolated tasks, while the financial relevance of benchmark tasks is often overlooked. Yet financial workflows are inherently multi-stage, spanning interdependent tasks such as forecasting, strategy construction, risk management, and trading. Existing platforms typically focus on a single task, and can therefor",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "workflow",
+        "language model",
+        "RAG"
+      ]
+    },
+    {
+      "title": "Instruction Bleed: Cross-Module Interference in Prompt-Composed Agentic Systems",
+      "url": "https://arxiv.org/abs/2606.26356",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 27 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.26356v1 Announce Type: new \nAbstract: Practitioners of prompt-composed agentic systems report a recurring failure mode: editing one prompt module silently shifts the behavior of others despite no shared variable or executable dependency. We formalize this as compositional behavioral leakage (CBL): interference between modules sharing a context window. CBL is enabled by architectural non-isolation: transformer self-attention provides no formal boundary between concatenated modules. We ",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "transformer",
+        "prompt",
+        "context window"
+      ]
+    },
+    {
+      "title": "Narration-of-Thought: Inference-Time Scaffolding for Defeasible Ethical Reasoning in Large Language Models",
+      "url": "https://arxiv.org/abs/2606.26366",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 27 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.26366v1 Announce Type: new \nAbstract: Standard chain-of-thought on moral dilemmas exhibits two failure modes: stakeholder collapse (the trace names at most one party with a stake in the outcome) and uncertainty suppression (no explicit unknowns or hedges before committing to an action). We introduce narration-of-thought (NoT), a system prompt that structures chain-of-thought into five sections: protagonist, stakeholders, two-step consequences, uncertainty, then commitment. NoT adds no",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "language model",
+        "inference",
+        "prompt",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Agentic Analysis for Agentic Infrastructure: An LLM-Powered Pipeline for Comparative Governance of DAO and Corporate AI Protocols",
+      "url": "https://arxiv.org/abs/2606.26203",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 27 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.26203v1 Announce Type: new \nAbstract: As AI agent protocols proliferate, the governance structures shaping their interoperability standards remain empirically underexamined. We introduce an LLM-powered comparative pipeline for large-scale governance discourse analysis, integrating automated annotation, neural topic modeling, and multi-layer network analysis to study socio-technical power structures at scale. We validate it on two contrasting standards for agent interoperability: ERC-8",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "neural"
+      ]
+    },
+    {
+      "title": "Governing Actions, Not Agents: Institutional Attestation as a Governance Model for Autonomous AI Systems",
+      "url": "https://arxiv.org/abs/2606.26298",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 27 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.26298v1 Announce Type: new \nAbstract: Autonomous AI agents may begin to perform consequential, irreversible actions such as clinical prescribing and production software deployment. This paper observes that human institutions have governed powerful autonomous actors not by monitoring their reasoning but by requiring independently attested evidence at the point of consequential action. We formalise this institutional pattern as a computational governance model for AI agent systems. Unde",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "autonomous",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "MKG-RAG-Bench: Benchmarking Retrieval in Multimodal Knowledge Graph-Augmented Generation",
+      "url": "https://arxiv.org/abs/2606.26458",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 27 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.26458v1 Announce Type: new \nAbstract: Retrieval-augmented generation (RAG) over knowledge graphs has emerged as a promising approach for grounding large language models, yet existing benchmarks largely overlook the challenges of retrieval in multimodal knowledge graph RAG (MKG-RAG). In practice, retrieval is a critical bottleneck: multimodal knowledge is heterogeneous, difficult to align across modalities, and often poorly served by retrievers designed for unstructured corpora. To add",
+      "score": 8.0,
+      "keywords_matched": [
+        "language model",
+        "multimodal",
+        "RAG",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Boundary-Aware Context Grounding for A Low-Channel EEG Agent",
+      "url": "https://arxiv.org/abs/2606.26519",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 27 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.26519v1 Announce Type: new \nAbstract: Large language models (LLMs) can make scientific software easier to use. However, a general model does not automatically know which measurements a particular sensor can support, which algorithms are implemented in the current software, or which conclusions are justified by a computed result. These distinctions are especially important for low-channel electroencephalography (EEG), where sparse spatial coverage and variable signal quality make plaus",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "language model",
+        "RAG"
+      ]
+    },
+    {
+      "title": "topoteretes / cognee",
+      "url": "https://github.com/topoteretes/cognee",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine. [780 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "memory",
+        "self-hosted"
+      ]
+    },
+    {
+      "title": "comet-ml / opik",
+      "url": "https://github.com/comet-ml/opik",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards. [51 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "workflow",
+        "RAG"
+      ]
+    },
+    {
+      "title": "CherryHQ / cherry-studio",
+      "url": "https://github.com/CherryHQ/cherry-studio",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs [47 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "SKILL-DISCO: Distilling and Compiling Agent Traces into Reusable Procedural Skills",
+      "url": "https://arxiv.org/abs/2606.26669",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 27 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.26669v1 Announce Type: new \nAbstract: Agents often repeatedly solve similar task instances from scratch, leading to unnecessary reasoning cost and long execution traces. Prior work has explored workflow reuse and executable skill induction, but it remains unclear which task scenarios admit procedural skills and how the shared procedural structure should be represented across successful traces. We study this problem in FSM-defined scenarios, where successful traces can be viewed as pat",
+      "score": 7.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "workflow",
+        "reasoning",
+        "procedural"
+      ]
+    },
+    {
+      "title": "Show HN: Starglyphs - A constellation puzzle game based on Euler paths",
+      "url": "https://starglyphs.com",
+      "source": "Hacker News",
+      "published_at": "Sat, 27 Jun 2026 21:50:32 +0000",
+      "description": "I am a big Dragon Age fan and sunk hundreds of hours into Inquisition. It had this minigame called astrariums where you had to solve these shapes based on constellation guides by tracing stars. I'm a hobby game dev and wondered if I could procedurally generate these puzzles so they were always solvable. Turns out you can, so I built a space puzzle game around it with a colorful aesthetic. I released it in web form here but I'm currently working on getting it on Steam and mobile. Comments URL: ht",
+      "score": 6.0,
+      "keywords_matched": [
+        "game",
+        "RAG",
+        "procedural"
+      ]
+    },
+    {
+      "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+      "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+      "source": "Hacker News Best",
+      "published_at": "Sat, 27 Jun 2026 09:18:52 +0000",
+      "description": "Article URL: https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf Comments URL: https://news.ycombinator.com/item?id=48696585 Points: 724 # Comments: 298",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "inference"
+      ]
+    },
+    {
+      "title": "The gap between open weights LLMs and closed source LLMs",
+      "url": "https://blog.doubleword.ai/frontier-os-llm",
+      "source": "Hacker News Best",
+      "published_at": "Fri, 26 Jun 2026 21:14:47 +0000",
+      "description": "Article URL: https://blog.doubleword.ai/frontier-os-llm Comments URL: https://news.ycombinator.com/item?id=48692058 Points: 297 # Comments: 230",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "open weights"
+      ]
+    },
+    {
+      "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
+      "url": "https://github.com/workweave/router",
+      "source": "Hacker News Best",
+      "published_at": "Fri, 26 Jun 2026 16:40:11 +0000",
+      "description": "We built a model router that plugs into coding agents (e.g. Claude Code, Codex, Cursor, etc.) and intelligently sends requests to the best model to serve them. Here's a quick demo of running it locally: https://www.youtube.com/watch?v=isKhAyivtfM . At Weave, we write most of our code with AI, and it's been getting more expensive. This came to a head when Opus 4.7 was released and, thanks to its tokenizer changes, our costs shot up. We knew we didn't need Opus for everything but we didn't want to",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude"
+      ]
+    },
+    {
+      "title": "AlgoEvolve: LLM-driven Meta-evolution of Algorithmic Trading Programs",
+      "url": "https://arxiv.org/abs/2606.26173",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 27 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.26173v1 Announce Type: new \nAbstract: Recent work shows that Large Language Models (LLMs) can act as semantic mutation operators for the evolutionary discovery of programs and proofs. Most current applications focus on static coding benchmarks. We extend this paradigm to algorithmic trading. This domain is uniquely challenging because it is noisy, non-stationary, and highly discontinuous. We present AlgoEvolve, an LLM-driven evolutionary framework that generates, evaluates, and iterat",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model"
+      ]
+    },
+    {
+      "title": "Knowledge-augmented Agentic AI for Mental Health Medication Information Seeking",
+      "url": "https://arxiv.org/abs/2606.26205",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 27 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.26205v1 Announce Type: new \nAbstract: Patients increasingly seek medication information online, yet safety knowledge for psychiatric drugs is split between regulatory adverse-event records, which are authoritative but abstract, and patient narratives, which are experience-near but unvalidated. Integrating them without conflating evidence and anecdote is especially consequential in psychiatry, where poorly contextualised information can amplify fear, nocebo responses, and non-adherence",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "narrative"
+      ]
+    },
+    {
+      "title": "What We are Missing in Multimodal LLM Evaluation?",
+      "url": "https://arxiv.org/abs/2606.26348",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 27 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.26348v1 Announce Type: new \nAbstract: Multimodal large language models (MLLMs) can process diverse inputs, e.g., text, images, audio, and video, and generate textual responses. While their capabilities have advanced rapidly, evaluation of such models has not kept pace. Most existing evaluation benchmarks are limited to isolated tasks and reveal little about whether a model integrates information across modalities. We examine current means for evaluating MLLMs and review the existing b",
+      "score": 6.0,
+      "keywords_matched": [
+        "LLM",
+        "language model",
+        "multimodal"
+      ]
+    },
+    {
+      "title": "Data-driven Machine Learning Cannot Reach Symbolic-level Logical Reasoning -- The Limit of the Scaling Law",
+      "url": "https://arxiv.org/abs/2606.26454",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 27 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.26454v1 Announce Type: new \nAbstract: Sphere neural networks have achieved symbolic level syllogistic reasoning without training data, raising the question of where the limit of the scaling law for logical reasoning lies, i.e., whether data-driven machine learning systems can achieve the same level by increasing training data and training time. We show two methodological limitations that prevent supervised deep learning from reaching the symbolic-level syllogistic reasoning: (1) train",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "neural",
+        "reasoning"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-06-28\n\n好的，我的“疯狂发明家技术雷达”已启动！为你筛选出最能激发你跨学科创意的最新技术浪潮和有趣项目。\n\n---\n\n## [Instruction Bleed: Cross-Module Interference in Prompt-Composed Agentic Systems]\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2606.26356\n- 一句话解释：在由多个 Prompt 组成的 Agent 系统中，即使模块之间没有直接的变量或执行依赖，一个模块的修改也可能意外地影响其他模块的行为。\n- 它为什么重要：这是构建复杂 Agent 系统时一个非常实际且令人头疼的“幽灵bug”问题。理解和解决它，能让我们更稳定、可控地设计和调试 Agent。\n- 技术趋势标签：AI, agent, transformer, prompt, context window, spec-driven development, LLM工具链\n- 可复用模式：模块化 Agent 设计中的“干扰”与“隔离”策略。\n- 疯狂发明家灵感：\n    1. 一个小实验：尝试构建一个简单的多 Agent 系统，其中两个 Agent 共享一个非常大的 Prompt 上下文，然后修改其中一个 Agent 的 Prompt，观察另一个 Agent 的行为是否发生非预期变化。\n    2. 一个中型项目：开发一个“Prompt 隔离器”或“Prompt 监视器”，能够可视化或量化 Prompt 模块之间的相互影响，帮助调试。\n    3. 一个艺术/游戏/叙事方向：设计一个“AI 叙事生成器”，其中的不同 Agent 负责不同的叙事元素（如角色对话、场景描述、情节转折），并利用“Instruction Bleed”来制造意想不到的叙事转折或角色动机的微妙变化。\n- 对我项目的启发：在设计复杂的 Agent 工作流时，需要考虑 Prompt 之间的隐式耦合，并寻找解耦或显式通信的机制。\n- 今天是否值得深入研究：是\n- 建议行动：收藏 / 试用\n\n---\n\n## [SKILL-DISCO: Distilling and Compiling Agent Traces into Reusable Procedural Skills]\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2606.26669\n- 一句话解释：该研究提出了一种方法，可以将 Agent 在执行任务时产生的“思考过程”（trace）提炼成可重用的、程序化的“技能”，避免重复从头开始推理。\n- 它为什么重要：这直接解决了 Agent 系统中效率和可复用性的问题，是迈向更智能、更高效 Agent 的重要一步，也与“spec-driven development”中的模块化和复用精神契合。\n- 技术趋势标签：AI, agent, workflow, reasoning, procedural, automation, LLM工具链\n- 可复用模式：从动态执行到静态技能的转化，以及技能的组合与编排。\n- 疯狂发明家灵感：\n    1. 一个小实验：记录一个 Agent 完成某个特定任务（如数据清洗、代码生成）的完整执行过程，然后尝试手动或用简单的规则提炼出其中的关键步骤，模拟成一个简单的函数或脚本。\n    2. 一个中型项目：构建一个“Agent Skill Miner”，能够自动分析 Agent 的执行日志，识别出重复出现的模式，并将其打包成可调用的“技能模块”，供其他 Agent 复用。\n    3. 一个艺术/游戏/叙事方向：开发一个“AI 编舞系统”，Agent 学习不同的舞蹈动作序列（trace），并将其提炼成可组合的舞蹈“技能”，生成复杂的舞蹈表演。或者，在游戏 AI 中，让 NPC 学习并提炼出执行特定任务（如战斗、采集）的“技能”，使行为更流畅且可复用。\n- 对我项目的启发：可以为我的 Agent 设计一个“技能库”，通过观察和分析，自动生成和优化这些技能，提高 Agent 的效率和通用性。\n- 今天是否值得深入研究：是\n- 建议行动：收藏 / 做demo\n\n---\n\n## [MKG-RAG-Bench: Benchmarking Retrieval in Multimodal Knowledge Graph-Augmented Generation]\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2606.26458\n- 一句话解释：这是一个用于评估多模态知识图谱增强生成（MKG-RAG）中检索（Retrieval）性能的基准测试。\n- 它为什么重要：多模态 RAG 是未来 LLM 应用的重要方向，而检索是其中的关键瓶颈。这个基准有助于推动该领域的研究和发展，尤其是跨模态信息融合的检索。\n- 技术趋势标签：LLM, multimodal, RAG, retrieval, AI, creative tool\n- 可复用模式：多模态信息融合、知识图谱与 RAG 的结合、评估基准的设计。\n- 疯狂发明家灵感：\n    1. 一个小实验：尝试使用一个简单的多模态数据源（如图片+文字描述），构建一个基础的 RAG 系统，并观察当检索时需要融合文本和图像信息时，效果如何。\n    2. 一个中型项目：开发一个“多模态创意内容生成器”，能够根据用户输入的文本和图像，检索相关的多模态知识，然后生成新的、融合了这些信息的创意内容（如故事、诗歌、设计概念）。\n    3. 一个艺术/游戏/叙事方向：构建一个“沉浸式故事体验系统”，用户可以通过上传图片、描述场景来驱动故事发展，系统利用 MKG-RAG 来检索和生成与用户输入高度相关的多模态叙事内容，创建动态且个性化的故事。\n- 对我项目的启发：可以探索如何将多模态信息（图像、声音、甚至是3D模型）集成到我的 Agent 或生成系统中，并通过 RAG 机制来丰富其知识和创造力。\n- 今天是否值得深入研究：是\n- 建议行动：收藏 / 试用\n\n---\n\n## [Cognee: The open-source AI memory platform for agents.]\n- 来源：GitHub Trending Python\n- 链接：https://github.com/topoteretes/cognee\n- 一句话解释：Cognee 是一个开源的 AI Agent 内存平台，通过自托管的知识图谱引擎，为 Agent 提供持久化的长期记忆。\n- 它为什么重要：Agent 的“记忆”是其持续学习和复杂交互的关键。Cognee 提供了一个具体的实现方案，让 Agent 能够“记住”过去，这对于构建更智能、更持久的 Agent 系统至关重要。\n- 技术趋势标签：AI, agent, memory, self-hosted, knowledge graph, LLM工具链\n- 可复用模式：知识图谱作为 Agent 的长期记忆存储，Agent 与记忆系统的交互协议。\n- 疯狂发明家灵感：\n    1. 一个小实验：使用 Cognee 快速搭建一个简单的 Agent，让它执行一系列任务，并观察它是否能记住前一步的上下文，并在后续任务中利用这些信息。\n    2. 一个中型项目：构建一个“AI 个人助理”，利用 Cognee 存储用户的偏好、日程、过往交互信息，使其能够提供更个性化、更连贯的服务。\n    3. 一个艺术/游戏/叙事方向：设计一个“AI 角色扮演游戏 NPC”，NPC 拥有 Cognee 作为其记忆系统，能够记住与玩家的互动历史、已知信息、情感状态等，从而产生更深刻、更动态的角色发展和互动。或者，一个“AI 艺术家助手”，它能记住艺术家之前的创作风格、偏好和反馈，并据此生成新的艺术作品。\n- 对我项目的启发：为我的 Agent 系统集成一个强大的记忆模块，使其能够建立上下文、学习用户偏好，并提供更具连贯性和个性化的体验。\n- 今天是否值得深入研究：是\n- 建议行动：收藏 / 试用\n\n---\n\n## [Show HN: Starglyphs - A constellation puzzle game based on Euler paths]\n- 来源：Hacker News\n- 链接：https://starglyphs.com\n- 一句话解释：一个基于欧拉路径（Euler paths）的星座主题解谜游戏，通过连接星星来形成特定的图案。\n- 它为什么重要：虽然不是直接的 AI 或 Agent 技术，但它展示了如何将数学概念（欧拉路径）与游戏机制和艺术设计相结合，创造出既有挑战性又有美感的体验。这对于“creative coding”和“game systems”的设计非常有启发。\n- 技术趋势标签：game systems, creative coding, procedural generation (implied), math-driven design\n- 可复用模式：数学概念在游戏机制中的应用，程序化生成具有挑战性的谜题。\n- 疯狂发明家灵感：\n    1. 一个小实验：使用 Canvas API 或 p5.js，根据简单的欧拉路径规则，生成一组随机的“星星”和连接线，然后尝试手动连接它们，验证其可解性。\n    2. 一个中型项目：开发一个“程序化谜题生成器”，不仅仅是欧拉路径，还可以是其他图论或组合学概念，生成不同难度和主题的谜题，并提供一个简单的可视化界面。\n    3. 一个艺术/游戏/叙事方向：将欧拉路径的概念应用到“动态艺术生成”中。例如，让一个 Agent 根据输入的“规则”或“情感状态”，在画布上绘制出一条复杂的、具有特定结构的路径，并随着时间的推移而演变。或者，在一个叙事游戏中，玩家需要通过连接“事件点”来解锁故事线，而这些连接的逻辑就是基于某种数学或逻辑规则。\n- 对我项目的启发：可以思考如何将更抽象的数学或逻辑概念（如图论、拓扑学）作为驱动生成式系统（包括艺术、游戏、叙事）的核心机制，创造出更具结构性和深度的作品。\n- 今天是否值得深入研究：是\n- 建议行动：收藏 / 试用\n\n---\n\n## 今日模式总结\n今天出现了几个关键的技术模式：\n\n1.  **Agent 的“智能记忆”与“技能提炼”**：Cognee 强调了 Agent 需要长期记忆来提供连贯服务，而 SKILL-DISCO 则展示了如何将 Agent 的动态执行过程转化为可重用的、程序化的“技能”。这两者共同指向了构建更强大、更自主、更高效 Agent 的方向。\n2.  **多模态信息融合与检索**：MKG-RAG-Bench 突显了在处理图像、声音等多种模态信息时，有效的检索和融合是关键。这为 Agent 和生成系统提供了更丰富的输入维度和更广阔的知识边界。\n3.  **复杂系统中的“隐式行为”与“可控性”**：Instruction Bleed 指出了在由多个组件（如 Prompt 模块）构成的系统中，即使没有显式依赖，也可能存在意想不到的相互影响。这提醒我们在设计复杂系统时，需要关注“spec-driven development”中的可预测性和可控性。\n\n## 今日可做小实验\n**项目名：** Prompt 干扰探测器\n\n**输入：**\n1.  一个简单的多模块 Prompt 结构（例如，一个负责生成故事开头的 Prompt A，一个负责生成角色对话的 Prompt B）。\n2.  一个基础的 LLM API（如 OpenAI, Claude, 或本地模型）。\n\n**输出：**\n一个简单的可视化，显示当你修改 Prompt A 的某个部分时，Prompt B 生成内容的“变化程度”。\n\n**技术栈：**\n- Python\n- OpenAI API (或其他 LLM API)\n- `diff` 库 (用于比较文本差异)\n- (可选) `streamlit` 或 `gradio` 用于简单的 UI\n\n**第一步怎么做：**\n1.  **设置 LLM API 调用：** 编写一个 Python 函数，接收一个 Prompt 字符串，调用 LLM API，并返回生成的文本。\n2.  **定义基础 Prompt 结构：** 创建两个（或更多）Prompt 模板，例如：\n    *   Prompt A 模板: \"写一个故事的开头，关于 [主题]。\"\n    *   Prompt B 模板: \"根据上面的故事开头，写一段角色 [角色名] 的对话，他/她感觉 [情感]。\"\n3.  **实现基础 Agent 流程：** 先用两个 Prompt 独立生成内容，或者按顺序调用。\n4.  **引入“修改”和“比较”：**\n    *   选择 Prompt A 的一个参数（例如，`[主题]`），并准备几个变体。\n    *   对于 Prompt A 的每一个变体，调用 LLM 生成新的 Prompt A 输出。\n    *   **关键步骤：** 使用 *上一次* Prompt A 的输出作为 Prompt B 的输入，生成 Prompt B 的输出。然后，使用 *当前* Prompt A 的输出作为 Prompt B 的输入，再次生成 Prompt B 的输出。\n    *   使用 `difflib.SequenceMatcher` 或其他文本比较工具，计算两次 Prompt B 输出之间的差异（相似度分数）。\n5.  **可视化结果：** 打印出差异分数，或者使用 `streamlit` 创建一个简单的界面，滑动 Prompt A 的参数，实时查看 Prompt B 输出的变化。\n\n这个实验的目标是直观地感受到“Instruction Bleed”的存在，即使你只修改了 Prompt A 的内容，Prompt B 的输出也可能因为上下文窗口的“共振”而发生变化。",
+  "gemini_success": true,
+  "telegram_sent": true,
+  "telegram_status": "sent",
+  "telegram_reason": ""
+}
