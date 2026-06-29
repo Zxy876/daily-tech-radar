@@ -1,0 +1,250 @@
+[
+  {
+    "title": "diegosouzapw / OmniRoute",
+    "url": "https://github.com/diegosouzapw/OmniRoute",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA. [155 stars today]",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "Claude",
+      "Gemini",
+      "Copilot",
+      "GPT",
+      "multimodal"
+    ]
+  },
+  {
+    "title": "ZSeven-W / openpencil",
+    "url": "https://github.com/ZSeven-W/openpencil",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil. [27 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "vector",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch",
+    "url": "https://github.com/JustVugg/nanoeuler",
+    "source": "Hacker News",
+    "published_at": "Sun, 28 Jun 2026 19:38:14 +0000",
+    "description": "Hi everyone, I started working on nanoeuler after the ban of anthropic's fable because my ambition and dream is to work in the AI   field in anthropic. The two interesting reasons that led me to create nanoeuler were (1) interfacing with llm does not mean understanding how they are composed and (2), working on llm with a very low-level layer to understand the correlation between parameters and data and growth of the model and how the GPU works and how some layers can be optimized. So I started w",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "GPT"
+    ]
+  },
+  {
+    "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+    "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+    "source": "Hacker News Best",
+    "published_at": "Sat, 27 Jun 2026 09:18:52 +0000",
+    "description": "Article URL: https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf Comments URL: https://news.ycombinator.com/item?id=48696585 Points: 784 # Comments: 351",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "inference"
+    ]
+  },
+  {
+    "title": "xbtlin / ai-berkshire",
+    "url": "https://github.com/xbtlin/ai-berkshire",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis. [1,445 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude"
+    ]
+  },
+  {
+    "title": "opendatalab / MinerU",
+    "url": "https://github.com/opendatalab/MinerU",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows. [380 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "workflow"
+    ]
+  },
+  {
+    "title": "shuvonsec / claude-bug-bounty",
+    "url": "https://github.com/shuvonsec/claude-bug-bounty",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "AI-powered bug bounty hunting from your terminal - recon, 20 vuln classes, autonomous hunting, and report generation. All inside Claude Code. [12 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "Claude",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs",
+    "url": "https://github.com/kamaludu/bash4llm/",
+    "source": "Hacker News",
+    "published_at": "Sun, 28 Jun 2026 19:43:10 +0000",
+    "description": "Bash4LLM is a single-file Bash wrapper for interacting with LLMs from the terminal.  I created it because I wanted something simple that worked without installing Python, Node, or any other runtime. It uses only Bash, curl, and jq. You can send prompts, start a small chat, process files line by line, stream output, and save session metadata in JSON format. I tried to make it safe and predictable: no use of the system /tmp, no use of eval. Groq is supported by default, and other providers can be ",
+    "score": 4.0,
+    "keywords_matched": [
+      "LLM",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Ford hired AI and sacked humans. It backfired badly",
+    "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
+    "source": "Hacker News Best",
+    "published_at": "Sun, 28 Jun 2026 03:09:13 +0000",
+    "description": "Article URL: https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html Comments URL: https://news.ycombinator.com/item?id=48703968 Points: 233 # Comments: 4",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "automation"
+    ]
+  },
+  {
+    "title": "AMD Strix Halo RDMA Cluster Setup Guide",
+    "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
+    "source": "Hacker News Best",
+    "published_at": "Sun, 28 Jun 2026 00:46:52 +0000",
+    "description": "Article URL: https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md Comments URL: https://news.ycombinator.com/item?id=48703258 Points: 223 # Comments: 75",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "LLM"
+    ]
+  },
+  {
+    "title": "Asian AI startups launch Mythos-like models",
+    "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+    "source": "Hacker News Best",
+    "published_at": "Sat, 27 Jun 2026 13:10:21 +0000",
+    "description": "Article URL: https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/ Comments URL: https://news.ycombinator.com/item?id=48697958 Points: 267 # Comments: 193",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "RAG"
+    ]
+  },
+  {
+    "title": "luongnv89 / claude-howto",
+    "url": "https://github.com/luongnv89/claude-howto",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. [312 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "agent",
+      "Claude"
+    ]
+  },
+  {
+    "title": "TauricResearch / TradingAgents",
+    "url": "https://github.com/TauricResearch/TradingAgents",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework [274 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "agent",
+      "LLM"
+    ]
+  },
+  {
+    "title": "JCodesMore / ai-website-cloner-template",
+    "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Clone any website with one command using AI coding agents [782 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "craft-ai-agents / craft-agents-oss",
+    "url": "https://github.com/craft-ai-agents/craft-agents-oss",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "76 stars today",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "humanlayer / 12-factor-agents",
+    "url": "https://github.com/humanlayer/12-factor-agents",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers? [31 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "agent",
+      "LLM"
+    ]
+  },
+  {
+    "title": "DeusData / codebase-memory-mcp",
+    "url": "https://github.com/DeusData/codebase-memory-mcp",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. [2,190 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "RAG",
+      "memory"
+    ]
+  },
+  {
+    "title": "Sophon PFG-1: a monolithic-3D AI ASIC with 330 GB of on-die DRAM and no HBM",
+    "url": "https://www.phantafield.com/whitepaper",
+    "source": "Hacker News",
+    "published_at": "Mon, 29 Jun 2026 01:23:38 +0000",
+    "description": "Article URL: https://www.phantafield.com/whitepaper Comments URL: https://news.ycombinator.com/item?id=48713686 Points: 3 # Comments: 2",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  },
+  {
+    "title": "Better Images of AI",
+    "url": "https://betterimagesofai.org/",
+    "source": "Hacker News",
+    "published_at": "Sun, 28 Jun 2026 23:50:58 +0000",
+    "description": "Article URL: https://betterimagesofai.org/ Comments URL: https://news.ycombinator.com/item?id=48713051 Points: 8 # Comments: 2",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  },
+  {
+    "title": "We need tech news sources which exclude AI",
+    "url": "https://news.ycombinator.com/item?id=48713041",
+    "source": "Hacker News",
+    "published_at": "Sun, 28 Jun 2026 23:49:50 +0000",
+    "description": "Its now clear that we need to preserve tech press for non AI related things. Techmeme for example is now completely overrun with AI stories. HN is getting closer to that every day. If AI kickback deals, phony new model ratings, high RAM prices and your surprise at how you think you coded something with AI and it was AMAZING! even though it doesnt work is all there is count me out. We need a filter on existing tech news sites or an alternative press. Comments URL: https://news.ycombinator.com/ite",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  }
+]
