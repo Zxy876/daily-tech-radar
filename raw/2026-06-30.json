@@ -1,0 +1,294 @@
+[
+  {
+    "title": "Internalizing the Future: A Unified Agentic Training Paradigm for World Model Planning",
+    "url": "https://arxiv.org/abs/2606.27483",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 29 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.27483v1 Announce Type: new \nAbstract: Large language model (LLM) agents have demonstrated strong capability in sequential decision-making, yet they remains fundamentally reactive in long-horizon tasks. Unlike humans who employ \"what-if\" reasoning to evaluate potential plans before commitment, standard agents lack an internal world model to simulate future outcomes. Therefore, we propose to internalize future-aware planning by training a single autoregressive model to verbalize both a ",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "reasoning",
+      "planning"
+    ]
+  },
+  {
+    "title": "diegosouzapw / OmniRoute",
+    "url": "https://github.com/diegosouzapw/OmniRoute",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA. [617 stars today]",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "Claude",
+      "Gemini",
+      "Copilot",
+      "GPT",
+      "multimodal"
+    ]
+  },
+  {
+    "title": "When Does Personality Composition Matter for Multi-Agent LLM Teams?",
+    "url": "https://arxiv.org/abs/2606.27443",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 29 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.27443v1 Announce Type: new \nAbstract: Personality prompting shapes how large language models communicate, yet whether these behavioral shifts affect objective task outcomes remains under-explored. Prior work shows that agents prompted with low agreeableness produce adversarial language, while those prompted with high agreeableness become cooperative, but the relationship between communication style and task performance has not been systematically examined across multiple domains. In t",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "prompt"
+    ]
+  },
+  {
+    "title": "ToE: A Hierarchical and Explainable Claim Verification Framework with Dynamic Multi-source Evidence Retrieval and Aggregation",
+    "url": "https://arxiv.org/abs/2606.27736",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 29 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.27736v1 Announce Type: new \nAbstract: The rapid spread of fake news poses increasing threats to information ecosystems, especially as AI-generated misinformation under Generative Engine Optimization (GEO) poisoning allows adversarially crafted content to be systematically surfaced by retrieval systems, contaminating LLM reasoning. In this paper, we propose Tree of Evidence (ToE), a hierarchical evidence reasoning framework for automated fact-checking that models each claim as a dynami",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "reasoning",
+      "retrieval",
+      "generative"
+    ]
+  },
+  {
+    "title": "NormAct: A Benchmark for Hidden Social Norm Compliance in Embodied Planning",
+    "url": "https://arxiv.org/abs/2606.27826",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 29 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.27826v1 Announce Type: new \nAbstract: Multimodal large language models (MLLMs) are increasingly deployed as embodied planners in egocentric environments, where task success requires not only achieving instructed goals but also acting in socially appropriate ways. While explicit goals may render certain actions optimal, implicit social norms often impose hidden constraints. Existing evaluations typically focus on explicit goal achievement or direct norm knowledge, seldom assessing whet",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "multimodal",
+      "planning"
+    ]
+  },
+  {
+    "title": "Agent-Native Immune System: Architecture, Taxonomy, and Engineering",
+    "url": "https://arxiv.org/abs/2606.28270",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 29 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.28270v1 Announce Type: new \nAbstract: The transition from static chat bots to autonomous agents--equipped with persistent memory, tool-use protocols, and multi-agent collaboration--has fundamentally expanded the AI threat landscape. Current defense mechanisms, such as perimeter security and training-time alignment, remain external to the agent's active reasoning loop. Consequently, they fall short: a fully aligned agent remains highly vulnerable to runtime hijacking via memory poisoni",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "autonomous",
+      "reasoning",
+      "memory"
+    ]
+  },
+  {
+    "title": "SidConArena: An Environment Evaluating Agents in Open-Ended,Positive-Sum Bargaining Game",
+    "url": "https://arxiv.org/abs/2606.27397",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 29 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.27397v1 Announce Type: cross \nAbstract: Evaluating LLM agents requires dynamic environments that go beyond static reasoning and zero-sum games. Real-world economic interaction is often open-ended and mixed-motive: agents must negotiate, create positive-sum surplus, compete for scarce assets, and plan under delayed returns. We introduce SidConArena, a new benchmark framework for evaluating LLM agents in open-ended, positive-sum bargaining. SidConArena formalizes a multi-player economy ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "game",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Supersede: Diagnosing and Training the Memory-Update Gap in LLM Agents",
+    "url": "https://arxiv.org/abs/2606.27472",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 29 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.27472v1 Announce Type: cross \nAbstract: Large language model (LLM) agents operate over long, multi-session interactions in which facts change: a user moves, a price updates, a plan is revised. Acting correctly requires using the current value of a fact and discarding values that have been superseded. We isolate this ability on real conversational data and show that it is a distinct, unsolved failure. On the knowledge-update subset of LongMemEval, replacing an agent's full context with",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "memory"
+    ]
+  },
+  {
+    "title": "\"Generate\" the Future of Work through AI: Empirical Evidence from Online Labor Markets",
+    "url": "https://arxiv.org/abs/2308.05201",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 29 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2308.05201v4 Announce Type: replace-cross \nAbstract: Large Language Model (LLM)-based generative AI systems are general-purpose tools capable of augmenting or even automating a wide range of job functions, positioning them to reshape labor market dynamics. However, predicting their precise impact a priori is challenging, given AI's simultaneous effects on both demand and supply, as well as the strategic responses of market participants. Leveraging an extensive dataset from a leading online",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "RAG",
+      "generative"
+    ]
+  },
+  {
+    "title": "The Simulacrum: Decision-Theoretic Pretraining for Near-Optimal Time-Series Forecasting and Inference",
+    "url": "https://arxiv.org/abs/2606.27711",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 29 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.27711v1 Announce Type: new \nAbstract: We introduce a neural network-based framework for learning time series estimators through a process we term decision-theoretic pretraining. Analysts specify a generative world, a distribution over data-generating processes, and a target decision objective. A neural network trained on stratified simulations from this world approximates the corresponding optimal decision rule, yielding a neural estimator that provides forecasts, parameter estimates,",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "simulation",
+      "neural",
+      "inference",
+      "generative"
+    ]
+  },
+  {
+    "title": "Open Memory Protocol – One Memory Store for Claude, ChatGPT, Curso",
+    "url": "https://github.com/SMJAI/open-memory-protocol",
+    "source": "Hacker News",
+    "published_at": "Tue, 30 Jun 2026 00:05:33 +0000",
+    "description": "Article URL: https://github.com/SMJAI/open-memory-protocol Comments URL: https://news.ycombinator.com/item?id=48726966 Points: 6 # Comments: 1",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "Claude",
+      "GPT",
+      "memory"
+    ]
+  },
+  {
+    "title": "Towards Reliable and Robust LLM Planning: Symbolic Feedback-Driven Iterative Self-Refinement Framework",
+    "url": "https://arxiv.org/abs/2606.27757",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 29 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.27757v1 Announce Type: new \nAbstract: Large language models (LLMs) have attracted widespread attention from academia and industry, yet their deployment raises critical security concerns regarding robustness and reliability. Planning, a core component of intelligent behavior, remains challenging for LLMs, which often produce infeasible or incorrect solutions in long-horizon decision-making tasks due to inherent complexity. In this paper, we propose a symbolic feedback-driven iterative ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "planning"
+    ]
+  },
+  {
+    "title": "Understanding Rollout Error in Graph World Models",
+    "url": "https://arxiv.org/abs/2606.27780",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 29 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.27780v1 Announce Type: new \nAbstract: World models are often used for planning by rolling learned dynamics forward. Many planning environments, however, are not vectors or images; they are graphs of agents, tools, skills, routes, and dependencies. In these settings, a local prediction error may stay local or spread through the graph, and the failure mode changes again when edges are predicted rather than fixed. This paper studies long-horizon rollout error in Graph World Models (GWMs)",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "vector",
+      "planning"
+    ]
+  },
+  {
+    "title": "Grounded Iterative Language Planning: How Parameterized World Models Reduce Hallucination Propagation in LLM Agents",
+    "url": "https://arxiv.org/abs/2606.27806",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 29 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.27806v1 Announce Type: new \nAbstract: World models for language agents come in two useful forms. An agent-based world model calls an LLM API and reasons flexibly in language, but its errors appear as hallucinated state changes that are hard to score with ordinary regression losses. A parameterized world model is a trained transition predictor; its errors are easier to measure with quantities such as NodeMSE, delta accuracy, and validity accuracy, but it is usually weaker as a standalo",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "planning"
+    ]
+  },
+  {
+    "title": "ATOD: Annealed Turn-aware On-policy Distillation for Multi-turn Autonomous Agents",
+    "url": "https://arxiv.org/abs/2606.27814",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 29 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.27814v1 Announce Type: new \nAbstract: Training small language-model agents for long-horizon interactive tasks requires both fast imitation and reward-driven improvement. On-policy distillation (OPD) provides dense teacher guidance and typically improves rapidly in the early stage, but its gains saturate once the student approaches the teacher, limiting the final performance ceiling. Reinforcement learning (RL) directly optimizes environment rewards and encourages exploratory improveme",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "autonomous",
+      "RAG"
+    ]
+  },
+  {
+    "title": "Tandem Reinforcement Learning with Verifiable Rewards",
+    "url": "https://arxiv.org/abs/2606.28166",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 29 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.28166v1 Announce Type: new \nAbstract: Reinforcement learning with verifiable rewards (RLVR) has significantly improved the reasoning capability of large language models, reaching expert or even superhuman performance in domains such as competition math. However, whether weaker agents and humans can actually harness this capability is far less certain, with RLVR documented to drift reasoning toward idiosyncratic patterns such as poor readability and language mixing. Tandem training is ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "DataStates-LLM: Scalable Checkpointing for Transformer Models Using Composable State Providers",
+    "url": "https://arxiv.org/abs/2601.16956",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 29 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2601.16956v1 Announce Type: cross \nAbstract: The rapid growth of Large Transformer-based models, specifically Large Language Models (LLMs), now scaling to trillions of parameters, has necessitated training across thousands of GPUs using complex hybrid parallelism strategies (e.g., data, tensor, and pipeline parallelism). Checkpointing this massive, distributed state is critical for a wide range of use cases, such as resilience, suspend-resume, investigating undesirable training trajectorie",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "transformer",
+      "language model"
+    ]
+  },
+  {
+    "title": "Towards Evaluation of Implicit Software World Models in Coding LLMs",
+    "url": "https://arxiv.org/abs/2606.27406",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 29 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.27406v1 Announce Type: cross \nAbstract: Software engineering, whether performed by humans or by AI agents, requires reasoning about how software behaves. We call the internal model that supports such reasoning the software world model, and view current code-execution benchmarks as covering one well-studied slice of it -- control flow. In this paper, we take a step toward a broader evaluation by shifting the observable axis to execution resources: alongside test outcome and exception c",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Large Language Model Teaches Visual Students: Cross-Modality Transfer of Fine-Grained Conceptual Knowledge",
+    "url": "https://arxiv.org/abs/2606.27527",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 29 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.27527v1 Announce Type: cross \nAbstract: Large Language Models (LLMs) possess broad conceptual knowledge acquired through large-scale text pretraining, yet their potential to supervise models in other modalities remains underexplored. In this work, we propose LaViD--Language-to-Visual Knowledge Distillation--a simple and effective framework for transferring high-level semantic knowledge from a language-only teacher to a vision-only student model. Instead of relying on paired multimodal",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "multimodal"
+    ]
+  },
+  {
+    "title": "HandMade: Spatial Prompting for Generative 3D Creation with Part-Labeled VR Sketches",
+    "url": "https://arxiv.org/abs/2606.27738",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 29 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.27738v1 Announce Type: new \nAbstract: Text-to-3D generation lowers the barrier to 3D content creation, but text alone is a weak interface for specifying spatial intent: where parts should be placed, how they relate, and how an object should be organized in 3D. We present HandMade, a workflow that combines VR 3D sketching and language for open-domain 3D asset generation. HandMade treats coarse, part-labeled 3D sketches not as incomplete geometry to reconstruct directly, but as spatial ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "workflow",
+      "prompt",
+      "generative"
+    ]
+  }
+]
