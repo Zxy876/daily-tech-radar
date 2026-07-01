@@ -1,0 +1,309 @@
+[
+  {
+    "title": "Customized Generative AI Agent for Transportation Engineering Practice: A Development and Continued Pre-training Guideline",
+    "url": "https://arxiv.org/abs/2606.29014",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 30 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.29014v1 Announce Type: new \nAbstract: Recent advancements in generative artificial intelligence (AI) and large language models (LLMs) have shown significant promise in automating complex reasoning, summarization, and question-answering tasks. However, the effectiveness of general-purpose LLMs in specialized engineering domains remains limited due to insufficient exposure to technical standards, engineering terminology, and domain-specific semantics. This study proposes a systematic ap",
+    "score": 14.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "generative art",
+      "language model",
+      "reasoning",
+      "generative"
+    ]
+  },
+  {
+    "title": "Characterizing Large Language Model Agentic Workflows: A Study on N8n Ecosystem",
+    "url": "https://arxiv.org/abs/2606.29116",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 30 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.29116v1 Announce Type: new \nAbstract: Large Language Models (LLMs) are rapidly being adopted in low-code and no-code automation platforms, where non-expert users design workflows that combine natural language understanding with external services and APIs. LLM agents are LLM systems that use LLMs as a core \"brain\" to reason, plan, and autonomously execute complex, multi-step tasks. In this paper, we present the first large-scale empirical study of LLM agentic workflows in low-code auto",
+    "score": 14.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "automation",
+      "language model",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "IMCBench: A benchmark for multimodal LLMs in Image-grounded Medical Conversations",
+    "url": "https://arxiv.org/abs/2606.28556",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 30 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.28556v1 Announce Type: new \nAbstract: Recent advances in large language models and vision-language models have enabled reasoning over multimodal data, offering opportunities for clinical applications such as decision support and triaging. However, existing medical AI benchmarks are fragmented: some support multi-turn dialogues but lack images, while others provide multimodal inputs but focus on single-turn QA tasks. To address this gap, we introduce IMCBench, an image-grounded, multi-",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "multimodal",
+      "RAG",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Search for Truth from Reasoning: A Dynamic Representation Editing Framework for Steering LLM Trajectories",
+    "url": "https://arxiv.org/abs/2606.28589",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 30 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.28589v1 Announce Type: new \nAbstract: Current approaches to enhance Large Language Model (LLM) reasoning, such as Chain-of-Thought and \"Wait\" prompts, primarily encourage models to think more, yet often fail to guide them toward Truth. While Representation Editing (RepE) offers a intrinsic control, its application to dynamic reasoning trajectories remains underexplored. In this work, we bridge this gap by investigating the geometry of truth within unfolding reasoning chains. We uncove",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "RAG",
+      "prompt",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Self-Supervised Theorem Discovery in a Formal Axiomatic System",
+    "url": "https://arxiv.org/abs/2606.28747",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 30 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.28747v1 Announce Type: new \nAbstract: Recent artificial intelligence (AI) systems have shown remarkable progress in mathematical reasoning. Many existing approaches, including large language models (LLMs), draw on human prior knowledge in the form of mathematical text, code, or theorem libraries. Although these approaches are highly effective in practice, it remains an open question whether an agent can autonomously discover useful theorems without such human priors. We study this que",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "autonomous",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Memory as an Attack Surface in LLM Agents: A Study on Multiple-Choice Question Answering",
+    "url": "https://arxiv.org/abs/2606.29030",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 30 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.29030v1 Announce Type: new \nAbstract: AI agents extend conventional large language model (LLM) applications by integrating language understanding with task execution, external tool use, and memory mechanisms. While memory allows agents to retain prior interactions and provide more personalized and context-aware responses, it also introduces a new vulnerability: information stored in memory can influence future outputs even when the current query is clean. In this paper, we investigate",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "tool use",
+      "memory"
+    ]
+  },
+  {
+    "title": "Colon-Bench: An Agentic Workflow for Scalable Dense Lesion Annotation in Full-Procedure Colonoscopy Videos",
+    "url": "https://arxiv.org/abs/2603.25645",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 30 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2603.25645v3 Announce Type: replace-cross \nAbstract: Early screening via colonoscopy is critical for colon cancer prevention, yet developing robust AI systems for this domain is hindered by the lack of densely annotated, long-sequence video datasets. Existing datasets predominantly focus on single-class polyp detection and lack the rich spatial, temporal, and linguistic annotations required to evaluate modern Multimodal Large Language Models (MLLMs). To address this critical gap, we introd",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "language model",
+      "multimodal"
+    ]
+  },
+  {
+    "title": "diegosouzapw / OmniRoute",
+    "url": "https://github.com/diegosouzapw/OmniRoute",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA. [387 stars today]",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "Claude",
+      "Gemini",
+      "Copilot",
+      "GPT",
+      "multimodal"
+    ]
+  },
+  {
+    "title": "Mechanistic Personality Analysis of LLMs Steering Personality via Latent Feature Interventions",
+    "url": "https://arxiv.org/abs/2606.28770",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 30 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.28770v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have demonstrated the ability to simulate human-like OCEAN personality traits in generated text. Previous efforts have focused on prompt engineering or fine-tuning to shape LLM personality. In this work, we propose a mechanistic interpretability approach that directly intervenes on the model's latent features. Our method identifies latent directions in the residual stream corresponding to a target OCEAN trait using spa",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "fine-tuning",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Primary ICD Category Prediction using LLM-based Probing",
+    "url": "https://arxiv.org/abs/2606.28798",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 30 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.28798v1 Announce Type: new \nAbstract: Objective: ICD codes are central to reimbursement, research, and population health surveillance, yet automated coding systems often struggle to integrate diagnostic signals from both clinical narratives and structured electronic health record (EHR) variables. We evaluated whether frozen medical large language model (LLM) representations can serve as a shared embedding space for multimodal primary diagnosis category prediction.\n  Materials and Meth",
+    "score": 10.0,
+    "keywords_matched": [
+      "LLM",
+      "language model",
+      "multimodal",
+      "embedding",
+      "narrative"
+    ]
+  },
+  {
+    "title": "Selective Memory Retention for Long-Horizon LLM Agents",
+    "url": "https://arxiv.org/abs/2606.29178",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 30 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.29178v1 Announce Type: new \nAbstract: When does retention matter for memory-augmented LLM agents? We study this with TraceRetain, a lightweight framework for bounded external memory in frozen LLM agents that scores entries by interpretable features (success, age, access frequency, redundancy, specificity, similarity, downstream utility) and evicts the lowest-scoring ones at capacity. On clean ALFWorld with gpt-5-mini, external memory robustly improves over no memory across two seeds, ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "GPT",
+      "memory"
+    ]
+  },
+  {
+    "title": "Making Multimodal LLMs Reliable Chart Data Extractors: A Benchmark and Training Framework",
+    "url": "https://arxiv.org/abs/2606.29808",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 30 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.29808v1 Announce Type: new \nAbstract: Chart data extraction, which reverse-engineers data tables from chart images, is essential for reproducibility, analysis, retrieval, and redesign. Existing interactive tools are reliable but tedious, and mixed-initiative systems, while more efficient, lack generalizability. Recent multimodal large language models (MLLMs) offer a unified interface for chart interpretation, yet their ability to extract accurate data tables, especially without visibl",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "multimodal",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Four Types of LLM Reliance and Their Predictors Among Undergraduate Writers: A Mixed-Methods Study at a Minority-Serving R1 University",
+    "url": "https://arxiv.org/abs/2606.28749",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 30 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.28749v1 Announce Type: cross \nAbstract: Although most undergraduates now use large language models (LLMs), a form of generative artificial intelligence (GenAI) for academic writing, no validated method distinguishes the qualitatively different ways students rely on them. Existing instruments assess reliance solely by frequency of use, a measure that, as this study shows, inadvertently rewards dependence on AI rather than recognizing students' own intellectual contribution. Conducted a",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "generative art",
+      "language model",
+      "generative"
+    ]
+  },
+  {
+    "title": "Semantic Prompting: Agentic Incremental Narrative Refinement through Spatial Semantic Interaction",
+    "url": "https://arxiv.org/abs/2604.19971",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 30 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2604.19971v2 Announce Type: replace \nAbstract: Interactive spatial layouts empower users to synthesize information and organize findings for sensemaking. While Large Language Models (LLMs) can automate narrative generation from spatial layouts, current collage-based and re-generation methods struggle to support the incremental spatial refinements inherent to the sensemaking process. We identify three critical gaps in existing spatial-textual generation: interaction-revision misalignment, h",
+    "score": 10.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "language model",
+      "prompt",
+      "narrative"
+    ]
+  },
+  {
+    "title": "PageGuide: Browser extension to assist users in navigating a webpage and locating information",
+    "url": "https://arxiv.org/abs/2604.23772",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 30 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2604.23772v3 Announce Type: replace \nAbstract: Users browsing the web daily struggle to quickly locate relevant information in cluttered pages, complete unfamiliar multi-step tasks, and stay focused amid distracting content. State-of-the-art AI assistants (e.g., ChatGPT, Gemini, Claude) and browser agents (e.g., OpenAI Operator, Browser Use) can answer questions and automate actions, yet they return answers without showing where the information comes from on the page, forcing users to manu",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "Gemini",
+      "GPT"
+    ]
+  },
+  {
+    "title": "LLM Agents Grounded in Self-Reports Enable General-Purpose Simulation of Individuals",
+    "url": "https://arxiv.org/abs/2411.10109",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 30 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2411.10109v3 Announce Type: replace-cross \nAbstract: Machine learning can predict human behavior well when substantial structured data are available for well-defined outcomes. Such models are typically outcome-specific, however, requiring training data for each target outcome, limiting their applicability to new domains. We test whether large language models (LLMs) can relax these requirements by using self-report data to build attitudinal and behavioral simulations, or \"generative agents,",
+    "score": 9.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "simulation",
+      "language model",
+      "generative"
+    ]
+  },
+  {
+    "title": "Recursive Self-Evolving Agents via Held-Out Selection",
+    "url": "https://arxiv.org/abs/2606.28374",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 30 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.28374v1 Announce Type: new \nAbstract: LLM agents are increasingly improved without weight updates by evolving a natural-language artifact, such as reflections, workflows, playbooks, cheatsheets, or optimized prompts, that conditions a frozen policy. Such methods are typically reported as wins on the single benchmark where they help. We study them apples-to-apples and surface a sharper picture. We introduce RSEA, a Recursive Self-Evolving Agent that carries a compact three-layer natura",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "workflow",
+      "prompt"
+    ]
+  },
+  {
+    "title": "GPTNT: Benchmarking Real-Time Collaboration Between Multimodal Agents on Keep Talking And Nobody Explodes",
+    "url": "https://arxiv.org/abs/2606.28514",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 30 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.28514v1 Announce Type: new \nAbstract: Multimodal models are increasingly deployed to solve tasks collaboratively with humans or other artificial agents. Existing benchmarks show that these models possess many of the required component capabilities, but the conditions that coincide in collaboration, including time pressure, information asymmetry, and imperfect communication, are usually studied in isolation. We introduce GPTNT, a benchmark built on the cooperative video game Keep Talki",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "game",
+      "GPT",
+      "multimodal"
+    ]
+  },
+  {
+    "title": "Aristotelian Virtue Profiling of LLMs through Ethical Dilemmas",
+    "url": "https://arxiv.org/abs/2606.28683",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 30 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.28683v1 Announce Type: new \nAbstract: Large Language Models (LLMs) often face ethical tradeoffs in which several responses may be defensible but express different priorities, such as fairness, honesty, courage, or restraint. We introduce VirtueMap, a framework for describing these patterns through an Aristotelian virtue-ethics lens. Instead of asking for a single correct answer, VirtueMap asks humans or LLMs to rank all five responses to each of seven general, non-lethal, non-politica",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "RAG"
+    ]
+  },
+  {
+    "title": "BV-Blend: Uncertainty-Weighted Historical Baselines for Stable Critic-Free RL with Verifiable Rewards",
+    "url": "https://arxiv.org/abs/2606.28707",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 30 Jun 2026 00:00:00 -0400",
+    "description": "arXiv:2606.28707v1 Announce Type: new \nAbstract: Critic-free reinforcement learning with verifiable rewards (RLVR), exemplified by Group Relative Policy Optimization (GRPO), avoids training a value function (critic) and reduces memory and compute overhead relative to critic-based PPO pipelines for aligning large language models. However, GRPO-style advantage estimation depends on prompt-local (within-prompt-group) reward statistics and can be unstable. In particular, when all rollouts in a promp",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "language model",
+      "prompt",
+      "memory"
+    ]
+  }
+]

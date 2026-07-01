@@ -1,0 +1,317 @@
+{
+  "date": "2026-07-01",
+  "candidates": [
+    {
+      "title": "Customized Generative AI Agent for Transportation Engineering Practice: A Development and Continued Pre-training Guideline",
+      "url": "https://arxiv.org/abs/2606.29014",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 30 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.29014v1 Announce Type: new \nAbstract: Recent advancements in generative artificial intelligence (AI) and large language models (LLMs) have shown significant promise in automating complex reasoning, summarization, and question-answering tasks. However, the effectiveness of general-purpose LLMs in specialized engineering domains remains limited due to insufficient exposure to technical standards, engineering terminology, and domain-specific semantics. This study proposes a systematic ap",
+      "score": 14.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "generative art",
+        "language model",
+        "reasoning",
+        "generative"
+      ]
+    },
+    {
+      "title": "Characterizing Large Language Model Agentic Workflows: A Study on N8n Ecosystem",
+      "url": "https://arxiv.org/abs/2606.29116",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 30 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.29116v1 Announce Type: new \nAbstract: Large Language Models (LLMs) are rapidly being adopted in low-code and no-code automation platforms, where non-expert users design workflows that combine natural language understanding with external services and APIs. LLM agents are LLM systems that use LLMs as a core \"brain\" to reason, plan, and autonomously execute complex, multi-step tasks. In this paper, we present the first large-scale empirical study of LLM agentic workflows in low-code auto",
+      "score": 14.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "workflow",
+        "automation",
+        "language model",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "IMCBench: A benchmark for multimodal LLMs in Image-grounded Medical Conversations",
+      "url": "https://arxiv.org/abs/2606.28556",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 30 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.28556v1 Announce Type: new \nAbstract: Recent advances in large language models and vision-language models have enabled reasoning over multimodal data, offering opportunities for clinical applications such as decision support and triaging. However, existing medical AI benchmarks are fragmented: some support multi-turn dialogues but lack images, while others provide multimodal inputs but focus on single-turn QA tasks. To address this gap, we introduce IMCBench, an image-grounded, multi-",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "multimodal",
+        "RAG",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Search for Truth from Reasoning: A Dynamic Representation Editing Framework for Steering LLM Trajectories",
+      "url": "https://arxiv.org/abs/2606.28589",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 30 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.28589v1 Announce Type: new \nAbstract: Current approaches to enhance Large Language Model (LLM) reasoning, such as Chain-of-Thought and \"Wait\" prompts, primarily encourage models to think more, yet often fail to guide them toward Truth. While Representation Editing (RepE) offers a intrinsic control, its application to dynamic reasoning trajectories remains underexplored. In this work, we bridge this gap by investigating the geometry of truth within unfolding reasoning chains. We uncove",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "RAG",
+        "prompt",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Self-Supervised Theorem Discovery in a Formal Axiomatic System",
+      "url": "https://arxiv.org/abs/2606.28747",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 30 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.28747v1 Announce Type: new \nAbstract: Recent artificial intelligence (AI) systems have shown remarkable progress in mathematical reasoning. Many existing approaches, including large language models (LLMs), draw on human prior knowledge in the form of mathematical text, code, or theorem libraries. Although these approaches are highly effective in practice, it remains an open question whether an agent can autonomously discover useful theorems without such human priors. We study this que",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "autonomous",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Memory as an Attack Surface in LLM Agents: A Study on Multiple-Choice Question Answering",
+      "url": "https://arxiv.org/abs/2606.29030",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 30 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.29030v1 Announce Type: new \nAbstract: AI agents extend conventional large language model (LLM) applications by integrating language understanding with task execution, external tool use, and memory mechanisms. While memory allows agents to retain prior interactions and provide more personalized and context-aware responses, it also introduces a new vulnerability: information stored in memory can influence future outputs even when the current query is clean. In this paper, we investigate",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "tool use",
+        "memory"
+      ]
+    },
+    {
+      "title": "Colon-Bench: An Agentic Workflow for Scalable Dense Lesion Annotation in Full-Procedure Colonoscopy Videos",
+      "url": "https://arxiv.org/abs/2603.25645",
+      "source": "arXiv cs.HC",
+      "published_at": "Tue, 30 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2603.25645v3 Announce Type: replace-cross \nAbstract: Early screening via colonoscopy is critical for colon cancer prevention, yet developing robust AI systems for this domain is hindered by the lack of densely annotated, long-sequence video datasets. Existing datasets predominantly focus on single-class polyp detection and lack the rich spatial, temporal, and linguistic annotations required to evaluate modern Multimodal Large Language Models (MLLMs). To address this critical gap, we introd",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "workflow",
+        "language model",
+        "multimodal"
+      ]
+    },
+    {
+      "title": "diegosouzapw / OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA. [387 stars today]",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "Claude",
+        "Gemini",
+        "Copilot",
+        "GPT",
+        "multimodal"
+      ]
+    },
+    {
+      "title": "Mechanistic Personality Analysis of LLMs Steering Personality via Latent Feature Interventions",
+      "url": "https://arxiv.org/abs/2606.28770",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 30 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.28770v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have demonstrated the ability to simulate human-like OCEAN personality traits in generated text. Previous efforts have focused on prompt engineering or fine-tuning to shape LLM personality. In this work, we propose a mechanistic interpretability approach that directly intervenes on the model's latent features. Our method identifies latent directions in the residual stream corresponding to a target OCEAN trait using spa",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "fine-tuning",
+        "prompt"
+      ]
+    },
+    {
+      "title": "Primary ICD Category Prediction using LLM-based Probing",
+      "url": "https://arxiv.org/abs/2606.28798",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 30 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.28798v1 Announce Type: new \nAbstract: Objective: ICD codes are central to reimbursement, research, and population health surveillance, yet automated coding systems often struggle to integrate diagnostic signals from both clinical narratives and structured electronic health record (EHR) variables. We evaluated whether frozen medical large language model (LLM) representations can serve as a shared embedding space for multimodal primary diagnosis category prediction.\n  Materials and Meth",
+      "score": 10.0,
+      "keywords_matched": [
+        "LLM",
+        "language model",
+        "multimodal",
+        "embedding",
+        "narrative"
+      ]
+    },
+    {
+      "title": "Selective Memory Retention for Long-Horizon LLM Agents",
+      "url": "https://arxiv.org/abs/2606.29178",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 30 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.29178v1 Announce Type: new \nAbstract: When does retention matter for memory-augmented LLM agents? We study this with TraceRetain, a lightweight framework for bounded external memory in frozen LLM agents that scores entries by interpretable features (success, age, access frequency, redundancy, specificity, similarity, downstream utility) and evicts the lowest-scoring ones at capacity. On clean ALFWorld with gpt-5-mini, external memory robustly improves over no memory across two seeds, ",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "GPT",
+        "memory"
+      ]
+    },
+    {
+      "title": "Making Multimodal LLMs Reliable Chart Data Extractors: A Benchmark and Training Framework",
+      "url": "https://arxiv.org/abs/2606.29808",
+      "source": "arXiv cs.HC",
+      "published_at": "Tue, 30 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.29808v1 Announce Type: new \nAbstract: Chart data extraction, which reverse-engineers data tables from chart images, is essential for reproducibility, analysis, retrieval, and redesign. Existing interactive tools are reliable but tedious, and mixed-initiative systems, while more efficient, lack generalizability. Recent multimodal large language models (MLLMs) offer a unified interface for chart interpretation, yet their ability to extract accurate data tables, especially without visibl",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "multimodal",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Four Types of LLM Reliance and Their Predictors Among Undergraduate Writers: A Mixed-Methods Study at a Minority-Serving R1 University",
+      "url": "https://arxiv.org/abs/2606.28749",
+      "source": "arXiv cs.HC",
+      "published_at": "Tue, 30 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.28749v1 Announce Type: cross \nAbstract: Although most undergraduates now use large language models (LLMs), a form of generative artificial intelligence (GenAI) for academic writing, no validated method distinguishes the qualitatively different ways students rely on them. Existing instruments assess reliance solely by frequency of use, a measure that, as this study shows, inadvertently rewards dependence on AI rather than recognizing students' own intellectual contribution. Conducted a",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "generative art",
+        "language model",
+        "generative"
+      ]
+    },
+    {
+      "title": "Semantic Prompting: Agentic Incremental Narrative Refinement through Spatial Semantic Interaction",
+      "url": "https://arxiv.org/abs/2604.19971",
+      "source": "arXiv cs.HC",
+      "published_at": "Tue, 30 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2604.19971v2 Announce Type: replace \nAbstract: Interactive spatial layouts empower users to synthesize information and organize findings for sensemaking. While Large Language Models (LLMs) can automate narrative generation from spatial layouts, current collage-based and re-generation methods struggle to support the incremental spatial refinements inherent to the sensemaking process. We identify three critical gaps in existing spatial-textual generation: interaction-revision misalignment, h",
+      "score": 10.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "language model",
+        "prompt",
+        "narrative"
+      ]
+    },
+    {
+      "title": "PageGuide: Browser extension to assist users in navigating a webpage and locating information",
+      "url": "https://arxiv.org/abs/2604.23772",
+      "source": "arXiv cs.HC",
+      "published_at": "Tue, 30 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2604.23772v3 Announce Type: replace \nAbstract: Users browsing the web daily struggle to quickly locate relevant information in cluttered pages, complete unfamiliar multi-step tasks, and stay focused amid distracting content. State-of-the-art AI assistants (e.g., ChatGPT, Gemini, Claude) and browser agents (e.g., OpenAI Operator, Browser Use) can answer questions and automate actions, yet they return answers without showing where the information comes from on the page, forcing users to manu",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "Gemini",
+        "GPT"
+      ]
+    },
+    {
+      "title": "LLM Agents Grounded in Self-Reports Enable General-Purpose Simulation of Individuals",
+      "url": "https://arxiv.org/abs/2411.10109",
+      "source": "arXiv cs.HC",
+      "published_at": "Tue, 30 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2411.10109v3 Announce Type: replace-cross \nAbstract: Machine learning can predict human behavior well when substantial structured data are available for well-defined outcomes. Such models are typically outcome-specific, however, requiring training data for each target outcome, limiting their applicability to new domains. We test whether large language models (LLMs) can relax these requirements by using self-report data to build attitudinal and behavioral simulations, or \"generative agents,",
+      "score": 9.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "simulation",
+        "language model",
+        "generative"
+      ]
+    },
+    {
+      "title": "Recursive Self-Evolving Agents via Held-Out Selection",
+      "url": "https://arxiv.org/abs/2606.28374",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 30 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.28374v1 Announce Type: new \nAbstract: LLM agents are increasingly improved without weight updates by evolving a natural-language artifact, such as reflections, workflows, playbooks, cheatsheets, or optimized prompts, that conditions a frozen policy. Such methods are typically reported as wins on the single benchmark where they help. We study them apples-to-apples and surface a sharper picture. We introduce RSEA, a Recursive Self-Evolving Agent that carries a compact three-layer natura",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "workflow",
+        "prompt"
+      ]
+    },
+    {
+      "title": "GPTNT: Benchmarking Real-Time Collaboration Between Multimodal Agents on Keep Talking And Nobody Explodes",
+      "url": "https://arxiv.org/abs/2606.28514",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 30 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.28514v1 Announce Type: new \nAbstract: Multimodal models are increasingly deployed to solve tasks collaboratively with humans or other artificial agents. Existing benchmarks show that these models possess many of the required component capabilities, but the conditions that coincide in collaboration, including time pressure, information asymmetry, and imperfect communication, are usually studied in isolation. We introduce GPTNT, a benchmark built on the cooperative video game Keep Talki",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "game",
+        "GPT",
+        "multimodal"
+      ]
+    },
+    {
+      "title": "Aristotelian Virtue Profiling of LLMs through Ethical Dilemmas",
+      "url": "https://arxiv.org/abs/2606.28683",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 30 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.28683v1 Announce Type: new \nAbstract: Large Language Models (LLMs) often face ethical tradeoffs in which several responses may be defensible but express different priorities, such as fairness, honesty, courage, or restraint. We introduce VirtueMap, a framework for describing these patterns through an Aristotelian virtue-ethics lens. Instead of asking for a single correct answer, VirtueMap asks humans or LLMs to rank all five responses to each of seven general, non-lethal, non-politica",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "RAG"
+      ]
+    },
+    {
+      "title": "BV-Blend: Uncertainty-Weighted Historical Baselines for Stable Critic-Free RL with Verifiable Rewards",
+      "url": "https://arxiv.org/abs/2606.28707",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 30 Jun 2026 00:00:00 -0400",
+      "description": "arXiv:2606.28707v1 Announce Type: new \nAbstract: Critic-free reinforcement learning with verifiable rewards (RLVR), exemplified by Group Relative Policy Optimization (GRPO), avoids training a value function (critic) and reduces memory and compute overhead relative to critic-based PPO pipelines for aligning large language models. However, GRPO-style advantage estimation depends on prompt-local (within-prompt-group) reward statistics and can be unstable. In particular, when all rollouts in a promp",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "language model",
+        "prompt",
+        "memory"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-07-01\n\n嘿！我是你的**疯狂发明家技术雷达**。今天我从海量的新学术成果和开源项目中，为你人肉筛选了 **5 条**最酷、最怪、最能直接转化为你创意燃料的干货。\n\n今天的主题极其硬核，涵盖了**空间交互（HCI）、实时游戏对抗、神经层面的性格注射、自进化系统、以及白嫖生产力工具**。\n\n让我们直接进入正题！\n\n---\n\n## 1. [Semantic Prompting: 空间语义交互下的叙事增量重构]\n- **来源**：arXiv cs.HC\n- **链接**：https://arxiv.org/abs/2604.19971\n- **一句话解释**：通过在无限画布上拖拽、组织卡片（空间语义交互），让 AI Agent 增量式地理解用户的叙事意图并协同生成复杂故事，而不是每次都粗暴地重新生成。\n- **它为什么重要**：传统的 LLM 写作或脑图工具要么是一次性生成（难以精细控制），要么是简单的文本拼贴。这篇文章把“空间布局（Spatial Layout）”直接作为 Prompt 的一部分，让用户的拖拽、分组、拉线等物理动作，变成 Agent 的“增量推理步骤”。这是新一代 HCI 创意工具的核心范式。\n- **技术趋势标签**：Creative Tools, HCI, Spatial Computing, Agentic UI, Interactive Narrative.\n- **可复用模式**：**\"Spatial-to-Prompt Mapping\"（空间-提示词映射）** —— 将画布上卡片的距离、重叠、连接线等几何关系，动态转化为 LLM 的上下文结构和约束条件。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：一个单页 HTML 画布，拖拽两个角色卡片，距离越近，AI 实时生成的对话越亲密；拉上一条红线，立刻生成宿敌决斗场景。\n  2. **一个中型项目**：游戏关卡设计编辑器。在网页上摆放“史莱姆”、“宝箱”、“熔岩”的图标，AI 自动根据它们的空间相对位置，生成 Minecraft 的 `.schematic` 结构文件或世界生成规则。\n  3. **一个艺术/游戏/叙事方向**：互动叙事装置《重力情书》。观众在物理投影桌面上移动实体方块（代表不同的情感词汇），AI 实时生成一首随着空间物理距离变化而改变情绪和韵律的动态视觉诗歌。\n- **对我项目的启发**：极大地启发了 spec-driven dev 与 Agent 协作界面。不要让用户写死板的 Prompt，让用户通过“排版和拖拽”来“暗示”Agent。\n- **今天是否值得深入研究**：是\n- **建议行动**：做demo\n\n---\n\n## 2. [GPTNT: 多模态 Agent 在《保持通畅，没人爆炸》中的实时协作评测]\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2606.28514\n- **一句话解释**：让两个多模态 AI Agent 合作玩《保持通畅，没人爆炸》（Keep Talking and Nobody Explodes，一个看说明书，一个操作炸弹），在时间压力、信息不对称和不完美通信下进行实时协作。\n- **它为什么重要**：现有的多模态评测都是静态的。这个项目把 Agent 推向了“实时、高压、强交互”的极端游戏场景。它要求 Agent 必须具备：1. 实时多模态理解（看画面/看说明书）；2. 极度压缩和精准的语言表达（时间不够）；3. 容错与对齐机制。\n- **技术趋势标签**：Game Systems, Multi-Agent Collaboration, Real-Time HCI, Multimodal LLM.\n- **可复用模式**：**\"Asymmetric Information Sync Protocol\"（非对称信息同步协议）** —— 两个 Agent 拥有完全不同的 Context（A有图无字，B有字无图），通过轻量级 RPC 信道进行实时对齐。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：制作一个“双向盲画”小游戏。Agent A 看到一张随机生成的像素画，用最简短的文字描述给 Agent B，Agent B 实时用 Python 画出来，看两者的误差。\n  2. **一个中型项目**：合作解谜 Minecraft 关卡。两个 LLM Agent，一个扮演“指挥官”（拥有地图全景和陷阱说明书），另一个扮演“执行者”（在游戏里操作，只有第一人称视角），通过 Websocket 实时通信通关。\n  3. **一个艺术/游戏/叙事方向**：戏剧表演系统《失语症排练》。两个 AI 角色在虚拟舞台上，一个只能做动作（发送 3D 骨骼数据），另一个只能说话，它们必须在 3 分钟内合作完成一场“谋杀案”的即兴排练，观众可以实时干扰其中一个的信息流。\n- **对我项目的启发**：游戏系统是测试 Agent 鲁棒性的终极沙盒。利用这种“非对称信息流”，可以创造出极具戏剧张力和幽默感的 NPC 交互。\n- **今天是否值得深入研究**：是\n- **建议行动**：做demo\n\n---\n\n## 3. [Mechanistic Personality Analysis: 通过潜特征干预直接控制 LLM 的性格]\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2606.28770\n- **一句话解释**：不再通过 Prompt 或微调，而是直接在 LLM 的隐藏层（Latent Features）中进行介入（Intervention），精准、连续地控制和改变模型的“大五人格（OCEAN）”特征。\n- **它为什么重要**：传统的 Prompt 控制人格非常不稳，模型容易“出戏”或忘记设定。通过表征工程（Representation Engineering），我们可以在模型运行时直接给某些“人格维度（如外向、神经质）”的激活值加上偏置（Bias）。这相当于直接在 AI 的“神经层面”注射人格药水。\n- **技术趋势标签**：Representation Engineering, Mechanistic Interpretability, AI Psychology, Creative Coding.\n- **可复用模式**：**\"Latent Steering Vector Injector\"（潜空间方向向量注入）** —— 提取特定概念（如“傲娇”或“疯狂”）在隐藏层的方向向量，并在 Inference 时动态相加。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：使用 Llama.cpp 或 Transformer 库，提取一个“幽默”向量，在生成文本时手动调整这个向量的权重（从 -2 到 +2），观察同一句回答如何从“极度沉闷”变成“满嘴跑火车”。\n  2. **一个中型项目**：动态人格 NPC 系统。在游戏（如 Minecraft）中，NPC 的健康值、饥饿度或遭遇的事件，会直接转换为“焦虑”或“愤怒”的 Latent 向量偏置。NPC 的台词风格和行为逻辑会随着这些生理指标在神经层面产生丝滑、非线性的渐变。\n  3. **一个艺术/游戏/叙事方向**：艺术装置《多重人格分裂的打印机》。一台打字机在不断打印日记，观众可以通过拨动台面上的物理旋钮（连接 Arduino 传感器，映射到 LLM 隐藏层的不同特征维度），实时扭曲打印机吐出文字的“人格倾向”（如从“极度自卑”到“狂妄自大”）。\n- **对我项目的启发**：完美的 Creative Coding 燃料！忘掉死板的 Prompt 吧，未来的角色控制是“滑块式”的神经调音台。\n- **今天是否值得深入研究**：是\n- **建议行动**：做demo\n\n---\n\n## 4. [Recursive Self-Evolving Agents: 递归自进化 Agent 的运行手册演化]\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2606.28374\n- **一句话解释**：让 Agent 在不更新模型权重的前提下，通过自我反思和在验证集上的筛选，自主演化和优化其运行的“自然语言伪代码/运行手册（Playbook）”，实现递归自我进化。\n- **它为什么重要**：这就是 Spec-driven development 的终极形态！我们不需要训练模型，而是让 Agent 自己去编写、测试、重构自己的“系统说明书（Specification）”。它解决了 Prompt Engineering 难以工程化评估和迭代的痛点。\n- **技术趋势标签**：Spec-driven Development, Self-Evolving Systems, Meta-Prompting, Agent Workflow.\n- **可复用模式**：**\"Specification-Evolution Loop\"（规范进化环）** —— 运行任务 -> 收集失败案例 -> 演化 Playbook -> 在留存测试集上验证 -> 更新 Playbook -> 循环。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：写一个 Python 脚本，让 AI Agent 挑战写特定格式的诗歌。每次失败后，Agent 自行修改它的“系统提示词规则列表”，并通过测试集自动验证，迭代 5 轮，输出进化后的“黄金提示词”。\n  2. **一个中型项目**：自进化关卡设计 Agent。给定一个 Minecraft 建筑风格标准，Agent 自动生成建筑，由另一个“裁判 Agent”打分。生成 Agent 根据打分反馈，不断重写自己的“建筑设计规范（Markdown 文档）”，直到能稳定输出高分建筑。\n  3. **一个艺术/游戏/叙事方向**：互动装置《规则的达尔文》。一个由 AI 驱动的“虚拟微型社会”，居民的行动规则写在共享的“宪法（Playbook）”里。每当社会发生冲突，AI 议会就会修改宪法，并在模拟测试中验证新宪法是否能降低冲突率。观众可以往社会里投放灾难（如饥荒），观察宪法如何自我演化。\n- **对我项目的启发**：极大地启发了自动化系统。让代码/提示词自己长出来，我们只需要定义“测试规范（Spec）”和“留存测试集”。\n- **今天是否值得深入研究**：是\n- **建议行动**：做demo\n\n---\n\n## 5. [OmniRoute: 疯狂开发者的免费 AI 多模态网关与极致压缩器]\n- **来源**：GitHub Trending TypeScript\n- **链接**：https://github.com/diegosouzapw/OmniRoute\n- **一句话解释**：一个开源的、支持 231+ 提供商的免费 AI 网关，内置 RTK+Caveman 极致上下文压缩算法（可节省 15-95% 的 Token 消耗），完美对接 Cursor/Claude Code/Cline 等工具。\n- **它为什么重要**：对于疯狂发明家来说，Token 的消耗和多模型 API 的管理是最大的痛点。这个工具不仅免费好用，其最骚的地方在于“极限 Token 压缩”和“多源自动降级（Auto-fallback）”。它能让你在做多 Agent 复杂实验时，几乎零成本、高可用地运行。\n- **技术趋势标签**：LLM Toolchain, Token Optimization, Developer Workflow, Edge AI Gateway.\n- **可复用模式**：**\"Context Squeezing\"（上下文榨汁）** —— 通过特定算法裁剪和压缩冗余的 Prompt 结构，保留核心语义，极大降低 Agent 长期对话的延迟和成本。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：部署 OmniRoute 本地实例，将其配置为你的 Cursor 或 Cline 后端，体验零成本调用各种开源/闭源模型的极速反馈。\n  2. **一个中型项目**：“离线/低带宽”野外多 Agent 系统。利用其极高的压缩比，构建一个可以通过 LoRa 物理无线电（极低带宽）传输 LLM 提示词的野外环境监测 Agent 阵列。\n  3. **一个艺术/游戏/叙事方向**：装置艺术《数字废墟的低语》。将 OmniRoute 部署在树莓派上，连接一个老旧的 56k 拨号调制解调器，通过极度压缩的 Token 传输，让一个远端 AI 与本地的复古终端进行极慢、极廉价但长达数年的“哲学对话”。\n- **对我项目的启发**：扫平了我们进行“多 Agent、长上下文、多模态”实验的财务和技术门槛。\n- **今天是否值得深入研究**：是\n- **建议行动**：试用\n\n---\n\n## 今日模式总结\n\n1. **空间几何语义化 (Spatial-to-Semantic Mapping)**：将屏幕上的物理空间、拖拽、连线直接转化为 LLM 的逻辑上下文。这打破了传统的“输入框”限制，是 HCI 与 AI 结合的未来。\n2. **潜空间直接干预 (Latent-Space Intervention)**：告别自然语言 Prompt，通过直接在模型隐藏层注入“方向向量”来控制 AI 的行为（如人格、情感、风格）。这是更稳定、可连续调节的 Creative Coding 新手段。\n3. **规范自我演化 (Self-Evolving Specification)**：让 Agent 在不调整权重的前提下，通过测试集反馈，自主迭代自己的“运行手册/Playbook”。这是 Spec-driven development 的高级形态。\n\n---\n\n## 今日可做小实验\n\n### 项目名：Spatial Canvas Dialogue Generator (空间画布对话发生器)\n- **输入**：网页画布上两个代表“角色”的 HTML Div 块，用户可以通过鼠标拖拽改变它们的距离。\n- **输出**：两个角色之间的实时对话。对话的“紧张度”、“亲密度”和“话题冲突度”直接由两个 Div 块的像素距离（Distance）作为参数，动态插入到 LLM 的 System Prompt 中。\n- **技术栈**：HTML5 Canvas / TailwindCSS (前端) + Python/Node.js (后端) + OmniRoute (中转调用免费的 Gemini/Claude API)。\n- **第一步怎么做**：\n  1. 用 HTML 写一个极简页面，放两个圆圈（代表 A 和 B），用 JS 实现 `draggable`，计算并实时显示两圆之间的距离 `d`（像素值）。\n  2. 写一个简单的 API 请求：当用户停止拖拽时，触发 API，Prompt 结构为：`\"角色A和B在荒野中。他们现在的物理距离是{d}像素（100px代表贴贴，1000px代表极远）。请生成他们之间的一句对话。距离越近，对话越私密/紧张；距离越远，声音越疏离/需要大喊。\"`。\n  3. 运行它，体验通过改变物理距离",
+  "gemini_success": true,
+  "telegram_sent": false,
+  "telegram_status": "failed",
+  "telegram_reason": "400 Client Error: Bad Request for url: https://api.telegram.org/bot8650722899:AAHUD-aqNDB7NwiPiGq3R22MVp77Cr_5GEQ/sendMessage"
+}
