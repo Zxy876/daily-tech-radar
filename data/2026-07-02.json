@@ -1,0 +1,305 @@
+{
+  "date": "2026-07-02",
+  "candidates": [
+    {
+      "title": "Investigating Multi-Agent Deliberation in Law",
+      "url": "https://arxiv.org/abs/2606.30906",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 01 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2606.30906v1 Announce Type: new \nAbstract: Artificial Intelligence is increasingly applied to the field of law, and has the potential to increase access to justice. One particular movement that is gaining traction is that of agentic AI, wherein AI agents, based on Large Language Models (LLMs) can take autonomous actions. In particular, multi-agent approaches in the legal domain remain largely unexplored. In this paper, we investigate multi-agent deliberation methods for legal reasoning tas",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "autonomous",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "OpenLife: Toward Open-World Artificial Life with Autonomous LLM Agents",
+      "url": "https://arxiv.org/abs/2606.31046",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 01 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2606.31046v1 Announce Type: new \nAbstract: Artificial life has explored life-like behavior on many computational substrates, but mostly in researcher-designed closed worlds. We argue that large language model (LLM) agents, with persistent memory, tool use, network access, and payment, now make it possible to move artificial life into the open social, technical, and economic world, a paradigm we call open-world Artificial Life (open-world ALIFE). Our proof-of-concept, OpenLife, surrounds a ",
+      "score": 12.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "language model",
+        "autonomous",
+        "tool use",
+        "memory"
+      ]
+    },
+    {
+      "title": "MultiUAV-Plat: An LLM-Oriented Platform, Benchmark and Framework for Multi-UAV Collaborative Task Planning",
+      "url": "https://arxiv.org/abs/2606.31073",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 01 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2606.31073v1 Announce Type: new \nAbstract: Large language models (LLMs) provide a promising interface for high-level robotic task planning, but their use in multi-UAV collaboration remains difficult to evaluate systematically. Existing UAV simulators mainly emphasize dynamics, perception, or low-level control, while existing LLM-agent benchmarks rarely capture aerial-robotics constraints such as partial observability, spatial coverage, UAV assignment, and multi-vehicle coordination. To bri",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "RAG",
+        "planning"
+      ]
+    },
+    {
+      "title": "Agentic RAG-VLM: Affordance-Aware Retrieval-Augmented Generation with Self-Reflective Planning for Robotic Grasping",
+      "url": "https://arxiv.org/abs/2606.31200",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 01 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2606.31200v1 Announce Type: new \nAbstract: Generalizable robotic grasping in cluttered environments is essential for deploying manipulators in unstructured human spaces, yet existing VLM-based methods rely on visual similarity for object matching, neglecting physical affordances such as handle graspability and material fragility, and operate open-loop without spatial reasoning or failure recovery, limiting their effectiveness when objects are densely packed or physically diverse. We presen",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "RAG",
+        "reasoning",
+        "planning",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "diegosouzapw / OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA. [1,010 stars today]",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "Claude",
+        "Gemini",
+        "Copilot",
+        "GPT",
+        "multimodal"
+      ]
+    },
+    {
+      "title": "Contrastive Reflection for Iterative Prompt Optimization",
+      "url": "https://arxiv.org/abs/2606.30840",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 01 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2606.30840v1 Announce Type: new \nAbstract: LLM agents are becoming central to information retrieval: they issue retrieval queries, synthesize answers, and increasingly serve as judges for IR evaluation. Improving the prompts that control these agents is an optimization problem, but in applied IR settings it often looks less like blind search and more like debugging. Engineers need to know which behavior failed, which nearby behavior still worked, what distinguishes the two, and whether a p",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "prompt",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Thinking Before Retrieving: Robust Zero-Shot Composed Image Retrieval via Strategic Planning and Self-Criticism",
+      "url": "https://arxiv.org/abs/2606.31222",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 01 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2606.31222v1 Announce Type: new \nAbstract: Composed image retrieval requires identifying a target image from a gallery by integrating a reference image with a textual modification instruction. In a training-free zero-shot setting, this task relies on constructing a retrieval-oriented textual query within a frozen vision--language embedding space at inference time. Existing approaches predominantly rely on a single-pass generation strategy that fuses the reference context and modification t",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "embedding",
+        "inference",
+        "planning",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "The Organizational Behavior of Agentic AI: Collective Intelligence in Human-Agent Workflows",
+      "url": "https://arxiv.org/abs/2606.30986",
+      "source": "arXiv cs.HC",
+      "published_at": "Wed, 01 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2606.30986v1 Announce Type: cross \nAbstract: Agentic artificial intelligence is increasingly deployed not as a single assistant but as a collective of planners, solvers, reviewers, memory managers, tool users, and orchestrators. These systems are entering organisational workflows under familiar labels such as teams, managers, committees, markets, and workflows. This article asks whether such agent collectives exhibit organisational behaviour in a sense that is analytically comparable to, y",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "workflow",
+        "tool use",
+        "memory"
+      ]
+    },
+    {
+      "title": "GUI-AIMA: Aligning Intrinsic Multimodal Attention with a Context Anchor for GUI Grounding",
+      "url": "https://arxiv.org/abs/2511.00810",
+      "source": "arXiv cs.HC",
+      "published_at": "Wed, 01 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2511.00810v4 Announce Type: replace-cross \nAbstract: Graphical user interface (GUI) grounding is a key capability for computer-use agents, mapping natural-language instructions to actionable regions on the screen. Existing Multimodal Large Language Model (MLLM) approaches typically formulate GUI grounding as a text-based coordinate generation task. However, directly generating precise coordinates from visual inputs is challenging and often data-intensive. A more intuitive strategy is to fi",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "multimodal"
+      ]
+    },
+    {
+      "title": "ISM:Self-Improving Strategy Memory for Continual Mathematical Reasoning",
+      "url": "https://arxiv.org/abs/2606.31191",
+      "source": "arXiv cs.LG",
+      "published_at": "Wed, 01 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2606.31191v1 Announce Type: new \nAbstract: We propose Intelligent Schema Memory (ISM), a self-evolving memory-augmented system that improves mathematical reasoning for a frozen LLM under continual learning with hard episodic resets. ISM maintains a compact, self-refined bank of strategy schemas learned from both successful and failed episodes, with symbolic tools that check intermediate steps and certify answers.Without updating model parameters, ISM outperforms passive, retrieval, and ref",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "reasoning",
+        "memory",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "How Can AI Find My Model? A Model-Finding Experimental Study Considering Data Formats, Embeddings, and Retrieval Strategies",
+      "url": "https://arxiv.org/abs/2606.30846",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 01 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2606.30846v1 Announce Type: new \nAbstract: Discovering simulation models for reuse remains a fundamental challenge in Modeling and Simulation (M&S). When many models coexist, identifying those that align with a given modeling intent remains difficult. Recent advances in Artificial Intelligence (AI), particularly retrieval-based approaches, offer a promising pathway to operate at this semantic layer. In this paper, we present an experimental study investigating the impact of data representa",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "simulation",
+        "embedding",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "AgentBound: Verifiable Behavioral Governance for Autonomous AI Agents",
+      "url": "https://arxiv.org/abs/2606.30970",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 01 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2606.30970v1 Announce Type: new \nAbstract: Autonomous AI agents increasingly perform consequential actions on behalf of human principals, including financial transactions, external communications, and enterprise workflows. Existing agent infrastructure relies on identity federation and delegated authorization to authenticate workloads and control resource access, but it cannot determine whether an authorized action should be executed under the current behavioral and operational context.\n  ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "workflow",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "Beyond the Library: An Agentic Framework for Autoformalizing Research Mathematics",
+      "url": "https://arxiv.org/abs/2606.31134",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 01 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2606.31134v1 Announce Type: new \nAbstract: While Large Language Models (LLMs) have demonstrated exceptional capabilities in mathematical reasoning, they frequently produce subtle errors that evade human detection. Formal mathematical languages like Lean 4 offer mechanical proof checking, strongly motivating the need for autoformalization: the automatic translation of natural language mathematics into verifiable code. Recent trends indicate that general-purpose LLMs, heavily optimized for s",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "ClawArena-Team: Benchmarking Subagent Orchestration and Dynamic Workflows in Language-Model Agents",
+      "url": "https://arxiv.org/abs/2606.31174",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 01 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2606.31174v1 Announce Type: new \nAbstract: Production large language-model (LLM) agents are increasingly deployed not as lone problem-solvers but as managers: a main model creates specialized subagents, delegates work, and orchestrates their parallel, asynchronous returns through dynamic workflows. Whether one model can actually run such a team is largely unmeasured: existing benchmarks score a policy's own task-solving or a fixed multi-agent system's emergent behavior, but none isolate th",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "workflow"
+      ]
+    },
+    {
+      "title": "HealthAgentBench: A Unified Benchmark Suite of Realistic Agentic Healthcare Environments for Challenging Frontier AI Agents",
+      "url": "https://arxiv.org/abs/2606.31179",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 01 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2606.31179v1 Announce Type: new \nAbstract: As AI agents become increasingly capable of complex, long-horizon reasoning, rigorous and holistic evaluation is essential for measuring progress toward real-world healthcare applications. We introduce HealthAgentBench, a suite of 54 agentic healthcare tasks across 7 categories each with its unique environment. The benchmark suite spans diverse workflows throughout the patient journey and a broad range of modalities. Each task is designed to repli",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "workflow",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Long-term Traffic Simulation via Structured Autoregressive Modeling",
+      "url": "https://arxiv.org/abs/2606.31209",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 01 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2606.31209v1 Announce Type: new \nAbstract: Interactive traffic simulation is a vital world model for autonomous driving. A central challenge in long-horizon simulation is modeling sustained multi-agent interactions, which is further exacerbated by dynamic token cardinality as agents continuously enter and exit the scene. In this work, we propose that the solution lies in the synergy between the architectural inductive biases and statistical priors of large-scale sequence models, e.g., Larg",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "simulation",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "Embodied CAD: Solver-Grounded LLM Agents for Parametric B-Rep Assembly Modeling",
+      "url": "https://arxiv.org/abs/2606.31252",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 01 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2606.31252v1 Announce Type: new \nAbstract: Large language models can write plausible CAD scripts, but reliable industrial CAD modeling requires more than syntactically valid code: every feature, placement, and assembly relation must be accepted by an exact geometric kernel while remaining editable as parametric boundary representation geometry. We present Embodied CAD, solver-grounded LLM agents for parametric B-Rep assembly modeling. Instead of generating a complete script in one pass, th",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model"
+      ]
+    },
+    {
+      "title": "From Search to Synthesis: Training LLMs as Zero-Shot Workflow Generators",
+      "url": "https://arxiv.org/abs/2606.30704",
+      "source": "arXiv cs.LG",
+      "published_at": "Wed, 01 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2606.30704v1 Announce Type: new \nAbstract: Large language models (LLMs) excel across a wide range of tasks, yet their instance-specific solutions often lack the structural consistency needed for reliable deployment. Workflows that encode recurring algorithmic patterns at the task level provide a principled framework, offering robustness across instance variations, interpretable traces for debugging, and reusability across problem instances. However, manually designing such workflows requir",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "workflow",
+        "language model"
+      ]
+    },
+    {
+      "title": "Quality-Aware Modulation for Diffusion Transformers",
+      "url": "https://arxiv.org/abs/2606.30934",
+      "source": "arXiv cs.LG",
+      "published_at": "Wed, 01 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2606.30934v1 Announce Type: new \nAbstract: Modern text-to-image diffusion models, such as diffusion transformers (DiT), rely on timestep or prompt embeddings to modulate the strength of the denoising process in each timestep. While this modulation communicates the current noise level, it does not provide any quality-aware information, which can lead to generated images that are unaligned, visually inconsistent, and lacking in fidelity. In this paper, we propose the Quality Representation M",
+      "score": 8.0,
+      "keywords_matched": [
+        "transformer",
+        "diffusion",
+        "embedding",
+        "prompt"
+      ]
+    },
+    {
+      "title": "ComplianceGate: Classifier-Gated Multi-Tier LLM Routing for Inference in Regulated Industries",
+      "url": "https://arxiv.org/abs/2606.31163",
+      "source": "arXiv cs.LG",
+      "published_at": "Wed, 01 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2606.31163v1 Announce Type: new \nAbstract: Large language models deployed in regulated industries operate under two constraints: compliance enforcement and cost efficiency. Personally identifiable information (PII) in user queries can reach model endpoints before the system determines whether that data should leave its jurisdictional boundary. Serving all queries through a single large model consumes full GPU capacity regardless of query complexity while offering no mechanism for geographi",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "inference"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-07-02\n\n为你筛选出今天最值得关注的 **5 条** 技术情报。今天的主题非常硬核：**从“单打独斗”的 Agent 走向“社会化组织”，以及如何用 AI 生成绝对精确的物理/设计几何体。**\n\n---\n\n## 1. OpenLife: Toward Open-World Artificial Life with Autonomous LLM Agents\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2606.31046\n- **一句话解释**：将人工生命（Artificial Life）从封闭的沙盒实验室，推向拥有真实网络访问、长期记忆、工具链甚至支付能力的开放真实世界。\n- **它为什么重要**：以前的 AI 模拟（如《斯坦福小镇》）是在虚拟的温室里玩过家家。OpenLife 提出让 Agent 拥有真实的社会和经济属性，它们可以自己去网上赚钱、消费、调用 API、在真实的互联网上繁衍和交流。这是“数字生物”走向现实的起点。\n- **技术趋势标签**：#ArtificialLife #OpenWorldAgents #AgentEconomy #Simulation\n- **可复用模式**：**“现实挂钩型生存回路”**：给 Agent 绑定真实的 API Key、微额支付账户和持久化数据库，让其通过完成现实任务（如写代码、生成艺术）来“赚取”维持自身运行算力的资金。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：写一个“推特流浪汉”Agent，给它 5 美元初始资金，它必须通过在 Twitter 上帮人写诗、做图并收取微额打赏来“赚取”自己的 API 额度，如果余额归零则“死亡”。\n  2. **一个中型项目**：一个基于 Minecraft 的“自主经济生态”。Agent 们不仅在游戏内挖矿，还能通过 Webhook 将游戏内物资挂单到真实的网页上交易，甚至雇用现实中的人类玩家帮它们打工。\n  3. **一个艺术/游戏/叙事方向**：*《数字温室的遗产》*：一个运行在网页上的数字水族箱，里面的“电子鱼”（LLM Agent）每天观察现实世界的股市和天气，通过写博客表达情绪，当它们死后，会用自己赚来的钱在 GitHub 上发布一个开源纪念库。\n- **对我项目的启发**：可以用来设计你自己的“世界生成/自治系统”。不要把 Agent 局限在沙盒里，给它们接入真实世界的输入输出（如实时天气、Web 搜索、甚至 GitHub 提交）。\n- **今天是否值得深入研究**：是\n- **建议行动**：做 demo\n\n---\n\n## 2. diegosouzapw / OmniRoute\n- **来源**：GitHub Trending TypeScript\n- **链接**：https://github.com/diegosouzapw/OmniRoute\n- **一句话解释**：一个免费的、极度压缩的 AI 网关，一个端点连接 231+ 个模型提供商（含 50+ 免费渠道），自带 RTK+Caveman 压缩算法，可节省 15-95% 的 Token 消耗。\n- **它为什么重要**：做多 Agent 实验和创意编程最头疼的就是 **API 账单爆表**。OmniRoute 解决了两个痛点：1. 聚合了海量免费/便宜的 API；2. 用极其极端的压缩算法砍掉了上下文中的废话，让你的 Agent 运行成本暴跌。\n- **技术趋势标签**：#LLMToolchain #TokenCompression #CostOptimization #IndieDev\n- **可复用模式**：**“上下文骨架压缩（RTK/Caveman Stacked Compression）”**：在将 prompt 发送给 LLM 之前，通过去掉冗余语法词、合并重复上下文，只保留语义骨架。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：部署 OmniRoute，把你的 Cursor 或 Cline 接入它的免费 Claude/Gemini 节点，体验零成本的 Spec-driven 自动编程。\n  2. **一个中型项目**：写一个“口袋 AI 创意伴侣”（Pocket Creative Companion），完全基于免费的 API 路由和本地压缩算法，运行在树莓派上，作为一个低成本、零月租的实体交互玩具。\n  3. **一个艺术/游戏/叙事方向**：*《廉价的低语》*：一个完全由被高度压缩（甚至有些语义失真）的免费 AI 节点组成的交响乐团。由于 Token 被压缩了 90%，它们说话带有奇妙的“赛博方言”和抽象美感，彼此进行着成本极低的永恒辩论。\n- **对我项目的启发**：立刻用它作为你所有实验性 Agent 系统的底层网关，彻底摆脱 API 焦虑。\n- **今天是否值得深入研究**：是\n- **建议行动**：试用（直接部署作为本地代理）\n\n---\n\n## 3. The Organizational Behavior of Agentic AI\n- **来源**：arXiv cs.HC\n- **链接**：https://arxiv.org/abs/2606.30986\n- **一句话解释**：将**人类组织行为学**（团队、经理、委员会、市场）引入多 Agent 系统，探讨如何让 Agent 像公司一样协作。\n- **它为什么重要**：目前的 Multi-agent 系统大多采用生硬的 DAG（有向无环图）或硬编码的 Chain 工作流。这篇论文指出，未来的 Agent 系统应该学习人类的“组织架构”，比如成立“临时委员会”解决冲突，或者引入“内部市场机制”分配计算资源。\n- **技术趋势标签**：#AgentWorkflow #HCI #CollectiveIntelligence #OrganizationalBehavior\n- **可复用模式**：**“罗伯特议事规则（Robert's Rules of Order）代理模式”**：当多个 Agent 意见不一致时，不采用简单的 LLM 投票，而是通过正式的提案、辩论、修正案流程来达成共识。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：写一个“吐槽大会”代码评审器。三个 Agent 分别扮演“教条主义 Tech Lead”、“极简主义黑客”和“悲观的安全专家”，对你的一段代码进行激烈的圆桌辩论，最终形成一份折中的重构 Spec。\n  2. **一个中型项目**：一个“自组织创意工作室”。你只需要输入一个高维度的艺术概念，一个“总经理 Agent”会自动招募（实例化）“视觉总监”、“技术美术”和“文案策划”等子 Agent，它们会通过内部的“预算分配”和“周报机制”来协同产出作品。\n  3. **一个艺术/游戏/叙事方向**：*《官僚主义迷宫》*：一个纯文字冒险游戏，玩家扮演一个想在“AI 帝国”里办签证的人类，你必须在一层层由不同性格、互相推诿、需要盖章的 Agent 部门（如“合规部”、“Token 审计部”）之间周旋。\n- **对我项目的启发**：在设计 Agent 工作流时，告别简单的 `A -> B -> C`，尝试引入“汇报线”、“审计员”和“冲突调解员”等社会学角色。\n- **今天是否值得深入研究**：是\n- **建议行动**：收藏（作为架构设计的理论支撑）\n\n---\n\n## 4. Embodied CAD: Solver-Grounded LLM Agents for Parametric B-Rep Assembly Modeling\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2606.31252\n- **一句话解释**：让 LLM Agent 不仅能写出好看的 CAD 脚本，还能通过与“几何求解器（Geometric Kernel）”闭环交互，生成绝对精确、符合工业装配规范的参数化 3D 模型。\n- **它为什么重要**：LLM 极其不擅长精确的数学和物理空间计算，经常生成“看起来对但无法拼装”的 3D 模型。这项研究引入了“求解器接地（Solver-Grounded）”，即：LLM 生成代码 -> 求解器运行并报错 -> LLM 根据几何约束报错进行自我修正。这是生成式设计（Generative Design）的圣杯。\n- **技术趋势标签**：#GenerativeDesign #CreativeCoding #HCI #SolverGrounded\n- **可复用模式**：**“代码生成-求解器反馈（Code-Solver Feedback Loop）”**：不依赖 LLM 的直觉，而是让 LLM 充当“草稿撰写者”，让硬核的数学/物理引擎充当“严苛的裁判”，通过报错信息引导 LLM 逼近完美解。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：用 OpenSCAD（一种用代码写 3D 模型的工具）+ Claude API，写一个能根据用户描述（如“一个能插 5 支笔、带抽屉的斜面笔筒”）自动生成、自校正、确保能无缝拼装的 3D 打印 STL 文件生成器。\n  2. **一个中型项目**：一个“声学家具生成器”。用户输入房间尺寸和想要的音响效果，Agent 动态编写 CAD 脚本生成扩散板，利用声学模拟器作为求解器进行迭代反馈，最终输出完美的木工切割图纸。\n  3. **一个艺术/游戏/叙事方向**：*《无法居住的纪念碑》*：一个生成艺术装置，AI 试图为人类历史事件建造“纪念碑”的 3D 结构，但它必须受到严格的重力、风阻和材料力学求解器的约束，观众可以看到 AI 在屏幕上不断推倒、重建那些在物理上会坍塌的奇特雕塑。\n- **对我项目的启发**：对于跨学科的设计/CS 背景，这是完美的结合点！将 AI 的发散性创意与严谨的物理/几何计算引擎（如 Three.js, OpenSCAD, Cannon.js）通过反馈回路绑定。\n- **今天是否值得深入研究**：是\n- **建议行动**：做demo\n\n---\n\n## 5. ClawArena-Team: Benchmarking Subagent Orchestration and Dynamic Workflows\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2606.31174\n- **一句话解释**：评估和实现“主模型（Manager）动态创建、分发、协调多个异步运行的专业子 Agent（Subagents）”的动态工作流框架。\n- **它为什么重要**：传统的 Agent 框架（如 AutoGPT）是单线程线性思考。ClawArena 关注的是**动态多线程派生**——就像一个经验丰富的项目经理，发现任务太复杂时，会瞬间“分身”出 3 个写前端的、2 个写后端的、1 个做测试的子 Agent，并行工作，并在终点合并成果。\n- **技术趋势标签**：#AgentOrchestration #DynamicWorkflow #SpecDriven\n- **可复用模式**：**“动态分身与归并（Spawn-and-Merge）”**：主 Agent 负责解析复杂 Spec，将子任务打包成独立 Prompt 动态实例化子 Agent，子 Agent 异步完成后，由主 Agent 进行冲突合并。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：写一个“多视角小说大纲生成器”。主 Agent 设定故事背景，动态派生出 3 个不同性格的角色 Agent 异步写各自视角的日记，最后由主 Agent 将日记合并成一部多线叙事的短篇小说。\n  2. **一个中型项目**：一个“全自动 Spec-driven 游戏原型机”。你给出一个游戏创意，主 Agent 动态派生出“关卡设计 Agent”（生成 JSON 关卡）、“美术风格 Agent”（生成 SVG 贴图）和“逻辑 Agent”（写 JS 代码），最后自动组装成一个 HTML5 游戏。\n  3. **一个艺术/游戏/叙事方向**：*《永无止境的剧组》*：一个网页端的互动戏剧，观众输入一个荒诞的戏剧冲突（如“外星人闯入莎士比亚话剧”），主 Agent 动态派生出导演、编剧、舞台监督和演员 Agent，在后台实时排练、修改剧本并实时渲染台词和舞台效果。\n- **对我项目的启发**：对你的 Spec-driven 自动化系统极有启发。可以让系统根据 Spec 的复杂度，动态决定需要“雇佣”多少个垂直领域的子 Agent，而不是用一个万能 Agent 包揽一切。\n- **今天是否值得深入研究**：是\n- **建议行动**：做demo\n\n---\n\n## 今日模式总结\n\n1. **组织化协作（Organizational Collaboration）**：Agent 正在脱离单一实体的限制，开始模拟人类的社会组织结构（如公司、法庭、委员会）。设计多 Agent 系统时，“社会学关系”比“技术接口”更重要。\n2. **求解器闭环（Solver-in-the-loop）**：不要让 LLM 凭空想象精确的数据（如 CAD 坐标、物理数值）。必须建立 **“LLM（发散创意） <-> 求解器（严苛物理约束） <-> 错误反馈”** 的闭环。\n3. **动态并发派生（Dynamic Spawning）**：从静态的“流水线工作流”转向“主 Agent 根据实时任务复杂度，动态创建和销毁专业子 Agent”的弹性架构。\n\n---\n\n## 今日可做小实验：2小时极速挑战\n\n### 项目名：The OpenSCAD Toy Maker (自校正 3D 玩具生成器)\n\n- **输入**：用户一句简单的自然语言描述，例如：“一个猫咪形状的、带两个轮子的滑板玩具”。\n- **输出**：一个在物理上绝对合理、无重叠、可直接用于 3D 打印的 OpenSCAD 代码文件。\n- **技术栈**：\n  - **LLM**: Claude 3.5 Sonnet (通过 OmniRoute 或直接调用)\n  - **运行环境**: Python + OpenSCAD (命令行工具 `openscad`)\n  - **逻辑反馈**: Python 脚本解析 OpenSCAD 编译时的报错信息或几何重叠检测，反馈给 Claude 进行修正。\n\n#### 第一步怎么做：\n1. **安装环境**：下载并安装 OpenSCAD，确保能在终端运行 `openscad -o output.png input.scad`。\n2. **编写 Python 骨架**：\n   - 准备一个 Base Prompt，告诉 Claude：“你是一个精通 OpenSCAD 语法的工业设计师。请仅输出有效的 OpenSCAD 代码，不要包含任何 Markdown 标记。”\n   - 接收用户的玩具构想，让 Claude 生成第一版 `.scad` 代码。\n3. **建立反馈闭环**：\n   - 用 Python 运行 OpenSCAD 命令行，尝试将代码渲染为图片。\n   - 如果 OpenSCAD 报错（例如语法错误、未定义的模块），捕获标准错误输出（`stderr`），连同原代码一起打包发回给 Claude：“你的代码在编译时出现了以下错误，请修正：[错误内容]”。\n   - 迭代 2-3 次，直到成功生成无报错的 3D 模型图片并在窗口中展示！",
+  "gemini_success": true,
+  "telegram_sent": true,
+  "telegram_status": "sent",
+  "telegram_reason": ""
+}
