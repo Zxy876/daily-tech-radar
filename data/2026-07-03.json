@@ -1,0 +1,305 @@
+{
+  "date": "2026-07-03",
+  "candidates": [
+    {
+      "title": "ruvnet / ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated [263 stars today]",
+      "score": 14.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "workflow",
+        "autonomous",
+        "RAG",
+        "memory"
+      ]
+    },
+    {
+      "title": "Can Agents Generalize to the Open World? Unveiling the Fragility of Static Training in Tool Use",
+      "url": "https://arxiv.org/abs/2607.01084",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 02 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.01084v1 Announce Type: new \nAbstract: While Large Language Model (LLM) agents demonstrate proficiency in static benchmarks, their deployment in real-world scenarios is hindered by the dynamic nature of user queries, tool sets, and interaction dynamics. To address this generalization gap, we formalize OpenAgent (Tool-Use Agent in Open-World), a problem setting characterized by distributional shifts across query, action, observation, and domain dimensions. To systematically diagnose its",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "RAG",
+        "tool use"
+      ]
+    },
+    {
+      "title": "Quantifying the Affective Gap: A Zero-Shot Evaluation of LLMs on Fine-Grained Emotion Taxonomies",
+      "url": "https://arxiv.org/abs/2607.00968",
+      "source": "arXiv cs.HC",
+      "published_at": "Thu, 02 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.00968v1 Announce Type: cross \nAbstract: Emotion recognition in natural language is a foundational challenge in affective computing, with critical implications for human-computer interaction, mental health support, and conversational AI. This paper presents a rigorous, unified zero-shot evaluation of three leading commercial large language models: Claude (claude-sonnet-4-6), ChatGPT (GPT-5.4), and Gemini (gemini-2.5-flash). The models were queried through their respective production AP",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "Claude",
+        "Gemini",
+        "GPT",
+        "language model"
+      ]
+    },
+    {
+      "title": "diegosouzapw / OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA. [837 stars today]",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "Claude",
+        "Gemini",
+        "Copilot",
+        "GPT",
+        "multimodal"
+      ]
+    },
+    {
+      "title": "AGI Maze as a Benchmark Framework for World-Modeling Agents",
+      "url": "https://arxiv.org/abs/2607.00627",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 02 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.00627v1 Announce Type: new \nAbstract: Large language models (LLMs) are powerful pattern-completion systems, but their default operating mode - predicting the next token from a static context - does not reliably produce persistent, manipulable representations of an external world. Many tasks that look like \"reasoning\" in text become substantially harder once the environment is partially observable, stateful, and requires memory and structured hypotheses about hidden state. AGI Maze is ",
+      "score": 10.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "language model",
+        "reasoning",
+        "memory"
+      ]
+    },
+    {
+      "title": "Bayesian Uncertainty Propagation for Agentic RAG Pipelines: A Proof-of-Concept Study on Multi-Hop Question Answering",
+      "url": "https://arxiv.org/abs/2607.00972",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 02 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.00972v1 Announce Type: new \nAbstract: Trustworthy deployment of Agentic Retrieval-Augmented Generation (RAG) systems requires mechanisms for estimating when multi-stage reasoning pipelines may fail. This paper presents an uncertainty-aware Agentic Retrieval-Augmented Generation (RAG) framework in which planner, evaluator and generator stages produce uncertainty signals derived from semantic divergence and generator self-evaluation. These signals are propagated through a Bayesian Netwo",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "RAG",
+        "reasoning",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Agentic generation of verifiable rules for deterministic, self-expanding reaction classification",
+      "url": "https://arxiv.org/abs/2607.01061",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 02 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.01061v1 Announce Type: new \nAbstract: Computer-assisted synthesis planning breaks target molecules into accessible precursors using large libraries of reaction rules that assign each transformation a deterministic, interpretable label. But chemistry is long-tailed, making manual encoding intractable, and existing tools rely on fixed rulesets that cannot adapt to new chemistries. Here we present a fully automated pipeline in which a multi-agent framework of large language models (LLMs)",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "planning"
+      ]
+    },
+    {
+      "title": "Persona Without Substrate: Regime-Dependence and the LLM Individuation Problem",
+      "url": "https://arxiv.org/abs/2607.00006",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 02 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.00006v1 Announce Type: cross \nAbstract: Beckmann & Butlin's (2026) ontological framework for the LLM individuation problem inherits an unargued cross-regime co-reference assumption from the persona-vectors literature: that the same direction picks out the same content under prompt-conditioning, gradient-descent fine-tuning, and inference-time steering. We present four empirical wedges from persona-topology experiments on Qwen3-4B-Instruct and Mistral-7B-Instruct-v0.2 - non-collinearit",
+      "score": 10.0,
+      "keywords_matched": [
+        "LLM",
+        "vector",
+        "fine-tuning",
+        "inference",
+        "prompt"
+      ]
+    },
+    {
+      "title": "SchemaRAG: Dynamic Large Schema Reduction for LLM-driven Structured Information Extraction",
+      "url": "https://arxiv.org/abs/2607.00008",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 02 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.00008v1 Announce Type: cross \nAbstract: Extracting structured data from unstructured text using large language models (LLMs) becomes challenging when target schemas are large and complex. In such cases, including the full schema in the prompt increases cost and latency, risks lost-in-the-middle performance degradation, and can exceed context length limits. We propose SchemaRAG, a retrieval-augmented generation (RAG) framework that dynamically prunes the output schema space for schema-",
+      "score": 10.0,
+      "keywords_matched": [
+        "LLM",
+        "language model",
+        "RAG",
+        "prompt",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Code Semantic Zooming",
+      "url": "https://arxiv.org/abs/2510.06452",
+      "source": "arXiv cs.HC",
+      "published_at": "Thu, 02 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2510.06452v3 Announce Type: replace \nAbstract: Recent advances in Large Language Models (LLMs) have introduced a new paradigm for software development, where source code is generated from natural language prompts. While this paradigm significantly boosts development productivity, building complex, real-world software systems remains challenging because natural language offers limited control over the code generation process. Inspired by the historical evolution of programming languages tow",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "code generation",
+        "prompt"
+      ]
+    },
+    {
+      "title": "A Contextual-Bandit Oversight Game with Two-Sided Informational Asymmetry",
+      "url": "https://arxiv.org/abs/2607.00155",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 02 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.00155v1 Announce Type: new \nAbstract: We study runtime human oversight of an AI agent when private information runs in both directions: the human privately knows her reward function, while the AI privately knows the quality of the action it proposes. This is the kind of asymmetry that arises naturally when an autonomous robot or software agent has inspected a situation its human supervisor cannot directly assess. Building on Cooperative Inverse Reinforcement Learning (CIRL) and the Ov",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "game",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "From Signals to Structure: How Memory Architecture Drives Language Emergence in LLM Agents",
+      "url": "https://arxiv.org/abs/2607.00233",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 02 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.00233v1 Announce Type: new \nAbstract: How do two agents invent a shared language from scratch? In a Lewis signaling game, a sender and receiver must coordinate on a code using only their interaction history. We study five memory architectures across varying channel configurations with LLM agents and find that memory architecture matters more than channel capacity. Agents with a persistent private notebook benefit from surplus channel capacity and avoid the high-capacity collapse seen ",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "game",
+        "memory"
+      ]
+    },
+    {
+      "title": "Mnemosyne: Agentic Transaction Processing for Validating and Repairing AI-generated Workflows",
+      "url": "https://arxiv.org/abs/2607.00269",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 02 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.00269v1 Announce Type: new \nAbstract: LLMs, solvers, and agent teams increasingly generate workflow actions, repairs, and plans, but a generated action may be syntactically valid yet stale, infeasible, conflicting, or destructive of the evidence that triggered a repair. We introduce Agentic Transaction Processing (ATP), a transaction model that treats generated actions as untrusted proposals until they pass deterministic admission under a declared, executable constraint set C. The pri",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "workflow"
+      ]
+    },
+    {
+      "title": "Managed Autonomy at Runtime: Gear-Based Safety and Governance for Single- and Multi-Agent Cyber-Physical Systems",
+      "url": "https://arxiv.org/abs/2607.00334",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 02 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.00334v1 Announce Type: new \nAbstract: Autonomous agents, whether LLM-driven software agents or robotic physical agents, face a common class of failure modes when operating without continuous human oversight: safety violations from unverified actions, behavioral instability from unconstrained loops, and continuity loss from unhandled error states. We develop \\system{}, a discrete-time control system that combines five execution gears (\\Gobs{}, \\Gsug{}, \\Gplan{}, \\Gexec{}, \\Gint{}) with",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "PHREEQC-MCQ-200: A Diagnostic Benchmark for Tool-Augmented Scientific Simulator Agents",
+      "url": "https://arxiv.org/abs/2607.00436",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 02 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.00436v1 Announce Type: new \nAbstract: Large language model agents are increasingly connected to scientific software, yet it remains unclear when tool access makes scientific computation more reliable rather than merely more complex. We introduce PHREEQC-MCQ-200, a benchmark for evaluating tool-augmented agents on deterministic aqueous-geochemistry simulations. The benchmark contains 200 multiple-choice questions derived from 21 validated PHREEQC scenarios, requiring agents to construc",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "simulation",
+        "language model"
+      ]
+    },
+    {
+      "title": "Agri-SAGE: Simulation-Grounded Multi-Agent LLM for Context-Aware Agricultural Advisory Generation",
+      "url": "https://arxiv.org/abs/2607.00454",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 02 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.00454v1 Announce Type: new \nAbstract: Agricultural advisory systems face a fundamental tension: static agronomic guidelines offer consistent, evidence-based recommendations, yet remain blind to in-season variability and dynamic uncertainties. Recent advisory systems powered by LLMs are liable for a different risk of generating recommendations that are agronomically credible but physiologically unconvincing. Agri-SAGE is a closed-loop framework designed to resolve the above two limitat",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "simulation"
+      ]
+    },
+    {
+      "title": "Self-GC: Self-Governing Context for Long-Horizon LLM Agents",
+      "url": "https://arxiv.org/abs/2607.00692",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 02 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.00692v1 Announce Type: new \nAbstract: Long-horizon LLM agents accumulate tool results, files, plans, and user constraints that are too structured to be treated as a disposable text suffix. Current systems mostly rely on in-run heuristics such as chronological pruning and tool-output masking, or on final self-summary near a context limit. Heuristics are cheap but blind to future dependencies; summaries preserve narrative state but often hide exact evidence, locators, and editable artif",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "narrative"
+      ]
+    },
+    {
+      "title": "Optimal Resource Utilization for Autonomous Laboratory Orchestrators",
+      "url": "https://arxiv.org/abs/2607.01188",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 02 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.01188v1 Announce Type: new \nAbstract: In autonomous laboratories, AI agents suggest the next batch of experiments to do. However, planning and executing those tasks taking full advantage of the available resources is a completely different question. This can be challenging when dealing with real-world hardware constraints, especially so when there are multiple instruments with different capacities and throughputs. Here we demonstrate a 2-step method to address resource utilization for",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "autonomous",
+        "planning"
+      ]
+    },
+    {
+      "title": "Theoria: Rewrite-Acceptability Verification over Informal Reasoning States",
+      "url": "https://arxiv.org/abs/2607.01223",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 02 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.01223v1 Announce Type: new \nAbstract: When should an AI system's answer be trusted? Formal proof assistants offer certainty but cannot reach most of the problem distribution; scalar LLM judges offer coverage but produce opaque scores that cannot be audited after the fact and are subject to the same coherence issues as any LLM. We present Theoria, a verification architecture that closes this gap. A candidate solution is rewritten into a sequence of typed state transitions, each license",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "RAG",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "BaRA: BFS-and-Reflection Web Data Collection Agent",
+      "url": "https://arxiv.org/abs/2607.00007",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 02 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.00007v1 Announce Type: cross \nAbstract: Large language model (LLM)-based web agents reduce manual scripting for web data collection, yet on live websites, they often miss relevant pages, return incomplete multimodal outputs, or return media URLs that are not directly downloadable. We present BFS-and-Reflection Agent (BaRA), a framework for site-level collection under a fixed interaction budget. The framework combines bounded breadth-first search (BFS) traversal with history-based self",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "language model",
+        "multimodal"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-07-03\n\n这是为你筛选的今日“疯狂发明家技术雷达”。今天有几篇非常硬核且极具启发性的论文，它们不约而同地指向了一个核心命题：**如何让 AI 摆脱简单的“文本预测”，进入“空间建模”、“自主语言演化”和“高鲁棒性事务处理”的深水区**。\n\n我为你精选了以下 5 条内容：\n\n---\n\n## 1. 代码语义缩放：用地图缩放的逻辑操控 AI 代码生成 (Code Semantic Zooming)\n- **来源**：arXiv cs.HC (2510.06452)\n- **链接**：https://arxiv.org/abs/2510.06452\n- **一句话解释**：像在谷歌地图上放大缩小一样，通过改变“语义缩放级别”来直观地控制和导航 LLM 生成的复杂代码结构。\n- **它为什么重要**：传统的自然语言编程（如 Cursor、Claude Code）缺乏控制感，要么全改，要么不改。这种 HCI 设计将代码结构可视化为不同层级的抽象，让开发者通过 UI 缩放来决定 AI 在哪个层级（架构级、函数级、细节实现级）进行编辑，极大地启发了 Spec-driven development 的交互界面设计。\n- **技术趋势标签**：#HCI #Creative-Tool #Spec-driven-Development #Code-Visualization\n- **可复用模式**：**Semantic Zooming UI (基于语义层级的可视化缩放交互)**：将复杂的、分层的生成式内容（如代码、剧本、世界设定）映射到一个可平滑缩放的画布上，不同缩放比例激活不同粒度的 AI 提示词和修改权限。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：一个用 React 写的 Markdown-to-Code 浏览器编辑器。滑动手势可以在“系统大纲”、“核心逻辑”、“具体实现”三档缩放。滑动到哪一档，AI 就只重写并聚焦展示该档对应的代码颗粒度。\n  2. **一个中型项目**：**Spec-Map**。一个可视化游戏生成器。你在画布上放大“战斗系统”，它会展开展示战斗逻辑 spec；再放大“火球术”，它会展示具体的粒子效果代码。你可以直接在不同层级上拖拽和微调，AI 实时同步上下游代码。\n  3. **一个艺术/游戏/叙事方向**：**《无限嵌套叙事之书》**。玩家在一个无限画布上缩放，放大一个单词会生成一个故事章节，再放大章节里的一个道具会生成一个子世界，所有内容由 LLM 实时、多层级一致地生成。\n- **对我项目的启发**：改变目前用纯文本 prompt 编辑代码的死板方式，把 spec 变成一个空间化的、可缩放的“地图”。\n- **今天是否值得深入研究**：是\n- **建议行动**：做demo\n\n---\n\n## 2. 信号到结构：LLM Agent 是如何从零发明自己的语言的 (From Signals to Structure)\n- **来源**：arXiv cs.AI (2607.00233)\n- **链接**：https://arxiv.org/abs/2607.00233\n- **一句话解释**：研究两个 LLM Agent 如何在没有人类预设语言的情况下，仅通过交互历史和记忆架构，在游戏（Lewis Signaling Game）中凭空创造一套共享的“加密暗号”来协同任务。\n- **它为什么重要**：它证明了**“记忆架构”比“通道带宽”更能决定 Agent 语言的涌现**。对于多 Agent 系统、游戏 NPC 协同、去中心化生成式系统有极大的启发——AI 之间不需要讲人话，甚至不需要传 JSON，它们可以自己进化出最高效的通信协议。\n- **技术趋势标签**：#Multi-Agent #Emergent-Behavior #Game-Systems #Generative-Linguistics\n- **可复用模式**：**Lewis Signaling Game Loop (基于信号反馈的 Agent 自主语言演化循环)**：Sender 观察状态并发送抽象信号 -> Receiver 接收信号并行动 -> 环境反馈成败 -> 双方更新记忆。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：让两个 LLM 玩“画图猜意图”游戏，但它们只能发送 Emoji 组合。记录并可视化它们在 20 轮游戏后，哪些 Emoji 组合固定成了它们专属的“名词”和“动词”。\n  2. **一个中型项目**：**“无声矿工” (Silent Miners)**。一个基于 2D Grid 的双人合作小游戏。两个 AI 矿工必须合作挖矿，但它们之间唯一的通讯手段是发送 16 进制颜色代码。观察并记录它们如何用颜色代码发展出“危险”、“这里有金矿”等指令。\n  3. **一个艺术/游戏/叙事方向**：**《失落文明的破译者》**。一个互动叙事艺术装置。玩家进入一个房间，两个 AI 雕像在用一种不断演变、由光影和声音组成的“自主语言”对话。玩家需要通过观察它们的互动，尝试学习并加入这场对话。\n- **对我项目的启发**：在多 Agent 协作（如游戏、模拟世界）中，不要死板地用英文或 JSON 通信。设计一个“信号通道”，让 Agent 们自主演化出独特的“黑话”，这能带来极强的涌现感和游戏趣味。\n- **今天是否值得深入研究**：是\n- **建议行动**：试用（跑一下论文的通信循环）\n\n---\n\n## 3. AGI Maze：为世界建模 Agent 打造的具身认知测试场 (AGI Maze)\n- **来源**：arXiv cs.AI (2607.00627)\n- **链接**：https://arxiv.org/abs/2607.00627\n- **一句话解释**：针对 LLM 无法在脑中构建持久、可操作的外部世界表征的问题，提供了一个迷宫框架，迫使 Agent 必须在动态、部分可观测的环境中进行“世界建模”和空间推理。\n- **它为什么重要**：它揭示了当前 LLM Agent 在“世界生成”和“空间记忆”上的短板。这对于在 Minecraft 等沙盒游戏中构建真正聪明的、有空间感和物理世界常识的 Agent 至关重要。\n- **技术趋势标签**：#World-Generation #Game-Systems #Spatial-Reasoning #Agent-Memory\n- **可复用模式**：**Mental Map State Machine (心理地图状态机)**：Agent 在外部独立维护一个非文本的、结构化的（如 2D 数组、图数据库）“脑内地图”，每次行动前先更新地图，再根据地图做决策，而不是仅依赖上下文。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：写一个 Python 脚本，在终端生成一个 5x5 的随机迷宫，让 LLM 只能通过 `look_north()`, `move_forward()` 等 API 探索，并强迫它在外部维护一个 Canvas/SVG “脑内地图”实时渲染出来。\n  2. **一个中型项目**：**“荒岛生存 AI” (AI Castaway)**。一个 Agent 被丢弃在一个未知的、程序生成的 2D 像素荒岛上。它必须通过移动和探索，自主绘制岛屿地图，并在地图上标注“水源”、“野兽区”和“庇护所”，并据此规划生存路线。\n  3. **一个艺术/游戏/叙事方向**：**《迷宫中的认知偏差》**。一个互动叙事游戏，玩家和 AI 被关在同一个动态迷宫中。AI 的记忆会随着迷宫墙壁的移动而产生“认知偏差”，玩家必须利用 AI 的“脑内地图错误”来引导它合作或逃脱。\n- **对我项目的启发**：不要只给 Agent 喂文字 context。如果要做世界生成或 Minecraft 相关的项目，必须给 Agent 一个可以实时读写的“空间画布”来辅助它思考。\n- **今天是否值得深入研究**：是\n- **建议行动**：试用\n\n---\n\n## 4. Mnemosyne：将数据库事务（Transaction）引入 AI 工作流的容错与修复系统\n- **来源**：arXiv cs.AI (2607.00269)\n- **链接**：https://arxiv.org/abs/2607.00269\n- **一句话解释**：提出“Agentic Transaction Processing (ATP)”概念，将 AI 生成的动作视为“未授权的提案”，通过事务机制进行验证、回滚和自动修复，防止 AI 搞砸现实系统。\n- **它为什么重要**：解决了 spec-driven development 和自动化系统中最头疼的“AI 乱来”问题。通过引入类似数据库 ACID 的事务机制，让 AI 能够在一个沙盒里“试错”，一旦失败自动回滚并生成修复 Spec。\n- **技术趋势标签**：#Spec-driven-Development #Automation #LLM-Toolchain #Agentic-Workflow\n- **可复用模式**：**Propose-Validate-Commit-Rollback (提案-验证-提交-回滚的 AI 事务闭环)**：AI 生成动作 -> 沙盒模拟运行 -> 验证器检测冲突/错误 -> 若失败则回滚并触发 AI 自愈 -> 若成功则正式提交。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：一个“不怕坏的本地文件整理器”。AI 尝试重命名和分类你的文件，但在执行前会生成一个 `undo_log`。如果用户（或测试脚本）发现分类错误，一键无损回滚到操作前状态。\n  2. **一个中型项目**：**“自我修复的网页爬虫生成器”**。当目标网站 UI 改变导致 AI 写的 Playwright 脚本报错时，系统自动捕捉 Error，回滚到上一步，让 AI 重新生成定位器并继续执行，整个过程对用户透明。\n  3. **一个艺术/游戏/叙事方向**：**《无限悔棋的 AI 叙事沙盒》**。一个文字冒险游戏，AI 扮演命运之神。玩家做出的每一个决定，AI 都会生成 3 步之后的“悲剧预测”，并允许玩家“回滚时间线”修改 spec，直到达成完美结局。\n- **对我项目的启发**：在我的自动化和 spec-driven 开发中，永远不要让 AI 直接修改生产环境，必须包裹一层“事务沙盒（Transaction Sandbox）”。\n- **今天是否值得深入研究**：是\n- **建议行动**：做demo\n\n---\n\n## 5. ruflo：多玩家 Agent 群体调度与自适应记忆元框架\n- **来源**：GitHub Trending (ruvnet/ruflo)\n- **链接**：https://github.com/ruvnet/ruflo\n- **一句话解释**：一个支持多玩家群体（multi-player swarms）、自适应记忆、自学习智能，并原生集成 Claude Code 和 Codex 的 Agent 调度元框架。\n- **它为什么重要**：它是目前最前沿的、面向生产力的 Agent 编排工具，特别强调了“多玩家（Multi-player）”的概念。这不仅指多 Agent，也指人机协同，非常适合用来做多人协作的创意工具或游戏系统。\n- **技术趋势标签**：#Multi-Agent-Swarms #HCI #Creative-Tool #LLM-Toolchain\n- **可复用模式**：**Adaptive Swarm Coordination (自适应群体协同)**：动态分配角色与共享记忆，支持人机混合在同一个“房间”里进行任务调度。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：用 ruflo 搭建一个“虚拟三人创意工坊”：一个文案、一个视觉、一个批评家 Agent，输入一个主题，看它们如何在共享画布上通过对话碰撞出海报创意。\n  2. **一个中型项目**：**“AI 剧本杀 DM 协同系统”**。一个由 3 个 Agent 组成的后台。Agent A 负责生成环境，Agent B 负责扮演 NPC，Agent C 负责暗中监控玩家的数值并调整难度，它们共享同一个“世界记忆（World State）”。\n  3. **一个艺术/游戏/叙事方向**：**《自主生成的虚拟社交网络》**。在一个网页上，运行 10 个具有不同性格和记忆的 Ruflo Agent，它们每天发帖、互动、拉黑对方，玩家作为一个“外来人类”进入这个网络，试图通过干预舆论来改变它们的社会结构。\n- **对我项目的启发**：Ruflo 的 Multi-player 视角提示我，Agent 系统不应该只是“单人助理”，而应该是一个“生态”。\n- **今天是否值得深入研究**：是\n- **建议行动**：试用\n\n---\n\n## 今日模式总结\n\n今天出现的 3 个核心技术模式：\n1. **空间化/具身化脑内地图 (Spatial World Modeling)**：摆脱纯文本 context 的限制，让 Agent 在操作和推理时，在外部维护一个可以读写的、结构化的空间表征（如 AGI Maze、Code Zooming）。\n2. **提案-回滚的事务型工作流 (Agentic Transaction Processing)**：将 AI 生成的代码或动作视为“未提交的事务”，通过沙盒验证和自动修复（ATP）来实现高鲁棒性的自动化（如 Mnemosyne）。\n3. **基于记忆约束的自主语言涌现 (Memory-driven Emergent Communication)**：在多 Agent 协同中，通过设计特定的记忆架构，让 Agent 在没有人类语言规则下自主生成最高效的通信暗号（如 From Signals to Structure）。\n\n---\n\n## 今日可做小实验 (2 小时内)\n\n### 项目名：Emoji-Lingo (两个 Agent 的暗号密码学游戏)\n- **输入**：两个 LLM API 实例（如 Gemini-Flash 或 GPT-4o-mini）；一个共享的 5x5 网格和目标点坐标。\n- **输出**：两个 Agent 成功在网格中接头，并输出它们在游戏过程中自发形成的“Emoji-位置对照字典”。\n- **技术栈**：Python / Node.js, OpenAI/Google API, Terminal (用于打印网格)。\n- **第一步怎么做**：\n  1. 写一个简单的 5x5 网格游戏引擎。\n  2. 定义 **Sender Agent**（知道目标点坐标）和 **Receiver Agent**（在起点，只负责移动，但不知道目标点）。\n  3. 每一轮：Sender 只能向 Receiver 发送最多 3 个 Emoji（不能包含任何数字和文字）；Receiver 收到 Emoji 后，输出移动方向（Up/Down/Left/Right）。\n  4. 运行 10 次游戏，在 Prompt 中加入“历史记忆：你之前发送了 [Emoji] 时，对方移动了 [方向]，结果是 [成功/失败]”，观察它们是否能在第 5 次游戏后，稳定地用“🔥”代表向上，“💧”代表向下。",
+  "gemini_success": true,
+  "telegram_sent": true,
+  "telegram_status": "sent",
+  "telegram_reason": ""
+}
