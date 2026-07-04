@@ -1,0 +1,303 @@
+{
+  "date": "2026-07-04",
+  "candidates": [
+    {
+      "title": "Repair the Amplifier, Not the Symptom: Stable World-Model Correction for Agent Rollouts",
+      "url": "https://arxiv.org/abs/2607.01767",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 03 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.01767v1 Announce Type: new \nAbstract: As agent planning moves from short tool chains toward persistent workflows with thousands or tens of thousands of steps, failures will occur inside large planning graphs rather than in isolated predictions. Replanning the entire graph after every mistake is neither computationally realistic nor desirable: full-graph replay consumes large context budgets, exposes the LLM to many irrelevant symptoms, and can degrade long-context retrieval. This pape",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "workflow",
+        "planning",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "diegosouzapw / OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA. [517 stars today]",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "Claude",
+        "Gemini",
+        "Copilot",
+        "GPT",
+        "multimodal"
+      ]
+    },
+    {
+      "title": "EO-Agents: A Three-Agent LLM Pipeline for Earth Observation Hypothesis Generation",
+      "url": "https://arxiv.org/abs/2607.01584",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 03 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.01584v1 Announce Type: new \nAbstract: Large language models have recently been explored for scientific hypothesis generation, but most prior work relies on unstructured literature and free-form textual claims. We present a pipeline for Earth observation that grounds hypothesis generation directly in the NASA Earth Observation Knowledge Graph. A heterogeneous graph neural network trained on historical co-usage relations ranks candidate dataset pairings, and a three-agent LLM pipeline f",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "neural",
+        "language model"
+      ]
+    },
+    {
+      "title": "Hawk: Harnessing Hardware-Aware Knowledge for High-Performance NPU Kernel Generation",
+      "url": "https://arxiv.org/abs/2607.01590",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 03 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.01590v1 Announce Type: new \nAbstract: Developing high-performance kernels for Neural Processing Units (NPUs) is a critical industry bottleneck, requiring developers to manually navigate implicit hardware constraints and strict memory hierarchies. While large language models offer immense automation potential, they fail catastrophically on NPUs due to a fundamental lack of hardware-specific priors. Naively transplanting code snippets from similar NPU kernels may pass the compiler, but ",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "automation",
+        "neural",
+        "language model",
+        "memory"
+      ]
+    },
+    {
+      "title": "Safe and Adaptive Cloud Healing: Verifying LLM-Generated Recovery Plans with a Neural-Symbolic World Model",
+      "url": "https://arxiv.org/abs/2607.01595",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 03 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.01595v1 Announce Type: new \nAbstract: As the scale and complexity of cloud-based AI systems continue to escalate, ensuring service reliability through rapid fault detection and adaptive recovery has become a critical challenge. While existing approaches integrate Large Language Models (LLMs) for semantic understanding and Deep Reinforcement Learning (DRL) for policy optimization, they often rely on sequential, loosely coupled architectures that underutilize the generative and reasonin",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "neural",
+        "language model",
+        "generative"
+      ]
+    },
+    {
+      "title": "MMIR-TCM: Memory-Integrated Multimodal Inference and Retrieval for TCM Clinical Decision Support",
+      "url": "https://arxiv.org/abs/2607.01814",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 03 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.01814v1 Announce Type: new \nAbstract: Traditional Chinese Medicine (TCM) diagnosis, particularly through tongue inspection, faces persistent challenges in subjectivity and reproducibility. The application of multimodal artificial intelligence to TCM clinical tasks, such as syndrome differentiation and prescription generation, is significantly hampered by the semantic gap between visual tongue features and textual reasoning, as well as the lack of large-scale, standardized datasets. To",
+      "score": 10.0,
+      "keywords_matched": [
+        "multimodal",
+        "inference",
+        "reasoning",
+        "memory",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "From Answer Generators to Reasoning Facilitators: Designing AI Tutors for Mathematical Reasoning in High-Stakes Environments",
+      "url": "https://arxiv.org/abs/2607.01692",
+      "source": "arXiv cs.HC",
+      "published_at": "Fri, 03 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.01692v1 Announce Type: new \nAbstract: The rapid integration of Large Language Models (LLMs) into educational technology threatens to reduce mathematical learning to mere answer generation. This paper presents a generative study, usability study, and 12-participant field deployment of AITutor, an interactive system that translates theoretical pedagogical mechanisms into concrete user interface features. We explore how junior-high students preparing for high-stakes exams (Zhongkao) inte",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "reasoning",
+        "generative"
+      ]
+    },
+    {
+      "title": "Evaluating Social Engineering Risks in AI-based Interaction using Biometrics and a Gaming Setup",
+      "url": "https://arxiv.org/abs/2606.17793",
+      "source": "arXiv cs.HC",
+      "published_at": "Fri, 03 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2606.17793v2 Announce Type: replace \nAbstract: We introduce AIriskEval-gaming, an open platform and dataset to evaluate social engineering risks in LLM-mediated multimodal interaction through controlled games. It supports human-human, human-AI and AI-AI settings, combining configurable game templates, role-conditioned LLM agents, psychology-informed participant profiling, structured interaction trees, and synchronized behavioral and biometric acquisition, filtering, and deep-learning-based",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "game",
+        "multimodal"
+      ]
+    },
+    {
+      "title": "Hi-DREAM: Brain-Inspired Hierarchical Diffusion for fMRI-to-Image Reconstruction via ROI Encoder and VisuAl Mapping",
+      "url": "https://arxiv.org/abs/2511.11437",
+      "source": "arXiv cs.HC",
+      "published_at": "Fri, 03 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2511.11437v2 Announce Type: replace-cross \nAbstract: Reconstructing natural images from fMRI requires bridging neural activity with both the structural and semantic representations used by modern generative models. Existing diffusion-based decoders often condition on a single global fMRI embedding, which limits their ability to exploit the hierarchical organization of the visual cortex and makes the contribution of different visual areas difficult to inspect. We propose Hi-DREAM, a brain-i",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "diffusion",
+        "neural",
+        "embedding",
+        "generative"
+      ]
+    },
+    {
+      "title": "Four Types of LLM Reliance and Their Predictors Among Undergraduate Writers: A Mixed-Methods Study at a Minority-Serving R1 University",
+      "url": "https://arxiv.org/abs/2606.28749",
+      "source": "arXiv cs.HC",
+      "published_at": "Fri, 03 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2606.28749v2 Announce Type: replace-cross \nAbstract: Although most undergraduates now use large language models (LLMs), a form of generative artificial intelligence (GenAI) for academic writing, no validated method distinguishes the qualitatively different ways students rely on them. Existing instruments assess reliance solely by frequency of use, a measure that, as this study shows, inadvertently rewards dependence on AI rather than recognizing students' own intellectual contribution. Con",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "generative art",
+        "language model",
+        "generative"
+      ]
+    },
+    {
+      "title": "Geometric Signatures of Reasoning: A Spectral Perspective on Task Hardness",
+      "url": "https://arxiv.org/abs/2607.01571",
+      "source": "arXiv cs.LG",
+      "published_at": "Fri, 03 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.01571v1 Announce Type: new \nAbstract: Chain-of-thought (CoT) reasoning enables large language models (LLMs) to solve complex problems by generating intermediate reasoning steps. While much attention has been paid to the length and content of these reasoning chains, far less is known about their internal geometry. We study the \\emph{geometry} of CoT trajectories in the hidden state space of transformer models, formalizing each reasoning chain as a discrete curve in $\\mathbb{R}^d$ and c",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "transformer",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Agent4cs: A Multi-agent System for Code Summarization in Large Hierarchical Codebases",
+      "url": "https://arxiv.org/abs/2607.01425",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 03 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.01425v1 Announce Type: new \nAbstract: Understanding large, complex codebases, especially those with obfuscated structures and incomplete documentation, remains a significant challenge. Existing code summarization solutions often rely on a single language model or coding assistant like Claude Code, and treat source code as flat text, underutilizing the rich interdependencies and hierarchical information within a repository. To address these shortcomings, we propose Agent4cs - a multi-a",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "language model"
+      ]
+    },
+    {
+      "title": "Beyond Next-Token Prediction: An RLVR Proof of Concept for Tool-Use Agents on Atlassian Workflows",
+      "url": "https://arxiv.org/abs/2607.01465",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 03 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.01465v1 Announce Type: new \nAbstract: Large language models are trained to predict the next token, not to act inside a specific API. In niche enterprise SaaS workflows -- where success means hitting the right endpoint with the right nested arguments in the right order -- this objective mismatch shows up as silent failures: dropped required fields, hallucinated tools, or early stops after a single read. We ask whether Reinforcement Learning with Verifiable Rewards (RLVR), applied direc",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "workflow",
+        "language model"
+      ]
+    },
+    {
+      "title": "Procedural Memory Distillation: Online Reflection for Self-Improving Language Models",
+      "url": "https://arxiv.org/abs/2607.01480",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 03 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.01480v1 Announce Type: new \nAbstract: Reinforcement learning with verifiable rewards (RLVR), along with recent selfdistillation variants such as SDPO, evaluates each rollout against a verifier and updates the policy from that episode-level signal. However, the richer procedural information in the rollout is rarely retained or reused. Across episodes and epochs, the model repeatedly encounters related problems under a changing policy, producing cross-episode signals that episode-local ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "language model",
+        "memory",
+        "procedural"
+      ]
+    },
+    {
+      "title": "Scaling with Confidence: Calibrating Confidence of LLMs for Adaptive Test Time Scaling",
+      "url": "https://arxiv.org/abs/2607.01612",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 03 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.01612v1 Announce Type: new \nAbstract: Training large language models (LLMs) with reinforcement learning (RL) has significantly advanced their performance on reasoning and question-answering tasks. However, prevailing RL reward designs typically prioritize response correctness, neglecting to incentivize models to express their confidence accurately. This leads to a critical problem: performance gains are often accompanied by poor calibration between confidence and accuracy, misleading ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "COMFYCLAW: Self-Evolving Skill Harnesses for Image Generation Workflows",
+      "url": "https://arxiv.org/abs/2607.01709",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 03 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.01709v1 Announce Type: new \nAbstract: Agents are increasingly used to construct workflows and assist humans in completing recurring tasks more efficiently. As these workflows become repeated and domain-specific, agent memory and reusable skills become increasingly important: agents should be able to recall workflow patterns, execution constraints, and user preferences from previous runs. We study this problem in workflow-based image generation and introduce COMFYCLAW, an agentic skill",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "workflow",
+        "memory"
+      ]
+    },
+    {
+      "title": "SimWorlds: A Multi-Agent System for Dynamic 3D Scene Creation",
+      "url": "https://arxiv.org/abs/2607.01766",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 03 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.01766v1 Announce Type: new \nAbstract: LLM agents are increasingly used to translate natural language into 3D scenes in a procedural way, but existing systems focus on static output. Dynamic 4D scenes from text alone, in which liquids flow, particles emit, rigid bodies cascade, and articulated mechanisms move, remain largely unexplored despite their value as editable content and as physics-grounded training data for video generation and embodied AI. Two challenges set the dynamic case ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "procedural"
+      ]
+    },
+    {
+      "title": "ExPerT: Personalizing LLM Responses to Users' Domain Expertise via Query-Wise Semantic and Keystroke Behavioral Cues",
+      "url": "https://arxiv.org/abs/2607.01242",
+      "source": "arXiv cs.HC",
+      "published_at": "Fri, 03 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.01242v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly used by end users, yet existing personalization methods relying on static profiles or text-only signals fail to capture query-specific expertise variation. We present ExPerT, a query-wise personalization framework that adapts LLM responses to users' query domain expertise by combining semantic and behavioral cues. ExPerT consists of two key components: (i) a semantic-behavioral expertise inference modu",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "inference"
+      ]
+    },
+    {
+      "title": "OrchestrXR: A Multi-Agent System for Idea-to-Prototype XR Study Authoring",
+      "url": "https://arxiv.org/abs/2607.01588",
+      "source": "arXiv cs.HC",
+      "published_at": "Fri, 03 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.01588v1 Announce Type: new \nAbstract: Extended Reality (XR) has become an important interaction paradigm in Human-Computer Interaction (HCI). XR studies are used to investigate interaction, perception, and user behavior in immersive environments, and typically involve experimental tasks, 3D scenes, and interactive logic. However, turning an initial XR study idea into a runnable prototype remains fragmented across study design, scene construction, and interaction implementation. We pre",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "HCI",
+        "RAG"
+      ]
+    },
+    {
+      "title": "Adoption and Impact of Command-Line AI Coding Agents: A Study of Microsoft's Early 2026 Rollout of Claude Code and GitHub Copilot CLI",
+      "url": "https://arxiv.org/abs/2607.01418",
+      "source": "arXiv cs.HC",
+      "published_at": "Fri, 03 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.01418v1 Announce Type: cross \nAbstract: Organizations rolling out agentic command line tools like Anthropic's Claude Code and GitHub's Copilot CLI need to know who will try them, who will keep using them, and whether the tools produce enough output to justify their cost. At organizational scale, token spend can run into millions of dollars annually, so misreading adoption, retention, or impact can make a rollout expensive without changing engineering velocity. Studying tens of thousan",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "Copilot"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-07-04\n\n嘿！我是你的“疯狂发明家技术雷达”。今天我从海量学术和开源动态中，为你筛选了 **5 条**最能激发灵感、最适合动手解构的技术/项目。\n\n今天的主题高度聚焦于：**人机交互的新维度（HCI）、工作流的自演化、物理世界的程序化生成，以及长程 Agent 的自愈机制**。\n\n---\n\n## 1. SimWorlds: A Multi-Agent System for Dynamic 3D Scene Creation\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2607.01766\n- **一句话解释**：一个多 Agent 系统，能将自然语言直接转化成包含流体、粒子、刚体和关节运动的“动态 4D 物理场景”。\n- **它为什么重要**：以前的 3D 生成（如 3D Gaussian Splatting 或 静态 Mesh）都是死板的静态雕塑。这个项目直接跨越到**动力学生成**。它让 Agent 去编写物理引擎的控制代码，生成“活的”、可交互的世界。\n- **技术趋势标签**：`Procedural Generation (过程化生成)`、`Physics Simulation`、`Multi-Agent`、`Game Systems`\n- **可复用模式**：**“物理属性代理人”（Physics-Property Agents）**：将世界拆分为流体、刚体、发射器等维度，每个维度由一个专属 Agent 负责编写对应的物理配置和脚本。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：写一个 Python 脚本，输入“融化的冰淇淋”，让 LLM 生成一段 Blender Python 脚本，自动创建刚体下落并触发流体融化的动画。\n  2. **一个中型项目**：**“文字物理沙盒” (Text-to-Physics Sandbox)**：一个 Web 页面，用户输入“沙漏里漏出岩浆”，系统实时生成 Three.js (using Cannon.js/Ammo.js) 的物理代码并在浏览器里运行。\n  3. **一个艺术/游戏/叙事方向**：**“物理情绪温室”**：一个虚拟生态缸，缸内的风速、重力、流体粘稠度完全由玩家输入的日记情感决定。悲伤时重力变大、雨水粘稠；愤怒时粒子碰撞剧烈。\n- **对我项目的启发**：对你的 Minecraft/世界生成和游戏系统研究极有启发。不要只生成静态方块，尝试用 Agent 去生成**“规则和力场”**。\n- **今天是否值得深入研究**：是\n- **建议行动**：做demo\n\n---\n\n## 2. ExPerT: Personalizing LLM Responses via Keystroke Behavioral Cues\n- **来源**：arXiv cs.HC\n- **链接**：https://arxiv.org/abs/2607.01242\n- **一句话解释**：通过分析用户在输入框里的**击键行为特征（打字速度、停顿、删除频率）**，实时推断用户的认知负荷和专业水平，从而个性化调整 LLM 的回复。\n- **它为什么重要**：传统的 AI 交互只看“你说了什么”（文本语义），而忽略了“你是怎么说的”（物理行为）。打字时的犹豫不决（频繁退格、长停顿）是人类焦虑和困惑的直接物理映射。\n- **技术趋势标签**：`HCI`、`Adaptive UX`、`Keystroke Dynamics`、`Implicit Feedback`\n- **可复用模式**：**“行为遥测注入”（Behavioral Telemetry Prompting）**：将前端收集的物理交互指标（如 `typing_speed_variance`）作为元数据，隐式注入到 LLM 的 System Prompt 中。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：写一个简单的 React 输入框，记录用户打字的时间间隔。如果检测到用户在某个词上停顿超过 1.5 秒或频繁退格，自动在发送给 LLM 的后台提示词中加入：“用户对此概念感到困惑，请用极简、鼓励性的语言解释。”\n  2. **一个中型项目**：**“懂你节奏的 IDE 伴侣”**：一个 VS Code 插件。当你写代码流畅时，它保持安静（不打扰 Flow 状态）；当你频繁删除、停顿（卡壳）时，它在右下角温柔地弹出一行最相关的 API 提示。\n  3. **一个艺术/游戏/叙事方向**：**“测谎仪叙事游戏”**：一个基于文本的审讯游戏。AI 角色会根据你敲击键盘的频率和迟疑度来判断你是否在撒谎或紧张，从而改变它的审讯策略和态度。\n- **对我项目的启发**：极其性感的 HCI 概念！完美契合你的跨学科背景。可以用它来重新定义“人机协同创作工具”的温度感。\n- **今天是否值得深入研究**：是\n- **建议行动**：试用（甚至可以直接手写一个 JS 监听器）\n\n---\n\n## 3. COMFYCLAW: Self-Evolving Skill Harnesses for Image Generation Workflows\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2607.01709\n- **一句话解释**：一个让 ComfyUI 图像生成工作流实现“自我演化”的 Agent 框架，它能记住用户的偏好，并自动将成功的节点组合封装成可复用的“技能”。\n- **它为什么重要**：ComfyUI 很好用，但连线极其繁琐。这个项目展示了 Agent 如何不仅“使用”工具，还能“重构”和“沉淀”工具链。\n- **技术趋势标签**：`Creative Tool`、`Agentic Workflow`、`ComfyUI`、`Self-Evolving Code`\n- **可复用模式**：**“技能蒸馏”（Skill Distillation）**：把复杂的、多次成功的子工作流（Node Subgraph）压缩并参数化成一个单一的高级宏（Macro），供 Agent 后续直接调用。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：写一个 Python 脚本，读取一个 ComfyUI 工作流的 JSON 文件，根据你的自然语言指令（例如“把所有的 KSampler 步数翻倍”），用 LLM 修改 JSON 并保存。\n  2. **一个中型项目**：**“自动意图连线器” (Auto-Spaghetti)**：一个 Web 工具。你拖入两个不相连的 ComfyUI 节点（比如 3D 深度图节点和 Stable Diffusion 节点），点击“自动连接”，AI 自动帮你补齐中间所需的各种转换节点。\n  3. **一个艺术/游戏/叙事方向**：**“自主演化的画廊”**：一个运行在树莓派上的艺术装置，每天自主尝试新的 ComfyUI 节点组合，根据网上的点赞反馈（或摄像头前观众的表情），自己修改、演化自己的连线逻辑，越画越好看。\n- **对我项目的启发**：对你关注的 `creative tool` 和 `spec-driven development` 有直接启发：如何让用户只声明意图，让工具自己去“连线”和“进化”。\n- **今天是否值得深入研究**：是\n- **建议行动**：做demo\n\n---\n\n## 4. Repair the Amplifier, Not the Symptom: Stable World-Model Correction for Agent Rollouts\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2607.01767\n- **一句话解释**：在长达数千步的 Agent 持续工作流中，当发生错误时，不重新规划整个流程，而是精准定位并修复 Agent 脑子里的“世界模型”（规则认知错误）。\n- **它为什么重要**：长程 Agent 经常遭遇“一步错、步步错”的雪崩效应。重跑整个链条成本极高。去“修复引起错误的规则（放大器）”，而不是去“修补错误的结果（症状）”，是长程自治系统的关键。\n- **技术趋势标签**：`World Model`、`Error Correction`、`Persistent Agent`、`Planning Graph`\n- **可复用模式**：**“局部信念补丁”（Local Belief Patching）**：维护一个显式的“世界规则 JSON”，当执行失败时，由一个 Debug Agent 专门修改这个 JSON，然后让执行 Agent 带着新规则继续。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：写一个文字版迷宫 Agent。故意给它一个错误的地图规则（比如“绿门打不开”）。当它撞墙发现绿门其实能开时，它不重新寻找起点，而是更新其“地图规则字典”，继续走下去。\n  2. **一个中型项目**：**“自愈式网页爬虫”**：常规爬虫在网站改版时会崩溃。这个系统在检测到 DOM 结构变化时，会自动分析新结构，更新其对网站的“结构心智模型”，并自动修改抓取脚本继续运行。\n  3. **一个艺术/游戏/叙事方向**：**“被纠错的造物主”**：一个文字 RPG 游戏。玩家可以故意指出现实矛盾（“你刚才说外面在下雨，为什么我的衣服是干的？”）。AI 叙事者需要当场修正它的“世界状态矩阵”（修正为“哦，其实你是在屋檐下”），并保证后续故事不穿帮。\n- **对我项目的启发**：这解决了 Spec-driven 过程中，当系统规范（Spec）与代码实现产生偏差时，如何“局部热修复”的问题。\n- **今天是否值得深入研究**：是\n- **建议行动**：收藏\n\n---\n\n## 5. diegosouzapw / OmniRoute\n- **来源**：GitHub Trending TypeScript\n- **链接**：https://github.com/diegosouzapw/OmniRoute\n- **一句话解释**：一个免费的、支持 230+ 模型的 AI 网关，内置了极强的 RTK+Caveman 压缩算法，可节省 15-95% 的 Token，支持自动降级和 MCP。\n- **它为什么重要**：对于喜欢折腾各种小发明、小 Agent 实验的开发者来说，API 费用和多模型管理是最大痛点。这个项目的 **Caveman 压缩算法**非常有意思——通过极客手段去除冗余 Token，能帮你省下一大笔测试费。\n- **技术趋势标签**：`LLM Toolchain`、`Token Optimization`、`AI Gateway`\n- **可复用模式**：**“野人语压缩”（Caveman Compression）**：在发送给 LLM 之前，通过启发式算法剔除介词、冠词和冗余格式，在保证 LLM 理解力的前提下，最大化压缩上下文。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：用 Python 实现一个简单的 Prompt 压缩器，把一段 1000 字的代码上下文压缩到 200 字（去掉空格、注释、多余的语法糖），送给免费版的 Gemini Flash，看看它是否还能正确给出修改意见。\n  2. **一个中型项目**：**“零成本 Agent 蜂群”**：利用 OmniRoute 的免费端点和压缩算法，搭建一个由 10 个 Agent 组成的局域网讨论组，实现复杂的协作任务，而你的钱包毫发无损。\n  3. **一个艺术/游戏/叙事方向**：**“极简主义废土世界”**：一个运行在超低带宽/超低成本下的多人 MUD 游戏，所有世界描述和玩家互动都经过极限压缩，呈现出一种独特的、像电报一样的“废土文学风格”。\n- **对我项目的启发**：这是一个极好的底层基础设施。在开发你自己的自动化工具链或 Agent 系统时，可以用它来做免费的、高并发的后端路由。\n- **今天是否值得深入研究**：否（工具属性强，直接拿来用即可）\n- **建议行动**：试用\n\n---\n\n## 今日模式总结\n\n1. **具身行为作为隐式 Prompt (Behavioral Sensing)**：用户的物理动作（如打字节奏、鼠标轨迹）正在成为 LLM 实时调整生成策略的新型上下文输入，打破了传统的纯文本交互。\n2. **工具链的自反性与演化 (Tool Self-Refactoring)**：Agent 不再只是被动使用 API，而是开始学会自主重构工作流（如修改 ComfyUI 连线、修改自身代码架构），工具和 Agent 的界限正在模糊。\n3. **局部世界模型修复 (Localized Healing)**：在复杂长程任务中，放弃“推倒重来”，转向“精确诊断并更新心智模型”，这是构建真正可用、低成本的 Agent 系统的必然趋势。\n\n---\n\n## 今日可做小实验\n\n### 项目名：Cognitive-Load Copilot（认知负荷写作伴侣）\n\n- **输入**：用户在一个 HTML 文本框内输入的文字，以及每次按键的毫秒级时间戳。\n- **输出**：一个悬浮的 AI 建议窗口。当用户打字流畅时，它保持极简的单句鼓励；当用户频繁删除、停顿（高认知负荷）时，它自动生成保姆级的概念解释。\n- **技术栈**：Vanilla JS (HTML/CSS) + 免费的 Gemini Flash API (或你已有的任意大模型 API)。\n- **第一步怎么做**：\n  1. 创建一个简单的 `index.html`，包含一个 `<textarea>` 和一个用于显示 AI 建议的 `<div>`。\n  2. 在 JS 中写一个监听器，监听 `keydown` 事件：\n     ```javascript\n     let keystrokes = [];\n     document.querySelector('textarea').addEventListener('keydown', (e) => {\n         keystrokes.push(Date.now());\n         if (keystrokes.length > 10) keystrokes.shift(); // 只保留最近10次按键\n     });\n     ```\n  3. 计算最近 10 次按键的平均间隔和标准差。如果标准差很大（代表有长时间停顿）或者有退格键（Backspace），判定用户处于“卡壳状态” (`is_stuck = true`)。\n  4. 当用户停止打字 2 秒时触发 API 请求。如果 `is_stuck` 为 `true`，向 LLM 发送 Prompt：“用户在写这段话时非常犹豫。请作为温柔的导师，给他们提供下一步的思路或解释。” 否则发送：“用户写得很顺畅，只需提供一行精简的润色建议。”",
+  "gemini_success": true,
+  "telegram_sent": false,
+  "telegram_status": "failed",
+  "telegram_reason": "400 Client Error: Bad Request for url: https://api.telegram.org/bot8650722899:AAHUD-aqNDB7NwiPiGq3R22MVp77Cr_5GEQ/sendMessage"
+}
