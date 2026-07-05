@@ -1,0 +1,258 @@
+[
+  {
+    "title": "ruvnet / ruflo",
+    "url": "https://github.com/ruvnet/ruflo",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated [145 stars today]",
+    "score": 14.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "workflow",
+      "autonomous",
+      "RAG",
+      "memory"
+    ]
+  },
+  {
+    "title": "asgeirtj / system_prompts_leaks",
+    "url": "https://github.com/asgeirtj/system_prompts_leaks",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly. [471 stars today]",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "Claude",
+      "Gemini",
+      "Copilot",
+      "GPT",
+      "prompt"
+    ]
+  },
+  {
+    "title": "anthropics / claude-code",
+    "url": "https://github.com/anthropics/claude-code",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. [357 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "workflow"
+    ]
+  },
+  {
+    "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+    "url": "https://github.com/openai/codex/issues/30364",
+    "source": "Hacker News",
+    "published_at": "Sat, 04 Jul 2026 21:51:09 +0000",
+    "description": "Article URL: https://github.com/openai/codex/issues/30364 Comments URL: https://news.ycombinator.com/item?id=48789428 Points: 134 # Comments: 43",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "GPT",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "ai-boost / awesome-harness-engineering",
+    "url": "https://github.com/ai-boost/awesome-harness-engineering",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration. [112 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "memory"
+    ]
+  },
+  {
+    "title": "langflow-ai / langflow",
+    "url": "https://github.com/langflow-ai/langflow",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows. [80 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow"
+    ]
+  },
+  {
+    "title": "google-labs-code / stitch-skills",
+    "url": "https://github.com/google-labs-code/stitch-skills",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor. [21 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "agent",
+      "Claude",
+      "Gemini"
+    ]
+  },
+  {
+    "title": "alirezarezvani / claude-skills",
+    "url": "https://github.com/alirezarezvani/claude-skills",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills. [136 stars today]",
+    "score": 5.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "Gemini"
+    ]
+  },
+  {
+    "title": "Mapping with In-Memory Layers to Reduce LLM Overload",
+    "url": "https://ridgetext.com/blog/mapbox-llm-composition",
+    "source": "Hacker News",
+    "published_at": "Sat, 04 Jul 2026 23:25:53 +0000",
+    "description": "Article URL: https://ridgetext.com/blog/mapbox-llm-composition Comments URL: https://news.ycombinator.com/item?id=48789986 Points: 3 # Comments: 0",
+    "score": 4.0,
+    "keywords_matched": [
+      "LLM",
+      "memory"
+    ]
+  },
+  {
+    "title": "I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination (2025)",
+    "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
+    "source": "Hacker News Best",
+    "published_at": "Fri, 03 Jul 2026 17:46:10 +0000",
+    "description": "Article URL: https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type Comments URL: https://news.ycombinator.com/item?id=48777728 Points: 223 # Comments: 137",
+    "score": 4.0,
+    "keywords_matched": [
+      "GPT",
+      "prompt"
+    ]
+  },
+  {
+    "title": "hesreallyhim / awesome-claude-code",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins [133 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "agent",
+      "Claude"
+    ]
+  },
+  {
+    "title": "google / adk-python",
+    "url": "https://github.com/google/adk-python",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. [19 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "tirth8205 / code-review-graph",
+    "url": "https://github.com/tirth8205/code-review-graph",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows. [35 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "workflow"
+    ]
+  },
+  {
+    "title": "facebook / astryx",
+    "url": "https://github.com/facebook/astryx",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "An open source design system that's fully customizable and agent ready [903 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "agent",
+      "open source"
+    ]
+  },
+  {
+    "title": "openai / codex-plugin-cc",
+    "url": "https://github.com/openai/codex-plugin-cc",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Use Codex from Claude Code to review code or delegate tasks. [718 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "Claude"
+    ]
+  },
+  {
+    "title": "Zackriya-Solutions / meetily",
+    "url": "https://github.com/Zackriya-Solutions/meetily",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. [718 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "self-hosted"
+    ]
+  },
+  {
+    "title": "dotnet / skills",
+    "url": "https://github.com/dotnet/skills",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Repository for skills to assist AI coding agents with .NET and C# [59 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "mattpocock / skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Skills for Real Engineers. Straight from my .claude directory. [973 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "Claude"
+    ]
+  },
+  {
+    "title": "CoplayDev / unity-mcp",
+    "url": "https://github.com/CoplayDev/unity-mcp",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity. [69 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "LLM"
+    ]
+  },
+  {
+    "title": "Scientists reverse brain aging, with a nasal spray",
+    "url": "https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/",
+    "source": "Hacker News",
+    "published_at": "Sat, 04 Jul 2026 23:41:10 +0000",
+    "description": "Article URL: https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/ Comments URL: https://news.ycombinator.com/item?id=48790066 Points: 110 # Comments: 38",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  }
+]

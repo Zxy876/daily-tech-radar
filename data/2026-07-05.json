@@ -1,0 +1,266 @@
+{
+  "date": "2026-07-05",
+  "candidates": [
+    {
+      "title": "ruvnet / ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated [145 stars today]",
+      "score": 14.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "workflow",
+        "autonomous",
+        "RAG",
+        "memory"
+      ]
+    },
+    {
+      "title": "asgeirtj / system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly. [471 stars today]",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "Claude",
+        "Gemini",
+        "Copilot",
+        "GPT",
+        "prompt"
+      ]
+    },
+    {
+      "title": "anthropics / claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. [357 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "workflow"
+      ]
+    },
+    {
+      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+      "url": "https://github.com/openai/codex/issues/30364",
+      "source": "Hacker News",
+      "published_at": "Sat, 04 Jul 2026 21:51:09 +0000",
+      "description": "Article URL: https://github.com/openai/codex/issues/30364 Comments URL: https://news.ycombinator.com/item?id=48789428 Points: 134 # Comments: 43",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "GPT",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "ai-boost / awesome-harness-engineering",
+      "url": "https://github.com/ai-boost/awesome-harness-engineering",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration. [112 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "memory"
+      ]
+    },
+    {
+      "title": "langflow-ai / langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows. [80 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "workflow"
+      ]
+    },
+    {
+      "title": "google-labs-code / stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor. [21 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "agent",
+        "Claude",
+        "Gemini"
+      ]
+    },
+    {
+      "title": "alirezarezvani / claude-skills",
+      "url": "https://github.com/alirezarezvani/claude-skills",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills. [136 stars today]",
+      "score": 5.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "Gemini"
+      ]
+    },
+    {
+      "title": "Mapping with In-Memory Layers to Reduce LLM Overload",
+      "url": "https://ridgetext.com/blog/mapbox-llm-composition",
+      "source": "Hacker News",
+      "published_at": "Sat, 04 Jul 2026 23:25:53 +0000",
+      "description": "Article URL: https://ridgetext.com/blog/mapbox-llm-composition Comments URL: https://news.ycombinator.com/item?id=48789986 Points: 3 # Comments: 0",
+      "score": 4.0,
+      "keywords_matched": [
+        "LLM",
+        "memory"
+      ]
+    },
+    {
+      "title": "I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination (2025)",
+      "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
+      "source": "Hacker News Best",
+      "published_at": "Fri, 03 Jul 2026 17:46:10 +0000",
+      "description": "Article URL: https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type Comments URL: https://news.ycombinator.com/item?id=48777728 Points: 223 # Comments: 137",
+      "score": 4.0,
+      "keywords_matched": [
+        "GPT",
+        "prompt"
+      ]
+    },
+    {
+      "title": "hesreallyhim / awesome-claude-code",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins [133 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "agent",
+        "Claude"
+      ]
+    },
+    {
+      "title": "google / adk-python",
+      "url": "https://github.com/google/adk-python",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. [19 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "tirth8205 / code-review-graph",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows. [35 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "workflow"
+      ]
+    },
+    {
+      "title": "facebook / astryx",
+      "url": "https://github.com/facebook/astryx",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "An open source design system that's fully customizable and agent ready [903 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "agent",
+        "open source"
+      ]
+    },
+    {
+      "title": "openai / codex-plugin-cc",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "Use Codex from Claude Code to review code or delegate tasks. [718 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "Claude"
+      ]
+    },
+    {
+      "title": "Zackriya-Solutions / meetily",
+      "url": "https://github.com/Zackriya-Solutions/meetily",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. [718 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "self-hosted"
+      ]
+    },
+    {
+      "title": "dotnet / skills",
+      "url": "https://github.com/dotnet/skills",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "Repository for skills to assist AI coding agents with .NET and C# [59 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "mattpocock / skills",
+      "url": "https://github.com/mattpocock/skills",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "Skills for Real Engineers. Straight from my .claude directory. [973 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "Claude"
+      ]
+    },
+    {
+      "title": "CoplayDev / unity-mcp",
+      "url": "https://github.com/CoplayDev/unity-mcp",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity. [69 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "title": "Scientists reverse brain aging, with a nasal spray",
+      "url": "https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/",
+      "source": "Hacker News",
+      "published_at": "Sat, 04 Jul 2026 23:41:10 +0000",
+      "description": "Article URL: https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/ Comments URL: https://news.ycombinator.com/item?id=48790066 Points: 110 # Comments: 38",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-07-05\n\n给你拉网筛选后，今天最值得你关注的 **4 条**技术突破。\n\n今天的主题非常明确：**“Agent 正在接管创作运行期 (Runtime) 与设计系统”**。AI 不再只是在网页里跟你聊天，它正在通过 MCP 协议直接插管 Unity、通过 Agent-ready 设计系统直接组装 UI、甚至通过自定义 Skills 变成你专属的黑客助手。\n\n---\n\n## 1. [unity-mcp] - AI 助手的 Unity 物理世界插管\n- **来源**：GitHub Trending\n- **链接**：https://github.com/CoplayDev/unity-mcp\n- **一句话解释**：一个基于 MCP（Model Context Protocol）的桥梁，让 Claude Code、Cursor 等 AI 助手可以直接控制 Unity 编辑器，管理资产、编辑脚本、甚至操作场景和运行自动化任务。\n- **它为什么重要**：它打破了“AI 写代码 -> 人类复制粘贴到 Unity”的低效循环。现在，LLM 拥有了直接操作 3D 物理世界、场景节点和游戏管线的“手和眼睛”。\n- **技术趋势标签**：#Game-Systems #MCP #HCI #Creative-Coding\n- **可复用模式**：**Editor-as-a-Service**。将复杂的 GUI 创作工具（如 Unity, Blender, Figma）通过 MCP 协议暴露给 Agent，使其成为 Agent 的标准输出终端。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：写一个 MCP 工具，让 Claude 能够根据你的一句话（如“生成一个重力反转、充满红色发光弹球的房间”），直接在 Unity 里摆放好 Component 并点击运行。\n  2. **一个中型项目**：**AI 关卡设计师 (AI-Director-in-Editor)**。一个在 Unity 后台运行的 Agent，它读取你游戏测试时的玩家死亡数据（JSON），自动在 Unity 编辑器里调整关卡难度、挪动敌人位置、重新烘焙光照，实现“数据驱动的自动关卡迭代”。\n  3. **一个艺术/游戏/叙事方向**：**《无限梦境》**。一个实时生成的 3D 叙事空间。玩家在聊天框里输入梦境描述，后台 Agent 通过 Unity MCP 实时实例化 3D 模型、调整天空盒、修改重力参数，让玩家在一分钟内走入自己刚刚写下的文字世界。\n- **对我项目的启发**：如果你在做世界生成（Minecraft/Unity），不要再自己写死生成算法了。用 MCP 给 LLM 开放场景编辑 API，让 LLM 做你的“高级关卡美术”。\n- **今天是否值得深入研究**：**是**\n- **建议行动**：做 demo。克隆这个库，尝试用 Claude Code 在 Unity 里生成一个简单的物理多米诺骨牌。\n\n---\n\n## 2. [claude-code & Custom Skills] - 终端 Agent 的“微技能”生态\n- **来源**：GitHub Trending (汇总候选 3, 18, 8)\n- **链接**：https://github.com/anthropics/claude-code | https://github.com/mattpocock/skills\n- **一句话解释**：Anthropic 官方推出的终端 Agent 工具 `claude-code` 彻底火了，随之诞生的是开发者们存放在 `.claude/` 目录下的自定义 \"Skills\"（微技能，如自动重构、一键生成测试、特定框架的脚手架）。\n- **它为什么重要**：这预示着 **Spec-driven Development（声明式/规约驱动开发）** 的终极形态。你不再写代码，你写 `.spec` 或向 Agent 提需求，Agent 调用它的专属 Skills（工具箱）去默默完成。\n- **技术趋势标签**：#Spec-Driven #Agent-Workflow #LLM-Toolchain\n- **可复用模式**：**Custom Skills Pattern**。为 Agent 定制极度专一、确定性强的 CLI 工具，而不是让它用通用的 bash 命令瞎猜。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：为你最喜欢的 Creative Coding 库（比如 p5.js 或 Three.js）写一个 `.claude/skills`。让 Claude Code 能够一键生成 canvas 模板、启动本地服务器，并在浏览器中预览。\n  2. **一个中型项目**：**“自进化代码库”**。一个设定了“美学规则”的 Agent，每天晚上定时扫描你的 Github 仓库，用它的 Skills 优化代码，或者根据你在 Issue 里留下的“艺术想法”自动写出新功能并提交 PR。\n  3. **一个艺术/游戏/叙事方向**：**《代码寄生虫》**。一个在你的 terminal 里“寄生”的 Agent 宠物。它拥有读取你 git 提交记录的 skills。你写的 Bug 越多，它就越虚弱；你提交了优雅的 refactor，它就会高兴地在终端里用 ASCII Art 给你跳舞。\n- **对我项目的启发**：关注 **spec-to-code**。你可以定义一套你自己的“艺术生成语言 (DSL)”，然后写一个 Claude Skill，专门把这套 DSL 翻译成复杂的 WebGL 或 Shader 代码。\n- **今天是否值得深入研究**：**是**\n- **建议行动**：试用。安装 `claude-code`，并尝试配置一个自定义的 `.claude` 技能。\n\n---\n\n## 3. [facebook / astryx] - 首个“Agent 友好型”设计系统\n- **来源**：GitHub Trending\n- **链接**：https://github.com/facebook/astryx\n- **一句话解释**：Meta 开源的一个完全可定制且 **Agent-ready**（对 AI 代理友好）的开源设计系统。\n- **它为什么重要**：传统的设计系统（如 Tailwind, Material UI）是给人看的、给人类程序员写的。Agent-ready 意味着组件有极度规范的语义、元数据和插槽定义，让 LLM 在生成 UI 或读取 UI 时，不会因为各种奇葩的 CSS 类名和布局而“幻觉”。\n- **技术趋势标签**：#HCI #Design-System #AI-UI-Generation\n- **可复用模式**：**Semantic UI Framework**。用机器可读性极高的标记（Tokens）来定义界面，从而实现“提示词直出完美 UI”。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：基于 Astryx 搭建一个“流式 UI 渲染器”。用户输入一句话，LLM 决定调用哪些 Astryx 组件（Button, Input, Card）拼接成一个临时界面，不带任何多余的视觉垃圾。\n  2. **一个中型项目**：**“液态界面 (Liquid UI)”**。一个完全没有固定界面的应用。它根据用户的当前任务和情绪，让 Agent 用 Astryx 实时组装最适合当下的 UI。比如检测到用户很焦虑，界面自动精简到只有一个巨大的、呼吸起伏的按钮。\n  3. **一个艺术/游戏/叙事方向**：**《系统迷宫 (Systemic Maze)》**。一个由 UI 组件构成的文字冒险游戏。游戏里的门、怪物、宝箱全都是由 Agent 实时生成的 React UI 组件。玩家需要通过修改组件的 state（比如把怪物的 `disabled` 属性改为 `true`）来通关。\n- **对我项目的启发**：作为设计+CS跨学科学生，这是你的绝对主场。**不要再设计“静态”网页了，开始设计“能被 AI 轻松组装和解构的 UI 乐高积木”**。\n- **今天是否值得深入研究**：**是**\n- **建议行动**：收藏并阅读其架构文档，理解它如何让组件对 Agent 友好。\n\n---\n\n## 4. [ruvnet / ruflo] - 多玩家 Agent 群体与自适应记忆\n- **来源**：GitHub Trending\n- **链接**：https://github.com/ruvnet/ruflo\n- **一句话解释**：一个高级的 Agent 元框架，专门用于部署**多玩家智能体群落 (Multi-player swarms)**，协调自主工作流，并具有自适应记忆（Adaptive Memory）和自我学习能力。\n- **它为什么重要**：单体 Agent 很容易陷入思维死胡同。Ruflo 解决的是“一群 Agent 如何在一个共享的环境（比如游戏、虚拟社会）里协同，并且拥有随着时间推移而演化的‘集体记忆’”。\n- **技术趋势标签**：#Agent-Swarm #Generative-Systems #Memory-Architecture\n- **可复用模式**：**Shared Memory Swarm (共享记忆群落)**。多个 Agent 读写同一个向量数据库或图数据库，实现“A 探索出的知识，B 能够立刻利用”。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：让两个 Agent（一个扮演“狂热艺术家”，一个扮演“刻薄评论家”）在一个共享的 Markdown 文件里轮流写诗和批改，看它们在 10 轮迭代后会把这首诗变成什么样。\n  2. **一个中型项目**：**“虚拟黑客松 (Autonomous Hackathon)”**。在一个 Ruflo 环境里放入 Product Manager Agent、Coder Agent 和 Designer Agent。给它们一个创意，让它们自主讨论、分工、写代码、互相测试，最终吐出一个可以直接运行的 Web 艺术项目。\n  3. **一个艺术/游戏/叙事方向**：**《微型数字生态：遗忘之镇》**。一个运行在后台的叙事系统。4 个 AI 居民在小镇里生活、恋爱、争吵。他们使用 Ruflo 的自适应记忆。如果你（玩家）往里面写一条谣言，这条谣言会如何在居民的记忆间传播、变形，最终彻底改变小镇的命运？\n- **对我项目的启发**：在做游戏系统或叙事生成时，不要用硬编码的 state machine。用这种轻量级的 Swarm 框架，能让 NPC 产生极其真实的“社会学涌现”。\n- **今天是否值得深入研究**：**否**（先关注 Unity MCP 和 Claude Code，这个可以作为架构参考）。\n- **建议行动**：收藏。\n\n---\n\n## 今日模式总结\n\n1. **MCP 成为新的“万物互联”总线**：AI Agent 正在通过 MCP 协议，从“文字生成器”变成 Unity、Blender、操作系统的“超级操作员”。\n2. **“Agent-First” 重新定义人机交互 (HCI)**：从 Astryx 到 Claude Code Skills，开发者们正在从“为人类写工具”转向“为 Agent 写好用的工具和组件”。\n\n---\n\n## 今日可做小实验：2小时极速挑战\n\n### 项目名：**\"p5.js 实时画笔 Agent\" (The Live-Sketching Agent)**\n\n- **输入**：你在终端输入的一句视觉创意（例如：“我要一个充满赛博朋克霓虹感、随鼠标移动而分裂的粒子系统”）。\n- **输出**：浏览器中实时渲染、运行并不断被 AI 重构更新的 p5.js 艺术画布。\n- **技术栈**：Node.js + Express + WebSocket + Claude API (or Gemini API)\n- **第一步怎么做**：\n  1. **建项目**：新建一个 Node.js 目录，安装 `express` 和 `ws`（WebSocket）。\n  2. **写前端**：写一个极简的 `index.html`，引入 `p5.js`。页面建立 WebSocket 连接，接收服务器传来的 JS 代码字符串，并用 `eval()` 或动态创建 `<script>` 标签的方式实时重新加载 p5.js 的 `setup()` 和 `draw()` 函数。\n  3. **写后端**：写一个 Node.js 脚本，接收你终端的输入，组装 Prompt 发送给 LLM（要求它**只输出纯 p5.js 代码，不要 Markdown，必须包含 setup 和 draw**），然后把返回的代码通过 WebSocket 广播给前端。\n  4. **跑起来**：在终端输入：“让圆圈变成方块，并且颜色随时间渐变”。看着浏览器在 2 秒内自动刷新并改变视觉。",
+  "gemini_success": true,
+  "telegram_sent": false,
+  "telegram_status": "failed",
+  "telegram_reason": "400 Client Error: Bad Request for url: https://api.telegram.org/bot8650722899:AAHUD-aqNDB7NwiPiGq3R22MVp77Cr_5GEQ/sendMessage"
+}
