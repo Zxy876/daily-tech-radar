@@ -1,0 +1,269 @@
+{
+  "date": "2026-07-06",
+  "candidates": [
+    {
+      "title": "diegosouzapw / OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA. [475 stars today]",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "Claude",
+        "Gemini",
+        "Copilot",
+        "GPT",
+        "multimodal"
+      ]
+    },
+    {
+      "title": "asgeirtj / system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly. [981 stars today]",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "Claude",
+        "Gemini",
+        "Copilot",
+        "GPT",
+        "prompt"
+      ]
+    },
+    {
+      "title": "OthmanAdi / planning-with-files",
+      "url": "https://github.com/OthmanAdi/planning-with-files",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic completion gate and multi-agent shared state on disk. Manus-style. Works with Claude Code, Codex CLI, Cursor, Kiro, OpenCode and 60+ agents via the SKILL.md standard. [66 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "planning"
+      ]
+    },
+    {
+      "title": "anthropics / claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. [156 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "workflow"
+      ]
+    },
+    {
+      "title": "Show HN: Homegames. An open-source game platform I've been making for 8 years",
+      "url": "https://homegames.io",
+      "source": "Hacker News",
+      "published_at": "Sun, 05 Jul 2026 21:32:44 +0000",
+      "description": "I'm making a platform for simple open source games you can play anywhere. Games are all just JavaScript classes and you can read the source of every game on the platform. I started working on initial \"games\" (mostly rendering tests) in 2018 and eventually built all of the platform stuff around it to make it easy to share games. There's also an in-browser editor available for you to make and publish games all from the browser. Would love some feedback on the games and studio features as well as t",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "game",
+        "open source"
+      ]
+    },
+    {
+      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+      "url": "https://github.com/openai/codex/issues/30364",
+      "source": "Hacker News Best",
+      "published_at": "Sat, 04 Jul 2026 21:51:09 +0000",
+      "description": "Article URL: https://github.com/openai/codex/issues/30364 Comments URL: https://news.ycombinator.com/item?id=48789428 Points: 356 # Comments: 148",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "GPT",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "google-antigravity / antigravity-sdk-python",
+      "url": "https://github.com/google-antigravity/antigravity-sdk-python",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "A Python library for building AI agents that leverage the full power of Google Antigravity. [21 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "RAG"
+      ]
+    },
+    {
+      "title": "ai-boost / awesome-harness-engineering",
+      "url": "https://github.com/ai-boost/awesome-harness-engineering",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration. [72 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "memory"
+      ]
+    },
+    {
+      "title": "ansible / ansible",
+      "url": "https://github.com/ansible/ansible",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems.https://docs.ansible.com. [25 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "automation"
+      ]
+    },
+    {
+      "title": "alirezarezvani / claude-skills",
+      "url": "https://github.com/alirezarezvani/claude-skills",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills. [392 stars today]",
+      "score": 5.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "Gemini"
+      ]
+    },
+    {
+      "title": "Agentic coding notes",
+      "url": "https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post",
+      "source": "Hacker News Best",
+      "published_at": "Sat, 04 Jul 2026 04:37:15 +0000",
+      "description": "Article URL: https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post Comments URL: https://news.ycombinator.com/item?id=48782671 Points: 174 # Comments: 82",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "hesreallyhim / awesome-claude-code",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins [148 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "agent",
+        "Claude"
+      ]
+    },
+    {
+      "title": "cheahjs / free-llm-api-resources",
+      "url": "https://github.com/cheahjs/free-llm-api-resources",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "A list of free LLM inference resources accessible via API. [482 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "LLM",
+        "inference"
+      ]
+    },
+    {
+      "title": "TauricResearch / TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework [257 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "agent",
+        "LLM"
+      ]
+    },
+    {
+      "title": "karpathy / nanoGPT",
+      "url": "https://github.com/karpathy/nanoGPT",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs. [246 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "GPT"
+      ]
+    },
+    {
+      "title": "mvanhorn / last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary [237 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "facebook / astryx",
+      "url": "https://github.com/facebook/astryx",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "An open source design system that's fully customizable and agent ready [522 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "agent",
+        "open source"
+      ]
+    },
+    {
+      "title": "can1357 / oh-my-pi",
+      "url": "https://github.com/can1357/oh-my-pi",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more [155 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "Zackriya-Solutions / meetily",
+      "url": "https://github.com/Zackriya-Solutions/meetily",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. [1,409 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "self-hosted"
+      ]
+    },
+    {
+      "title": "openai / codex-plugin-cc",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "Use Codex from Claude Code to review code or delegate tasks. [1,532 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "Claude"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-07-06\n\n## [planning-with-files]\n- 来源：GitHub Trending Python\n- 链接：https://github.com/OthmanAdi/planning-with-files\n- 一句话解释：一个为 AI 编码 Agent 设计的、基于本地 Markdown 文件的持久化规划系统，让 Agent 的规划在上下文丢失、清屏或崩溃后仍能通过物理文件完美复活。\n- 它为什么重要：它击中了 LLM 的最大痛点：**健忘**。传统的 Agent 规划存在于脆弱的上下文（Memory）中，一旦 Token 满了或者程序崩溃，规划就泡汤了。这个项目倡导“文件即状态”，把规划写在磁盘上的 `PLAN.md`（遵循 SKILL.md 标准）。这是极其纯粹的 **Spec-driven development（规约驱动开发）** 实践。\n- 技术趋势标签：`Agent Workflow` `Spec-Driven` `State Persistence`\n- 可复用模式：**物理状态机（Physicalized State Machine）**：不依赖内存数据库，直接将 Agent 的生命周期、任务拆解和当前进度序列化为人类可读的 Markdown 文件，实现“人-机-磁盘”三向同步。\n- 疯狂发明家灵感：\n  1. **一个小实验**：写一个 CLI 工具，你只需在 `TODO.md` 里写下任务，一个后台 Agent 会自动读取、执行、并在完成后在 Markdown 里打勾 `[x]`，同时把执行日志追加到文件末尾。\n  2. **一个中型项目**：**Git-Save-State 模拟器**：一个完全运行在 Git 提交记录上的文字冒险游戏。游戏世界状态全在 Markdown 里，玩家和 AI Agent 通过向 GitHub 提交 Commit 来推进剧情和交互。\n  3. **一个艺术/游戏/叙事方向**：**《数字村民的公共日志》**：在一个虚拟小镇里，5 个 AI 居民共享一个文件夹。每个人都有自己的 `diary.md`。他们通过阅读彼此的日志、并在对方的 `guestbook.md` 里留言来建立社交关系，整出一部完全去中心化的、写在磁盘上的肥皂剧。\n- 对我项目的启发：在做多 Agent 系统或游戏生成时，放弃复杂的 State-machine 库，直接用一个人类可读的 `STATE.json` 或 `STATE.md` 作为唯一的真理源（Source of Truth）。\n- 今天是否值得深入研究：是\n- 建议行动：做demo\n\n---\n\n## [Homegames]\n- 来源：Hacker News\n- 链接：https://homegames.io\n- 摘要/一句话解释：一个开发了 8 年的开源极简游戏平台，所有游戏都只是一个纯粹的 JavaScript 类，允许在浏览器中直接阅读源码、编辑和即时运行。\n- 它为什么重要：现代游戏引擎（Unity/Unreal）对 AI 来说太重、太复杂。而 Homegames 把游戏抽象成了**标准 JS 类（Class-based Game Loop）**。这种极度干净、标准化的接口，简直是为 **AI 代码生成** 和 **生成式游戏系统（Generative Game Systems）** 量身定制的。\n- 技术趋势标签：`Creative Coding` `Game Engine` `LLM-Friendly Code`\n- 可复用模式：**单文件游戏规约（Single-File Game Spec）**：通过极其严格和精简的生命周期接口（如 `setup()`, `update()`, `draw()`），让游戏逻辑压缩在几百行代码内，极大降低了 LLM 生成可用游戏的门槛。\n- 疯狂发明家灵感：\n  1. **一个小实验**：做一个“Prompt-to-Game”网页，输入一个创意（如“带重力的贪吃蛇”），调用 Claude 实时生成一个符合 Homegames 规范的 JS Class，然后直接动态注入到 iframe 中运行。\n  2. **一个中型项目**：**AI 达尔文游戏机**：两个 Agent 互相竞争。Agent A 生成游戏，Agent B（扮演玩家）去玩这个游戏并给出“好玩度反馈”和 Bug 报告，Agent A 根据反馈重构 JS 类，直到进化出一个高分游戏。\n  3. **一个艺术/游戏/叙事方向**：**《永无止境的画廊》**：一个像素风冒险游戏，玩家每走进一扇新门，背后的 LLM 就会根据门上的“谜题诗歌”实时生成一个新的微型 JS 游戏关卡，玩家必须通关才能继续前进。\n- 对我项目的启发：在设计游戏生成系统时，不要试图让 AI 去填复杂的项目模板，而是为 AI 设计一个极度精简的“容器/接口”（如同这个 JS Class），让它在这个限制极强的沙盒里跳舞。\n- 今天是否值得深入研究：是\n- 建议行动：试用（去读一下它游戏类的 API 设计）\n\n---\n\n## [system_prompts_leaks]\n- 来源：GitHub Trending\n- 链接：https://github.com/asgeirtj/system_prompts_leaks\n- 一句话解释：一个持续更新的仓库，收集了当前市面上最顶尖 AI 模型和工具（如 Claude Code, ChatGPT Thinking, Gemini 3.5, Cursor）的官方 System Prompt 泄露版。\n- 它为什么重要：这是顶尖 AI 厂商的“秘密配方”。通过研究这些 System Prompt，你可以学到 Anthropic 和 OpenAI 是如何通过纯文本指令来约束 Agent 的行为、如何优雅地处理 Tool Calling 报错、以及如何引导模型进行“Thinking（思考）”。这是最硬核的 **HCI（人机交互）** 和 **Agent 提示词工程** 教科书。\n- 技术趋势标签：`Prompt Engineering` `Agent HCI` `Reverse Engineering`\n- 可复用模式：**多层防御与工具链引导（The Guardrail & Tool-Chain Pattern）**：学习大厂如何用 XML 标签（如 `<thought>`, `<call>`）在 Prompt 中建立严格的思维沙盒，以及如何防止 Prompt 注入。\n- 疯狂发明家灵感：\n  1. **一个小实验**：把 Claude Code 的 System Prompt 塞给一个本地的 Llama-3 或者是 Qwen 模型，看看能否在本地终端里复刻出类似 Claude Code 的交互体感。\n  2. **一个中型项目**：**Prompt 逆向攻防战（Jailbreak Game）**：设计一个黑客解密游戏，玩家的目标是通过聊天诱骗 NPC 吐出其 System Prompt，而 NPC 的 Prompt 则是用本仓库中最高级的“防泄露”技巧编写的。\n  3. **一个艺术/游戏/叙事方向**：**《潜意识美术馆》**：将这些泄露的 System Prompt 转化为视觉化的“精神结构图”。把 AI 模型当成有潜意识的人类，将它们的系统设定（如“你必须保持谦逊”、“不要暴露你的思考过程”）用生成艺术（Generative Art）具象化为错综复杂的迷宫。\n- 对我项目的启发：写 Agent 提示词时，不要再用简单的“你是一个助手”，去参考 Claude Code 的 Prompt，学习他们如何用精确的伪代码和行为规范来约束 Agent。\n- 今天是否值得深入研究：是\n- 建议行动：收藏（当作案头参考书，写 Agent 时随时翻阅）\n\n---\n\n## [astryx]\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/facebook/astryx\n- 一句话解释：由 Meta 开源的、完全可定制且**专为 AI Agent 优化（Agent Ready）**的开源设计系统。\n- 它为什么重要：传统的组件库（如 Tailwind, Radix）是给人类开发者用的，对 AI Agent 来说，DOM 结构太繁琐、类名太冗余。Astryx 提出了“Agent Ready”的概念——组件拥有极佳的语义化、明确的元数据（Metadata）和可预测的属性结构，使得 AI 能够以极高的准确率直接组合、生成和修改 UI。\n- 技术趋势标签：`Agent-Ready UI` `Generative Design Systems` `HCI`\n- 可复用模式：**语义化 UI 骨架（Semantic UI Skeleton）**：组件自带高度抽象的“意图标签（Intent Tags）”，让 Agent 不需要理解 CSS 细节，只需要声明“我要一个危险警告确认框”，就能精准调用并渲染组件。\n- 疯狂发明家灵感：\n  1. **一个小实验**：利用 Astryx 的组件，做一个“大声说出你的界面”的 Demo。用户用语音描述一个复杂的表单，AI Agent 实时组装 Astryx 组件，在 5 秒内渲染出高可用、符合设计规范的真实 UI。\n  2. **一个中型项目**：**自适应液态 UI（Liquid UI）**：一个仪表盘应用，它没有固定的布局。Agent 会监控用户的鼠标轨迹和停留时间，如果发现用户在频繁寻找某个功能，Agent 会在后台调用 Astryx 组件，动态重构界面，把常用按钮放大并移到用户手边。\n  3. **一个艺术/游戏/叙事方向**：**《UI 也是地下城》**：一个 Rogue-like 游戏，但游戏画面完全是由标准的 Web 按钮、输入框、进度条（通过 Astryx 生成）组成的。玩家的武器是“下拉菜单”，怪物是“不断弹出的 Error 窗口”，玩家需要通过操作这些 UI 组件来通关。\n- 对我项目的启发：当我们在做“生成式系统”或 HCI 实验时，不要让 AI 从零写 HTML/CSS。构建一套“Agent 友好型”的极简组件库，让 Agent 像搭积木一样组装 UI，成功率会飙升。\n- 今天是否值得深入研究：是\n- 建议行动：做demo\n\n---\n\n## 今日模式总结\n\n1. **“文件即状态机”（File-as-State Machine）**：从 `planning-with-files` 可以看出，最前沿的 Agent 架构正在“返璞归真”——放弃复杂的内存状态管理，转而将状态、规划、上下文物理化地写入磁盘（Markdown/JSON）。这极大地增强了系统的鲁棒性，也让“人机协作”变得无比直观。\n2. **“Agent 友好型设计”（Agent-Native Design）**：无论是 `Homegames` 的极简 JS 类游戏接口，还是 `astryx` 的 Agent-ready 设计系统，行业正在经历一场变革——**我们不再仅仅为人类设计接口和组件，我们必须开始为 AI Agent 设计它们能轻松读写的“API 物理层”**。\n\n---\n\n## 今日可做小实验：Markdown 冒险主宰（MD-DM）\n\n### 1. 项目名\n`MD-DM` (Markdown Dungeon Master)\n\n### 2. 输入\n一个本地的 Markdown 文件 `dungeon.md`。\n\n### 3. 输出\nAI 扮演的 Dungeon Master 读取该文件，根据玩家在文件中写入的下一步行动，生成后续剧情、更新玩家状态（血量、装备），并用 ASCII Art 渲染出当前的场景，最后重写该 Markdown 文件。\n\n### 4. 技术栈\n- Node.js (或 Python)\n- `chokidar` (用于监听本地文件变化)\n- OpenAI API 或 Anthropic API (推荐 Claude-3.5-Sonnet)\n\n### 5. 第一步怎么做\n1. 在本地创建一个文件夹，新建一个 `dungeon.md`，初始内容如下：\n   ```markdown\n   # 龙与地下城：暗影地牢\n\n   ## 当前场景\n   你醒来在一间阴暗的石室里，四周墙壁上插着快要熄灭的火把。东边有一扇铁门。\n\n   ## 玩家状态\n   - HP: 100/100\n   - 装备: 生锈的短剑, 破烂的布衣\n\n   ## 你的下一步行动\n   （请在此处写下你的行动，保存文件，DM 将为你书写命运...）\n   > 我尝试去推东边的铁门。\n   ```\n2. 编写一个 Node.js 脚本 `dm.js`，使用 `chokidar` 监听 `dungeon.md` 的保存事件。\n3. 一旦检测到文件被保存，且 `> 我尝试...` 这一行被修改，脚本立即读取该文件全部内容，作为 Prompt 发送给 LLM。\n4. 提示词设计：“你是一个阴暗残酷的 Dungeon Master。请读取当前的 Markdown 状态，根据玩家的行动更新剧情、玩家状态，并用 ASCII 字符画一个简单的当前场景，最后将整个 Markdown 重新覆盖写入原文件，保留相同的格式。”\n5. 运行脚本，打开你的 VS Code（分屏显示 Markdown 预览），直接在 `dungeon.md` 里打字并保存，体验“在编辑器里玩实体文字游戏”的奇妙感觉！",
+  "gemini_success": true,
+  "telegram_sent": false,
+  "telegram_status": "failed",
+  "telegram_reason": "400 Client Error: Bad Request for url: https://api.telegram.org/bot8650722899:AAHUD-aqNDB7NwiPiGq3R22MVp77Cr_5GEQ/sendMessage"
+}
