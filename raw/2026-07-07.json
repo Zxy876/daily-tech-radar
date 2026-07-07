@@ -1,0 +1,256 @@
+[
+  {
+    "title": "diegosouzapw / OmniRoute",
+    "url": "https://github.com/diegosouzapw/OmniRoute",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA. [749 stars today]",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "Claude",
+      "Gemini",
+      "Copilot",
+      "GPT",
+      "multimodal"
+    ]
+  },
+  {
+    "title": "asgeirtj / system_prompts_leaks",
+    "url": "https://github.com/asgeirtj/system_prompts_leaks",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly. [1,378 stars today]",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "Claude",
+      "Gemini",
+      "Copilot",
+      "GPT",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Show HN: Homegames. An open-source game platform I've been making for 8 years",
+    "url": "https://homegames.io",
+    "source": "Hacker News Best",
+    "published_at": "Sun, 05 Jul 2026 21:32:44 +0000",
+    "description": "I'm making a platform for simple open source games you can play anywhere. Games are all just JavaScript classes and you can read the source of every game on the platform. I started working on initial \"games\" (mostly rendering tests) in 2018 and eventually built all of the platform stuff around it to make it easy to share games. There's also an in-browser editor available for you to make and publish games all from the browser. Would love some feedback on the games and studio features as well as t",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "game",
+      "open source"
+    ]
+  },
+  {
+    "title": "google-antigravity / antigravity-sdk-python",
+    "url": "https://github.com/google-antigravity/antigravity-sdk-python",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "A Python library for building AI agents that leverage the full power of Google Antigravity. [32 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "RAG"
+    ]
+  },
+  {
+    "title": "ComposioHQ / awesome-claude-skills",
+    "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows [104 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "Claude",
+      "workflow"
+    ]
+  },
+  {
+    "title": "jamwithai / production-agentic-rag-course",
+    "url": "https://github.com/jamwithai/production-agentic-rag-course",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "49 stars today",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "RAG"
+    ]
+  },
+  {
+    "title": "alirezarezvani / claude-skills",
+    "url": "https://github.com/alirezarezvani/claude-skills",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills. [610 stars today]",
+    "score": 5.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "Gemini"
+    ]
+  },
+  {
+    "title": "Pruning RAG context down to what the answer actually needs",
+    "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
+    "source": "Hacker News",
+    "published_at": "Mon, 06 Jul 2026 19:28:24 +0000",
+    "description": "Article URL: https://www.kapa.ai/blog/how-we-prune-rag-context Comments URL: https://news.ycombinator.com/item?id=48809354 Points: 52 # Comments: 5",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "RAG"
+    ]
+  },
+  {
+    "title": "GPT-5.6 Sol Ultra will be in Codex",
+    "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
+    "source": "Hacker News Best",
+    "published_at": "Mon, 06 Jul 2026 01:04:03 +0000",
+    "description": "https://x.com/haider1/status/2073695124220006575 , https://xcancel.com/haider1/status/2073695124220006575 Comments URL: https://news.ycombinator.com/item?id=48799614 Points: 403 # Comments: 380",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "GPT"
+    ]
+  },
+  {
+    "title": "Does code cleanliness affect coding agents? A controlled minimal-pair study",
+    "url": "https://arxiv.org/abs/2605.20049",
+    "source": "Hacker News Best",
+    "published_at": "Sun, 05 Jul 2026 23:03:55 +0000",
+    "description": "Article URL: https://arxiv.org/abs/2605.20049 Comments URL: https://news.ycombinator.com/item?id=48798815 Points: 190 # Comments: 89",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "mvanhorn / last30days-skill",
+    "url": "https://github.com/mvanhorn/last30days-skill",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary [458 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "TauricResearch / TradingAgents",
+    "url": "https://github.com/TauricResearch/TradingAgents",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework [322 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "agent",
+      "LLM"
+    ]
+  },
+  {
+    "title": "cheahjs / free-llm-api-resources",
+    "url": "https://github.com/cheahjs/free-llm-api-resources",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "A list of free LLM inference resources accessible via API. [419 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "LLM",
+      "inference"
+    ]
+  },
+  {
+    "title": "karpathy / nanoGPT",
+    "url": "https://github.com/karpathy/nanoGPT",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs. [91 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "GPT"
+    ]
+  },
+  {
+    "title": "hesreallyhim / awesome-claude-code",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins [506 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "agent",
+      "Claude"
+    ]
+  },
+  {
+    "title": "microsoft / qlib",
+    "url": "https://github.com/microsoft/qlib",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped withhttps://github.com/microsoft/RD-Agentto automate R&D process. [125 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "addyosmani / agent-skills",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Production-grade engineering skills for AI coding agents. [1,112 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "Zackriya-Solutions / meetily",
+    "url": "https://github.com/Zackriya-Solutions/meetily",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. [2,494 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "self-hosted"
+    ]
+  },
+  {
+    "title": "openai / codex-plugin-cc",
+    "url": "https://github.com/openai/codex-plugin-cc",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Use Codex from Claude Code to review code or delegate tasks. [906 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "Claude"
+    ]
+  },
+  {
+    "title": "steipete / CodexBar",
+    "url": "https://github.com/steipete/CodexBar",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login. [598 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "Claude"
+    ]
+  }
+]
