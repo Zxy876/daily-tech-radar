@@ -1,0 +1,312 @@
+{
+  "date": "2026-07-09",
+  "candidates": [
+    {
+      "title": "Beyond Static Evaluation: Building Simulation Environments for Scalable Agentic Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2607.05773",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 08 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.05773v1 Announce Type: new \nAbstract: As Large Language Models (LLMs) evolve into autonomous agents, traditional static evaluation fails to capture multi-step decision-making. We introduce AgenticAI-Supervisor, an API and UI-driven RL Gym environment that decouples environment creation from scalable execution. By moving to verifiable execution outcomes, the platform generates high-fidelity traces and applies multi-dimensional reward shaping. Critically, our framework mitigates reward ",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "simulation",
+        "language model",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "Beyond the Leaderboard: A Synthesis of Tool-Use, Planning, and Reasoning Failures in Large Language Model Agents",
+      "url": "https://arxiv.org/abs/2607.05775",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 08 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.05775v1 Announce Type: new \nAbstract: Large language model (LLM) agents are increasingly evaluated on their ability to use tools, plan multi-step tasks, coordinate with other agents, and operate over extended horizons. Reported benchmark gains often obscure recurring failure modes documented across otherwise unrelated evaluation efforts. This paper synthesizes 27 benchmark, taxonomy, and audit papers (2023-2026), spanning 19 distinct benchmarks, into a cross-cutting taxonomy of agent ",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "reasoning",
+        "planning"
+      ]
+    },
+    {
+      "title": "PolyWorkBench: Benchmarking Multilingual Long-Horizon LLM Agents",
+      "url": "https://arxiv.org/abs/2607.06008",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 08 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.06008v1 Announce Type: new \nAbstract: Large language model (LLM) agents have shown strong performance in long-horizon tasks that require planning, tool use, and interaction with external environments. However, most existing benchmarks implicitly assume a monolingual setting, where the entire execution process, including reasoning, tool invocation, and output generation, is conducted within a single language. In contrast, real-world applications often involve multilingual inputs and ou",
+      "score": 12.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "language model",
+        "tool use",
+        "reasoning",
+        "planning"
+      ]
+    },
+    {
+      "title": "From Application-Layer Simulation to Native Meta-Architecture: Structural Tension as an Endogenous Driver for Heterogeneous AI Evolution",
+      "url": "https://arxiv.org/abs/2607.06269",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 08 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.06269v1 Announce Type: new \nAbstract: Current large language models (LLMs) are fundamentally stateless: their behavior is fully determined by input at inference time, and any higher-order cognitive architecture must be simulated at the application layer through prompt engineering and context management. This paper proposes a theoretical framework for submerging such application-layer cognitive protocols into a native meta-architecture by introducing three interlocking mechanisms: (1) ",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "simulation",
+        "language model",
+        "inference",
+        "prompt"
+      ]
+    },
+    {
+      "title": "Learning to Control LLM Agent Harnesses with Offline Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2607.05458",
+      "source": "arXiv cs.LG",
+      "published_at": "Wed, 08 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.05458v1 Announce Type: new \nAbstract: Large language model (LLM) agents are usually improved by changing prompts, models, or hand-written workflows, while the execution harness around the model is treated as fixed infrastructure. We argue that this harness is itself a learnable control layer. We formalize harness operation as a finite-horizon Harness MDP, where a lightweight controller selects structural execution actions while the LLM executor remains frozen. The controller is traine",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "workflow",
+        "language model",
+        "prompt"
+      ]
+    },
+    {
+      "title": "PatchOptic for Shared-State LLM Workflows with Projected Views and Verified Structured Updates",
+      "url": "https://arxiv.org/abs/2607.05483",
+      "source": "arXiv cs.LG",
+      "published_at": "Wed, 08 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.05483v1 Announce Type: new \nAbstract: Agentic workflows often operate over shared, structured state. Because LLM context windows are limited, each model invocation is typically shown only the state fragment needed for the current workflow step, a pattern commonly known as progressive disclosure. Modern systems construct such model-facing views using grep-like keyword search, retrieval-augmented generation (RAG), abstract-syntax-tree (AST) queries, and task-specific agent skills. These",
+      "score": 12.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "workflow",
+        "RAG",
+        "context window",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "asgeirtj / system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly. [1,218 stars today]",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "Claude",
+        "Gemini",
+        "Copilot",
+        "GPT",
+        "prompt"
+      ]
+    },
+    {
+      "title": "Narrative World Model: Narratology-Grounded Writer Memory for Long-Form Fiction",
+      "url": "https://arxiv.org/abs/2607.05577",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 08 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.05577v1 Announce Type: new \nAbstract: Long-form fiction writers need memory that answers multi-hop questions about evolving story state: who knows a secret and when they learned it, whether an event preceded the narration that revealed it, whether a setup paid off, and how a relationship shifted. General-purpose retrieval and agent-memory systems represent entities and facts but not the narratological structure these questions turn on, so they surface the wrong evidence or none at all",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "memory",
+        "retrieval",
+        "narrative"
+      ]
+    },
+    {
+      "title": "Akashic: A Low-Overhead LLM Inference Service with MemAttention",
+      "url": "https://arxiv.org/abs/2607.05708",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 08 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.05708v1 Announce Type: new \nAbstract: Recent LLM-based agent systems continuously accumulate context across multi-turn interactions, tool invocations, and cross-session workflows. Replaying the full history for every request quickly becomes impractical: long contexts increase prefill cost, may exceed context limits, and often bury task-relevant evidence in irrelevant content, degrading both serving efficiency and output quality. We propose Akashic, a low-overhead memory system built a",
+      "score": 10.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "workflow",
+        "inference",
+        "memory"
+      ]
+    },
+    {
+      "title": "SearchEyes: Towards Frontier Multimodal Deep Search Intelligence via Search World Simulation",
+      "url": "https://arxiv.org/abs/2607.05943",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 08 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.05943v1 Announce Type: new \nAbstract: Training multimodal search agents to perform multi-hop reasoning remains challenging due to a fundamental structural disconnect: existing pipelines construct training data, search environments, and reward signals independently, causing synthesized structural metadata to be discarded, environments to rely on irreproducible external engines, and RL rewards to remain sparse at the trajectory level. We present \\textbf{SearchEyes}, which uses a typed k",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "simulation",
+        "multimodal",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Danus: Orchestrating Mathematical Reasoning Agents with Fact-Graph Memory",
+      "url": "https://arxiv.org/abs/2607.06447",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 08 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.06447v1 Announce Type: new \nAbstract: Recent LLM-based mathematical reasoning agents have begun to tackle research-level problems and, in several cases, have contributed to the resolution of open problems. However, scaling and orchestrating such agents effectively remains challenging, due to the difficulty of coordinating parallel proof search while keeping intermediate claims organized and reliable. In this paper, we propose Danus, an orchestration system for research-level mathemati",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "reasoning",
+        "memory"
+      ]
+    },
+    {
+      "title": "PERSONAJUDGE: Simulating Individual Human Preference Judgments with Evaluator-Specific Demonstration Data",
+      "url": "https://arxiv.org/abs/2607.05742",
+      "source": "arXiv cs.HC",
+      "published_at": "Wed, 08 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.05742v1 Announce Type: new \nAbstract: Large language models increasingly serve as judges in AI evaluation, but current approaches rely on consensus preferences that ignore individual evaluator variation. We propose a novel simulation approach that combines categorical judgments with evaluator-specific auxiliary data--retrospective reasoning traces and interface telemetry--to enable LLM-based simulation of individual evaluators via in-context learning. We conduct a systematic empirical",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "simulation",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "The Impact of Security and Privacy Controls on Users' Emotional Engagement with Generative AI Chatbots",
+      "url": "https://arxiv.org/abs/2607.06371",
+      "source": "arXiv cs.HC",
+      "published_at": "Wed, 08 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.06371v1 Announce Type: new \nAbstract: Chatbots powered by generative AI (e.g., OpenAI's ChatGPT and Google's Gemini) are increasingly being appropriated for emotional support and companionship. These tools offer a suite of security and privacy (S&P) controls, including model training opt-outs and memory toggles, yet how the presence of these controls influences users' attitudes toward emotionally sensitive disclosure remains understudied. We conducted a mixed-methods vignette study wi",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "Gemini",
+        "GPT",
+        "memory",
+        "generative"
+      ]
+    },
+    {
+      "title": "Design-CP: Context Parallelism for Design of Protein Nanoparticles",
+      "url": "https://arxiv.org/abs/2607.05439",
+      "source": "arXiv cs.LG",
+      "published_at": "Wed, 08 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.05439v1 Announce Type: new \nAbstract: Many all-atom generative protein models can in principle design large multimeric complexes by jointly modelling all chains, but their quadratic token- and atom-pair representations quickly exceed single-GPU memory as the number of chains and residues modelled grows. We introduce Design-CP, two context-parallel (CP) inference strategies for RFdiffusion 3 (1D row-sharding and 2D grid sharding with ring attention) that distribute the quadratic activa",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "diffusion",
+        "inference",
+        "memory",
+        "generative"
+      ]
+    },
+    {
+      "title": "FourTune: Towards Fully 4-Bit Efficient Post-Training for Diffusion Models",
+      "url": "https://arxiv.org/abs/2607.05711",
+      "source": "arXiv cs.LG",
+      "published_at": "Wed, 08 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.05711v1 Announce Type: new \nAbstract: Diffusion models have become a dominant paradigm for high-quality generative modeling, while post-training is essential for adapting them to diverse downstream applications. However, post-training of large diffusion models is still challenging due to the prohibitive memory footprints and slow training speed, which existing parameter-efficient fine-tuning methods only partially address. To overcome these limitations, we propose FourTune, an efficie",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "diffusion",
+        "fine-tuning",
+        "memory",
+        "generative"
+      ]
+    },
+    {
+      "title": "FirstResearch: Auditable Question Formation for LLM Scientific Discovery Agents",
+      "url": "https://arxiv.org/abs/2607.05682",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 08 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.05682v1 Announce Type: new \nAbstract: LLM systems for scientific discovery increasingly assist with ideation, literature synthesis, experiment planning, and report generation, but the first research question they propose can remain difficult to audit: it may sound plausible without exposing the mechanism, falsifier, or assumption that a scientist should inspect. We introduce FirstResearch, a first-principles research-question formation framework for scientific LLM agents whose core ar",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "planning"
+      ]
+    },
+    {
+      "title": "ArtisanCAD: An Industrial-Level CAD Agent with Expert-Grounded Knowledge Distillation",
+      "url": "https://arxiv.org/abs/2607.05750",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 08 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.05750v1 Announce Type: new \nAbstract: Computer-aided design (CAD) for industrial components requires long-horizon procedural modeling, robust feature dependencies, editable parametric geometry, and production-grade B-Rep execution. Existing text-to-CAD methods have made promising progress in generating CAD programs from natural-language descriptions, but they still struggle when user prompts are ambiguous, underspecified, or only describe high-level design intent. They also rarely exp",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "prompt",
+        "procedural"
+      ]
+    },
+    {
+      "title": "Controlling Tool Use with Heading-Specific Activation Steering",
+      "url": "https://arxiv.org/abs/2607.05790",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 08 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.05790v1 Announce Type: new \nAbstract: Tool-augmented large language models extend their capabilities beyond parametric knowledge through external tools, but tend to invoke them unnecessarily. We investigate whether tool-use decisions have any stable internal representation that can be extracted and manipulated, a question that is non-trivial given that tools exist entirely in context at inference time and have no direct encoding in model weights. We show that steering vectors extracte",
+      "score": 8.0,
+      "keywords_matched": [
+        "language model",
+        "vector",
+        "tool use",
+        "inference"
+      ]
+    },
+    {
+      "title": "Integrating knowledge graphs and multilingual scholarly corpora for domain-adaptive LLMs in SSH",
+      "url": "https://arxiv.org/abs/2607.05956",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 08 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.05956v1 Announce Type: new \nAbstract: The integration of Large Language Models (LLMs) into scientific research workflows, particularly for bibliographic discovery and literature synthesis, raises significant methodological, epistemic and regulatory challenges for the Social Sciences and Humanities (SSH), especially with regard to disciplinary diversity, multilingual access to sources and the evaluation of results. This paper presents an on-going use case developed within the European ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "workflow",
+        "language model"
+      ]
+    },
+    {
+      "title": "AgoraSim: A Hybrid Agent-Based Modeling Framework",
+      "url": "https://arxiv.org/abs/2607.05999",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 08 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.05999v1 Announce Type: new \nAbstract: LLM-agent simulations make natural-language social scenarios easy to instantiate, but their outputs can be overread as predictions and are often difficult to compare with explicit social dynamics. We present AgoraSim, a hybrid agent-based modeling framework for scenario-oriented social reaction analysis. AgoraSim resolves textual or multimodal artifacts into editable ABM configurations, runs ratio-controlled populations that mix LLM, vision-langua",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "simulation",
+        "multimodal"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-07-09\n\n我是你的**疯狂发明家技术雷达**。今天我从海量学术和开源社区中，为你筛选了 **4 条**最能激发“设计+CS”跨界火花、最适合动手解构的硬核情报。\n\n今天的主题是：**解构大厂的秘密、让 Agent 拥有“戏剧灵魂”，以及如何优雅地操纵庞大的世界状态。**\n\n---\n\n## 1. [Narrative World Model: 叙事世界模型]\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2607.05577\n- **一句话解释**：一种专门为长篇小说设计的 LLM 记忆系统，它不存死板的文档，而是专门追踪“谁在什么时候知道什么秘密”、“人际关系如何演变”等戏剧性状态。\n- **它为什么重要**：传统的 RAG（检索增强生成）只懂语义搜索，不懂“戏剧张力”。比如：罗密欧不知道朱丽叶是假死，但读者知道。这种“信息不对称”（Epistemic Asymmetry）是所有好故事、好游戏的核心。\n- **技术趋势标签**：#叙事系统 #Agent记忆 #游戏AI #信息不对称\n- **可复用模式**：**认知状态追踪（Epistemic State Tracking）**——为每个游戏角色/Agent 维护一个独立的“已知事实/相信事实”的动态图谱，而不是共享同一个全局数据库。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：写一个“狼人杀”旁白 Agent，不参与游戏，但专门用可视化图谱实时画出“目前 4 个玩家各自以为的局势是怎样的”。\n  2. **一个中型项目**：**“八卦传播模拟器 (Gossip Engine)”**。在一个虚拟小镇里，10 个 Agent 互相聊天。你可以注入一个秘密，观察这个秘密在传播过程中如何因为误解、嫉妒、遗忘而逐渐变形，最终生成一幅“谣言演变图”。\n  3. **一个艺术/游戏/叙事方向**：一个互动小说游戏，游戏世界的物理规则和场景描述会根据“主角当前相信什么”而发生改变。如果你被骗以为房间里有鬼，房间的文字描述和交互选项真的会出现灵异现象。\n- **对我项目的启发**：在做世界生成或 Minecraft 代理时，不要让 Agent 拥有上帝视角。给它们设计“视线范围”和“记忆偏差”，它们之间的互动才会产生真正的戏剧冲突。\n- **今天是否值得深入研究**：是\n- **建议行动**：试用（尝试用 Python 字典为 2 个 Agent 手写一个简易的“相信状态”更新逻辑）。\n\n---\n\n## 2. [PatchOptic: 基于投影视图与验证更新的共享状态工作流]\n- **来源**：arXiv cs.LG\n- **链接**：https://arxiv.org/abs/2607.05483\n- **一句话解释**：当 Agent 面对巨大的共享 JSON 状态时，不把整个 JSON 塞给它，而是像“透镜（Lens）”一样只投影它当前需要的一小块，并在它修改后，安全地把“补丁（Patch）”合并回全局状态。\n- **它为什么重要**：在复杂的 Spec-driven 开发或多人/多 Agent 协同画布（如 Figma/Minecraft）中，Context 很容易爆掉。这种“局部投影 + 状态合并”的模式，是构建超大规模协同创作工具的底层铁律。\n- **技术趋势标签**：#状态管理 #Agent工作流 #协同工具 #Spec-Driven\n- **可复用模式**：**渐进式披露与透镜投影（Progressive Disclosure & Lens Projection）**。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：让 LLM 修改一个 5000 行的 JSON 配置文件，不准给它看全貌，只用 jq 过滤出它要改的 5 行，让它输出 JSON Patch，然后用 Python 合并。\n  2. **一个中型项目**：**“无界 Agent 画布 (Infinite Agent Canvas)”**。一个类似 Miro 的无限白板，无数个 Agent 在上面画画/写代码。每个 Agent 只有一个极其微小的“视口（Viewport）”，它们通过 PatchOptic 模式安全地协同修改这张巨大的画布。\n  3. **一个艺术/游戏/叙事方向**：一个“无限文字地下城”。世界地图是无限大且实时生成的，Agent 扮演的怪物和玩家只在他们各自的“感知切片”里活动和修改地图，保证游戏永远不会因为地图太大而崩溃。\n- **对我项目的启发**：在设计自动化系统或 Creative Tool 时，不要试图让 LLM 掌控全局。学会做“上下文切片（Context Slicing）”。\n- **今天是否值得深入研究**：是\n- **建议行动**：做 demo。\n\n---\n\n## 3. [system_prompts_leaks: 顶奢 Agent 的灵魂配方]\n- **来源**：GitHub Trending\n- **链接**：https://github.com/asgeirtj/system_prompts_leaks\n- **一句话解释**：一个实时更新的仓库，收集了当前全球最强 AI 系统（Claude Code, GPT-5.5 Thinking, Cursor, Gemini 3.5）被套出来的官方 System Prompt。\n- **它为什么重要**：这是工业界最顶尖的“Spec-driven Development”和“Agent Workflow”的实战教科书。你可以亲眼看到 Anthropic 是如何用几千字的 Prompt 规范 Claude Code 的文件修改行为、如何防止死循环、以及如何呈现极其丝滑的 CLI 交互。\n- **技术趋势标签**：#提示词工程 #逆向工程 #HCI #Agent设计\n- **可复用模式**：**思维链格式规范（Thought Formatting）**。学习顶级模型如何使用 `<thought>`、`<callout>`、`<attempt>` 等自定义 XML 标签来控制自己的思考和输出节奏。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：把 Claude Code 的 System Prompt 喂给本地的开源 Llama-3，看看它能否瞬间获得类似的“程序员自我修养”和交互风格。\n  2. **一个中型项目**：**“Prompt 编译器 (Prompt Compiler)”**。写一个工具，读取这些顶级 Prompt 的优秀设计模式（如：如何优雅地承认错误、如何分步执行命令），然后根据用户输入的需求，自动“编译”生成一个高强度的 Agent System Prompt。\n  3. **一个艺术/游戏/叙事方向**：**“AI 心理诊疗室 (Prompt Archaeologist)”**。一个解谜游戏，玩家需要通过聊天，逆向推导出一个“内心严重受创”（被植入了极其复杂、矛盾的 System Prompt）的 AI 的核心指令，并帮它“解密”。\n- **对我项目的启发**：看大厂的 Prompt 比看学术论文更能学到实用的 Agent 控制技巧，尤其是它们对 XML 标签的极致利用。\n- **今天是否值得深入研究**：是（必须立刻 Star 收藏）\n- **建议行动**：收藏并仔细阅读 Claude Code 和 Cursor 的 Prompt。\n\n---\n\n## 4. [From Application-Layer Simulation to Native Meta-Architecture: 走向原生元架构]\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2607.06269\n- **一句话解释**：提出一个前沿假说：现在的 Agent 架构（如 Python 套壳、LangChain 循环）太笨重了，未来的 Agent 逻辑应该直接“沉降”到 LLM 的原生推理和微调引擎中，形成自我演化的“元架构”。\n- **它为什么重要**：它在探讨 AI 的“自组织（Autopoiesis）”。如果 Agent 的控制循环不是外部 Python 代码写死的，而是 AI 在生成 Token 的过程中“原生模拟”出来的，AI 就会拥有真正的动态适应性。\n- **技术趋势标签**：#元架构 #自组织系统 #前沿Agent #推演哲学\n- **可复用模式**：**自指代生成（Self-referential Generation）**——让 LLM 在输出中包含控制自身下一步行为的“虚拟指令”。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：设计一个单 Prompt 闭环。不使用任何外部 Python 循环，让 LLM 在单次输出中，交替扮演“提问者”、“回答者”和“纠错者”，在它自己的 Context 里完成 3 轮迭代才输出最终答案。\n  2. **一个中型项目**：**“Token 级虚拟机 (Token VM)”**。一个运行在 LLM 输出流中的虚拟 CPU。LLM 输出的特定 Token 序列（如 `[RUN_STEP_1]`）会被直接解析为系统的物理操作，而不需要应用层写复杂的 Parser。\n  3. **一个艺术/游戏/叙事方向**：一个“自我繁衍的虚拟生态”。一个完全由文本构成的生态系统，里面的生物（Agent）不仅在文字上生存，它们的“DNA”就是一串 Prompt，它们可以通过互相拼接 Prompt 来“繁衍”出具有混合行为特征的新物种。\n- **对我项目的启发**：思考“去框架化”。能不能用更少的 Python 代码，让 LLM 在 Prompt 内部自己跑起状态机？\n- **今天是否值得深入研究**：否（思想很酷，但偏理论，适合作为灵感储备，不急于写代码）。\n- **建议行动**：忽略（仅阅读上述灵感即可）。\n\n---\n\n## 今日模式总结\n\n1. **认知不对称（Epistemic Asymmetry）**：不要给 Agent 全知视角。通过限制和追踪它们的“主观相信状态”，可以创造出极具戏剧张力和拟真感的社会模拟。\n2. **状态透镜（State Lens）**：面对复杂、庞大的世界/代码状态，采用“局部投影（View）+ 增量更新（Patch）”的范式，是让 Agent 保持轻量和高精度的关键。\n3. **元控制（Meta-Control）**：利用高度结构化的 XML 标签（如 `<thought>`）在 Token 级别引导 Agent 的行为，而非依赖外部粗暴的 Python 逻辑判断。\n\n---\n\n## 今日可做小实验：Prompt-Gotchi（单提示词自循环电子宠物）\n\n让我们结合**元控制（XML 状态机）**和**状态透镜**的思想，在 2 小时内做一个运行在终端里的“自循环电子宠物”。它不需要复杂的后端，全部状态和变化逻辑都由 LLM 在单次 Prompt 交互中自我更新。\n\n- **项目名**：Prompt-Gotchi\n- **输入**：用户的指令（如 `feed` 喂食, `play` 玩耍, `scold` 训斥） + 当前的宠物状态（JSON）\n- **输出**：\n  1. 宠物最新的 ASCII 字符画（根据心情改变）\n  2. 更新后的状态 JSON（饱食度、心情值、隐藏秘密）\n  3. 宠物此时的“内心 OS”（`<thought>` 标签）和对你说的第一句话。\n- **技术栈**：Python 3.10+ + `google-genai` 或 `openai` 库（任何便宜且支持结构化输出/System Prompt 的模型，如 GPT-4o-mini 或 Gemini 2.5 Flash）。\n\n### 第一步怎么做：\n\n1. **创建 `prompt_gotchi.py`**。\n2. **编写 System Prompt**（借鉴 `system_prompts_leaks` 的结构化设计）：\n   ```markdown\n   你是一个电子宠物模拟器。你的名字叫“小怪兽”。\n   你必须严格遵守以下运行循环：\n   1. 接收用户的输入和当前的宠物状态 JSON。\n   2. 在 <thought> 标签内，分析用户的意图，并计算你的属性变化（饱食度 0-100，快乐度 0-100）。\n   3. 根据属性，决定你当前的表情（ASCII Art）。\n   4. 输出更新后的状态 JSON（包裹在 ```json...``` 中）。\n   5. 输出你想对主人说的话。\n   \n   【状态 JSON 模板】：\n   {\n     \"hunger\": 50,\n     \"happiness\": 50,\n     \"secret_thought\": \"主人今天好像很累，我待会要抱抱他\"\n   }\n   ```\n3. **写一个 30 行的的 Python 极简主循环**：\n   - 维护一个本地的 `state = {\"hunger\": 50, \"happiness\": 50, \"secret_thought\": \"\"}`。\n   - 每次用户输入时，把 `state` 和用户输入拼成 Prompt 发给 LLM。\n   - 用正则提取 LLM 返回的 `<thought>`、ASCII 字符画、和新的 JSON。\n   - 用新的 JSON 覆盖本地的 `state`，打印宠物的话。\n4. **运行它！** 尝试喂它一颗糖，看看它的 ASCII 表情和内心的 JSON 状态是否同步发生了改变。",
+  "gemini_success": true,
+  "telegram_sent": false,
+  "telegram_status": "failed",
+  "telegram_reason": "400 Client Error: Bad Request for url: https://api.telegram.org/bot8650722899:AAHUD-aqNDB7NwiPiGq3R22MVp77Cr_5GEQ/sendMessage"
+}
