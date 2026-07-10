@@ -1,0 +1,286 @@
+[
+  {
+    "title": "From Atomic Actions to Standard Operating Procedures: Iterative Tool Optimization for Self-Evolving LLM Agents",
+    "url": "https://arxiv.org/abs/2607.07321",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 09 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.07321v1 Announce Type: new \nAbstract: Tool utilization enables Large Language Model (LLM) agents to interact with the real world and resolve complex tasks. However, existing agent frameworks predominantly rely on static toolsets composed of granular atomic actions (e.g., basic file I/O or single-turn search), which forces agents to reinvent low-level logic for every recurring workflow, leading to increased reasoning overhead and failure rates. In this study, we propose that agents can",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "asgeirtj / system_prompts_leaks",
+    "url": "https://github.com/asgeirtj/system_prompts_leaks",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly. [1,125 stars today]",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "Claude",
+      "Gemini",
+      "Copilot",
+      "GPT",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Evaluating SageMath-Augmented LLM Agents for Computational and Experimental Mathematics",
+    "url": "https://arxiv.org/abs/2607.06820",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 09 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.06820v1 Announce Type: new \nAbstract: Recent advances in AI for Mathematics have focused largely on autoformalization and theorem proving, leaving the role of Computer Algebra Systems (CAS) in agentic LLM workflows underexplored. We propose a ReAct-style agentic setup that combines LLM reasoning with verifiable feedback from SageMath, together with Context7 for the up-to-date documentation. We evaluate this agentic setup across frontier models for solving research-level mathematical p",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "SpaCellAgent: A Self-Evolving LLM-Based Multi-Agent Framework for Trajectory Analysis",
+    "url": "https://arxiv.org/abs/2607.07467",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 09 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.07467v1 Announce Type: new \nAbstract: Spatial and Single-cell transcriptomics are transformative in deciphering cellular dynamics. As the fundamental paradigm for reconstructing cell developmental paths, trajectory inference (TI) is critical. However, existing methods require extensive manual intervention and proficiency in heterogeneous tools, posing a significant barrier to efficient TI analysis. To bridge this gap, we propose SpaCellAgent, an autonomous large language model (LLM) m",
+    "score": 10.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "language model",
+      "autonomous",
+      "inference"
+    ]
+  },
+  {
+    "title": "Do LLM-Generated Skills Make Better AI Data Scientists? A Component Ablation Across Data-Science Workflows",
+    "url": "https://arxiv.org/abs/2607.07504",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 09 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.07504v1 Announce Type: new \nAbstract: Product data scientists often ask LLM-based agents to help with recurring execution tasks such as cleaning data, writing SQL, choosing statistical tests, and formatting results. Reusable skill files are meant to avoid prompting from scratch by packaging guidance for a task family. Expert-written skills can encode high-quality guidance, but writing and maintaining them across many data-science task families creates a manual bottleneck. We ask wheth",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "prompt"
+    ]
+  },
+  {
+    "title": "When Agents Remember Too Much: Memory Poisoning Attacks on Large Language Model Agents",
+    "url": "https://arxiv.org/abs/2607.06595",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 09 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.06595v1 Announce Type: cross \nAbstract: Personal AI agents powered by large language models can reason and act using available tools to access emails, manage calendars, and push code to remote repositories, all with minimal oversight. When augmented with long-term memory, an agent can recall specific details relevant to the current task, reducing the need for large context windows. Currently, long-term memory agents tend to fall into two distinct domains: conversational and action-pla",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "language model",
+      "context window",
+      "memory"
+    ]
+  },
+  {
+    "title": "Show HN: Getting GLM 5.2 running on my slow computer",
+    "url": "https://github.com/JustVugg/colibri",
+    "source": "Hacker News Best",
+    "published_at": "Thu, 09 Jul 2026 08:05:04 +0000",
+    "description": "A few days ago I found myself trying out GLM 5.2 and was really positively impressed. The capabilities and security I was getting from this LLM are similar to those I've gotten from models like Claude or GPT, and this really surprised me. But then I thought, \"I wonder how it would work on a normal computer like mine,\" and above all, \"I wonder if it would work without going into OOM on a computer like mine.\" So I started working with the help of agents to test this possibility. I started converti",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "Claude",
+      "GPT"
+    ]
+  },
+  {
+    "title": "LLM-powered reasoning in agent-based modeling",
+    "url": "https://arxiv.org/abs/2607.06757",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 09 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.06757v1 Announce Type: new \nAbstract: Agent-based modeling (ABM) has the capability to model millions of individuals and their interactions, which is useful for policy making. However, ABMs have traditionally relied on static prior, which prevents the models from adapting to real-time changes. Our research provides a novel approach to addressing this information gap. Large language models (LLMs) offer new opportunities to predict human decision-making. Here, we introduce a scalable Hy",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Learning social norms enhances compatibility in dynamic human-AI coordination",
+    "url": "https://arxiv.org/abs/2607.07021",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 09 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.07021v1 Announce Type: new \nAbstract: Humans continuously coordinate with others in dynamic interactions, often through implicit, hard-to-quantify social norms that act as shared tacit expectations among interacting agents. As AI agents, including large language models (LLMs), become embedded in daily life, they increasingly participate in such interactions and reshape social interaction structures. Yet they often fail to coordinate with humans in an effective, considerate, and natura",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model"
+    ]
+  },
+  {
+    "title": "Agentic Data Environments",
+    "url": "https://arxiv.org/abs/2607.07397",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 09 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.07397v1 Announce Type: new \nAbstract: Autonomous agents promise substantial gains in speed, scale, and labor efficiency, but their failures can impose abrupt and often irreversible costs. The central challenge for agentic automation is therefore to increase the benefits of automation while bounding the consequences of failure.\n  While databases remain central to modern computing, agents operate over a broader data environment spanning files, APIs, applications, and system state. In th",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "automation",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "TriRoute: Unified Learned Routing for Joint Adaptive Attention, Experts, and KV-Cache Allocation",
+    "url": "https://arxiv.org/abs/2607.06601",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 09 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.06601v1 Announce Type: cross \nAbstract: Conditional computation can decouple language model quality from per-token inference cost, yet leading techniques act on a single axis in isolation: Mixture-of-Experts (MoE) sparsifies the FFN, Mixture-of-Depths (MoD) skips whole transformer blocks, and KV-cache quantization compresses attention memory. We argue these three decisions (attention resolution, expert selection, and cache bit-width) are strongly coupled and should be made jointly: a ",
+    "score": 8.0,
+    "keywords_matched": [
+      "transformer",
+      "language model",
+      "inference",
+      "memory"
+    ]
+  },
+  {
+    "title": "SycoEval-EM: Sycophancy Evaluation of Large Language Models in Simulated Clinical Encounters for Emergency Care",
+    "url": "https://arxiv.org/abs/2601.16529",
+    "source": "arXiv cs.HC",
+    "published_at": "Thu, 09 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2601.16529v4 Announce Type: replace-cross \nAbstract: Large language models (LLMs) deployed in clinical decision support may acquiesce to patient requests for care that conflicts with evidence-based guidelines. We developed SycoEval-EM, a multi-agent simulation framework to evaluate LLM robustness to adversarial patient persuasion in emergency medicine. Across 19 contemporary LLMs and 1,425 simulated clinical encounters spanning three Choosing Wisely scenarios, acquiescence rates ranged fro",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "simulation",
+      "language model"
+    ]
+  },
+  {
+    "title": "langfuse / langfuse",
+    "url": "https://github.com/langfuse/langfuse",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 [94 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "open source",
+      "prompt"
+    ]
+  },
+  {
+    "title": "777genius / agent-teams-ai",
+    "url": "https://github.com/777genius/agent-teams-ai",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch the kanban board and give high-level commands. Codex/Claude/OpenCode(200+ models, 75+ LLM providers, free models no auth). Build your AI company with multiple teams. [17 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "Claude"
+    ]
+  },
+  {
+    "title": "When Does In-Context Search Help? A Sampling-Complexity Theory of Reflection-Driven Reasoning",
+    "url": "https://arxiv.org/abs/2607.06720",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 09 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.06720v1 Announce Type: new \nAbstract: Training large language models (LLMs) with extended reasoning has enabled in-context search, in which models iteratively generate, critique, and revise solution attempts. We provide a theoretical analysis of in-context search by modeling it as approximate inference over reasoning traces, where the base model defines a prior and self-reflection provides feedback for posterior updates, and study the resulting inference-time sampling complexity - the",
+    "score": 7.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "inference",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Cost-Effective Agent Harnesses for Abstract Reasoning and Generalization on ARC-AGI-1",
+    "url": "https://arxiv.org/abs/2607.06764",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 09 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.06764v1 Announce Type: new \nAbstract: Recent progress on ARC-AGI-1 from disclosed architectures has come broadly from two regimes: heavy test-time compute over frontier models (evolutionary search, exhaustive sampling, extended chain-of-thought), or benchmark-specific training in which small models are fine-tuned on ARC data, often with task-specialized architectures. We study a third regime: an open-weight model in non-thinking mode (DeepSeek V3.2) under a strict budget, with no ARC-",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "The Harness Effect: How Orchestration Design Sets the Token Economics of Enterprise Agentic AI",
+    "url": "https://arxiv.org/abs/2607.06906",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 09 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.06906v1 Announce Type: new \nAbstract: Agentic AI development today runs on token maxing: buying capability with tokens -- longer reasoning traces, more turns, wider tool payloads, bigger replayed contexts -- so tokens per task grow faster than task value. Falling per-token prices mask the pattern; total spend rises anyway. We argue the decisive lever against token maxing is the harness: the orchestration layer that assembles context, exposes tools, sequences turns, delegates work, and",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Operational Reframing and Approval-Framed Delegation in Multi-Agent LLM Safety",
+    "url": "https://arxiv.org/abs/2607.07097",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 09 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.07097v1 Announce Type: new \nAbstract: Safety evaluations of multi-agent LLM systems often compare a direct prompt with a planner-executor pipeline and report the difference as a single \"pipeline effect.\" We argue that this aggregate is difficult to interpret because it conflates three mechanisms: harmful intent may be reframed as plausible operational work, the planner may refuse or transform the request, and the executor may act under delegation prompts implying prior approval. To se",
+    "score": 6.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Does AI Understand Imaging? A Systematic Benchmark of Agentic AI for Computational Imaging Tasks",
+    "url": "https://arxiv.org/abs/2607.07189",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 09 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.07189v1 Announce Type: new \nAbstract: Vision-language models (VLMs) and agentic AI have shown strong performance on semantic visual tasks, but it remains unclear whether they can handle the physics and inverse problems that underlie computational imaging. We present ImagingBench, a benchmark of 20 computational imaging tasks spanning five categories: ray and wave optics, image signal processing, inverse reconstruction, computational sensing, and calibration. ImagingBench evaluates thr",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "language model"
+    ]
+  },
+  {
+    "title": "Physics-Audited Agentic Discovery in Scientific Machine Learning",
+    "url": "https://arxiv.org/abs/2607.07379",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 09 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.07379v1 Announce Type: new \nAbstract: In agentic scientific machine learning (SciML), large language model (LLM) agents can discover surrogate models and select one by an automated score, typically an error metric. A low error, however, does not establish that the predicted fields satisfy the physics that matter for mechanics, such as boundary conditions, superposition, stiffness scaling, or causality. We introduce Physics-Audited Agentic SciML (PA-SciML), a verification-first workflo",
+    "score": 6.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "language model"
+    ]
+  }
+]
