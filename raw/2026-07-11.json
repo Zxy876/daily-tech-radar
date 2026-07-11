@@ -1,0 +1,301 @@
+[
+  {
+    "title": "Agentic AI and Retrieval-Augmented Models in Straight-Through Underwriting",
+    "url": "https://arxiv.org/abs/2607.07858",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.07858v1 Announce Type: new \nAbstract: Artificial intelligence (AI) is beginning to reshape actuarial practice, particularly in domains that require reasoning over unstructured documents, heterogeneous data sources, and regulated decision workflows. Actuaries now face a design space that ranges from traditional rule-based automation to large language models (LLMs), retrieval-augmented generation (RAG), and multi-agent ``agentic'' systems that plan, retrieve, call tools, and reflect. Th",
+    "score": 18.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "automation",
+      "language model",
+      "RAG",
+      "reasoning",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Compete Then Collaborate: Frontier AI Teachers Build a Verifiable Curriculum to Improve a Coding Student Beyond Imitation",
+    "url": "https://arxiv.org/abs/2607.08255",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.08255v1 Announce Type: new \nAbstract: Large language models increasingly serve as teachers generating training data for smaller students. Prior multi-teacher knowledge distillation methods merge outputs without determining which frontier model teaches best, often relying on an LLM judge biased toward its own outputs. We introduce a compete-then-collaborate framework where four frontier AI teachers (Claude, Codex-GPT, Grok, Gemini) are ranked head-to-head by an execution-based judge (u",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "Claude",
+      "Gemini",
+      "GPT",
+      "language model"
+    ]
+  },
+  {
+    "title": "Jet-Long: Efficient Long-Context Extension with Dynamic Bifocal RoPE",
+    "url": "https://arxiv.org/abs/2607.07740",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.07740v1 Announce Type: new \nAbstract: Modern LLMs are increasingly deployed in long-context applications such as retrieval-augmented generation, repository-level coding, and agentic workflows whose accumulated reasoning and tool traces routinely push the input an order of magnitude past the pretraining window, making zero-shot context extension the dominant deployment path for open-weight checkpoints. Most existing zero-shot methods fix a single rescaling factor up front, so an aggres",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "reasoning",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "What to Keep, What to Forget: A Rate--Distortion View of Memory Compaction in LLMs and Agents",
+    "url": "https://arxiv.org/abs/2607.08032",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.08032v1 Announce Type: new \nAbstract: Large language models, and the agents built on them, spend an ever-growing share of their compute and memory on remembering: caching attention keys and values, carrying long prompts, maintaining recurrent state, and storing what happened in previous turns and sessions. Because none of this memory is free, four largely separate research communities have each learned to compact it. They evict or quantize the KV cache, prune or distill prompts, bound",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "prompt",
+      "memory"
+    ]
+  },
+  {
+    "title": "Agentic Neural Architecture Search",
+    "url": "https://arxiv.org/abs/2607.07984",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.07984v1 Announce Type: new \nAbstract: Neural architecture search (NAS) methods have grown increasingly efficient, yet they remain bounded by manually engineered search spaces that require substantial domain expertise and must be rebuilt for every new task. Large language models (LLMs) can generate architectures in an open-ended space, but how to optimally divide the labor between LLM-driven design and NAS-driven search remains unexplored. We propose a mechanism that bridges these two ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "neural",
+      "language model"
+    ]
+  },
+  {
+    "title": "From Prompts to Contracts: Harness Engineering for Auditable Enterprise LLM Agents",
+    "url": "https://arxiv.org/abs/2607.08028",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.08028v1 Announce Type: new \nAbstract: Enterprise large language model (LLM) applications often begin as prototypes whose behavior is carried by prompts and retrieval context. Productization adds requirements for source boundaries, entity routing, answer contracts, and reproducible traces. We present a harness-engineering approach that reconstructs this pattern into a traceable, auditable LLM-agent architecture: deterministic behavior moves into code, manifests, schemas, and validation",
+    "score": 10.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "language model",
+      "prompt",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "CausalDS: Benchmarking Causal Reasoning in Data-Science Agents",
+    "url": "https://arxiv.org/abs/2607.08093",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.08093v1 Announce Type: new \nAbstract: Large language models (LLMs) increasingly act as integrated data-science agents, combining abstract reasoning with advanced tool use. Yet the relevant benchmark landscape largely divides into symbolic causal reasoning benchmarks without realistic data analysis or data analysis benchmarks without a principled causal data-generating structure. Furthermore, existing causal evaluation datasets are often restricted to curated examples from existing sou",
+    "score": 10.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "language model",
+      "tool use",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Understanding Axes of Difficulty For Long Context Tasks Via PredicateLongBench",
+    "url": "https://arxiv.org/abs/2607.08284",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.08284v1 Announce Type: new \nAbstract: Large language models (LLMs) have demonstrated rapidly improving long-context capabilities, prompting a wave of benchmarks designed to evaluate them. However, existing long-context evaluations - from Needle-in-a-Haystack (NIAH) tests to more recent multi-hop reasoning and summarization tasks - predominantly measure average-case performance, and many are either saturated or lack robustness. Notably absent is a systematic way to probe how models per",
+    "score": 10.0,
+    "keywords_matched": [
+      "LLM",
+      "language model",
+      "RAG",
+      "prompt",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Towards Mechanistically Understanding Why Memorized Knowledge Fails to Generalize in Large Language Model Finetuning",
+    "url": "https://arxiv.org/abs/2607.08393",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.08393v1 Announce Type: new \nAbstract: Fine-tuning LLMs to inject new knowledge faces a critical challenge: LLMs can quickly memorize new facts, yet fail to use them for downstream reasoning tasks. We formalize this failure as the \\textit{\\textbf{Knowing--Using Gap}}, characterized by an accuracy gap and a temporal lag between memorization and generalization. To understand this phenomenon, we fine-tune LLMs with unseen knowledge and monitor the spatial permeation dynamics of the knowle",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "fine-tuning",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Game Theory Driven Multi-Agent Framework Mitigates Language Model Hallucination",
+    "url": "https://arxiv.org/abs/2607.08403",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.08403v1 Announce Type: new \nAbstract: The application of lightweight Large Language Models in rule-based scientific domains remains severely limited by their tendency to mimic linguistic patterns rather than reproduce axiomatic reasoning, causing frequent hallucinations. Here, we show that G-Frame, an adaptive multi-agent framework integrating Bayesian and team game principles, establishes an automated closed-loop for high-quality data synthesis and model training. By forcing the inte",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "game",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Selective Left-Shift: Turning Test-Time Compute and Difficulty-based Curation into Training Data for Low-Resource Code Generation",
+    "url": "https://arxiv.org/abs/2607.07748",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.07748v1 Announce Type: new \nAbstract: Large Language Models achieve strong code generation for high resource languages like Python and Java but suffer sharp performance drops on Low-Resource Programming Languages~(LRPLs) such as Julia. Improving Small Language Models~(SLMs) for these languages faces a trilemma: Supervised Fine-Tuning~(SFT) is bottlenecked by data scarcity, inference-time scaling is too expensive for deployment, and Reinforcement Learning from scratch yields near zero ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "language model",
+      "code generation",
+      "fine-tuning",
+      "inference"
+    ]
+  },
+  {
+    "title": "syncable-dev / memtrace-public",
+    "url": "https://github.com/syncable-dev/memtrace-public",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Structural memory for AI coding agents. Bi-temporal graph, MCP-native, zero LLM calls. Cursor · Claude Code · Codex · Hermes · VS Code · Windsurf. [16 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "Claude",
+      "memory"
+    ]
+  },
+  {
+    "title": "Show HN: Getting GLM 5.2 running on my slow computer",
+    "url": "https://github.com/JustVugg/colibri",
+    "source": "Hacker News Best",
+    "published_at": "Thu, 09 Jul 2026 08:05:04 +0000",
+    "description": "A few days ago I found myself trying out GLM 5.2 and was really positively impressed. The capabilities and security I was getting from this LLM are similar to those I've gotten from models like Claude or GPT, and this really surprised me. But then I thought, \"I wonder how it would work on a normal computer like mine,\" and above all, \"I wonder if it would work without going into OOM on a computer like mine.\" So I started working with the help of agents to test this possibility. I started converti",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "Claude",
+      "GPT"
+    ]
+  },
+  {
+    "title": "Context Graphs for Proactive Enterprise Agents",
+    "url": "https://arxiv.org/abs/2607.07721",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.07721v1 Announce Type: new \nAbstract: Retrieval-Augmented Generation (RAG) and agentic frameworks have advanced enterprise AI considerably, yet agents remain fundamentally reactive: they wait for a human query before acting. This paper argues that genuine enterprise productivity gains require proactive agents: systems that surface relevant, actionable information to workers before they ask. We propose the Context Graph, a live relational data structure that models enterprise entities,",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "RAG",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Adversarial Social Epistemology for Assemblies of Humans and Large Language Models",
+    "url": "https://arxiv.org/abs/2607.07760",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.07760v1 Announce Type: new \nAbstract: We outline an adversarial social epistemology (ASE) for densely interactive communicative landscapes in which public assertions are scaffolded by chains of testimony, inference, institutional certification, and tacit trust. In such landscapes, agents have incentives and affordances to distort, color, omit, fabricate, or strategically under-specify information for private, reputational, rhetorical, or material gains. We argue that these phenomena a",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "language model",
+      "inference"
+    ]
+  },
+  {
+    "title": "Aligning Clinical Needs and AI Capabilities: A Survey on LLMs for Medical Reasoning",
+    "url": "https://arxiv.org/abs/2607.07761",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.07761v1 Announce Type: new \nAbstract: Large language models (LLMs) have emerged as important tools in healthcare, showing growing potential for clinical reasoning and patient care. This survey examines recent progress in medical LLMs, focusing on reasoning applications and requirements. We present a dual-view approach that connects clinical practice with computational methods. On the clinical side, we establish a five-level competency scheme following Miller's Pyramid, progressing fro",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "VectorizationLLM: Smart Vectorization Based AI Assistant",
+    "url": "https://arxiv.org/abs/2607.07846",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.07846v1 Announce Type: new \nAbstract: VectorizationLLM is a specialized Large Language Model based on Google open-weight LLMs. The model is designed to assist students to learn smart vectorization, time/wave vector analysis, piecewise functions, Fourier analysis, and differential equations in MATLAB. The course application is CTEC 247: Applied Computational Analysis II by the Department of Electrical & Computer Engineering Technology at New York Institute of Technology Old Westbury. T",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "vector"
+    ]
+  },
+  {
+    "title": "Persuasion Attacks Can Decrease Effectiveness of CoT Monitoring",
+    "url": "https://arxiv.org/abs/2607.08066",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.08066v1 Announce Type: new \nAbstract: Chain-of-thought (CoT) monitoring is a promising safety mechanism for AI agents, based on the premise that visible reasoning traces can surface misaligned or deceptive behavior. While effective in standard scenarios, recent work highlights that LLMs remain vulnerable to persuasion-based jailbreaks, where natural-language arguments override model constraints. We stress-test whether this vulnerability extends to monitoring LLMs: can an adversarial a",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal Metadata",
+    "url": "https://arxiv.org/abs/2607.08698",
+    "source": "arXiv cs.HC",
+    "published_at": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.08698v1 Announce Type: new \nAbstract: We examine educational YouTube videos through multimodal metadata, such as transcripts, titles, thumbnails, and viewer comments, to investigate how ChatGPT is framed across creator groups and how those framings relate to audience response and platform reach. Little is known about how large language models are presented to learners in informal, creator-driven public discourse. Following PRISMA, we selected 52 videos for analysis. We identified thre",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "GPT",
+      "language model",
+      "multimodal"
+    ]
+  },
+  {
+    "title": "LLT: Local Linear Transformer for PDE Operator Learning",
+    "url": "https://arxiv.org/abs/2607.07718",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.07718v1 Announce Type: new \nAbstract: Neural operators have become a common approach for learning PDE solution maps and accelerating numerical simulations. Transformer-based neural operators are of particular interest, since attention can learn long-range dependencies in the computational domain. However, standard attention has two major limitations when applied to PDEs: it scales quadratically with the number of computational nodes, and it lacks an explicit bias toward local interact",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "simulation",
+      "transformer",
+      "neural"
+    ]
+  }
+]
