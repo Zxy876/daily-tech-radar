@@ -1,0 +1,253 @@
+[
+  {
+    "title": "ruvnet / ruflo",
+    "url": "https://github.com/ruvnet/ruflo",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated [142 stars today]",
+    "score": 14.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "workflow",
+      "autonomous",
+      "RAG",
+      "memory"
+    ]
+  },
+  {
+    "title": "MervinPraison / PraisonAI",
+    "url": "https://github.com/MervinPraison/PraisonAI",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with built-in memory, RAG, and support for 100+ LLMs. [32 stars today]",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "autonomous",
+      "RAG",
+      "memory"
+    ]
+  },
+  {
+    "title": "Shubhamsaboo / awesome-llm-apps",
+    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship. [408 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "RAG"
+    ]
+  },
+  {
+    "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+    "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+    "source": "Hacker News",
+    "published_at": "Sun, 12 Jul 2026 18:25:51 +0000",
+    "description": "This started based off of a hunch. We usually use OpenCode, but were 'forced' to use Claude Code for a while due to issues with Meridian. In that time, we saw the usage meter rise much, much more quickly than when using OpenCode. This was the initial anecdotal evidence, but we undertook this small study to collect empirical data: We added logging between the agentic coding tool (Claude Code and OpenCode) and Anthropic's endpoint, and captured all requests (and the returned usage blocks). With on",
+    "score": 6.0,
+    "keywords_matched": [
+      "agent",
+      "Claude",
+      "prompt"
+    ]
+  },
+  {
+    "title": "teng-lin / notebooklm-py",
+    "url": "https://github.com/teng-lin/notebooklm-py",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw. [57 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude"
+    ]
+  },
+  {
+    "title": "ComposioHQ / awesome-claude-skills",
+    "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows [60 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "Claude",
+      "workflow"
+    ]
+  },
+  {
+    "title": "InsForge / InsForge",
+    "url": "https://github.com/InsForge/InsForge",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end. [32 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "RAG"
+    ]
+  },
+  {
+    "title": "google-gemini / gemini-cli",
+    "url": "https://github.com/google-gemini/gemini-cli",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "An open-source AI agent that brings the power of Gemini directly into your terminal. [34 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Gemini"
+    ]
+  },
+  {
+    "title": "Nutlope / hallmark",
+    "url": "https://github.com/Nutlope/hallmark",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex. [155 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "Claude"
+    ]
+  },
+  {
+    "title": "Mesh LLM: distributed AI computing on iroh",
+    "url": "https://www.iroh.computer/blog/mesh-llm",
+    "source": "Hacker News Best",
+    "published_at": "Sat, 11 Jul 2026 22:38:57 +0000",
+    "description": "Article URL: https://www.iroh.computer/blog/mesh-llm Comments URL: https://news.ycombinator.com/item?id=48876505 Points: 334 # Comments: 79",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "LLM"
+    ]
+  },
+  {
+    "title": "home-assistant / core",
+    "url": "https://github.com/home-assistant/core",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "🏡 Open source home automation that puts local control and privacy first. [400 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "automation",
+      "open source"
+    ]
+  },
+  {
+    "title": "pydantic / pydantic-ai",
+    "url": "https://github.com/pydantic/pydantic-ai",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "AI Agent Framework, the Pydantic way [42 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "lingfengQAQ / webnovel-writer",
+    "url": "https://github.com/lingfengQAQ/webnovel-writer",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。 [22 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "Claude"
+    ]
+  },
+  {
+    "title": "toeverything / AFFiNE",
+    "url": "https://github.com/toeverything/AFFiNE",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. [39 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "planning"
+    ]
+  },
+  {
+    "title": "Gameboy is back ( no signup)",
+    "url": "https://gb.omniiii.com/",
+    "source": "Hacker News",
+    "published_at": "Mon, 13 Jul 2026 00:26:12 +0000",
+    "description": "Article URL: https://gb.omniiii.com/ Comments URL: https://news.ycombinator.com/item?id=48886368 Points: 6 # Comments: 0",
+    "score": 2.0,
+    "keywords_matched": [
+      "game"
+    ]
+  },
+  {
+    "title": "Circular Obstacle Pathfinding (2017)",
+    "url": "https://redblobgames.github.io/circular-obstacle-pathfinding/",
+    "source": "Hacker News",
+    "published_at": "Sun, 12 Jul 2026 23:42:41 +0000",
+    "description": "Article URL: https://redblobgames.github.io/circular-obstacle-pathfinding/ Comments URL: https://news.ycombinator.com/item?id=48886040 Points: 7 # Comments: 1",
+    "score": 2.0,
+    "keywords_matched": [
+      "game"
+    ]
+  },
+  {
+    "title": "Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels",
+    "url": "https://nanduruganesh.github.io/flash-msa/",
+    "source": "Hacker News",
+    "published_at": "Sun, 12 Jul 2026 20:46:43 +0000",
+    "description": "Article URL: https://nanduruganesh.github.io/flash-msa/ Comments URL: https://news.ycombinator.com/item?id=48884618 Points: 21 # Comments: 0",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  },
+  {
+    "title": "The One-Step Trap (In AI Research)",
+    "url": "http://incompleteideas.net/IncIdeas/OneStepTrap.html",
+    "source": "Hacker News",
+    "published_at": "Sun, 12 Jul 2026 18:41:15 +0000",
+    "description": "Article URL: http://incompleteideas.net/IncIdeas/OneStepTrap.html Comments URL: https://news.ycombinator.com/item?id=48883415 Points: 45 # Comments: 8",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  },
+  {
+    "title": "I love LLMs, I hate hype",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+    "source": "Hacker News",
+    "published_at": "Sun, 12 Jul 2026 18:31:56 +0000",
+    "description": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html Comments URL: https://news.ycombinator.com/item?id=48883343 Points: 318 # Comments: 190",
+    "score": 2.0,
+    "keywords_matched": [
+      "LLM"
+    ]
+  },
+  {
+    "title": "I Learned to Read Again",
+    "url": "https://substack.magazinenongrata.com/p/how-i-learned-to-read-again",
+    "source": "Hacker News",
+    "published_at": "Sun, 12 Jul 2026 18:22:15 +0000",
+    "description": "Article URL: https://substack.magazinenongrata.com/p/how-i-learned-to-read-again Comments URL: https://news.ycombinator.com/item?id=48883238 Points: 99 # Comments: 41",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  }
+]

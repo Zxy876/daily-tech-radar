@@ -1,0 +1,261 @@
+{
+  "date": "2026-07-13",
+  "candidates": [
+    {
+      "title": "ruvnet / ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated [142 stars today]",
+      "score": 14.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "workflow",
+        "autonomous",
+        "RAG",
+        "memory"
+      ]
+    },
+    {
+      "title": "MervinPraison / PraisonAI",
+      "url": "https://github.com/MervinPraison/PraisonAI",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with built-in memory, RAG, and support for 100+ LLMs. [32 stars today]",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "autonomous",
+        "RAG",
+        "memory"
+      ]
+    },
+    {
+      "title": "Shubhamsaboo / awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship. [408 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "RAG"
+      ]
+    },
+    {
+      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+      "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+      "source": "Hacker News",
+      "published_at": "Sun, 12 Jul 2026 18:25:51 +0000",
+      "description": "This started based off of a hunch. We usually use OpenCode, but were 'forced' to use Claude Code for a while due to issues with Meridian. In that time, we saw the usage meter rise much, much more quickly than when using OpenCode. This was the initial anecdotal evidence, but we undertook this small study to collect empirical data: We added logging between the agentic coding tool (Claude Code and OpenCode) and Anthropic's endpoint, and captured all requests (and the returned usage blocks). With on",
+      "score": 6.0,
+      "keywords_matched": [
+        "agent",
+        "Claude",
+        "prompt"
+      ]
+    },
+    {
+      "title": "teng-lin / notebooklm-py",
+      "url": "https://github.com/teng-lin/notebooklm-py",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw. [57 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude"
+      ]
+    },
+    {
+      "title": "ComposioHQ / awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows [60 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "Claude",
+        "workflow"
+      ]
+    },
+    {
+      "title": "InsForge / InsForge",
+      "url": "https://github.com/InsForge/InsForge",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end. [32 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "RAG"
+      ]
+    },
+    {
+      "title": "google-gemini / gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal. [34 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Gemini"
+      ]
+    },
+    {
+      "title": "Nutlope / hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex. [155 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "Claude"
+      ]
+    },
+    {
+      "title": "Mesh LLM: distributed AI computing on iroh",
+      "url": "https://www.iroh.computer/blog/mesh-llm",
+      "source": "Hacker News Best",
+      "published_at": "Sat, 11 Jul 2026 22:38:57 +0000",
+      "description": "Article URL: https://www.iroh.computer/blog/mesh-llm Comments URL: https://news.ycombinator.com/item?id=48876505 Points: 334 # Comments: 79",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "title": "home-assistant / core",
+      "url": "https://github.com/home-assistant/core",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "🏡 Open source home automation that puts local control and privacy first. [400 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "automation",
+        "open source"
+      ]
+    },
+    {
+      "title": "pydantic / pydantic-ai",
+      "url": "https://github.com/pydantic/pydantic-ai",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "AI Agent Framework, the Pydantic way [42 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "lingfengQAQ / webnovel-writer",
+      "url": "https://github.com/lingfengQAQ/webnovel-writer",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。 [22 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "Claude"
+      ]
+    },
+    {
+      "title": "toeverything / AFFiNE",
+      "url": "https://github.com/toeverything/AFFiNE",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. [39 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "planning"
+      ]
+    },
+    {
+      "title": "Gameboy is back ( no signup)",
+      "url": "https://gb.omniiii.com/",
+      "source": "Hacker News",
+      "published_at": "Mon, 13 Jul 2026 00:26:12 +0000",
+      "description": "Article URL: https://gb.omniiii.com/ Comments URL: https://news.ycombinator.com/item?id=48886368 Points: 6 # Comments: 0",
+      "score": 2.0,
+      "keywords_matched": [
+        "game"
+      ]
+    },
+    {
+      "title": "Circular Obstacle Pathfinding (2017)",
+      "url": "https://redblobgames.github.io/circular-obstacle-pathfinding/",
+      "source": "Hacker News",
+      "published_at": "Sun, 12 Jul 2026 23:42:41 +0000",
+      "description": "Article URL: https://redblobgames.github.io/circular-obstacle-pathfinding/ Comments URL: https://news.ycombinator.com/item?id=48886040 Points: 7 # Comments: 1",
+      "score": 2.0,
+      "keywords_matched": [
+        "game"
+      ]
+    },
+    {
+      "title": "Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels",
+      "url": "https://nanduruganesh.github.io/flash-msa/",
+      "source": "Hacker News",
+      "published_at": "Sun, 12 Jul 2026 20:46:43 +0000",
+      "description": "Article URL: https://nanduruganesh.github.io/flash-msa/ Comments URL: https://news.ycombinator.com/item?id=48884618 Points: 21 # Comments: 0",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    },
+    {
+      "title": "The One-Step Trap (In AI Research)",
+      "url": "http://incompleteideas.net/IncIdeas/OneStepTrap.html",
+      "source": "Hacker News",
+      "published_at": "Sun, 12 Jul 2026 18:41:15 +0000",
+      "description": "Article URL: http://incompleteideas.net/IncIdeas/OneStepTrap.html Comments URL: https://news.ycombinator.com/item?id=48883415 Points: 45 # Comments: 8",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    },
+    {
+      "title": "I love LLMs, I hate hype",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+      "source": "Hacker News",
+      "published_at": "Sun, 12 Jul 2026 18:31:56 +0000",
+      "description": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html Comments URL: https://news.ycombinator.com/item?id=48883343 Points: 318 # Comments: 190",
+      "score": 2.0,
+      "keywords_matched": [
+        "LLM"
+      ]
+    },
+    {
+      "title": "I Learned to Read Again",
+      "url": "https://substack.magazinenongrata.com/p/how-i-learned-to-read-again",
+      "source": "Hacker News",
+      "published_at": "Sun, 12 Jul 2026 18:22:15 +0000",
+      "description": "Article URL: https://substack.magazinenongrata.com/p/how-i-learned-to-read-again Comments URL: https://news.ycombinator.com/item?id=48883238 Points: 99 # Comments: 41",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-07-13\n\n## ruflo (ruvnet)\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/ruvnet/ruflo\n- 一句话解释：一个支持多玩家/多 Agent 协同（multi-player swarms）、自适应记忆和原生 Claude Code 集成的 Agent 编排元框架。\n- 它为什么重要：传统的 Agent 框架（如 LangChain）大多是单线、静态的。`ruflo` 引入了“多玩家群”（Multi-player Swarms）的概念，把 Agent 之间的协同变成了像多人联机游戏一样的动态系统。对于想做“多Agent社会模拟”或“动态 NPC 交互系统”的人来说，这是一个极好的底层架构。\n- 技术趋势标签：#MultiAgent #SwarmIntelligence #AdaptiveMemory #ClaudeCode\n- 可复用模式：**多玩家共享环境状态机（Shared-State Swarm）**：Agent 不再是简单的 A 呼叫 B，而是共同处在一个“房间/环境”中，通过共享的自适应记忆（Adaptive Memory）进行异步协作。\n- 疯狂发明家灵感：\n  1. **一个小实验**：在本地跑 3 个 Agent，给他们一个共同的“画布”（一个共享的 Markdown 文件）。让他们轮流在里面留言、涂鸦或修改对方的文字，模拟一个“无声的匿名聊天室”，观察他们如何自发形成共识。\n  2. **一个中型项目**：**“黑客帝国式”虚拟代码沙盒**。让 3 个分工不同的 Agent（架构师、程序员、测试员）在一个共享的 Git 仓库里，像多人联机打游戏一样，通过 `ruflo` 协同编写并迭代一个小型 Web 游戏。\n  3. **一个艺术/游戏/叙事方向**：**“剧院魅影”动态剧本杀**。构建一个 Web 页面，3 个 NPC Agent 拥有不同的秘密和动机，玩家作为第四个角色加入。NPC 之间会背着玩家在后台进行“耳语”（私密状态交换），并在前台对玩家的言行做出即时、合谋的反应。\n- 对我项目的启发：如果要做世界生成或复杂的 NPC 系统，不要再用单线 Prompt 链了。引入“共享记忆/环境”概念，让 Agent 之间产生化学反应。\n- 今天是否值得深入研究：是\n- 建议行动：试用\n\n---\n\n## Claude Code 33k Token 隐形开销分析\n- 来源：Hacker News\n- 链接：https://systima.ai/blog/claude-code-vs-opencode-token-overhead\n- 一句话解释：一项评测发现，终端 Agent 工具 Claude Code 在读取你的 Prompt 之前，就已经默默发送了高达 33k 的 token（用于读取环境、工具定义和历史），而开源替代品 OpenCode 仅发送了 7k。\n- 它为什么重要：它揭示了“Agent 工作流”高昂成本背后的真相。当我们在设计基于 Spec-driven（规范驱动）或 Agent 自动化的工具时，Agent 为了获得“上下文感知能力”，往往会吃掉海量的 Token。我们在设计自己的 Agent 工具时，必须在“全知全能”和“上下文剪枝”之间做权衡。\n- 技术趋势标签：#AgentWorkflow #TokenOptimization #ClaudeCode #SpecDrivenDev\n- 可复用模式：**上下文看门狗（Context Gatekeeper）**：在将上下文发送给 LLM 之前，先通过轻量级本地算法（如 Tree-sitter 或简单的正则）过滤掉无关的代码文件或历史，进行动态“脱水”。\n- 疯狂发明家灵感：\n  1. **一个小实验**：写一个 Python 脚本作为你本地 LLM 调用的代理（Proxy），记录每一次 Agent 自动运行产生的 Input Token 数量和费用，并在终端用一个“燃烧的美元” ASCII 动画实时展示，作为对开发者的“财务警示” HCI 交互。\n  2. **一个中型项目**：**“Token 吝啬鬼”本地 Agent**。一个专门为个人开发者设计的轻量级终端写代码 Agent，它通过极度严苛的 AST（抽象语法树）分析，每次只把最相关的 3 行代码和接口定义送给 Claude，挑战用 1/10 的 Token 消耗完成同样的重构任务。\n  3. **一个艺术/游戏/叙事方向**：**“Token 饥饿生存游戏”**。一个文字冒险游戏，玩家和 AI 的对话受到严格的 Token 总量限制。AI 越聪明，消耗 Token 越快，玩家必须用极度精简、甚至黑话般的语言与 AI 交流，在 Token 耗尽（AI 脑死亡）前通关。\n- 对我项目的启发：在做自动化和 spec-driven 系统的设计时，要设计合理的“上下文裁剪机制”，不能无脑把整个 codebase 喂给 Agent。\n- 今天是否值得深入研究：是\n- 建议行动：做demo（写一个简单的 Context 剪枝脚本）\n\n---\n\n## notebooklm-py\n- 来源：GitHub Trending Python\n- 链接：https://github.com/teng-lin/notebooklm-py\n- 一句话解释：一个非官方的 Google NotebookLM Python API，让你能通过代码完整调用 NotebookLM 的文档理解、多源 Grounding 以及（最酷的）自动播客/音频生成功能。\n- 它为什么重要：Google NotebookLM 的知识库整合能力和极其逼真的双人播客生成（Audio Overview）是目前 AI 届的顶流，但官方一直没有 API。这个开源项目打破了壁垒。你可以用它来做动态知识库合成、自动将你的游戏世界观/代码库转化成两个 NPC 在后台聊天的“收音机”。\n- 技术趋势标签：#NotebookLM #GenerativeNarrative #HCI #AudioAI\n- 可复用模式：**文档到叙事转化器（Doc-to-Narrative Pipeline）**：将冰冷的结构化数据（JSON/Markdown/Code）输入 NotebookLM，自动输出极具人情味的自然语言对话或音频。\n- 疯狂发明家灵感：\n  1. **一个小实验**：把你自己 GitHub 仓库的 Readme 和最近的 Commit 历史丢进去，用这个 API 自动生成一段 2 分钟的双人脱口秀音频，听两个 AI 疯狂吐槽/夸奖你的代码。\n  2. **一个中型项目**：**“我的世界”历史学家电台**。在 Minecraft 服务器里，后台脚本收集玩家的建造日志、聊天记录和死亡事件，每隔 1 小时调用 `notebooklm-py` 生成一段“服务器新闻广播音频”，并在游戏内的点唱机里播放。\n  3. **一个艺术/游戏/叙事方向**：**“逝者之声”互动装置**。收集历史人物（如达芬奇、特斯拉）的著作和生平信件作为 Source，通过这个 API 生成他们之间跨越时空的虚拟对谈，观众可以通过物理装置（如老式电话机）拨号“窃听”他们的对话。\n- 对我项目的启发：利用这个工具，可以极低成本地为你的创意项目或游戏系统注入超高质量的“背景叙事（Lore）”和语音生成。\n- 今天是否值得深入研究：是\n- 建议行动：试用（跑一下它的播客生成 Demo）\n\n---\n\n## hallmark\n- 来源：GitHub Trending\n- 链接：https://github.com/Nutlope/hallmark\n- 一句话解释：一个专门针对 Claude Code, Cursor 和 Codex 的“反 AI 垃圾设计（Anti-AI-slop）”系统提示词/技能库。\n- 它为什么重要：现在的 AI（如 v0, Bolt.new）写出来的前端 UI 极其同质化——到处都是渐变色、大圆角、经典的 Tailwind 科技蓝/紫，俗称 \"AI Slop\"（AI 垃圾美学）。`hallmark` 提供了一套美学规训指南，强迫 AI 代理生成具有极简主义、粗野主义（Brutalist）、高对比度或特定设计美学的 UI。这是设计 + CS 的完美结合点。\n- 技术趋势标签：#CreativeCoding #HCI #AntiAISlop #AestheticGuardrails\n- 可复用模式：**美学护栏（Aesthetic Guardrails）**：在代码生成 Agent 的 System Prompt 中注入硬性的设计规范限制（如：禁用 Tailwind 默认渐变、强制使用单色系、限制字体种类），从而逼迫 AI 走出美学舒适区。\n- 疯狂发明家灵感：\n  1. **一个小实验**：把 `hallmark` 的提示词加入到你的 Cursor/Claude Code 中，让它帮你写一个简单的 Todo List，对比它在开启和关闭该技能时，生成 UI 视觉风格的巨大差异。\n  2. **一个中型项目**：**“美学策展人”代码生成器**。一个 Web 界面，允许用户选择不同的艺术流派（如：包豪斯、赛博朋克、Y2K、瑞士平面设计），系统会自动加载对应的 Hallmark-style 提示词，让底层的 LLM Agent 严格按照该流派生成前端网页。\n  3. **一个艺术/游戏/叙事方向**：**“拒绝平庸”艺术网站生成器**。一个互动艺术装置，用户输入一首诗，Agent 会根据诗歌的情绪，完全违背现代商业 Web 规范，生成一个荒诞、混乱但极具视觉冲击力的互动网页。\n- 对我项目的启发：作为设计+CS跨学科学生，你可以建立自己的“私房美学 Prompt 库”，让 AI 成为你独特视觉风格的放大器，而不是平庸 UI 的复印机。\n- 今天是否值得深入研究：是\n- 建议行动：做demo\n\n---\n\n## webnovel-writer\n- 来源：GitHub Trending Python\n- 链接：https://github.com/lingfengQAQ/webnovel-writer\n- 一句话解释：一个基于 Claude Code 的长篇网文辅助创作系统，通过结构化的状态管理，解决了 AI 在长文本创作中的“遗忘”和“幻觉”问题，支持 200 万字量级的连载创作。\n- 它为什么重要：这不仅是一个写小说的工具，更是一个精妙的**长上下文状态管理系统**。它展示了如何用 Agent（尤其是 Claude Code 这种具备终端操作能力的 Agent）去维护一个复杂的、动态更新的“世界设定集（Lorebook）”、“人物卡”和“大纲树”，并将其与具体章节的生成进行解耦。\n- 技术趋势标签：#GenerativeNarrative #ClaudeCode #StateManagement #LongContext\n- 可复用模式：**分层大纲-细节生成器（Hierarchical Outline-to-Detail Generator）**：将大任务（写200万字）拆分为：全局设定（静态） -> 动态大纲（树状） -> 章节细纲（动态） -> 文本生成（局部）。\n- 疯狂发明家灵感：\n  1. **一个小实验**：用它的思路，写一个脚本管理一个拥有 10 个房间的虚拟城堡。当你在不同房间移动并触发事件时，脚本会动态更新一个 `world_state.json` 档案，确保 AI 在描述第 10 个房间时，还记得你在第 1 个房间丢下的钥匙。\n  2. **一个中型项目**：**“无尽的世界说明书”**。一个自动化的 TTRPG（跑团）世界观生成器。你只需要输入一个核心概念（如“蒸汽朋克的深海城市”），Agent 会自动、持续地在后台生成该世界的历史、地理、种族、宗教，并维护一个相互交叉引用的 Wiki 数据库，永远不会发生设定冲突。\n  3. **一个艺术/游戏/叙事方向**：**“永生 NPC 的日记本”**。在游戏或虚拟空间中，一个 NPC 每天根据游戏内发生的真实事件写日记。利用该系统的防遗忘机制，NPC 会在第 100 天的日记里，突然怀念起第 3 天和玩家在篝火旁的谈话，产生极强的“生命感”。\n- 对我项目的启发：在做世界生成、复杂叙事系统时，必须将“世界状态（State）”与“文本生成（Generation）”分离，用结构化的数据库（如 JSON/Markdown）作为 AI 的外挂长期记忆。\n- 今天是否值得深入研究：是\n- 建议行动：收藏\n\n---\n\n## 今日模式总结\n\n今天在技术雷达中涌现了 2 个非常明确的**技术/设计模式**：\n\n1. **美学规训（Aesthetic Guardrails）**：随着 AI 代码生成工具的普及，如何通过系统级 Prompt（如 `hallmark`）对抗“AI 垃圾美学（AI Slop）”，强迫 Agent 生成具有特定艺术流派和高阶 HCI 体验的界面，正在成为设计与技术交叉领域的新热点。\n2. **长效状态解耦（State-Generation Decoupling）**：无论是多 Agent 协同（`ruflo` 的自适应记忆）还是长文本创作（`webnovel-writer` 的设定集管理），最前沿的 Agent 实践都在抛弃“把所有东西塞进单次 Prompt”的粗暴做法，转而采用“本地结构化数据库（状态）+ 局部上下文注入（生成）”的解耦模式。\n\n---\n\n## 今日可做小实验：2小时极客挑战\n\n### 项目名：NeoBrutalist-ADHD-Pomodoro (新粗野主义 ADHD 番茄钟生成器)\n- **输入**：一个简单的番茄钟功能需求描述（例如：“我需要一个番茄钟，但每次工作结束时，它要用一句毒舌的话骂我快去休息”）。\n- **输出**：一个单文件（Single-file HTML/CSS/JS）的番茄钟网页，视觉风格必须是严格的**新粗野主义（Neo-Brutalism）**：高饱和度纯色背景、极粗的黑色边框（e.g., `box-shadow: 4px 4px 0px #000`）、无渐变、使用粗犷的等宽字体，彻底告别 AI 垃圾美学。\n- **技术栈**：\n  - HTML5 + CSS (Vanilla or Tailwind)\n  - Claude API（或 Cursor / Local Ollama）\n  - System Prompt (引入 `hallmark` 的反平庸美学规则)\n- **第一步怎么做**：\n  新建一个 `system_prompt.txt`，在里面写下你的美学规则限制：\n  ```text\n  你是一个极其挑剔的包豪斯与新粗野主义平面设计师。\n  在写接下来的前端代码时，你必须遵守以下铁律：\n  1. 禁用任何渐变色（gradient），只允许使用高饱和度纯色（如 #FFDE47, #FF6B6B）与纯黑纯白。\n  2. 所有容器和按钮必须有 4px 或 8px 的硬质黑色实线边框（border: 4px solid #000），并且带有无模糊的硬阴影（box-shadow: 5px 5px 0px #000）。\n  3. 禁用任何软绵绵的过渡动画和微圆角（border-radius 必须为 0 或极小的 2px）。\n  4. 使用系统自带的粗犷等宽字体（monospace）或无衬线粗体。\n  现在，请为我生成一个 ADHD 专属番茄钟。\n  ```\n  把这段 Prompt 喂给你的 AI Assistant，直接看它输出的惊艳视觉效果！",
+  "gemini_success": true,
+  "telegram_sent": false,
+  "telegram_status": "failed",
+  "telegram_reason": "400 Client Error: Bad Request for url: https://api.telegram.org/bot8650722899:AAHUD-aqNDB7NwiPiGq3R22MVp77Cr_5GEQ/sendMessage"
+}
