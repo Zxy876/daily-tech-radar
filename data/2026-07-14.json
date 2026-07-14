@@ -1,0 +1,304 @@
+{
+  "date": "2026-07-14",
+  "candidates": [
+    {
+      "title": "Toward Auditable AI Scientists: A Hypothesis Evolution Protocol for LLM Agents",
+      "url": "https://arxiv.org/abs/2607.09195",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 13 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.09195v1 Announce Type: new \nAbstract: Large language model (LLM) agents are increasingly expected to play a central role in AI-driven scientific discovery. Equipped with broad knowledge, flexible reasoning, and tool use, they have the potential to autonomously explore and solve scientific problems by repeatedly proposing hypotheses, testing them, and revising their beliefs in the light of the evidence. In current agents, however, these hypotheses, tests, and belief updates are buried ",
+      "score": 14.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "autonomous",
+        "tool use",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "ruvnet / ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated [158 stars today]",
+      "score": 14.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "workflow",
+        "autonomous",
+        "RAG",
+        "memory"
+      ]
+    },
+    {
+      "title": "Show HN: ContextVault – Shared memory layer for your AI and your team",
+      "url": "https://www.contextvault.dev/",
+      "source": "Hacker News",
+      "published_at": "Mon, 13 Jul 2026 23:22:18 +0000",
+      "description": "Hi HN, I'm Kevin. I built ContextVault because I kept running into the same problem with AI tools. Every project accumulated prompts, coding conventions, architectural decisions, examples, and other pieces of context that made the models significantly more useful. The problem was that this information quickly became fragmented. Some lived in ChatGPT Projects, some in Claude, some in Markdown files, some in internal documentation, and some only existed in previous conversations. Late last year, I",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "Claude",
+        "GPT",
+        "RAG",
+        "prompt",
+        "memory"
+      ]
+    },
+    {
+      "title": "GATS: Graph-Augmented Tree Search with Layered World Models for Efficient Agent Planning",
+      "url": "https://arxiv.org/abs/2607.08894",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 13 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.08894v1 Announce Type: new \nAbstract: Large Language Model (LLM) agents have shown promise in multi-step planning tasks, but existing approaches like LATS (Language Agent Tree Search) and ReAct rely heavily on LLM inference during planning, leading to high computational costs and stochastic behavior. We present \\textbf{GATS} (Graph-Augmented Tree Search), a planning framework that combines systematic UCB1-based tree search with a layered world model to eliminate LLM calls during infer",
+      "score": 10.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "language model",
+        "inference",
+        "planning"
+      ]
+    },
+    {
+      "title": "Neuro-Agentic Control: A Deep Learning-based LLM-Powered Agentic AI Framework for Controlling Security Controls",
+      "url": "https://arxiv.org/abs/2607.09076",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 13 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.09076v1 Announce Type: new \nAbstract: Cyberattacks on operational technology are increasingly causing costly downtime and physical damage, exposing the limitations of traditional rule-based monitoring in industrial IoT environments. While Large Language Models (LLMs) have strong semantic reasoning abilities to assist in decision support, their hallucinatory nature presents unacceptable safety liabilities for closed-loop control. This paper introduces a neuro-agentic control framework,",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "ProofCouncil: An LLM Agent for Solving Open Mathematical Problems",
+      "url": "https://arxiv.org/abs/2607.09474",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 13 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.09474v1 Announce Type: new \nAbstract: Large language models (LLMs) have shown increasing promise in solving open problems in mathematics. However, their performance can be further improved through agentic workflows tailored to real-world mathematical practice. To this end, we introduce ProofCouncil, a mathematical agent that is designed to tackle open problems using an author-critic architecture. ProofCouncil served as a submission to the second batch of FirstProof, a challenge consis",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "workflow",
+        "language model"
+      ]
+    },
+    {
+      "title": "Shared Selective Persistent Memory for Agentic LLM Systems",
+      "url": "https://arxiv.org/abs/2607.09493",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 13 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.09493v1 Announce Type: new \nAbstract: Agentic LLM systems that generate code through multi-turn tool use face a fundamental context problem: each session starts from zero, discarding the configuration choices, domain constraints, data schemas, and tool-use patterns that made previous sessions productive. Naively persisting entire conversation histories is token-inefficient and counterproductive: irrelevant context degrades generation quality. We introduce shared selective persistent m",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "tool use",
+        "memory"
+      ]
+    },
+    {
+      "title": "Agora: Enhancing LLM Agent Reasoning Via Auction-Based Task Allocation",
+      "url": "https://arxiv.org/abs/2607.09600",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 13 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.09600v1 Announce Type: new \nAbstract: Enhancing the reasoning capabilities of large language model (LLM) agents requires effective orchestration of diverse expert models and tools. However, existing frameworks typically call APIs based on coarse-grained matching between tasks and the functions of expert models or tools, while overlooking critical factors such as performance variability and cost efficiency among functionally similar alternatives. To address this, we propose Agora, a fr",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Sticky Routing: Training MoE Models for Memory-Efficient Inference",
+      "url": "https://arxiv.org/abs/2607.08780",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 13 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.08780v1 Announce Type: cross \nAbstract: Mixture-of-Experts (MoE) models activate only a sparse subset of experts per token, yet consecutive tokens frequently activate different experts -- causing constant weight swapping between slow storage and fast memory on edge devices. Existing remedies are either system-level (caching heuristics) or post-hoc (router fine-tuning), leaving the root cause unchanged during pretraining. We propose StickyMoE, a differentiable routing consistency loss ",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "RAG",
+        "fine-tuning",
+        "inference",
+        "memory"
+      ]
+    },
+    {
+      "title": "BlockServe: Block-Grained Continuous Batching for High-Throughput Diffusion LLM Serving",
+      "url": "https://arxiv.org/abs/2607.08930",
+      "source": "arXiv cs.LG",
+      "published_at": "Mon, 13 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.08930v1 Announce Type: new \nAbstract: Efficient serving of diffusion large language models (dLLMs) is hindered by convergence heterogeneity: when batching multiple requests, different sequences converge at different rates, causing faster requests to stall behind slower stragglers and introducing compute bubbles and tail latency. We present BlockServe, a continuous batching framework that integrates block-grained scheduling -- immediately evicting completed requests at block boundaries",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "diffusion",
+        "language model",
+        "RAG"
+      ]
+    },
+    {
+      "title": "Eluna: An Agentic LLM System for Automating Warehouse Operations with Reasoning and Task Execution",
+      "url": "https://arxiv.org/abs/2607.08960",
+      "source": "arXiv cs.LG",
+      "published_at": "Mon, 13 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.08960v1 Announce Type: new \nAbstract: Warehouse operations are governed by Standard Operating Procedures (SOPs) that encode complex, multi-system decision logic, which must be executed reliably under strict time constraints, yet LLM agents lack mechanisms to enforce procedural compliance and degrade under the context overload full SOP specifications introduce. We present Eluna, a production-deployed agentic system for reliable SOP execution. Eluna is a graph-guided, multi-agent framew",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "reasoning",
+        "procedural"
+      ]
+    },
+    {
+      "title": "MedRealMM: A Real-World Multimodal Benchmark for Chinese Online Medical Consultation",
+      "url": "https://arxiv.org/abs/2607.09142",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 13 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.09142v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly deployed in online medical consultation, yet existing benchmarks remain poorly aligned with real clinical practice. Many rely on synthetic conversations or patient simulators, omit patient-uploaded medical images, or evaluate open-ended clinical responses using multiple-choice or lexical-overlap metrics that poorly reflect clinical quality. We introduce \\textbf{MedRealMM}, a large-scale benchmark for m",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "multimodal"
+      ]
+    },
+    {
+      "title": "Fictional Worldbuilding: Multi-Agent LLM Collaboration with Hierarchical Context Compression and Iterative Review",
+      "url": "https://arxiv.org/abs/2607.09403",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 13 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.09403v1 Announce Type: new \nAbstract: Worldbuilding, the construction of coherent fictional worlds, is a foundational task in game design and literary creation. Large Language Models (LLMs) offer new possibilities for automated content generation, but their application to worldbuilding faces three challenges: context explosion that grows linearly with the building process, the tension between creative diversity and content consistency, and the absence of automated quality assurance. T",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "game",
+        "language model"
+      ]
+    },
+    {
+      "title": "REFORGE: A Method for Benchmarking LLMs' Reverse Engineering Capabilities in Decompiled Binary Function Naming",
+      "url": "https://arxiv.org/abs/2607.07738",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 13 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.07738v1 Announce Type: cross \nAbstract: Large language models (LLMs) are increasingly applied to reverse-engineering tasks, and recent threat-intelligence reporting shows them operating inside live offensive-security workflows. Claims about their capability, however, outpace our ability to measure it. Existing benchmarks for LLM-assisted binary analysis treat the construction of function-level ground truth as a solved pre-processing step and report accuracy without disclosing how many",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "workflow",
+        "language model"
+      ]
+    },
+    {
+      "title": "iLENS: Interpretable LLM-Guided Mixture-of-Experts for Neuroimaging Survival Analysis",
+      "url": "https://arxiv.org/abs/2607.08778",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 13 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.08778v1 Announce Type: cross \nAbstract: Alzheimer's Disease (AD) is a complex neurodegenerative disorder that continues to impact millions of people worldwide. Predicting AD conversion during the prodromal stage remains critical for disease understanding and patient care. As such, survival models are widely used for AD risk prediction, yet they are typically static predictors with limited interpretability and no capacity for natural language reasoning. In this work, we propose iLENS, ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "reasoning",
+        "generative"
+      ]
+    },
+    {
+      "title": "Accelerating GPU Inference of Large Language Models with Moderately Unstructured Sparse Weight Matrices",
+      "url": "https://arxiv.org/abs/2607.08786",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 13 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.08786v1 Announce Type: cross \nAbstract: With the growing deployment of large language models (LLMs), LLM inference cost has become a key challenge. Pruning techniques that introduce sparsity into weight matrices can accelerate inference. However, maintaining model quality typically limits pruning to moderate unstructured sparsity (around 50\\%). At these sparsity levels, none of the existing GPU kernels for sparse matrix multiplication (SpMM) can outperform their dense counterparts. Th",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "inference"
+      ]
+    },
+    {
+      "title": "Privacy Detective: A Narrative Game that Cultivates Student Developers' Privacy Awareness by Harnessing Legal Documents",
+      "url": "https://arxiv.org/abs/2607.09022",
+      "source": "arXiv cs.HC",
+      "published_at": "Mon, 13 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.09022v1 Announce Type: new \nAbstract: Developers' choices about what data a system collects, how it is used and shared, and what defaults govern user choices directly shape users' privacy experiences. Yet, developers often make problematic privacy-related design decisions without realizing the potential consequences. We introduce Privacy Detective, a narrative investigation game that leverages real-world legal documents to train developers' privacy awareness. In the game, players sear",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "game",
+        "RAG",
+        "narrative"
+      ]
+    },
+    {
+      "title": "Shubhamsaboo / awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship. [996 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "RAG"
+      ]
+    },
+    {
+      "title": "Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading",
+      "url": "https://arxiv.org/abs/2607.08964",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 13 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.08964v1 Announce Type: new \nAbstract: AI agents have become capable of autonomously completing short, well-specified tasks. However, existing terminal benchmarks largely focus on simple problems that finish within minutes and are evaluated only by their final outcome. This setup overlooks intermediate progress and partial solutions, yielding sparse reward signals and an incomplete picture of agent capability. We introduce Long-Horizon-Terminal-Bench, a terminal benchmark of 46 long-ho",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "ARCANA: A Reflective Multi-Agent Program Synthesis Framework for ARC-AGI-2 Reasoning",
+      "url": "https://arxiv.org/abs/2607.09059",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 13 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.09059v1 Announce Type: new \nAbstract: We present ARCANA, a collaborative multi agent framework for solving ARC AGI 2 tasks under strict test time and hardware constraints. ARCANA decomposes each task into iterative perception, hypothesis generation, symbolic execution, and reflective refinement. A perceptual grounding agent builds object centric scene graphs from raw grids, a latent program policy proposes diverse DSL programs, a symbolic executor verifies candidates on demonstrations",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "reasoning"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-07-14\n\n嘿！我是你的**疯狂发明家技术雷达**。今天从学术界和开源社区的最新动态中，我为你筛选了 **4 条**最能激发灵感、最适合跨学科碰撞的硬核项目与论文。\n\n今天的主题极其硬核：**如何让 AI 拥有“长期主义”的记忆，以及如何用游戏/市场机制来玩转多智能体协作。**\n\n---\n\n## 1. [Fictional Worldbuilding: 层次化上下文压缩与迭代评审的多智能体世界构建]\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2607.09403\n- **一句话解释**：一个多智能体框架，通过“层次化 lore 树”和“创作者-评审者”闭环，在不撑爆 Token 上下文的前提下，协同构建极其庞大且自洽的虚拟世界。\n- **它为什么重要**：传统的 AI 写作或世界生成，写着写着就会“吃书”（设定前后矛盾），因为上下文爆了。这篇论文用**树状压缩**和**审计机制**解决了这个痛点，让“无限生成且100%自洽的开放世界”成为可能。\n- **技术趋势标签**：#游戏系统 #世界生成 #上下文压缩 #多智能体协同\n- **可复用模式**：**“层级设定树”（Hierarchical Lore Tree）**——将宏观世界观（如“魔法物理学”）作为根节点，区域设定作为子节点，子节点生成时自动继承并压缩父节点的约束。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：写一个 CLI 工具，输入一个词（如“蒸汽朋克亚特兰蒂斯”），两个 Agent（历史学家、地理学家）开始轮流写编年史。每写 500 字，历史学家就把前面的内容压缩成 100 字的“史书 JSON”，供地理学家后续调用，看它们能自洽地写多长。\n  2. **一个中型项目**：**“跑团 DM 的外置大脑”**。一个 Obsidian 插件，当你和玩家面跑时，它在后台监听语音，自动提取 NPC、道具和地理设定，生成一张动态演化的、互不冲突的“世界观知识图谱”。\n  3. **一个艺术/游戏/叙事方向**：一个**“无限演化的沙盒编年史碑”**。在网页端用 Three.js 渲染一颗不断生长、分叉的“世界树”。每一个叶子节点是一个由 AI 实时生成的、绝对符合根节点物理法则的微型文明故事。玩家可以点击任意分支，注入一个“神迹”（输入 Prompt），看世界线如何收敛。\n- **对我项目的启发**：对于 Minecraft 世界生成或叙事系统，不要再把所有设定塞进一个大 Prompt 里了。用“树状继承”来传递设定，底层 NPC 只需要知道它头顶那几层分支的规则即可。\n- **今天是否值得深入研究**：是\n- **建议行动**：做demo\n\n---\n\n## 2. [Shared Selective Persistent Memory: 智能体系统的选择性持久化记忆]\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2607.09493\n- **一句话解释**：一种专门为写代码 Agent 设计的记忆框架，它不记录冗长的聊天历史，而是**选择性地提炼并持久化**工具使用模式、配置选择和架构决策。\n- **它为什么重要**：现在的 AI 编码助手（如 Claude Code）每次启动都是“失忆”状态，你得重新教它你的代码风格。这个框架让 Agent 拥有了“肌肉记忆”，越用越顺手，且极省 Token。\n- **技术趋势标签**：#AI开发工作流 #spec-driven #智能体记忆 #自动化\n- **可复用模式**：**“经验蒸馏”（Experience Distillation）**——在会话结束时，用一个轻量级 LLM 评估“这顿操作里，有哪些配置、API 习惯和 Bug 修复模式是值得保留的”，并将其写入一个本地 `.ai_memory` 配置文件。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：写一个 Git hook。当你 `git commit` 成功时，自动触发一个脚本，让 LLM 分析这次 commit 的 diff，提取出你这次写代码沉淀下来的“隐性规则”（如：“这个项目里我们倾向于用 pyarrow 而不是 pandas”），并更新到项目根目录下的 `SPEC.md`。\n  2. **一个中型项目**：**“影子程序员（Shadow-Coder）”**。一个常驻后台的 CLI 工具，它记录你所有的编译失败日志和你的修复过程。下次你再遇到类似报错，它直接调用你的“历史成功修复模式”一键干掉 Bug。\n  3. **一个艺术/游戏/叙事方向**：一个**“会记仇和感恩的电子宠物”**。它没有完整的对话记忆，但它有一个 JSON 格式的“性格特征 spec”。你对它的每一次调教、赞美或冷落，都会被蒸馏成“性格修正系数”（如 `trust_level: 0.8`），这个 spec 会直接影响它每天生成的像素表情和日记。\n- **对我项目的启发**：这正是 Drift 或 spec-driven development 的终极拼图！让你的开发工具链自动生成并维护它的 `spec`，实现“自适应”的辅助开发。\n- **今天是否值得深入研究**：是\n- **建议行动**：做demo\n\n---\n\n## 3. [Agora: 基于拍卖机制的智能体任务分配]\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2607.09600\n- **一句话解释**：一个智能体编排框架，让不同的专家模型/工具通过**“拍卖和竞价机制”**来争夺任务，从而实现最高效的任务分配。\n- **它为什么重要**：传统的 Multi-Agent 都是硬编码路由（A 传给 B，B 传给 C）。Agora 引入了微观经济学，让 Agent 根据自己的“信心指数”和“Token 预算”去竞标任务，极大地提高了系统的弹性和鲁棒性。\n- **技术趋势标签**：#智能体工作流 #博弈论 #自动化系统 #多智能体\n- **可复用模式**：**“Agent 竞标机制”（Agent Auction）**——主控 Agent 发布任务，子 Agent 评估自身上下文和工具，返回一个“竞标书”（包含预估步数、所需预算和信心值），价优/质优者得。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：用 Python 模拟一个“创意写作拍卖行”。你输入一个选题。Claude（擅长文笔）、GPT-4o（擅长逻辑）、Llama-3（便宜）各自带上自己的“代币额度”竞标不同的段落。写完后由评审 Agent 发放“奖金”，看最后谁赚的代币最多。\n  2. **一个中型项目**：**“自主 Discord 社区”**。一个由 5 个不同性格/技能的 Bot 组成的 Discord 频道。当用户提出一个复杂需求（如“帮我写个动态壁纸并配乐”）时，Bot 们在频道里公开竞价、拆包、合作，用户像看戏一样看着它们把活干完。\n  3. **一个艺术/游戏/叙事方向**：一个**“算法资本主义”艺术装置**。大屏幕上展示一个虚拟城市，里面有代表“地产商”、“艺术家”、“市长”的 Agent。它们通过拍卖机制争夺土地、公共预算和艺术品创作权。每一次竞拍结果都会实时改变城市 3D 模型的形态。\n- **对我项目的启发**：这为游戏系统的 NPC 交互提供了一个绝佳的思路！NPC 不再是用状态机控制，而是用“经济学/拍卖”来驱动它们的行为决策。\n- **今天是否值得深入研究**：是\n- **建议行动**：试用\n\n---\n\n## 4. [GATS: 结合分层世界模型与图增强树搜索的智能体规划]\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2607.08894\n- **一句话解释**：通过构建“分层世界模型”和“状态转移图”，让 Agent 在图上进行树搜索（GATS），从而在不需要频繁调用 LLM 的情况下完成复杂的长程规划。\n- **它为什么重要**：用 LLM 做蒙特卡洛树搜索（MCTS）太慢太贵了。GATS 相当于给 Agent 装了一个**“离线物理引擎/沙盒”**，它先在自己脑子里的“状态图”上模拟推演，找到最优路径后，再执行。\n- **技术趋势标签**：#世界模型 #智能体规划 #游戏系统 #Minecraft\n- **可复用模式**：**“图态抽象”（Graph State Abstraction）**——将复杂的环境状态抽象为图的节点，将动作抽象为边，利用图算法（如 Dijkstra 或 A*）辅助 LLM 规划。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：做一个文本走迷宫 Agent。不要每次移动都问 LLM。先让 LLM 根据已探索的地图构建一个 Mermaid.js 的图结构，然后用 Python 的 NetworkX 库计算最短路径，再把路径指令打包发给执行端。\n  2. **一个中型项目**：**“Minecraft 自动化建造师”**。给 Minecraft 机器人装上 GATS。它有一个“方块世界模型”（图结构），当你要它盖一栋房子时，它先在图模型里模拟“挖矿->合成->搬运->建造”的依赖流，避开障碍物，最后以最优路径在游戏里搭建出来。\n  3. **一个艺术/游戏/叙事方向**：一个**“命运之图”互动叙事装置**。AI 实时生成一个庞大的叙事图谱（节点是事件，边是因果关系）。玩家可以通过改变图中的某一个节点（如“让主角在第一章死掉”），系统利用图搜索算法瞬间重构后续所有章节的因果链，并生成新的故事。\n- **对我项目的启发**：非常适合世界生成和复杂的游戏 AI。将“空间/逻辑关系”交给经典的图算法，将“语义理解/决策”交给 LLM，才是最高效的架构。\n- **今天是否值得深入研究**：否（概念很棒，但实现偏重理论，建议先收藏，等开源代码）\n- **建议行动**：收藏\n\n---\n\n## 今日模式总结\n\n1. **从“全量记忆”走向“高维蒸馏”**：无论是世界构建（Fictional Worldbuilding）还是编码助手（Selective Persistent Memory），大家都意识到把所有历史塞给 LLM 是愚蠢的。未来的趋势是**实时提取元数据（Metadata）、规则（Spec）和图谱（Graph）**，用结构化数据作为 Agent 的长期记忆。\n2. **用“博弈与市场”取代“硬编码流程”**：Agora 的拍卖机制代表了一种新趋势：不再用 `if-else` 或 LangChain 的 Router 去死板地分发任务，而是引入**微观经济学（竞价、预算、信心值）**让 Agent 们自组织协作。\n\n---\n\n## 今日可做小实验：项目幽灵作家 (ProjectGhostwriter)\n\n这是一个 2 小时内能搞定、对你日常写代码极有帮助的 Spec-driven 自动化小工具。它能帮你在每次写完代码后，自动提炼并更新项目的“精神模型”和“编码规范”。\n\n- **项目名**：ProjectGhostwriter\n- **输入**：你的 Git 仓库路径 + 最近一次的 Git Diff。\n- **输出**：一个自动更新的 `.cursorrules` 或 `SPEC.md` 文件，记录了你在这个项目里沉淀的“隐性代码规范”。\n- **技术栈**：Python / Node.js + Git CLI + Claude/GPT-4o API。\n- **第一步怎么做**：\n  1. 在本地新建一个 Python 脚本 `ghostwriter.py`。\n  2. 使用 `subprocess` 运行 `git diff HEAD~1` 获取你上一次提交的代码变动。\n  3. 编写如下 System Prompt：\n     > \"你是一个项目架构师。请分析以下代码 Diff，提取出开发者在这次提交中展现出的：1. 编码风格与偏好；2. 新引入的架构设计决策（如 state 管理方式）；3. 使用到的特定库的 API 习惯。请将这些信息以精炼的 Markdown 格式，合并到现有的 `SPEC.md` 文件中。不要废话，只输出合并后的 SPEC 内容。\"\n  4. 运行脚本，读取 `SPEC.md`，将旧 SPEC 和 Diff 一起送给 LLM，将返回的新内容覆盖写入 `SPEC.md`。\n  5. 把这个脚本挂载到 Git 的 `post-commit` 钩子上。恭喜，你拥有了一个会自动随你编码习惯演进的“项目外置大脑”！",
+  "gemini_success": true,
+  "telegram_sent": false,
+  "telegram_status": "failed",
+  "telegram_reason": "400 Client Error: Bad Request for url: https://api.telegram.org/bot8650722899:AAHUD-aqNDB7NwiPiGq3R22MVp77Cr_5GEQ/sendMessage"
+}

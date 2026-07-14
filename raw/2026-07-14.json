@@ -1,0 +1,296 @@
+[
+  {
+    "title": "Toward Auditable AI Scientists: A Hypothesis Evolution Protocol for LLM Agents",
+    "url": "https://arxiv.org/abs/2607.09195",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 13 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.09195v1 Announce Type: new \nAbstract: Large language model (LLM) agents are increasingly expected to play a central role in AI-driven scientific discovery. Equipped with broad knowledge, flexible reasoning, and tool use, they have the potential to autonomously explore and solve scientific problems by repeatedly proposing hypotheses, testing them, and revising their beliefs in the light of the evidence. In current agents, however, these hypotheses, tests, and belief updates are buried ",
+    "score": 14.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "autonomous",
+      "tool use",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "ruvnet / ruflo",
+    "url": "https://github.com/ruvnet/ruflo",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated [158 stars today]",
+    "score": 14.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "workflow",
+      "autonomous",
+      "RAG",
+      "memory"
+    ]
+  },
+  {
+    "title": "Show HN: ContextVault – Shared memory layer for your AI and your team",
+    "url": "https://www.contextvault.dev/",
+    "source": "Hacker News",
+    "published_at": "Mon, 13 Jul 2026 23:22:18 +0000",
+    "description": "Hi HN, I'm Kevin. I built ContextVault because I kept running into the same problem with AI tools. Every project accumulated prompts, coding conventions, architectural decisions, examples, and other pieces of context that made the models significantly more useful. The problem was that this information quickly became fragmented. Some lived in ChatGPT Projects, some in Claude, some in Markdown files, some in internal documentation, and some only existed in previous conversations. Late last year, I",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "Claude",
+      "GPT",
+      "RAG",
+      "prompt",
+      "memory"
+    ]
+  },
+  {
+    "title": "GATS: Graph-Augmented Tree Search with Layered World Models for Efficient Agent Planning",
+    "url": "https://arxiv.org/abs/2607.08894",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 13 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.08894v1 Announce Type: new \nAbstract: Large Language Model (LLM) agents have shown promise in multi-step planning tasks, but existing approaches like LATS (Language Agent Tree Search) and ReAct rely heavily on LLM inference during planning, leading to high computational costs and stochastic behavior. We present \\textbf{GATS} (Graph-Augmented Tree Search), a planning framework that combines systematic UCB1-based tree search with a layered world model to eliminate LLM calls during infer",
+    "score": 10.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "language model",
+      "inference",
+      "planning"
+    ]
+  },
+  {
+    "title": "Neuro-Agentic Control: A Deep Learning-based LLM-Powered Agentic AI Framework for Controlling Security Controls",
+    "url": "https://arxiv.org/abs/2607.09076",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 13 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.09076v1 Announce Type: new \nAbstract: Cyberattacks on operational technology are increasingly causing costly downtime and physical damage, exposing the limitations of traditional rule-based monitoring in industrial IoT environments. While Large Language Models (LLMs) have strong semantic reasoning abilities to assist in decision support, their hallucinatory nature presents unacceptable safety liabilities for closed-loop control. This paper introduces a neuro-agentic control framework,",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "ProofCouncil: An LLM Agent for Solving Open Mathematical Problems",
+    "url": "https://arxiv.org/abs/2607.09474",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 13 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.09474v1 Announce Type: new \nAbstract: Large language models (LLMs) have shown increasing promise in solving open problems in mathematics. However, their performance can be further improved through agentic workflows tailored to real-world mathematical practice. To this end, we introduce ProofCouncil, a mathematical agent that is designed to tackle open problems using an author-critic architecture. ProofCouncil served as a submission to the second batch of FirstProof, a challenge consis",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "language model"
+    ]
+  },
+  {
+    "title": "Shared Selective Persistent Memory for Agentic LLM Systems",
+    "url": "https://arxiv.org/abs/2607.09493",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 13 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.09493v1 Announce Type: new \nAbstract: Agentic LLM systems that generate code through multi-turn tool use face a fundamental context problem: each session starts from zero, discarding the configuration choices, domain constraints, data schemas, and tool-use patterns that made previous sessions productive. Naively persisting entire conversation histories is token-inefficient and counterproductive: irrelevant context degrades generation quality. We introduce shared selective persistent m",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "tool use",
+      "memory"
+    ]
+  },
+  {
+    "title": "Agora: Enhancing LLM Agent Reasoning Via Auction-Based Task Allocation",
+    "url": "https://arxiv.org/abs/2607.09600",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 13 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.09600v1 Announce Type: new \nAbstract: Enhancing the reasoning capabilities of large language model (LLM) agents requires effective orchestration of diverse expert models and tools. However, existing frameworks typically call APIs based on coarse-grained matching between tasks and the functions of expert models or tools, while overlooking critical factors such as performance variability and cost efficiency among functionally similar alternatives. To address this, we propose Agora, a fr",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Sticky Routing: Training MoE Models for Memory-Efficient Inference",
+    "url": "https://arxiv.org/abs/2607.08780",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 13 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.08780v1 Announce Type: cross \nAbstract: Mixture-of-Experts (MoE) models activate only a sparse subset of experts per token, yet consecutive tokens frequently activate different experts -- causing constant weight swapping between slow storage and fast memory on edge devices. Existing remedies are either system-level (caching heuristics) or post-hoc (router fine-tuning), leaving the root cause unchanged during pretraining. We propose StickyMoE, a differentiable routing consistency loss ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "RAG",
+      "fine-tuning",
+      "inference",
+      "memory"
+    ]
+  },
+  {
+    "title": "BlockServe: Block-Grained Continuous Batching for High-Throughput Diffusion LLM Serving",
+    "url": "https://arxiv.org/abs/2607.08930",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 13 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.08930v1 Announce Type: new \nAbstract: Efficient serving of diffusion large language models (dLLMs) is hindered by convergence heterogeneity: when batching multiple requests, different sequences converge at different rates, causing faster requests to stall behind slower stragglers and introducing compute bubbles and tail latency. We present BlockServe, a continuous batching framework that integrates block-grained scheduling -- immediately evicting completed requests at block boundaries",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "diffusion",
+      "language model",
+      "RAG"
+    ]
+  },
+  {
+    "title": "Eluna: An Agentic LLM System for Automating Warehouse Operations with Reasoning and Task Execution",
+    "url": "https://arxiv.org/abs/2607.08960",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 13 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.08960v1 Announce Type: new \nAbstract: Warehouse operations are governed by Standard Operating Procedures (SOPs) that encode complex, multi-system decision logic, which must be executed reliably under strict time constraints, yet LLM agents lack mechanisms to enforce procedural compliance and degrade under the context overload full SOP specifications introduce. We present Eluna, a production-deployed agentic system for reliable SOP execution. Eluna is a graph-guided, multi-agent framew",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "reasoning",
+      "procedural"
+    ]
+  },
+  {
+    "title": "MedRealMM: A Real-World Multimodal Benchmark for Chinese Online Medical Consultation",
+    "url": "https://arxiv.org/abs/2607.09142",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 13 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.09142v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly deployed in online medical consultation, yet existing benchmarks remain poorly aligned with real clinical practice. Many rely on synthetic conversations or patient simulators, omit patient-uploaded medical images, or evaluate open-ended clinical responses using multiple-choice or lexical-overlap metrics that poorly reflect clinical quality. We introduce \\textbf{MedRealMM}, a large-scale benchmark for m",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "multimodal"
+    ]
+  },
+  {
+    "title": "Fictional Worldbuilding: Multi-Agent LLM Collaboration with Hierarchical Context Compression and Iterative Review",
+    "url": "https://arxiv.org/abs/2607.09403",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 13 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.09403v1 Announce Type: new \nAbstract: Worldbuilding, the construction of coherent fictional worlds, is a foundational task in game design and literary creation. Large Language Models (LLMs) offer new possibilities for automated content generation, but their application to worldbuilding faces three challenges: context explosion that grows linearly with the building process, the tension between creative diversity and content consistency, and the absence of automated quality assurance. T",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "game",
+      "language model"
+    ]
+  },
+  {
+    "title": "REFORGE: A Method for Benchmarking LLMs' Reverse Engineering Capabilities in Decompiled Binary Function Naming",
+    "url": "https://arxiv.org/abs/2607.07738",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 13 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.07738v1 Announce Type: cross \nAbstract: Large language models (LLMs) are increasingly applied to reverse-engineering tasks, and recent threat-intelligence reporting shows them operating inside live offensive-security workflows. Claims about their capability, however, outpace our ability to measure it. Existing benchmarks for LLM-assisted binary analysis treat the construction of function-level ground truth as a solved pre-processing step and report accuracy without disclosing how many",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "workflow",
+      "language model"
+    ]
+  },
+  {
+    "title": "iLENS: Interpretable LLM-Guided Mixture-of-Experts for Neuroimaging Survival Analysis",
+    "url": "https://arxiv.org/abs/2607.08778",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 13 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.08778v1 Announce Type: cross \nAbstract: Alzheimer's Disease (AD) is a complex neurodegenerative disorder that continues to impact millions of people worldwide. Predicting AD conversion during the prodromal stage remains critical for disease understanding and patient care. As such, survival models are widely used for AD risk prediction, yet they are typically static predictors with limited interpretability and no capacity for natural language reasoning. In this work, we propose iLENS, ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "reasoning",
+      "generative"
+    ]
+  },
+  {
+    "title": "Accelerating GPU Inference of Large Language Models with Moderately Unstructured Sparse Weight Matrices",
+    "url": "https://arxiv.org/abs/2607.08786",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 13 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.08786v1 Announce Type: cross \nAbstract: With the growing deployment of large language models (LLMs), LLM inference cost has become a key challenge. Pruning techniques that introduce sparsity into weight matrices can accelerate inference. However, maintaining model quality typically limits pruning to moderate unstructured sparsity (around 50\\%). At these sparsity levels, none of the existing GPU kernels for sparse matrix multiplication (SpMM) can outperform their dense counterparts. Th",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "inference"
+    ]
+  },
+  {
+    "title": "Privacy Detective: A Narrative Game that Cultivates Student Developers' Privacy Awareness by Harnessing Legal Documents",
+    "url": "https://arxiv.org/abs/2607.09022",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 13 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.09022v1 Announce Type: new \nAbstract: Developers' choices about what data a system collects, how it is used and shared, and what defaults govern user choices directly shape users' privacy experiences. Yet, developers often make problematic privacy-related design decisions without realizing the potential consequences. We introduce Privacy Detective, a narrative investigation game that leverages real-world legal documents to train developers' privacy awareness. In the game, players sear",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "game",
+      "RAG",
+      "narrative"
+    ]
+  },
+  {
+    "title": "Shubhamsaboo / awesome-llm-apps",
+    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship. [996 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "RAG"
+    ]
+  },
+  {
+    "title": "Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading",
+    "url": "https://arxiv.org/abs/2607.08964",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 13 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.08964v1 Announce Type: new \nAbstract: AI agents have become capable of autonomously completing short, well-specified tasks. However, existing terminal benchmarks largely focus on simple problems that finish within minutes and are evaluated only by their final outcome. This setup overlooks intermediate progress and partial solutions, yielding sparse reward signals and an incomplete picture of agent capability. We introduce Long-Horizon-Terminal-Bench, a terminal benchmark of 46 long-ho",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "ARCANA: A Reflective Multi-Agent Program Synthesis Framework for ARC-AGI-2 Reasoning",
+    "url": "https://arxiv.org/abs/2607.09059",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 13 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.09059v1 Announce Type: new \nAbstract: We present ARCANA, a collaborative multi agent framework for solving ARC AGI 2 tasks under strict test time and hardware constraints. ARCANA decomposes each task into iterative perception, hypothesis generation, symbolic execution, and reflective refinement. A perceptual grounding agent builds object centric scene graphs from raw grids, a latent program policy proposes diverse DSL programs, a symbolic executor verifies candidates on demonstrations",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "reasoning"
+    ]
+  }
+]
