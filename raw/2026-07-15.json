@@ -1,0 +1,294 @@
+[
+  {
+    "title": "Lottery and Sprint Arcade: Enabling Player-Driven Game Editing with Generative AI",
+    "url": "https://arxiv.org/abs/2607.10711",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 14 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.10711v1 Announce Type: new \nAbstract: Large language models (LLMs) are shifting game generation from offline automation toward play-driven modification through natural language interaction. In this work, we present a play-driven game editing system that enables players to modify a retro Space Invaders - style arcade game through voice-based natural-language commands during play. Spoken instructions are interpreted by an LLM and translated into structured updates of internal configurat",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "automation",
+      "game",
+      "language model",
+      "generative"
+    ]
+  },
+  {
+    "title": "YUKTI: From Natural-Language Situations to Robust, Verifiable Decisions An Uncertainty-Typed Proposition IR, Assumption-Robust Pareto Frontiers, and a Regret Certificate",
+    "url": "https://arxiv.org/abs/2607.09706",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 14 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.09706v1 Announce Type: new \nAbstract: Language models turn a worded situation into a numeric plan, and the dominant pipelines (NL4Opt, OptiMUS, ORLM, OR-LLM-Agent) commit to a single objective and point-valued coefficients, then solve once. For decisions that allocate real budget, effort, or clinical attention, that confidence is the failure mode: every objectified number is an assumption, and a plan optimal only if the guesses are exactly right is fragile -- mimicry of computation. Y",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "RAG"
+    ]
+  },
+  {
+    "title": "Closed-Loop Control with Rule-Aligned Small Language Models and Multi-Agent Self-Correction",
+    "url": "https://arxiv.org/abs/2607.09713",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 14 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.09713v1 Announce Type: new \nAbstract: A key step toward autonomous industrial operation is the ability to create and reconfigure control policies from natural-language requirement specifications, with minimal or no manual redesign. In this setting, policy generation by AI agents can be a credible path when paired with a plant-aware validator (e.g., a digital twin) that can check generated candidate actions before execution. However, practical deployment is constrained by inference lat",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "language model",
+      "autonomous",
+      "inference"
+    ]
+  },
+  {
+    "title": "A Dynamic Scene Interaction Reasoning Framework for Scene-level Lane-Change Intention and Trajectory Prediction of Multiple Interacting Vehicles",
+    "url": "https://arxiv.org/abs/2607.09740",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 14 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.09740v1 Announce Type: new \nAbstract: Safe motion planning in advanced driver-assistance systems and autonomous vehicles requires an accurate understanding of how the surrounding traffic scene is likely to evolve. However, many existing lane-change prediction methods remain centered on a single target vehicle, while multi-agent forecasting approaches often describe scene evolution only through future positions and provide limited explicit information about the maneuver associated with",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "autonomous",
+      "reasoning",
+      "planning"
+    ]
+  },
+  {
+    "title": "Agentic Context Learning with Self-Discovered Specification",
+    "url": "https://arxiv.org/abs/2607.09794",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 14 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.09794v1 Announce Type: new \nAbstract: Context learning is an emerging inference-time task where LLMs must learn and apply novel, task-specific knowledge from intricate contexts absent from pre-training; even frontier models score under 24% task success. In this work, we conduct a comprehensive empirical study to understand why this setting remains difficult. A natural hypothesis is that failures stem from content access; yet across twelve retrieval, reflection, and verification baseli",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "inference",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Exploring Agentic Workflows for Generating High Quality Math Visual Aids",
+    "url": "https://arxiv.org/abs/2607.09839",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 14 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.09839v1 Announce Type: new \nAbstract: Mathematical diagrams play a crucial role in K 12 education, both as problem components and as scaffolding for student comprehension. However, current AI tools, including Large Language Models (LLMs), struggle to reliably generate accurate and pedagogically sound visual diagrams, even when provided with detailed descriptions. A significant gap therefore remains in the reliable generation of diagrams for middle school mathematics. To address this, ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "language model"
+    ]
+  },
+  {
+    "title": "AgentAbstain: Do LLM Agents Know When Not to Act?",
+    "url": "https://arxiv.org/abs/2607.10059",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 14 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.10059v1 Announce Type: new \nAbstract: Agent systems based on large language models (LLMs) are increasingly deployed for autonomous tasks, yet existing evaluations mostly focus on task success rather than whether agents know when to abstain. This gap poses real risks: under ambiguity, conflicting constraints, or tool failures, agents may execute unintended and irreversible actions. To close this gap, we present the first systematic evaluation framework for agentic abstention: the calib",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "An Explainable Agentic System for Detection of Conversational Scams with Summary-Based Memory",
+    "url": "https://arxiv.org/abs/2607.11707",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 14 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.11707v1 Announce Type: cross \nAbstract: Following the rapid progress of generative Artificial Intelligence, there is a growing threat posed by conversational scams. These scams often span over multiple weeks or months, gradually build trust and request for money or sensitive information. Existing scam-detection systems mainly focus on isolated messages, which renders them inadequate against this evolving threat. This paper extends single-message phishing detection and presents an expl",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "generative art",
+      "memory",
+      "generative"
+    ]
+  },
+  {
+    "title": "Depth-Entropy Guided Sampling for Training-Free LLM Reasoning",
+    "url": "https://arxiv.org/abs/2607.09693",
+    "source": "arXiv cs.LG",
+    "published_at": "Tue, 14 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.09693v1 Announce Type: new \nAbstract: Reinforcement learning (RL) has become the dominant paradigm for improving the reasoning capabilities of large language models, but it requires expensive training, curated data, and reward signals. Recent work shows that sampling from sharpened base-model distributions at test time recovers much of the RL gain, yet existing methods rely solely on output-layer likelihoods and ignore the transformer's internal forward-pass dynamics. We introduce Dep",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "transformer",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Safe responses matter: Output-aware safety guardrail mitigate over-refusal in MLLMs",
+    "url": "https://arxiv.org/abs/2607.09697",
+    "source": "arXiv cs.LG",
+    "published_at": "Tue, 14 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.09697v1 Announce Type: new \nAbstract: Existing safety mechanisms for multimodal large language models (MLLMs) face a fundamental trade-off between safety and utility. Model fine-tuning achieves robust safety but compromises general utility. Input-side safety guardrails offer a lightweight alternative, yet they suffer from severe over-refusal, indiscriminately blocking benign queries or those the model could have safely answered through refusal or advisory responses. We identify that t",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "multimodal",
+      "fine-tuning"
+    ]
+  },
+  {
+    "title": "From Direction to Magnitude: How Multimodal Instruction-Tuning Reorganizes the Geometric Encoding of Identity-Specifying Prompts in Transformer Hidden States",
+    "url": "https://arxiv.org/abs/2607.09842",
+    "source": "arXiv cs.LG",
+    "published_at": "Tue, 14 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.09842v1 Announce Type: new \nAbstract: We investigate whether identity-specifying system prompts produce statistically distinguishable geometric fingerprints in the hidden-state trajectories of four open-weight transformer language models spanning four post-training regimes: no training (Gemma-4-E4B base), multimodal RLHF (Gemma-4-E4B-it), RL distillation (DeepSeek-R1-Distill-Qwen-7B), and SFT (Qwen2.5-7B-Instruct). Three prompt conditions (an identity-specifying axis prompt, a length-",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "transformer",
+      "language model",
+      "multimodal",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
+    "url": "https://agnost.ai",
+    "source": "Hacker News",
+    "published_at": "Tue, 14 Jul 2026 16:06:18 +0000",
+    "description": "Hey HN, we’re Shubham & Parth, childhood friends building Agnost AI ( https://agnost.ai ), product analytics for teams building chat and voice agents. We read production conversations and find behavioral failures like users rageprompting (cursing at the agent), repeatedly rephrasing the same request, correcting the agent, asking for missing features, or leaving after an answer that was technically successful. We have an interactive demo with no signup here: https://app.agnost.ai?demo=true Here's",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "RAG",
+      "prompt"
+    ]
+  },
+  {
+    "title": "IdeaTrail: Full-Process Agent Trajectories for Scientific Ideation",
+    "url": "https://arxiv.org/abs/2607.10144",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 14 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.10144v1 Announce Type: new \nAbstract: Scientific research is a complex, multi-stage workflow rather than a single act of text generation. The ideation process typically emerges through literature search, paper reading, tool use, claim checking, cross-paper synthesis, brainstorming, rejection of weak directions, and iterative writing. Existing resources capture individual components of this process, but datasets that jointly record tool use, evidence acquisition, intermediate artifact ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow",
+      "tool use"
+    ]
+  },
+  {
+    "title": "\"Code Is Cheap. Show Me the Talk.\": Lessons from Teaching and Managing AI Coding Tool Usage in a Visualization Course",
+    "url": "https://arxiv.org/abs/2607.09938",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 14 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.09938v1 Announce Type: new \nAbstract: Generative Artificial Intelligence (GenAI) coding tools are transforming visualization education. They can assist with implementation and design, but they can also let students bypass intended learning trajectories. In this paper, we share our retrospective experience managing and teaching AI use in an upper-level visualization course. We implemented prompt injections, asked oral checkout questions, and taught two AI coding labs. Prior to our codi",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "generative art",
+      "prompt",
+      "generative"
+    ]
+  },
+  {
+    "title": "Motif: Discovering and Automating Personal Web Workflows",
+    "url": "https://arxiv.org/abs/2607.10531",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 14 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.10531v1 Announce Type: new \nAbstract: Recent advances in LLMs and existing work on programming by demonstration have made it possible for end users to create automations by explicitly demonstrating their behavior to LLMs. However, these approaches rely on the assumption that users know what to automate and what is capable of being automated. Additionally, automation via LLM agents is often expensive compared with programs. We introduce Motif, a system that passively observes everyday ",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "workflow",
+      "automation"
+    ]
+  },
+  {
+    "title": "FIERO: Empowering Creative Writing Through Collaborative Game Play",
+    "url": "https://arxiv.org/abs/2607.11837",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 14 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.11837v1 Announce Type: new \nAbstract: Creativity often flourishes in collaboration, such as when designers brainstorm a new app together, or storytellers collectively build a world with elements of each person's narrative. However, collaborative storytelling can have challenges for its participants, such as when they disagree about the plot proposed, or when different ideas become fragmented when voiced individually. While current tools for creative collaboration focus on synchronous ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "game",
+      "RAG",
+      "narrative"
+    ]
+  },
+  {
+    "title": "Toward Contemplative LLM: A Modular Framework for Evaluating and Enhancing LLM Alignment in Mental Health",
+    "url": "https://arxiv.org/abs/2607.10871",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 14 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.10871v1 Announce Type: cross \nAbstract: Contemplative traditions have long guided ethical behavior and prosocial interaction, and recent work suggests that contemplative principles (e.g., mindfulness, compassion, non-dual reasoning) may offer a promising paradigm for aligning large language models (LLMs), improving cooperation and reducing ethical violations in LLM outputs. However, as new models, evaluation metrics, and benchmarks emerge rapidly, it remains challenging to systematica",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Playful AI in Professional Email: A Field Experiment on Tone and Recipient Engagement",
+    "url": "https://arxiv.org/abs/2607.11749",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 14 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.11749v1 Announce Type: cross \nAbstract: Large language models (LLMs) are rapidly reshaping workplace communication, yet whether AI-assisted writing changes how recipients actually behave, and through what channel, remains unknown. Here, in a randomized crossover field experiment, 121 employees across six companies sent work emails under three conditions over three weeks: unaided writing, GPT-5 rewriting in a playful tone, and GPT-5 rewriting in a professional tone. Across 16,880 email",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "GPT",
+      "language model"
+    ]
+  },
+  {
+    "title": "MawForge: Memory-Bounded Expert Materialization for Local Mixture-of-Experts Inference",
+    "url": "https://arxiv.org/abs/2607.09686",
+    "source": "arXiv cs.LG",
+    "published_at": "Tue, 14 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.09686v1 Announce Type: new \nAbstract: Sparse Mixture-of-Experts (MoE) language models separate total parameter count from per-token active computation, but local inference systems often still require the full model, key-value cache, runtime buffers, and operatingsystem headroom to fit in fast memory. MawForge tests a different systems hypothesis: local MoE serving can be made practical on constrained unified-memory machines by storing the full model on disk, keeping common tensors res",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "language model",
+      "inference",
+      "memory"
+    ]
+  },
+  {
+    "title": "Shubhamsaboo / awesome-llm-apps",
+    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship. [1,106 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "RAG"
+    ]
+  }
+]
