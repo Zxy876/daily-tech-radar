@@ -1,0 +1,294 @@
+[
+  {
+    "title": "Cost-Governed RAG: Unified Per-Tenant Cost Attribution Across Retrieval and Generation in Multi-Tenant LLM Systems",
+    "url": "https://arxiv.org/abs/2607.12188",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 15 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.12188v1 Announce Type: new \nAbstract: Enterprise Retrieval-Augmented Generation (RAG) deployments face a critical governance gap: while LLM generation cost is metered per token, the retrieval layer - vector memory, similarity compute, and embedding API calls - remains an unattributed shared cost, enabling invisible cross-subsidization among tenants. We present Cost-Governed RAG, an architecture that integrates a codebook-oblivious vector index (TurboVec) with a multi-tenant LLM govern",
+    "score": 14.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "RAG",
+      "embedding",
+      "vector",
+      "memory",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "PFAdapter: Hierarchical LoRA Decomposition for Personalized Federated MLLMs",
+    "url": "https://arxiv.org/abs/2607.12111",
+    "source": "arXiv cs.LG",
+    "published_at": "Wed, 15 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.12111v1 Announce Type: new \nAbstract: Agentic AI systems are reshaping communications and networking by deploying autonomous intelligent agents capable of collaborative learning while maintaining data privacy at network edges. Within distributed network environments, Multimodal Large Language Models (MLLMs) serve as cognitive engines for edge devices, yet federated fine-tuning faces substantial challenges in balancing global knowledge aggregation with local adaptation under heterogene",
+    "score": 14.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "autonomous",
+      "multimodal",
+      "fine-tuning"
+    ]
+  },
+  {
+    "title": "LLMs Can See the Smoke but not the Fire: Evaluating Abductive Reasoning with Elenchos",
+    "url": "https://arxiv.org/abs/2607.12733",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 15 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.12733v1 Announce Type: new \nAbstract: Large language models (LLMs) excel at pattern recognition and text generation, but their capacity for abductive inference - inferring latent hypotheses that explain observed behavior - remains poorly understood. Here, we introduce Elenchos (named after the Socratic method of cross-examination), a generative evaluation framework that measures abductive reasoning as a structural inverse problem. Given a reference formal system, such as the lambda-ca",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "inference",
+      "reasoning",
+      "generative"
+    ]
+  },
+  {
+    "title": "Isolation as a First-Class Principle for LLM-Agent System Safety: Concepts, Taxonomy, Challenges and Future Directions",
+    "url": "https://arxiv.org/abs/2607.12406",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 15 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.12406v1 Announce Type: new \nAbstract: The capability of LLM agents to function as the ``brain'' of a system fundamentally expands the scope of analysis beyond a standalone model. Consequently, safety is no longer only about input--output content alignment. It also concerns system behavior and real-world execution outcomes. However, the current literature is fragmented across attack types, applications, and benchmarks. This makes it hard to explain why failures such as prompt injection",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "RAG",
+      "prompt"
+    ]
+  },
+  {
+    "title": "LiteTopK: Exploiting the Curse of Dimensionality for a Fused Indexer-TopK Kernel in Long-Context Sparse Attention",
+    "url": "https://arxiv.org/abs/2607.11976",
+    "source": "arXiv cs.LG",
+    "published_at": "Wed, 15 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.11976v1 Announce Type: new \nAbstract: Indexer-TopK, the operation to compute the scores and select the top-k candidates, is widely used by sparse attention kernels in large language models and vector retrieval in recommendation systems and vector databases. However, existing GPU-based Indexer-TopK kernels like DeepSeek Sparse Attention (DSA) remain inefficient due to excessive global memory traffic, costly synchronization, and prohibitive memory overhead. In this work, we exploit the ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "language model",
+      "vector",
+      "memory",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "An Agentic AI Scientific Community for Automated Neural Operator Discovery",
+    "url": "https://arxiv.org/abs/2607.12122",
+    "source": "arXiv cs.LG",
+    "published_at": "Wed, 15 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.12122v1 Announce Type: new \nAbstract: We present an agentic approach to autonomous neural operator discovery based on an AI scientific community, which consists of a swarm of virtual laboratories that interact under a citation-based economy of influence. Highly-cited labs found new labs that follow their research direction and replace non-performing labs. Each virtual lab contains three agents: an LLM planner that proposes an architecture, a numerical worker that trains and measures i",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "neural",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "raroque / boop-agent",
+    "url": "https://github.com/raroque/boop-agent",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "iMessage personal agent: choose Claude Agent SDK (Claude Code) or Codex app-server runtime (Codex/ChatGPT), with memory, sub-agents, automations, integrations. [37 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "agent",
+      "Claude",
+      "automation",
+      "GPT",
+      "memory"
+    ]
+  },
+  {
+    "title": "In-Context Reinforcement Learning under Non-Stationarity: A Survey",
+    "url": "https://arxiv.org/abs/2607.11906",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 15 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.11906v1 Announce Type: new \nAbstract: The development of decision-pretrained transformers, algorithm distillation, long-context meta-RL, and retrieval-augmented agents has renewed interest in in-context reinforcement learning (ICRL): the ability of a pretrained or fine-tuned decision model to infer latent task rules and improve future behavior from interaction context, without test-time parameter updates. This line of work asks when trial-and-error evidence, rewards, transitions, demo",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "transformer",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Graph Feedback Controls Consensus and Clique Formation in Open-Weight Language-Model Populations",
+    "url": "https://arxiv.org/abs/2607.12077",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 15 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.12077v1 Announce Type: new \nAbstract: Multi-agent language-model systems increasingly route local interactions, yet the runtime interaction graph is often treated as an implementation detail. We study convention formation in open-weight LM populations spanning 1.1B-32B parameters with a naming-game protocol. Restricted first-token scores over tokenizer-safe labels let us measure prompt-conditioned score-state distributions, construct state-similarity graphs, and separate sampled-label",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "game",
+      "prompt"
+    ]
+  },
+  {
+    "title": "On-Device Deep Research at 4B: Exposure Bounds Faithfulness, Retrieval Bounds Coverage",
+    "url": "https://arxiv.org/abs/2607.12257",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 15 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.12257v1 Announce Type: new \nAbstract: On-device research agents search a corpus, read sources, and write a cited brief on a personal laptop. Whether their citations are faithful, and at what cost, is unmeasured for a deployable small model. This study fixes one 4B generator on a 24 GB laptop and asks what makes its citations faithful. It separates two quantities usually reported as one number. Cited claim faithfulness asks whether the cited source supports the claim. Trustworthy cover",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "RAG",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "PM-Bench: Evaluating Prospective Memory in LLM Agents",
+    "url": "https://arxiv.org/abs/2607.12385",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 15 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.12385v1 Announce Type: new \nAbstract: A significant challenge in agentic AI is prospective memory: the ability to execute an intention at a specific future cue or state while other activities are ongoing. We introduce PM-Bench, a text-based benchmark for measuring prospective memory capabilities in modern LLM agents. Inspired by the Virtual Week paradigm from cognitive science, PM-Bench evaluates how well LLM agents maintain user intentions, execute delayed intentions, and monitor lat",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "memory"
+    ]
+  },
+  {
+    "title": "Agentic Service-Oriented Computing: A Manifesto for the Next Frontier of Service-Oriented Computing",
+    "url": "https://arxiv.org/abs/2607.12619",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 15 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.12619v1 Announce Type: new \nAbstract: The rapid emergence of LLM-powered autonomous and semi-autonomous agents is reshaping software systems from static, request-response components into goal-directed, adaptive, and tool-using computational actors. As these agents move from isolated cognitive prototypes into complex distributed workflows, they confront challenges that the Service-Oriented Computing community has studied for more than two decades: composition, interoperability, quality",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "workflow",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "Tracing Agentic Failure from the Flow of Success",
+    "url": "https://arxiv.org/abs/2607.12747",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 15 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.12747v1 Announce Type: new \nAbstract: Failure attribution for LLM-based agentic systems, i.e., identifying which steps in a failure trajectory caused the task to fail, is critical for debugging and improving these systems. Existing approaches either rely on prompting-based pipelines, which are computationally expensive, or require post-training on failure trajectories with step-level error annotations, which are costly to collect and difficult to scale. We argue that a practical failu",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Do We Really Need Multimodal Emotion Language Models Larger Than 1B Parameters?",
+    "url": "https://arxiv.org/abs/2607.12787",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 15 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.12787v1 Announce Type: new \nAbstract: Recent advances in multimodal large language models (MLLMs) have significantly improved the performance of multimodal emotion recognition (MER) and enabled interpretable description generation by jointly modeling video, audio, and language, etc. However, these performance improvements are often accompanied by an increase in model parameter size (e.g, at least 7B), which simultaneously incurs high computational costs and reduces inference efficienc",
+    "score": 8.0,
+    "keywords_matched": [
+      "LLM",
+      "language model",
+      "multimodal",
+      "inference"
+    ]
+  },
+  {
+    "title": "Compos3D: Interactive Part-Based Composition for Creative Control in Generative 3D Models",
+    "url": "https://arxiv.org/abs/2607.12193",
+    "source": "arXiv cs.HC",
+    "published_at": "Wed, 15 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.12193v1 Announce Type: new \nAbstract: While generative AI has unlocked new opportunities for 3D content creation, current workflows often rely on multiple regenerations, which provides limited control and unpredictable outcomes. We present Compos3D, a system that introduces a compositional workflow for generative 3D modeling through remixing. Instead of repeatedly regenerating models, users generate multiple candidates from text or image prompts, select parts of interest via 2D image ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "workflow",
+      "prompt",
+      "generative"
+    ]
+  },
+  {
+    "title": "SheetMind: An End-to-End LLM-Powered Multi-Agent Framework for Spreadsheet Automation",
+    "url": "https://arxiv.org/abs/2506.12339",
+    "source": "arXiv cs.HC",
+    "published_at": "Wed, 15 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2506.12339v2 Announce Type: replace \nAbstract: We present SheetMind, a modular multi-agent framework powered by large language models (LLMs) for spreadsheet automation via natural language instructions. In this paper, we introduce a hierarchical agentic system consisting of three specialized agents: Manager Agent that decomposes complex user instructions into subtasks; an Action Agent that translates these into structured commands using a Backus-Naur Form (BNF) grammar; and a Reflection Ag",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "automation",
+      "language model"
+    ]
+  },
+  {
+    "title": "Continual Learning with Elastic Regularization and Synthetic Replay for Federated MLLM Fine-Tuning",
+    "url": "https://arxiv.org/abs/2607.12112",
+    "source": "arXiv cs.LG",
+    "published_at": "Wed, 15 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.12112v1 Announce Type: new \nAbstract: Federated fine-tuning of Multimodal Large Language Models (MLLMs) across distributed networks enables privacy-sensitive adaptation to evolving data streams, yet a fundamental obstacle prevents robust deployment in dynamic environments: catastrophic forgetting, wherein sequential task updates erase previously acquired knowledge across visual, linguistic, and cross-modal representations. Addressing this challenge is especially critical for autonomou",
+    "score": 8.0,
+    "keywords_matched": [
+      "LLM",
+      "language model",
+      "multimodal",
+      "fine-tuning"
+    ]
+  },
+  {
+    "title": "Shubhamsaboo / awesome-llm-apps",
+    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship. [1,236 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "RAG"
+    ]
+  },
+  {
+    "title": "mcp-use / mcp-use",
+    "url": "https://github.com/mcp-use/mcp-use",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents. [19 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "GPT"
+    ]
+  },
+  {
+    "title": "mksglu / context-mode",
+    "url": "https://github.com/mksglu/context-mode",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. [40 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "context window",
+      "memory"
+    ]
+  }
+]

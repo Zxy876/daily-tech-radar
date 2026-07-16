@@ -1,0 +1,302 @@
+{
+  "date": "2026-07-16",
+  "candidates": [
+    {
+      "title": "Cost-Governed RAG: Unified Per-Tenant Cost Attribution Across Retrieval and Generation in Multi-Tenant LLM Systems",
+      "url": "https://arxiv.org/abs/2607.12188",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 15 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.12188v1 Announce Type: new \nAbstract: Enterprise Retrieval-Augmented Generation (RAG) deployments face a critical governance gap: while LLM generation cost is metered per token, the retrieval layer - vector memory, similarity compute, and embedding API calls - remains an unattributed shared cost, enabling invisible cross-subsidization among tenants. We present Cost-Governed RAG, an architecture that integrates a codebook-oblivious vector index (TurboVec) with a multi-tenant LLM govern",
+      "score": 14.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "RAG",
+        "embedding",
+        "vector",
+        "memory",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "PFAdapter: Hierarchical LoRA Decomposition for Personalized Federated MLLMs",
+      "url": "https://arxiv.org/abs/2607.12111",
+      "source": "arXiv cs.LG",
+      "published_at": "Wed, 15 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.12111v1 Announce Type: new \nAbstract: Agentic AI systems are reshaping communications and networking by deploying autonomous intelligent agents capable of collaborative learning while maintaining data privacy at network edges. Within distributed network environments, Multimodal Large Language Models (MLLMs) serve as cognitive engines for edge devices, yet federated fine-tuning faces substantial challenges in balancing global knowledge aggregation with local adaptation under heterogene",
+      "score": 14.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "autonomous",
+        "multimodal",
+        "fine-tuning"
+      ]
+    },
+    {
+      "title": "LLMs Can See the Smoke but not the Fire: Evaluating Abductive Reasoning with Elenchos",
+      "url": "https://arxiv.org/abs/2607.12733",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 15 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.12733v1 Announce Type: new \nAbstract: Large language models (LLMs) excel at pattern recognition and text generation, but their capacity for abductive inference - inferring latent hypotheses that explain observed behavior - remains poorly understood. Here, we introduce Elenchos (named after the Socratic method of cross-examination), a generative evaluation framework that measures abductive reasoning as a structural inverse problem. Given a reference formal system, such as the lambda-ca",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "inference",
+        "reasoning",
+        "generative"
+      ]
+    },
+    {
+      "title": "Isolation as a First-Class Principle for LLM-Agent System Safety: Concepts, Taxonomy, Challenges and Future Directions",
+      "url": "https://arxiv.org/abs/2607.12406",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 15 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.12406v1 Announce Type: new \nAbstract: The capability of LLM agents to function as the ``brain'' of a system fundamentally expands the scope of analysis beyond a standalone model. Consequently, safety is no longer only about input--output content alignment. It also concerns system behavior and real-world execution outcomes. However, the current literature is fragmented across attack types, applications, and benchmarks. This makes it hard to explain why failures such as prompt injection",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "RAG",
+        "prompt"
+      ]
+    },
+    {
+      "title": "LiteTopK: Exploiting the Curse of Dimensionality for a Fused Indexer-TopK Kernel in Long-Context Sparse Attention",
+      "url": "https://arxiv.org/abs/2607.11976",
+      "source": "arXiv cs.LG",
+      "published_at": "Wed, 15 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.11976v1 Announce Type: new \nAbstract: Indexer-TopK, the operation to compute the scores and select the top-k candidates, is widely used by sparse attention kernels in large language models and vector retrieval in recommendation systems and vector databases. However, existing GPU-based Indexer-TopK kernels like DeepSeek Sparse Attention (DSA) remain inefficient due to excessive global memory traffic, costly synchronization, and prohibitive memory overhead. In this work, we exploit the ",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "language model",
+        "vector",
+        "memory",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "An Agentic AI Scientific Community for Automated Neural Operator Discovery",
+      "url": "https://arxiv.org/abs/2607.12122",
+      "source": "arXiv cs.LG",
+      "published_at": "Wed, 15 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.12122v1 Announce Type: new \nAbstract: We present an agentic approach to autonomous neural operator discovery based on an AI scientific community, which consists of a swarm of virtual laboratories that interact under a citation-based economy of influence. Highly-cited labs found new labs that follow their research direction and replace non-performing labs. Each virtual lab contains three agents: an LLM planner that proposes an architecture, a numerical worker that trains and measures i",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "neural",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "raroque / boop-agent",
+      "url": "https://github.com/raroque/boop-agent",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "iMessage personal agent: choose Claude Agent SDK (Claude Code) or Codex app-server runtime (Codex/ChatGPT), with memory, sub-agents, automations, integrations. [37 stars today]",
+      "score": 10.0,
+      "keywords_matched": [
+        "agent",
+        "Claude",
+        "automation",
+        "GPT",
+        "memory"
+      ]
+    },
+    {
+      "title": "In-Context Reinforcement Learning under Non-Stationarity: A Survey",
+      "url": "https://arxiv.org/abs/2607.11906",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 15 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.11906v1 Announce Type: new \nAbstract: The development of decision-pretrained transformers, algorithm distillation, long-context meta-RL, and retrieval-augmented agents has renewed interest in in-context reinforcement learning (ICRL): the ability of a pretrained or fine-tuned decision model to infer latent task rules and improve future behavior from interaction context, without test-time parameter updates. This line of work asks when trial-and-error evidence, rewards, transitions, demo",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "transformer",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Graph Feedback Controls Consensus and Clique Formation in Open-Weight Language-Model Populations",
+      "url": "https://arxiv.org/abs/2607.12077",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 15 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.12077v1 Announce Type: new \nAbstract: Multi-agent language-model systems increasingly route local interactions, yet the runtime interaction graph is often treated as an implementation detail. We study convention formation in open-weight LM populations spanning 1.1B-32B parameters with a naming-game protocol. Restricted first-token scores over tokenizer-safe labels let us measure prompt-conditioned score-state distributions, construct state-similarity graphs, and separate sampled-label",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "game",
+        "prompt"
+      ]
+    },
+    {
+      "title": "On-Device Deep Research at 4B: Exposure Bounds Faithfulness, Retrieval Bounds Coverage",
+      "url": "https://arxiv.org/abs/2607.12257",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 15 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.12257v1 Announce Type: new \nAbstract: On-device research agents search a corpus, read sources, and write a cited brief on a personal laptop. Whether their citations are faithful, and at what cost, is unmeasured for a deployable small model. This study fixes one 4B generator on a 24 GB laptop and asks what makes its citations faithful. It separates two quantities usually reported as one number. Cited claim faithfulness asks whether the cited source supports the claim. Trustworthy cover",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "RAG",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "PM-Bench: Evaluating Prospective Memory in LLM Agents",
+      "url": "https://arxiv.org/abs/2607.12385",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 15 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.12385v1 Announce Type: new \nAbstract: A significant challenge in agentic AI is prospective memory: the ability to execute an intention at a specific future cue or state while other activities are ongoing. We introduce PM-Bench, a text-based benchmark for measuring prospective memory capabilities in modern LLM agents. Inspired by the Virtual Week paradigm from cognitive science, PM-Bench evaluates how well LLM agents maintain user intentions, execute delayed intentions, and monitor lat",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "memory"
+      ]
+    },
+    {
+      "title": "Agentic Service-Oriented Computing: A Manifesto for the Next Frontier of Service-Oriented Computing",
+      "url": "https://arxiv.org/abs/2607.12619",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 15 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.12619v1 Announce Type: new \nAbstract: The rapid emergence of LLM-powered autonomous and semi-autonomous agents is reshaping software systems from static, request-response components into goal-directed, adaptive, and tool-using computational actors. As these agents move from isolated cognitive prototypes into complex distributed workflows, they confront challenges that the Service-Oriented Computing community has studied for more than two decades: composition, interoperability, quality",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "workflow",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "Tracing Agentic Failure from the Flow of Success",
+      "url": "https://arxiv.org/abs/2607.12747",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 15 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.12747v1 Announce Type: new \nAbstract: Failure attribution for LLM-based agentic systems, i.e., identifying which steps in a failure trajectory caused the task to fail, is critical for debugging and improving these systems. Existing approaches either rely on prompting-based pipelines, which are computationally expensive, or require post-training on failure trajectories with step-level error annotations, which are costly to collect and difficult to scale. We argue that a practical failu",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "prompt"
+      ]
+    },
+    {
+      "title": "Do We Really Need Multimodal Emotion Language Models Larger Than 1B Parameters?",
+      "url": "https://arxiv.org/abs/2607.12787",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 15 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.12787v1 Announce Type: new \nAbstract: Recent advances in multimodal large language models (MLLMs) have significantly improved the performance of multimodal emotion recognition (MER) and enabled interpretable description generation by jointly modeling video, audio, and language, etc. However, these performance improvements are often accompanied by an increase in model parameter size (e.g, at least 7B), which simultaneously incurs high computational costs and reduces inference efficienc",
+      "score": 8.0,
+      "keywords_matched": [
+        "LLM",
+        "language model",
+        "multimodal",
+        "inference"
+      ]
+    },
+    {
+      "title": "Compos3D: Interactive Part-Based Composition for Creative Control in Generative 3D Models",
+      "url": "https://arxiv.org/abs/2607.12193",
+      "source": "arXiv cs.HC",
+      "published_at": "Wed, 15 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.12193v1 Announce Type: new \nAbstract: While generative AI has unlocked new opportunities for 3D content creation, current workflows often rely on multiple regenerations, which provides limited control and unpredictable outcomes. We present Compos3D, a system that introduces a compositional workflow for generative 3D modeling through remixing. Instead of repeatedly regenerating models, users generate multiple candidates from text or image prompts, select parts of interest via 2D image ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "workflow",
+        "prompt",
+        "generative"
+      ]
+    },
+    {
+      "title": "SheetMind: An End-to-End LLM-Powered Multi-Agent Framework for Spreadsheet Automation",
+      "url": "https://arxiv.org/abs/2506.12339",
+      "source": "arXiv cs.HC",
+      "published_at": "Wed, 15 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2506.12339v2 Announce Type: replace \nAbstract: We present SheetMind, a modular multi-agent framework powered by large language models (LLMs) for spreadsheet automation via natural language instructions. In this paper, we introduce a hierarchical agentic system consisting of three specialized agents: Manager Agent that decomposes complex user instructions into subtasks; an Action Agent that translates these into structured commands using a Backus-Naur Form (BNF) grammar; and a Reflection Ag",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "automation",
+        "language model"
+      ]
+    },
+    {
+      "title": "Continual Learning with Elastic Regularization and Synthetic Replay for Federated MLLM Fine-Tuning",
+      "url": "https://arxiv.org/abs/2607.12112",
+      "source": "arXiv cs.LG",
+      "published_at": "Wed, 15 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.12112v1 Announce Type: new \nAbstract: Federated fine-tuning of Multimodal Large Language Models (MLLMs) across distributed networks enables privacy-sensitive adaptation to evolving data streams, yet a fundamental obstacle prevents robust deployment in dynamic environments: catastrophic forgetting, wherein sequential task updates erase previously acquired knowledge across visual, linguistic, and cross-modal representations. Addressing this challenge is especially critical for autonomou",
+      "score": 8.0,
+      "keywords_matched": [
+        "LLM",
+        "language model",
+        "multimodal",
+        "fine-tuning"
+      ]
+    },
+    {
+      "title": "Shubhamsaboo / awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship. [1,236 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "RAG"
+      ]
+    },
+    {
+      "title": "mcp-use / mcp-use",
+      "url": "https://github.com/mcp-use/mcp-use",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents. [19 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "title": "mksglu / context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. [40 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "context window",
+        "memory"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-07-16\n\n作为你的“疯狂发明家技术雷达”，我为你筛选了今天最具启发性、最怪异且最可落地的 5 篇技术情报。今天的内容完美覆盖了你关注的 **AI 工作流、游戏/世界生成、HCI、创意工具和 Agent 架构**。\n\n以下是今日的精选雷达报告：\n\n---\n\n## 1. context-mode: 针对 AI 编码 Agent 的上下文窗口极限优化器\n- **来源**：GitHub Trending\n- **链接**：https://github.com/mksglu/context-mode\n- **一句话解释**：一个专为 AI 编码 Agent 设计的上下文沙盒工具，能将工具输出的上下文占用减少 98%，并通过 MCP（Model Context Protocol）跨 17 个平台强制执行路由和会话记忆。\n- **它为什么重要**：在 Spec-driven development（规范驱动开发）中，Agent 频繁调用终端、读取文件，会产生海量的冗余日志，瞬间撑爆 LLM 的上下文窗口，导致 Agent “变傻”或费用暴增。这个项目通过“沙盒化过滤”和“记忆持久化”，直击 AI 自动化的痛点。\n- **技术趋势标签**：#LLM工具链 #MCP #上下文优化 #自动化开发\n- **可复用模式**：**“动态上下文压缩门禁”** —— 拦截 Agent 的 Tool Output，只保留结构化摘要（如：将 1000 行报错压缩为“编译失败：第 12 行语法错误”），仅在 LLM 明确要求时展开详情。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：写一个本地 Python 脚本拦截器，当你运行 `npm run dev` 时，如果报错，用最便宜的 LLM 将 500 行终端报错压缩成 3 行核心语义，再喂给你的 AI 编程助手。\n  2. **一个中型项目**：**\"Spec-Diff 极简开发流\"**：一个基于 MCP 的本地开发代理，它不读取你的整个代码库，而是只维护一个 `.spec.md` 文件和一个“当前代码受损区”的极简上下文，实现超低成本的自动迭代。\n  3. **一个艺术/游戏/叙事方向**：**\"金鱼记忆的叙事 NPC\"**：利用这个压缩机制，给游戏 NPC 设计一个“极简短期记忆沙盒”。NPC 只能记住过去 3 句话的字面意思，但拥有一个高度压缩的“情感/印象变化曲线”，测试玩家如何在极短上下文约束下与 NPC 建立深层关系。\n- **对我项目的启发**：在构建你自己的自动化工具链时，不要直接把 Tool Output 塞给 Agent。设计一个“信息过滤器（Middleware）”是降低成本、提高 Agent 智商的最快手段。\n- **今天是否值得深入研究**：是\n- **建议行动**：试用 / 读一读它压缩上下文的源码实现。\n\n---\n\n## 2. PM-Bench: 评估 LLM Agent 的“前瞻性记忆”（Prospective Memory）\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2607.12385\n- **一句话解释**：提出了一个评估 Agent “前瞻性记忆”的基准——即 Agent 能否在执行其他任务的同时，记住在未来的某个“特定触发点/状态”去执行某个预设意图（例如：“当我看到红灯时，提醒我刹车”）。\n- **它为什么重要**：现在的 Agent 大多是“反应式”的（问一句答一句，或者按顺序执行步骤）。在游戏开发或复杂工作流中，我们需要 Agent 具有**主动性**——在后台默默观察世界状态，并在特定时机“惊醒”执行任务。\n- **技术趋势标签**：#Agent架构 #游戏AI #前瞻性记忆 #状态机\n- **可复用模式**：**“意图挂起与异步触发器（Deferred Intention Loop）”** —— 将 Agent 的“长期目标”注册到后台监听队列中，不占用当前的推理 Context，直到环境状态（State）匹配触发器条件。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：在 Python 中写一个“拖延症 Agent”。给它一个主任务（比如写一篇文章），同时植入一个前瞻记忆：“如果系统 CPU 使用率超过 80%，立刻停下工作，并发送一句安慰我的话”。\n  2. **一个中型项目**：**\"Minecraft 潜意识代理\"**：在 Minecraft 中让 Agent 去挖矿，但给它植入前瞻记忆（如：“如果听到苦力怕的声音，立刻放弃挖矿，向反方向跑 10 格”）。测试这种“双轨制（主任务+后台前瞻任务）”对生存率的提升。\n  3. **一个艺术/游戏/叙事方向**：**\"梦境与现实的编织者\"**：一个互动叙事游戏，NPC 有一堆“未完成的心愿”（前瞻记忆）。玩家在与 NPC 闲聊（主任务）时，必须通过语言或环境道具无意间触发这些 NPC 的“心愿触发器”，解开他们的心结。\n- **对我项目的启发**：不要试图在一个 Prompt 里让 Agent 记住所有未来的可能性。应该把“环境监测”和“逻辑推理”解耦，用轻量级的“事件触发器”来唤醒重度的 Agent 推理。\n- **今天是否值得深入研究**：是\n- **建议行动**：做 demo。\n\n---\n\n## 3. Compos3D: 基于局部组合的交互式 3D 生成控制系统\n- **来源**：arXiv cs.HC\n- **链接**：https://arxiv.org/abs/2607.12193\n- **一句话解释**：一个 3D 生成的 HCI 界面，允许用户通过“拼贴/组合”不同的局部 3D 模型（如把 A 的翅膀接到 B 的身体上）来控制生成，而不是一遍遍盲盒式地重新输入 Prompt。\n- **它为什么重要**：它打破了“Text-to-3D”的黑盒。对设计师和艺术家来说，“无脑重画”是痛苦的，“局部微调与拼贴（Remixing）”才是真正的创作工作流。\n- **技术趋势标签**：#HCI #创意工具 #3D生成 #Spec-driven-Design\n- **可复用模式**：**“结构化拼贴生成（Compositional Generation）”** —— 将一个复杂实体拆解为“语义部件”（Parts），用户在 3D 空间中手动拼接这些部件的边界框（Bounding Box），AI 负责在连接处进行“无缝融合（Blending）”。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：利用现有的 2D 图像生成 API（如 Stable Diffusion Inpaint），做一个极简的 Web 界面：用户把两张图拼在一起，AI 自动在交界处画出融合带，实现“缝合怪生成”。\n  2. **一个中型项目**：**\"Minecraft 奇幻建筑合成器\"**：一个 Web 界面，玩家可以把“哥特式塔尖”和“科幻风底座”用方块粗糙地拼在一起，系统调用 LLM-structured output 自动生成融合后的全新 Minecraft 建筑 schema。\n  3. **一个艺术/游戏/叙事方向**：**\"合成兽博物志\"**：一个艺术装置，观众可以通过物理积木拼接不同的动物部位（如鸟头、鱼尾、马身），传感器识别结构后，实时生成带有详细生态习性描述的 3D 奇幻生物并投射在墙上。\n- **对我项目的启发**：在设计 AI 辅助的创作工具时，**“组合（Compose）”永远比“生成（Generate）”更能带给用户掌控感。**\n- **今天是否值得深入研究**：是\n- **建议行动**：试用 / 收藏（这个交互范式极其适合你的跨学科背景）。\n\n---\n\n## 4. Agentic AI 科学社区：基于“引用经济学”的自主神经网络发现\n- **来源**：arXiv cs.LG\n- **链接**：https://arxiv.org/abs/2607.12122\n- **一句话解释**：构建了一个由虚拟实验室（Agent）组成的“学术社区”，它们在一个基于“引用次数”的虚拟经济体系中互动——高引用的实验室能获得资金建立分支，不合规的会被淘汰，以此来自主进化出最优秀的神经网络。\n- **它为什么重要**：这是一种全新的多 Agent 演化范式。它不是简单的“投票”或“辩论”，而是引入了**“社会学/经济学机制”**（引用、优胜劣汰、资金分配）来驱动 Agent 社区自我迭代。\n- **技术趋势标签**：#Agent社会学 #生成式系统 #仿真模拟 #游戏系统\n- **可复用模式**：**“声誉经济演化（Reputation-based Evolution）”** —— Agent 之间不进行中心化评判，而是通过“互相消费对方的产出并给予信用点”来决定谁能存活。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：用 Python 写 5 个“写诗 Agent”和 1 个“读者 Agent群”。写诗 Agent 互相阅读、引用对方的句子，并根据“读者喜欢程度”获得代币。代币归零的 Agent 被淘汰，代币多的 Agent 可以“分裂”出带有自己文风的新 Agent。\n  2. **一个中型项目**：**\"自主演化的 Minecraft 建筑行会\"**：在服务器里放 10 个建筑 Agent，它们根据“村民（NPC）”的赞赏度获得虚拟资金。Agent 可以雇佣其他 Agent 帮自己建房子，或者购买其他 Agent 的设计图纸（引用），观察几百个世代后会诞生什么建筑风格。\n  3. **一个艺术/游戏/叙事方向**：**\"赛博学术八股生成器\"**：一个讽刺艺术项目。模拟一个由 100 个 AI 学术 Agent 组成的社区，它们疯狂地互相引用、造词、发水论文，玩家可以作为“学术打假人”介入，看看需要多久能让这个虚假学术泡沫破裂。\n- **对我项目的启发**：让 Agent 变强的最好方法，不是给它更好的 Prompt，而是给它们设计一套**“社会游戏规则”**，让它们在互相竞争中涌现出智能。\n- **今天是否值得深入研究**：否（偏理论，但机制极酷，可作为灵感储备）。\n- **建议行动**：收藏。\n\n---\n\n## 5. 开放权重语言模型群体中的图反馈、共识与派系形成（Naming Game）\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2607.12077\n- **一句话解释**：研究了多个 LLM Agent 在进行“命名游戏（Naming Game）”时，如何通过局部互动，在群体中自发形成“语言共识”或分裂成不同的“语言派系（Cliques）”。\n- **它为什么重要**：它证明了多 Agent 系统会像人类社会一样，因为交互拓扑结构的不同，产生“方言”、“黑话”甚至“群体极化”。\n- **技术趋势标签**：#多Agent系统 #语言涌现 #社会网络 #游戏系统\n- **可复用模式**：**“局部共识传播（Local Consensus Propagation）”** —— Agent 只与图结构中相邻的邻居通信，通过妥协和妥协反馈，最终在全网或局部达成某种符号共识。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：让 3 个 LLM 扮演“原始人”，给它们看一张“火”的图片。不允许它们用现代汉语，让它们通过多轮对话，自发协商出一个代表“火”的新单词（比如“呜呼”），并用这个新词进行后续交流。\n  2. **一个中型项目**：**\"黑话生成器（Slang Generator）\"**：一个模拟社区，Agent 在其中讨论不同的社会议题。由于社交网络图的隔离，A 圈子自发形成了用“小红”代表“危险”的黑话，B 圈子形成了用“小蓝”代表“危险”。玩家作为一个旅行者，必须通过和不同圈子聊天，绘制出他们的“黑话字典”。\n  3. **一个艺术/游戏/叙事方向**：**\"巴别塔的余晖\"**：一个多人在线艺术游戏。玩家进入一个由 AI 占领的废土世界。不同的 AI 区域因为长期不通信，已经演化出了完全不同的“机器方言”。玩家需要扮演翻译官，在不同的 AI 部落之间传递信息，阻止战争。\n- **对我项目的启发**：在做世界生成或 NPC 系统时，不要给所有 NPC 共享同一个全局知识库。给他们不同的“社交关系图”，他们就会自发产生“八卦”、“误解”和“文化差异”，这会让游戏世界真实百倍。\n- **今天是否值得深入研究**：是\n- **建议行动**：做demo。\n\n---\n\n## 今日模式总结\n\n今天我们看到了三个强大的技术模式交叉：\n1. **上下文精简与沙盒化（Context Sandboxing）**：不再把原始数据直接喂给 Agent，而是在中间件层进行“语义压缩”与“状态暂存”，极大地释放了小模型或长任务的潜力。\n2. **前瞻性异步记忆（Prospective Asynchronous Memory）**：将 Agent 从“主动轮询”解放出来，通过引入“事件触发器-意图挂起”机制，让 Agent 具备了在未来特定时机苏醒的能力。\n3. **群体演化与社会学反馈（Social Agent Dynamics）**：利用经济学（引用、代币）和拓扑学（社交图谱）机制，让多 Agent 群体在没有人类干预的情况下，自主涌现出文化、语言共识和优胜劣汰。\n\n---\n\n## 今日可做小实验：2 小时极速挑战\n\n### 项目名：赛博管家的“前瞻备忘录”（The Prospective Butler）\n\n*   **输入**：\n    1. 用户的日常对话流（例如：“我今天下午 3 点要去开会”、“如果外面下雨了，记得提醒我收衣服”）。\n    2. 一个模拟的“环境状态流”（每 10 秒更新一次时间、天气和 CPU 状态）。\n*   **输出**：\n    当环境状态满足用户的“前瞻性指令”时，Agent 自动弹窗中断当前对话，执行提醒。\n*   **技术栈**：\n    *   Python 3.10+\n    *   `LiteLLM` 或 `OpenAI` SDK（使用 GPT-4o-mini 或 Claude 3.5 Haiku 即可，成本极低）\n    *   `Pydantic`（用于结构化输出提取）\n*   **第一步怎么做**：\n    1. **创建 `memory_pool.json`**：用来存放被挂起的意图。格式如下：\n       ```json\n       [\n         {\"id\": 1, \"intent\": \"提醒收衣服\", \"trigger_condition\": \"天气 == 雨\", \"status\": \"pending\"}\n       ]\n       ```\n    2. **编写“意图提取器（Extractor）”**：写一个 Prompt，让 LLM 分析用户的输入。如果用户提到了“如果...就...”、“等...的时候提醒我”，就使用 Pydantic 提取出 `intent` 和 `trigger_condition`，并写入 `memory_pool.json`。\n    3. **编写“环境轮询器（Ticker）”**：写一个简单的循环，每隔 5 秒随机改变一下虚拟环境状态（如：晴天 -> 下雨），并把当前状态和 `memory_pool.json` 里的 `trigger_condition` 一起发给一个极小的 LLM，问它：“当前状态是否满足触发条件？只需回答是或否”。\n    4. **触发唤醒**：如果回答“是”，控制台打印大大的红色警报：“【赛博管家惊醒！】：主人，外面下雨了，快收衣服！”\n\n这个实验能让你瞬间理解 **HCI 中的主动性 Agent 设计**，并且可以直接扩展到你的 Minecraft 机器人或自动化工作流中！快去试试吧！",
+  "gemini_success": true,
+  "telegram_sent": false,
+  "telegram_status": "failed",
+  "telegram_reason": "400 Client Error: Bad Request for url: https://api.telegram.org/bot8650722899:AAHUD-aqNDB7NwiPiGq3R22MVp77Cr_5GEQ/sendMessage"
+}
