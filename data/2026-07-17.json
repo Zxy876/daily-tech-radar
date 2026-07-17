@@ -1,0 +1,299 @@
+{
+  "date": "2026-07-17",
+  "candidates": [
+    {
+      "title": "Experience Memory Graph: One-Shot Error Correction for Agents",
+      "url": "https://arxiv.org/abs/2607.13884",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 16 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.13884v1 Announce Type: new \nAbstract: Large Language Model (LLM) agents have shown remarkable capabilities in autonomous decision-making by generating sequential trajectories of states, actions, and observations. However, in complex, long-horizon tasks, these agents frequently suffer from compounding errors and struggle to recover from failures. Existing self-correction mechanisms rely on prompt-based reflection, which is inherently brittle, incurs heavy time and API costs due to iter",
+      "score": 14.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "autonomous",
+        "prompt",
+        "memory"
+      ]
+    },
+    {
+      "title": "Improving Molecular Property Prediction in Small Language Models Using Graph-based Tools",
+      "url": "https://arxiv.org/abs/2607.13115",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 16 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.13115v1 Announce Type: new \nAbstract: Small language models (SLMs) have shown promise for zero-shot molecular property prediction from SMILES strings, yet they often suffer from structural blindness because sequence representations under-specify key graph-topological cues. We propose a modular Context-Augmented Prompting framework that enables agentic tool use at inference time: a trained GNN expert model provides a predictive hint with confidence, and a GNN extracts an instance-speci",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "language model",
+        "tool use",
+        "inference",
+        "prompt"
+      ]
+    },
+    {
+      "title": "AgentCompass: A Unified Evaluation Infrastructure for Agent Capabilities",
+      "url": "https://arxiv.org/abs/2607.13705",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 16 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.13705v1 Announce Type: new \nAbstract: As Large Language Models (LLMs) evolve into autonomous agents, the need for unified evaluation infrastructure becomes critical. However, current evaluation pipelines remain highly fragmented and tightly coupled, hindering reproducibility and causing redundant engineering. To address this, we introduce AgentCompass, an open-source, lightweight, and extensible infrastructure for evaluating LLM-based agents. AgentCompass organizes the evaluation proc",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "autonomous",
+        "RAG"
+      ]
+    },
+    {
+      "title": "Oracle Agent Memory as an Enterprise Memory Substrate for Long-Horizon AI Agents",
+      "url": "https://arxiv.org/abs/2607.13157",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 16 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.13157v1 Announce Type: new \nAbstract: Agent memory is a systems problem for long-horizon agents. Practical deployments require retention of task state across extended conversations, recovery of user-specific facts and preferences across sessions, and accumulation of procedural knowledge from prior outcomes. These requirements extend beyond document retrieval: a memory layer must determine which interactions become durable state, how that state is scoped, how it is retrieved under late",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "memory",
+        "retrieval",
+        "procedural"
+      ]
+    },
+    {
+      "title": "TANDE: Disentangling Verbal and Nonverbal Backchannels in Emotional AI-Avatar Conversations with Young Adults",
+      "url": "https://arxiv.org/abs/2607.13357",
+      "source": "arXiv cs.HC",
+      "published_at": "Thu, 16 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.13357v1 Announce Type: new \nAbstract: Embodied conversational agents (ECAs) need effective empathic grounding to foster social support and engagement. Expanding into emotional domains, ECAs now use Large Language Models (LLMs) and multimodal human-agent interactions to enhance their capabilities. Yet, understanding the impact of backchanneling modalities on young adults and their gender remains limited. We introduce TANDE, an LLM-powered ECA designed for emotional conversations with y",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "multimodal"
+      ]
+    },
+    {
+      "title": "Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System",
+      "url": "https://arxiv.org/abs/2607.13370",
+      "source": "arXiv cs.HC",
+      "published_at": "Thu, 16 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.13370v1 Announce Type: cross \nAbstract: This paper is an extension of a paper presented at the ICAART 2026 conference, which introduced LEA (Learning Engagement Assistant), an adaptive AI tutoring agent combining course-specific Retrieval-Augmented Generation (RAG) with structured Knowledge Component (KC) models across integrated Chat, Tutor, and Quiz modes. That prior work validated LEA on a single STEM course (CMP511) exclusively through simulation, using synthetic learner agents. T",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "simulation",
+        "RAG",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "An Explainable Agentic System for Detection of Conversational Scams with Summary-Based Memory",
+      "url": "https://arxiv.org/abs/2607.11707",
+      "source": "arXiv cs.HC",
+      "published_at": "Thu, 16 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.11707v2 Announce Type: replace-cross \nAbstract: Following the rapid progress of generative Artificial Intelligence, there is a growing threat posed by conversational scams. These scams often span over multiple weeks or months, gradually build trust and request for money or sensitive information. Existing scam-detection systems mainly focus on isolated messages, which renders them inadequate against this evolving threat. This paper extends single-message phishing detection and presents",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "generative art",
+        "memory",
+        "generative"
+      ]
+    },
+    {
+      "title": "Interventional Grounding Audits: Black-Box Premise-Dependency Tests for LLM Chain-of-Thought via Predicate Substitution",
+      "url": "https://arxiv.org/abs/2607.13069",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 16 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.13069v1 Announce Type: new \nAbstract: Large language models produce chain-of-thought (CoT) reasoning that appears logically sound yet may not genuinely depend on its stated premises. We introduce interventional grounding audits, a black-box, step-level test of premise dependency: we intervene on a single premise by substituting its target predicate with a fresh symbol, re-run the model, and check whether each reasoning step's normalized conclusion (canonical predicate form) changes. W",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Networked Intelligence: Active Shared Context Graphs for Human-AI Team Science",
+      "url": "https://arxiv.org/abs/2607.13220",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 16 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.13220v1 Announce Type: new \nAbstract: Most AI-for-science systems focus on scaling a single reasoning process through better models, larger context windows, long-horizon agentic execution, or digital co-scientists working with one principal user. However, challenging scientific problems are rarely solved by one reasoner alone. They are solved by teams whose members bring different priors, experimental backgrounds, tacit knowledge, and domain-trained intuitions. The open problem is the",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "context window",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "AI-Native Insurance for Agentic AI: Pricing, Underwriting, and End-to-End Automation",
+      "url": "https://arxiv.org/abs/2607.13230",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 16 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.13230v1 Announce Type: new \nAbstract: Agentic AI introduces new insurance challenges because autonomous AI systems can make decisions, invoke tools, modify external environments, and interact with third-party services. This paper develops an AI-native mathematical framework for underwriting, pricing, and contract design for agentic AI deployments. A deployment is represented by a risk state that captures autonomy level, operational authority, permission exposure, governance maturity, ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "automation",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "How Far Can Root Cause Analysis Go on Real-World Telemetry Data?",
+      "url": "https://arxiv.org/abs/2607.13548",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 16 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.13548v1 Announce Type: new \nAbstract: Identifying root causes in production microservice failures requires reasoning over large-scale, multimodal telemetry spanning metrics, logs, and traces, a problem that has proved resistant to both classical and LLM-based approaches. The OpenRCA dataset exemplifies these challenges: it is large-scale, multimodal, and lacks detailed domain knowledge, and yields consistently low accuracy across all existing methods. We show that classical causal dis",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "multimodal",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Multi-Agent Collaborative Reasoning with Tool-Augmented Evidence for Urban Region Profiling",
+      "url": "https://arxiv.org/abs/2607.13558",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 16 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.13558v1 Announce Type: new \nAbstract: Urban region profiling constitutes a core problem in urban computing, supporting applications such as population estimation, economic assessment, and environmental monitoring. Existing methods typically formulate this task as multimodal representation learning, fusing heterogeneous urban data, e.g., satellite imagery, points of interest, textual descriptions, and 3D building information, into latent embeddings for prediction. However, these approa",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "multimodal",
+        "embedding",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Automatic Ordinary Differential Equations Discovery For Biological Systems Using Large Language Model Powered Agentic System",
+      "url": "https://arxiv.org/abs/2607.13608",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 16 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.13608v1 Announce Type: new \nAbstract: Automatic scientific discovery has long been a goal of computational scholars - a machine that can discover nature's secrets on its own, moving computational systems beyond data-fitting tools toward the generation and refinement of mechanistic models of the universe. Recent advances in symbolic regression (SR) and large-language-model (LLM)-based agents suggest that such systems can recover equations from data, incorporate domain priors, and autom",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model"
+      ]
+    },
+    {
+      "title": "CAVA: Canonical Action Verification and Attestation for Runtime Governance of Agentic AI Systems",
+      "url": "https://arxiv.org/abs/2607.13716",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 16 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.13716v1 Announce Type: new \nAbstract: Agentic AI systems increasingly act through heterogeneous runtimes: local coding hooks, SDK tools, browser automation, managed-agent traces, API gateways, and workflow engines. A single operational act such as publishing code, changing identity state, moving money, or exporting data may therefore be represented by many incompatible runtime records. This makes a basic governance question difficult to answer: what action was actually approved, what ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "workflow",
+        "automation"
+      ]
+    },
+    {
+      "title": "Deep Interaction: An Efficient Human-AI Interaction Method for Large Reasoning Models",
+      "url": "https://arxiv.org/abs/2607.14049",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 16 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.14049v1 Announce Type: new \nAbstract: The emergence of Chain-of-Thought (CoT) reasoning has significantly enhanced the ability of large language models (LLMs) to tackle complex, multi-step tasks. However, when errors occur, current interaction approaches typically involve re-generating another response that may make mistakes again, or users laboriously flag the faulty step in follow-up turns that may get responses  followed by similar errors recurring. To address this issue, we propos",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Designing Safety-Constrained LLM Systems for Public Health Information Access",
+      "url": "https://arxiv.org/abs/2607.13038",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 16 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.13038v1 Announce Type: cross \nAbstract: We present the design and implementation of a safety constrained large language model (LLM) system for public health information access, focusing on maternal and child health (MCH) resource navigation. While LLM based systems offer flexible and natural interfaces for information retrieval, their deployment in healthcare contexts introduces risks related to safety, trust, and uncontrolled generation. This work explores practical design patterns f",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Uncertainty-Aware Sequential Decision Rules for Event-Triggered LLM Invocation in Streaming Systems",
+      "url": "https://arxiv.org/abs/2607.13048",
+      "source": "arXiv cs.LG",
+      "published_at": "Thu, 16 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.13048v1 Announce Type: new \nAbstract: Streaming inference pipelines increasingly pair lightweight fast models with Large Language Models (LLMs) that provide rich semantic understanding at substantial cost. The central question of when to invoke the LLM has received limited formal treatment. We cast this as a risk-based sequential stopping problem, where a trigger policy fires when a risk functional over the observation history exceeds a threshold. Within this framework, we prove six r",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "inference"
+      ]
+    },
+    {
+      "title": "Shubhamsaboo / awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship. [923 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "RAG"
+      ]
+    },
+    {
+      "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+      "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+      "source": "Hacker News",
+      "published_at": "Thu, 16 Jul 2026 20:03:23 +0000",
+      "description": "Article URL: https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6 Comments URL: https://news.ycombinator.com/item?id=48939524 Points: 120 # Comments: 128",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "title": "Probabilistic Extension of Neuro-Symbolic AGI Robots based on Belnap's Typed Intensional FOL",
+      "url": "https://arxiv.org/abs/2607.13073",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 16 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.13073v1 Announce Type: new \nAbstract: Neuro-symbolic AI based on $IFOL_B$ is a way to combine neural learning and symbolic reasoning to overcome limitations of purely neural systems (like lack of interpretability and logical structure) with formal logical machinery for self-reference. In this paper we expand the cognitive power of $IFOL_B$ by using the probability computation for the currently unknown sentences, based on Nilsson's probability structure for the $IFOL_B$. We introduce t",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "neural",
+        "reasoning"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-07-17\n\n这就是你的**疯狂发明家技术雷达**。今天我从 20 篇前沿学术与开源候选内容中，为你精选了 **4 条**最能激发灵感、最适合你跨学科背景（设计+CS）的硬核技术突破。\n\n今天的主题聚焦于：**如何拆解和干预 AI 的“思考过程”（CoT/Memory/Logic），并将其转化为全新的交互叙事与开发工具。**\n\n---\n\n## 1. Experience Memory Graph: 智能体的单样本纠错图谱\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2607.13884\n- **一句话解释**：当 Agent 在长任务中犯错时，不盲目重试，而是将失败轨迹绘制成“经验记忆图谱”（Memory Graph），在下一次遇到类似节点时实现“单样本（One-Shot）”瞬间纠错。\n- **它为什么重要**：现在的 Agent 遇到挫折往往会陷入死循环（比如反复执行同一个错误命令）。这个方法提供了一种轻量级的、无需微调的“挫折应对机制”，让 Agent 拥有真正的“记吃记记打”能力。\n- **技术趋势标签**：#Agent内存设计 #图结构记忆 #纠错机制 #长任务自动化\n- **可复用模式**：**“错误-节点重定向模式”**：将失败的“状态-动作”对存入图数据库（或轻量级 JSON 邻接表），在执行新动作前进行图检索，若匹配到曾失败的路径，则强行施加反向约束。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：写一个自动爬虫/自动化 Agent。当它点击某个按钮导致页面崩溃时，将该按钮的 CSS Selector 和“崩溃”标签存入本地 Graph。下次运行到同域名时，自动绕过该节点。\n  2. **一个中型项目**：**“Spec-driven 自动调试器”**。Agent 在生成代码并运行测试（Pytest）时，如果报错，不只是把 Error 喂给 LLM，而是将“修改前代码 -> 修改后代码 -> 依然报错”的关系建图。利用图算法找出“越改越错”的死胡同，强行命令 LLM 切换思路。\n  3. **一个艺术/游戏/叙事方向**：**“拥有创伤记忆的 NPC”**。在 Minecraft 或文字冒险游戏中，NPC 会将玩家对他们的“背叛”或“伤害行为”记录在空间/关系图谱中。NPC 不仅会记住仇恨，还会根据这个图谱“预判”玩家的阴谋并提前绕开玩家布置的陷阱。\n- **对我项目的启发**：在你的自动化或 Spec-driven 开发流中，不要只让 Agent 读 Spec，还要让它读一张 **“Bug 避坑图谱”**（从历史失败运行中自动生成的图）。\n- **今天是否值得深入研究**：是\n- **建议行动**：做 demo\n\n---\n\n## 2. Deep Interaction: 针对推理模型的微干预人机交互\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2607.14049\n- **一句话解释**：针对类似 o1/DeepSeek-R1 的推理模型（CoT），不再采用“等它想完/错了就重来”的黑盒交互，而是允许用户在模型生成思维链（Chain-of-Thought）的**任意一个中间步骤**进行实时暂停、修改和重定向。\n- **它为什么重要**：它重新定义了推理模型时代的 HCI（人机交互）。未来的 Prompting 不是“写一段话然后祈祷”，而是像调试代码一样，在 AI 思考的第 3 步“打断并注入新的意志”。\n- **技术趋势标签**：#HCI #推理模型 #思维链干预 #人机协作\n- **可复用模式**：**“思维链断点拦截模式（CoT Breakpoint Interception）”**：通过流式传输解析 `<thought>` 标签中的步骤标识符（如 \"Step 1...\", \"Step 2...\"），在每步结束时挂起生成流，等待用户信号或自动校验器。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：做一个 Streamlit 界面，调用大模型解答复杂的谜题。当大模型在 `<thought>` 里流式输出它的思考步骤时，界面上每个步骤旁都有一个“纠偏”按钮。点击后，截断后续生成，将用户输入的“提示”拼接到该步骤后，让 LLM 继续往下想。\n  2. **一个中型项目**：**“导演剪辑版故事生成器”**。AI 在后台规划小说大纲的 10 个步骤，用户作为一个“无形之手”，在 AI 规划到第 4 步（例如“主角决定去城堡”）时，强行在界面上将其改为“主角决定去酒馆”，观察并引导 AI 实时重构后 6 步的逻辑。\n  3. **一个艺术/游戏/叙事方向**：**“读心术侦探游戏”**。玩家可以实时看到嫌疑人 AI 的“心理活动”（CoT）。玩家可以通过“心理暗示”（注入微小干扰词）来扭曲嫌疑人的思考逻辑，让其在不知不觉中说漏嘴。\n- **对我项目的启发**：非常适合你的 Creative Tool 链。把 AI 的生成过程变成“可交互的乐谱”，用户可以像调整音符一样调整 AI 的思考步骤。\n- **今天是否值得深入研究**：是\n- **建议行动**：做 demo（极度推荐，今天的小实验就玩这个！）\n\n---\n\n## 3. Interventional Grounding Audits: 谓词替换逻辑审计法\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2607.13069\n- **一句话解释**：一种测试 LLM 是否在“真推理”还是在“背书/瞎猜”的黑盒审计方法：通过将 Prompt 中的核心实体和谓词替换成无意义的符号（例如“张三有糖尿病” -> “X-1 拥有属性 Y-2”），重新运行模型，检测其推理逻辑链是否依然成立。\n- **它为什么重要**：这是 Spec-driven development 的圣杯级测试思想。如果你的 Agent 依赖某种逻辑规范，你可以用这种“无意义符号替换法”来压测它的逻辑严密性，排除它靠语义常识“蒙对”的可能性。\n- **技术趋势标签**：#Spec-Driven #自动化测试 #元推理 #黑盒审计\n- **可复用模式**：**“语义脱敏逻辑校验器（Semantic-Free Logic Audit）”**：编写一个中间件，自动将用户 Prompt 中的名词提取并映射为抽象变量（A, B, C），送入 LLM 运行，比对抽象输出与具象输出的拓扑结构是否一致。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：写一个 Python 脚本，利用 SpaCy 提取一个推理题里的所有名词，随机替换成“咕噜”、“哔啵”等怪异词汇，然后测试 GPT-4o 还能不能解对。如果解不对，说明它之前的正确率全是靠“语义联想”蒙的。\n  2. **一个中型项目**：**“Agent 逻辑防腐层（Anti-Hallucination Shield）”**。在 Agent 执行高风险决策（如删库、转账）前，系统自动将当前上下文“抽象化”并送给另一个隔离的 LLM 校验。如果抽象模型得出的逻辑结论与具象模型不符，立刻触发报警。\n  3. **一个艺术/游戏/叙事方向**：**“巴别塔语译解谜游戏”**。游戏中的所有线索和 NPC 对话都是被高度抽象和符号化的（类似《Chants of Sennaar》）。玩家需要利用这个“谓词替换”的原理，通过改变符号的排列组合来测试 NPC 的逻辑反应，从而破解一门外星语言。\n- **对我项目的启发**：可以作为你 Spec-driven code generator 的核心测试套件——用抽象变量去测试 Agent 生成的代码逻辑，确保代码不是从 StackOverflow 抄来的语义片段，而是真正符合 Spec 逻辑的。\n- **今天是否值得深入研究**：否（思想极佳，但论文细节偏向理论数学，吸取其“符号替换测试”的思想即可）\n- **建议行动**：收藏\n\n---\n\n## 4. TANDE: 情感 AI 交互中的言语与非言语双通道解耦\n- **来源**：arXiv cs.HC\n- **链接**：https://arxiv.org/abs/2607.13357\n- **一句话解释**：研究如何在 AI 虚拟人对话中，将“言语通道”（说话内容）与“非言语通道”（点头、微笑、叹气等“回馈信号/Backchannels”）进行解耦与协同控制，以创造极高同理心和超低延迟的交互体验。\n- **它为什么重要**：传统的 AI 说话必须要等文字生成完。而人类交流时，在对方说话时会不断有“嗯”、“对”以及点头等微表情。将这两者解耦，能做出真正“像活人一样倾听”的 HCI 系统。\n- **技术趋势标签**：#HCI #情感计算 #多模态交互 #虚拟人NPC\n- **可复用模式**：**“双轨制响应架构（Dual-Track Response）”**：一轨是轻量级、超低延迟的“情绪/动作触发器”（检测到用户语气停顿，立刻触发一个随机的点头或“嗯”）；另一轨是深度的 LLM 语义生成轨（负责生成正式回答）。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：用 Web Audio API 监听麦克风。当检测到用户说话声音变大或突然停顿时，网页上的 3D 虚拟小球立刻产生一次物理弹跳（模拟“点头”回馈），而后台缓慢请求的 LLM 文本在 1 秒后才渲染出来。\n  2. **一个中型项目**：**“同理心白噪音倾听者”**。一个桌面宠物，它不主动找你聊天，但当你对着它吐槽时，它会根据你的语速、音调，利用本地小模型实时生成各种“呼吸起伏”、“眨眼频率”和轻微的“呼噜声”来陪伴你。\n  3. **一个艺术/游戏/叙事方向**：**“测谎仪 NPC”**。在探案游戏中，NPC 的台词（言语通道）可能是无懈可击的，但由于其非言语通道（微表情、视线躲避、呼吸急促）是由一个独立的情绪状态机控制的，玩家必须通过观察其“非言语回馈”的失调来判断其是否在撒谎。\n- **对我项目的启发**：在设计游戏系统或 HCI 界面时，不要让用户的“输入行为”和系统的“最终输出”之间只有空白的 Loading。引入“非言语/非语义的即时微交互”，能极大消解等待焦虑。\n- **今天是否值得深入研究**：是\n- **建议行动**：试用 / 做 demo\n\n---\n\n## 今日模式总结\n\n1. **思维链断点拦截（CoT Interception）**：从“结果交付式”交互，转向“思考过程干预式”交互。通过将 LLM 的推理步骤暴露给用户或自动化验证器，实现实时的状态导向和纠偏。\n2. **双轨制响应（Dual-Track Response）**：在多模态和 HCI 设计中，将“轻量级即时反馈（非言语/物理反馈）”与“重量级延迟反馈（语义/逻辑生成）”剥离，解决大模型高延迟带来的交互断裂感。\n\n---\n\n## 今日可做小实验：CoT-Steerer（思维链实时干预器）\n\n这个实验能让你在 2 小时内亲手实现类似 *Deep Interaction* 的效果，体验如何像神明一样干预 AI 的思考。\n\n*   **项目名**：CoT-Steerer (思维链实时干预器)\n*   **输入**：一个需要多步推理的问题（例如：“A 比 B 高，C 比 A 矮，请推理他们的身高排序并给出每一步的思考。”）\n*   **输出**：一个 Streamlit 界面。AI 会一步步展示它的思考过程。在每一步结束时，生成会暂停，用户可以输入“干预指令”（例如：“不对，其实 C 比 B 还要高，请修正你的上一步假设”），AI 将基于干预后的新逻辑继续往下思考。\n*   **技术栈**：\n    *   Python 3.10+\n    *   Streamlit (极速构建 UI)\n    *   OpenAI API / Claude API (支持流式传输 `stream=True`)\n*   **第一步怎么做**：\n    1.  安装依赖：`pip install streamlit openai`\n    2.  写一个 Prompt 模板，强迫 LLM 采用严格的格式输出，例如：\n        ```text\n        请一步步思考并解决用户的问题。\n        每次思考一个步骤时，必须以 [Step Start] 开头，以 [Step End] 结尾。\n        在每个 [Step End] 之后，我会给你反馈，你必须基于反馈继续下一步。\n        ```\n    3.  在 Python 中使用 `client.chat.completions.create(..., stream=True)`。\n    4.  编写一个简单的解析循环：当在流中检测到 `[Step End]` 时，暂停迭代器，在 Streamlit 页面上渲染一个 `st.text_input` 输入框，让用户输入干预信息。\n    5.  将用户输入的干预信息作为新的 `user` 消息追加到对话历史中，然后再次调用 API 启动下一阶段的流式传输。",
+  "gemini_success": true,
+  "telegram_sent": false,
+  "telegram_status": "failed",
+  "telegram_reason": "400 Client Error: Bad Request for url: https://api.telegram.org/bot8650722899:AAHUD-aqNDB7NwiPiGq3R22MVp77Cr_5GEQ/sendMessage"
+}
