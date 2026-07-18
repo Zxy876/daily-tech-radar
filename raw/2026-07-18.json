@@ -1,0 +1,299 @@
+[
+  {
+    "title": "Step-Level Preference Learning for Generative Agents in Social Simulations",
+    "url": "https://arxiv.org/abs/2607.14485",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 17 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.14485v1 Announce Type: new \nAbstract: Large language model (LLM)-based generative agents simulate human behavior through long-horizon decision-making processes that comprise intermediate steps such as planning, memory retrieval, reflection, and action selection. However, fine-grained human annotations of these intermediate steps remain scarce, and existing agents are not grounded in human preferences over such intermediate decisions. To address this gap, we introduce \\method, an inter",
+    "score": 18.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "simulation",
+      "language model",
+      "planning",
+      "memory",
+      "retrieval",
+      "generative"
+    ]
+  },
+  {
+    "title": "RetroAgent: Harnessing LLMs to Search Over Structured Memory for Agentic Retrosynthesis Planning",
+    "url": "https://arxiv.org/abs/2607.14512",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 17 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.14512v1 Announce Type: new \nAbstract: Multi-step retrosynthesis planning seeks to decompose a target molecule into commercially available building blocks through a sequence of feasible reactions. The vast combinatorial search space makes this task challenging even for expert chemists. Traditional methods combine tree search with offline-trained value networks that score candidates in isolation, without reasoning about complete multi-step routes. Recent work leverages Large Language Mo",
+    "score": 14.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "RAG",
+      "reasoning",
+      "planning",
+      "memory"
+    ]
+  },
+  {
+    "title": "HG-RAG: Hierarchy-Guided Retrieval-Augmented Generation for Structured Knowledge Graphs",
+    "url": "https://arxiv.org/abs/2607.14095",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 17 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.14095v1 Announce Type: new \nAbstract: Retrieval Augmented Generation (RAG) has proven to be a widely successful process at improving the quality of outputs from a Large Language Model (LLM) for wider context. However, RAG systems typically retrieve context from flat document stores, which struggles when queries require hierarchical or relational reasoning across structured knowledge. I present HG-RAG (Hierarchy-Guided RAG), a framework that performs graph-traversal over a hierarchical",
+    "score": 10.0,
+    "keywords_matched": [
+      "LLM",
+      "language model",
+      "RAG",
+      "reasoning",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Enhancing Small Language Models Reasoning through Knowledge Graph Grounding",
+    "url": "https://arxiv.org/abs/2607.14149",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 17 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.14149v1 Announce Type: new \nAbstract: Although large language models (LLMs) have set benchmarks for zero-shot reasoning, their deployment remains cost-prohibitive and environmentally taxing. Small Language Models (SLMs) offer a sustainable alternative, but prone to errors, on tasks requiring complex, multi-hop logical grounding. We investigate a neuro-symbolic agentic framework to enhance the reasoning capabilities of SLMs, specifically Gemma 3 (1B, 4B) and Llama 3.2 (3B), using the C",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Orchestrating Power Grid Studies with Multi-Agent AI and MCP Servers",
+    "url": "https://arxiv.org/abs/2607.14158",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 17 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.14158v1 Announce Type: new \nAbstract: This position paper explores how Agentic AI and Model Context Protocol (MCP) can support power-grid studies in a Transmission System Operator (TSO) context. We focus on integrating Large Language Models with numerical simulation tools, structured workflows, and human supervision. We identify key industrial requirements for agent assisted grid studies and introduce pypowsybl-mcp, an MCP-based interface exposing selected capabilities of our simulati",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow",
+      "simulation",
+      "language model"
+    ]
+  },
+  {
+    "title": "MemoHarness: Agent Harnesses That Learn from Experience",
+    "url": "https://arxiv.org/abs/2607.14159",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 17 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.14159v1 Announce Type: new \nAbstract: An agent harness is the external control layer that turns a base LLM into an executable agent by managing context, tools, orchestration, memory, decoding, and output handling. While harness design strongly affects agent behavior, most automatic improvement methods optimize narrower artifacts such as prompts, pipelines, or workflows, and deployed agents usually reuse a single global harness for all cases. We introduce MemoHarness, an adaptive harne",
+    "score": 10.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "workflow",
+      "prompt",
+      "memory"
+    ]
+  },
+  {
+    "title": "ReasFlow: Assisting Reasoning-Centric Scientific Discovery in Applied Mathematics via a Knowledge-Based Multi-Agent System",
+    "url": "https://arxiv.org/abs/2607.14178",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 17 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.14178v1 Announce Type: new \nAbstract: Recent advances in Large Language Models have fueled autonomous AI agents capable of tackling complex scientific tasks, yet existing automated research systems remain predominantly focused on empirically driven domains with quantitative benchmarks, leaving theory-driven discovery, particularly in mathematically grounded disciplines requiring rigorous proofs and synthesis of domain knowledge, largely underexplored. Key challenges include the diffic",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "language model",
+      "autonomous",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "RxBrain: Embodied Cognition Foundation Model with Joint Language-Visual Reasoning and Imagination",
+    "url": "https://arxiv.org/abs/2607.14187",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 17 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.14187v1 Announce Type: new \nAbstract: Embodied cognition requires agents to connect high-level task reasoning with the physical states to be achieved. We introduce Hy-Embodied-RxBrain, an embodied cognition foundation model with joint language-visual reasoning and imagination. Unlike vision-language models that emphasize scene understanding and textual decision making, or generative world models that mainly predict future visual states, RxBrain represents embodied plans in a single pl",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "language model",
+      "reasoning",
+      "generative"
+    ]
+  },
+  {
+    "title": "Automatic Hard Example Synthesis with Multi-Level Agentic Data Curation",
+    "url": "https://arxiv.org/abs/2607.14256",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 17 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.14256v1 Announce Type: new \nAbstract: Multimodal Large Language Models (MLLMs) are increasingly deployed for nuanced content safety and moderation tasks, yet they remain vulnerable to adversarial attacks and out-of-distribution edge cases. Traditional active learning and manual annotation fail to scale against the complexity and volume of novel multimodal threats. In this paper, we propose an automated, agentic red-teaming framework that systematically synthesizes difficult examples u",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "multimodal"
+    ]
+  },
+  {
+    "title": "Traccia: An OpenTelemetry-Based Governance Platform for AI Systems",
+    "url": "https://arxiv.org/abs/2607.14309",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 17 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.14309v1 Announce Type: new \nAbstract: The rapid development of Large Language Models (LLMs) and Artificial Intelligent (AI) powered autonomous agents has fundamentally changed the existing forms of software governance. In spite of the rigorous standards of transparency and account ability required according to the international frameworks such as the European Union's AI Act, there is a considerable gap between theory and reality. The present study discusses the inherent drawbacks of c",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "Non-vacuous Generalization Bounds for Reinforcement Learning with Verifiable Rewards",
+    "url": "https://arxiv.org/abs/2607.14506",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 17 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.14506v1 Announce Type: new \nAbstract: While reinforcement learning with verifiable rewards (RLVR) is widely used to improve the reasoning capabilities of large language models (LLMs), the generalizability of the resulting models remains poorly understood. In this work, we establish the first non-vacuous generalization bounds for parameter-efficient RLVR fine-tuning at the billion-parameter scale. Our approach adapts PAC-Bayes compression bounds to this setting, and addresses the inher",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "fine-tuning",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "ToolAnchor: Anchoring Counterfactual Context to Boost Agentic Tool-use Capability",
+    "url": "https://arxiv.org/abs/2607.14145",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 17 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.14145v1 Announce Type: new \nAbstract: Tool-augmented large language model agents excel at long-horizon tasks, yet they are typically post-trained on fixed toolsets. When tasks demand new tools, these agents struggle to incorporate them effectively, and retraining from scratch is often impractical. We identify the core obstacle in such toolset expansion problem as behavioral inertia: the tendency of agents to fall back on familiar tools and established reasoning patterns despite having",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "When a Verified World Model Still Loses: Play-Adequacy vs Prediction-Accuracy in LLM-Synthesized Code World Models",
+    "url": "https://arxiv.org/abs/2607.14169",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 17 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.14169v1 Announce Type: new \nAbstract: Large language models can synthesize a game's rules as executable code - a Code World Model (CWM) - which a classical planner then searches over. Such models are typically accepted when they reach high transition accuracy on sampled trajectories. We argue this is the wrong notion of adequacy for planning.\n  We show four things. (1) An LLM-synthesized CWM can pass a sampling gate at 100% transition accuracy and be $\\geq 98\\%$ state-accurate on the ",
+    "score": 8.0,
+    "keywords_matched": [
+      "LLM",
+      "game",
+      "language model",
+      "planning"
+    ]
+  },
+  {
+    "title": "CIPHER: A Decoupled Exploration-Selection Framework for Test-Time Scaling of Data Science Agents",
+    "url": "https://arxiv.org/abs/2607.14386",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 17 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.14386v1 Announce Type: new \nAbstract: Data science tasks span from closed-ended information extraction to open-ended analysis, presenting significant challenges for automation. Recent AI agents powered by language models show promise for handling such complex tasks. However, existing agents typically rely on a single initial state that conditions the entire agent's execution, making them vulnerable to cascading errors initiated by a suboptimal initial state. To mitigate this, we prese",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "automation",
+      "language model"
+    ]
+  },
+  {
+    "title": "SAGA: Schema-Aware Grounding for Agentic Text-to-SPARQL Generation",
+    "url": "https://arxiv.org/abs/2607.14494",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 17 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.14494v1 Announce Type: new \nAbstract: Complex knowledge base question answering (KBQA) is commonly approached through either information retrieval over a question-specific subgraph or semantic parsing into an executable logical form. We study the latter paradigm. Recent large language model agents make semantic parsing interactive: they alternate between reasoning, querying the knowledge base, and extending a partial SPARQL query. This interleaving reduces reliance on one-shot generat",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "language model",
+      "reasoning",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Are LLM-Generated GPU Kernels Production-Ready? A Trace-Driven Benchmark and Optimization Agent",
+    "url": "https://arxiv.org/abs/2607.14541",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 17 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.14541v1 Announce Type: new \nAbstract: Existing GPU kernel generation benchmarks draw problems from synthetic or curated sources that diverge from deployed workloads. We present Atrex-Bench, a benchmark whose 30 operators and 440 shapes are sampled directly from full-cluster production inference traces of compute-limited, memory-rich GPUs. Each problem carries an importance weight derived from its share of observed GPU time, weighted by application card-hours and computed separately fo",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "inference",
+      "memory"
+    ]
+  },
+  {
+    "title": "Memory-Driven Self-Disclosure and Relational Turning Points: A Longitudinal Multimodal Study of Human-AI Interaction",
+    "url": "https://arxiv.org/abs/2607.14593",
+    "source": "arXiv cs.HC",
+    "published_at": "Fri, 17 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.14593v1 Announce Type: new \nAbstract: As conversational AI systems are designed for repeated use, a central question is how a series of interactions becomes a relationship. We present a longitudinal multimodal study of a memory-augmented conversational agent (24 participants x 10 sessions), in which participants rated five relational constructs -- familiarity, self-disclosure, perceived memory, conversational quality, and enjoyment -- after each session. Two complementary dynamics eme",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "multimodal",
+      "memory"
+    ]
+  },
+  {
+    "title": "Dendrite: A Real-Time Python Application for Online Brain-Computer Interface Research and Development",
+    "url": "https://arxiv.org/abs/2607.14655",
+    "source": "arXiv cs.HC",
+    "published_at": "Fri, 17 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.14655v1 Announce Type: new \nAbstract: Online brain-computer interface research requires software that can acquire multimodal physiological data, train and update decoders, run live inference, and preserve the full experimental provenance in a reproducible workflow. We present Dendrite, a real-time brain-computer interface application in Python that brings signal acquisition, decoder training, and live inference together in a single, ready-to-run application that stays modifiable. Dend",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "workflow",
+      "multimodal",
+      "inference"
+    ]
+  },
+  {
+    "title": "Benchmarking Multimodal Large Language Models for Scientific Visualization Literacy",
+    "url": "https://arxiv.org/abs/2607.15176",
+    "source": "arXiv cs.HC",
+    "published_at": "Fri, 17 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.15176v1 Announce Type: cross \nAbstract: Multimodal large language models (MLLMs) are increasingly used to interpret visualizations, yet current evaluations remain largely chart-centric and provide limited evidence of understanding of scientific visualization (SciVis). We benchmark six MLLMs on the scientific visualization literacy assessment test, a standardized SciVis literacy assessment comprising 49 items based on 18 scientific visualizations and illustrations, spanning 8 technique",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "multimodal"
+    ]
+  },
+  {
+    "title": "Empirical evidence of Large Language Model's influence on human spoken communication",
+    "url": "https://arxiv.org/abs/2409.01754",
+    "source": "arXiv cs.HC",
+    "published_at": "Fri, 17 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2409.01754v4 Announce Type: replace-cross \nAbstract: From the printing press to social media, innovations in communication technology have repeatedly reshaped how ideas spread through human culture. Chatbots powered by generative artificial intelligence constitute a new medium, encoding cultural patterns in their neural representations and disseminating them in conversations with hundreds of millions of people. Whether these patterns transmit into human language, and ultimately shape human",
+    "score": 8.0,
+    "keywords_matched": [
+      "generative art",
+      "neural",
+      "language model",
+      "generative"
+    ]
+  }
+]
