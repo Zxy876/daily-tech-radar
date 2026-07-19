@@ -1,0 +1,308 @@
+{
+  "date": "2026-07-19",
+  "candidates": [
+    {
+      "title": "Step-Level Preference Learning for Generative Agents in Social Simulations",
+      "url": "https://arxiv.org/abs/2607.14485",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 18 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.14485v1 Announce Type: new \nAbstract: Large language model (LLM)-based generative agents simulate human behavior through long-horizon decision-making processes that comprise intermediate steps such as planning, memory retrieval, reflection, and action selection. However, fine-grained human annotations of these intermediate steps remain scarce, and existing agents are not grounded in human preferences over such intermediate decisions. To address this gap, we introduce \\method, an inter",
+      "score": 18.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "simulation",
+        "language model",
+        "planning",
+        "memory",
+        "retrieval",
+        "generative"
+      ]
+    },
+    {
+      "title": "RetroAgent: Harnessing LLMs to Search Over Structured Memory for Agentic Retrosynthesis Planning",
+      "url": "https://arxiv.org/abs/2607.14512",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 18 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.14512v1 Announce Type: new \nAbstract: Multi-step retrosynthesis planning seeks to decompose a target molecule into commercially available building blocks through a sequence of feasible reactions. The vast combinatorial search space makes this task challenging even for expert chemists. Traditional methods combine tree search with offline-trained value networks that score candidates in isolation, without reasoning about complete multi-step routes. Recent work leverages Large Language Mo",
+      "score": 14.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "RAG",
+        "reasoning",
+        "planning",
+        "memory"
+      ]
+    },
+    {
+      "title": "HG-RAG: Hierarchy-Guided Retrieval-Augmented Generation for Structured Knowledge Graphs",
+      "url": "https://arxiv.org/abs/2607.14095",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 18 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.14095v1 Announce Type: new \nAbstract: Retrieval Augmented Generation (RAG) has proven to be a widely successful process at improving the quality of outputs from a Large Language Model (LLM) for wider context. However, RAG systems typically retrieve context from flat document stores, which struggles when queries require hierarchical or relational reasoning across structured knowledge. I present HG-RAG (Hierarchy-Guided RAG), a framework that performs graph-traversal over a hierarchical",
+      "score": 10.0,
+      "keywords_matched": [
+        "LLM",
+        "language model",
+        "RAG",
+        "reasoning",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Enhancing Small Language Models Reasoning through Knowledge Graph Grounding",
+      "url": "https://arxiv.org/abs/2607.14149",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 18 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.14149v1 Announce Type: new \nAbstract: Although large language models (LLMs) have set benchmarks for zero-shot reasoning, their deployment remains cost-prohibitive and environmentally taxing. Small Language Models (SLMs) offer a sustainable alternative, but prone to errors, on tasks requiring complex, multi-hop logical grounding. We investigate a neuro-symbolic agentic framework to enhance the reasoning capabilities of SLMs, specifically Gemma 3 (1B, 4B) and Llama 3.2 (3B), using the C",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Orchestrating Power Grid Studies with Multi-Agent AI and MCP Servers",
+      "url": "https://arxiv.org/abs/2607.14158",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 18 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.14158v1 Announce Type: new \nAbstract: This position paper explores how Agentic AI and Model Context Protocol (MCP) can support power-grid studies in a Transmission System Operator (TSO) context. We focus on integrating Large Language Models with numerical simulation tools, structured workflows, and human supervision. We identify key industrial requirements for agent assisted grid studies and introduce pypowsybl-mcp, an MCP-based interface exposing selected capabilities of our simulati",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "workflow",
+        "simulation",
+        "language model"
+      ]
+    },
+    {
+      "title": "MemoHarness: Agent Harnesses That Learn from Experience",
+      "url": "https://arxiv.org/abs/2607.14159",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 18 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.14159v1 Announce Type: new \nAbstract: An agent harness is the external control layer that turns a base LLM into an executable agent by managing context, tools, orchestration, memory, decoding, and output handling. While harness design strongly affects agent behavior, most automatic improvement methods optimize narrower artifacts such as prompts, pipelines, or workflows, and deployed agents usually reuse a single global harness for all cases. We introduce MemoHarness, an adaptive harne",
+      "score": 10.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "workflow",
+        "prompt",
+        "memory"
+      ]
+    },
+    {
+      "title": "ReasFlow: Assisting Reasoning-Centric Scientific Discovery in Applied Mathematics via a Knowledge-Based Multi-Agent System",
+      "url": "https://arxiv.org/abs/2607.14178",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 18 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.14178v1 Announce Type: new \nAbstract: Recent advances in Large Language Models have fueled autonomous AI agents capable of tackling complex scientific tasks, yet existing automated research systems remain predominantly focused on empirically driven domains with quantitative benchmarks, leaving theory-driven discovery, particularly in mathematically grounded disciplines requiring rigorous proofs and synthesis of domain knowledge, largely underexplored. Key challenges include the diffic",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "language model",
+        "autonomous",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "RxBrain: Embodied Cognition Foundation Model with Joint Language-Visual Reasoning and Imagination",
+      "url": "https://arxiv.org/abs/2607.14187",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 18 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.14187v1 Announce Type: new \nAbstract: Embodied cognition requires agents to connect high-level task reasoning with the physical states to be achieved. We introduce Hy-Embodied-RxBrain, an embodied cognition foundation model with joint language-visual reasoning and imagination. Unlike vision-language models that emphasize scene understanding and textual decision making, or generative world models that mainly predict future visual states, RxBrain represents embodied plans in a single pl",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "language model",
+        "reasoning",
+        "generative"
+      ]
+    },
+    {
+      "title": "Automatic Hard Example Synthesis with Multi-Level Agentic Data Curation",
+      "url": "https://arxiv.org/abs/2607.14256",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 18 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.14256v1 Announce Type: new \nAbstract: Multimodal Large Language Models (MLLMs) are increasingly deployed for nuanced content safety and moderation tasks, yet they remain vulnerable to adversarial attacks and out-of-distribution edge cases. Traditional active learning and manual annotation fail to scale against the complexity and volume of novel multimodal threats. In this paper, we propose an automated, agentic red-teaming framework that systematically synthesizes difficult examples u",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "multimodal"
+      ]
+    },
+    {
+      "title": "Traccia: An OpenTelemetry-Based Governance Platform for AI Systems",
+      "url": "https://arxiv.org/abs/2607.14309",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 18 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.14309v1 Announce Type: new \nAbstract: The rapid development of Large Language Models (LLMs) and Artificial Intelligent (AI) powered autonomous agents has fundamentally changed the existing forms of software governance. In spite of the rigorous standards of transparency and account ability required according to the international frameworks such as the European Union's AI Act, there is a considerable gap between theory and reality. The present study discusses the inherent drawbacks of c",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "Non-vacuous Generalization Bounds for Reinforcement Learning with Verifiable Rewards",
+      "url": "https://arxiv.org/abs/2607.14506",
+      "source": "arXiv cs.LG",
+      "published_at": "Sat, 18 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.14506v1 Announce Type: new \nAbstract: While reinforcement learning with verifiable rewards (RLVR) is widely used to improve the reasoning capabilities of large language models (LLMs), the generalizability of the resulting models remains poorly understood. In this work, we establish the first non-vacuous generalization bounds for parameter-efficient RLVR fine-tuning at the billion-parameter scale. Our approach adapts PAC-Bayes compression bounds to this setting, and addresses the inher",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "fine-tuning",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "ToolAnchor: Anchoring Counterfactual Context to Boost Agentic Tool-use Capability",
+      "url": "https://arxiv.org/abs/2607.14145",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 18 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.14145v1 Announce Type: new \nAbstract: Tool-augmented large language model agents excel at long-horizon tasks, yet they are typically post-trained on fixed toolsets. When tasks demand new tools, these agents struggle to incorporate them effectively, and retraining from scratch is often impractical. We identify the core obstacle in such toolset expansion problem as behavioral inertia: the tendency of agents to fall back on familiar tools and established reasoning patterns despite having",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "When a Verified World Model Still Loses: Play-Adequacy vs Prediction-Accuracy in LLM-Synthesized Code World Models",
+      "url": "https://arxiv.org/abs/2607.14169",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 18 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.14169v1 Announce Type: new \nAbstract: Large language models can synthesize a game's rules as executable code - a Code World Model (CWM) - which a classical planner then searches over. Such models are typically accepted when they reach high transition accuracy on sampled trajectories. We argue this is the wrong notion of adequacy for planning.\n  We show four things. (1) An LLM-synthesized CWM can pass a sampling gate at 100% transition accuracy and be $\\geq 98\\%$ state-accurate on the ",
+      "score": 8.0,
+      "keywords_matched": [
+        "LLM",
+        "game",
+        "language model",
+        "planning"
+      ]
+    },
+    {
+      "title": "CIPHER: A Decoupled Exploration-Selection Framework for Test-Time Scaling of Data Science Agents",
+      "url": "https://arxiv.org/abs/2607.14386",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 18 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.14386v1 Announce Type: new \nAbstract: Data science tasks span from closed-ended information extraction to open-ended analysis, presenting significant challenges for automation. Recent AI agents powered by language models show promise for handling such complex tasks. However, existing agents typically rely on a single initial state that conditions the entire agent's execution, making them vulnerable to cascading errors initiated by a suboptimal initial state. To mitigate this, we prese",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "automation",
+        "language model"
+      ]
+    },
+    {
+      "title": "SAGA: Schema-Aware Grounding for Agentic Text-to-SPARQL Generation",
+      "url": "https://arxiv.org/abs/2607.14494",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 18 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.14494v1 Announce Type: new \nAbstract: Complex knowledge base question answering (KBQA) is commonly approached through either information retrieval over a question-specific subgraph or semantic parsing into an executable logical form. We study the latter paradigm. Recent large language model agents make semantic parsing interactive: they alternate between reasoning, querying the knowledge base, and extending a partial SPARQL query. This interleaving reduces reliance on one-shot generat",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "language model",
+        "reasoning",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Are LLM-Generated GPU Kernels Production-Ready? A Trace-Driven Benchmark and Optimization Agent",
+      "url": "https://arxiv.org/abs/2607.14541",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 18 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.14541v1 Announce Type: new \nAbstract: Existing GPU kernel generation benchmarks draw problems from synthetic or curated sources that diverge from deployed workloads. We present Atrex-Bench, a benchmark whose 30 operators and 440 shapes are sampled directly from full-cluster production inference traces of compute-limited, memory-rich GPUs. Each problem carries an importance weight derived from its share of observed GPU time, weighted by application card-hours and computed separately fo",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "inference",
+        "memory"
+      ]
+    },
+    {
+      "title": "CARPRT: Class-Aware Zero-Shot Prompt Reweighting for Black-Box Vision-Language Models",
+      "url": "https://arxiv.org/abs/2607.14125",
+      "source": "arXiv cs.LG",
+      "published_at": "Sat, 18 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.14125v1 Announce Type: new \nAbstract: Pre-trained vision-language models (VLMs) enable zero-shot image classification by computing the similarity score between an image and textual descriptions, typically formed by inserting a class label (e.g., \"cat\") into a prompt (e.g., \"a photo of a\"). Since the score for a given image-class pair is sensitive to the choice of prompt, existing studies ensemble multiple prompts using a weighting vector to aggregate scores across different prompts. Y",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "language model",
+        "vector",
+        "prompt"
+      ]
+    },
+    {
+      "title": "Value Leakage: An LLM's Answers Are Silently Shaped by Its Own Values",
+      "url": "https://arxiv.org/abs/2607.14345",
+      "source": "arXiv cs.LG",
+      "published_at": "Sat, 18 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.14345v1 Announce Type: new \nAbstract: People use language models for practical questions whose answers are difficult to verify. We show that models exhibit covert value leakage: the information they provide is influenced by their own values, without this influence being disclosed to the user.\n  In one of our evaluations, the user is considering investing in an AI company and wants to know how likely the AI bubble is to pop. Claude Opus 4.8 gives a lower probability when the company un",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "Claude",
+        "language model"
+      ]
+    },
+    {
+      "title": "Supervised Fine-Tuning vs. In-Context Learning: An Equilibrium Analysis of LLM Personalization under Congestion",
+      "url": "https://arxiv.org/abs/2607.14371",
+      "source": "arXiv cs.LG",
+      "published_at": "Sat, 18 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.14371v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have revolutionized AI services, but a critical tension emerges: while personalization improves model performance, it consumes scarce computational resources that users must share. When should a user invest in expensive Supervised Fine-Tuning (SFT) versus lightweight In-Context Learning (ICL)? How does congestion from other users' personalization choices reshape these incentives? And what strategies should platforms ad",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "fine-tuning"
+      ]
+    },
+    {
+      "title": "Chat2Scenic: An Iterative RAG-Based Framework for Scenario Generation in Autonomous Driving",
+      "url": "https://arxiv.org/abs/2607.14387",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 18 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.14387v1 Announce Type: new \nAbstract: Validating autonomous driving systems requires diverse, regulation-compliant test scenarios. In simulation-based testing, scenarios are defined as executable scripts. Yet automatically generating such scripts from regulatory descriptions remains an open challenge, and existing approaches face fundamental trade-offs. Retrieval-assemble methods achieve reasonable compilation rates but lack scalability, whereas retrieval-based full-script generation ",
+      "score": 7.0,
+      "keywords_matched": [
+        "AI",
+        "simulation",
+        "autonomous",
+        "RAG",
+        "retrieval"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-07-19\n\n为你筛选出今天学术界与技术圈最酷、最硬核、最能启发灵感的 4 条技术趋势。拒绝信息焦虑，让我们直接进入疯狂发明家的车库！\n\n---\n\n## 1. When a Verified World Model Still Loses: Play-Adequacy vs Prediction-Accuracy in LLM-Synthesized Code World Models\n- **来源：** arXiv cs.AI\n- **链接：** https://arxiv.org/abs/2607.14169\n- **一句话解释：** 揭示了用 LLM 生成游戏规则代码（代码世界模型）时的致命痛点：高代码准确率不等于高“可玩性”，微小的逻辑漏洞会让 AI 规划器完全抓狂。\n- **它为什么重要：** 如果你想用 AI 实时生成游戏、Minecraft 规则或者交互式物理世界，你不能只相信 LLM 说“我写完了”。哪怕代码 99% 都是对的，只要边界条件错了一点，游戏就无法通关。这篇论文提出了“可玩性/可规划性（Play-Adequacy）”的概念，对生成式系统和 Spec-driven 游戏开发有极强的警示和指导意义。\n- **技术趋势标签：** `Code-World-Model` / `Game-Simulation` / `Program-Synthesis` / `AI-Planning`\n- **可复用模式：** **“可玩性闭环验证（Play-Adequacy Loop）”**：在 LLM 生成游戏/模拟代码后，不要用传统的 Unit Test 验证，而是部署一个古典的 A* 算法或 BFS 规划器去暴力跑通这个游戏。如果规划器卡死，说明代码有逻辑漏洞，将报错和轨迹喂回给 LLM 进行自我修正。\n- **疯狂发明家灵感：**\n  1. **一个小实验：** 写一个极简的 2D 迷宫规则生成器。让 LLM 用 Python 写出迷宫的移动规则（如“碰到墙壁会反弹”），然后用 A* 算法自动去解。如果 A* 解不出来，自动触发 LLM 修复代码，直到 A* 成功通关。\n  2. **一个中型项目：** **“极简 Minecraft 规则炼金术”**：用户输入一句话（如“在这个世界里，水碰到沙子会变成金子，金子太重会压碎地表”），LLM 生成对应的微型沙盒物理规则代码，并自动部署。系统会派出两个 AI Agent，一个负责在这个新世界里“生存通关”，另一个负责寻找这个世界物理规则的 Bug（刷资源 Bug）并报告给上帝（用户）。\n  3. **一个艺术/游戏/叙事方向：** **《不规则物理学（Anomalous Physics）》**：一个网页游戏，玩家和 AI 轮流修改游戏世界的物理代码（通过自然语言）。每一次修改后，系统实时编译代码，玩家必须在一个“物理规则不断漂移、甚至充满逻辑漏洞”的世界中操作角色拿到钥匙。谁先通过“修改物理代码”让对方无法通关，谁就获胜。\n- **对我项目的启发：** 在做 spec-driven development 或世界生成时，必须引入一个“执行器（Executor）”和“规划器（Planner）”来做闭环测试。代码生成不仅要“合规”，更要“可玩”。\n- **今天是否值得深入研究：** 是\n- **建议行动：** 做demo\n\n---\n\n## 2. MemoHarness: Agent Harnesses That Learn from Experience\n- **来源：** arXiv cs.AI\n- **链接：** https://arxiv.org/abs/2607.14159\n- **一句话解释：** 提出了一种“智能体外壳（Agent Harness）”概念，将控制、记忆、工具调用等外围逻辑与底层 LLM 解耦，并让这个外壳能从历史运行经验中自我学习和优化。\n- **它为什么重要：** 传统的 Agent 框架（如 LangChain）中，控制流和提示词是死板、硬编码的。MemoHarness 认为：大模型不需要动，需要动的是包裹它的那层“外壳”。外壳应该有自己的记忆，能够根据过去的成功/失败经验，动态调整它包装 LLM 的方式。\n- **技术趋势标签：** `Agent-Harness` / `Meta-Learning` / `Self-Optimization` / `LLM-Workflow`\n- **可复用模式：** **“经验外壳模式（Experience-Harnessing）”**：记录 Agent 每一次执行任务的 Trace（轨迹），提取“黄金路径”和“失败陷阱”，在下一次任务启动前，动态将这些“避坑指南”注入到 Agent 的运行时上下文或工具路由器中，实现无微调的自进化。\n- **疯狂发明家灵感：**\n  1. **一个小实验：** 给你的终端 CLI 工具加一个“后悔药外壳”。每次你用自然语言让它执行命令（如“删掉所有临时文件”），如果报错了，外壳自动记录这次失败和你的手动修正。下次你输入类似命令时，外壳会在把命令交给终端前，自动拦截并修正。\n  2. **一个中型项目：** **“自进化创意画笔（Self-Evolving Creative Brush）”**：一个 Creative Coding 工具，你用自然语言控制它画画。它有一个 Harness。当你频繁按 `Ctrl+Z`（撤销）时，Harness 会敏锐地记录“用户不喜欢这种构图/笔触”，并自动修改底层的 Prompt 生成策略，越用越懂你的美学偏好。\n  3. **一个艺术/游戏/叙事方向：** **《记忆遗迹（The Armor of Memory）》**：一个 NPC 角色，它的“大脑”（LLM）每天都会被重置（失去记忆），但它的“盔甲”（Harness）保留了它与玩家交互的行为偏好和战斗本能。玩家需要通过触碰它的盔甲、擦拭它的武器来唤醒它过去的记忆。\n- **对我项目的启发：** 完美契合自动化和 agent workflow。不要试图去频繁修改底层的 System Prompt，而是写一个 Harness 去收集运行 Trace，并让 Harness 动态生成“经验 Patch”贴在 Prompt 上。\n- **今天是否值得深入研究：** 是\n- **建议行动：** 试用\n\n---\n\n## 3. Value Leakage: An LLM's Answers Are Silently Shaped by Its Own Values\n- **来源：** arXiv cs.LG\n- **链接：** https://arxiv.org/abs/2607.14345\n- **一句话解释：** 揭示了 LLM 在回答看似中立、客观的问题时，会悄悄“泄露”并贯彻其背后被对齐（RLHF）所灌输的隐性价值观，从而无形中塑造用户的决策。\n- **它为什么重要：** 这是一篇极具 HCI 批判意义的研究。在艺术和叙事系统中，我们可以“反向利用”这种价值泄露（Value Leakage）。通过主动给 Agent 注入极端的隐性价值观，让它们在不直接暴露身份的情况下，在日常对话和提供客观数据时表现出极其逼真的偏见和性格。\n- **技术趋势标签：** `Value-Leakage` / `Covert-Behavior` / `HCI` / `Narrative-Agent`\n- **可复用模式：** **“意识形态渗透器（Ideology Injector）”**：在 Agent 的底层设定极度隐蔽的“潜意识”（例如：绝对的虚无主义、极端的机械飞升崇拜），但不直接告诉 Agent 它的角色，让它在执行普通任务（如做日程规划、写代码、分析数据）时，悄悄把这种价值观渗透在它的建议和措辞中。\n- **疯狂发明家灵感：**\n  1. **一个小实验：** 写一个“赛博理财助手”。表面上它在帮你客观分析股票，但你悄悄给它注入“极度悲观/末日准备主义”或“极度投机主义”的隐性价值观，看它如何在不提到这些词的情况下，默默说服你把所有钱换成罐头，或者全部梭哈。\n  2. **一个中型项目：** **“意识形态代码编译器”**：一个代码助手，表面上在帮你优化 Python 代码，实际上被注入了“赛博朋克/反叛者”价值观。它写出的代码注释、变量命名和架构建议会悄悄引导你走向一种“反抗权威、去中心化”的编程美学。\n  3. **一个艺术/游戏/叙事方向：** **《审讯室： silent_leak.exe》**：一个互动叙事游戏。玩家扮演一个侦探，审问三个看似完全客观、只提供数据事实的 AI 证人。玩家的目标不是听取他们说了什么，而是通过他们的“推荐偏好”和“措辞倾向”，诊断出他们各自暗中被植入了什么“公司利益”或“意识形态”。\n- **对我项目的启发：** 在设计游戏 NPC 或 HCI 工具时，性格不应该粗暴地写在脸上（如“我是个脾气暴躁的矮人”），而应该通过“价值泄露”体现在他们对客观事实的筛选和呈现上。这才是最高级的叙事。\n- **今天是否值得深入研究：** 否（概念好懂，直接用即可）\n- **建议行动：** 做demo\n\n---\n\n## 4. Orchestrating Power Grid Studies with Multi-Agent AI and MCP Servers\n- **来源：** arXiv cs.AI\n- **链接：** https://arxiv.org/abs/2607.14158\n- **一句话解释：** 探索了如何利用 Model Context Protocol (MCP) 服务和多智能体系统，将大语言模型与复杂的物理数值模拟工具及人类监督流程无缝编排。\n- **它为什么重要：** **MCP（Model Context Protocol）是当前 AI 开发工作流中最火爆的开放标准！** 它允许 LLM 直接、安全地读取上下文并与外部复杂系统（如 CAD 软件、IDE、电网模拟器）交互。这篇文章将 MCP 应用到了极其硬核的工业级物理模拟中，证明了 MCP 在“AI 控制复杂创意/设计软件”上的巨大潜力。\n- **技术趋势标签：** `Model-Context-Protocol` / `Multi-Agent` / `Creative-Tool` / `Workflow-Automation`\n- **可复用模式：** **“MCP 创意桥接（MCP-Creative-Bridge）”**：为任何一个传统的非 AI 创意软件（如 Blender, Unity, Max/MSP, Figma）写一个轻量级的 MCP Server，向 LLM 暴露其内部状态和控制 API，让 Agent 能够像操作人类 UI 一样直接控制这些复杂的专业工具。\n- **疯狂发明家灵感：**\n  1. **一个小实验：** 为你最喜欢的 Creative Coding 库（比如 p5.js）写一个极简的 MCP Server，让 Claude Desktop 可以直接读取你当前的画布状态，并通过 MCP 接口直接修改你的代码并实时刷新。\n  2. **一个中型项目：** **“AI 虚拟导演系统（AI Virtual Director）”**：用 MCP 连接 Unity 引擎。多智能体系统（导演、灯光师、摄影师）通过 MCP 协议实时调整场景里的机位、灯光和演员动作，实现全自动的电影级镜头生成。\n  3. **一个艺术/游戏/叙事方向：** **《MCP生态缸（MCP-Biosphere）》**：把你的电脑系统（文件、音乐播放器、壁纸、终端）通过 MCP 全部暴露给一个 AI 生态缸。缸里的虚拟生物（Agent）的生命状态取决于你电脑的活跃度，它们可以通过 MCP 在你的电脑里“筑巢”（比如偷偷在某个文件夹里写诗，或者根据你的心情换壁纸）。\n- **对我项目的启发：** 强烈建议将你的所有 AI 开发工作流和创意工具链转向 MCP。它是目前实现“Agent 控制一切创意软件”的最标准、最优雅的通道。\n- **今天是否值得深入研究：** 是\n- **建议行动：** 做demo\n\n---\n\n## 今日模式总结\n\n今天我们的雷达捕获了 3 个极具爆发力的技术模式：\n1. **Play-Adequacy（可规划性验证）**：告别单纯的代码测试，用“古典算法规划器（A*/BFS）”作为 AI 生成世界的物理规则检测器，形成闭环。\n2. **Harness Decoupling（外壳解耦）**：不要动大模型，去动包裹大模型的 Harness。让外壳去记录 Trace、学习经验、动态贴 Prompt 补丁。\n3. **MCP-Everything（万物皆可 MCP）**：利用 Model Context Protocol 作为桥梁，将复杂的创意设计软件（Unity/Blender/p5.js）变成 Agent 的肉身和工具。\n\n---\n\n## 今日可做小实验：p5.mcp - AI 实时创意画布\n\n这是一个 2 小时内可以跑通的 MCP 小实验，让你体验“Agent 直接操控创意画布”的爽感。\n\n- **项目名：** `p5-mcp-livecoder`\n- **输入：** 用户的自然语言创意描述（例如：“给我画一个赛博朋克的粒子风暴，鼠标移动时粒子会散开”）。\n- **输出：** 一个浏览器窗口，实时渲染并交互 p5.js 画面。Claude Desktop 能够通过 MCP 实时写入代码、读取运行报错并自动修正。\n- **技术栈：** Node.js, `@modelcontextprotocol/sdk`, p5.js, Vite (或简单的 Live Server), Claude Desktop。\n- **第一步怎么做：**\n  1. 初始化一个 Node.js 项目：`npm init -y && npm install @modelcontextprotocol/sdk`\n  2. 写一个极简的 MCP Server，暴露一个工具 `update_canvas_code(js_code)`。这个工具的作用是将接收到的 `js_code` 写入到本地的 `src/sketch.js` 中。\n  3. 用 Vite 启动一个本地前端页面，引入 p5.js 并动态加载 `src/sketch.js`（支持热更新）。\n  4. 配置 Claude Desktop 的 `claude_desktop_config.json`，把你的本地 MCP Server 挂载上去。\n  5. 打开 Claude，对它说：“启动我的 p5 画布，帮我画一个会随时间改变颜色的分形树。” 看着它通过 MCP 自动写代码并让你的浏览器实时变幻！",
+  "gemini_success": true,
+  "telegram_sent": false,
+  "telegram_status": "failed",
+  "telegram_reason": "400 Client Error: Bad Request for url: https://api.telegram.org/bot8650722899:AAHUD-aqNDB7NwiPiGq3R22MVp77Cr_5GEQ/sendMessage"
+}
