@@ -1,0 +1,256 @@
+[
+  {
+    "title": "ruvnet / ruflo",
+    "url": "https://github.com/ruvnet/ruflo",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated [154 stars today]",
+    "score": 14.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "workflow",
+      "autonomous",
+      "RAG",
+      "memory"
+    ]
+  },
+  {
+    "title": "diegosouzapw / OmniRoute",
+    "url": "https://github.com/diegosouzapw/OmniRoute",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors. [1,343 stars today]",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "Claude",
+      "Gemini",
+      "Copilot",
+      "GPT",
+      "multimodal"
+    ]
+  },
+  {
+    "title": "kvcache-ai / ktransformers",
+    "url": "https://github.com/kvcache-ai/ktransformers",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations [360 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "transformer",
+      "inference"
+    ]
+  },
+  {
+    "title": "topoteretes / cognee",
+    "url": "https://github.com/topoteretes/cognee",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine. [303 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "memory",
+      "self-hosted"
+    ]
+  },
+  {
+    "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+    "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+    "source": "Hacker News Best",
+    "published_at": "Sat, 18 Jul 2026 13:00:52 +0000",
+    "description": "Article URL: https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/ Comments URL: https://news.ycombinator.com/item?id=48957779 Points: 584 # Comments: 384",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "GPT",
+      "prompt"
+    ]
+  },
+  {
+    "title": "PostHog / posthog",
+    "url": "https://github.com/PostHog/posthog",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP. [411 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "developer tools"
+    ]
+  },
+  {
+    "title": "AstrBotDevs / AstrBot",
+    "url": "https://github.com/AstrBotDevs/AstrBot",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨ [83 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM"
+    ]
+  },
+  {
+    "title": "Canner / WrenAI",
+    "url": "https://github.com/Canner/WrenAI",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more. [121 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "generative"
+    ]
+  },
+  {
+    "title": "lyogavin / airllm",
+    "url": "https://github.com/lyogavin/airllm",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "AirLLM 70B inference with single 4GB GPU [358 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "inference"
+    ]
+  },
+  {
+    "title": "tirth8205 / code-review-graph",
+    "url": "https://github.com/tirth8205/code-review-graph",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows. [663 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "workflow"
+    ]
+  },
+  {
+    "title": "MoonshotAI / kimi-cli",
+    "url": "https://github.com/MoonshotAI/kimi-cli",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Kimi Code CLI is your next CLI agent. [410 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "Q00 / ouroboros",
+    "url": "https://github.com/Q00/ouroboros",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Agent OS: Stop prompting. Start specifying. [17 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "agent",
+      "prompt"
+    ]
+  },
+  {
+    "title": "KnockOutEZ / wigolo",
+    "url": "https://github.com/KnockOutEZ/wigolo",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta. [595 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "traycerai / traycer",
+    "url": "https://github.com/traycerai/traycer",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Traycer: Nerve Center for Agentic Coding [20 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "SigNoz / signoz",
+    "url": "https://github.com/SigNoz/signoz",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log management, infra monitoring, etc. Combined with SigNoz MCP and a native AI teammate (in SigNoz Cloud) it helps you build more resilient apps. [345 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "github / copilot-sdk",
+    "url": "https://github.com/github/copilot-sdk",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services [39 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "agent",
+      "Copilot"
+    ]
+  },
+  {
+    "title": "AI advice made people less accurate but more confident – sudy",
+    "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+    "source": "Hacker News",
+    "published_at": "Sun, 19 Jul 2026 21:18:10 +0000",
+    "description": "Article URL: https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study Comments URL: https://news.ycombinator.com/item?id=48971738 Points: 273 # Comments: 153",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  },
+  {
+    "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+    "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
+    "source": "Hacker News",
+    "published_at": "Sun, 19 Jul 2026 16:02:25 +0000",
+    "description": "Article URL: https://twitter.com/kimi_moonshot/status/2078855608565207130 Comments URL: https://news.ycombinator.com/item?id=48969291 Points: 220 # Comments: 87",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  },
+  {
+    "title": "C64 Basic Dungeon Crawler: Goblin Attack (C64 Basic Part 8)",
+    "url": "https://retrogamecoders.com/c64-basic-dungeon-part8/",
+    "source": "Hacker News",
+    "published_at": "Sun, 19 Jul 2026 15:20:22 +0000",
+    "description": "Article URL: https://retrogamecoders.com/c64-basic-dungeon-part8/ Comments URL: https://news.ycombinator.com/item?id=48968949 Points: 60 # Comments: 4",
+    "score": 2.0,
+    "keywords_matched": [
+      "game"
+    ]
+  },
+  {
+    "title": "Minecraft: Java Edition now uses SDL3",
+    "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
+    "source": "Hacker News",
+    "published_at": "Sun, 19 Jul 2026 11:48:18 +0000",
+    "description": "Article URL: https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4 Comments URL: https://news.ycombinator.com/item?id=48967256 Points: 270 # Comments: 178",
+    "score": 2.0,
+    "keywords_matched": [
+      "Minecraft"
+    ]
+  }
+]
