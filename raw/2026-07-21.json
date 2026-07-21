@@ -1,0 +1,300 @@
+[
+  {
+    "title": "LLM-Driven AutoML for Cross-Lingual Handwritten OCR: Closed-Loop Neural Architecture Search with GPT-5, GPT-4o, and Claude Sonnet 4",
+    "url": "https://arxiv.org/abs/2607.15509",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 20 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.15509v1 Announce Type: cross \nAbstract: We present a fully automated closed-loop AutoML framework that uses GPT-5, GPT-4o, and Claude Sonnet 4 as autonomous neural architecture designers for cross-lingual handwritten optical character recognition. Each large language model independently generates, trains, evaluates, and iteratively refines neural network architectures using performance feedback from previous trials. The framework is evaluated on Arabic, Persian, and English handwritin",
+    "score": 14.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "Claude",
+      "GPT",
+      "neural",
+      "language model",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "Cura 1T: Specialized Model for Agentic Healthcare",
+    "url": "https://arxiv.org/abs/2607.15314",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 20 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.15314v1 Announce Type: new \nAbstract: Healthcare spans high-stakes communication, expert reasoning, and workflow execution, yet specialized LLMs that cover these use cases together remain limited. A healthcare model must handle patient consultation, clinical reasoning over text and images, interactive diagnosis, and electronic health record (EHR) tool use. These capabilities fail in different ways, and a narrow update for one task can degrade another. We present Cura 1T, a healthcare-",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "tool use",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "S1-Omni: A Unified Multimodal Reasoning Model for Scientific Understanding, Prediction, and Generation",
+    "url": "https://arxiv.org/abs/2607.15686",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 20 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.15686v1 Announce Type: new \nAbstract: We present S1-Omni, a unified multimodal reasoning model for scientific understanding, prediction, and generation. AI for Science (AI4S) has advanced significantly through domain-specific models, tool-augmented LLMs, and scientific language models. However, model capabilities remain highly fragmented, limiting the joint modeling of heterogeneous data, scientific laws, and expert knowledge. S1-Omni addresses this gap by consolidating these capabili",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "multimodal",
+      "RAG",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Behavioral Controllability of Agentic Models for Information Extraction: From Fixed Workflows to Reflective Agents",
+    "url": "https://arxiv.org/abs/2607.15715",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 20 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.15715v1 Announce Type: new \nAbstract: Large language model (LLM) agents are increasingly used for complex information-extraction tasks, yet it remains unclear whether agentic components such as reflection and memory lead to observable and controllable improvements over fixed LLM workflows. We study this question through conference-paper dataset extraction, where a system must identify datasets mentioned in scholarly PDFs and produce structured records. We compare a fixed workflow base",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "language model",
+      "memory"
+    ]
+  },
+  {
+    "title": "AI Trading: Evaluating Large Language Models for Technical Market Analysis",
+    "url": "https://arxiv.org/abs/2607.15414",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 20 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.15414v1 Announce Type: cross \nAbstract: Large Language Models (LLMs) have emerged as powerful tools for processing the heterogeneous information environments of modern financial markets. This paper presents a systematic, comparative evaluation of five prominent LLMs: GPT-4 Turbo, Claude 3 Opus, Gemini 1.5 Pro, Llama 3 70B, and the domain-specialized FinGPT, with respect to their capacity for technical market analysis. The evaluation spans four structured tasks: candlestick pattern rec",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "Claude",
+      "Gemini",
+      "GPT",
+      "language model"
+    ]
+  },
+  {
+    "title": "diegosouzapw / OmniRoute",
+    "url": "https://github.com/diegosouzapw/OmniRoute",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors. [1,107 stars today]",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "Claude",
+      "Gemini",
+      "Copilot",
+      "GPT",
+      "multimodal"
+    ]
+  },
+  {
+    "title": "GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis",
+    "url": "https://arxiv.org/abs/2607.15280",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 20 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.15280v1 Announce Type: new \nAbstract: Sequential diagnosis requires balancing diagnostic accuracy against resource costs through iterative information gathering. Existing Large Language Model (LLM) approaches exhibit a critical knowledge-reasoning gap: despite encoding extensive medical knowledge, they struggle to reason systematically under cost constraints, often resorting to excessive testing. We propose GraphDx, a knowledge-enhanced framework with two core innovations. First, we d",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Causal-Audit: Explicit and Auditable Graph-based Reasoning via Target-Aware Causal Chain Construction",
+    "url": "https://arxiv.org/abs/2607.15281",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 20 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.15281v1 Announce Type: new \nAbstract: Causal and intervention-based question answering is fundamental to advancing large language models (LLMs) toward reasoning beyond surface-level correlations and understanding underlying causal mechanisms. However, existing LLM-based methods often rely on implicit language-level reasoning, resulting in opaque causal assumptions, unverifiable reasoning paths, and fragile predictions under complex interventions, particularly in context-free settings.",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "RAG",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "DrawingVQA: A Real-World Benchmark for Multi-Depth Visual-Textual Reasoning on Construction Drawings",
+    "url": "https://arxiv.org/abs/2607.15418",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 20 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.15418v1 Announce Type: new \nAbstract: We introduce DrawingVQA, the first benchmark designed to evaluate multimodal large language models (MLLMs) on real-world construction drawings -- a core media in architecture, civil, and many other engineering practices. Unlike natural images or schematic floor plans, construction drawings fuse abstract geometry, symbolic notation, tabular data, annotations, and domain-specific text, forming a uniquely complex visual-textual domain core to enginee",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "multimodal",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Knowledge-Centric Agents for Workflow Generation",
+    "url": "https://arxiv.org/abs/2607.15845",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 20 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.15845v1 Announce Type: new \nAbstract: Workflow generation in visual creation systems such as ComfyUI demands not only syntactic accuracy but also expert-level reasoning over modular compositions. Existing large language model (LLM) approaches often treat this as a direct text-to-JSON generation task, struggling with structural brittleness and lacking the experiential knowledge required for effective design. We argue that successful workflow generation requires modeling knowledge itsel",
+    "score": 10.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "workflow",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "AV-JEPA: Extending LeJEPA to Audio-Visual Self-Supervised Learning",
+    "url": "https://arxiv.org/abs/2607.15295",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 20 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.15295v1 Announce Type: cross \nAbstract: We present AV-JEPA, an elegant multimodal extension of LeJEPA to audio-visual self-supervised learning. Using an early-fusion Vision Transformer and modality dropout as masking, the model is trained to align the embeddings of global and per-modality local views, while the SIGReg objective encourages a theoretically optimal distribution. This achieves cross-modal alignment in the latent space, resulting in a remarkably clean architecture with no ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "transformer",
+      "multimodal",
+      "RAG",
+      "embedding"
+    ]
+  },
+  {
+    "title": "AnovaX: A Local, Multi-Agent Voice Assistant with LLM Planning, Typed Executors, and Adaptive Recovery",
+    "url": "https://arxiv.org/abs/2607.15367",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 20 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.15367v1 Announce Type: new \nAbstract: Desktop voice assistants are still dominated by cloud pipelines that ship raw audio off the machine and expose a fixed set of skills. We describe AnovaX, a small local-first assistant that runs entirely on the user's computer and treats the desktop itself as its action surface. A single Python process wires together a wake-word gate, a speech pipeline, an LLM planner (Gemini) that emits a JSON plan of tool calls, a whitelist-and-denylist safety la",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "Gemini",
+      "planning"
+    ]
+  },
+  {
+    "title": "Precise but Uncoupled: Reviewer Precision Does Not Guarantee Critique Uptake in Multi-Agent Math Reasoning",
+    "url": "https://arxiv.org/abs/2607.15388",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 20 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.15388v1 Announce Type: new \nAbstract: Many math- and science-oriented agent systems use hierarchical designs with specialized reviewer roles, assuming that a dedicated review stage should help turn wrong candidates into correct ones. We test this assumption on 4,181 verifier-grounded Omni-MATH problems using matched gpt-oss-120b actors. Collaboration adds little on the easiest tiers, but from tier 4 onward the gains open sharply; in this harder regime, broadcast-style peer discussion ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "GPT",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "MGDT: MLLM-Guided Diffusion Transformer with Relation-Adaptive Mixture-of-Experts for Multimodal Knowledge Graph Completion",
+    "url": "https://arxiv.org/abs/2607.15592",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 20 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.15592v1 Announce Type: new \nAbstract: Multimodal Knowledge Graph Completion (MKGC) requires inferring missing entities from structural, textual, and visual cues. Existing diffusion-based MKGC methods usually denoise directly on raw multimodal features. Such a design forces the denoiser to simultaneously perform relation-dependent cue selection, cross-modal semantic alignment, and structure-aware entity generation, which introduces noisy and semantically inconsistent conditions for dif",
+    "score": 8.0,
+    "keywords_matched": [
+      "LLM",
+      "transformer",
+      "diffusion",
+      "multimodal"
+    ]
+  },
+  {
+    "title": "NeurOWL: An LLM-Based Neural-symbolic Framework for Incomplete OWL Ontology Reasoning",
+    "url": "https://arxiv.org/abs/2607.15776",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 20 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.15776v1 Announce Type: new \nAbstract: OWL ontologies provide a formal knowledge representation framework that enables semantic reasoning, and have been widely adopted across domains such as healthcare and bioinformatics. In practice, however, real-world ontologies are often incomplete, which pose challenges for reasoning. In this work, we focus on a fundamental subsumption reasoning problem: given an incomplete ontology and a candidate (non-entailed) subsumption, determine whether the",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "neural",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "AgentFAIR: A Multi-Agent Collaborative Framework for FAIRness Evaluation of Geospatial Datasets",
+    "url": "https://arxiv.org/abs/2607.15781",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 20 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.15781v1 Announce Type: new \nAbstract: Geospatial datasets support applications from urban planning to climate modeling, yet consistent assessment of FAIR compliance is difficult. Existing evaluators use different rubrics and evidence sources and may fail on JavaScript-rendered pages or repository-specific identifiers. For 50 datasets from 10 repositories, the standard deviation of normalized scores across available tools averages 15.0 percentage points and reaches 30.3 for one dataset",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "RAG",
+      "planning"
+    ]
+  },
+  {
+    "title": "Large Language Models as Unified Multimodal Learners for Clinical Prediction",
+    "url": "https://arxiv.org/abs/2607.15380",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 20 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.15380v1 Announce Type: cross \nAbstract: Electronic health records combine free-text clinical narratives with structured measurements such as vital signs, laboratory values, and comorbidities. Yet most clinical prediction systems still rely on task-specific fusion architectures, pairing dedicated encoders for each modality with learned combination mechanisms that must be re-engineered for every new task and clinical setting. We propose a simpler alternative: convert all patient data, r",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "language model",
+      "multimodal",
+      "narrative"
+    ]
+  },
+  {
+    "title": "Attention-Guided Saliency Maps for Interpreting Visualization Literacy in VLMs",
+    "url": "https://arxiv.org/abs/2607.16105",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 20 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.16105v1 Announce Type: cross \nAbstract: Understanding how vision-language models (VLMs) interpret data visualizations remains an open problem, and is increasingly important as these models are used for analytical tasks where reliable reasoning is essential. We introduce a lightweight, diagnostic saliency map method tailored for text generation over images using transformer models, the current state-of-the-art models in visualization interpretation. Our approach aggregates the language",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "transformer",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "HiLSVA: Design and Evaluation of a Human-in-the-Loop Agentic System for Scientific Visualization",
+    "url": "https://arxiv.org/abs/2606.26614",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 20 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2606.26614v2 Announce Type: replace \nAbstract: Large language model (LLM) agents enable natural language interaction for scientific visualization (SciVis). Still, prior systems have essentially prioritized autonomy over human analytical control, thereby limiting transparency and human oversight. We present HiLSVA, a human-in-the-loop agentic system that supports mixed-initiative SciVis workflows. HiLSVA integrates a plan-first multi-agent architecture with explicit human oversight, stepwis",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "workflow",
+      "language model"
+    ]
+  },
+  {
+    "title": "Memory-Driven Self-Disclosure and Relational Turning Points: A Longitudinal Multimodal Study of Human-AI Interaction",
+    "url": "https://arxiv.org/abs/2607.14593",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 20 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.14593v2 Announce Type: replace \nAbstract: As conversational AI systems are designed for repeated use, a central question is how a series of interactions becomes a relationship. We present a longitudinal multimodal study of a memory-augmented conversational agent (24 participants x 10 sessions), in which participants rated five relational constructs -- familiarity, self-disclosure, perceived memory, conversational quality, and enjoyment -- after each session. Two complementary dynamics",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "multimodal",
+      "memory"
+    ]
+  }
+]
