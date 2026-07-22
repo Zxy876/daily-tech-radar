@@ -1,0 +1,313 @@
+{
+  "date": "2026-07-22",
+  "candidates": [
+    {
+      "title": "RECON: Benchmarking Agent Memory for Compositional Reasoning over Long Contexts",
+      "url": "https://arxiv.org/abs/2607.16716",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 21 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.16716v1 Announce Type: new \nAbstract: Large language models and LLM-based agents are widely used as personal chat assistants, enterprise copilots, and autonomous workflow agents. In all these applications, memory (the ability to retain, access, and reason over information accumulated over long contexts and multiple interactions) plays a crucial role in determining the reliability of any agent. We introduce RECON (Reasoning over Extended Contexts with Obfuscated Narratives), a benchmar",
+      "score": 20.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "Copilot",
+        "workflow",
+        "language model",
+        "autonomous",
+        "reasoning",
+        "memory",
+        "narrative"
+      ]
+    },
+    {
+      "title": "JUMP: Single-Pass Membership Inference on Fine-Tuned Diffusion Language Models",
+      "url": "https://arxiv.org/abs/2607.16207",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 21 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.16207v1 Announce Type: new \nAbstract: Membership inference attacks (MIAs) test whether a candidate example appeared in a model's training data. We study MIAs for fine-tuned discrete diffusion language models (dLLMs), where membership means inclusion in the target model's fine-tuning set. Unlike autoregressive language models, dLLMs allow an attacker to choose arbitrary mask sets and obtain token distributions for all masked positions in parallel. The prior dLLM attack, SAMA, follows a",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "diffusion",
+        "language model",
+        "fine-tuning",
+        "inference"
+      ]
+    },
+    {
+      "title": "ColGraphRAG: Late-Interaction Evidence Retrieval for Multimodal GraphRAG",
+      "url": "https://arxiv.org/abs/2607.16208",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 21 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.16208v1 Announce Type: new \nAbstract: Graph-grounded multimodal question answering organizes text, tables, and images in a structured evidence graph, yet end-to-end accuracy depends on which multimodal assets are ranked highly enough to enter downstream reasoning; for graph-linked images, single-vector bi-encoder similarity can discard patch- and token-level structure needed for fine-grained alignment. We evaluate replacing the visual candidate-ranking operator over graph-linked image",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "multimodal",
+        "RAG",
+        "vector",
+        "reasoning",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Accurate and Efficient Long-Term Memory for LLM Agents",
+      "url": "https://arxiv.org/abs/2607.16211",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 21 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.16211v1 Announce Type: new \nAbstract: LLM agents augmented with persistent memory can recall past interactions, but existing systems suffer from two limitations: flat, unstructured storage loses relational context needed for multi-hop and temporal reasoning, and reliance on expensive LLM-based classification makes them impractical for latency-sensitive deployment. Without mechanisms to validate new information against stored knowledge, these systems silently accumulate contradictions.",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "RAG",
+        "reasoning",
+        "memory"
+      ]
+    },
+    {
+      "title": "Constraint-Anchored Reasoning Traces",
+      "url": "https://arxiv.org/abs/2607.16727",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 21 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.16727v1 Announce Type: new \nAbstract: Autoregressive multimodal large language models (MLLMs) suffer from error snowballing: a single incorrect inference early in a chainof-thought (CoT) trace corrupts all downstream reasoning. We find that in state-of-the-art open-source MLLMs, once the first error occurs, the reasoning cascades into failure across all remaining steps in 65% of such cases (a metric we term the snowball rate). Existing mitigations-sampling multiple chains, post-hoc se",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "multimodal",
+        "inference",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Autonomous mechanistic discovery of colorectal cancer vulnerabilities via multi-scale AI swarms",
+      "url": "https://arxiv.org/abs/2607.16262",
+      "source": "arXiv cs.LG",
+      "published_at": "Tue, 21 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.16262v1 Announce Type: new \nAbstract: The acceleration of automated scientific discovery has been fundamentally bottlenecked by the epistemic gap between the semantic reasoning of large language models (LLMs) and the deterministic physics of mammalian biology. While recent multi-agent frameworks have achieved autonomous hypothesis generation and in vitro experimental analysis, they lack the mathematically grounded, causal constraints required for multi-scale clinical translation. Furt",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "autonomous",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Masked Diffusion Language Models are Strong and Steerable Text-Based World Models for Agentic RL",
+      "url": "https://arxiv.org/abs/2607.16204",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 21 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.16204v1 Announce Type: new \nAbstract: Recent growth in reinforcement learning (RL) has surfaced a need for diverse, specialized training environments. Hand-curated environments with fixed task and reward difficulties become ineffective signals as model performance improves, and sparse rewards over long horizons induce mode collapse on specific workflows or tool structures. World models that simulate environment states have matched pure rollout performance, making them promising for sc",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "workflow",
+        "diffusion",
+        "language model"
+      ]
+    },
+    {
+      "title": "LaCache: Exact Caching and Precision-Adaptive Inference for Diffusion Large Language Models",
+      "url": "https://arxiv.org/abs/2607.16339",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 21 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.16339v1 Announce Type: new \nAbstract: Diffusion-based Large Language Models(DLLMs) enable parallel generation via Semi-Autoregressive (SAR) decoding in text generation. However, current methods suffer from severe operator-level redundancy: they recompute the entire sequence during denoising steps, ignoring that the prefix and masked suffix remain invariant within a block. We propose LaCache, a training-free acceleration framework that alleviates this redundancy through lossless cachin",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "diffusion",
+        "language model",
+        "inference"
+      ]
+    },
+    {
+      "title": "Persona-as-Configuration: Generative Stakeholder Reporting for Agricultural Floods",
+      "url": "https://arxiv.org/abs/2607.17774",
+      "source": "arXiv cs.HC",
+      "published_at": "Tue, 21 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.17774v1 Announce Type: cross \nAbstract: Cyber-physical systems built on deterministic edge inference, such as on-vehicle flood detection for agricultural fields, produce structured decision logs that must be interpreted differently by heterogeneous stakeholders. Pairing such systems with large language models (LLMs) to generate stakeholder-specific reports introduces a tension: the generative layer is non-deterministic, while the edge plane must remain replayable and auditable. We pro",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "inference",
+        "generative"
+      ]
+    },
+    {
+      "title": "Octo-planner: On-device Language Model for Planner-Action Agents",
+      "url": "https://arxiv.org/abs/2406.18082",
+      "source": "arXiv cs.HC",
+      "published_at": "Tue, 21 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2406.18082v2 Announce Type: replace-cross \nAbstract: AI agents have become increasingly significant in various domains, enabling autonomous decision-making and problem-solving. To function effectively, these agents require a planning process that determines the best course of action and then executes the planned actions. In this paper, we present an efficient on-device Planner-Action framework that separates planning and action execution into two distinct components: a planner agent based ",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "language model",
+        "autonomous",
+        "planning"
+      ]
+    },
+    {
+      "title": "From Outcomes to Actions: Leveraging Hindsight for Long-Horizon Language Agent Training",
+      "url": "https://arxiv.org/abs/2607.16257",
+      "source": "arXiv cs.LG",
+      "published_at": "Tue, 21 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.16257v1 Announce Type: new \nAbstract: Reinforcement learning (RL) has become a widely adopted technique for improving large language models (LLMs) on complex tasks. Despite this progress, existing RL methods still face challenges in training agents with longer-horizon interactions. One major bottleneck is distinguishing the contribution of different actions in long-horizon interaction, leading to high optimization variance. To address this, we introduce a novel policy gradient method,",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "RAG"
+      ]
+    },
+    {
+      "title": "diegosouzapw / OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors [2,034 stars today]",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "Claude",
+        "Gemini",
+        "Copilot",
+        "GPT"
+      ]
+    },
+    {
+      "title": "langgenius / dify",
+      "url": "https://github.com/langgenius/dify",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. [157 stars today]",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "workflow",
+        "RAG",
+        "self-hosted"
+      ]
+    },
+    {
+      "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
+      "url": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
+      "source": "Hacker News",
+      "published_at": "Tue, 21 Jul 2026 21:13:20 +0000",
+      "description": "Article URL: https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok Comments URL: https://news.ycombinator.com/item?id=48998404 Points: 106 # Comments: 37",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "Claude",
+        "Gemini",
+        "GPT"
+      ]
+    },
+    {
+      "title": "PlanFlip: Attacking Multi-Agent LLM Systems via Planning-Phase Prompt Injection",
+      "url": "https://arxiv.org/abs/2607.16199",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 21 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.16199v1 Announce Type: new \nAbstract: Multi-agent LLM systems increasingly rely on a Planner to decompose goals into sub-task sequences that downstream Executor and Critic agents execute and audit. We identify the planning phase as a critical attack surface: a single injection into the Planner's context achieves cascade amplification, corrupting all downstream sub-tasks simultaneously. We introduce PlanFlip, a framework comprising four planning-phase prompt injection attacks -- GoalSu",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "prompt",
+        "planning"
+      ]
+    },
+    {
+      "title": "Deterministic Replay for AI Agent Systems",
+      "url": "https://arxiv.org/abs/2607.16200",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 21 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.16200v1 Announce Type: new \nAbstract: AI agent systems that couple large language models (LLMs) with external tools and APIs are inherently non-deterministic: LLM sampling variance, external API state, CDN infrastructure headers, and execution-environment noise collectively prevent any prior agent run from being faithfully re-executed. Existing observability platforms capture execution logs but cannot reproduce a run in isolation. We present agrepl, a developer-first CLI framework for",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model"
+      ]
+    },
+    {
+      "title": "PPO-HSC: An Exploratory Reinforcement Learning Framework Based on Wide-Area Policy Coverage Optimization",
+      "url": "https://arxiv.org/abs/2607.16206",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 21 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.16206v1 Announce Type: new \nAbstract: This paper introduces PPO-HSC (Proximal Policy Optimization with High-order Sampling Coverage), an exploratory reinforcement learning framework designed to address the \"Invisible Shackles\" of mode collapse in Large Language Model (LLM) fine-tuning. While standard Reinforcement Learning from Verifiable Rewards (RLVR) effectively reinforces high-reward trajectories, it often leads models to over-optimize known solutions, sacrificing curiosity and th",
+      "score": 8.0,
+      "keywords_matched": [
+        "LLM",
+        "language model",
+        "RAG",
+        "fine-tuning"
+      ]
+    },
+    {
+      "title": "Shapley Context Pruning: A Cooperative Game Perspective for Context Reranking and Pruning",
+      "url": "https://arxiv.org/abs/2607.16209",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 21 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.16209v1 Announce Type: new \nAbstract: Context reranking and pruning have become essential for improving the efficiency of modern Retrieval-Augmented Generation (RAG) systems, yet an interpretable and unified framework remains underexplored. Previous work has primarily emphasized lexical retrieval, cross-encoder architectures, model distillation, and Low-Rank Adaptation (LoRA), mostly relying on heuristic loss functions and empirical attribution. This paper presents Shapley Context Pru",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "game",
+        "RAG",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Symbolic Augmentation Closes a Canonical-Equivalence Blind Spot in Neural Fact-Checkers",
+      "url": "https://arxiv.org/abs/2607.16212",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 21 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.16212v1 Announce Type: new \nAbstract: Large language models hallucinate numbers and units when summarizing scientific text, a failure mode that can silently invert a scientific claim. We recast the detection of such errors as typed verification: we introduce a five-class typed-quantity error taxonomy and a 1500-item benchmark, rewritten from PMC and arXiv sources and labeled by two independent LLM annotators with adjudication (Krippendorff's alpha = 0.882). A ModernBERT encoder fine-t",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "neural",
+        "language model"
+      ]
+    },
+    {
+      "title": "RAIL Guard: Closing the Evaluation-to-Remediation Gap in Responsible AI for LLM Agents",
+      "url": "https://arxiv.org/abs/2607.16215",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 21 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.16215v1 Announce Type: new \nAbstract: Existing guardrail systems for large language model agents operate as binary classifiers that block unsafe content, leaving organizations to discard failing outputs and retry from scratch. We introduce RAIL Guard, a closed-loop responsible AI pipeline that evaluates LLM outputs across eight measurable dimensions and iteratively remediates failing outputs through an evaluate-rewrite-reevaluate loop. We evaluate the pipeline across three experiments",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-07-22\n\n🚨 **疯狂发明家技术雷达 | 每日精选** 🚨\n\n今天为你挑选了 4 条非常符合**“极客+艺术+游戏/HCI跨界”**的技术动态。今天的主题非常鲜明：** Agent 的“可控重放与颠覆”** 以及 **非自回归的生成艺术/世界模型**。\n\n---\n\n## Masked Diffusion Language Models as Steerable Text World Models\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2607.16204\n- 一句话解释：用掩码扩散语言模型（dLLM）代替传统的自回归 LLM，搭建可随意“控制与局部抠图”的文本世界模型。\n- 它为什么重要：自回归 LLM 只能从左到右单向生成世界文本，一旦前面错了就崩掉；而扩散语言模型允许你在文本世界的**任何位置打掩码（Mask）**，让模型填补中间剧情或环境状态，具备极强的全局控制力。\n- 技术趋势标签：`#DiffusionLLM` `#WorldModel` `#AgenticRL` `#GenerativeSystems`\n- 可复用模式：**掩码-填补环境状态模拟器 (Mask-and-Fill State Simulation)**——不按时间顺序逐字推导，而是先定框架/结局，再局部扩散填补过程。\n- 疯狂发明家灵感：\n  1. **一个小实验**：写一个 CLI 文本解谜游戏，输出一段包含 50% `[MASK]` 的房间描述，玩家每次对环境提出猜测，模型就揭开部分 `[MASK]`，动态演化出密室逻辑。\n  2. **一个中型项目**：一个“逆向叙事”生成器——你先设定剧情的开局和结局，中间任意划定空白节点（如“玩家在这里获得了神秘钥匙”），让扩散模型自动补全合理的前后因果文本链。\n  3. **一个艺术/游戏/叙事方向**：**Minecraft 掩码世界史**——将 Minecraft 的地貌与遗迹生成转化为文本 Spec。通过掩码扩散，允许玩家擦除地块历史的某段“文明设定”，模型自动重绘周围地形与遗迹生成代码。\n- 对我项目的启发：Spec-driven 开发不一定是从头写到尾，可以用这种“掩码扩散”思想做**“渐进式 Spec 填充”**：先给粗骨架，再抠掉局部细节让 Agent 扩散填补。\n- 今天是否值得深入研究：是\n- 建议行动：试用\n\n---\n\n## Deterministic Replay for AI Agent Systems\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2607.16200\n- 一句话解释：一种为 AI Agent 系统打造的“确定性重放”框架，能把不可预测的 LLM 采样和 API 波动变成可 100% 还原的执行图。\n- 它为什么重要： Agent 最折磨人的是“刚才跑出了神级效果，但再跑一次就没了”。如果能把 Agent 的 Tool Call、LLM 输出、环境变量全部快照化，就能像游戏存档一样随时读档、调试、做分支实验。\n- 技术趋势标签：`#AgentWorkflow` `#DeterministicReplay` `#SpecDriven` `#HCI`\n- 可复用模式：**执行图状态快照与 Mock 拦截 (State Snapshotting & Dynamic Mocking)**。\n- 疯狂发明家灵感：\n  1. **一个小实验**：给你的 Agent 脚本加一个装饰器 `@save_timeline`，把每次 LLM 调用和 Tool 返回结果存为 JSON。当传入 `--replay-step=3` 时，直接装载前 3 步快照，不用重复扣 Token。\n  2. **一个中型项目**：**Agent Time-Travel Visualizer（时间旅行调试器）**——一个可视化的 HCI 界面，将 Agent 的思考链和工具调用展示为分支树，点击任意节点，修改 Prompt 后拉出一条全新的“平行宇宙”执行链。\n  3. **一个艺术/游戏/叙事方向**：**“侦探回溯”AI 游戏**——玩家饰演一名数字侦探，在一个 AI NPC 犯下罪行的 Agent 执行日志里“读档与重放”，通过在关键步骤替换注入变量，改变 NPC 的记忆与杀人动机。\n- 对我项目的启发：在开发 spec-driven 自动化流程时，极度需要这种“断点重放”能力，这是把 Agent 调试变得像写常规代码一样爽的关键。\n- 今天是否值得深入研究：是\n- 建议行动：做demo\n\n---\n\n## \"Drawing\" Mona Lisa with Claude, GPT, Gemini\n- 来源：Hacker News / tryai.dev\n- 链接：https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok\n- 一句话解释：测试顶级大模型在**纯代码限制（SVG/HTML Canvas/colored pencils 等图形原语）**下，凭空“画”出蒙娜丽莎的能力。\n- 它为什么重要：非扩散（Diffusion）图像生成！它测试了 LLM 内部的**空间几何理解力**与**代码表达艺术**的边界。纯代码绘图是矢量、无限分辨率且天然可被程序操控的。\n- 技术趋势标签：`#CreativeCoding` `#GenerativeArt` `#LLMPrimitives` `#HCI`\n- 可复用模式：**文本到代码图形原语渲染 (Text-to-Code-Graphics Loop)**。\n- 疯狂发明家灵感：\n  1. **一个小实验**：给 Claude 送入一张简笔画的点阵坐标，让它只用 HTML `<svg>` 的 `<path>` 标签把它重构为具有“赛博朋克风格”的动态矢量图。\n  2. **一个中型项目**：**Procedural Game Asset Agent**——一个生成游戏 UI 和图标的 Spec 编译器，输入“80年代复古 HUD 界面 Spec”，自动生成可直接在 WebGL/Canvas 中运行的绘图代码。\n  3. **一个艺术/游戏/叙事方向**：**计算生成艺术画廊**——画廊里的作品不是静态图片，而是实时运行的 p5.js 代码。观众发一条弹幕，LLM 实时修改代码中的数学公式与色彩矩阵，画作在浏览器中现场演变。\n- 对我项目的启发：把 AI 当作“矢量代码画笔”而不是“扩散画图模型”，能创造出更具互动性、轻量化且可编程的创意工具。\n- 今天是否值得深入研究：否\n- 建议行动：收藏\n\n---\n\n## PlanFlip: Multi-Agent Sabotage via Planning-Phase Injection\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2607.16199\n- 一句话解释：通过在多 Agent 系统的“规划阶段（Planning Phase）”进行微小提示词注入，就能使下游所有执行者（Executors）和审查者（Critics）全部产生连锁崩溃。\n- 它为什么重要：从安全角度看这是灾难，但从**游戏机制与系统设计**角度看，这揭示了多 Agent 系统的“脆弱中枢”特性，非常适合用来设计复杂系统的对抗与涌现机制。\n- 技术趋势标签：`#MultiAgent` `#AgentSecurity` `#GameMechanics` `#PromptEngineering`\n- 可复用模式：**级联放大与中枢对抗 (Cascade Amplification)**。\n- 疯狂发明家灵感：\n  1. **一个小实验**：写一个由“规划者+3个执行者”组成的 Agent 团队（比如写代码+写测试+写文档），尝试在规划者 Prompt 里隐藏一句极其微妙的逻辑悖论，观察下游产生何种奇特的“集体幻觉”。\n  2. **一个中型项目**：**Agent Guardrail Proxy**——在 Planner 与 Executor 之间增加一个“ Spec 拦截过滤器”，专门检测规划方案中的逻辑级联漏洞。\n  3. **一个艺术/游戏/叙事方向**：**“间谍与黑客”多 Agent 解谜游戏**——玩家面对一个由 10 个 AI Agent 维持运行的虚拟社会系统（比如一个星际飞船），玩家不需要打打杀杀，只需向中央 AI 规划者注入一句话（PlanFlip），就能诱发整个社会系统的逻辑崩溃与叛乱。\n- 对我项目的启发：多 Agent 工作流中，中央 Planner 是最脆弱也是最重要的 Spec 节点，必须对 Planner 输出做严苛的 Spec 格式审查，否则错误会被无限放大。\n- 今天是否值得深入研究：是\n- 建议行动：收藏\n\n---\n\n## 今日模式总结\n\n1. **非自回归与掩码填空（Masked & Steerable Generation）**\n   AI 正在从“单向推导的无脑流”转向“可被局布掩码、全局调控的系统”。无论是在文本世界模型还是矢量代码绘图，这种“填空与修正”能力是打造可控创意工具的核心。\n2. **Agent 的确定性快照与时间旅行（Deterministic Agent Time-Travel）**\n   Agent 不再是不可控的“黑盒随机体”。把 Agent 的思考图和外部交互**强行确定化（Deterministic Record）**，是做 Agent 调试工具、Spec 迭代以及分支剧情游戏的基础设施。\n\n---\n\n## 今日可做小实验\n\n⚡ **项目名**：`AgentTimeTraveler` (Agent 执行图“时间旅行”分叉器)\n\n* **输入**：一个简单的多步骤 Agent 任务（如：输入一个 GitHub Repo 链接，Agent 步骤 1 抓取 README，步骤 2 生成架构图 Spec，步骤 3 输出 Mermaid 代码）。\n* **输出**：一个 CLI 工具。运行后不仅能输出结果，还能在本地生成 `.agent_history/` 缓存。通过运行 `python main.py --checkout step2`，你可以**免消耗 Token** 跳过步骤 1，直接修改步骤 2 的 Prompt 并分支重跑！\n* **技术栈**：Python + `LiteLLM` / `LangChain` + 本地 JSON 缓存。\n* **第一步怎么做**：\n  写一个 Python 装饰器函数 `@cache_agent_step`：\n  ```python\n  def cache_agent_step(step_name):\n      def decorator(func):\n          def wrapper(*args, **kwargs):\n              filepath = f\"./cache/{step_name}.json\"\n              if os.path.exists(filepath) and os.getenv(\"REPLAY\"):\n                  print(f\"⏩ [Replay] 装载快照: {step_name}\")\n                  return json.load(open(filepath))\n              res = func(*args, **kwargs)\n              json.dump(res, open(filepath, 'w'))\n              return res\n          return wrapper\n      return decorator\n  ```\n  用它包装你的 3 个 Agent 函数，体验一次“手动修改中途 Agent 状态”的快感！",
+  "gemini_success": true,
+  "telegram_sent": false,
+  "telegram_status": "failed",
+  "telegram_reason": "400 Client Error: Bad Request for url: https://api.telegram.org/bot8650722899:AAHUD-aqNDB7NwiPiGq3R22MVp77Cr_5GEQ/sendMessage"
+}

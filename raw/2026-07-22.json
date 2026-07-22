@@ -1,0 +1,305 @@
+[
+  {
+    "title": "RECON: Benchmarking Agent Memory for Compositional Reasoning over Long Contexts",
+    "url": "https://arxiv.org/abs/2607.16716",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 21 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.16716v1 Announce Type: new \nAbstract: Large language models and LLM-based agents are widely used as personal chat assistants, enterprise copilots, and autonomous workflow agents. In all these applications, memory (the ability to retain, access, and reason over information accumulated over long contexts and multiple interactions) plays a crucial role in determining the reliability of any agent. We introduce RECON (Reasoning over Extended Contexts with Obfuscated Narratives), a benchmar",
+    "score": 20.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "Copilot",
+      "workflow",
+      "language model",
+      "autonomous",
+      "reasoning",
+      "memory",
+      "narrative"
+    ]
+  },
+  {
+    "title": "JUMP: Single-Pass Membership Inference on Fine-Tuned Diffusion Language Models",
+    "url": "https://arxiv.org/abs/2607.16207",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 21 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.16207v1 Announce Type: new \nAbstract: Membership inference attacks (MIAs) test whether a candidate example appeared in a model's training data. We study MIAs for fine-tuned discrete diffusion language models (dLLMs), where membership means inclusion in the target model's fine-tuning set. Unlike autoregressive language models, dLLMs allow an attacker to choose arbitrary mask sets and obtain token distributions for all masked positions in parallel. The prior dLLM attack, SAMA, follows a",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "diffusion",
+      "language model",
+      "fine-tuning",
+      "inference"
+    ]
+  },
+  {
+    "title": "ColGraphRAG: Late-Interaction Evidence Retrieval for Multimodal GraphRAG",
+    "url": "https://arxiv.org/abs/2607.16208",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 21 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.16208v1 Announce Type: new \nAbstract: Graph-grounded multimodal question answering organizes text, tables, and images in a structured evidence graph, yet end-to-end accuracy depends on which multimodal assets are ranked highly enough to enter downstream reasoning; for graph-linked images, single-vector bi-encoder similarity can discard patch- and token-level structure needed for fine-grained alignment. We evaluate replacing the visual candidate-ranking operator over graph-linked image",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "multimodal",
+      "RAG",
+      "vector",
+      "reasoning",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Accurate and Efficient Long-Term Memory for LLM Agents",
+    "url": "https://arxiv.org/abs/2607.16211",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 21 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.16211v1 Announce Type: new \nAbstract: LLM agents augmented with persistent memory can recall past interactions, but existing systems suffer from two limitations: flat, unstructured storage loses relational context needed for multi-hop and temporal reasoning, and reliance on expensive LLM-based classification makes them impractical for latency-sensitive deployment. Without mechanisms to validate new information against stored knowledge, these systems silently accumulate contradictions.",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "RAG",
+      "reasoning",
+      "memory"
+    ]
+  },
+  {
+    "title": "Constraint-Anchored Reasoning Traces",
+    "url": "https://arxiv.org/abs/2607.16727",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 21 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.16727v1 Announce Type: new \nAbstract: Autoregressive multimodal large language models (MLLMs) suffer from error snowballing: a single incorrect inference early in a chainof-thought (CoT) trace corrupts all downstream reasoning. We find that in state-of-the-art open-source MLLMs, once the first error occurs, the reasoning cascades into failure across all remaining steps in 65% of such cases (a metric we term the snowball rate). Existing mitigations-sampling multiple chains, post-hoc se",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "multimodal",
+      "inference",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Autonomous mechanistic discovery of colorectal cancer vulnerabilities via multi-scale AI swarms",
+    "url": "https://arxiv.org/abs/2607.16262",
+    "source": "arXiv cs.LG",
+    "published_at": "Tue, 21 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.16262v1 Announce Type: new \nAbstract: The acceleration of automated scientific discovery has been fundamentally bottlenecked by the epistemic gap between the semantic reasoning of large language models (LLMs) and the deterministic physics of mammalian biology. While recent multi-agent frameworks have achieved autonomous hypothesis generation and in vitro experimental analysis, they lack the mathematically grounded, causal constraints required for multi-scale clinical translation. Furt",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "autonomous",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Masked Diffusion Language Models are Strong and Steerable Text-Based World Models for Agentic RL",
+    "url": "https://arxiv.org/abs/2607.16204",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 21 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.16204v1 Announce Type: new \nAbstract: Recent growth in reinforcement learning (RL) has surfaced a need for diverse, specialized training environments. Hand-curated environments with fixed task and reward difficulties become ineffective signals as model performance improves, and sparse rewards over long horizons induce mode collapse on specific workflows or tool structures. World models that simulate environment states have matched pure rollout performance, making them promising for sc",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow",
+      "diffusion",
+      "language model"
+    ]
+  },
+  {
+    "title": "LaCache: Exact Caching and Precision-Adaptive Inference for Diffusion Large Language Models",
+    "url": "https://arxiv.org/abs/2607.16339",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 21 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.16339v1 Announce Type: new \nAbstract: Diffusion-based Large Language Models(DLLMs) enable parallel generation via Semi-Autoregressive (SAR) decoding in text generation. However, current methods suffer from severe operator-level redundancy: they recompute the entire sequence during denoising steps, ignoring that the prefix and masked suffix remain invariant within a block. We propose LaCache, a training-free acceleration framework that alleviates this redundancy through lossless cachin",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "diffusion",
+      "language model",
+      "inference"
+    ]
+  },
+  {
+    "title": "Persona-as-Configuration: Generative Stakeholder Reporting for Agricultural Floods",
+    "url": "https://arxiv.org/abs/2607.17774",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 21 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.17774v1 Announce Type: cross \nAbstract: Cyber-physical systems built on deterministic edge inference, such as on-vehicle flood detection for agricultural fields, produce structured decision logs that must be interpreted differently by heterogeneous stakeholders. Pairing such systems with large language models (LLMs) to generate stakeholder-specific reports introduces a tension: the generative layer is non-deterministic, while the edge plane must remain replayable and auditable. We pro",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "inference",
+      "generative"
+    ]
+  },
+  {
+    "title": "Octo-planner: On-device Language Model for Planner-Action Agents",
+    "url": "https://arxiv.org/abs/2406.18082",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 21 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2406.18082v2 Announce Type: replace-cross \nAbstract: AI agents have become increasingly significant in various domains, enabling autonomous decision-making and problem-solving. To function effectively, these agents require a planning process that determines the best course of action and then executes the planned actions. In this paper, we present an efficient on-device Planner-Action framework that separates planning and action execution into two distinct components: a planner agent based ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "language model",
+      "autonomous",
+      "planning"
+    ]
+  },
+  {
+    "title": "From Outcomes to Actions: Leveraging Hindsight for Long-Horizon Language Agent Training",
+    "url": "https://arxiv.org/abs/2607.16257",
+    "source": "arXiv cs.LG",
+    "published_at": "Tue, 21 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.16257v1 Announce Type: new \nAbstract: Reinforcement learning (RL) has become a widely adopted technique for improving large language models (LLMs) on complex tasks. Despite this progress, existing RL methods still face challenges in training agents with longer-horizon interactions. One major bottleneck is distinguishing the contribution of different actions in long-horizon interaction, leading to high optimization variance. To address this, we introduce a novel policy gradient method,",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "RAG"
+    ]
+  },
+  {
+    "title": "diegosouzapw / OmniRoute",
+    "url": "https://github.com/diegosouzapw/OmniRoute",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors [2,034 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "Claude",
+      "Gemini",
+      "Copilot",
+      "GPT"
+    ]
+  },
+  {
+    "title": "langgenius / dify",
+    "url": "https://github.com/langgenius/dify",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. [157 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow",
+      "RAG",
+      "self-hosted"
+    ]
+  },
+  {
+    "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
+    "url": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
+    "source": "Hacker News",
+    "published_at": "Tue, 21 Jul 2026 21:13:20 +0000",
+    "description": "Article URL: https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok Comments URL: https://news.ycombinator.com/item?id=48998404 Points: 106 # Comments: 37",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "Claude",
+      "Gemini",
+      "GPT"
+    ]
+  },
+  {
+    "title": "PlanFlip: Attacking Multi-Agent LLM Systems via Planning-Phase Prompt Injection",
+    "url": "https://arxiv.org/abs/2607.16199",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 21 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.16199v1 Announce Type: new \nAbstract: Multi-agent LLM systems increasingly rely on a Planner to decompose goals into sub-task sequences that downstream Executor and Critic agents execute and audit. We identify the planning phase as a critical attack surface: a single injection into the Planner's context achieves cascade amplification, corrupting all downstream sub-tasks simultaneously. We introduce PlanFlip, a framework comprising four planning-phase prompt injection attacks -- GoalSu",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "prompt",
+      "planning"
+    ]
+  },
+  {
+    "title": "Deterministic Replay for AI Agent Systems",
+    "url": "https://arxiv.org/abs/2607.16200",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 21 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.16200v1 Announce Type: new \nAbstract: AI agent systems that couple large language models (LLMs) with external tools and APIs are inherently non-deterministic: LLM sampling variance, external API state, CDN infrastructure headers, and execution-environment noise collectively prevent any prior agent run from being faithfully re-executed. Existing observability platforms capture execution logs but cannot reproduce a run in isolation. We present agrepl, a developer-first CLI framework for",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model"
+    ]
+  },
+  {
+    "title": "PPO-HSC: An Exploratory Reinforcement Learning Framework Based on Wide-Area Policy Coverage Optimization",
+    "url": "https://arxiv.org/abs/2607.16206",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 21 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.16206v1 Announce Type: new \nAbstract: This paper introduces PPO-HSC (Proximal Policy Optimization with High-order Sampling Coverage), an exploratory reinforcement learning framework designed to address the \"Invisible Shackles\" of mode collapse in Large Language Model (LLM) fine-tuning. While standard Reinforcement Learning from Verifiable Rewards (RLVR) effectively reinforces high-reward trajectories, it often leads models to over-optimize known solutions, sacrificing curiosity and th",
+    "score": 8.0,
+    "keywords_matched": [
+      "LLM",
+      "language model",
+      "RAG",
+      "fine-tuning"
+    ]
+  },
+  {
+    "title": "Shapley Context Pruning: A Cooperative Game Perspective for Context Reranking and Pruning",
+    "url": "https://arxiv.org/abs/2607.16209",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 21 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.16209v1 Announce Type: new \nAbstract: Context reranking and pruning have become essential for improving the efficiency of modern Retrieval-Augmented Generation (RAG) systems, yet an interpretable and unified framework remains underexplored. Previous work has primarily emphasized lexical retrieval, cross-encoder architectures, model distillation, and Low-Rank Adaptation (LoRA), mostly relying on heuristic loss functions and empirical attribution. This paper presents Shapley Context Pru",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "game",
+      "RAG",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Symbolic Augmentation Closes a Canonical-Equivalence Blind Spot in Neural Fact-Checkers",
+    "url": "https://arxiv.org/abs/2607.16212",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 21 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.16212v1 Announce Type: new \nAbstract: Large language models hallucinate numbers and units when summarizing scientific text, a failure mode that can silently invert a scientific claim. We recast the detection of such errors as typed verification: we introduce a five-class typed-quantity error taxonomy and a 1500-item benchmark, rewritten from PMC and arXiv sources and labeled by two independent LLM annotators with adjudication (Krippendorff's alpha = 0.882). A ModernBERT encoder fine-t",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "neural",
+      "language model"
+    ]
+  },
+  {
+    "title": "RAIL Guard: Closing the Evaluation-to-Remediation Gap in Responsible AI for LLM Agents",
+    "url": "https://arxiv.org/abs/2607.16215",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 21 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.16215v1 Announce Type: new \nAbstract: Existing guardrail systems for large language model agents operate as binary classifiers that block unsafe content, leaving organizations to discard failing outputs and retry from scratch. We introduce RAIL Guard, a closed-loop responsible AI pipeline that evaluates LLM outputs across eight measurable dimensions and iteratively remediates failing outputs through an evaluate-rewrite-reevaluate loop. We evaluate the pipeline across three experiments",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model"
+    ]
+  }
+]
