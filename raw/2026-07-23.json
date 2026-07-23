@@ -1,0 +1,289 @@
+[
+  {
+    "title": "AI Tool Discovery at Scale: All You Need is DNS",
+    "url": "https://arxiv.org/abs/2607.18242",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 22 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.18242v1 Announce Type: new \nAbstract: The coming era of autonomous AI agents demands a discovery mechanism capable of navigating millions of tools, yet existing solutions buckle under O(N) complexity and centralized governance. Instead of building another fragile overlay, we propose ToolDNS, a radical framework that retrofits semantic tool discovery onto the Internet's most resilient substrate: the Domain Name System (DNS). By embedding functional intent and organizational trust into ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "autonomous",
+      "RAG",
+      "embedding"
+    ]
+  },
+  {
+    "title": "Phionyx: A Deterministic AI Runtime Architecture with Structured State Management and Pre-Response Governance",
+    "url": "https://arxiv.org/abs/2607.18246",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 22 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.18246v1 Announce Type: new \nAbstract: We present Phionyx, a deterministic AI runtime architecture derived from the broader Echoism interaction framework that introduces a governance-first approach to AI engineering: treating large language model (LLM) outputs as noisy sensor measurements rather than direct decisions. Unlike probabilistic agents, Phionyx enforces deterministic state evolution via a structured state vector governed by deterministic state-evolution equations, enabling re",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "vector"
+    ]
+  },
+  {
+    "title": "Probabilistic Concept-Aware Steering for Trustworthy LLM Inference",
+    "url": "https://arxiv.org/abs/2607.18259",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 22 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.18259v1 Announce Type: new \nAbstract: Steering vectors (SVs), an inference-time intervention technique for large language models (LLMs), guide the generation process by adding a concept-specific direction vector to intermediate activations during inference. However, existing SV methods frequently yield representation-incoherent behaviors that undermine interpretability and fine-grained control, largely because prior work has focused on binary positive-negative steering evaluation whil",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "vector",
+      "inference"
+    ]
+  },
+  {
+    "title": "State Compression in Two-Agent LLM Relays: A Closed-World Study of Constraint Preservation",
+    "url": "https://arxiv.org/abs/2607.18265",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 22 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.18265v1 Announce Type: new \nAbstract: Long-running Large Language Model (LLM)-based agents often accumulate large intermediate traces containing audits, eliminations, and numeric calculations. In practice, this state is compressed before handing it to a downstream decision step, creating an information bottleneck in which small omissions can break strict numeric or categorical constraints. This paper evaluates hand-off compression in a closed-world travel-planning relay with two LLM a",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "planning"
+    ]
+  },
+  {
+    "title": "Structured Synthetic Reasoning Data for Arithmetic Fine-Tuning of Small Language Models",
+    "url": "https://arxiv.org/abs/2607.18266",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 22 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.18266v1 Announce Type: new \nAbstract: Small language models are attractive for local deployment, but they often struggle with multi-step arithmetic reasoning. We study whether structured synthetic reasoning data can improve this behaviour under consumer-hardware constraints. Starting from GSM8K, we generated a 21,250-example corpus of grade-school arithmetic word-problem variants using GPT-5-mini, combining natural-language solution traces, light Socratic-style cues, structural variat",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "GPT",
+      "language model",
+      "fine-tuning",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Operational Hallucination and Safety Drift in AI Agents",
+    "url": "https://arxiv.org/abs/2607.18366",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 22 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.18366v1 Announce Type: new \nAbstract: Large language models (LLMs) serving as planners in tool-using autonomous agents introduce dynamic reliability risks in multi-turn execution. While single-turn safety mechanisms are relatively mature, extended interactions reveal structural vulnerabilities where initial alignment degrades over time. This paper empirically characterizes two observed failure modes across multiple state-of-the-art LLMs: Safety Drift, the gradual erosion of declared s",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "MAGE: Human-Like Macro Placement via Agentic Multimodal Reasoning",
+    "url": "https://arxiv.org/abs/2607.18536",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 22 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.18536v1 Announce Type: new \nAbstract: Macro placement still requires substantial manual refinement in industrial physical design flows. We present MAGE (Macro Placement Agentic Engine), a multimodal multi-agent framework for macro placement refinement. MAGE decomposes the macro placement task into a six-phase workflow that combines structured floorplanning rules, visual checks, and iterative refinement. Expert floorplanning knowledge is encoded through natural-language directives and ",
+    "score": 10.0,
+    "keywords_matched": [
+      "agent",
+      "workflow",
+      "multimodal",
+      "reasoning",
+      "planning"
+    ]
+  },
+  {
+    "title": "Engineering Trustworthy Agentic AI for Critical Systems",
+    "url": "https://arxiv.org/abs/2607.18548",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 22 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.18548v1 Announce Type: new \nAbstract: Agentic artificial intelligence systems, capable of autonomous perception, planning, tool use, and multi-step action, are increasingly proposed for critical engineering domains where decisions carry physical, operational, or economic consequences. This survey addresses a gap in current literature by treating trustworthiness, whether agentic behavior can be verified, audited, and trusted under the constraints that engineering practice actually requ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "autonomous",
+      "tool use",
+      "planning"
+    ]
+  },
+  {
+    "title": "diegosouzapw / OmniRoute",
+    "url": "https://github.com/diegosouzapw/OmniRoute",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors [1,651 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "Claude",
+      "Gemini",
+      "Copilot",
+      "GPT"
+    ]
+  },
+  {
+    "title": "Semantic Cooperative Games for Contribution Attribution in LLM-Based Multi-Agent Systems",
+    "url": "https://arxiv.org/abs/2607.18255",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 22 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.18255v1 Announce Type: new \nAbstract: Contribution attribution has become a central problem in LLM-based multi-agent systems, where final outputs are produced through multiple agents, message exchanges, and ordered workflow dependencies. Existing attribution methods often rely on counterfactual valuation, such as removing agents or comparing score changes across altered agent subsets. In language-mediated workflows, these methods require repeated model calls, introduce high variance, ",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "workflow",
+      "game"
+    ]
+  },
+  {
+    "title": "Attacking Graph Foundation Models Through Their Shared Representation",
+    "url": "https://arxiv.org/abs/2607.18567",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 22 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.18567v1 Announce Type: new \nAbstract: A graph foundation model generalizes across graph domains by mapping every input into one shared representation before any task reasoning. We call this map the alignment layer, the component that separates a graph foundation model from a graph neural network, and we show it is a distinct attack surface that prior work has not studied. We attack it at inference time, with no access to training, on six public models spanning spectral tokenizers, tex",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "neural",
+      "inference",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "AInimation: Animating from Prompt to AI-Generated Responses",
+    "url": "https://arxiv.org/abs/2607.18507",
+    "source": "arXiv cs.HC",
+    "published_at": "Wed, 22 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.18507v1 Announce Type: new \nAbstract: We explore the use of animated transitions between a prompt and an AI-generated response. After reviewing 800 examples of prompts and responses, we devise a taxonomy of animated transitions for multimodal text- and image-generative models. The proposed animations include translating and morphing elements of the prompt to their final location in the response; highlighting modifications such as fixed typos; overlaying structural requirements to veri",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "multimodal",
+      "prompt",
+      "generative"
+    ]
+  },
+  {
+    "title": "AutoJourn: Multi-Perspective Summarisation, Bias Detection and Bias Neutralisation for LLM-Generated News in Automated Journalism",
+    "url": "https://arxiv.org/abs/2607.18983",
+    "source": "arXiv cs.HC",
+    "published_at": "Wed, 22 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.18983v1 Announce Type: cross \nAbstract: We present AutoJourn, a demonstration system for multi-perspective news generation and bias-aware evaluation using large language models (LLMs). The system tackles three core challenges in responsible automated journalism: extracting diverse perspectives from unstructured social media discussions, generating summaries that preserve viewpoint diversity, and detecting or mitigating bias in AI-generated news. The pipeline integrates advanced prompt",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Benchmarking Multimodal Large Language Models for Scientific Visualization Literacy",
+    "url": "https://arxiv.org/abs/2607.15176",
+    "source": "arXiv cs.HC",
+    "published_at": "Wed, 22 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.15176v2 Announce Type: replace-cross \nAbstract: Multimodal large language models (MLLMs) are increasingly used to interpret visualizations, yet current evaluations remain largely chart-centric and provide limited evidence of understanding of scientific visualization (SciVis). We benchmark six MLLMs on the scientific visualization literacy assessment test, a standardized SciVis literacy assessment comprising 49 items based on 18 scientific visualizations and illustrations, spanning 8 t",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "multimodal"
+    ]
+  },
+  {
+    "title": "From Novelty to Normalisation: Tracking Changing Perceptions of AI in Higher Education, 2024-2026",
+    "url": "https://arxiv.org/abs/2607.16223",
+    "source": "arXiv cs.HC",
+    "published_at": "Wed, 22 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.16223v2 Announce Type: replace-cross \nAbstract: The rapid integration of generative artificial intelligence (AI) has reshaped the landscape of higher education. Students have embraced tools such as ChatGPT with striking speed, while teaching staff and institutions have responded with greater caution. Existing research on AI perceptions has mainly been cross-sectional, providing single-point snapshots that view attitudes as stable rather than evolving. This paper presents a longitudina",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "generative art",
+      "GPT",
+      "generative"
+    ]
+  },
+  {
+    "title": "Compressing What Matters: Neuron Importance Meets Data-Aware Low Rank Approximation for Language Model Compression",
+    "url": "https://arxiv.org/abs/2607.18284",
+    "source": "arXiv cs.LG",
+    "published_at": "Wed, 22 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.18284v1 Announce Type: new \nAbstract: To excel at their domain large language models are comprised of billions of parameters. Yet this comes at the cost of huge memory requirements restricting their applicability in resource-constrained environments. To address the problem of neural network (NN) compression Singular Value Decomposition (SVD) has played a key role as a fundamental component for matrix compression through decomposition. To minimize compression error and to maximize the ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "neural",
+      "language model",
+      "memory"
+    ]
+  },
+  {
+    "title": "A Better Start for Language Models: Domain-Conditional Position Offsets",
+    "url": "https://arxiv.org/abs/2607.18302",
+    "source": "arXiv cs.LG",
+    "published_at": "Wed, 22 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.18302v1 Announce Type: new \nAbstract: Autoregressive language models are least accurate at the beginning of a sequence, where little context forces reliance on a generic pretraining prior. We show that this cold-start penalty is domain dependent and reduce it with a domain-conditional position offset: a single learned vector added to the embedding activation at the first sequence positions while all model weights remain frozen. The offset trains in minutes on roughly one hundred docum",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "language model",
+      "embedding",
+      "vector"
+    ]
+  },
+  {
+    "title": "Agentic Calibration of Grey-Box Simulation Models: An LLM-Driven Alternative",
+    "url": "https://arxiv.org/abs/2607.18308",
+    "source": "arXiv cs.LG",
+    "published_at": "Wed, 22 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.18308v1 Announce Type: new \nAbstract: Calibration of grey-box simulation models is a constrained optimization problem in which model evaluations are expensive, the parameter space can be high-dimensional, and the search must respect plausibility constraints. Although the simulation code is fully available to the analyst, the joint effect of multiple parameters remains difficult to predict analytically. Classical optimizers such as Nelder--Mead (NM) are simple to deploy but sample-inef",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "simulation"
+    ]
+  },
+  {
+    "title": "Calibrated Selective Fact-Checking via Evidence Chain Evaluation",
+    "url": "https://arxiv.org/abs/2607.18240",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 22 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.18240v1 Announce Type: new \nAbstract: Large language models (LLMs) can achieve strong fact-checking accuracy, yet forced binary decisions conceal a critical reliability problem: systems may issue confident verdicts even when supporting evidence is weak, sparse, or internally inconsistent. We address this issue through Evidence Chain Evaluation (ECE), a selective fact-checking framework that permits abstention via an uncertain verdict instead of requiring a true/false decision for ever",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model"
+    ]
+  },
+  {
+    "title": "BatchDAG: LLM-Planned Execution Graphs for Scalable Ad-Hoc Analysis Over Enterprise Data",
+    "url": "https://arxiv.org/abs/2607.18241",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 22 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.18241v1 Announce Type: new \nAbstract: Large language models (LLMs) excel at analyzing individual documents but break down on exhaustive, cross-entity analytical questions over enterprise-scale datasets due to context overflow, loss of per-entity attribution, and linear latency from sequential tool calls. We present BatchDAG, a system in which an LLM generates a typed directed acyclic graph (DAG) of operations -- SQL queries, semantic searches, in-memory transforms, parallel fan-outs, ",
+    "score": 6.0,
+    "keywords_matched": [
+      "LLM",
+      "language model",
+      "memory"
+    ]
+  }
+]
