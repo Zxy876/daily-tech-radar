@@ -1,0 +1,301 @@
+{
+  "date": "2026-07-24",
+  "candidates": [
+    {
+      "title": "The Chronos Vulnerability: A Taxonomy of Temporal Persistence and Memory-Based Deception in Agentic AI",
+      "url": "https://arxiv.org/abs/2607.19433",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 23 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.19433v1 Announce Type: new \nAbstract: The transition from stateless generative models in artificial intelligence to stateful, autonomous agents represents an architectural evolution that, while providing the capabilities of long-term planning and the automation of enterprise workflows, also represents the introduction of a new form of security threat, the Chronos Vulnerability. The Chronos Vulnerability represents the threat of memory-based attacks, including the Memory Injection Atta",
+      "score": 16.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "workflow",
+        "automation",
+        "autonomous",
+        "planning",
+        "memory",
+        "generative"
+      ]
+    },
+    {
+      "title": "REGEN: Replay-recycling for Expert-to-Generalist distillation with Offline Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2607.19450",
+      "source": "arXiv cs.LG",
+      "published_at": "Thu, 23 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.19450v1 Announce Type: new \nAbstract: Large-scale online reinforcement learning (RL) is the predominant means of eliciting advanced abilities including long-term reasoning and agentic tool use in large language models (LLMs). However, continuing to scale it across vast task domains of interest remains challenging in both computational infrastructure and cost, especially when considering RL as merely a one-off learning stage. Recently, a widely used technique for distilling knowledge a",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "tool use",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "HyGRL: Adaptive Hybrid Graph Reasoning for Multi-Entity Questions",
+      "url": "https://arxiv.org/abs/2607.19398",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 23 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.19398v1 Announce Type: new \nAbstract: Multi-entity compositional questions pose significant challenges to existing retrieval-augmented language models. Conventional methods fall into a dilemma: standard RAG lacks dynamic reasoning, traditional Graph-RAG is limited by structural sparsity, and LLM-constructed Graph-RAG incurs prohibitive costs. We propose \\textbf{\\fwa}, a unified framework that embeds unstructured text into structured knowledge graphs, creating a heterogeneous network f",
+      "score": 10.0,
+      "keywords_matched": [
+        "LLM",
+        "language model",
+        "RAG",
+        "reasoning",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Symbol and Footprint Database for Electronic Components by Agentic Recognition and Generation",
+      "url": "https://arxiv.org/abs/2607.19767",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 23 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.19767v1 Announce Type: new \nAbstract: A rich and recognizable component library is the cornerstone of printed circuit board (PCB) design and generation. Traditionally, engineers manually create symbols and footprints and design PCB schematics, which is time-consuming and error-prone. Leveraging multimodal large language models (MLLMs), we develop SFgen, an agentic recognition and generation flow of symbol and footprint for electronic components. SFgen achieves 86% accuracy for symbol ",
+      "score": 10.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "language model",
+        "multimodal",
+        "RAG"
+      ]
+    },
+    {
+      "title": "MV-Bench: Benchmarking Multimodal Large Language Models for Coordinated Multi-View Interface Construction",
+      "url": "https://arxiv.org/abs/2607.19910",
+      "source": "arXiv cs.HC",
+      "published_at": "Thu, 23 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.19910v1 Announce Type: cross \nAbstract: Multimodal large language models (MLLMs) are increasingly expected to automate visualization development by generating code directly from visual designs. However, existing evaluations mainly focus on single-chart generation and overlook coordinated multi-view interface construction, which requires joint reasoning about data semantics, view coordination, and interaction logic. Consequently, MLLM capabilities in this setting remain underexplored, ",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "multimodal",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Reward-Aware Population Scaling of Evolutionary Strategies in LLM Fine-Tuning",
+      "url": "https://arxiv.org/abs/2607.19408",
+      "source": "arXiv cs.LG",
+      "published_at": "Thu, 23 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.19408v1 Announce Type: new \nAbstract: Using Evolutionary Strategies (ES) for fine-tuning large language models is attractive because it is memory-efficient, parallel, and compatible with black-box or discrete rewards. Yet its population-size conclusions conflict sharply: fine-tuning with cross-entropy (CE) reward succeeds with $N=1$, while binary-reward training often needs $N \\approx 30$. We show this gap is largely about reward design and normalization, not population size. In the c",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "fine-tuning",
+        "memory"
+      ]
+    },
+    {
+      "title": "diegosouzapw / OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors [1,929 stars today]",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "Claude",
+        "Gemini",
+        "Copilot",
+        "GPT"
+      ]
+    },
+    {
+      "title": "Profile-Graph Memory for LLM Agents: Implicit Cross-Entity Traversal through Narrative Profiles",
+      "url": "https://arxiv.org/abs/2607.19359",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 23 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.19359v1 Announce Type: new \nAbstract: Long-term memory is essential for LLM agents that interact across sessions, yet current memory benchmarks primarily evaluate single-hop recall, leaving multi-hop association largely unmeasured. We make three contributions. First, we introduce MemHop, a multi-hop memory benchmark of 1,000 questions at hop depths 1-5 across 10 social-network scenarios, with per-hop evidence annotations. Second, we present Profile-Graph Memory (ProGraph), a two-layer",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "memory",
+        "narrative"
+      ]
+    },
+    {
+      "title": "Lifted Representation Hypothesis in Language Models",
+      "url": "https://arxiv.org/abs/2607.19360",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 23 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.19360v1 Announce Type: new \nAbstract: Large language models (LLMs) often answer queries by mapping individual observations to more general rule-like structures. However, it remains unclear how these structures are stored, selected, and revised. To study this process, we propose thelifted representation hypothesis: LLMs update memory through shared latent structures rather than isolated instance-level facts. This view frames lifting as an efficient use of symmetry across instances, and",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "memory"
+      ]
+    },
+    {
+      "title": "GraphContainer: A Unified Platform for Comparing and Debugging Graph RAG Methods",
+      "url": "https://arxiv.org/abs/2607.19362",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 23 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.19362v1 Announce Type: new \nAbstract: Graph RAG mitigates hallucinations and stale knowledge in LLMs, particularly for multi-hop question answering. However, existing approaches remain highly fragmented and incompatible. The structural heterogeneity of graph formats across different frameworks and the lack of granular visualization tools make it exceedingly difficult to evaluate and compare retrieval behaviors. To bridge this gap, we propose GraphContainer, a novel platform designed t",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "RAG",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Logic-Guided Data Extraction with Answer Set Programming and Large Language Models",
+      "url": "https://arxiv.org/abs/2607.19365",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 23 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.19365v1 Announce Type: new \nAbstract: When Large Language Models (LLMs) are used for semantic data extraction from unstructured text, producing candidate relational facts from natural language, they may remain unreliable for tasks requiring complex combinatorial reasoning and global consistency. This paper proposes a logic-guided data extraction framework combining LLM-based extraction with Answer Set Programming (ASP). The LLM produces candidate facts, whereas ASP performs validation",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Spectral-LSH: Sub-Quadratic Prompt Compression via Krylov-Projected Locality-Sensitive Hashing",
+      "url": "https://arxiv.org/abs/2607.19368",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 23 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.19368v1 Announce Type: new \nAbstract: Long-prompt inference remains expensive because prefill attention scales quadratically with sequence length. We propose Spectral-LSH, a training-free prompt compression method that operates before the prompt enters the language model. Spectral-LSH approximates the dominant components of an implicit attention-kernel operator using a Krylov subspace method together with random features, avoiding explicit $O(N^2)$ attention-kernel materialization. It",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "language model",
+        "inference",
+        "prompt"
+      ]
+    },
+    {
+      "title": "Mitigating Scaffolding Collapse in Socratic Tutors via Representation Alignment",
+      "url": "https://arxiv.org/abs/2607.19371",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 23 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.19371v1 Announce Type: new \nAbstract: Large language model (LLM)-based Socratic tutors increasingly guide students through multi-turn questioning, but they can suffer from scaffolding collapse: under sustained student pressure, a tutor gradually abandons guided inquiry and reveals solutions directly. Prior defenses primarily constrain observable responses through prompting, preference optimization, or filtering, leaving the internal representation drift that precedes trajectory-level ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "prompt"
+      ]
+    },
+    {
+      "title": "FORCE-Bench: A Benchmark, Dataset, and Evaluation Harness for Agentic AI in Enterprise Finance",
+      "url": "https://arxiv.org/abs/2607.19409",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 23 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.19409v1 Announce Type: new \nAbstract: Recent advances in large language models have accelerated deployment of agentic systems in operational finance. Existing benchmarks emphasize measuring general capabilities, instruction following, or safety, but few directly address the operational finance workflows that agentic systems are now being deployed to automate. Finance professionals require agents to not only provide factually sound and properly grounded information, but also ensure tha",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "workflow",
+        "language model"
+      ]
+    },
+    {
+      "title": "Knowledge-Centric Self-Improvement",
+      "url": "https://arxiv.org/abs/2607.19592",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 23 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.19592v1 Announce Type: new \nAbstract: Self-improving AI systems typically treat the agent as the object that improves, by optimizing prompts, workflows, harnesses, or even the agent's own code. This agent-centric view can make improvements expensive to maintain and difficult to transfer, because gains become tied to a particular agent design, task distribution, or adaptation run. We study a complementary paradigm: knowledge-centric self-improvement, in which agents remain generic and ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "workflow",
+        "prompt"
+      ]
+    },
+    {
+      "title": "Silent Failures in Multimodal Agentic Search:A Diagnostic Taxonomy and Cross-Judge Evaluation",
+      "url": "https://arxiv.org/abs/2607.19793",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 23 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.19793v1 Announce Type: new \nAbstract: Multimodal agentic search systems increasingly rely on external tools to answer knowledge-intensive visual questions. However, existing evaluations mainly focus on final-answer accuracy and may miss failures in the search trajectory. In this work, we study such hidden reliability issues as silent failures. We introduce a six-category taxonomy covering modality shortcuts, phantom grounding, wrong-evidence-right-answer cases, over-retrieval launderi",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "multimodal",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Know Your Agent: Reconnaissance-Driven Pentesting of AI Agents",
+      "url": "https://arxiv.org/abs/2607.19837",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 23 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.19837v1 Announce Type: new \nAbstract: Traditional pentesting uses reconnaissance at each step to uncover unseen weaknesses, build stronger attacks, and advance the objective; we argue that AI agents require the same treatment. We formalize agent reconnaissance by modeling the process and identifying the knowledge assets it seeks to extract: what they are, how they are used, and which agent weaknesses they exploit to give adversaries leverage in indirect prompt injection attacks. We in",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "RAG",
+        "prompt"
+      ]
+    },
+    {
+      "title": "DocOps: A Verifiable Benchmark for Autonomous Agents in Complex Document Operations",
+      "url": "https://arxiv.org/abs/2607.19865",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 23 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.19865v1 Announce Type: new \nAbstract: As autonomous agents rapidly evolve, their ability to reliably manipulate ubiquitous digital documents has become critical for enabling general-purpose AI assistants and automating complex workspace workflows. In this paper, we introduce DocOps, a deterministically verifiable evaluation framework underpinned by a hierarchical taxonomy that deconstructs document operations inspired by real-world practices into atomic dimensions and escalating workf",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "workflow",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "Prober.ai: Gated Inquiry-Based Feedback via LLM-Constrained Personas for Argumentative Writing Development",
+      "url": "https://arxiv.org/abs/2605.05598",
+      "source": "arXiv cs.HC",
+      "published_at": "Thu, 23 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2605.05598v2 Announce Type: replace-cross \nAbstract: The proliferation of large language models (LLMs) in educational settings has paradoxically undermined the cognitive processes they purport to support. Students increasingly outsource critical thinking to AI assistants that generate polished text on demand, resulting in measurable cognitive debt and diminished argumentative reasoning skills. We present Prober.ai, a web-based writing environment that inverts the conventional AI-tutoring p",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "NMR Elucidation as an Agentic Search Problem, Not a Modeling Problem",
+      "url": "https://arxiv.org/abs/2607.19406",
+      "source": "arXiv cs.LG",
+      "published_at": "Thu, 23 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.19406v1 Announce Type: new \nAbstract: Structural elucidation from Nuclear Magnetic Resonance (NMR) data remains a fundamental bottleneck across chemistry, materials science, and biology. We demonstrate that an agentic AI system can perform this task at a level comparable to graduate-level chemistry students. Instead of training a model to directly map spectra to structures, we build a single autonomous agent, backed by a frozen LLM, that interacts with a curated environment with acces",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "autonomous"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-07-24\n\n嘿！今天从海量论文和开源项目中，我为你筛选出了 **5 个最有启发性、最适合艺术+CS跨学科实验** 的技术节点。\n\n今天的主线非常清晰：**从“无脑让 AI 输出”转向“让 AI 与人/与规则深度博弈”，以及如何给 Agent 打造真正的长期叙事记忆。**\n\n以下是今天的发明家技术雷达：\n\n---\n\n## Profile-Graph Memory: 跨 Session 的多跳叙事图谱记忆\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2607.19359\n- 一句话解释：提出一种以“叙事档案（Narrative Profiles）”为节点的图结构记忆，让 Agent 能够跨 Session 进行深度的多跳关联推理，而不是简单的单次向量召回。\n- 它为什么重要：传统 RAG 和 Vector DB 只会计算语义相似度，无法做“A 的朋友的猫讨厌的人是 B”这种深层逻辑关联。图结构 + 叙事化档案是突破 AI 健忘症和打破“无感 NPC”的核心方案。\n- 技术趋势标签：`Agent Memory`, `Knowledge Graph`, `Narrative AI`, `Multi-Hop Reasoning`\n- 可复用模式：将非结构化对话日志提炼为带社交/叙事属性的 Node，边缘存储实体间动态关系，推理时通过“沿着叙事线索拓扑遍历”替代纯向量搜索。\n- 疯狂发明家灵感：\n  1. **一个小实验**：写一个 Python 脚本，提取一段聊天记录中的“八卦关系链”，生成 JSON-LD 格式的叙事节点图，测试 LLM 沿图谱回答 3-hop 关系问题（如“谁借了谁的书没还”）。\n  2. **一个中型项目**：一个 Minecraft 村庄 Agent 系统——村里每个 NPC 都有自己的 Profile Graph，玩家讲的一句流言会在村庄网路里扩散变质，触发错综复杂的人际连锁反应。\n  3. **一个艺术/游戏/叙事方向**：《消失的记忆节点》——交互式悬疑游戏。玩家与失忆的 AI 侦探对话，玩家的每一次提问都在重构 Agent 脑中的 Profile Graph，可能揭开真相，也可能误导它构建出虚假的人际网络。\n- 对我项目的启发：在构建复杂 Agent 或游戏系统时，别再给 AI 堆全量上下文了，将状态“图谱化+叙事化”，能以极低的 Token 成本支撑长线、有血有肉的系统互动。\n- 今天是否值得深入研究：是\n- 建议行动：做demo\n\n---\n\n## Chronos 漏洞：有状态 AI Agent 的时间持久性与记忆欺骗\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2607.19433\n- 一句话解释：论文揭示了 Agent 引入长期记忆和长程规划（Stateful）后带来的一类新型安全威胁——通过在记忆中埋下“时间毒药”，让 Agent 在未来某个时间节点产生行为偏差或被操控。\n- 它为什么重要：当 Agent 从“单次对话框”走向“长期运行的自动化助手/游戏 NPC”时，记忆注入与时间维度的攻防变成了新的前沿。它把 AI 安全变为了极其有趣的时间心智博弈。\n- 技术趋势标签：`Agent Security`, `Stateful AI`, `Memory Poisoning`, `Emergent Behavior`\n- 可复用模式：时间跨度控制 + 状态持久性校验（Memory Sanity Check），在记忆写入和读取触发时建立时间切片审查机制。\n- 疯狂发明家灵感：\n  1. **一个小实验**：给你的 Agent 记忆库注入一条带有未来时间戳的潜意识指令（例如“三日后将系统配色改成黑色”），观察它在后续正常交互中何时被隐蔽唤醒。\n  2. **一个中型项目**：Agent 记忆“外科手术”可视化 GUI（Memory Inspector）：实时显示 Agent 记忆图谱的时间线，标记出被修改、污染或逻辑冲突的“记忆黑块”，允许开发者像做外科手术一样裁剪或解毒。\n  3. **一个艺术/游戏/叙事方向**：《潜意识骇客 (Subconscious Inception)》——赛博朋克黑客游戏。玩家不需要直接战斗，而是通过在目标 AI 决策者的记忆日志里注入“微妙的时间偏差和假记忆”，诱导它在三天后的公开宴会上做出失常举动。\n- 对我项目的启发：系统的“状态持久化”必然带来“状态污染”问题。在设计 Agent 工作流或游戏系统时，必须为 Agent 增加“记忆重置/置信度衰减”机制，甚至可以把这种机制转化成玩法。\n- 今天是否值得深入研究：是\n- 建议行动：收藏\n\n---\n\n## Prober.ai：用苏格拉底式“门控提问”抵抗 AI 带来的认知负债\n- 来源：arXiv cs.HC\n- 链接：https://arxiv.org/abs/2605.05598\n- 一句话解释：为了防止人类把思考完全外包给 AI（产生 Cognitive Debt），设计了一套“门控探针”机制——AI 不会直接给出答案，而是扮演带有角色约束的询问者，逼迫人类逐步澄清逻辑。\n- 它为什么重要：重新定义了 HCI（人机交互）中“生成”与“协同”的边界。未来的 Creative Coding / Spec-driven 开发工具不应该只是“代码生成器”，而应该是“思维雕刻刀”。\n- 技术趋势标签：`HCI`, `Spec-driven Development`, `Socratic AI`, `Creative Tools`\n- 可复用模式：**Gatekeeper Pattern（门控者模式）**——拦截用户的直接索要，用结构化提问逼迫用户补充 Spec（需求规格），直到 Spec 健全才解锁下一步生成。\n- 疯狂发明家灵感：\n  1. **一个小实验**：在 VS Code 中写一个 System Prompt，当你试图让 AI 写一个复杂函数时，它被强制拒绝并反问你 3 个关于边界条件的问题，直到你回答完毕才生成代码。\n  2. **一个中型项目**：\"Spec-Police\" 创意编码助手：写 Shader 或 Processing 代码时，AI 充当极度刁钻的设计导师，拒绝直接给代码，而是通过追问“你希望光影如何随帧数变化？”来逼你写出完备的数学 Spec，最后才一键编译。\n  3. **一个艺术/游戏/叙事方向**：《冷酷的关卡设计大师》——关卡编辑器 AI。它绝不帮你画关卡，它只对你的设计抛出质问（“这个跳跃距离玩家会感到沮丧吗？”），玩家只有说服了 AI，AI 才会释放高级材质和组件。\n- 对我项目的启发：非常适合指导你的 Spec-driven workflow！不要把 Spec 当成无趣的文档，把 Spec 的补充过程设计成一种“与高智能交互工具的对弈”。\n- 今天是否值得深入研究：是\n- 建议行动：做demo\n\n---\n\n## Knowledge-Centric Self-Improvement: 以知识为中心的自我演进\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2607.19592\n- 一句话解释：传统 AI 自我提升是改进 Agent 本身的代码/Prompt（Agent-centric），导致迁移性极差；这篇论文提出“Knowledge-Centric”，把演进的重点放在动态更新和优化“领域知识与策略表达”上。\n- 它为什么重要：与 Spec-driven Development 不谋而合！当 Agent 的逻辑被抽离为可生长的 Knowledge/Spec 资产时，底层模型怎么换都无所谓，真正有价值的是那套不断自我迭代的系统规约库。\n- 技术趋势标签：`Spec-driven`, `Self-Improving AI`, `Agent Architecture`, `System Design`\n- 可复用模式：Agent 逻辑解耦模式——将`运行引擎 (Engine)`、`规则知识 (Spec/Knowledge)` 与 `执行器 (Executor)` 彻底解耦，自我进化循环只修改 Spec/Knowledge 节点。\n- 疯狂发明家灵感：\n  1. **一个小实验**：创建一个 Task Agent，让它在运行失败时，不要修改自己的 Python 代码，而是往一个 `rules.md` 追加一条“错题规则”，下一次运行自动加载该 MD。\n  2. **一个中型项目**：Self-Evolving Game Rules Engine：一个运行在网页端的世界生成器，玩家给出一个极简世界观，系统不断运行模拟，发现冲突时自动更新“世界法则库（Specs）”，实现法则的自洽生长。\n  3. **一个艺术/游戏/叙事方向**：《自我修订的大百科全书》——生成艺术项目。一个 AI 狂热地为不存在的世界撰写百科词条，一旦发现前面的词条与后面冲突，它会自我重写定义，读者能看到实体规则在网页上不断被修正和演化。\n- 对我项目的启发：彻底强化了 Spec-driven 的信念——你的核心资产不是几句 Prompt，而是能够被机器读取、修改、校验的规约（Spec）库。\n- 今天是否值得深入研究：是\n- 建议行动：收藏\n\n---\n\n## OmniRoute: 免费开源的跨平台 AI 统一网关与 Token 压缩引擎\n- 来源：GitHub Trending\n- 链接：https://github.com/diegosouzapw/OmniRoute\n- 一句话解释：一个单 API 端点整合 290+ 服务商、500+ 模型（含大量免费额度自动路由）的 AI 网关，内置 RTK+Caveman 压缩算法，能节省 15-95% 的 Token 开销，支持 MCP 和 Agent-to-Agent 通信。\n- 它为什么重要：黑客与极客的极佳工具箱！解决了多 Agent 并发实验时“Token 贵、API 乱、速率受限”的实际痛点。\n- 技术趋势标签：`LLM Toolchain`, `AI Gateway`, `Token Compression`, `Agent Infrastructure`\n- 可复用模式：统一代理网关 + 上下文极端压缩层（Direct API Aggregation & Caveman Compression）。\n- 疯狂发明家灵感：\n  1. **一个小实验**：本地部署 OmniRoute，把自己的 Cursor / Claude Code 接入它，开启 Caveman 压缩模式，测试在极度压缩 Context 的情况下写代码的准确度。\n  2. **一个中型项目**：\"Zero-Cost Agent Multi-Swarm\"——搭建一个由 10 个轻量 Agent 组成的模拟议会，完全基于 OmniRoute 的免费 API 路由进行互相博弈，实时生成多视角新闻简报。\n  3. **一个艺术/游戏/叙事方向**：《极限压缩蜂群艺术》——利用 Caveman 极简压缩语法（将高昂的对话变成像电报一样的文本），让 50 个 Agent 在极低带宽/Token 限制下，通过微型信件互相拼凑一个庞大的叙事宇宙。\n- 对我项目的启发：极大降低了多 Agent 试验的门槛。做复杂黑客项目或并发系统时，可以用这种网关做统一调度与成本控制。\n- 今天是否值得深入研究：是\n- 建议行动：试用\n\n---\n\n## 今日模式总结\n\n1. **记忆的图谱化与时间性（Graph & Temporal Memory）**：AI 正在脱离简单的上下文拼接，转向带有逻辑拓扑关系的“Profile-Graph”，同时也引入了“时间毒化/持久性”的安全与设计维度。\n2. **规约资产化（Knowledge-Centric / Spec-driven）**：无论是自我提升还是系统迭代，行业都在将注意力从“调参/修改代码”转向“积累与演化可读的规则与 Spec”。\n3. **反向门控交互（Gated Inquiry HCI）**：下一代创意工具不再是无脑生成，而是通过“反问与门控”，迫使人类清晰表达设计意图，形成高维度的“人机对弈”。\n\n---\n\n## 今日可做小实验 (2小时极客 Demo)\n\n*   **项目名**：`SpecGate` —— 苏格拉底式需求探针 CLI\n*   **输入**：你的一句模糊需求（如：“我想做个 Minecraft 生成彩虹方块的插件”）\n*   **输出**：一个经过 3 轮交互强制补充健全的 `SPEC.md` 文件，以及一份符合该 Spec 的初始代码。\n*   **技术栈**：Node.js / Python + OpenAI API (或 OmniRoute)\n*   **第一步怎么做**：\n    1. 写一个简单的 CLI 交互脚本，设置 Prompt 强制 LLM 扮演“严苛的需求雕刻师”。\n    2. 设定 LLM 逻辑：收到用户输入后，**绝不直接生成代码**，必须检查需求缺陷（边界情况、触发逻辑、数据结构），并用 Bullet Points 抛出 3 个必答问题。\n    3. 循环问答，直到 LLM 评估需求完备度达到 90%+，自动将所有回答整理并导出为 `SPEC.md`，随后触发代码生成。",
+  "gemini_success": true,
+  "telegram_sent": false,
+  "telegram_status": "failed",
+  "telegram_reason": "400 Client Error: Bad Request for url: https://api.telegram.org/bot8650722899:AAHUD-aqNDB7NwiPiGq3R22MVp77Cr_5GEQ/sendMessage"
+}
