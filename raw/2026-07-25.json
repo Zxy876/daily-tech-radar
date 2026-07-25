@@ -1,0 +1,300 @@
+[
+  {
+    "title": "AISE-Bench: A Full-Cycle Curated Benchmark for Information Seeking on Academic Knowledge Graphs",
+    "url": "https://arxiv.org/abs/2607.20498",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 24 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.20498v1 Announce Type: new \nAbstract: Large language models (LLMs) augmented with tools are emerging as autonomous agents capable of using Web engine, APIs, and code to solve complex, long-horizon tasks. Current tool-using benchmarks for information seeking on academic graphs rely on synthetic templates, simplified solution spaces, or narrow tasks such as paper-centric tasks, leaving key challenges underexplored - realistic user intent, complex multi-step API planning, rich parameter ",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "autonomous",
+      "planning"
+    ]
+  },
+  {
+    "title": "Human-in-the-Loop Large Language Model Framework for Identification of Cutaneous Immune-Related Adverse Events",
+    "url": "https://arxiv.org/abs/2607.20428",
+    "source": "arXiv cs.HC",
+    "published_at": "Fri, 24 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.20428v1 Announce Type: cross \nAbstract: This study evaluated a retrieval-augmented, multi-agent large language model (LLM)-driven, human-in-the-loop framework for detecting cutaneous immune-related adverse events (cirAEs) from clinical notes. Compared with unassisted manual review, the LLM-assisted workflow improved accuracy (F1 = 0.88 vs 0.77), inter-rater agreement measured by Cohen's kappa (kappa = 0.82 vs 0.50), and reduced average review time by approximately half. This framework",
+    "score": 12.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "workflow",
+      "language model",
+      "RAG",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Multimodal CoLRAG-TF: Triple-Filtered Retrieval for Complex PDFs",
+    "url": "https://arxiv.org/abs/2607.20517",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 24 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.20517v1 Announce Type: new \nAbstract: Retrieval-augmented generation (RAG) over heterogeneous PDF collections remains challenging due to multimodal content, domain-specific terminology, and the need for multi-hop reasoning across dispersed evidence. We present Multimodal CoLRAG-TF, a four-axis fusion architecture that integrates dense text embeddings, BM25 keyword matching, knowledge-graph triple filtering, and image-based similarity for robust retrieval over complex documents. Our sy",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "multimodal",
+      "RAG",
+      "embedding",
+      "reasoning",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "ClickGuard: Detecting and Spoiling Clickbait News with Informativeness Measures and Large Language Models",
+    "url": "https://arxiv.org/abs/2607.20463",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 24 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.20463v1 Announce Type: new \nAbstract: This paper presents an AI-driven browser extension that identifies clickbait to help users avoid misleading Internet articles. Moving beyond traditional detection, the application employs a hybrid machine learning architecture that combines transformer-based embeddings with linguistically motivated features and a custom \"baitness\" score. After evaluating various natural language processing techniques -- from classic vectorizers to large language m",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "transformer",
+      "language model",
+      "embedding",
+      "vector"
+    ]
+  },
+  {
+    "title": "DC-Leap: Training-Free Acceleration of dLLMs via Draft-Guided Contiguous Leaping Decoding",
+    "url": "https://arxiv.org/abs/2607.20467",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 24 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.20467v1 Announce Type: new \nAbstract: While parallel decoding is central to the efficiency of Diffusion Large Language Models (dLLMs), current strategies are often hindered by overly conservative confidence thresholds. These thresholds, necessitated by the Joint Probability Dependence Error (JPDE), result in redundant denoising iterations and suboptimal inference speeds. To overcome this, we propose DC-Leap, a training-free framework that enables reliable acceleration of dLLMs in the ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "diffusion",
+      "language model",
+      "inference"
+    ]
+  },
+  {
+    "title": "InferenceBench: A Benchmark for Open-Ended LLM Inference Optimization by AI Agents",
+    "url": "https://arxiv.org/abs/2607.20468",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 24 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.20468v1 Announce Type: new \nAbstract: AI agents are increasingly used to automate research and development tasks, yet existing benchmarks typically evaluate them on prescribed workflows or narrow action spaces. Even nominally open-ended tasks can often be solved by retrieving a well-known recipe and tuning a few hyperparameters, making it unclear whether strong results reflect genuine optimization or memorized solutions. We introduce InferenceBench, where an agent must deploy an OpenA",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "inference"
+    ]
+  },
+  {
+    "title": "PlanE: Meta Planning of Data, Tuning, and Inference for Extractive-based LLMs",
+    "url": "https://arxiv.org/abs/2607.20470",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 24 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.20470v1 Announce Type: new \nAbstract: Enhancing the task-specific capabilities of Large Language Models (LLMs) primarily requires substantial instruction-tuning datasets. However, the sheer volume of such data imposes a considerable annotation cost, and a lack of optimization methods for tailoring LLMs to specific tasks. To address the above issues, we propose a \\textbf{Plan}ning framework for constructing \\textbf{E}xtractive-based LLMs called \\textbf{PlanE}, which includes data decom",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "inference",
+      "planning"
+    ]
+  },
+  {
+    "title": "Routing Without Training: Controllable-Ratio LLM Offloading via Reliability Gating",
+    "url": "https://arxiv.org/abs/2607.20481",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 24 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.20481v1 Announce Type: new \nAbstract: Local-cloud collaboration is a practical way to deploy large language models under resource constraints, but existing methods often rely on trained routers or collaboration-aware finetuning that tie routing behavior to a particular operating regime. In this work, we show that such training may be unnecessary: the local model's own inference-time agreement across sampled responses already provides a strong signal for deciding when to trust local ex",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "inference",
+      "local model"
+    ]
+  },
+  {
+    "title": "PersonaTrail: Benchmarking Personalized Web Agents through Browsing Trails",
+    "url": "https://arxiv.org/abs/2607.20482",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 24 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.20482v1 Announce Type: new \nAbstract: Recent advances in large language models have enabled web agents to autonomously execute complex tasks. In practice, users frequently provide underspecified instructions, requiring agents to infer the missing context from their raw browsing histories. Existing benchmarks fail to capture this form of personalization, as they either restrict tasks to fully explicit prompts or abstract web interaction history into simplified forms. To bridge this gap",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "language model",
+      "autonomous",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Optimizing Hypergraph-Based RAG: Toward Better Fact Extraction and Chunk Retrieval",
+    "url": "https://arxiv.org/abs/2607.20506",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 24 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.20506v1 Announce Type: new \nAbstract: GraphRAG enables deeper reasoning by structuring knowledge as graphs but struggles with n-ary facts. HyperGraphRAG uses hypergraphs for richer semantics, improving accuracy, yet relies on error-prone LLM extraction and inefficient standard chunk retrieval. We address this by employing self-consistency prompting to improve the extraction, and Personalized PageRank algorithm over hypergraph to enhance chunk retrieval.",
+    "score": 10.0,
+    "keywords_matched": [
+      "LLM",
+      "RAG",
+      "prompt",
+      "reasoning",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "TANDE: Disentangling Verbal and Nonverbal Backchannels in Emotional AI-Avatar Conversations with Young Adults",
+    "url": "https://arxiv.org/abs/2607.13357",
+    "source": "arXiv cs.HC",
+    "published_at": "Fri, 24 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.13357v2 Announce Type: replace \nAbstract: Embodied conversational agents (ECAs) need effective empathic grounding to foster social support and engagement. Expanding into emotional domains, ECAs now use Large Language Models (LLMs) and multimodal human-agent interactions to enhance their capabilities. Yet, understanding the impact of backchanneling modalities on young adults and their gender remains limited. We introduce TANDE, an LLM-powered ECA designed for emotional conversations wi",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "multimodal"
+    ]
+  },
+  {
+    "title": "DataPrep-Bench: Benchmarking LLMs as Training Data Preparators",
+    "url": "https://arxiv.org/abs/2607.20465",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 24 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.20465v1 Announce Type: new \nAbstract: The quality of training data fundamentally determines the capabilities of large language models (LLMs), yet no unified benchmark exists to measure how well LLMs, agents, and data-centric workflows actually prepare training data end to end. We view LLM-driven data preparation as comprising two complementary capabilities: data construction, which transforms raw sources into supervised training data, and data quality evaluation, which predicts the tr",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "language model"
+    ]
+  },
+  {
+    "title": "diegosouzapw / OmniRoute",
+    "url": "https://github.com/diegosouzapw/OmniRoute",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors [1,841 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "Claude",
+      "Gemini",
+      "Copilot",
+      "GPT"
+    ]
+  },
+  {
+    "title": "apify / crawlee",
+    "url": "https://github.com/apify/crawlee",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation. [48 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "automation",
+      "GPT",
+      "RAG"
+    ]
+  },
+  {
+    "title": "langgenius / dify",
+    "url": "https://github.com/langgenius/dify",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. [155 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow",
+      "RAG",
+      "self-hosted"
+    ]
+  },
+  {
+    "title": "AINTMA: Agentic AI Architecture for Autonomous Test Management with Generative Intelligence, Secure Cloud Communication and Adaptive Quality Analytics",
+    "url": "https://arxiv.org/abs/2607.20452",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 24 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.20452v1 Announce Type: new \nAbstract: Modern software quality assurance demands intelligent, autonomous systems capable of adaptive decision-making across distributed cloud environments. This paper presents AINTMA (Agentic Intelligent Test Management Architecture), a multi-agent agentic AI system that transforms traditional test management into an autonomous quality intelligence ecosystem. AINTMA deploys six specialized AI agents (Test Discovery, Risk Assessment, Reinforcement Learnin",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "autonomous",
+      "generative"
+    ]
+  },
+  {
+    "title": "Marking the Wrong Symptoms: Evaluating LLM Watermarks in Medical Texts",
+    "url": "https://arxiv.org/abs/2607.20462",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 24 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.20462v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly integrated into clinical workflows, stressing the need for reliable traceability of model-generated output with watermarking. Yet, most watermarks are evaluated on general-purpose benchmarks, leaving domains like medicine, where small token-level perturbations can result in significant semantic changes, underexplored. In this work, we present the first rigorous study of how LLM watermarks affect medica",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "workflow",
+      "language model"
+    ]
+  },
+  {
+    "title": "Incomplete Prompt Jailbreaks in Large Language Models",
+    "url": "https://arxiv.org/abs/2607.20473",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 24 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.20473v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly released as open-weight models with safeguards against harmful requests. Nevertheless, sentence completion remains vulnerable to incomplete harmful prompts. In this work, we formalize this phenomenon as incomplete prompt jailbreaks (IPJ) and provide a systematic empirical characterization of when and how incomplete prompts elicit harmful continuations. We analyze diverse attractor types associated with",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Expectation Alignment of Language Models for Real-World User Expectations",
+    "url": "https://arxiv.org/abs/2607.20485",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 24 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.20485v1 Announce Type: new \nAbstract: Large language models (LLMs) have demonstrated remarkable performance on standard benchmarks, yet it remains largely unexplored whether they truly meet user expectations. Existing evaluation approaches, relying on model heuristics, expert rubrics, or user simulation, fail to capture the diversity and subtlety of real human expectations, causing models to appear competent while misaligning with what users actually seek. We present the first systema",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "simulation",
+      "language model"
+    ]
+  },
+  {
+    "title": "EvoSQL: Memory-Augmented Critic-Generator Co-Evolution for Text-to-SQL",
+    "url": "https://arxiv.org/abs/2607.20489",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 24 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.20489v1 Announce Type: new \nAbstract: Text-to-SQL has advanced rapidly with large language models, but complex database queries still require reasoning beyond one-shot generation, including multi-step decomposition, execution-based diagnosis, and targeted correction. We present EvoSQL, a co-evolution framework that formulates SQL synthesis as an iterative interaction between a generator and a critic. EvoSQL maintains a contextualized candidate memory, verifies SQL candidates with both",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "language model",
+      "reasoning",
+      "memory"
+    ]
+  }
+]
