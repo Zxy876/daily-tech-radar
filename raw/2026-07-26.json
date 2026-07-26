@@ -1,0 +1,256 @@
+[
+  {
+    "title": "diegosouzapw / OmniRoute",
+    "url": "https://github.com/diegosouzapw/OmniRoute",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors [1,381 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "Claude",
+      "Gemini",
+      "Copilot",
+      "GPT"
+    ]
+  },
+  {
+    "title": "VectifyAI / PageIndex",
+    "url": "https://github.com/VectifyAI/PageIndex",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG [180 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "RAG",
+      "vector",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "mksglu / context-mode",
+    "url": "https://github.com/mksglu/context-mode",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. [49 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "context window",
+      "memory"
+    ]
+  },
+  {
+    "title": "citrolabs / ego-lite",
+    "url": "https://github.com/citrolabs/ego-lite",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config. [986 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "automation"
+    ]
+  },
+  {
+    "title": "ComposioHQ / awesome-claude-skills",
+    "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows [577 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "Claude",
+      "workflow"
+    ]
+  },
+  {
+    "title": "n8n-io / n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. [170 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "workflow",
+      "automation"
+    ]
+  },
+  {
+    "title": "earendil-works / pi",
+    "url": "https://github.com/earendil-works/pi",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI [523 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM"
+    ]
+  },
+  {
+    "title": "alibaba / open-code-review",
+    "url": "https://github.com/alibaba/open-code-review",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. [431 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM"
+    ]
+  },
+  {
+    "title": "affaan-m / ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. [377 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "agent",
+      "Claude",
+      "memory"
+    ]
+  },
+  {
+    "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
+    "url": "https://github.com/slvDev/esp32-ai",
+    "source": "Hacker News",
+    "published_at": "Sat, 25 Jul 2026 18:59:50 +0000",
+    "description": "Article URL: https://github.com/slvDev/esp32-ai Comments URL: https://news.ycombinator.com/item?id=49050512 Points: 70 # Comments: 7",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "LLM"
+    ]
+  },
+  {
+    "title": "Be skeptical of OpenAI's rogue hacker agent story",
+    "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+    "source": "Hacker News Best",
+    "published_at": "Fri, 24 Jul 2026 16:33:31 +0000",
+    "description": "Article URL: https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker Comments URL: https://news.ycombinator.com/item?id=49038060 Points: 523 # Comments: 294",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "RyanCodrai / turbovec",
+    "url": "https://github.com/RyanCodrai/turbovec",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "A vector index built on TurboQuant, written in Rust with Python bindings [86 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "vector"
+    ]
+  },
+  {
+    "title": "andrewyng / aisuite",
+    "url": "https://github.com/andrewyng/aisuite",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Simple, unified interface to multiple Generative AI providers [77 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "generative"
+    ]
+  },
+  {
+    "title": "OpenDCAI / DataFlow",
+    "url": "https://github.com/OpenDCAI/DataFlow",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Easy Data Preparation with latest LLMs-based Operators and Pipelines. [118 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "LLM"
+    ]
+  },
+  {
+    "title": "NVlabs / Sana",
+    "url": "https://github.com/NVlabs/Sana",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer [12 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "transformer",
+      "diffusion"
+    ]
+  },
+  {
+    "title": "CoreBunch / Instatic",
+    "url": "https://github.com/CoreBunch/Instatic",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there. [426 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "agent",
+      "self-hosted"
+    ]
+  },
+  {
+    "title": "different-ai / openwork",
+    "url": "https://github.com/different-ai/openwork",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "The open-source alternative to Claude Cowork (powered by opencode) [49 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "Claude"
+    ]
+  },
+  {
+    "title": "MadsLorentzen / ai-job-search",
+    "url": "https://github.com/MadsLorentzen/ai-job-search",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. [464 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "Claude"
+    ]
+  },
+  {
+    "title": "open-metadata / OpenMetadata",
+    "url": "https://github.com/open-metadata/OpenMetadata",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "The Open Context Layer for Data and AI , OpenMetadata is the open platform for building trusted data context and business semantics for humans, AI assistants, and agents. [14 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "mattpocock / skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Skills for Real Engineers. Straight from my .agents directory. [1,740 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  }
+]

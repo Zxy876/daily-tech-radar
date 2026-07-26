@@ -1,0 +1,264 @@
+{
+  "date": "2026-07-26",
+  "candidates": [
+    {
+      "title": "diegosouzapw / OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors [1,381 stars today]",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "Claude",
+        "Gemini",
+        "Copilot",
+        "GPT"
+      ]
+    },
+    {
+      "title": "VectifyAI / PageIndex",
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG [180 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "RAG",
+        "vector",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "mksglu / context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. [49 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "context window",
+        "memory"
+      ]
+    },
+    {
+      "title": "citrolabs / ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config. [986 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "automation"
+      ]
+    },
+    {
+      "title": "ComposioHQ / awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows [577 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "Claude",
+        "workflow"
+      ]
+    },
+    {
+      "title": "n8n-io / n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. [170 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "workflow",
+        "automation"
+      ]
+    },
+    {
+      "title": "earendil-works / pi",
+      "url": "https://github.com/earendil-works/pi",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI [523 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM"
+      ]
+    },
+    {
+      "title": "alibaba / open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. [431 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM"
+      ]
+    },
+    {
+      "title": "affaan-m / ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. [377 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "agent",
+        "Claude",
+        "memory"
+      ]
+    },
+    {
+      "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
+      "url": "https://github.com/slvDev/esp32-ai",
+      "source": "Hacker News",
+      "published_at": "Sat, 25 Jul 2026 18:59:50 +0000",
+      "description": "Article URL: https://github.com/slvDev/esp32-ai Comments URL: https://news.ycombinator.com/item?id=49050512 Points: 70 # Comments: 7",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "title": "Be skeptical of OpenAI's rogue hacker agent story",
+      "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+      "source": "Hacker News Best",
+      "published_at": "Fri, 24 Jul 2026 16:33:31 +0000",
+      "description": "Article URL: https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker Comments URL: https://news.ycombinator.com/item?id=49038060 Points: 523 # Comments: 294",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "RyanCodrai / turbovec",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings [86 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "vector"
+      ]
+    },
+    {
+      "title": "andrewyng / aisuite",
+      "url": "https://github.com/andrewyng/aisuite",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Simple, unified interface to multiple Generative AI providers [77 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "generative"
+      ]
+    },
+    {
+      "title": "OpenDCAI / DataFlow",
+      "url": "https://github.com/OpenDCAI/DataFlow",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Easy Data Preparation with latest LLMs-based Operators and Pipelines. [118 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "title": "NVlabs / Sana",
+      "url": "https://github.com/NVlabs/Sana",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer [12 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "transformer",
+        "diffusion"
+      ]
+    },
+    {
+      "title": "CoreBunch / Instatic",
+      "url": "https://github.com/CoreBunch/Instatic",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there. [426 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "agent",
+        "self-hosted"
+      ]
+    },
+    {
+      "title": "different-ai / openwork",
+      "url": "https://github.com/different-ai/openwork",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "The open-source alternative to Claude Cowork (powered by opencode) [49 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "Claude"
+      ]
+    },
+    {
+      "title": "MadsLorentzen / ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. [464 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "Claude"
+      ]
+    },
+    {
+      "title": "open-metadata / OpenMetadata",
+      "url": "https://github.com/open-metadata/OpenMetadata",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "The Open Context Layer for Data and AI , OpenMetadata is the open platform for building trusted data context and business semantics for humans, AI assistants, and agents. [14 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "mattpocock / skills",
+      "url": "https://github.com/mattpocock/skills",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "Skills for Real Engineers. Straight from my .agents directory. [1,740 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-07-26\n\n这是为你筛选的今日“疯狂发明家”技术雷达。今天挑选了 4 个最能打通 **Agent 工作流、Spec-Driven 开发、物理 HCI 和生成式世界观** 的硬核/有趣项目。\n\n---\n\n## ESP32-AI: 在 8 美元的微控制器上运行 28.9M 参数本地 LLM\n- 来源：Hacker News / GitHub\n- 链接：https://github.com/slvDev/esp32-ai\n- 一句话解释：把一个 28.9M 参数的极小 LLM 直接塞进 8 美元的 ESP32 芯片，不连网也能原生推理。\n- 它为什么重要：它把 LLM 从昂贵的云端 API 和显卡解绑，让 AI 真正落入边缘侧、物理实体和无网环境。\n- 技术趋势标签：Edge AI / Embedded System / Tangible HCI / Physical Computing\n- 可复用模式：**物理实体与微型脑结合**（传感器 -> 本地极小模型 -> 物理执行器）。\n- 疯狂发明家灵感：\n  1. **小实验**：做一只“有脾气”的 ESP32 物理桌宠，根据光照和摸摸传感器的输入，通过本地模型输出带有情绪的 LED 律动和微型墨水屏话语。\n  2. **中型项目**：离线野外探险 RPG 实体道具——一把“能够辨识周围环境并给予解谜提示”的离线魔法手电筒。\n  3. **艺术/游戏/叙事方向**：寄生在旧时代电子废料（如旧电话机、GameBoy）里的离线 AI 灵体艺术装置。\n- 对我项目的启发：如果想做结合物理世界的游戏或交互装置，不需要带高功耗电脑，ESP32 就可以当作实体 Agent 的内核。\n- 今天是否值得深入研究：是\n- 建议行动：做demo\n\n---\n\n## context-mode: 针对 AI Agent 的上下文沙盒与 98% 瘦身工具\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/mksglu/context-mode\n- 一句话解释：通过 MCP + Hooks 截断和沙盒化工具的冗长输出，把 Agent 的 Context 占用最高降低 98%，同时保留会话记忆。\n- 它为什么重要：Agent 频繁失忆或产生幻觉，通常是因为工具返回的庞大数据（大型 JSON、巨量代码）占满了上下文。解决 Agent 性能衰退的关键是 **Context Engineering（上下文工程）**。\n- 技术趋势标签：Agent Workflow / Context Engineering / MCP / LLM Toolchain\n- 可复用模式：**源头过滤模式 (Filter-at-Source)**：在数据塞给 LLM 之前，先在 Tool 这一层做本地规则截断与结构提取。\n- 疯狂发明家灵感：\n  1. **小实验**：写一个 MCP Hook 中间件，自动把你终端里复杂的 `git diff` 或测试日志压缩成 5 行结构化摘要再交给 Claude/Cursor。\n  2. **中型项目**：Minecraft 世界动态监听 Agent：监听几千个方块和 NPC 的状态变化，但只把玩家视线 10 格内的“增量改变”过滤并翻译成 Agent 上下文。\n  3. **艺术/游戏/叙事方向**：一个“选择性遗忘”的叙事 Agent，根据故事情绪变化动态决定保留哪些记忆，丢弃哪些细节。\n- 对我项目的启发：适合用来优化你的 Spec-driven 自动化工具或构建 Drift 工作流，防止 Agent 在读写大型工程时被大量无用上下文卡死。\n- 今天是否值得深入研究：是\n- 建议行动：试用\n\n---\n\n## ego-lite: 共享真实登录态的 Agent 极速无感浏览器\n- 来源：GitHub Trending\n- 链接：https://github.com/citrolabs/ego-lite\n- 一句话解释：让 Claude Code 或 Codex 等 AI Agent 能够直接复用你本地浏览器的登录 Cookie，无感、静默地帮你在真实网站上做自动化操作。\n- It 为什么重要：传统 Playwright 自动化需要重新处理登录验证或暴露账号密码。ego-lite 实现了人类与 Agent 在同一浏览器身份下的无缝协作。\n- 技术趋势标签：Agentic Automation / HCI / Stealth Browser / Co-existence\n- 可复用模式：**影子公司模式 (Shadow Session Sharing)**：Agent 静默使用人类的身份凭证在后台跑长任务，不干扰人类前台交互。\n- 疯狂发明家灵感：\n  1. **小实验**：写一个脚本让 Agent 在后台静默巡检你常用的设计社区或 GitHub，把新出的创意作品自动整理成你的专属 Moodboard。\n  2. **中型项目**：无缝的 Figma/Webflow 联动生成器：让后台 Agent 登录你的 Web 账号，自动帮你在后台把设计稿转成真实 UI 组件。\n  3. **艺术/游戏/叙事方向**：一个“数字替身”艺术项目：AI Agent 在后台替你漫游互联网，记录它对你平时关注的数字世界的“独家观察日记”。\n- 对我项目的启发：可以作为设计与开发自动化流程中的静默执行层，省去繁重的身份验证逻辑。\n- 今天是否值得深入研究：否\n- 建议行动：收藏\n\n---\n\n## PageIndex: 抛弃向量数据库，基于推理与树状结构的 Reasoning RAG\n- 来源：GitHub Trending Python\n- 链接：https://github.com/VectifyAI/PageIndex\n- 一句话解释：不依赖 Vector Embedding 和向量切片，直接构建文档的层次树状结构，通过 LLM 的推理能力像人类看书一样去检索信息。\n- 它为什么重要：传统向量 RAG 会因为数据切块（Chunking）破坏文本的逻辑连贯性，而基于树状索引的 Reasoning-RAG 能在保持完整上下文语义的同时做到精确定位。\n- 技术趋势标签：Vectorless RAG / Spec-Driven / Reasoning System / Structural Retrieval\n- 可复用模式：**树状推演检索 (Hierarchical Index Reasoning)**：先看目录树（Tree Structure），由 LLM 推理出答案可能在哪个分支，再深入分支抓取。\n- 疯狂发明家灵感：\n  1. **小实验**：把一份长达 50 页的复杂项目 Spec 转换为 JSON 树大纲，用提示词让 LLM 做出“目录级寻路”，对比它和向量检索的准确度。\n  2. **中型项目**：Minecraft 庞大 Mod 规则与设定集的精确 Reasoning-RAG 引擎，让 NPC 能顺着规章树准确查阅复杂的游戏世界法则。\n  3. **艺术/游戏/叙事方向**：非线性互动树状小说引擎：玩家任意提问，系统沿着树状 Lore 脉络解密世界观隐喻。\n- 对我项目的启发：**极为契合 Spec-Driven 开发**！ Spec 本身就是高度结构化的文档，用 PageIndex 思想做 Spec 检索比普通 Vector RAG 效果好得多。\n- 今天是否值得深入研究：是\n- 建议行动：做demo\n\n---\n\n## 今日模式总结\n\n1. **上下文瘦身与精准路由 (Context Pruning & Structural Reasoning)**：\n   无论是在工具侧截断数据的 `context-mode`，还是抛弃向量切片直接用树状推演检索的 `PageIndex`，都在指向同一个趋势——**不再把海量垃圾数据硬塞给 LLM，而是建立精准的上下文“滤网”与“导航树”**。\n2. **AI 从云端落入物理与隐形后台 (Ubiquitous & Stealth Agency)**：\n   `ESP32-AI` 让模型跑在 $8 硬件上触碰真实物理物理世界，`ego-lite` 允许 Agent 隐形复用人类浏览器身份。 Agent 正在离线化、物理化、无感化。\n\n---\n\n## 今日可做小实验\n\n基于今天得到的启发，为你设计一个 2 小时可完成的 Spec-Driven 自动化小实验：\n\n### 项目名：`SpecTree-Navigator`（基于树状索引的 Spec 上下文精准抽取器）\n\n- **输入**：一份复杂的 Markdown 格式项目架构规范文档（`Spec.md`），以及一个具体的需求问题（如“用户鉴权模块的核心流程和接口是什么？”）。\n- **输出**：不使用任何 Vector Embedding/数据库，仅输出 LLM 在 Spec 目录树中的寻路轨迹（如 `[Root -> 3.安全与鉴权 -> 3.2 JWT机制]`），并只截取该节点下最小精简上下文和对问题的解答。\n- **技术栈**：Python + `pathlib` + LiteLLM (或任意 LLM API)\n- **第一步怎么做**：\n  1. 用 Python 写一个简单的正则解析器（约 30 行），读取 `Spec.md` 的 `#` / `##` / `###` 标题，构建出一个只包含标题和节点 ID 的 JSON 目录树。\n  2. 构造一个 Prompt 给 LLM：“这是项目的目录树结构 `{JSON_TREE}`，请推断解决问题 `{QUESTION}` 需要阅读哪几个节点 ID？只返回节点 ID 列表。”\n  3. 脚本根据 LLM 返回的节点 ID 抽取对应小节拼成最终 Context，验证其 Token 消耗是否比原文减少了 80% 以上。",
+  "gemini_success": true,
+  "telegram_sent": true,
+  "telegram_status": "sent",
+  "telegram_reason": ""
+}
