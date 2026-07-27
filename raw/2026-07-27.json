@@ -1,0 +1,256 @@
+[
+  {
+    "title": "777genius / agent-teams-ai",
+    "url": "https://github.com/777genius/agent-teams-ai",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch the kanban board and give high-level commands. Codex/Claude/OpenCode/Cursor/Grok/GitHub Copilot/Kiro/Z.AI/MiniMax/Kimi(200+ models, 75+ LLM providers, free models no auth). Build your AI company with multiple teams [25 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "Claude",
+      "Copilot"
+    ]
+  },
+  {
+    "title": "VectifyAI / PageIndex",
+    "url": "https://github.com/VectifyAI/PageIndex",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG [102 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "RAG",
+      "vector",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "citrolabs / ego-lite",
+    "url": "https://github.com/citrolabs/ego-lite",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config. [900 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "automation"
+    ]
+  },
+  {
+    "title": "ComposioHQ / awesome-claude-skills",
+    "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows [440 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "Claude",
+      "workflow"
+    ]
+  },
+  {
+    "title": "microsoft / agent-governance-toolkit",
+    "url": "https://github.com/microsoft/agent-governance-toolkit",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10. [7 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "xbtlin / ai-berkshire",
+    "url": "https://github.com/xbtlin/ai-berkshire",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis. [162 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude"
+    ]
+  },
+  {
+    "title": "jgravelle / jcodemunch-mcp",
+    "url": "https://github.com/jgravelle/jcodemunch-mcp",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Cut AI token costs 95%+ on code exploration. The leading MCP server for precise, symbol-level GitHub code retrieval via tree-sitter AST. Works with Claude Code, Cursor & any MCP client. 313B+ tokens saved. [45 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "Claude",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Lightning-AI / litgpt",
+    "url": "https://github.com/Lightning-AI/litgpt",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale. [39 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "GPT"
+    ]
+  },
+  {
+    "title": "browseros-ai / BrowserOS",
+    "url": "https://github.com/browseros-ai/BrowserOS",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia. [70 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "GPT"
+    ]
+  },
+  {
+    "title": "alibaba / open-code-review",
+    "url": "https://github.com/alibaba/open-code-review",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. [832 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM"
+    ]
+  },
+  {
+    "title": "Wattage: A token-spend profiler and cost-regression gate for AI agents",
+    "url": "https://github.com/faizannraza/wattage",
+    "source": "Hacker News",
+    "published_at": "Sun, 26 Jul 2026 23:27:35 +0000",
+    "description": "Article URL: https://github.com/faizannraza/wattage Comments URL: https://news.ycombinator.com/item?id=49063397 Points: 4 # Comments: 0",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
+    "url": "https://github.com/slvDev/esp32-ai",
+    "source": "Hacker News Best",
+    "published_at": "Sat, 25 Jul 2026 18:59:50 +0000",
+    "description": "Article URL: https://github.com/slvDev/esp32-ai Comments URL: https://news.ycombinator.com/item?id=49050512 Points: 270 # Comments: 68",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "LLM"
+    ]
+  },
+  {
+    "title": "andrewyng / aisuite",
+    "url": "https://github.com/andrewyng/aisuite",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Simple, unified interface to multiple Generative AI providers [187 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "generative"
+    ]
+  },
+  {
+    "title": "home-assistant / core",
+    "url": "https://github.com/home-assistant/core",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "🏡 Open source home automation that puts local control and privacy first. [28 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "automation",
+      "open source"
+    ]
+  },
+  {
+    "title": "OpenDCAI / DataFlow",
+    "url": "https://github.com/OpenDCAI/DataFlow",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Easy Data Preparation with latest LLMs-based Operators and Pipelines. [38 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "LLM"
+    ]
+  },
+  {
+    "title": "CoreBunch / Instatic",
+    "url": "https://github.com/CoreBunch/Instatic",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there. [888 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "agent",
+      "self-hosted"
+    ]
+  },
+  {
+    "title": "EvanZhouDev / openai-oauth",
+    "url": "https://github.com/EvanZhouDev/openai-oauth",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Free AI with your ChatGPT account [79 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "GPT"
+    ]
+  },
+  {
+    "title": "tashfeenahmed / freellmapi",
+    "url": "https://github.com/tashfeenahmed/freellmapi",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "OpenAI-compatible proxy that stacks the free tiers of 28 LLM providers (~4B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only. [116 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "LLM"
+    ]
+  },
+  {
+    "title": "davepoon / buildwithclaude",
+    "url": "https://github.com/davepoon/buildwithclaude",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code, Claude Desktop, Agent SDK and OpenClaw [6 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "agent",
+      "Claude"
+    ]
+  },
+  {
+    "title": "nrwl / nx",
+    "url": "https://github.com/nrwl/nx",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time. [9 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  }
+]
