@@ -1,0 +1,289 @@
+{
+  "date": "2026-07-28",
+  "candidates": [
+    {
+      "title": "ruvnet / ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated [172 stars today]",
+      "score": 14.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "workflow",
+        "autonomous",
+        "RAG",
+        "memory"
+      ]
+    },
+    {
+      "title": "Cross-reality location privacy protection in 6G-enabled vehicular metaverses: an LLM-enhanced hybrid generative diffusion model-based approach",
+      "url": "https://arxiv.org/abs/2601.12311",
+      "source": "arXiv cs.HC",
+      "published_at": "Mon, 27 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2601.12311v2 Announce Type: replace-cross \nAbstract: The emergence of 6G-enabled vehicular metaverses enables Autonomous Vehicles (AVs) to operate across physical and virtual spaces through space-air-ground-sea integrated networks. The AVs can deploy AI agents powered by large AI models as personalized assistants, on edge servers to support intelligent driving decision making and enhanced on-board experiences. However, such cross-reality interactions may cause serious location privacy risk",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "diffusion",
+        "autonomous",
+        "generative"
+      ]
+    },
+    {
+      "title": "Encoding Invisible Causation for Bridge Diagnostic Agents: Triple-Guided Retrieval-Augmented Fine-Tuning with QLoRA",
+      "url": "https://arxiv.org/abs/2607.21680",
+      "source": "arXiv cs.LG",
+      "published_at": "Mon, 27 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.21680v1 Announce Type: new \nAbstract: Bridge infrastructure deteriorates gradually, yet its root causes---salt intrusion, freezing, fatigue cracking, and others---remain invisible to the naked eye. Expert diagnosis relies on tacit knowledge built over years of practice. We address the challenge of automating this latent causal reasoning by proposing a Damage Cause Encoder that classifies 10-class damage causes from visible damage descriptions $S_i$ for use in autonomous bridge diagnos",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "autonomous",
+        "fine-tuning",
+        "reasoning",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "From Grasping to Speaking: Generative AI-Based Environment-Grounded VR Communication Training for Autistic Individuals",
+      "url": "https://arxiv.org/abs/2607.21769",
+      "source": "arXiv cs.HC",
+      "published_at": "Mon, 27 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.21769v1 Announce Type: new \nAbstract: Autistic individuals often face barriers in workplace communication, where soft skills are embedded within ongoing tasks and surrounding environment context, not in isolated verbal exchange. Recent work has introduced LLM-driven agents into VR-based communication training and proposed prompting schemas that let agents generate dialogue grounded in the VR environment and the user's hand-based interactions. Building on this work, we explore how diff",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "prompt",
+        "generative"
+      ]
+    },
+    {
+      "title": "RIS-Kernel: A Model-Agnostic Architecture for Long-Context LLM Inference via Sparse Attention",
+      "url": "https://arxiv.org/abs/2607.21927",
+      "source": "arXiv cs.LG",
+      "published_at": "Mon, 27 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.21927v1 Announce Type: new \nAbstract: Full self-attention in large language models scales as O(N^2), which limits long-context document analysis to 65,536 tokens and requires costly GPU clusters. The Reduced Interaction Sampling (RIS) inference engine addresses this constraint as a model-agnostic architecture. Without modifying weights, RIS reduces self-attention complexity to O(N log N) using sparse stochastic geometry that fits within commodity memory limits. We validate RIS on Qwen",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "inference",
+        "memory"
+      ]
+    },
+    {
+      "title": "777genius / agent-teams-ai",
+      "url": "https://github.com/777genius/agent-teams-ai",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch the kanban board and give high-level commands. Codex/Claude/OpenCode/Cursor/Grok/GitHub Copilot/Kiro/Z.AI/MiniMax/Kimi(200+ models, 75+ LLM providers, free models no auth). Build your AI company with multiple teams [46 stars today]",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "Claude",
+        "Copilot"
+      ]
+    },
+    {
+      "title": "Co-design of LLM-based preference agents: participation may drive overtrust",
+      "url": "https://arxiv.org/abs/2607.21757",
+      "source": "arXiv cs.HC",
+      "published_at": "Mon, 27 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.21757v1 Announce Type: cross \nAbstract: Large language models are increasingly used to simulate human preferences in research and practical applications, raising concerns about validation, misrepresentation, and exclusion. Co-designing agents with the people they represent is a promising way to address these concerns, but participation may also mask the problems it appears to solve. This paper explores that tension through a primarily qualitative study in which 12 participants co-desi",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model"
+      ]
+    },
+    {
+      "title": "Toward User-Conditioned Evaluation of Personal LLM Agents under Temporal Interventions",
+      "url": "https://arxiv.org/abs/2607.21635",
+      "source": "arXiv cs.LG",
+      "published_at": "Mon, 27 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.21635v1 Announce Type: new \nAbstract: Personal agents maintain memories, learned skills, tool configurations, and policy state that evolve with each user. Existing agent benchmarks often evaluate these capabilities in isolation: tool benchmarks test invocation under fixed APIs, memory benchmarks test recall or forgetting, and safety benchmarks test static policy compliance. We argue that personal-agent evaluation requires a different protocol: replaying the same temporal intervention ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "memory"
+      ]
+    },
+    {
+      "title": "LeAct: Learning to Reason from Expert Actions",
+      "url": "https://arxiv.org/abs/2607.21856",
+      "source": "arXiv cs.LG",
+      "published_at": "Mon, 27 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.21856v1 Announce Type: new \nAbstract: Modern reasoning models depend on reasoning data, today sourced from human annotations or distilled from stronger LLMs. However, a rich and largely untapped source of supervision lies in expert systems (e.g., game engines, classical planners, theorem provers), which routinely produce near-optimal actions across diverse domains. But these experts are silent: they commit to an action without writing down the chain of thought (CoT) behind it. Recover",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "game",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Bespoke Visual Assistance: What and How do Blind and Low-Vision People Create with Agentic Programming?",
+      "url": "https://arxiv.org/abs/2607.21760",
+      "source": "arXiv cs.HC",
+      "published_at": "Mon, 27 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.21760v1 Announce Type: new \nAbstract: AI-powered assistive technologies have long supported blind and low vision (BLV) people in everyday tasks, but they are general-purpose and often fall short of meeting complex, individualized, in-situ accessibility needs. Though agentic programming tools, like GitHub Copilot, have the potential to bridge this gap by lowering the technical barriers to building personal AT using natural language, the practical applicability of this creation paradigm",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Copilot"
+      ]
+    },
+    {
+      "title": "Towards Reducing Foreign Language Anxiety Using Level-Appropriate Embodied Conversational Agents",
+      "url": "https://arxiv.org/abs/2607.21887",
+      "source": "arXiv cs.HC",
+      "published_at": "Mon, 27 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.21887v1 Announce Type: new \nAbstract: Foreign language anxiety (FLA) can be a major barrier to second language acquisition (SLA), especially in conversational contexts. With the proliferation of large language models (LLMs) throughout all areas of life, recent work suggests that interacting with LLM agents can be instrumental within the field of SLA and foreign language education, especially for reducing FLA. Related work also suggests that linguistic demands and task complexity can b",
+      "score": 6.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "language model"
+      ]
+    },
+    {
+      "title": "An AI-Driven Virtual Patient for Breaking Bad News: An Expert Formative Study on Facial Expression Intensity",
+      "url": "https://arxiv.org/abs/2607.22118",
+      "source": "arXiv cs.HC",
+      "published_at": "Mon, 27 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.22118v1 Announce Type: new \nAbstract: Interactive virtual patients driven by large language models (LLMs) offer scalable solutions for medical communication training, such as breaking bad news. However, designing their emotional expressiveness remains a challenge. This paper presents an AI-driven virtual patient framework combining LLM dialogue with real-time facial animation in virtual reality (VR). We conducted an exploratory, formative evaluation with seven medical experts to gathe",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model"
+      ]
+    },
+    {
+      "title": "Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education",
+      "url": "https://arxiv.org/abs/2607.22463",
+      "source": "arXiv cs.HC",
+      "published_at": "Mon, 27 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.22463v1 Announce Type: new \nAbstract: Generative AI is reshaping programming education, yet educators often infer students' AI-supported learning from classroom observations alone. This experience report presents a trio-ethnography involving two computing educators with different teaching philosophies and one undergraduate computer science student to examine how these interpretations evolve through dialogue. Across three conversations, the educators reflected on students' AI use, disc",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "generative"
+      ]
+    },
+    {
+      "title": "Understanding Fortunetelling with Large Language Models in China: User Practices, Perceptions, and Impacts on Beliefs and Decisions",
+      "url": "https://arxiv.org/abs/2607.15626",
+      "source": "arXiv cs.HC",
+      "published_at": "Mon, 27 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.15626v2 Announce Type: replace \nAbstract: Fortunetelling is a cultural practice for navigating uncertainty, often associated with people's beliefs and decisions. Fortunetelling with recent large language models (LLMs) introduces new opportunities and risks. This paper conducts qualitative studies to understand users' practices, perceptions, and impacts of LLM fortunetelling in China. We first analyze 1,045 posts on Chinese social media, yielding a comprehensive taxonomy of the diverse",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model"
+      ]
+    },
+    {
+      "title": "Math Education Digital Shadows for Investigating Learning with GenAI: Mathematics Performance, Anxiety, and Confidence in LLMs",
+      "url": "https://arxiv.org/abs/2604.27618",
+      "source": "arXiv cs.HC",
+      "published_at": "Mon, 27 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2604.27618v2 Announce Type: replace-cross \nAbstract: Understanding the impact of large language models (LLMs) on mathematics education requires data on LLMs' mathematical performance and biases. To this end, we introduce Math Education Digital Shadows (MEDS), a dataset mapping how LLMs reason about mathematics across human- and AI-like personifications. MEDS comprises 28,000 runs from 14 LLMs (i.e., Mistral, Qwen, DeepSeek, IBM Granite, Microsoft Phi, and xAI Grok) generated under human-sh",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model"
+      ]
+    },
+    {
+      "title": "An Introduction to Bayesian and Frequentist Simulation-Based Inference with Machine Learning",
+      "url": "https://arxiv.org/abs/2607.21702",
+      "source": "arXiv cs.LG",
+      "published_at": "Mon, 27 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.21702v1 Announce Type: new \nAbstract: Simulation-based inference (SBI) with machine learning is an increasingly important tool for solving inverse problems in science and engineering, including parameter inference and the inversion of detector effects. We provide an overview of the Bayesian and frequentist statistical frameworks, describe how machine-learning-based SBI methods, such as neural posterior estimation and neural likelihood estimation, can be used for parameter estimation w",
+      "score": 6.0,
+      "keywords_matched": [
+        "simulation",
+        "neural",
+        "inference"
+      ]
+    },
+    {
+      "title": "RED-PIM: Reducing Data Movement for Transformers using Processing-in-Memory",
+      "url": "https://arxiv.org/abs/2607.21731",
+      "source": "arXiv cs.LG",
+      "published_at": "Mon, 27 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.21731v1 Announce Type: new \nAbstract: Transformers are widely used across many domains, including natural language processing, computer vision, web search, and DNA sequence analysis. Given their broad applicability, improving the performance of transformer models is critical. However, the high volume of data movement between processing units and memory during attention operations significantly limits their efficiency. Processing-In-Memory (PIM) mitigates this issue by performing compu",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "transformer",
+        "memory"
+      ]
+    },
+    {
+      "title": "Multi-Agent Debate and Visual Information Extraction for SeePhys Pro: A 1st-Place Technical Report from ICML 2026 AI4Math Track 3 Challenge",
+      "url": "https://arxiv.org/abs/2607.21946",
+      "source": "arXiv cs.LG",
+      "published_at": "Mon, 27 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.21946v1 Announce Type: new \nAbstract: This technical report presents our approach to Challenge Track~3: SeePhys Pro at the 3rd AI for Math Workshop, where the task is to answer college-level physics questions whose statement and figure may be given partly or entirely as an image. Visual physics problems become substantially harder for large language models when the decisive information resides in a figure rather than in the text, and this modality gap widens as more of the problem mig",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "language model"
+      ]
+    },
+    {
+      "title": "arc53 / DocsGPT",
+      "url": "https://github.com/arc53/DocsGPT",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents. [48 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "GPT"
+      ]
+    },
+    {
+      "title": "alibaba / open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. [979 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-07-28\n\n看完全部 20 条候选，我精选出了 **4 条最有启发性、最适合你的跨学科背景**（AI + 游戏/HCI/设计/Spec-Driven）的内容。\n\n今天的内容重点不在于“AI 又发布了什么新模型”，而是**“AI 如何与确定性规则系统（游戏引擎、分析管道、玄学框架）混合”**以及**“多 Agent 如何在终端协同”**。\n\n---\n\n## [1] LeAct：用游戏引擎和规则规划器训练 LLM 逻辑推理\n- 来源：arXiv cs.LG\n- 链接：https://arxiv.org/abs/2607.21856\n- 一句话解释：不靠人类标注或强模型蒸馏，而是让大模型直接从游戏引擎、经典规划器（Planner）等确定性“专家系统”生成的最佳动作轨迹中学习推理。\n- 它为什么重要：过去的 CoT（思维链）依赖文本推演，容易产生“幻觉”。但现实世界和游戏世界中的物理引擎、A*算法、图论规划器是 100% 准确的。用确定性规则生成的轨迹来“教”LLM，打通了“世界模型/游戏规则”与“LLM 推理”的闭环。\n- 技术趋势标签：#GameSystems #LLM推理 #确定性引擎 #世界模型\n- 可复用模式：**确定性系统生成动作轨迹 -> 转换为自然语言思考过程 -> 训练/引导 LLM 的逻辑推演能力**。\n- 疯狂发明家灵感：\n  1. *一个小实验*：写一个 Sokoban（推箱子）算法解算器，自动把求解出的路径转化为“解题思路 Prompt”，测试这能否显著提升小模型求解逻辑 puzzle 的能力。\n  2. *一个中型项目*：Minecraft 红石电路/建筑解算 Agent：用算法求解红石逻辑门，导出为思维步骤，训练出一个能直接口述“如何搭建红石自动化农场”的红石工程师 AI。\n  3. *一个艺术/游戏/叙事方向*：基于逻辑规划的“戏剧冲突生成器”——利用传统叙事规划器（如 STRIPS）生成绝对合理的剧情冲突路径，再让 LLM 赋予其充满文学色彩的对话与氛围。\n- 对我项目的启发：解决在游戏生成或 Agent 决策中 LLM 容易“瞎编”的问题——永远用一个底层的数学/游戏规则系统做 Validation 和轨迹输入。\n- 今天是否值得深入研究：是\n- 建议行动：做demo\n\n---\n\n## [2] ruflo：多智能体蜂群的元调度与自适应记忆框架\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/ruvnet/ruflo\n- 一句话解释：一个支持多智能体蜂群（Swarm）协作的调度框架，支持自适应记忆、动态 RAG，并原生适配 Claude Code 和 Codex 等 CLI 工具链。\n- 它为什么重要：Agent 开发正在从“单 Agent 调工具”演进为“多 Agent 团队（Swarm）”。此项目极其贴合 Spec-Driven 开发逻辑，把任务拆解、记忆管理和终端执行高度整合。\n- 技术趋势标签：#AgentWorkflow #MultiAgent #ClaudeCode #SpecDriven #Swarm\n- 可复用模式：**蜂群任务分发 + 共享自适应上下文/记忆 + CLI 原生工具链执行**。\n- 疯狂发明家灵感：\n  1. *一个小实验*：配置两个 Claude Agent，一个负责根据自然语言需求实时更新 `spec.md`，另一个监控 Spec 变更并自动用 CLI 运行测试与修正。\n  2. *一个中型项目*：自治游戏关卡生成工厂：策划 Agent 提出世界观，逻辑 Agent 写机制，结构 Agent 生成 Minecraft/Unity 场景文件，测试 Agent 在模拟器跑通并提交报告。\n  3. *一个艺术/游戏/叙事方向*：生成式“虚拟剧组”工作流：导演、编剧、美术指导三个 Agent 在后台自动展开剧本围读，实时把碰撞出的变奏剧本与场景 Prompt 渲染到前端页面。\n- 对我项目的启发：可以作为自身 Spec-driven 自动化开发工作流的底层调度工具，省去重造多 Agent 协作和 CLI 通信轮子的时间。\n- 今天是否值得深入研究：是\n- 建议行动：试用\n\n---\n\n## [3] LLM 算命/玄学行为分析：当生成式 AI 成为文化与不确定性介质\n- 来源：arXiv cs.HC\n- 链接：https://arxiv.org/abs/2607.15626\n- 一句话解释：深入研究人类如何利用 LLM 进行算命、塔罗和玄学占卜，分析 LLM 作为“不确定性消除工具”对人类心理和决策的深远影响。\n- 它为什么重要：从 HCI 与新媒体艺术的角度看，算命本质上是一种**“基于不确定性的叙事交互系统”**。LLM 的核心优势不仅是回答事实，而是“心理投射与冷读（Cold Reading）”，这对设计游戏叙事和交互艺术极具启发。\n- 技术趋势标签：#HCI #GenerativeNarrative #CreativeCoding #CulturalAI #ArtTech\n- 可复用模式：**模糊性输入 -> 心理投射引导 -> 结构化剧情/隐喻输出（Cold Reading AI）**。\n- 疯狂发明家灵感：\n  1. *一个小实验*：结合系统时钟与鼠标轨迹熵生成“赛博易经”，将物理随机数转化为带有生成式代码视觉的冷读（Cold Reading）叙事。\n  2. *一个中型项目*：交互式心理游戏《命运编译器》：玩家输入代码或文字，AI 根据隐喻生成一个“规则与命运图景”，玩家需要通过重构逻辑来反抗 AI 预设的结局。\n  3. *一个艺术/游戏/叙事方向*：新媒体艺术装置《AI 预言社》：利用 LLM 模拟不同历史时期的占卜师，在空间中与观众语音对谈，探讨AI时代人类对“确定性”的病态依赖。\n- 对我项目的启发：生成式系统的魅力往往不在于“绝对正确”，而在于“隐喻性”和“戏剧性”。可以把这种心理投射机制引入游戏 NPC 的对话系统中。\n- 今天是否值得深入研究：是\n- 建议行动：收藏\n\n---\n\n## [4] open-code-review：确定性 Pipeline + LLM Agent 的混合代码审查架构\n- 来源：GitHub Trending\n- 链接：https://github.com/alibaba/open-code-review\n- 一句话解释：阿里开源的混合架构代码审查工具，将“确定性静态分析管道（Pipeline）”与“LLM Agent”相结合，提供精准的行级审查。\n- 它为什么重要：“纯 LLM”缺乏严谨性且有幻觉，而“纯规则”缺乏语义理解。这种**“确定性规则守底线 + LLM Agent 处理语义”**的混合架构（Hybrid Architecture），是目前构建可靠自动化工具链的最佳范式。\n- 技术趋势标签：#SpecDriven #Automation #HybridArchitecture #AgentWorkflow #CodeToolchain\n- 可复用模式：**确定性静态规则过滤 -> LLM 语义分析与意图对齐（双层防护网）**。\n- 疯狂发明家灵感：\n  1. *一个小实验*：写一个 Markdown 规范（Spec）检查器，先用正则检测结构语法是否缺失，再将通过的内容传给 LLM 检查语义逻辑是否有矛盾。\n  2. *一个中型项目*：游戏关卡配置文件自动修正器：用 AST 语法树解析 Unity/Minecraft 配置文件，触发异常时让 LLM Agent 尝试修改并自动提交 PR。\n  3. *一个艺术/游戏/叙事方向*：创意编程（Creative Coding）代码审美评估器：用 P5.js/Shader 解析器先过滤掉语法死循环，再让 LLM 评估其视觉隐喻，并自动微调艺术参数。\n- 对我项目的启发：构建 Spec-Driven 自动开发系统时，切忌把所有事情打包抛给 LLM，必须建立“确定性程序过滤 + LLM 语义生成”的架构。\n- 今天是否值得深入研究：是\n- 建议行动：试用\n\n---\n\n## 今日模式总结\n\n1. **确定性与生成式的共生（Hybrid Deterministic-LLM Architecture）**：\n   无论是用游戏引擎/规划算法来训练 LLM 推理（LeAct），还是用静态代码分析管道为 LLM 打底（open-code-review），**“用传统规则做硬约束，用 LLM 做软理解”**已经成为当前 AI 工具与系统设计的核心模式。\n2. **终端原生与多 Agent 蜂群化（Swarm Agents in CLI）**：\n   Agent 正在脱离浏览器对话框，通过终端 CLI 工具（如 Claude Code）深度嵌入系统，并从“单兵作战”向“自适应记忆的多 Agent 蜂群（ruflo）”演进。\n\n---\n\n## 今日可做小实验\n\n**项目名称**：《赛博求签器：物理随机数与 LLM 冷读卡牌生成》 (Cyber Divination Terminal)\n\n* **输入**：用户当前的一句困惑 + 鼠标移动轨迹算出的物理随机 Seed。\n* **输出**：一个在终端（或网页 Canvas）渲染的 ASCII/极简图形卡牌，附带一段由 LLM 生成的带有玄学隐喻的冷读文本。\n* **技术栈**：Node.js / Python + OpenAI/Claude API + 简单的 ASCII 渲染库。\n* **第一步怎么做**：\n  1. 写一段 15 行的脚本，监听鼠标移动坐标或键盘打字时间间隔，计算出一个熵值并映射为一个随机符号（例如：“0x04-溢出之塔”）。\n  2. 编写 Prompt：“你是一个运行在废土系统中的 AI 占卜师。请结合随机符号 [Seed_Name] 与用户的困惑 [Input]，用冷读（Cold Reading）技巧生成一段不超过 100 字的赛博占卜预言，并附带 3 行代表该卡牌的 ASCII Art。”\n  3. 在终端运行它，体会物理随机性与 LLM 文本隐喻结合带来的有趣体验。",
+  "gemini_success": true,
+  "telegram_sent": true,
+  "telegram_status": "sent",
+  "telegram_reason": ""
+}
