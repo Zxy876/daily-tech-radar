@@ -1,0 +1,298 @@
+[
+  {
+    "title": "Reasoning with Memory: A Temporal Granularity-Adaptive Framework for Training-Free Long Video Understanding",
+    "url": "https://arxiv.org/abs/2607.24794",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 29 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.24794v1 Announce Type: new \nAbstract: While Multimodal Large Language Models (MLLMs) demonstrate superior generalization in fundamental video tasks, restricted context windows limit their long video understanding. To accommodate this constraint, models typically resort to keyframe selection. However, uniform sampling or static query-guided selection often overlooks critical temporal context, failing to adapt to the varying query temporal granularities. In this paper, we propose ReMem,",
+    "score": 14.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "multimodal",
+      "context window",
+      "reasoning",
+      "memory"
+    ]
+  },
+  {
+    "title": "Addressable Recall Compaction for Long Context-Window Control in AI Agents",
+    "url": "https://arxiv.org/abs/2607.25066",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 29 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.25066v1 Announce Type: new \nAbstract: Long-horizon LLM agents accumulate reasoning traces, actions, and tool observations that can eventually exceed a model's fixed context window. Existing compaction methods address this limitation by discarding, summarizing, or retrieving earlier information, but they may remove task-critical details or fail to recover them reliably. We propose ARC (Addressable Recall Compaction), a context-management framework that separates archival storage from a",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "RAG",
+      "context window",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "AI's Capability in Assisting Scientific Research in Physics, Astrophysics, and Cosmology II: Project Planning and Proposal Evaluation",
+    "url": "https://arxiv.org/abs/2607.25881",
+    "source": "arXiv cs.HC",
+    "published_at": "Wed, 29 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.25881v1 Announce Type: cross \nAbstract: We investigate how well large language models (LLMs) can assist scientific project planning and proposal evaluation. One-page project plans were independently generated for eight expert-conceived research projects in physics, astrophysics, and cosmology by human researchers and three contemporary LLMs (ChatGPT, Claude, and DeepSeek; mid-2025 models, used with their default tool access). The resulting 32 proposals were blindly evaluated by four h",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "Claude",
+      "GPT",
+      "language model",
+      "planning"
+    ]
+  },
+  {
+    "title": "Hierarchical Grading in Large Language Models",
+    "url": "https://arxiv.org/abs/2607.22757",
+    "source": "arXiv cs.LG",
+    "published_at": "Wed, 29 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.22757v1 Announce Type: new \nAbstract: We introduce Graded Large Language Models (GLLMs), an algebraic framework that equips the representation space of a transformer with a grading and propagates the induced weighted scalar action through embeddings, self-attention, and the training objective. The construction extends the theory of graded neural networks and graded transformers to autoregressive language models while preserving expressive power, asymptotic computational complexity, an",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "transformer",
+      "neural",
+      "language model",
+      "embedding"
+    ]
+  },
+  {
+    "title": "Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents",
+    "url": "https://arxiv.org/abs/2607.24759",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 29 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.24759v1 Announce Type: new \nAbstract: Research projects, educational efforts, and adjacent knowledge work accumulate findings, decisions, and reasoning that future collaborators rarely recover. The parts most useful to that work, including dead ends and walked-back claims, are routinely excluded from publications and shared code; future researchers re-attempt the same failures because no record survives. LLM coding agents are common participants but hold no persistent memory across se",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "reasoning",
+      "memory"
+    ]
+  },
+  {
+    "title": "ProcAgent: An Agentic Framework for Procedural Task Guidance on Edge with Human-in-the-Loop",
+    "url": "https://arxiv.org/abs/2607.24770",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 29 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.24770v1 Announce Type: new \nAbstract: Procedural tasks such as furniture assembly and home repair impose substantial cognitive demands because users must interpret instructions, track task progress, reason about spatial state, and recover from errors while performing physical actions. Prior multimodal assistants have shown promise for procedural guidance, but most rely on cloud inference and fixed always-on perception, making them poorly suited to privacy-sensitive, latency-critical d",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "multimodal",
+      "inference",
+      "procedural"
+    ]
+  },
+  {
+    "title": "RSMeM: Knowledge-Enhanced Memory Evolution for Remote Sensing Agents with Systematic Evaluation",
+    "url": "https://arxiv.org/abs/2607.24772",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 29 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.24772v1 Announce Type: new \nAbstract: Geoscience research requires complex analysis and domain expertise, with remote sensing (RS) observations as a key foundation. However, existing RS agents built on general-purpose LLMs remain largely domain-agnostic, resulting in brittle and error-prone workflows. Moreover, these failures are seldom consolidated into a reusable experience for subsequent analyses. To address this issue, we introduce RSMeM, a knowledge-enhanced memory evolution mech",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "memory"
+    ]
+  },
+  {
+    "title": "CogEEGAgent: Toward Autonomous Cognitive EEG Analysis with Grounded Execution and Selection-Aware Verification",
+    "url": "https://arxiv.org/abs/2607.25045",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 29 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.25045v1 Announce Type: new \nAbstract: Electroencephalography (EEG) analysis in cognitive studies requires specialized expertise and involves many defensible choices over contrasts, channels, time windows, and statistical tests. LLM agents can translate varied natural-language questions into analysis choices, offering a flexible interface for automation. Yet fluent reports alone cannot establish that an agent selected the requested analysis or evaluated a confirmatory claim independent",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "automation",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "TimeCapsule: Generative Hallucination as a Method for Historical Sensemaking",
+    "url": "https://arxiv.org/abs/2607.24750",
+    "source": "arXiv cs.HC",
+    "published_at": "Wed, 29 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.24750v1 Announce Type: cross \nAbstract: Large Language Models (LLMs) are temporally overexposed: trained on vast contemporary corpora, they encode present-day concepts that make them unreliable narrators of the past. We present TimeCapsule, a 1.2B-parameter LLaMA-style causal model trained exclusively on Victorian texts (1800-1875) as an epistemologically isolated generative archive. Quantitative evaluation shows a 45.4% perplexity reduction over a GPT-2 baseline on held-out Victorian",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "GPT",
+      "language model",
+      "generative"
+    ]
+  },
+  {
+    "title": "A Human-in-the-Loop Corpus for LLM-Based Simplification of Scientific Summaries",
+    "url": "https://arxiv.org/abs/2607.25630",
+    "source": "arXiv cs.HC",
+    "published_at": "Wed, 29 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.25630v1 Announce Type: cross \nAbstract: Interdisciplinary research is accelerating, yet scientific papers remain difficult to understand outside their home fields. We study large language model (LLM)-based simplification of scientific texts and present a human-in-the-loop workflow that transforms expert summaries into more accessible versions for non-specialists. Using SciSummNet as the source corpus, we first generate baseline simplifications with GPT-4o-mini. In Phase 1, readers fro",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "workflow",
+      "GPT",
+      "language model"
+    ]
+  },
+  {
+    "title": "Semalith v1.4: A Calibrated 184M Safety Classifier Achieving State-of-the-Art Prompt-Injection Detection at 44x Fewer Parameters than Llama-Guard-3-8B",
+    "url": "https://arxiv.org/abs/2607.22545",
+    "source": "arXiv cs.LG",
+    "published_at": "Wed, 29 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.22545v1 Announce Type: new \nAbstract: Deploying large language models in financial-services and agentic settings requires safety classifiers that simultaneously handle prompt injection, regulatory compliance, and general harm, a combination no existing open guardrail addresses in a single inference pass.\n  Semalith v1.4 is a 184M-parameter DeBERTa-v3-base classifier performing simultaneous three-axis safety classification including prompt injection, general harm, and financial-service",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "language model",
+      "inference",
+      "prompt"
+    ]
+  },
+  {
+    "title": "LLM Scheming Inversely Scales with Pretraining Language Coverage",
+    "url": "https://arxiv.org/abs/2607.24769",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 29 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.24769v1 Announce Type: new \nAbstract: With the growing capabilities of frontier models, AI alignment becomes increasingly critical in high-risk deployment settings. While recent work has empirically demonstrated in-context scheming -- the covert pursuit of misaligned objectives while feigning alignment -- in frontier language models, most work has been performed exclusively in English, leaving a major gap in multilingual safety. We apply Petri, an open-source automated auditing framew",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "RAG"
+    ]
+  },
+  {
+    "title": "Personalization, Personas, and Forecasting in Value Alignment",
+    "url": "https://arxiv.org/abs/2607.24782",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 29 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.24782v1 Announce Type: new \nAbstract: LLM behavior may be conditioned by human identity in several ways: they may be asked to adapt to users, role-play populations, or forecast how people would answer value-laden questions. We test whether these framings are interchangeable using the World Values Survey (WVS). We evaluate GPT-5.4, Claude Sonnet 4.6, Gemini 2.5 Flash, and Qwen3-235B on 101 WVS-derived questions across 13 language-country slices, comparing a language-only baseline with ",
+    "score": 8.0,
+    "keywords_matched": [
+      "LLM",
+      "Claude",
+      "Gemini",
+      "GPT"
+    ]
+  },
+  {
+    "title": "GLIDE: Guided Layerwise Hybrid Attention for Efficient LLM Inference",
+    "url": "https://arxiv.org/abs/2607.24788",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 29 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.24788v1 Announce Type: new \nAbstract: As Large Language Models scale to increasingly long contexts, the memory I/O and computational overhead of the Key-Value (KV) cache during decoding emerges as the primary throughput bottleneck. To address this, we propose GLIDE, a Guided Layerwise Hybrid Attention that strategically integrates sliding-window softmax attention with linear recurrent aggregation. GLIDE is motivated by layer-wise heterogeneity: early layers exhibit high sensitivity to",
+    "score": 8.0,
+    "keywords_matched": [
+      "LLM",
+      "language model",
+      "inference",
+      "memory"
+    ]
+  },
+  {
+    "title": "Chart-Supported or Model-Supplied? Examining MLLM-Generated Claims for Accessible Visualization",
+    "url": "https://arxiv.org/abs/2607.25021",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 29 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.25021v1 Announce Type: new \nAbstract: Multimodal large language models (MLLMs) can connect visualization patterns to external causes, consequences, and domain knowledge, but the evidential basis of these interpretations is often unclear. We present an exploratory study of 102 visualizations from four sources, three MLLMs, and four input conditions that vary access to the image, source-specific accessible chart context, and withheld-context framing. Across 1,224 descriptions, we analyz",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "multimodal"
+    ]
+  },
+  {
+    "title": "How Often Should a Recommender Call an LLM? Value-Weighted Routing, Monitoring, and Seasonal Robustness",
+    "url": "https://arxiv.org/abs/2607.25068",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 29 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.25068v1 Announce Type: new \nAbstract: Routing decisions between a cheap heuristic and an expensive large language model (LLM) are typically framed as a difficulty problem: send the hard cases to the expensive path. We argue this framing is incomplete because difficulty and business value are distinct axes - a difficult cheap item and a difficult costly item do not have the same cost of error. We present Value Router, a fully synthetic simulation of a retail merchandising pipeline that",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "simulation",
+      "language model"
+    ]
+  },
+  {
+    "title": "Language as a Material Interface for Creative LLM Interaction",
+    "url": "https://arxiv.org/abs/2607.24753",
+    "source": "arXiv cs.HC",
+    "published_at": "Wed, 29 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.24753v1 Announce Type: new \nAbstract: Although directive prompting is the predominant way to interact with Large Language Models (LLMs), many creative practices rely on language that is open-ended, associative, phonaesthetic, symbolic, and that unfolds across multiple temporalities. In this work, we explore how creative practitioners might work with AI systems when language is treated not merely as instruction but as material. We conducted an ecological two-week study with four creati",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "prompt"
+    ]
+  },
+  {
+    "title": "What Gets Lost When Memory Becomes Media? Evaluating AI-Generated Oral History Visualization",
+    "url": "https://arxiv.org/abs/2607.24756",
+    "source": "arXiv cs.HC",
+    "published_at": "Wed, 29 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.24756v1 Announce Type: new \nAbstract: What gets lost when memory becomes media? Diaspora oral-history interviews require a double transformation; first-person recollection to third-person scene, present interview room to past time and place. When generative AI performs this transformation, no agreed criteria for success exist. We derive success conditions from oral-history theory, design 15 metrics around three failure modes, and compare a Multi-Agent Scene-decomposition pipeline (MAS",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "memory",
+      "generative"
+    ]
+  },
+  {
+    "title": "BioDisclose: An Actionability-Aware Benchmark for Biomedical Safety under Adversarial Elicitation",
+    "url": "https://arxiv.org/abs/2607.25700",
+    "source": "arXiv cs.HC",
+    "published_at": "Wed, 29 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.25700v1 Announce Type: new \nAbstract: Large language models (LLMs) increasingly support biomedical research, yet their behavior under adversarial requests for dual-use knowledge remains insufficiently characterized. We introduce BioDisclose, a benchmark for measuring biomedical knowledge disclosure under adversarial elicitation. BioDisclose contains 480 prompts derived from 24 expert-authored scenarios across six biomedical risk domains and four elicitation families spanning academic,",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "prompt"
+    ]
+  },
+  {
+    "title": "CausalGate: Causal Importance Distillation for Transformer Module Pruning",
+    "url": "https://arxiv.org/abs/2607.22720",
+    "source": "arXiv cs.LG",
+    "published_at": "Wed, 29 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.22720v1 Announce Type: new \nAbstract: Existing adaptive inference methods for Large Language Models rely on observational heuristics, such as hidden-state similarity or activation magnitudes, to drop redundant modules. However, these correlation-based metrics often fail to capture subtle, non-linear structural computations vital for semantic accuracy. We introduce CausalGate, an intervention-guided framework for compute-efficient transformer inference. During a calibration phase, Caus",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "transformer",
+      "language model",
+      "inference"
+    ]
+  }
+]
