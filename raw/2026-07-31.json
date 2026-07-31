@@ -1,0 +1,297 @@
+[
+  {
+    "title": "Reasoning with Memory: A Temporal Granularity-Adaptive Framework for Training-Free Long Video Understanding",
+    "url": "https://arxiv.org/abs/2607.24794",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 30 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.24794v1 Announce Type: new \nAbstract: While Multimodal Large Language Models (MLLMs) demonstrate superior generalization in fundamental video tasks, restricted context windows limit their long video understanding. To accommodate this constraint, models typically resort to keyframe selection. However, uniform sampling or static query-guided selection often overlooks critical temporal context, failing to adapt to the varying query temporal granularities. In this paper, we propose ReMem,",
+    "score": 14.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "multimodal",
+      "context window",
+      "reasoning",
+      "memory"
+    ]
+  },
+  {
+    "title": "Addressable Recall Compaction for Long Context-Window Control in AI Agents",
+    "url": "https://arxiv.org/abs/2607.25066",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 30 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.25066v1 Announce Type: new \nAbstract: Long-horizon LLM agents accumulate reasoning traces, actions, and tool observations that can eventually exceed a model's fixed context window. Existing compaction methods address this limitation by discarding, summarizing, or retrieving earlier information, but they may remove task-critical details or fail to recover them reliably. We propose ARC (Addressable Recall Compaction), a context-management framework that separates archival storage from a",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "RAG",
+      "context window",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "The Agency Gap in AI-Supported Writing: How Reactive and Proactive Agent Designs Shape Multimodal Reasoning",
+    "url": "https://arxiv.org/abs/2507.04398",
+    "source": "arXiv cs.HC",
+    "published_at": "Thu, 30 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2507.04398v3 Announce Type: replace \nAbstract: Generative AI is becoming part of academic writing, but its educational value depends on how control is shared between learner and system. This study examined an agency gap: performance differences that may arise when AI agent initiative is misaligned with learners' generative AI literacy. Seventy-nine medical and nursing students completed two multimodal analytical writing tasks using healthcare simulation data visualisations. They were rando",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "simulation",
+      "multimodal",
+      "reasoning",
+      "generative"
+    ]
+  },
+  {
+    "title": "From Interface to Inference: Eliciting Any-Order Inference from Any-Order Models",
+    "url": "https://arxiv.org/abs/2607.26504",
+    "source": "arXiv cs.LG",
+    "published_at": "Thu, 30 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.26504v1 Announce Type: new \nAbstract: Many discrete reasoning tasks, such as code generation, are inherently non-causal: programmers move between high-level structure and local details, a process we call any-order inference. For autoregressive language models, which lack a native any-order interface, non-causal abilities such as infilling and next-edit prediction require hand-designed mechanisms. Can we instead design models that natively support any-order inference? Masked diffusion ",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "diffusion",
+      "language model",
+      "code generation",
+      "inference",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents",
+    "url": "https://arxiv.org/abs/2607.24759",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 30 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.24759v1 Announce Type: new \nAbstract: Research projects, educational efforts, and adjacent knowledge work accumulate findings, decisions, and reasoning that future collaborators rarely recover. The parts most useful to that work, including dead ends and walked-back claims, are routinely excluded from publications and shared code; future researchers re-attempt the same failures because no record survives. LLM coding agents are common participants but hold no persistent memory across se",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "reasoning",
+      "memory"
+    ]
+  },
+  {
+    "title": "ProcAgent: An Agentic Framework for Procedural Task Guidance on Edge with Human-in-the-Loop",
+    "url": "https://arxiv.org/abs/2607.24770",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 30 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.24770v1 Announce Type: new \nAbstract: Procedural tasks such as furniture assembly and home repair impose substantial cognitive demands because users must interpret instructions, track task progress, reason about spatial state, and recover from errors while performing physical actions. Prior multimodal assistants have shown promise for procedural guidance, but most rely on cloud inference and fixed always-on perception, making them poorly suited to privacy-sensitive, latency-critical d",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "multimodal",
+      "inference",
+      "procedural"
+    ]
+  },
+  {
+    "title": "RSMeM: Knowledge-Enhanced Memory Evolution for Remote Sensing Agents with Systematic Evaluation",
+    "url": "https://arxiv.org/abs/2607.24772",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 30 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.24772v1 Announce Type: new \nAbstract: Geoscience research requires complex analysis and domain expertise, with remote sensing (RS) observations as a key foundation. However, existing RS agents built on general-purpose LLMs remain largely domain-agnostic, resulting in brittle and error-prone workflows. Moreover, these failures are seldom consolidated into a reusable experience for subsequent analyses. To address this issue, we introduce RSMeM, a knowledge-enhanced memory evolution mech",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "memory"
+    ]
+  },
+  {
+    "title": "CogEEGAgent: Toward Autonomous Cognitive EEG Analysis with Grounded Execution and Selection-Aware Verification",
+    "url": "https://arxiv.org/abs/2607.25045",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 30 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.25045v1 Announce Type: new \nAbstract: Electroencephalography (EEG) analysis in cognitive studies requires specialized expertise and involves many defensible choices over contrasts, channels, time windows, and statistical tests. LLM agents can translate varied natural-language questions into analysis choices, offering a flexible interface for automation. Yet fluent reports alone cannot establish that an agent selected the requested analysis or evaluated a confirmatory claim independent",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "automation",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "Facial-Expression-Aware Prompting for Empathetic LLM Tutoring",
+    "url": "https://arxiv.org/abs/2604.15336",
+    "source": "arXiv cs.HC",
+    "published_at": "Thu, 30 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2604.15336v2 Announce Type: replace \nAbstract: Large language models (LLMs) enable increasingly capable tutoring-style conversational agents, yet effective tutoring requires sensitivity to learners' affective and cognitive states beyond text alone. Facial expressions provide immediate and practical cues of confusion, frustration, or engagement, but remain underexplored in LLM-driven tutoring. We investigate whether facial-expression-aware signals can improve empathetic tutoring responses t",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "prompt"
+    ]
+  },
+  {
+    "title": "RAGuard: A Layered Defense Framework for Retrieval-Augmented Generation Systems Against Data Poisoning",
+    "url": "https://arxiv.org/abs/2607.26339",
+    "source": "arXiv cs.LG",
+    "published_at": "Thu, 30 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.26339v1 Announce Type: new \nAbstract: Retrieval-Augmented Generation (RAG) systems ground large language models (LLMs) in external corpora, but this reliance exposes them to corpus poisoning: maliciously injected passages that manipulate retrieved evidence. We introduce RAGuard, a layered defense against \\emph{factual} corpus-poisoning attacks on RAG pipelines. The first layer adversarially fine-tunes a dense retriever on synthetic poisoned documents (fabricated facts, contradictions,",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "RAG",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+    "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+    "source": "Hacker News",
+    "published_at": "Thu, 30 Jul 2026 18:13:06 +0000",
+    "description": "We recently used DeepSeek V4 Flash as a teacher for finance tasks with GPT-OSS-120B. Distillation works well on this problem. At a constrained 8k token budget, our self-distilled 120B scores 83.61% on FinanceReasoning, above Kimi K3 (81.93%) and Inkling (65.13%). We released the 20B open weights. With V4 as the teacher though, we realized it would be timely to measure if the censorship characteristic of it transferred to the distilled version of the base model. tl;dr it didn't, the teacher answe",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "GPT",
+      "reasoning",
+      "open weights"
+    ]
+  },
+  {
+    "title": "LLM Scheming Inversely Scales with Pretraining Language Coverage",
+    "url": "https://arxiv.org/abs/2607.24769",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 30 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.24769v1 Announce Type: new \nAbstract: With the growing capabilities of frontier models, AI alignment becomes increasingly critical in high-risk deployment settings. While recent work has empirically demonstrated in-context scheming -- the covert pursuit of misaligned objectives while feigning alignment -- in frontier language models, most work has been performed exclusively in English, leaving a major gap in multilingual safety. We apply Petri, an open-source automated auditing framew",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "RAG"
+    ]
+  },
+  {
+    "title": "Personalization, Personas, and Forecasting in Value Alignment",
+    "url": "https://arxiv.org/abs/2607.24782",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 30 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.24782v1 Announce Type: new \nAbstract: LLM behavior may be conditioned by human identity in several ways: they may be asked to adapt to users, role-play populations, or forecast how people would answer value-laden questions. We test whether these framings are interchangeable using the World Values Survey (WVS). We evaluate GPT-5.4, Claude Sonnet 4.6, Gemini 2.5 Flash, and Qwen3-235B on 101 WVS-derived questions across 13 language-country slices, comparing a language-only baseline with ",
+    "score": 8.0,
+    "keywords_matched": [
+      "LLM",
+      "Claude",
+      "Gemini",
+      "GPT"
+    ]
+  },
+  {
+    "title": "GLIDE: Guided Layerwise Hybrid Attention for Efficient LLM Inference",
+    "url": "https://arxiv.org/abs/2607.24788",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 30 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.24788v1 Announce Type: new \nAbstract: As Large Language Models scale to increasingly long contexts, the memory I/O and computational overhead of the Key-Value (KV) cache during decoding emerges as the primary throughput bottleneck. To address this, we propose GLIDE, a Guided Layerwise Hybrid Attention that strategically integrates sliding-window softmax attention with linear recurrent aggregation. GLIDE is motivated by layer-wise heterogeneity: early layers exhibit high sensitivity to",
+    "score": 8.0,
+    "keywords_matched": [
+      "LLM",
+      "language model",
+      "inference",
+      "memory"
+    ]
+  },
+  {
+    "title": "Chart-Supported or Model-Supplied? Examining MLLM-Generated Claims for Accessible Visualization",
+    "url": "https://arxiv.org/abs/2607.25021",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 30 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.25021v1 Announce Type: new \nAbstract: Multimodal large language models (MLLMs) can connect visualization patterns to external causes, consequences, and domain knowledge, but the evidential basis of these interpretations is often unclear. We present an exploratory study of 102 visualizations from four sources, three MLLMs, and four input conditions that vary access to the image, source-specific accessible chart context, and withheld-context framing. Across 1,224 descriptions, we analyz",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "multimodal"
+    ]
+  },
+  {
+    "title": "How Often Should a Recommender Call an LLM? Value-Weighted Routing, Monitoring, and Seasonal Robustness",
+    "url": "https://arxiv.org/abs/2607.25068",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 30 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.25068v1 Announce Type: new \nAbstract: Routing decisions between a cheap heuristic and an expensive large language model (LLM) are typically framed as a difficulty problem: send the hard cases to the expensive path. We argue this framing is incomplete because difficulty and business value are distinct axes - a difficult cheap item and a difficult costly item do not have the same cost of error. We present Value Router, a fully synthetic simulation of a retail merchandising pipeline that",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "simulation",
+      "language model"
+    ]
+  },
+  {
+    "title": "GraphQAG: A Knowledge-Graph-Guided Visual Analytics Framework for Question-Answer Pairs Generation",
+    "url": "https://arxiv.org/abs/2607.27182",
+    "source": "arXiv cs.HC",
+    "published_at": "Thu, 30 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.27182v1 Announce Type: new \nAbstract: Question-answer (QA) pairs are widely used in knowledge base construction, question-answering systems, and the post-training of large language models (LLMs). However, important knowledge in long documents is often distributed across multiple paragraphs and connected through complex entity relationships. Such fragmented and relational knowledge poses substantial challenges for existing QA generation methods, which often fail to adequately cover cor",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "RAG"
+    ]
+  },
+  {
+    "title": "OmegaUse-OfficeVal: Benchmarking LLM Agents on Long-Horizon Office-Suite Tasks with Economic Grounding",
+    "url": "https://arxiv.org/abs/2607.27155",
+    "source": "arXiv cs.HC",
+    "published_at": "Thu, 30 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.27155v1 Announce Type: cross \nAbstract: Large language model (LLM) agents are increasingly expected to assist users in completing tasks. However, existing benchmarks provide limited support for evaluating whether agents can carry out office-suite workflows at a reasonable cost. We introduce OmegaUse-OfficeVal, a benchmark for evaluating LLM agents on long-horizon office-suite tasks with task-level economic grounding. The benchmark comprises 100 tasks derived from office-suite requests",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "workflow",
+      "language model"
+    ]
+  },
+  {
+    "title": "Post-Training at the Edge of Detectability: A Game-Theoretic Approach to Fine-Tuning",
+    "url": "https://arxiv.org/abs/2607.26358",
+    "source": "arXiv cs.LG",
+    "published_at": "Thu, 30 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.26358v1 Announce Type: new \nAbstract: Reinforcement learning (RL) fine-tuning is widely used in language model training to improve model performance on a target task while limiting drift from a reference policy. A standard way to balance this trade-off is via a KL-regularized RL objective, although this formulation does not by itself provide a principled way to set the regularization coefficient. In practice, the coefficient is typically chosen heuristically or via hyperparameter sear",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "game",
+      "language model",
+      "fine-tuning"
+    ]
+  },
+  {
+    "title": "ClockRoPE: Random Fourier Rotations for Temporal Routine Modeling",
+    "url": "https://arxiv.org/abs/2607.26369",
+    "source": "arXiv cs.LG",
+    "published_at": "Thu, 30 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.26369v1 Announce Type: new \nAbstract: Rotary Position Embedding (RoPE) has been widely adopted in transformer-based large language models. However, its log-linear frequency schedule, originally designed to produce long-term attention decay, limits its adoption in domains with more complex distance-correlation patterns, such as temporal periodicity in sequential recommendation. We investigate the expressiveness of general query/key rotations and find that any normalized continuous posi",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "transformer",
+      "language model",
+      "embedding"
+    ]
+  }
+]

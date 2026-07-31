@@ -1,0 +1,305 @@
+{
+  "date": "2026-07-31",
+  "candidates": [
+    {
+      "title": "Reasoning with Memory: A Temporal Granularity-Adaptive Framework for Training-Free Long Video Understanding",
+      "url": "https://arxiv.org/abs/2607.24794",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 30 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.24794v1 Announce Type: new \nAbstract: While Multimodal Large Language Models (MLLMs) demonstrate superior generalization in fundamental video tasks, restricted context windows limit their long video understanding. To accommodate this constraint, models typically resort to keyframe selection. However, uniform sampling or static query-guided selection often overlooks critical temporal context, failing to adapt to the varying query temporal granularities. In this paper, we propose ReMem,",
+      "score": 14.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "multimodal",
+        "context window",
+        "reasoning",
+        "memory"
+      ]
+    },
+    {
+      "title": "Addressable Recall Compaction for Long Context-Window Control in AI Agents",
+      "url": "https://arxiv.org/abs/2607.25066",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 30 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.25066v1 Announce Type: new \nAbstract: Long-horizon LLM agents accumulate reasoning traces, actions, and tool observations that can eventually exceed a model's fixed context window. Existing compaction methods address this limitation by discarding, summarizing, or retrieving earlier information, but they may remove task-critical details or fail to recover them reliably. We propose ARC (Addressable Recall Compaction), a context-management framework that separates archival storage from a",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "RAG",
+        "context window",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "The Agency Gap in AI-Supported Writing: How Reactive and Proactive Agent Designs Shape Multimodal Reasoning",
+      "url": "https://arxiv.org/abs/2507.04398",
+      "source": "arXiv cs.HC",
+      "published_at": "Thu, 30 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2507.04398v3 Announce Type: replace \nAbstract: Generative AI is becoming part of academic writing, but its educational value depends on how control is shared between learner and system. This study examined an agency gap: performance differences that may arise when AI agent initiative is misaligned with learners' generative AI literacy. Seventy-nine medical and nursing students completed two multimodal analytical writing tasks using healthcare simulation data visualisations. They were rando",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "simulation",
+        "multimodal",
+        "reasoning",
+        "generative"
+      ]
+    },
+    {
+      "title": "From Interface to Inference: Eliciting Any-Order Inference from Any-Order Models",
+      "url": "https://arxiv.org/abs/2607.26504",
+      "source": "arXiv cs.LG",
+      "published_at": "Thu, 30 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.26504v1 Announce Type: new \nAbstract: Many discrete reasoning tasks, such as code generation, are inherently non-causal: programmers move between high-level structure and local details, a process we call any-order inference. For autoregressive language models, which lack a native any-order interface, non-causal abilities such as infilling and next-edit prediction require hand-designed mechanisms. Can we instead design models that natively support any-order inference? Masked diffusion ",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "diffusion",
+        "language model",
+        "code generation",
+        "inference",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents",
+      "url": "https://arxiv.org/abs/2607.24759",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 30 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.24759v1 Announce Type: new \nAbstract: Research projects, educational efforts, and adjacent knowledge work accumulate findings, decisions, and reasoning that future collaborators rarely recover. The parts most useful to that work, including dead ends and walked-back claims, are routinely excluded from publications and shared code; future researchers re-attempt the same failures because no record survives. LLM coding agents are common participants but hold no persistent memory across se",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "reasoning",
+        "memory"
+      ]
+    },
+    {
+      "title": "ProcAgent: An Agentic Framework for Procedural Task Guidance on Edge with Human-in-the-Loop",
+      "url": "https://arxiv.org/abs/2607.24770",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 30 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.24770v1 Announce Type: new \nAbstract: Procedural tasks such as furniture assembly and home repair impose substantial cognitive demands because users must interpret instructions, track task progress, reason about spatial state, and recover from errors while performing physical actions. Prior multimodal assistants have shown promise for procedural guidance, but most rely on cloud inference and fixed always-on perception, making them poorly suited to privacy-sensitive, latency-critical d",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "multimodal",
+        "inference",
+        "procedural"
+      ]
+    },
+    {
+      "title": "RSMeM: Knowledge-Enhanced Memory Evolution for Remote Sensing Agents with Systematic Evaluation",
+      "url": "https://arxiv.org/abs/2607.24772",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 30 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.24772v1 Announce Type: new \nAbstract: Geoscience research requires complex analysis and domain expertise, with remote sensing (RS) observations as a key foundation. However, existing RS agents built on general-purpose LLMs remain largely domain-agnostic, resulting in brittle and error-prone workflows. Moreover, these failures are seldom consolidated into a reusable experience for subsequent analyses. To address this issue, we introduce RSMeM, a knowledge-enhanced memory evolution mech",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "workflow",
+        "memory"
+      ]
+    },
+    {
+      "title": "CogEEGAgent: Toward Autonomous Cognitive EEG Analysis with Grounded Execution and Selection-Aware Verification",
+      "url": "https://arxiv.org/abs/2607.25045",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 30 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.25045v1 Announce Type: new \nAbstract: Electroencephalography (EEG) analysis in cognitive studies requires specialized expertise and involves many defensible choices over contrasts, channels, time windows, and statistical tests. LLM agents can translate varied natural-language questions into analysis choices, offering a flexible interface for automation. Yet fluent reports alone cannot establish that an agent selected the requested analysis or evaluated a confirmatory claim independent",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "automation",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "Facial-Expression-Aware Prompting for Empathetic LLM Tutoring",
+      "url": "https://arxiv.org/abs/2604.15336",
+      "source": "arXiv cs.HC",
+      "published_at": "Thu, 30 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2604.15336v2 Announce Type: replace \nAbstract: Large language models (LLMs) enable increasingly capable tutoring-style conversational agents, yet effective tutoring requires sensitivity to learners' affective and cognitive states beyond text alone. Facial expressions provide immediate and practical cues of confusion, frustration, or engagement, but remain underexplored in LLM-driven tutoring. We investigate whether facial-expression-aware signals can improve empathetic tutoring responses t",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "prompt"
+      ]
+    },
+    {
+      "title": "RAGuard: A Layered Defense Framework for Retrieval-Augmented Generation Systems Against Data Poisoning",
+      "url": "https://arxiv.org/abs/2607.26339",
+      "source": "arXiv cs.LG",
+      "published_at": "Thu, 30 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.26339v1 Announce Type: new \nAbstract: Retrieval-Augmented Generation (RAG) systems ground large language models (LLMs) in external corpora, but this reliance exposes them to corpus poisoning: maliciously injected passages that manipulate retrieved evidence. We introduce RAGuard, a layered defense against \\emph{factual} corpus-poisoning attacks on RAG pipelines. The first layer adversarially fine-tunes a dense retriever on synthetic poisoned documents (fabricated facts, contradictions,",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "RAG",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+      "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+      "source": "Hacker News",
+      "published_at": "Thu, 30 Jul 2026 18:13:06 +0000",
+      "description": "We recently used DeepSeek V4 Flash as a teacher for finance tasks with GPT-OSS-120B. Distillation works well on this problem. At a constrained 8k token budget, our self-distilled 120B scores 83.61% on FinanceReasoning, above Kimi K3 (81.93%) and Inkling (65.13%). We released the 20B open weights. With V4 as the teacher though, we realized it would be timely to measure if the censorship characteristic of it transferred to the distilled version of the base model. tl;dr it didn't, the teacher answe",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "GPT",
+        "reasoning",
+        "open weights"
+      ]
+    },
+    {
+      "title": "LLM Scheming Inversely Scales with Pretraining Language Coverage",
+      "url": "https://arxiv.org/abs/2607.24769",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 30 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.24769v1 Announce Type: new \nAbstract: With the growing capabilities of frontier models, AI alignment becomes increasingly critical in high-risk deployment settings. While recent work has empirically demonstrated in-context scheming -- the covert pursuit of misaligned objectives while feigning alignment -- in frontier language models, most work has been performed exclusively in English, leaving a major gap in multilingual safety. We apply Petri, an open-source automated auditing framew",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "RAG"
+      ]
+    },
+    {
+      "title": "Personalization, Personas, and Forecasting in Value Alignment",
+      "url": "https://arxiv.org/abs/2607.24782",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 30 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.24782v1 Announce Type: new \nAbstract: LLM behavior may be conditioned by human identity in several ways: they may be asked to adapt to users, role-play populations, or forecast how people would answer value-laden questions. We test whether these framings are interchangeable using the World Values Survey (WVS). We evaluate GPT-5.4, Claude Sonnet 4.6, Gemini 2.5 Flash, and Qwen3-235B on 101 WVS-derived questions across 13 language-country slices, comparing a language-only baseline with ",
+      "score": 8.0,
+      "keywords_matched": [
+        "LLM",
+        "Claude",
+        "Gemini",
+        "GPT"
+      ]
+    },
+    {
+      "title": "GLIDE: Guided Layerwise Hybrid Attention for Efficient LLM Inference",
+      "url": "https://arxiv.org/abs/2607.24788",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 30 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.24788v1 Announce Type: new \nAbstract: As Large Language Models scale to increasingly long contexts, the memory I/O and computational overhead of the Key-Value (KV) cache during decoding emerges as the primary throughput bottleneck. To address this, we propose GLIDE, a Guided Layerwise Hybrid Attention that strategically integrates sliding-window softmax attention with linear recurrent aggregation. GLIDE is motivated by layer-wise heterogeneity: early layers exhibit high sensitivity to",
+      "score": 8.0,
+      "keywords_matched": [
+        "LLM",
+        "language model",
+        "inference",
+        "memory"
+      ]
+    },
+    {
+      "title": "Chart-Supported or Model-Supplied? Examining MLLM-Generated Claims for Accessible Visualization",
+      "url": "https://arxiv.org/abs/2607.25021",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 30 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.25021v1 Announce Type: new \nAbstract: Multimodal large language models (MLLMs) can connect visualization patterns to external causes, consequences, and domain knowledge, but the evidential basis of these interpretations is often unclear. We present an exploratory study of 102 visualizations from four sources, three MLLMs, and four input conditions that vary access to the image, source-specific accessible chart context, and withheld-context framing. Across 1,224 descriptions, we analyz",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "multimodal"
+      ]
+    },
+    {
+      "title": "How Often Should a Recommender Call an LLM? Value-Weighted Routing, Monitoring, and Seasonal Robustness",
+      "url": "https://arxiv.org/abs/2607.25068",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 30 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.25068v1 Announce Type: new \nAbstract: Routing decisions between a cheap heuristic and an expensive large language model (LLM) are typically framed as a difficulty problem: send the hard cases to the expensive path. We argue this framing is incomplete because difficulty and business value are distinct axes - a difficult cheap item and a difficult costly item do not have the same cost of error. We present Value Router, a fully synthetic simulation of a retail merchandising pipeline that",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "simulation",
+        "language model"
+      ]
+    },
+    {
+      "title": "GraphQAG: A Knowledge-Graph-Guided Visual Analytics Framework for Question-Answer Pairs Generation",
+      "url": "https://arxiv.org/abs/2607.27182",
+      "source": "arXiv cs.HC",
+      "published_at": "Thu, 30 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.27182v1 Announce Type: new \nAbstract: Question-answer (QA) pairs are widely used in knowledge base construction, question-answering systems, and the post-training of large language models (LLMs). However, important knowledge in long documents is often distributed across multiple paragraphs and connected through complex entity relationships. Such fragmented and relational knowledge poses substantial challenges for existing QA generation methods, which often fail to adequately cover cor",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "RAG"
+      ]
+    },
+    {
+      "title": "OmegaUse-OfficeVal: Benchmarking LLM Agents on Long-Horizon Office-Suite Tasks with Economic Grounding",
+      "url": "https://arxiv.org/abs/2607.27155",
+      "source": "arXiv cs.HC",
+      "published_at": "Thu, 30 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.27155v1 Announce Type: cross \nAbstract: Large language model (LLM) agents are increasingly expected to assist users in completing tasks. However, existing benchmarks provide limited support for evaluating whether agents can carry out office-suite workflows at a reasonable cost. We introduce OmegaUse-OfficeVal, a benchmark for evaluating LLM agents on long-horizon office-suite tasks with task-level economic grounding. The benchmark comprises 100 tasks derived from office-suite requests",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "workflow",
+        "language model"
+      ]
+    },
+    {
+      "title": "Post-Training at the Edge of Detectability: A Game-Theoretic Approach to Fine-Tuning",
+      "url": "https://arxiv.org/abs/2607.26358",
+      "source": "arXiv cs.LG",
+      "published_at": "Thu, 30 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.26358v1 Announce Type: new \nAbstract: Reinforcement learning (RL) fine-tuning is widely used in language model training to improve model performance on a target task while limiting drift from a reference policy. A standard way to balance this trade-off is via a KL-regularized RL objective, although this formulation does not by itself provide a principled way to set the regularization coefficient. In practice, the coefficient is typically chosen heuristically or via hyperparameter sear",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "game",
+        "language model",
+        "fine-tuning"
+      ]
+    },
+    {
+      "title": "ClockRoPE: Random Fourier Rotations for Temporal Routine Modeling",
+      "url": "https://arxiv.org/abs/2607.26369",
+      "source": "arXiv cs.LG",
+      "published_at": "Thu, 30 Jul 2026 00:00:00 -0400",
+      "description": "arXiv:2607.26369v1 Announce Type: new \nAbstract: Rotary Position Embedding (RoPE) has been widely adopted in transformer-based large language models. However, its log-linear frequency schedule, originally designed to produce long-term attention decay, limits its adoption in domains with more complex distance-correlation patterns, such as temporal periodicity in sequential recommendation. We investigate the expressiveness of general query/key rotations and find that any normalized continuous posi",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "transformer",
+        "language model",
+        "embedding"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-07-31\n\n嗨！我是你的**疯狂发明家技术雷达**。\n\n今天我从 20 条候选内容中筛选出了 **4 条** 最具有实验价值、能直接转化为架构设计与艺术/游戏创意的干货。我们拒绝泛泛的新闻简报，直接来看能动手玩的新模式！\n\n---\n\n## Any-Order Inference：打破 LLM 的单向生成死板，实现非线性代码与艺术生成\n- **来源**：arXiv cs.LG\n- **链接**：https://arxiv.org/abs/2607.26504\n- **一句话解释**：打破传统自回归 LLM “从左到右”逐字吐字的限制，提出让 AI 可以像人类程序员或画家一样，在代码/文本的任何位置自由“跳跃填空”与跨层修改。\n- **它为什么重要**：现在的代码生成与 Creative Coding 工具被“单向流”死死卡住。非自回归/任意顺序推理（Any-Order Inference）是实现真正的“交互式实时编程（Live Coding）”和“Spec 动态双向修复”的技术底层支撑。\n- **技术趋势标签**：Creative Coding / Spec-Driven / HCI / Non-Causal Inference / Live-Coding Tools\n- **可复用模式**：任意顺序掩码填空（Any-Order Masking）+ 结构/细节交替局部迭代（Coarse-to-Fine Editing）\n- **疯狂发明家灵感**：\n  1. **一个小实验**：**Shader 局部空缺生成器** —— 在一段 GLSL 代码中间画个空白占位符（如 `// TODO: organic motion`），让 LLM 结合前后文和实时渲染帧画面，只修改和填补那几行代码。\n  2. **一个中型项目**：**节点式非线性 Agent 编辑器** —— 允许用户在节点图中任意插入“未完成的悬空节点”，Agent 不需要重写整个图，而是用 Any-Order 逻辑去缝合上下游的数据流。\n  3. **一个艺术/游戏/叙事方向**：**编织型非线性剧本引擎** —— 设定好故事开局和结局，让 AI 像解谜游戏一样在中间任意插播支线、填补因果链，并允许玩家在中途随意剔除任意一段中间剧情进行动态补全。\n- **对我项目的启发**：对 Spec-Driven 开发极具启发！Spec 绝不是死板的自上而下，往往是先有局部关键模块（Spec 点）再填补中间逻辑。这种模式是解决 Spec Drift（规范偏离）的底层利器。\n- **今天是否值得深入研究**：是\n- **建议行动**：试用\n\n---\n\n## 失败记录器基质：把 Agent 的“死胡同”与推翻决定转化为沉淀知识\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2607.24759\n- **一句话解释**：构建了一种新的知识基质（Substrate），不仅记录 Agent 成功的结果，更把试错过程中的“死胡同（dead ends）”和“撤回的主张”结构化保存，防止后续 Agent 踩相同的坑。\n- **它为什么重要**：人类创作中最宝贵的其实是“走过的弯路”。现有的 Agent 内存只存 Successful Context，丢失了极具价值的失误轨迹，导致 Agent 经常在同一个坑里反复打转。\n- **技术趋势标签**：Agent Workflow / Knowledge Graph / Negative Memory / Spec Drift / Failure Archeology\n- **可复用模式**：负向知识索引（Negative Knowledge Substrate）+ 结构化决策撤回追踪（Decision Rollback Tracking）\n- **疯狂发明家灵感**：\n  1. **一个小实验**：**`Regret Tracker` CLI 工具** —— 监控 Agent 每次被你 Reject 或报错的 Prompt/代码改动，自动生成 `.drift_failures.json`，在下一次生成时显式注入“禁止走以下旧路”。\n  2. **一个中型项目**：**代码架构“禁区地下城”生成器** —— 自动提取项目开发历史中所有废弃的方案，生成一张可视化的“死胡同科技树”，直观展示“为什么我们最终没用 X 架构”。\n  3. **一个艺术/游戏/叙事方向**：**数字遗迹考古游戏（Ghost in the Shell）** —— 玩家在一个由 Agent 废弃的思考痕迹、失败决策和撤回剧本堆叠生成的遗迹废墟中搜寻真相。\n- **对我项目的启发**：Drift 追踪不仅要看“代码变成了什么”，还要记录“为了改成这样我们放弃了什么”。把 Failure Memory 引入 Agent Workflow，能大幅提升自动化重构的成功率。\n- **今天是否值得深入研究**：是\n- **建议行动**：做demo\n\n---\n\n## ARC（可寻址回溯压缩）：让 Agent 在长任务中“精准失忆与召唤”\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2607.25066\n- **一句话解释**：解决 Agent 跑久了上下文爆满的问题——不简单做丢弃或纯文本摘要，而是将历史推理和观察打包成带“可寻址句柄（Addressable Handles）”的压缩块，需要时精准解包唤醒。\n- **它为什么重要**：传统 RAG 会丢失时间上下文，传统 Summary 会丢细节。ARC 就像给 Agent 加上了操作系统的指针与虚存机制，让长程 Agent 保持清醒。\n- **技术趋势标签**：Agent System / Memory Architecture / Long Context / Minecraft Agent / System Design\n- **可复用模式**：句柄化压缩（Addressable Handles）+ 动态按需解包（Dynamic Rehydration）\n- **疯狂发明家灵感**：\n  1. **一个小实验**：写一个 Python 装饰器 `@addressable_memory`，把 Agent 繁重的 Tool Call 历史压缩成短字符串指针 `[Memory: #build_bridge_step3]`，只有模型显式请求该句柄时才注入完整 context。\n  2. **一个中型项目**：**Minecraft 长期自主建筑 Agent 内存卡片盒** —— Agent 建造大项目时，把过去几小时的具体方块摆放步骤打成地址卡，只有站在特定建筑区域前才唤醒对应子记忆。\n  3. **一个艺术/游戏/叙事方向**：**记忆海绵 NPC 机制** —— NPC 随着时间推移把记忆压缩成抽象诗句（句柄），玩家必须在对话中使用特定的环境道具或关键词，才能“刺激”NPC 解压出当年隐藏的真实历史。\n- **对我项目的启发**：很适合解决多 Agent 协作或长流程自动化系统中的 Context Window 爆炸与 Token 成本过高问题。\n- **今天是否值得深入研究**：是\n- **建议行动**：收藏\n\n---\n\n## ProcAgent：边缘侧人机协同的步骤化程序导引 Agent\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2607.24770\n- **一句话解释**：结合边缘计算与人机协同（Human-in-the-loop），在低延迟下对人类执行复杂步骤任务（如设备修缮、组件组装）进行实时状态监控、空间推理与纠错指导。\n- **它为什么重要**：它将 LLM Agent 的能力从虚拟代码世界带到了现实世界/物理空间的状态机控制中，极度强调“实时反馈”与“偏差恢复（Error Recovery）”。\n- **技术趋势标签**：HCI / Procedural Task / Human-in-the-loop / Edge AI / Interactive Physical Systems\n- **可复用模式**：带人类干预的实时状态机（Human-in-the-loop State Machine）+ 状态偏差重路由（State Drift Rerouting）\n- **疯狂发明家灵感**：\n  1. **一个小实验**：**桌面折纸/乐高 AI 导引员** —— Webcam 盯着桌面，用轻量多模态 Agent 监控步骤，当你折错或装错时，实时打断并用语音进行“步骤纠偏”。\n  2. **一个中型项目**：**Minecraft 建造故障排除系统** —— 监控玩家在 Minecraft 里的建造动作，当玩家偏离 Blueprint（Spec）时，Agent 不做破坏性干预，而是生成一条“修补偏离”的新建路步骤。\n  3. **一个艺术/游戏/叙事方向**：**物理交互式解谜装置** —— 玩家必须根据 AI 动态给出的模糊物理指令操作装置，而 AI 必须根据人类操作造成的物理意外实时重写后续解谜步骤。\n- **对我项目的启发**：程序化任务（Procedural Task）和程序化生成（Procedural Generation）在逻辑上完全相通！状态机恢复与纠错机制对于做 Game Systems 和 HCI 非常有借鉴意义。\n- **今天是否值得深入研究**：否（吸收设计理念即可，无需看底层工程实现）\n- **建议行动**：收藏\n\n---\n\n## 今日模式总结\n\n1. **非线性与指针化上下文（Non-linear & Addressable Context）**\n   打破“自回归逐字生成”与“单向上下文堆叠”。无论是 ARC 的句柄解包，还是 Any-Order Inference 的任意跳跃填空，未来的 AI 工作流都在向**非线性、可按需寻址的结构化数据**演进。\n\n2. **失败作为一等公民（Failure-First Design）**\n   不管是 Agent 记录自身的死胡同（Negative Knowledge），还是人机协同中的偏差纠正（Error Recovery），**系统如何处理“偏离（Drift）”和“失败（Failure）”** 正成为区别普通 AI 工具与硬核 Agent 系统的核心水准。\n\n---\n\n## 今日可做小实验：2小时极速 Demo\n\n### 项目名称\n**`Spec-Drift Regret Tracker`（规范偏离与悔棋追踪器）**\n\n### 目标\n做一个超轻量的命令行开发辅助脚本，当你让 AI 改代码却不满意（Reject）时，把这个失败的修改和你的理由打上负向索引（Regret Node），防止 AI 在后续重构中再次犯同样的错误。\n\n### 输入\n- 一个待修改的简易代码文件 `main.py`\n- 你的修改需求 Prompt\n- 你的反馈交互（Accept / Reject + 原因）\n\n### 输出\n- 更新后的 `main.py`\n- 自动生成的 `.regret_tree.json`（记录所有废弃分支与死胡同）\n\n### 技术栈\n- **Language**: Python 3.10+\n- **LLM SDK**: `litellm` 或直接调用 `openai` / `anthropic` SDK\n- **CLI Framework**: `rich`（用于终端漂亮的打印）\n\n### 第一步怎么做（第 1-30 分钟）\n1. 创建文件夹并安装依赖：`pip install litellm rich`\n2. 写一个基础循环：读取代码 -> 接收 Prompt -> 调用 LLM 生成新代码 -> 用 `rich` 展示 Diff。\n3. 增加关键分支：如果用户输入 `r` (Reject)，提示输入拒绝原因（例如：\"这破坏了之前的模块化设计\"），将 `{prompt, bad_code, reject_reason}` 写入 `.regret_tree.json`。\n4. 下一次生成时，在 System Prompt 中强制追加：`\"以下是你之前尝试过但被用户否决的死胡同路径，绝对不要重复犯错：{regret_tree}\"`。\n\n测试一下，看看有了“负向记忆”的 Agent 是不是瞬间变聪敏了！动手试试看吧！",
+  "gemini_success": true,
+  "telegram_sent": true,
+  "telegram_status": "sent",
+  "telegram_reason": ""
+}
