@@ -1,0 +1,296 @@
+[
+  {
+    "title": "0x4m4 / hexstrike-ai",
+    "url": "https://github.com/0x4m4/hexstrike-ai",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities. [87 stars today]",
+    "score": 16.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "Claude",
+      "Copilot",
+      "automation",
+      "GPT",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "CaM-Wolf: Causal-Aware Multimodal Agents for Social Deduction Games",
+    "url": "https://arxiv.org/abs/2607.26393",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 31 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.26393v1 Announce Type: new \nAbstract: Social deduction games (SDGs) such as Werewolf have become challenging testbeds for AI agents. These games require complex social skills such as reasoning, deception, and collaboration. While recent advances in large language models (LLMs) have driven significant progress in SDG agents, current approaches are predominantly text-based, overlooking the multimodal nature that is fundamental to human social interaction. To bridge this gap, we introduc",
+    "score": 14.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "game",
+      "language model",
+      "multimodal",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "EvoPINN: Agentic Discovery of Executable Algorithms for Physics-Informed Neural Networks",
+    "url": "https://arxiv.org/abs/2607.26490",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 31 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.26490v1 Announce Type: new \nAbstract: Physics-informed neural networks (PINNs) have emerged as a powerful paradigm for solving partial differential equations (PDEs), yet their performance heavily relies on the manual, trial-and-error engineering of neural representations, loss formulations, and optimization dynamics. While Large Language Models (LLMs) offer a promising avenue for automated design, unconstrained code generation often yields mathematically invalid or numerically unstabl",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "neural",
+      "language model",
+      "code generation"
+    ]
+  },
+  {
+    "title": "Eco3S: Complex Socio-Economic System Simulation via Agent-Based Models",
+    "url": "https://arxiv.org/abs/2607.26588",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 31 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.26588v1 Announce Type: new \nAbstract: The rapid development of large language models (LLMs) has renewed interest in agent-based modeling (ABM). However, current LLM-based ABM research faces several key challenges: modeling evolving agent-environment interactions, enabling flexible counterfactual reasoning, and automating simulation workflows for scientific research. In this paper, we propose Eco3S, a socio-economic system simulation framework for economic research and policy analysis ",
+    "score": 12.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "workflow",
+      "simulation",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "AgenticCANN: Automated Ascend C Operator Generation via Knowledge-Augmented Agentic Evolution",
+    "url": "https://arxiv.org/abs/2607.26661",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 31 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.26661v1 Announce Type: new \nAbstract: Ascend C operator optimization is critical for NPU (Neural Processing Unit) inference performance but requires deep hardware expertise.While large language models (LLMs) have shown promise in automated CUDA kernel generation, the fundamentally different programming model of Ascend C introduces unique challenges that remain unexplored. In this paper, we propose AgenticCANN, a knowledge-augmented agentic evolution framework specifically tailored for",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "neural",
+      "language model",
+      "inference"
+    ]
+  },
+  {
+    "title": "Rethinking Self-Evolution: A Constrained Exploration-Exploitation Process for Mitigating Skill Overfitting",
+    "url": "https://arxiv.org/abs/2607.26643",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 31 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.26643v1 Announce Type: new \nAbstract: Enabling large language model (LLM) agents to accumulate and reuse experience from past interactions remains a central challenge in real-world applications. A promising solution is to treat skills as trainable states and optimize them in the same way as model parameters in neural network training. However, data-driven skill optimization is prone to overfitting to the limited trajectories collected from real environments. Overexploiting these traje",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "neural",
+      "language model"
+    ]
+  },
+  {
+    "title": "Even More Deception: Objective Misalignment in Mixed-Motive LLM Multi-Agent Systems",
+    "url": "https://arxiv.org/abs/2607.26120",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 31 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.26120v1 Announce Type: new \nAbstract: Large Language Models (LLMs)-powered multi-agent systems are increasingly deployed in mixed-motive environments, where agents operate under asymmetric information and strategic deception due to conflicting or hidden objectives. In these settings, misalignment with collective goals becomes a central concern. We propose a novel framework for evaluating objective misalignment using the social deduction game Werewolf, modifying the objective of a sing",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "game",
+      "language model"
+    ]
+  },
+  {
+    "title": "GuideSkill: Evolving Executable LLM Agent Skills for Guideline-Grounded Clinical Reasoning",
+    "url": "https://arxiv.org/abs/2607.26160",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 31 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.26160v1 Announce Type: new \nAbstract: Clinical practice guidelines (CPGs) encode diagnostic criteria, but LLM systems typically retrieve guideline text or absorb it through training rather than execute its rules. We introduce GuideSkill, an external reasoning layer that compiles disease-specific criteria into executable functions returning ordinal diagnostic-support scores. GuideSkill-Zero is initialized from guidelines, while GuideSkill-Evo uses case--diagnosis pairs to refine covere",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Position: Evaluation Scores Are Perishable Knowledge Claims",
+    "url": "https://arxiv.org/abs/2607.26191",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 31 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.26191v1 Announce Type: new \nAbstract: Evaluation methodologies for language models increasingly combine multiple signals, from automated metrics and LLM-as-judge ratings to human assessments and benchmark suite results. When these signals are aggregated via averaging, evaluation confidence can then substantially exceed the reliability of the weakest signal: a phenomenon we call trust inflation in evaluation. We argue that evaluation scores should be treated as epistemic claims with th",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "RAG"
+    ]
+  },
+  {
+    "title": "TraceCoder: Explainable and Auditable Code Generation with Position-Key Snippet Versioning",
+    "url": "https://arxiv.org/abs/2607.26307",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 31 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.26307v1 Announce Type: new \nAbstract: Contemporary LLM-based coding agents produce code as black-box outputs: the rationale behind each line is hidden, the evolution of the code through benchmark-driven repair is ephemeral, and post-hoc auditing is impossible. We present a code generation concept that addresses these shortcomings through three complementary mechanisms: (i) a relational snippet-history schema that records, per repair event, the benchmark reference, round number, failur",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "code generation"
+    ]
+  },
+  {
+    "title": "MultivationBench: A Benchmark for Multimodal Sequential Motivation Reasoning",
+    "url": "https://arxiv.org/abs/2607.26465",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 31 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.26465v1 Announce Type: new \nAbstract: Multimodal Large Language Models have sparked significant interest due to their potential for social intelligence; however, their ability to perform sequential motivation reasoning remains insufficiently studied. Existing evaluations predominantly examine static text or isolated visual snapshots, which do not reflect the cumulative nature of real-world behavioral drivers. To address this gap, we introduce MultivationBench, a benchmark designed to ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "language model",
+      "multimodal",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "AlphaSchema: Exploring the Space of Trading Semantics for LLM-Based Alpha Mining",
+    "url": "https://arxiv.org/abs/2607.26642",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 31 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.26642v1 Announce Type: new \nAbstract: Automated alpha mining has increasingly adopted large language model (LLM) agents for factor generation and iterative discovery. However, existing LLM-based systems often delegate both factor construction and search decisions to the agent itself, without an explicit exploration space or a principled mechanism for navigating that space. As a result, exploration remains largely implicit and difficult to control or optimize systematically. We introdu",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model"
+    ]
+  },
+  {
+    "title": "UrbanDS: A Graph-Guided LLM Multi-Agent System for Data-Intensive Urban Tasks",
+    "url": "https://arxiv.org/abs/2607.26724",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 31 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.26724v1 Announce Type: new \nAbstract: Large language model (LLM) agents have been widely applied in automating data science tasks. However, existing methods typically rely on a limited set of provided datasets, and they face challenges in data-intensive scenarios that require discovering and leveraging relevant information from large-scale and heterogeneous data repositories. Urban tasks are representative examples of such scenarios, as urban data are not only large-scale and multi-so",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "language model",
+      "RAG"
+    ]
+  },
+  {
+    "title": "Belief-Guided Decision Making with Uncertainty Gating in the Game of Go",
+    "url": "https://arxiv.org/abs/2607.26946",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 31 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.26946v1 Announce Type: new \nAbstract: Recent advancements in Computer Go, driven by AlphaZero and MuZero, rely heavily on Monte Carlo Tree Search (MCTS) to correct the errors of the neural network policy. While effective on massive computational clusters, this dependence creates a critical bottleneck on consumer-grade hardware, where the computational cost of tree management severely limits inference rates. Furthermore, without deep search, these models suffer from hallucination, prop",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "game",
+      "neural",
+      "inference"
+    ]
+  },
+  {
+    "title": "On-Policy Distillation for LLM Safety: A Routing Approach to Template-Robust Realignment",
+    "url": "https://arxiv.org/abs/2607.27081",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 31 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.27081v1 Announce Type: new \nAbstract: Fine-tuning is the dominant paradigm for specializing large language models (LLMs), yet it exposes a critical vulnerability: malicious data providers can embed harmful behaviors into downstream corpora, creating models that retain professional skills while violating human values on demand. Existing safety-realignment defenses often fail in practice due to three key limitations: they frequently cause catastrophic forgetting of specialized skills; t",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "fine-tuning"
+    ]
+  },
+  {
+    "title": "OmegaUse-OfficeVal: Benchmarking LLM Agents on Long-Horizon Office-Suite Tasks with Economic Grounding",
+    "url": "https://arxiv.org/abs/2607.27155",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 31 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.27155v1 Announce Type: new \nAbstract: Large language model (LLM) agents are increasingly expected to assist users in completing tasks. However, existing benchmarks provide limited support for evaluating whether agents can carry out office-suite workflows at a reasonable cost. We introduce OmegaUse-OfficeVal, a benchmark for evaluating LLM agents on long-horizon office-suite tasks with task-level economic grounding. The benchmark comprises 100 tasks derived from office-suite requests p",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "workflow",
+      "language model"
+    ]
+  },
+  {
+    "title": "Large-Scale ChatBot Validation Through Customer Digital Twin Simulations",
+    "url": "https://arxiv.org/abs/2607.26060",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 31 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.26060v1 Announce Type: cross \nAbstract: LLM-based chatbots are transforming customer service in regulated domains such as banking, but scalable and cost-effective validation remains a critical barrier to safe deployment. We present a two-part contribution for large-scale chatbot validation. First, we introduce a methodology for creating high-fidelity synthetic customer agents (SCAs) as digital twins, grounded in real transactional and conversational data, that enables automatic genera",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "simulation"
+    ]
+  },
+  {
+    "title": "Identifying Implicit Bias in LLM-based Chat AI Toward People with Intellectual Disabilities",
+    "url": "https://arxiv.org/abs/2607.26062",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 31 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.26062v1 Announce Type: cross \nAbstract: Background: This work investigates the presence of implicit bias in Large Language Model (LLM)-based chat AI models directed toward people with intellectual disabilities (ID).\n  Objective: The study aims to identify and measure representational differences related to people with ID and examine them to identify implicit biases inherent in AI chat generation technologies.\n  Methods: Utilizing the GPT-4-Turbo model, we requested story-generation ba",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "GPT",
+      "language model"
+    ]
+  },
+  {
+    "title": "Networked Intelligence: Active Shared Context Graphs for Human-AI Team Science",
+    "url": "https://arxiv.org/abs/2607.13220",
+    "source": "arXiv cs.HC",
+    "published_at": "Fri, 31 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.13220v3 Announce Type: replace-cross \nAbstract: Most AI-for-science systems focus on scaling a single reasoning process by using better models, larger context windows, long-horizon agentic execution, or digital co-scientists working with one principal user. However, challenging scientific problems are rarely solved by one reasoner alone. They are solved by teams whose members carry different priors, experimental background, tacit knowledge, and domain-trained intuitions. The open prob",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "context window",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Beyond KV Reconstruction: Functional Reconstruction for MLA Draft Models in Speculative Decoding",
+    "url": "https://arxiv.org/abs/2607.27269",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 31 Jul 2026 00:00:00 -0400",
+    "description": "arXiv:2607.27269v1 Announce Type: new \nAbstract: Multi-head latent attention (MLA) is increasingly important for long-context LLM inference because compact latent states replace the growing key-value (KV) cache and reduce decoding memory traffic. Yet most capable open checkpoints use multi-head or grouped-query attention (MHA/GQA), so conversion is needed to obtain MLA's cache efficiency without retraining from scratch. Speculative decoding offers complementary acceleration, but its speedup depe",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "inference",
+      "memory"
+    ]
+  }
+]
