@@ -1,0 +1,254 @@
+{
+  "date": "2026-08-02",
+  "candidates": [
+    {
+      "title": "TencentCloud / TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks. [227 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "memory"
+      ]
+    },
+    {
+      "title": "ansible / ansible",
+      "url": "https://github.com/ansible/ansible",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems.https://docs.ansible.com. [30 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "automation"
+      ]
+    },
+    {
+      "title": "rohitg00 / agentmemory",
+      "url": "https://github.com/rohitg00/agentmemory",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks [68 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "memory"
+      ]
+    },
+    {
+      "title": "Narcooo / inkos",
+      "url": "https://github.com/Narcooo/inkos",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Story Creation AI Agent for novel, scripts, translation, interactive games, and IP content [55 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "game"
+      ]
+    },
+    {
+      "title": "Is AI reasoning right for the wrong reasons?",
+      "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
+      "source": "Hacker News Best",
+      "published_at": "Fri, 31 Jul 2026 15:29:39 +0000",
+      "description": "Article URL: https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/ Comments URL: https://news.ycombinator.com/item?id=49124358 Points: 200 # Comments: 230",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "bytedance / deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. [209 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "agent",
+        "RAG"
+      ]
+    },
+    {
+      "title": "karpathy / autoresearch",
+      "url": "https://github.com/karpathy/autoresearch",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "AI agents running research on single-GPU nanochat training automatically [91 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "mvanhorn / last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary [600 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "ashishpatel26 / 500-AI-Agents-Projects",
+      "url": "https://github.com/ashishpatel26/500-AI-Agents-Projects",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more. [69 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "LibreTranslate / LibreTranslate",
+      "url": "https://github.com/LibreTranslate/LibreTranslate",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup. [67 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "open source",
+        "self-hosted"
+      ]
+    },
+    {
+      "title": "Zipstack / unstract",
+      "url": "https://github.com/Zipstack/unstract",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "LLM-Driven Extraction of Unstructured Data — Built for API Deployments & ETL Pipeline Workflows [51 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "LLM",
+        "workflow"
+      ]
+    },
+    {
+      "title": "github / awesome-copilot",
+      "url": "https://github.com/github/awesome-copilot",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot. [39 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "agent",
+        "Copilot"
+      ]
+    },
+    {
+      "title": "usekaneo / kaneo",
+      "url": "https://github.com/usekaneo/kaneo",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you. [760 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "open source"
+      ]
+    },
+    {
+      "title": "podman-desktop / podman-desktop",
+      "url": "https://github.com/podman-desktop/podman-desktop",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop. [11 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "open source"
+      ]
+    },
+    {
+      "title": "different-ai / openwork",
+      "url": "https://github.com/different-ai/openwork",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "The open-source alternative to Claude Cowork (powered by opencode) [585 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "Claude"
+      ]
+    },
+    {
+      "title": "anomalyco / opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "The open source coding agent. [414 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "agent",
+        "open source"
+      ]
+    },
+    {
+      "title": "zhaoxuya520 / reverse-skill",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端 [1,320 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "Claude"
+      ]
+    },
+    {
+      "title": "microsoft / generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "21 Lessons, Get Started Building with Generative AI [108 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "generative"
+      ]
+    },
+    {
+      "title": "github / copilot-sdk",
+      "url": "https://github.com/github/copilot-sdk",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services [142 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "agent",
+        "Copilot"
+      ]
+    },
+    {
+      "title": "AI financial advice is surprisingly good, especially if you ask right questions",
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+      "source": "Hacker News",
+      "published_at": "Sat, 01 Aug 2026 22:25:12 +0000",
+      "description": "Article URL: https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions Comments URL: https://news.ycombinator.com/item?id=49139102 Points: 144 # Comments: 90",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-08-02\n\n没问题，雷达已开启！今天为你从候选列表中筛选出了 **4 条** 最具“黑客兼艺术家”潜质的项目。\n\n今天的内容核心集中在：**Agent 的闭环自进化（Autonomous Loops）**、**长时程网关架构（Long-Horizon Systems）**，以及**结构化记忆与规范驱动（Spec-Driven Memory & Narrative）**。\n\n---\n\n## Karpathy 的单机自主科研 Agent Loop (karpathy/autoresearch)\n- 来源：GitHub Trending Python\n- 链接：https://github.com/karpathy/autoresearch\n- 一句话解释：Karpathy 写的极简自循环 Agent，能在单卡上自动修改代码、训练模型、评测结果并自我迭代科研假设。\n- 它为什么重要：它把“假设 -> 代码改动 -> 验证运行 -> 结果评估 -> 丢弃/Git Commit”这一整套 **Hypothesis-Driven (Spec-driven) 闭环** 给完全自动化了！代码极其干净，是极佳的闭环模板。\n- 技术趋势标签：`Autonomous Research` `Closed-Loop Agent` `Self-Evolution`\n- 可复用模式：自动修改代码 -> 沙盒无干预运行 -> 提取量化指标 -> 决策分支（保留/回滚代码）。\n- 疯狂发明家灵感：\n  1. 一个小实验：写一个闭环 Agent，让它自动修改一段 GLSL 着色器代码，无头渲染截图后算图像熵（视觉丰富度），自动寻找最狂野的算法。\n  2. 一个中型项目：游戏平衡性自适应 Agent——在 Minecraft 或微型跑酷世界里无头运行，Agent 自动修改规则与地形 Spec 并跑通关测试，演化出“最反直觉但可通关”的关卡。\n  3. 一个艺术/游戏/叙事方向：“自己进化规则的数字创世神”——Agent 在离线沙盒里持续修改细胞自动机规则，根据“系统涌现复杂度”指标自动保留规则，每天清晨为你输出一种全新的生命形态。\n- 对我项目的启发： Agent 不仅可以帮你“写”代码，更可以作为你的“离线演化引擎”，趁你睡觉时跑上百轮参数与规则测试。\n- 今天是否值得深入研究：是\n- 建议行动：做demo\n\n---\n\n## 字节跳动长时程多 Agent 任务调度框架 (bytedance/deer-flow)\n- 来源：GitHub Trending Python\n- 链接：https://github.com/bytedance/deer-flow\n- 一句话解释：结合沙盒、长短期记忆、技能树和子 Agent 网关，能稳定处理几分钟到数小时长任务的超级 Agent 架构。\n- 它为什么重要：解决复杂项目中的“上下文漂移（Context Drift）”问题。要让 AI 做大型复杂项目（生成一整套带代码的游戏、几十万字的设定集），这种挂载沙盒与网关的分层架构是必经之路。\n- 技术趋势标签：`Long-Horizon Agent` `Subagent Hierarchy` `Multi-Agent Gateway`\n- 可复用模式：高层 Spec 拆解 -> 派发给异步子 Agent -> 隔离沙盒执行 -> 统一消息网关（Message Gateway）汇总状态。\n- 疯狂发明家灵感：\n  1. 一个小实验：搭建一个微型多 Agent 网关，并发启动 3 个 Agent：一个编剧、一个三维建模 Spec 生成器、一个着色器生成器，最终组合成一个 3D 房间。\n  2. 一个中型项目：自动化游戏 Dungeons 生成器——输入一个世界观主题，后端运行数小时，自动产出地形 Spec、NPC 对话树、LUA 逻辑脚本并打包成可玩 Demo。\n  3. 一个艺术/游戏/叙事方向：“跨昼夜的生成式世界”——一个离线跑在服务器上的地下城 Agent，持续在后台沙盒中演算世界变迁，每天向玩家推送变异后的游戏地图文件。\n- 对我项目的启发：做复杂的生成式/艺术系统时，千万别试图用单一对话解决，要学会构造长时程、分工明确的 Agent 工作流（Flow）。\n- 今天是否值得深入研究：是\n- 建议行动：试用\n\n---\n\n## 专为小说与互动游戏打造的叙事 AI Agent (Narcooo/inkos)\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/Narcooo/inkos\n- 一句话解释：将小说编写、剧本创作、翻译与互动游戏生成整合在同一套管线中的叙事 AI Agent。\n- 技术趋势标签：`Narrative Systems` `Interactive Storytelling` `Creative Agent`\n- 它为什么重要：把通用 LLM 转化为特定领域的创意工具（Creative Tool），必须用结构化的逻辑约束生成过程，这个项目示范了如何将“叙事结构”转化为 Agent 的操作步骤。\n- 可复用模式：将世界观规则、NPC 心理状态、剧情分支映射为可检索的上下文图谱，动态注入生成链。\n- 疯狂发明家灵感：\n  1. 一个小实验：截取你在 Minecraft 里的聊天记录，让这个 Agent 自动解析玩家行为，并实时生成带有“克苏鲁神话”风格的节点式文本冒险剧本。\n  2. 一个中型项目：基于 Spec 的互动剧本 Visual Debugger——在节点图里写剧情约束（Spec），Agent 填补对话，当 NPC 行为违背世界观设定时进行可视化报错。\n  3. 一个艺术/游戏/叙事方向：开放世界中的“实时历史记载者”——NPC 发生的每一次冲突都会被 Agent 解析为历史文献，随玩家探索实时编撰为可阅读的“游戏内古籍”。\n- 对我项目的启发：叙事系统极度适合 Spec-driven 理念，把故事背景当成严格的代码 Spec 来管理，生成结果才不会崩塌。\n- 今天是否值得深入研究：是\n- 建议行动：收藏\n\n---\n\n## 团队级 AI Agent 记忆基础设施 (TencentCloud/TencentDB-Agent-Memory)\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/TencentCloud/TencentDB-Agent-Memory\n- 一句话解释：将对话、文档和代码提炼为四类结构化资产（Chat Memory, Skill, LLM-Wiki, Code-Graph）的 Agent 记忆中枢。\n- 它为什么重要：单纯的向量检索（Vector RAG）在复杂系统里极易失效。这个项目把记忆显式分层为“知识 Wiki”和“代码依赖图谱（Code-Graph）”，对 Spec-driven 架构非常有启发。\n- 技术趋势标签：`Code-Graph Memory` `LLM-Wiki` `Agent Infrastructure`\n- 可复用模式：知识不再是离散文本段，而是提取成“可调用的 Skill”与“强关系的 Graph/Wiki”。\n- 疯狂发明家灵感：\n  1. 一个小实验：写个脚本解析你当前的跨学科项目代码与设计笔记，提炼出一份 Agent 可读取的 Code-Graph。\n  2. 一个中型项目：个人跨学科项目 Spec 进化器——AI 会根据你的项目历史，把你的设计偏好自动沉淀为“设计规范 Skill”，开新项目时自动加载。\n  3. 一个艺术/游戏/叙事方向：游戏 NPC 的“群体意识网络”——多个 NPC 共享同一个 LLM-Wiki，一个 NPC 发现隐藏宝藏后，Wiki 被更新，其他 NPC 动态演化出新的谣言与行动路线。\n- 对我项目的启发：设计 Agent 的记忆时，多想想“代码图谱”和“知识 Wiki”这种显式结构，这比无脑把东西塞进 Vector DB 要靠谱得多。\n- 今天是否值得深入研究：是\n- 建议行动：试用\n\n---\n\n## 今日模式总结\n\n1. **闭环演化与假设驱动 (Hypothesis-Driven Evolution)**\n   以 Karpathy 的 `autoresearch` 为代表：系统不再需要人工介入每一步，而是定义好规范（Spec）和评估指标（Metrics）后，让 Agent 在沙盒中不断修改代码、测试、自我迭代。\n2. **长时程架构与状态沙盒 (Long-Horizon Sandbox Engineering)**\n   以 `deer-flow` 为代表：解决 AI 飘忽不定的关键在于拆分。长任务必须有消息网关、独立的子 Agent 和沙盒运行环境，避免主流程上下文被污染。\n3. **显式结构化记忆 (Explicit Knowledge & Graph Memory)**\n   以 `TencentDB-Agent-Memory` 和 `inkos` 为代表：简单的向量检索时代结束了，未来的 Agent 记忆需要显式的上下文映射——包括 Code-Graph、LLM-Wiki 和特定领域的叙事结构图。\n\n---\n\n## 今日可做小实验\n\n**实验项目名：** `Auto-Shader-Evolution`（自动进化着色器闭环）\n\n- **输入：** 一段最基础的、能正常编译的单色 GLSL Fragment Shader 代码文件（如 `shader.frag`）。\n- **输出：** 经过 5 轮“修改代码 -> 渲染 -> 计算视觉丰富度 -> 保留/回滚”循环后，进化出来的狂野 GLSL 着色器及其渲染图片。\n- **技术栈：** Python + OpenAI / Claude API + `moderngl`（用于无头渲染 GLSL 截图） + `Pillow`（计算图像灰度直方图熵/视觉复杂度）。\n- **第一步怎么做：**\n  写一个 30 行 Python 脚本：\n  1. 用 `moderngl` 加载基础 GLSL 代码，渲染成 512x512 的 PNG 图片。\n  2. 用 `Pillow` 读取图片并计算图像的信息熵（Image Entropy，数值越高代表视觉元素越丰富）。\n  3. 调通这个无头渲染与评估流程后，写 Prompt 让 LLM 尝试修改该 GLSL 代码（要求保持编译不报错），如果新代码渲染出来的熵高于上一轮，则保留代码，否则回滚！跑 5 轮看看它能进化出什么。",
+  "gemini_success": true,
+  "telegram_sent": false,
+  "telegram_status": "failed",
+  "telegram_reason": "400 Client Error: Bad Request for url: https://api.telegram.org/bot8650722899:AAHUD-aqNDB7NwiPiGq3R22MVp77Cr_5GEQ/sendMessage"
+}
