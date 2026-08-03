@@ -1,0 +1,256 @@
+{
+  "date": "2026-08-03",
+  "candidates": [
+    {
+      "title": "diegosouzapw / OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors [832 stars today]",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "Claude",
+        "Gemini",
+        "Copilot",
+        "GPT"
+      ]
+    },
+    {
+      "title": "TencentCloud / TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks. [602 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "memory"
+      ]
+    },
+    {
+      "title": "Narcooo / inkos",
+      "url": "https://github.com/Narcooo/inkos",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Story Creation AI Agent for novel, scripts, translation, interactive games, and IP content [44 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "game"
+      ]
+    },
+    {
+      "title": "lyogavin / airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "AirLLM 70B inference with single 4GB GPU [819 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "inference"
+      ]
+    },
+    {
+      "title": "Panniantong / Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. [659 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "mvanhorn / last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary [206 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "bytedance / deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. [356 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "agent",
+        "RAG"
+      ]
+    },
+    {
+      "title": "harry0703 / MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. [230 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "workflow"
+      ]
+    },
+    {
+      "title": "usekaneo / kaneo",
+      "url": "https://github.com/usekaneo/kaneo",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you. [496 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "open source"
+      ]
+    },
+    {
+      "title": "different-ai / openwork",
+      "url": "https://github.com/different-ai/openwork",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "The open-source alternative to Claude Cowork (powered by opencode) [280 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "Claude"
+      ]
+    },
+    {
+      "title": "nrwl / nx",
+      "url": "https://github.com/nrwl/nx",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time. [4 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "elizaOS / eliza",
+      "url": "https://github.com/elizaOS/eliza",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Open source agentic operating system [18 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "agent",
+        "open source"
+      ]
+    },
+    {
+      "title": "paperclipai / paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "The open-source app everyone uses to manage agents at work [98 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "microsoft / flint-chart",
+      "url": "https://github.com/microsoft/flint-chart",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "🪄 Flint is a visualization language that lets AI agents reliably create expressive, good-looking charts from simple, human-editable chart specs. [302 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "simstudioai / sim",
+      "url": "https://github.com/simstudioai/sim",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce. [37 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "can1357 / oh-my-pi",
+      "url": "https://github.com/can1357/oh-my-pi",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more [215 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "zhaoxuya520 / reverse-skill",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端 [1,141 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "Claude"
+      ]
+    },
+    {
+      "title": "microsoft / generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "21 Lessons, Get Started Building with Generative AI [588 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "generative"
+      ]
+    },
+    {
+      "title": "esengine / DeepSeek-Reasonix",
+      "url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. [333 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "Boris Cherny on Trying to Get Claude Code to Rewrite the Claude App",
+      "url": "https://daringfireball.net/linked/2026/08/02/cherny-claude-swift",
+      "source": "Hacker News",
+      "published_at": "Mon, 03 Aug 2026 00:22:55 +0000",
+      "description": "Article URL: https://daringfireball.net/linked/2026/08/02/cherny-claude-swift Comments URL: https://news.ycombinator.com/item?id=49149800 Points: 12 # Comments: 1",
+      "score": 2.0,
+      "keywords_matched": [
+        "Claude"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-08-03\n\n为你筛选出今日最值得关注的 **4 个** “疯狂但可做”的项目与工具。它们抛弃了无意义的科技炒作，直接击中 Spec 驱动开发、Agent 记忆建模、叙事生成与真实世界感知的底层逻辑。\n\n---\n\n## Microsoft Flint Chart\n- **来源**：GitHub Trending TypeScript\n- **链接**：https://github.com/microsoft/flint-chart\n- **一句话解释**：微软开源的专为 AI Agent 设计的可视化 DSL（领域特定语言）规范，让 Agent 能够通过人类可读可改的简洁 Spec 稳定生成高质感图表。\n- **它为什么重要**：验证了“**LLM 不应该直接生成复杂的 UI/代码，而是应该生成声明式规范 (Spec)**”的现代 AI 开发哲学。大幅提升了生成式 UI 的可靠性与视觉优雅度。\n- **技术趋势标签**：Spec-Driven Development / HCI / Creative Coding / Generative UI\n- **可复用模式**：`Spec-Driven Dynamic Rendering`（LLM 生成结构化 Spec -> 确定性引擎渲染 -> 人类/系统二次编辑）。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：输入任意一段文本（如《三体》小说片段），让 LLM 生成 Flint Spec，实时画出小说角色的“理智度/危险度变化折线图”。\n  2. **一个中型项目**：生成式游戏 UI 编辑器：Agent 监控游戏进程（如玩家血量、战术走位），动态通过 Flint Spec 实时重组玩家屏幕上的 HUD 界面。\n  3. **一个艺术/游戏/叙事方向**：生成式史诗星图：一个交互式装置，将玩家在沙盒游戏中的历史对话与决策，蒸馏成由 Spec 渲染的星座脉络图。\n- **对我项目的启发**：极其契合你的 Spec-Driven 关注点！后续做任何 AI 生成可视化/控制界面时，都可以先定义一套自己的 JSON/DSL 规范，再让 Agent 去填数据。\n- **今天是否值得深入研究**：是\n- **建议行动**：做demo\n\n---\n\n## inkos - AI 互动叙事与游戏创作 Agent\n- **来源**：GitHub Trending TypeScript\n- **链接**：https://github.com/Narcooo/inkos\n- **一句话解释**：专门用于小说、剧本、互动游戏和 IP 内容创作的 AI Agent 工作流工具。\n- **它为什么重要**：将传统“让 LLM 一口气写小说”的粗暴模式，拆解为符合游戏设计逻辑（大纲-角色设定-剧情分支-逻辑校验）的多 Agent 管道。\n- **技术趋势标签**：Game Systems / Interactive Narrative / Agent Workflow / IP Engine\n- **可复用模式**：`Narrative State Machine Agent`（用 Agent 状态机拆解庞大的文本生成，保持上下文与角色设定不崩塌）。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：编写一个迷你 CLI，输入两个冲突概念（如“蒸汽朋克”+“禅宗”），Agent 自动生成一段包含 3 个选项的跑团文本。\n  2. **一个中型项目**：Minecraft 动态剧情生成器：抓取玩家在服务器里的建造行为，通过叙事 Agent 自动生成对应的古代遗迹背景故事与定制 NPC 任务。\n  3. **一个艺术/游戏/叙事方向**：在树莓派/电子墨水屏上运行的“永不重复的桌面文本 Roguelike”，根据室温和湿度自动演化每日的克苏鲁故事分支。\n- **对我项目的启发**：展示了如何把游戏设计（Game Design）的规则转化为 Agent 可以理解的控制节点。\n- **今天是否值得深入研究**：是\n- **建议行动**：收藏\n\n---\n\n## TencentDB Agent Memory\n- **来源**：GitHub Trending TypeScript\n- **链接**：https://github.com/TencentCloud/TencentDB-Agent-Memory\n- **一句话解释**：腾讯开源的团队级 Agent 记忆中枢，将对话和代码提炼为 4 种资产：Chat Memory（对话记忆）、Skill（技能）、LLM-Wiki（知识百科）、Code-Graph（代码图谱）。\n- **它为什么重要**：解决了 Agent“越用越笨”、“过几天就失忆”的致命缺点。它把记忆拆分成明确的四元资产模型，而不是粗暴地抛给向量数据库做 RAG。\n- **技术趋势标签**：Agent Memory / Spec & Knowledge Systems / Agent Architecture\n- **可复用模式**：`Four-Tier Structured Memory`（四元记忆资产模型：将短期上下文、长期规则、世界知识与代码关联显式分层）。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：把你近一周写过的 500 字乱七八糟的笔记丢进去，看看它如何自动抽取成标准的 LLM-Wiki 知识条目。\n  2. **一个中型项目**：自进化代码库 Agent：每次你推代码，Agent 自动维护一张 Code-Graph，下次你想加功能时，它能准确指出哪些逻辑节点会被破坏。\n  3. **一个艺术/游戏/叙事方向**：“老兵 NPC 记忆库”：多玩家沙盒游戏共享同一个核心 NPC，NPC 依靠这套结构演化对所有玩家的记忆图谱（谁打了它、谁救了它）。\n- **对我项目的启发**：这套“四元结构”可以直接复制到你自己的 Agent 系统或开放世界生成架构中，作为规则与记忆的底座。\n- **今天是否值得深入研究**：是\n- **建议行动**：试用\n\n---\n\n## Agent-Reach\n- **来源**：GitHub Trending Python\n- **链接**：https://github.com/Panniantong/Agent-Reach\n- **一句话解释**：一个 CLI 工具，让你的 AI Agent 零 API 费用、直接抓取并理解 Twitter、Reddit、YouTube、B站、小红书等社交平台的内容。\n- **它为什么重要**：各大平台 API 极其昂贵或限制极严，Agent-Reach 给 Agent 贴上了一双“全网嗅探之眼”，提供了低成本获取真实世界实时数据的可能。\n- **技术趋势标签**：Agent Toolchain / Web Automation / Creative Data Source\n- **可复用模式**：`Zero-API Context Ingestion`（通过无头/逆向感知层将非结构化网络数据直接喂给 Agent 作为输入）。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：抓取小红书上今天最新的 5 条“怪诞技术”帖子，丢给 LLM 过滤出可以做成 Demo 的点子。\n  2. **一个中型项目**：“互联网迷因（Memes）变异追踪器”：定时抓取 Reddit/X 上的特定热词，用 Agent 总结出流行语的演化轨迹。\n  3. **一个艺术/游戏/叙事方向**：“网络情绪虚拟生态瓶”：抓取实时高赞评论，用 Creative Coding 生成一座根据互联网集体情绪变化风向、降雨量与地形的数字岛屿。\n- **对我项目的启发**：解决生成式工具“数据源匮乏”的问题，是艺术装置或自动化观察 Agent 极佳的数据管道。\n- **今天是否值得深入研究**：是\n- **建议行动**：做demo\n\n---\n\n## 今日模式总结\n\n1. **Spec 声明式中介模式 (Spec-Driven Intermediate Layer)**\n   从 `Microsoft Flint Chart` 可以看出，AI 自动化的未来不是让 AI 直接生成最终代码，而是让 AI 编写符合某种特定 Schema（Spec）的数据结构，再交给确定性系统渲染。这种解耦极度安全且方便人类干预。\n2. **结构化/资产化 Agent 记忆 (Structured Asset Memory)**\n   无论是腾讯的 Agent Memory 还是叙事系统，大家都不再使用单一的向量数据库搜索（RAG），而是将记忆划分为“技能”、“百科”、“图谱”、“角色状态”等显式资产。\n\n---\n\n## 今日可做小实验\n\n**实验名称**：2 小时搞定“Prompt-to-Flint”情绪日志生成器\n\n- **输入**：你在终端里输入的一段今天的心情描述/日志（例如：“今天写代码遇到了 3 个 Bug，但晚餐吃到了很好吃的汉堡，打游戏赢了一把”）。\n- **输出**：浏览器自动打开，展示由 Flint/Vega 规范渲染出来的“情绪与事件波动图”。\n- **技术栈**：Python + OpenAI/Claude/DeepSeek API + `microsoft/flint-chart` (或简单 HTML 预览)。\n- **第一步怎么做**：\n  1. 打开 `https://github.com/microsoft/flint-chart` 找到官方提供的 Flint Chart JSON Spec 示例。\n  2. 写一段简单的 Python 脚本，将这个 JSON 示例贴入 System Prompt 作为 Few-Shot 示范，要求 LLM **必须且仅** 返回符合该 JSON Spec 的结构。\n  3. 将 LLM 返回的 JSON Spec 写入一个本地 `index.html`，调用 Flint 渲染库并在浏览器中打开展示！",
+  "gemini_success": true,
+  "telegram_sent": true,
+  "telegram_status": "sent",
+  "telegram_reason": ""
+}

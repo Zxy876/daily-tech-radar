@@ -1,0 +1,248 @@
+[
+  {
+    "title": "diegosouzapw / OmniRoute",
+    "url": "https://github.com/diegosouzapw/OmniRoute",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors [832 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "Claude",
+      "Gemini",
+      "Copilot",
+      "GPT"
+    ]
+  },
+  {
+    "title": "TencentCloud / TencentDB-Agent-Memory",
+    "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks. [602 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "memory"
+    ]
+  },
+  {
+    "title": "Narcooo / inkos",
+    "url": "https://github.com/Narcooo/inkos",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Story Creation AI Agent for novel, scripts, translation, interactive games, and IP content [44 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "game"
+    ]
+  },
+  {
+    "title": "lyogavin / airllm",
+    "url": "https://github.com/lyogavin/airllm",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "AirLLM 70B inference with single 4GB GPU [819 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "inference"
+    ]
+  },
+  {
+    "title": "Panniantong / Agent-Reach",
+    "url": "https://github.com/Panniantong/Agent-Reach",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. [659 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "mvanhorn / last30days-skill",
+    "url": "https://github.com/mvanhorn/last30days-skill",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary [206 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "bytedance / deer-flow",
+    "url": "https://github.com/bytedance/deer-flow",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. [356 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "agent",
+      "RAG"
+    ]
+  },
+  {
+    "title": "harry0703 / MoneyPrinterTurbo",
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. [230 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "workflow"
+    ]
+  },
+  {
+    "title": "usekaneo / kaneo",
+    "url": "https://github.com/usekaneo/kaneo",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you. [496 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "open source"
+    ]
+  },
+  {
+    "title": "different-ai / openwork",
+    "url": "https://github.com/different-ai/openwork",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "The open-source alternative to Claude Cowork (powered by opencode) [280 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "Claude"
+    ]
+  },
+  {
+    "title": "nrwl / nx",
+    "url": "https://github.com/nrwl/nx",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time. [4 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "elizaOS / eliza",
+    "url": "https://github.com/elizaOS/eliza",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Open source agentic operating system [18 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "agent",
+      "open source"
+    ]
+  },
+  {
+    "title": "paperclipai / paperclip",
+    "url": "https://github.com/paperclipai/paperclip",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "The open-source app everyone uses to manage agents at work [98 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "microsoft / flint-chart",
+    "url": "https://github.com/microsoft/flint-chart",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "🪄 Flint is a visualization language that lets AI agents reliably create expressive, good-looking charts from simple, human-editable chart specs. [302 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "simstudioai / sim",
+    "url": "https://github.com/simstudioai/sim",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce. [37 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "can1357 / oh-my-pi",
+    "url": "https://github.com/can1357/oh-my-pi",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more [215 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "zhaoxuya520 / reverse-skill",
+    "url": "https://github.com/zhaoxuya520/reverse-skill",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端 [1,141 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "Claude"
+    ]
+  },
+  {
+    "title": "microsoft / generative-ai-for-beginners",
+    "url": "https://github.com/microsoft/generative-ai-for-beginners",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "21 Lessons, Get Started Building with Generative AI [588 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "generative"
+    ]
+  },
+  {
+    "title": "esengine / DeepSeek-Reasonix",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. [333 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "Boris Cherny on Trying to Get Claude Code to Rewrite the Claude App",
+    "url": "https://daringfireball.net/linked/2026/08/02/cherny-claude-swift",
+    "source": "Hacker News",
+    "published_at": "Mon, 03 Aug 2026 00:22:55 +0000",
+    "description": "Article URL: https://daringfireball.net/linked/2026/08/02/cherny-claude-swift Comments URL: https://news.ycombinator.com/item?id=49149800 Points: 12 # Comments: 1",
+    "score": 2.0,
+    "keywords_matched": [
+      "Claude"
+    ]
+  }
+]
