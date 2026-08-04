@@ -1,0 +1,301 @@
+[
+  {
+    "title": "NeSyFS: A Neuro-symbolic Fast-Slow Thinking Framework for LLM Agent under Partial Observability",
+    "url": "https://arxiv.org/abs/2607.28942",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 03 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2607.28942v1 Announce Type: new \nAbstract: Recently Large Language Models (LLMs) have been increasingly deployed as autonomous agents in applications such as self-reflection, retrieval-augmented generation, and scientific discovery. In these settings, agents must act based on limited observations rather than full environmental states, leading to partial observability. This introduces several key challenges: belief state inference, task objective misalignment, and planning under uncertainty",
+    "score": 16.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "autonomous",
+      "inference",
+      "planning",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "ViSAGE: Constructing Self-Correcting Memories for Long-Form Video Understanding",
+    "url": "https://arxiv.org/abs/2607.28678",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 03 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2607.28678v1 Announce Type: new \nAbstract: Multimodal agents operating in long-horizon environments must build and continually update multimedia memories to support entity-consistent, temporally grounded reasoning. However, existing agentic memory approaches often discard fine-grained dentity cues under aggressive compression and segment-wise processing. They also rely heavily on vector similarity retrieval, which can surface semantically related yet identity-mismatched evidence, leading t",
+    "score": 14.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "multimodal",
+      "vector",
+      "reasoning",
+      "memory",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
+    "url": "https://arxiv.org/abs/2607.28629",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 03 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2607.28629v1 Announce Type: new \nAbstract: The rapid transition from reactive large language models (LLMs) to persistent, action-capable systems has exposed critical gaps in the architectural understanding of Agentic AI, particularly in separating inference, orchestration, and execution layers for autonomous AI agents. Despite recent advances, unified frameworks for designing and evaluating full-stack agentic systems remain limited. This paper presents a comprehensive, layered architecture",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "autonomous",
+      "inference"
+    ]
+  },
+  {
+    "title": "MerchantBench: Benchmarking LLM Agents for Long-Term Coherence in E-Commerce Operations",
+    "url": "https://arxiv.org/abs/2607.28956",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 03 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2607.28956v1 Announce Type: new \nAbstract: Large language model agents are increasingly evaluated as autonomous tool users, yet most benchmarks focus on bounded tasks with immediate success criteria. Real-world deployments often require Long-Term Coherence, the capacity to preserve purposeful behavior across extended horizons while adapting decisions to accumulated evidence. Evaluating this capacity requires a persistent environment in which actions constrain future choices, feedback arriv",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "autonomous",
+      "tool use"
+    ]
+  },
+  {
+    "title": "MirrorCraft: Paired Evaluation under Hidden Rule Changes in Minecraft",
+    "url": "https://arxiv.org/abs/2607.29218",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 03 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2607.29218v1 Announce Type: new \nAbstract: With the prosperity of the large language models (LLMs), it has become an interesting topic: how do LLM-based agents work in Minecraft? Unfortunately, most existing benchmarks evaluate them under fixed game mechanics. High performance in these settings does not show whether an agent can continue making progress when familiar recipes, drops, and other rules change. In this paper, we introduce MirrorCraft, a paired benchmark for evaluating agents un",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "game",
+      "Minecraft",
+      "language model"
+    ]
+  },
+  {
+    "title": "Reflection or Re-Generation? Why LLM Revision Fails Where Human Revision Succeeds",
+    "url": "https://arxiv.org/abs/2607.28908",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 03 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2607.28908v1 Announce Type: new \nAbstract: Reflection, the ability to revisit and revise prior reasoning, is central to how humans improve their answers. Large language models (LLMs) are increasingly prompted to \"reflect,\" yet whether this resembles human revision remains unclear. We introduce the Human-LLM Reflection Framework (HRF), a controlled two-pass protocol comparing human and LLM revision under identical conditions across self-, peer-, and cross-agent settings. Using an informatio",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "prompt",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Beyond Component Testing: Validating Agentic AI Systems",
+    "url": "https://arxiv.org/abs/2607.29405",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 03 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2607.29405v1 Announce Type: new \nAbstract: Agentic AI systems act through multi-step trajectories that combine planning, tool use, memory, interaction, and adaptation. This behavior stretches validation practice beyond component testing and one-shot input--output evaluation, because acceptable system behavior now depends on how decisions unfold over time and under changing environmental conditions. This survey synthesizes 257 papers spanning agent evaluation, software assurance, cyber-phys",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "tool use",
+      "planning",
+      "memory"
+    ]
+  },
+  {
+    "title": "Small Is Enough: Per-User Style Rewriting of AI-Edited Text via LoRA Adapters",
+    "url": "https://arxiv.org/abs/2607.29238",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 03 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2607.29238v1 Announce Type: cross \nAbstract: InMyStyle is a privacy first, single user system that adapts small language models to rewrite AI-edited text towards an individual user's writing style without an instruction prompt at inference. Given a user's documents, it uses multiple local helper LLMs to construct paired training examples and fine tunes LoRA adapters on base models ranging from 0.5B to 7B parameters. Length aware generation budgets and automatic chunking support inputs of d",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "inference",
+      "prompt"
+    ]
+  },
+  {
+    "title": "FriendBench: Benchmarking Dyadic Familiarity Inference in Humans and Multimodal Large Language Models",
+    "url": "https://arxiv.org/abs/2607.29602",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 03 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2607.29602v1 Announce Type: cross \nAbstract: Reading a social situation often depends on behavior, not words alone. We introduce FriendBench, a benchmark for inferring whether two people are already familiar or are meeting as strangers, from a 20-second clip of a dyadic ice-breaker conversation. Every pair answers the same type of prompt, so only the manner of interaction can reveal the answer. Across text, audio, and video, we compare 26 models from seven companies against matched human p",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "language model",
+      "multimodal",
+      "inference",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Combining Large Language Models and Symbolic Reasoning for Multi-Robot Temporal Planning through Explainable Knowledge Bases",
+    "url": "https://arxiv.org/abs/2502.19135",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 03 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2502.19135v2 Announce Type: replace-cross \nAbstract: We present PLANTOR, a framework for generating and executing multi-robot task plans from natural-language task descriptions through LLM-assisted knowledge-base construction. The approach uses large language models to synthesize a structured Prolog knowledge-base, applies consistency checks to detect and repair modeling errors, generates a high-level symbolic plan, refines it into low-level robot actions, and computes a temporally optimiz",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "reasoning",
+      "planning"
+    ]
+  },
+  {
+    "title": "TAPR: Enhancing LLM Performance with a Task-Aware Prompt Rewriter",
+    "url": "https://arxiv.org/abs/2607.28657",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 03 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2607.28657v1 Announce Type: new \nAbstract: Large Language Models (LLMs) often require carefully crafted prompts to unlock their full potential, which can be a barrier for non-expert users. This work addresses the challenge by introducing a Task-Aware Prompt Rewriter (TAPR), a model that reformulates user prompts into task-optimized prompts with the explicit goal of improving downstream LLM performance. We train TAPR using reinforcement learning with Group Relative Policy Optimization (GRPO",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Reasoning in Real World Clinical Care: Why Large Language Models Are Not Yet Safe for Autonomous Clinical Decision Support",
+    "url": "https://arxiv.org/abs/2607.28677",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 03 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2607.28677v1 Announce Type: new \nAbstract: LLM now pass medical licensing examinations and, in curated cases, can rival physicians at diagnostic reasoning. These developments have accelerated the use of LLMs for symptom assessment and clinical decision support in diagnostic and treatment guidance, administrative documentation, and rules-based alert enhancement. This Perspective concerns the most consequential of these applications: the autonomous triage of self-presenting, undifferentiated",
+    "score": 8.0,
+    "keywords_matched": [
+      "LLM",
+      "language model",
+      "autonomous",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "On the Generalization of Steering Vectors for Chain-of-Thought Faithfulness",
+    "url": "https://arxiv.org/abs/2607.29062",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 03 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2607.29062v1 Announce Type: new \nAbstract: Model capabilities have improved in large part due to scaling chain of thought. This has been a promising development for AI safety--where models verbalize their reasoning, it is possible to monitor it. However, in some cases, models do not verbalize important steps in their reasoning process. For example, models prompted with a cue suggesting the incorrect answer may fail to acknowledge that cue, even when it appears instrumental to their conclus",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "vector",
+      "prompt",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Tool Specifications Matter: Uncovering and Mitigating Safety Risks in AI Agents",
+    "url": "https://arxiv.org/abs/2607.29254",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 03 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2607.29254v1 Announce Type: new \nAbstract: AI agents extend large language models (LLMs) with external tools, enabling them to perform complex tasks and translate model outputs into consequential real-world actions. Yet LLMs often become substantially less safe when deployed as agents, and the source of this degradation remains poorly understood. In this paper, we identify schema-formatted tool specifications as a primary source of agent safety degradation and show, through white-box repre",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model"
+    ]
+  },
+  {
+    "title": "Beyond Retrieval: Analytic Memory for Multimodal Agents",
+    "url": "https://arxiv.org/abs/2607.29440",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 03 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2607.29440v1 Announce Type: new \nAbstract: Long-term multimodal memory must support not only retrieving relevant information but also computing over observations accumulated across interactions. Existing systems largely emphasize \\emph{retrieval memory}, organizing interaction histories through summaries and indexes to return query-relevant information at multiple granularities, from high-level abstractions to underlying records. In this paper, we formulate \\emph{analytic memory} as a comp",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "multimodal",
+      "memory",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Self-Play Meets Skill Evolution: Self-Evolving Search Agents that Pose, Solve, and Remember",
+    "url": "https://arxiv.org/abs/2607.29468",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 03 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2607.29468v1 Announce Type: new \nAbstract: Self-play agents can generate training problems without questions from target benchmarks, but their curricula lack persistent state: failures affect gradients yet do not explicitly shape future practice. External skill memories preserve procedural experience but are typically learned from fixed task distributions. We introduce \\textbf{SESA} (Self-Evolving Skill-Augmented Agent), which makes procedural memory an evolving state of tool-augmented sea",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "memory",
+      "procedural"
+    ]
+  },
+  {
+    "title": "AMTFV: Agentic Mathematical Tool-Flow Verification for LLM Self-Correction",
+    "url": "https://arxiv.org/abs/2607.29549",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 03 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2607.29549v1 Announce Type: new \nAbstract: Large language models have demonstrated strong mathematical problem-solving capabilities, yet reliably verifying their candidate answers remains challenging. Existing representative methods mainly revise outputs through natural-language reflection or assist verification by directly generating verification programs; the former may not reliably support exact computation, whereas the latter prematurely couples mathematical modeling with low-level imp",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model"
+    ]
+  },
+  {
+    "title": "ConnectED: A Curriculum-Aligned AI System for Vietnamese Instructional Lesson Planning and Student Learning",
+    "url": "https://arxiv.org/abs/2607.28647",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 03 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2607.28647v1 Announce Type: new \nAbstract: This paper presents ConnectED, a human-centered AI system that supports the full instructional lifecycle in Vietnamese education by linking curriculum-aligned lesson design, interactive student learning, and feedback-driven refinement. Built on VietEduQwen, a Vietnamese educational large language model trained via supervised fine-tuning and direct preference optimization, the system ensures academically accurate, pedagogically appropriate, and stu",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "language model",
+      "fine-tuning",
+      "planning"
+    ]
+  },
+  {
+    "title": "Unanticipated Effects of Generative AI on Expertise Pathways and Performance Perception in System Administration",
+    "url": "https://arxiv.org/abs/2607.28650",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 03 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2607.28650v1 Announce Type: new \nAbstract: While industry discourse often emphasizes immediate productivity gains and frames GenAI primarily as a tool for automation, the integration of GenAI into system administration may involve deeper shifts in professional practice that are not yet fully understood. Drawing on 14 semi-structured interviews with IT professionals, this paper explores the lived reality of embedding GenAI into daily routines of troubleshooting, scripting, and system verifi",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "automation",
+      "embedding",
+      "generative"
+    ]
+  },
+  {
+    "title": "Measuring Cognitive Engagement in Collaborative Discourse with an Extended ICAP Framework: Comparing Human Annotation, In-Context Learning, and Reflective LLM Agents",
+    "url": "https://arxiv.org/abs/2607.28651",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 03 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2607.28651v1 Announce Type: new \nAbstract: Collaboration supports learning and problem-solving, but its effectiveness depends on cognitive engagement during discourse. This study applies an extended 7-point ICAP framework based on the Interactive, Constructive, Active, and Passive modes to characterize variation in cognitive engagement during collaborative dialogue. Engagement was coded by trained human annotators and compared with large language model (LLM)-based labeling approaches, incl",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model"
+    ]
+  }
+]
