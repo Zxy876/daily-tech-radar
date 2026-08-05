@@ -1,0 +1,308 @@
+{
+  "date": "2026-08-05",
+  "candidates": [
+    {
+      "title": "NeSyFS: A Neuro-symbolic Fast-Slow Thinking Framework for LLM Agent under Partial Observability",
+      "url": "https://arxiv.org/abs/2607.28942",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 04 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2607.28942v1 Announce Type: new \nAbstract: Recently Large Language Models (LLMs) have been increasingly deployed as autonomous agents in applications such as self-reflection, retrieval-augmented generation, and scientific discovery. In these settings, agents must act based on limited observations rather than full environmental states, leading to partial observability. This introduces several key challenges: belief state inference, task objective misalignment, and planning under uncertainty",
+      "score": 16.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "autonomous",
+        "inference",
+        "planning",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "ViSAGE: Constructing Self-Correcting Memories for Long-Form Video Understanding",
+      "url": "https://arxiv.org/abs/2607.28678",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 04 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2607.28678v1 Announce Type: new \nAbstract: Multimodal agents operating in long-horizon environments must build and continually update multimedia memories to support entity-consistent, temporally grounded reasoning. However, existing agentic memory approaches often discard fine-grained dentity cues under aggressive compression and segment-wise processing. They also rely heavily on vector similarity retrieval, which can surface semantically related yet identity-mismatched evidence, leading t",
+      "score": 14.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "multimodal",
+        "vector",
+        "reasoning",
+        "memory",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
+      "url": "https://arxiv.org/abs/2607.28629",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 04 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2607.28629v1 Announce Type: new \nAbstract: The rapid transition from reactive large language models (LLMs) to persistent, action-capable systems has exposed critical gaps in the architectural understanding of Agentic AI, particularly in separating inference, orchestration, and execution layers for autonomous AI agents. Despite recent advances, unified frameworks for designing and evaluating full-stack agentic systems remain limited. This paper presents a comprehensive, layered architecture",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "autonomous",
+        "inference"
+      ]
+    },
+    {
+      "title": "MerchantBench: Benchmarking LLM Agents for Long-Term Coherence in E-Commerce Operations",
+      "url": "https://arxiv.org/abs/2607.28956",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 04 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2607.28956v1 Announce Type: new \nAbstract: Large language model agents are increasingly evaluated as autonomous tool users, yet most benchmarks focus on bounded tasks with immediate success criteria. Real-world deployments often require Long-Term Coherence, the capacity to preserve purposeful behavior across extended horizons while adapting decisions to accumulated evidence. Evaluating this capacity requires a persistent environment in which actions constrain future choices, feedback arriv",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "autonomous",
+        "tool use"
+      ]
+    },
+    {
+      "title": "MirrorCraft: Paired Evaluation under Hidden Rule Changes in Minecraft",
+      "url": "https://arxiv.org/abs/2607.29218",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 04 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2607.29218v1 Announce Type: new \nAbstract: With the prosperity of the large language models (LLMs), it has become an interesting topic: how do LLM-based agents work in Minecraft? Unfortunately, most existing benchmarks evaluate them under fixed game mechanics. High performance in these settings does not show whether an agent can continue making progress when familiar recipes, drops, and other rules change. In this paper, we introduce MirrorCraft, a paired benchmark for evaluating agents un",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "game",
+        "Minecraft",
+        "language model"
+      ]
+    },
+    {
+      "title": "FedWorld: Scope-Aware Federation of Agent World Models",
+      "url": "https://arxiv.org/abs/2608.01561",
+      "source": "arXiv cs.HC",
+      "published_at": "Tue, 04 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.01561v1 Announce Type: new \nAbstract: Large language model (LLM) agents learn world dynamics from local interaction experience to support subsequent planning and action selection. However, the experience available to a single client is often incomplete, which motivates sharing knowledge across clients. Existing federated methods mainly aggregate model parameters, while agent memory-sharing methods commonly pool trajectories, memories, or rules without checking whether they remain vali",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "planning",
+        "memory"
+      ]
+    },
+    {
+      "title": "Beyond Component Testing: Validating Agentic AI Systems",
+      "url": "https://arxiv.org/abs/2607.29405",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 04 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2607.29405v1 Announce Type: new \nAbstract: Agentic AI systems act through multi-step trajectories that combine planning, tool use, memory, interaction, and adaptation. This behavior stretches validation practice beyond component testing and one-shot input--output evaluation, because acceptable system behavior now depends on how decisions unfold over time and under changing environmental conditions. This survey synthesizes 257 papers spanning agent evaluation, software assurance, cyber-phys",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "tool use",
+        "planning",
+        "memory"
+      ]
+    },
+    {
+      "title": "Uncertainty-Aware Simulation-Based Inference for Operations Research with Large Language Models",
+      "url": "https://arxiv.org/abs/2608.00019",
+      "source": "arXiv cs.LG",
+      "published_at": "Tue, 04 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.00019v1 Announce Type: new \nAbstract: Deploying large language models (LLMs) for operations research (OR) tasks remains challenging because correctness depends on a coherent modeling process, not merely a correct final answer. Standard autoregressive generation operates on a myopic policy, which sometimes fails to anticipate whether a partial formulation can be validly extended into a globally consistent optimization model. Consequently, locally plausible steps may propagate into cata",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "simulation",
+        "language model",
+        "inference"
+      ]
+    },
+    {
+      "title": "Shubhamsaboo / awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source. [362 stars today]",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "open source",
+        "RAG"
+      ]
+    },
+    {
+      "title": "TAPR: Enhancing LLM Performance with a Task-Aware Prompt Rewriter",
+      "url": "https://arxiv.org/abs/2607.28657",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 04 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2607.28657v1 Announce Type: new \nAbstract: Large Language Models (LLMs) often require carefully crafted prompts to unlock their full potential, which can be a barrier for non-expert users. This work addresses the challenge by introducing a Task-Aware Prompt Rewriter (TAPR), a model that reformulates user prompts into task-optimized prompts with the explicit goal of improving downstream LLM performance. We train TAPR using reinforcement learning with Group Relative Policy Optimization (GRPO",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "prompt"
+      ]
+    },
+    {
+      "title": "Reasoning in Real World Clinical Care: Why Large Language Models Are Not Yet Safe for Autonomous Clinical Decision Support",
+      "url": "https://arxiv.org/abs/2607.28677",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 04 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2607.28677v1 Announce Type: new \nAbstract: LLM now pass medical licensing examinations and, in curated cases, can rival physicians at diagnostic reasoning. These developments have accelerated the use of LLMs for symptom assessment and clinical decision support in diagnostic and treatment guidance, administrative documentation, and rules-based alert enhancement. This Perspective concerns the most consequential of these applications: the autonomous triage of self-presenting, undifferentiated",
+      "score": 8.0,
+      "keywords_matched": [
+        "LLM",
+        "language model",
+        "autonomous",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "On the Generalization of Steering Vectors for Chain-of-Thought Faithfulness",
+      "url": "https://arxiv.org/abs/2607.29062",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 04 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2607.29062v1 Announce Type: new \nAbstract: Model capabilities have improved in large part due to scaling chain of thought. This has been a promising development for AI safety--where models verbalize their reasoning, it is possible to monitor it. However, in some cases, models do not verbalize important steps in their reasoning process. For example, models prompted with a cue suggesting the incorrect answer may fail to acknowledge that cue, even when it appears instrumental to their conclus",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "vector",
+        "prompt",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Tool Specifications Matter: Uncovering and Mitigating Safety Risks in AI Agents",
+      "url": "https://arxiv.org/abs/2607.29254",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 04 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2607.29254v1 Announce Type: new \nAbstract: AI agents extend large language models (LLMs) with external tools, enabling them to perform complex tasks and translate model outputs into consequential real-world actions. Yet LLMs often become substantially less safe when deployed as agents, and the source of this degradation remains poorly understood. In this paper, we identify schema-formatted tool specifications as a primary source of agent safety degradation and show, through white-box repre",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model"
+      ]
+    },
+    {
+      "title": "Beyond Retrieval: Analytic Memory for Multimodal Agents",
+      "url": "https://arxiv.org/abs/2607.29440",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 04 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2607.29440v1 Announce Type: new \nAbstract: Long-term multimodal memory must support not only retrieving relevant information but also computing over observations accumulated across interactions. Existing systems largely emphasize \\emph{retrieval memory}, organizing interaction histories through summaries and indexes to return query-relevant information at multiple granularities, from high-level abstractions to underlying records. In this paper, we formulate \\emph{analytic memory} as a comp",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "multimodal",
+        "memory",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Self-Play Meets Skill Evolution: Self-Evolving Search Agents that Pose, Solve, and Remember",
+      "url": "https://arxiv.org/abs/2607.29468",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 04 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2607.29468v1 Announce Type: new \nAbstract: Self-play agents can generate training problems without questions from target benchmarks, but their curricula lack persistent state: failures affect gradients yet do not explicitly shape future practice. External skill memories preserve procedural experience but are typically learned from fixed task distributions. We introduce \\textbf{SESA} (Self-Evolving Skill-Augmented Agent), which makes procedural memory an evolving state of tool-augmented sea",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "memory",
+        "procedural"
+      ]
+    },
+    {
+      "title": "AMTFV: Agentic Mathematical Tool-Flow Verification for LLM Self-Correction",
+      "url": "https://arxiv.org/abs/2607.29549",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 04 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2607.29549v1 Announce Type: new \nAbstract: Large language models have demonstrated strong mathematical problem-solving capabilities, yet reliably verifying their candidate answers remains challenging. Existing representative methods mainly revise outputs through natural-language reflection or assist verification by directly generating verification programs; the former may not reliably support exact computation, whereas the latter prematurely couples mathematical modeling with low-level imp",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model"
+      ]
+    },
+    {
+      "title": "From Chasing Ghosts to Missed Attacks: Perspectives and Perceptions of SOC Practitioners on LLM Integration, Risks, and Readiness",
+      "url": "https://arxiv.org/abs/2608.00672",
+      "source": "arXiv cs.HC",
+      "published_at": "Tue, 04 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.00672v1 Announce Type: cross \nAbstract: Security Operations Centers (SOCs) process large volumes of security events, requiring analysts to accurately detect and assess ongoing cyberattacks under time pressure. Recent advances in Large Language Models (LLMs) suggest potential benefits for security operations, yet their practical suitability for real-world SOC workflows remains poorly understood. To address this gap, we conducted 25 semi-structured interviews with SOC practitioners who ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "workflow",
+        "language model"
+      ]
+    },
+    {
+      "title": "Learning Compositional Meta-Routing for Agentic Workflows: An Executable Benchmark",
+      "url": "https://arxiv.org/abs/2608.00106",
+      "source": "arXiv cs.LG",
+      "published_at": "Tue, 04 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.00106v1 Announce Type: new \nAbstract: Agentic systems must decide not only what answer to produce, but which reasoning and execution operations should precede it. A controller may answer directly, decompose a request, retrieve evidence, execute code, delegate to a specialist, or verify an intermediate result. Existing routing work largely selects model endpoints, retrieval depth, or tools in isolation. We introduce an executable benchmark and a budget-aware meta-router that composes h",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "workflow",
+        "reasoning",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Neural operator learning for collision-aware trajectory planning of spacecraft swarms",
+      "url": "https://arxiv.org/abs/2608.00320",
+      "source": "arXiv cs.LG",
+      "published_at": "Tue, 04 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.00320v1 Announce Type: new \nAbstract: Autonomous spacecraft swarms must plan fuel-efficient, collision-free maneuvers in increasingly congested orbits, yet classical trajectory optimization scales poorly as pairwise safety constraints multiply with swarm size, and learning-based planners rarely transfer across swarm sizes or debris densities. Here we introduce a permutation-equivariant neural operator that maps distributions of spacecraft, targets and debris to collision-aware traject",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "neural",
+        "autonomous",
+        "planning"
+      ]
+    },
+    {
+      "title": "Unleashing the Potential of Large Language Models: A Blueprint for Real-Time, Enterprise-Ready Deployments",
+      "url": "https://arxiv.org/abs/2608.00419",
+      "source": "arXiv cs.LG",
+      "published_at": "Tue, 04 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.00419v1 Announce Type: new \nAbstract: Large language models deployed in real-time, regulated settings face knowledge staleness, catastrophic forgetting, hallucination, and weak feedback loops. We present a unified, pattern-driven LLMOps architecture integrating real-time data ingestion, continual learning, retrieval-augmented generation (RAG), and human-in-the-loop feedback into a single operational pipeline. Four contributions map to established software design patterns: an adaptive ",
+      "score": 8.0,
+      "keywords_matched": [
+        "LLM",
+        "language model",
+        "RAG",
+        "retrieval"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-08-05\n\n嘿！我是你的\"疯狂发明家技术雷达\"。今天从候选列表中过滤掉了一堆无聊的基准测试和常规新闻，为你精选了 **4 个最能打通游戏、Agent 架构与自动化工具链的硬核项目/论文**。\n\n---\n\n## [MirrorCraft] 当 Minecraft 世界隐蔽修改规则，Agent 如何不崩溃？\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2607.29218\n- 一句话解释：在 Minecraft 中动态修改游戏底层机制（如合成表改变、掉落物置换），测试 LLM Agent 在规则突变下的归纳推理与适应能力。\n- 它为什么重要：大部分 AI 游戏体只是在“死记硬背”固定的 Wiki。真正有趣的涌现和智能，来自于**规则被打破后的推演与突变**——这不仅是智能基准，更是极佳的游戏机制设计视角。\n- 技术趋势标签：`Minecraft` `Game Systems` `Dynamic Rules` `Agent Adaptation`\n- 可复用模式：**隐性规则诱发测试（Hidden Rule Perturbation）** —— 接口保持不变，但改变底层逻辑，强制 Agent 形成新假设并进行自省。\n- 疯狂发明家灵感：\n  1. **一个小实验**：写一个极简网格环境，把“按上变向左”设为隐藏规则，看 LLM 几步能更新内建物理假说。\n  2. **一个中型项目**：Minecraft 疯人院 Mod —— 打造一个物理/合成法则每日随机突变的模拟世界，让 Agent 尝试求生并记录它们的“迷信行为”。\n  3. **一个艺术/游戏/叙事方向**：**《失语法则》交互叙事游戏** —— 玩家与 AI NPC 处于一个自然法则逐渐失效的世界，NPC 必须通过观察玩家的荒谬行为来重新推演“神意”（规则）。\n- 对我项目的启发：在设计 Agent 或 Spec 时，加入“假设检验”机制，别让 Agent 盲目依赖固化的系统 Prompt，而是具有试错自省能力。\n- 今天是否值得深入研究：是\n- 建议行动：做demo\n\n---\n\n## [SESA] 自己给自己出题、解题并进化技能树的自演进化 Agent\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2607.29468\n- 一句话解释：Agent 通过 Self-Play 自动提出难题（Pose）、解决难题（Solve），并将解决策略打包为可复用的程序化技能（Remember）。\n- 它为什么重要：它把零散的 CoT（思维链）推理转化为了**可积累的代码/技能资产**。这与 Spec-Driven 开发和自动化系统的终极目标完全一致。\n- 技术趋势标签：`Procedural Skill` `Self-Play` `Agent Memory` `Auto-Curriculum`\n- 可复用模式：**“提问者-解答者-技能归档器”三元环（Pose-Solve-Archive Loop）**。\n- 疯狂发明家灵感：\n  1. **一个小实验**：让一个 LLM 随机提出 p5.js 视觉效果需求，另一个 LLM 实现并把复用率高的图形逻辑自动封装为 `.js` 模板库。\n  2. **一个中型项目**：自演化的 Creative Coding 助手 —— Agent 自动探索图形算法，将成功的设计风格打包成可调参的 Shader 节点树。\n  3. **一个艺术/游戏/叙事方向**：**《自生成工匠》** —— 一个在沙盒世界里自己发明工具、构建建筑范式的 AI 工匠，玩家通过收集它发明的“工具卡牌”与其合作。\n- 对我项目的启发：Agent 的持久化记忆不应当只是文本日志，而应当是**可执行的代码/技能库（Skill-as-Code）**。\n- 今天是否值得深入研究：是\n- 建议行动：试用\n\n---\n\n## [Analytic Memory] 分析型记忆：AI 记忆不再只是检索，而是可“计算”的时空账本\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2607.29440\n- 一句话解释：突破传统 RAG 的“按相似度搜片段”，为多模态 Agent 建立能够跨时空进行聚合、统计与逻辑计算的“分析型记忆”。\n- 它为什么重要：传统的检索记忆只能回答“我见过什么”，而分析型记忆能回答“这种行为模式在过去三天出现的频率趋势是什么”，是构建真正长期跨度 HCI 的关键。\n- 技术趋势标签：`Multimodal Memory` `Analytic Memory` `HCI` `Generative Systems`\n- 可复用模式：**时空聚合数据流（Spatiotemporal Analytic Ledger）** —— 在 Memory 上层挂载一个可编程计算引擎，而非直接把原始日志丢给 Vector Store。\n- 疯狂发明家灵感：\n  1. **一个小实验**：写一个轻量脚本记录你半天的屏幕截图，让 Agent 计算并绘制你的“注意力集中度与应用切换频率”导数曲线。\n  2. **一个中型项目**：设计过程隐形侦探 —— 自动追踪创作软件（如 Figma/Blender）操作历史，分析并生成你的“设计思维惯性报告”。\n  3. **一个艺术/游戏/叙事方向**：**《回忆计算器》交互装置** —— AI 扫描观众的照片库，不展示原图，而是将观众几年的生活轨迹“计算”并现场绘制成一副抽象的心理地形图。\n- 对我项目的启发：为自动化工作流注入一个“指标分析层”，让系统能像监控仪表盘一样审视自己的历史轨迹。\n- 今天是否值得深入研究：是\n- 建议行动：收藏\n\n---\n\n## [Meta-Routing] 组合式元路由：Agentic Workflow 的智能调度指挥官\n- 来源：arXiv cs.LG\n- 链接：https://arxiv.org/abs/2608.00106\n- 一句话解释：训练轻量级元路由器（Meta-Router），根据任务复杂度动态编排 Agent 是直接回答、分解任务、写代码还是派发给特定专家。\n- 技术趋势标签：`Agentic Workflow` `Meta-Routing` `Spec-Driven` `Automation`\n- 它为什么重要：写死的工作流（如固定 LangGraph 节点）太僵硬，全交给大模型决策又贵又慢。元路由实现了工作流拓扑结构（Topology）的**自适应流式编排**。\n- 可复用模式：**分层意图路由（Hierarchical Intent Router）** —— 基于规则或小模型根据上下文 Spec 动态切换工作流管道。\n- 疯狂发明家灵感：\n  1. **一个小实验**：构建极简 Router 脚本，根据用户输入 Prompt 的结构复杂度，自动分流到 Fast-LLM、RAG 管道或多 Agent 协作网络。\n  2. **一个中型项目**：Spec-Driven 代码生成引擎 —— 输入一个需求 Spec，Meta-Router 自动决定是串行写代码、并行写测试，还是调用静态分析工具。\n  3. **一个艺术/游戏/叙事方向**：**《AI 剧场导演系统》** —— 根据现场观众的反应实时评估“混沌度”，Meta-Router 动态切换演员 Agent 的推理深度与剧本分支。\n- 对我项目的启发：在设计系统的 Spec 时，不要死板定义 Flow，而是定义 Router 的决策规范（Router Spec）。\n- 今天是否值得深入研究：否（概念重要，但具体实现可直接先用轻量代码模拟）\n- 建议行动：试用\n\n---\n\n## 今日模式总结\n\n1. **技能与记忆的代码化/结构化（Skill-as-Code & Analytic Memory）**：AI 的长期演化正从“追加 RAG 纯文本”向“编译为可执行代码/计算账本”转变。\n2. **法则扰动与自适应（Hidden Rule Perturbation）**：从“拟合静态环境”走向“在未知/突变法则下动态推演假设”，这是游戏 AI 和健壮 Agent 的新趋势。\n3. **元路由驱动拓扑（Meta-Routing Topology）**：工作流编排不该写死，也不该全交给耗时的大模型，应该用轻量路由规范进行流式编排。\n\n---\n\n## 今日可做小实验：RuleShift-Agent（规则突变求生 Agent）\n\n一个 2 小时内可完成的实验，体验 AI 在物理规则突变下的假设推演过程：\n\n- **项目名**：`RuleShift-Agent`\n- **输入**：一个简易文本网格环境，隐藏逻辑被修改（例如：动作 `'UP'` 实际效果是向左走；`'EAT_APPLE'` 实际效果是扣血）。\n- **输出**：Agent 的终端实时日志，包含它维护的 `<Hypothesis>`（对世界物理规则的假设）与更新轨迹，最终成功脱困。\n- **技术栈**：Python + OpenAI / Claude API (或 Ollama 本地模型)。\n- **第一步怎么做**：\n  1. 创建一个 Python 文件，写一个 5x5 的文本 GridWorld 类，写死隐藏规则字典：`rule_map = {'UP': 'LEFT', 'EAT': 'DAMAGE'}`。\n  2. 编写 Prompt，要求 Agent 每次行动返回固定格式：\n     ```json\n     {\n       \"Hypothesis\": \"我猜测 UP 实际上是向左移动...\",\n       \"Action\": \"MOVE_RIGHT\"\n     }\n     ```\n  3. 将环境反馈（如 `\"你执行了 UP，但坐标变成了 [0, 1]\"`）喂回 Agent，观察它几轮内能校正假说并通关。",
+  "gemini_success": true,
+  "telegram_sent": false,
+  "telegram_status": "failed",
+  "telegram_reason": "400 Client Error: Bad Request for url: https://api.telegram.org/bot8650722899:AAHUD-aqNDB7NwiPiGq3R22MVp77Cr_5GEQ/sendMessage"
+}
