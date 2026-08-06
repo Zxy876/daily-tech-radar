@@ -1,0 +1,298 @@
+{
+  "date": "2026-08-06",
+  "candidates": [
+    {
+      "title": "HyperAgent: Planning and Acting over Tool-Schema Hypergraphs for Tool-Use LLM Agents",
+      "url": "https://arxiv.org/abs/2608.02650",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 05 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.02650v1 Announce Type: new \nAbstract: Large language model (LLM) agents increasingly rely on external tools to complete complex real-world tasks. However, reliable tool-use planning remains challenging due to the limitations of implicit reasoning and the evolving nature of real-world execution environments. Existing tool-use agents typically rely on LLMs to infer tool compositions from textual descriptions, which can lead to inefficient exploration and unreliable execution in complex ",
+      "score": 14.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "RAG",
+        "reasoning",
+        "planning"
+      ]
+    },
+    {
+      "title": "Automated Visualization Code Synthesis via Multi-Path Reasoning and Feedback-Driven Optimization",
+      "url": "https://arxiv.org/abs/2502.11140",
+      "source": "arXiv cs.HC",
+      "published_at": "Wed, 05 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2502.11140v4 Announce Type: replace-cross \nAbstract: Large Language Models (LLMs) have become a cornerstone for automated visualization code generation, enabling users to create charts through natural language instructions. Despite improvements from techniques like few-shot prompting and query expansion, existing methods often struggle when requests are underspecified in actionable details (e.g., data preprocessing assumptions, solver or library choices, etc.), frequently necessitating man",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "code generation",
+        "prompt",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Getting the Parameters Right: A Difficulty-Graded Benchmark and Probe-Guided Training for LLM Tool Calls",
+      "url": "https://arxiv.org/abs/2608.03071",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 05 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.03071v1 Announce Type: new \nAbstract: Large language model agents derive much of their capability from tool use. Existing research on tool use has largely focused on selecting the right tool and orchestrating the order of calls. However, correctly filling the parameters of a tool call is equally critical for successful execution and has received far less attention. In domains such as cloud networking, even frontier models correctly complete fewer than half of tool calls. Inspired by r",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "tool use"
+      ]
+    },
+    {
+      "title": "Verifiable Memory: Learning Unified Memory Management with Local and Global Verifiers for Large Language Model Agents",
+      "url": "https://arxiv.org/abs/2608.03137",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 05 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.03137v1 Announce Type: new \nAbstract: Large language model (LLM) agents must retain reusable information, control a bounded active context, and recover earlier evidence during long-horizon interaction. Existing methods commonly optimize long-term memory (LTM) and short-term memory (STM) separately, while unified policies are often trained primarily with trajectory-level feedback, which provides weak credit for individual memory decisions. We present Verifiable Memory (VerMem), a frame",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "memory"
+      ]
+    },
+    {
+      "title": "ATFlash: Per-RoPE-Wavelength Attention Windows for Compute/Memory-Efficient LLM Inference",
+      "url": "https://arxiv.org/abs/2608.02947",
+      "source": "arXiv cs.LG",
+      "published_at": "Wed, 05 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.02947v1 Announce Type: new \nAbstract: The attention score with rotary position embeddings (RoPE) decomposes exactly into a sum over its 2D-rotation frequency pairs, and each pair's wavelength limits how far it can discriminate position. Aligned with this structure, we propose the per-RoPE-wavelength distance window: it prunes the query--key inner-product terms beyond a wavelength-proportional distance. Unlike a sliding window, every key remains reachable, at least through the low-freq",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "embedding",
+        "inference",
+        "memory"
+      ]
+    },
+    {
+      "title": "ISEE: Interactive Semantic Enrichment for Database Fields",
+      "url": "https://arxiv.org/abs/2608.02604",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 05 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.02604v1 Announce Type: new \nAbstract: LLM-based agents are increasingly being deployed for data-related tasks, including data sense-making, exploration, and retrieval. However, their performance heavily depends on the clarity and completeness of data semantics. In practice, many field descriptions remain ambiguous or incomplete, as much of the essential context (e.g., the meaning of a customized field) originates from users' domain knowledge and is rarely documented publicly. This gap",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Interpreting Black-Box Large Language Models with Sentence-Level Energy Landscapes",
+      "url": "https://arxiv.org/abs/2608.02879",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 05 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.02879v1 Announce Type: new \nAbstract: The widespread adoption of proprietary Large Language Models (LLMs) accessed strictly through closed APIs has created a critical challenge for responsible deployment: a fundamental lack of interpretability. To address this, we propose a model-agnostic, post-hoc attribution interpreter operating at the sentence level. Our approach trains an Energy-Based Model (EBM) as a surrogate to capture the LLM's internal conceptual consistency between prompts ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "prompt"
+      ]
+    },
+    {
+      "title": "CastFSR: A Fast--Slow--Reflect Agentic Reasoning Framework for Context-Aware Time Series Forecasting",
+      "url": "https://arxiv.org/abs/2608.03031",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 05 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.03031v1 Announce Type: new \nAbstract: Time series forecasting is fundamental to decision-making in complex systems, where future dynamics are influenced not only by historical observations but also by evolving contextual features. Recent advances in large language models (LLMs) have extended forecasting beyond numerical extrapolation toward context-aware reasoning. However, existing approaches often lack explicit mechanisms to identify relevant contexts, reason about their impacts, an",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Beyond Average Performance: Dynamic Instance Clustering and Specialized Algorithm Design in LLM-Assisted Evolutionary Search",
+      "url": "https://arxiv.org/abs/2608.03129",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 05 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.03129v1 Announce Type: new \nAbstract: Large Language Model-assisted Evolutionary Search (LES) has emerged as a powerful paradigm for automated algorithm design. However, existing LES methods primarily optimize for average performance, inherently directing search effort toward instances that contribute most to this metric while leaving others poorly served, resulting in weak tail robustness and limited real-world reliability. To address this limitation, we propose Dynamic Instance Clus",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "RAG"
+      ]
+    },
+    {
+      "title": "Evidence-Grounded Multimodal Knowledge Graph Construction for Multi-Lecture Educational Reasoning",
+      "url": "https://arxiv.org/abs/2608.03161",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 05 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.03161v1 Announce Type: new \nAbstract: Lecture videos distribute knowledge across speech, slide text, diagrams, equations, and presentation order, which transcript-only retrieval does not fully preserve. This paper presents an evidence-grounded multimodal pipeline that transcribes lectures, selects semantic anchors, applies optical character recognition (OCR), and uses a vision-language model to extract only concepts and typed relationships supported by transcript, OCR, or visual evide",
+      "score": 8.0,
+      "keywords_matched": [
+        "language model",
+        "multimodal",
+        "reasoning",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "The Agent Operating System (AOS): A Reference Operating Architecture for Distributed Agentic Systems",
+      "url": "https://arxiv.org/abs/2608.03214",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 05 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.03214v1 Announce Type: new \nAbstract: Large language models have transformed artificial intelligence from isolated prediction services into components of long-running, distributed systems that reason, invoke tools, retrieve external state, delegate tasks, and act on behalf of users and organizations. The surrounding ecosystem has responded with agent frameworks, workflow engines, model-serving platforms, memory systems, communication protocols, and observability tools. These technolog",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "workflow",
+        "language model",
+        "memory"
+      ]
+    },
+    {
+      "title": "Chat Debugging: An Exploratory Study of Human-AI Collaboration to Debug Analog Circuits",
+      "url": "https://arxiv.org/abs/2608.02955",
+      "source": "arXiv cs.HC",
+      "published_at": "Wed, 05 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.02955v1 Announce Type: new \nAbstract: This research paper describes an exploratory study on the effectiveness of Chat Debugging: troubleshooting malfunctioning analog circuits on breadboards and printed circuit boards (PCB) by undergraduates through conversations with public-domain large language models (LLMs). Through thematic analysis of students' voluntarily shared chat logs when debugging pre-determined buggy circuits under exam and time pressure, we discovered multimodal usage pa",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "multimodal"
+      ]
+    },
+    {
+      "title": "Cross-cultural evaluation of taste-sound correspondences in AI-generated music",
+      "url": "https://arxiv.org/abs/2608.03433",
+      "source": "arXiv cs.HC",
+      "published_at": "Wed, 05 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.03433v1 Announce Type: new \nAbstract: Sonic seasoning research has shown that listeners attribute systematic gustatory and emotional meaning to sound, and text-to-music generative artificial intelligence has recently been used to render gustatory prompts as musical stimuli. Whether the taste-sound correspondences acquired by such models hold beyond the cultural context in which they were validated remains untested. We extended a single-country study to a three-country online experimen",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "generative art",
+        "prompt",
+        "generative"
+      ]
+    },
+    {
+      "title": "Semantic Bundling: Interactive Node and Edge Bundling to Simplify Knowledge Graphs using Large Language Models",
+      "url": "https://arxiv.org/abs/2608.04002",
+      "source": "arXiv cs.HC",
+      "published_at": "Wed, 05 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.04002v1 Announce Type: new \nAbstract: We present Semantic Bundling, a visual analytics technique for making sense of text documents represented as knowledge graphs (KGs). Representing a document corpus as a KG makes relationships between entities explicit, making KGs useful both to analyze directly and in computational workflows including ML pipelines and generative AI backends. However, as KGs grow they become difficult to interpret and visualize for specific tasks (e.g., the ``hairb",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "workflow",
+        "language model",
+        "generative"
+      ]
+    },
+    {
+      "title": "AirKey: Multimodal Acoustic-Assisted WiFi Sensing for Zero-Training Robust PIN Inference",
+      "url": "https://arxiv.org/abs/2608.03151",
+      "source": "arXiv cs.HC",
+      "published_at": "Wed, 05 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.03151v1 Announce Type: cross \nAbstract: Contactless keystroke inference via WiFi sensing highlights severe privacy threats, yet its real-world feasibility is hindered by two fundamental physical and deployment bottlenecks: the strict requirement for network privileges to acquire stable sensing streams, and the inherent \"waveform fusion\" ambiguity of pure WiFi signals during rapid, muscle-memory typing. To overcome these limitations, we propose AirKey, a novel cross-modal sensing frame",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "multimodal",
+        "inference",
+        "memory"
+      ]
+    },
+    {
+      "title": "ChartAnno: Evaluating MLLMs for Chart Annotation Generation",
+      "url": "https://arxiv.org/abs/2608.03464",
+      "source": "arXiv cs.HC",
+      "published_at": "Wed, 05 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.03464v1 Announce Type: cross \nAbstract: Multimodal large language models (MLLMs) have made significant progress in chart understanding, generation, and editing, but their ability to annotate existing charts remains underexplored. Annotating charts is a common yet challenging communicative task, requiring models to infer intended messages, interpret chart semantics, and place appropriate textual or graphical elements. To address this gap, we introduce ChartAnno, a benchmark for evaluat",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "multimodal"
+      ]
+    },
+    {
+      "title": "Beyond Text: Probing K-12 Educators' Perspectives and Ideas for Learning Opportunities Leveraging Multimodal Large Language Models",
+      "url": "https://arxiv.org/abs/2507.20720",
+      "source": "arXiv cs.HC",
+      "published_at": "Wed, 05 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2507.20720v3 Announce Type: replace \nAbstract: Multimodal Large Language Models (MLLMs) are beginning to enable new user experiences from generated content across a range of media, including images, text, speech, and video. These capabilities have the potential to enrich learning by enabling users to interact with information using a variety of modalities, but little is known about how \\textit{educators} envision how MLLMs might shape the future of learning, what challenges they encounter ",
+      "score": 8.0,
+      "keywords_matched": [
+        "LLM",
+        "language model",
+        "multimodal",
+        "RAG"
+      ]
+    },
+    {
+      "title": "Multimodal Auto-regressive Transformer Surrogate for Modeling Variable Operations and Quantifying Uncertainty in Geological Carbon Storage",
+      "url": "https://arxiv.org/abs/2608.02629",
+      "source": "arXiv cs.LG",
+      "published_at": "Wed, 05 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.02629v1 Announce Type: new \nAbstract: The use of variable well perforation and injection strategies can improve the efficiency of geological carbon storage operations. We develop a new multimodal auto-regressive transformer surrogate to model these operations under geological uncertainty. A modified SEAM CO2 geomodel, which involves a faulted system with three stacked aquifers, is considered. The two injection wells are perforated in stages, from bottom to top, with the stage duration",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "transformer",
+        "multimodal",
+        "RAG"
+      ]
+    },
+    {
+      "title": "NANQ: Noise-Floor-Aware Mixed-Precision Non-Uniform Quantization for Analog Compute-in-Memory",
+      "url": "https://arxiv.org/abs/2608.02700",
+      "source": "arXiv cs.LG",
+      "published_at": "Wed, 05 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.02700v1 Announce Type: new \nAbstract: Analog compute-in-memory (CIM) enables energy-efficient neural network inference, but device variation and read noise can severely degrade low-bit quantized models. Existing CIM-oriented quantization methods mainly minimize ideal quantization error, ignoring the hardware noise floor and thus causing inefficient precision allocation. We propose NANQ, a noise-aware mixed-precision non-uniform quantization framework for analog CIM. NANQ models magnit",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "neural",
+        "inference",
+        "memory"
+      ]
+    },
+    {
+      "title": "Maglev: Sliding Recurrent Memory",
+      "url": "https://arxiv.org/abs/2608.02870",
+      "source": "arXiv cs.LG",
+      "published_at": "Wed, 05 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.02870v1 Announce Type: new \nAbstract: We introduce \\ours{}, a recurrent Transformer architecture with fixed-size memory that generalizes sliding-window attention while remaining parallelizable during training. \\ours{} consists of two coupled models: a prefiller $Q$, which leverages full attention\\footnote{In practice, we use interleaved full and sliding-window attention for $Q$, as this yields stronger performance. The essential requirement is that $Q$ be more expressive than $P$, wit",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "transformer",
+        "RAG",
+        "memory"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-08-06\n\n嘿，很高兴为你服务！我是你的**疯狂发明家技术雷达**。\n\n今天我从 20 篇最新候选论文中，精选了 **4 篇** 最具启发性、最适合“设计/艺术 + CS”跨学科背景且能直接转化为狂野项目灵感的内容。没有无聊的科技新闻，只有可落地的机制、新奇的模式与狂热的实验。\n\n---\n\n## 1. HyperAgent: 基于工具 Schema 超图的 Agent 规划与执行\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2608.02650\n- **一句话解释**：将复杂工具调用中的多对多依赖与参数约束抽象为“超图”（Hypergraph），解决 LLM Agent 在复杂环境下的非线性规划崩溃问题。\n- **它为什么重要**：现有的 Agent 工具调用要么是线性的 ReAct，要么是简单的 DAG 图。但在复杂的 Spec-driven 自动化或复杂的系统调用中，输入输出往往是“多对多”的。超图模式为复杂工具链（Toolchain）和 Spec 驱动开发提供了极其严密的拓扑数学结构。\n- **技术趋势标签**：Agent Workflow / Spec-Driven Architecture / Hypergraph Planning / Automation\n- **可复用模式**：超图约束图解剖（Hypergraph Dependency Schema）\n- **疯狂发明家灵感**：\n  1. **一个小实验**：写一个轻量级超图解析器，输入自然语言需求，自动把 Python 里的 10 个独立函数连接成一个“超图工具网”，打印出依赖路径。\n  2. **一个中型项目**：Spec-Driven 架构重构 Agent——输入一段复杂系统的 Spec 说明书，Agent 将组件关系转化为超图，自动并行调度多个 Code-Agent 填充每个节点的代码实现。\n  3. **一个艺术/游戏/叙事方向**：“逻辑规则融合”游戏引擎——玩家在游戏里组合不同概念（如“冰冻 + 机械 + 爆破”），Agent 在超图数据库中寻优，把不同游戏机制代码无缝拼装成一个新的可运行游戏小模块。\n- **对我项目的启发**：如果你在构建复杂 Agent 工作流，不要停留在 Chain 或 DAG，尝试用“超图”来抽象模块间的复杂参数依赖。\n- **今天是否值得深入研究**：是\n- **建议行动**：做demo\n\n---\n\n## 2. LLM 辅助进化搜索：基于动态聚类与专项算法设计的超进化范式\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2608.03129\n- **一句话解释**：将 LLM 作为基因突变和交叉算子，结合问题群落的动态聚类，进化出专门解决长尾/极端难题的代码与算法。\n- **它为什么重要**：LLM 一次性生成复杂算法往往容易挂掉，但把 LLM 接入“进化算法（Evolutionary Search）”回路，让代码像生物一样变异演化，是自动代码生成和生成式设计（Generative Design）的杀手锏。\n- **技术趋势标签**：LLM-Driven Evolution / Procedural Content Generation (PCG) / Creative Coding\n- **可复用模式**：生成-评估-聚类-针对性变异（LLM-Evolutionary Loop）\n- **疯狂发明家灵感**：\n  1. **一个小实验**：编写 Python 脚本，用 LLM 作为变异引擎，通过进化算法迭代生成能画出极简分形图案的 p5.js 代码。\n  2. **一个中型项目**：Minecraft 异形建筑算法进化器——设定物理与美学约束（如悬浮感、对称性、防爆性），让 LLM 进化出生成无尽异形建筑结构的 Procedural Python 脚本。\n  3. **一个艺术/游戏/叙事方向**：进化式 NPC 心理机制——让 NPC 行为树在 simulated 冲突环境中演化，几百代后进化出性格极其怪异但能自我维系的游戏社会关系网络。\n- **对我项目的启发**：结合 Creative Coding 和世界生成（PCG/Minecraft），LLM + 进化算法是自动制造无尽复杂内容的最强范式。\n- **今天是否值得深入研究**：是\n- **建议行动**：做demo\n\n---\n\n## 3. The Agent Operating System (AOS)：分布式 Agent 系统的参考操作系统架构\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2608.03214\n- **一句话解释**：系统化提炼出分布式 Agent 的“操作系统架构”，将内存管理、并发调度、系统调用和权限隔离映射为 OS 标准原语。\n- **它为什么重要**：Agent 框架目前花里胡哨但杂乱无章。这篇论文直接站在“操作系统”视角统一抽象。对于想搞 Agent 自动化、工程化开发工具链的人来说，这是一份极佳的 Spec 设计蓝图。\n- **技术趋势标签**：Agent Architecture / Agent OS / System Infrastructure / Orchestration\n- **可复用模式**：Agent-as-a-Process / Context-Switching / System-Call Abstraction\n- **疯狂发明家灵感**：\n  1. **一个小实验**：设计一个终端 CLI 工具（如 `agent-top`），把正在运行的几个 LLM Prompt 任务当成 OS 进程管理，支持随时挂起（Pause）、转储内存（Memory Dump）和恢复。\n  2. **一个中型项目**：Spec-Driven Agent 虚拟沙箱——多个 Agent 在一个虚拟 OS 里通过 IPC（进程间通信）共享上下文，实现无锁并发的代码编写与测试。\n  3. **一个艺术/游戏/叙事方向**：“智能体小镇”底层调度系统——把游戏世界（如 Minecraft/RPG）里的 NPC 直接映射为系统进程，支持优先级抢占（如敌人袭击时自动打断闲聊进程，唤醒战斗进程）。\n- **对我项目的启发**：思考你的 Agent 系统时，用 OS 的思维（中断、线程、上下文切换、句柄）去设计抽象层，工程质量会翻倍。\n- **今天是否值得深入研究**：是\n- **建议行动**：试用\n\n---\n\n## 4. 跨文化 AI 生成音乐中的“味觉-声音”联觉评估\n- **来源**：arXiv cs.HC\n- **链接**：https://arxiv.org/abs/2608.03433\n- **一句话解释**：探索生成式 AI 如何将“味觉提示词”（如酸、甜、苦、辣、鲜）转译为声学音乐，并评估跨文化场景下的联觉感知。\n- **它为什么重要**：打破了传统的“文本生成图像/音频”范式，把交互和生成带入了“跨感官联觉（Sonic Seasoning / Synesthesia）”的新领域，对 HCI 和跨媒体艺术装置有极大的启发。\n- **技术趋势标签**：HCI / Synesthesia / Creative Multimodal / Generative Art\n- **可复用模式**：跨感官隐喻映射（Cross-sensory Mapping Matrix）\n- **疯狂发明家灵感**：\n  1. **一个小实验**：写一个简单的交互网页，用户拖动“酸甜苦辣”四味滑块，实时改变一段 Web Audio 算法生成的音色和节奏。\n  2. **一个中型项目**：“声音调味”交互装置——利用摄像头识别用户手里的食物/饮料（比如一杯黑咖啡），自动生成一段能“在心理学上增强甜味感知”的实时环境音效。\n  3. **一个艺术/游戏/叙事方向**：感官倒错（Synesthesia）探索游戏——玩家作为一名“联觉魔药师”，在游戏里的烹饪操作（味觉）会直接改变游戏世界的音乐、光影和重力系统。\n- **对我项目的启发**：做 HCI 或艺术科技项目时，尝试将输入模态拉到“非传统感官”（味觉、触觉、情绪），往往能碰撞出极具惊艳感的产品体验。\n- **今天是否值得深入研究**：是\n- **建议行动**：收藏\n\n---\n\n## 今日模式总结\n\n1. **结构化与进化式的复杂生成（Structural & Evolutionary Generation）**：不要再让 LLM 一次性生成庞大内容，要么使用**超图**约束复杂依赖，要么使用**进化算法**进行群落变异，这是生成复杂逻辑代码/世界算法的核心途径。\n2. **Agent 基础设施的 OS 化（Agent System as OS）**：Agent 已经从简单的 Prompt 脚本走向系统工程，**中断、调度、内存转储、进程隔离**成为了新一代 Agent Workflow 的标准设施。\n3. **跨感官交互（Cross-modal Synesthesia）**：多模态 AI 正从“看与说”延伸至“听觉-味觉-空间”的跨感官映射，为交互设计（HCI）提供了全新的灵感空间。\n\n---\n\n## 今日可做小实验：LLM-P5-Evolver (2小时速通)\n\n一个基于 LLM 突变演化的 p5.js 生成艺术“基因选择器”。\n\n- **项目名**：LLM-P5-Evolver\n- **输入**：一段艺术描述 Prompt（例：“生成一个由 30 个动态旋转渐变圆圈构成的抽象迷幻花朵”）\n- **输出**：一个 2x2 网格网页，展示 4 个并行运行的 p5.js 画布；点击你最喜欢的一个，LLM 会基于它“突变”生成 4 个新代际画布。\n- **技术栈**：HTML/JS (p5.js + `iframe` 动态渲染), Python (Flask/FastAPI), OpenAI API (或 Anthropic API).\n- **第一步怎么做**：\n  1. **写后端 API**：写一个 Python 函数，接收父代 p5.js 代码，组装 Prompt：“*你是一个生成艺术突变算子。修改以下 p5.js 代码，保留其基本结构，加入 20% 的随机参数或数学公式变异（如改变颜色算法、运动逻辑），仅返回纯代码：[父代代码]*”。\n  2. **写前端 UI**：用 HTML 写一个 2x2 网格，放 4 个 `<iframe srcdoc=\"...\"></iframe>`。初始化时让 LLM 生成 4 个基础种群代码并装载进 iframe。\n  3. **加点击事件**：点击任意一个 iframe，将该 iframe 内的代码作为“亲本代码”发给后端，生成 4 个新突变体并刷新页面！",
+  "gemini_success": true,
+  "telegram_sent": true,
+  "telegram_status": "sent",
+  "telegram_reason": ""
+}
