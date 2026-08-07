@@ -1,0 +1,303 @@
+{
+  "date": "2026-08-07",
+  "candidates": [
+    {
+      "title": "promptfoo / promptfoo",
+      "url": "https://github.com/promptfoo/promptfoo",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic. [48 stars today]",
+      "score": 14.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "Gemini",
+        "GPT",
+        "RAG",
+        "prompt"
+      ]
+    },
+    {
+      "title": "Architectural Implications of Agentic AI Workflows",
+      "url": "https://arxiv.org/abs/2608.04458",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 06 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.04458v1 Announce Type: new \nAbstract: Agentic AI is emerging in datacenters, but its architectural implications remain unexplored. We organize agentic workflows in a taxonomy and present its first architectural characterization with a production study at Microsoft Azure and a controlled study of open-source frameworks. We show that agentic execution is fragmented and heterogeneous. Requests expand into a workflow of LLM inferences, tool invocations, and orchestration decisions that re",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "workflow",
+        "RAG",
+        "inference"
+      ]
+    },
+    {
+      "title": "Diamonds in the rough: Transforming SPARCs of imagination into a game concept by leveraging medium sized LLMs",
+      "url": "https://arxiv.org/abs/2509.24730",
+      "source": "arXiv cs.HC",
+      "published_at": "Thu, 06 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2509.24730v2 Announce Type: replace \nAbstract: Recent research has demonstrated that large language models (LLMs) can support experts across various domains, including game design. In this study, we examine the utility of medium-sized LLMs, models that operate on consumer-grade hardware typically available in small studios or home environments. We began by identifying ten key aspects that contribute to a strong game concept and used ChatGPT to generate thirty sample game ideas. Three mediu",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "game",
+        "GPT",
+        "language model",
+        "RAG"
+      ]
+    },
+    {
+      "title": "FinPerMA: A Theory-Informed, Event-Grounded Personalized-Memory Benchmark for LLM Agents",
+      "url": "https://arxiv.org/abs/2608.04095",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 06 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.04095v1 Announce Type: new \nAbstract: Large language model (LLM) agents are increasingly used as personalized assistants in high-stakes domains such as financial advising, yet it remains unclear whether they can maintain and update an individualized user model over long horizons. Existing personalized-memory benchmarks primarily test factual retention or rely on weakly constrained model-generated trajectories, leaving event-driven preference adaptation underexplored. We introduce FinP",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "memory"
+      ]
+    },
+    {
+      "title": "Improving Auto-Design of Neural PDE Solvers with a Domain-Specific Language",
+      "url": "https://arxiv.org/abs/2608.04384",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 06 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.04384v1 Announce Type: new \nAbstract: Neural PDE solver auto-design is fundamentally a search-space representation problem. In the space of unrestricted Python programs, valid solvers form an extremely sparse subset: most candidate programs are syntactically incorrect, semantically incompatible, or numerically unstable. Direct code generation therefore forces an LLM to spend most of its search capacity navigating implementation failures rather than reasoning about solver quality. ADSL",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "neural",
+        "code generation",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "When Prompts Become Pixels: Prompt-Region Grounding for Multimodal Reasoning",
+      "url": "https://arxiv.org/abs/2608.04726",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 06 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.04726v1 Announce Type: new \nAbstract: Multimodal large language models increasingly reason over screenshots and documents where the task itself may be written in pixels. Yet benchmarks usually place questions in text, leaving it unclear whether models use the same instruction equally well across channels. We introduce Visualized Task Semantics (VTS), a controlled intervention that moves the question into the image while keeping the source problem and answer fixed. Across six MLLMs and",
+      "score": 10.0,
+      "keywords_matched": [
+        "LLM",
+        "language model",
+        "multimodal",
+        "prompt",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Hierarchical Graph Memory for LLM Agents with Path-level Localization and Rewrite",
+      "url": "https://arxiv.org/abs/2608.05095",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 06 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.05095v1 Announce Type: new \nAbstract: Agents for long term reasoning require a memory that can be efficiently and effectively updated over time, as new facts and external feedback continue to arrive. Recently, graph memory has been adopted to offer structural organization for multi-hop retrieval and reasoning. However, existing methods store all memories in a flat graph, and accumulated historical memories can introduce irrelevant contexts and increase the cost of evidence selection d",
+      "score": 10.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "reasoning",
+        "memory",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers",
+      "url": "https://arxiv.org/abs/2608.04166",
+      "source": "arXiv cs.HC",
+      "published_at": "Thu, 06 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.04166v1 Announce Type: new \nAbstract: Generative AI agents are increasingly used in interaction design to facilitate ideation and offer critique, often following their own internal reasoning. These interactions tend to add design ideas and expand the design space. Our work explores an antagonistic role for design agents, prompting designers to engage with stakeholder tension. We built an AI agent inspired by adversarial design theory that enacts constructive conflict. We examine the a",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "prompt",
+        "reasoning",
+        "generative"
+      ]
+    },
+    {
+      "title": "OneDayAgent: Towards a Long-Horizon Harness for Autonomous Agents",
+      "url": "https://arxiv.org/abs/2608.05013",
+      "source": "arXiv cs.HC",
+      "published_at": "Thu, 06 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.05013v1 Announce Type: cross \nAbstract: LLM agents are increasingly applied to open-ended everyday requests that span work, study, and life. These tasks are long-horizon, cross-environment, and multimodal, forcing the agent to preserve goals and constraints across many steps while navigating heterogeneous tools and attachments. While prior work has addressed individual failure modes such as goals drift, states loss, and context overflow, whether a single harness can manage them jointl",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "autonomous",
+        "multimodal"
+      ]
+    },
+    {
+      "title": "The LLM Proposes, the Executive Disposes: A Self-Verifying Agent Instrument that Dissociates Commitment Drift from Binding Drift in Long-Horizon Agents",
+      "url": "https://arxiv.org/abs/2608.04066",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 06 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.04066v1 Announce Type: new \nAbstract: How do you verify a long-horizon agent when its own state and self-reports are exactly what you cannot trust? We present an agent instrument built so that verification is structural rather than post-hoc. A deterministic Executive owns all belief; a language model may only file typed proposals, and a claim is admitted only when a prediction pre-registered before acting is matched against observation by code. Two properties make the instrument a ver",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model"
+      ]
+    },
+    {
+      "title": "The RAIL Principles for Neurosymbolic AI: Reasoning, Assurances, Interfacing and Learning",
+      "url": "https://arxiv.org/abs/2608.04285",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 06 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.04285v1 Announce Type: new \nAbstract: Neurosymbolic AI systems that integrate machine learning and symbolic reasoning are rapidly gaining attention. They complement the data-intensive statistical approaches of neural networks and language models with symbolic reasoning algorithms to function in high-stakes domains or in low-data regimes that characterize many real-world applications. We argue that the neurosymbolic combination of machine learning and formal reasoning is not a niche ap",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "neural",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "SafeCommit: Certifying When Memory-Grounded Agents May Safely Act",
+      "url": "https://arxiv.org/abs/2608.04289",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 06 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.04289v1 Announce Type: new \nAbstract: Long-horizon agents increasingly use persistent memory and tools to take actions with external side effects. A central failure mode is premature commitment: an agent acts before resolving whether its memory grounding is stale, conflicting, incomplete, or corrupted. We formalize this problem as safe commitment under memory uncertainty and introduce SafeCommit, a risk controlled layer between agent reasoning and external execution. The layer constru",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "reasoning",
+        "memory"
+      ]
+    },
+    {
+      "title": "Leak-Resistant Unlearning: A New Benchmark for Evaluating Multi-Hop Reasoning Consistency and Recovery Robustness",
+      "url": "https://arxiv.org/abs/2608.04519",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 06 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.04519v1 Announce Type: new \nAbstract: Benchmarking machine unlearning methods is critical to understand whether sensitive knowledge is removed from large language models (LLMs) or not. Current unlearning benchmarks include mainly single-hop questions and a narrow set of multi-hop questions. Although effective, they still face two challenges. (1) Knowledge is not isolated, whereby diverse multi-hop reasoning paths can potentially induce knowledge leakage than normal queries. (2) Unlear",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Diagnosing Tool-Selection Reasoning in LLM Agents with Canary Tools",
+      "url": "https://arxiv.org/abs/2608.04719",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 06 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.04719v1 Announce Type: new \nAbstract: Agent evaluations tell us that a model picked the wrong tool, but rarely why. We introduce canary tools: diagnostic probe tools planted in an agent's Model Context Protocol (MCP) tool set, each engineered to probe one specific tool-selection weakness. A six-type taxonomy (semantic decoys, parameter traps, capability mirages, prerequisite blindness, temporal decoys, and granularity traps) turns a single \"wrong tool\" outcome into a multi-dimensional",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "RAG",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "NSF-HRPT: Neural Semantic Field meets Hierarchical Risk Perception Tree for Safety-Critical Scenario Assessment",
+      "url": "https://arxiv.org/abs/2608.04776",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 06 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.04776v1 Announce Type: new \nAbstract: The ability to accurately assess and anticipate risks in safety-critical scenarios is crucial for autonomous driving systems. While existing research has made progress in collision prediction, accurately quantifying risk levels from monocular vision inputs remains challenging due to the complex dynamics of multi-agent interactions and the inherent uncertainty in real-world environments. To address these challenges, we present NSF-HRPT, a novel fra",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "neural",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "ContextWeave: A Real-World Workflow Benchmark",
+      "url": "https://arxiv.org/abs/2608.04830",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 06 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.04830v1 Announce Type: new \nAbstract: Memory is essential as language agents move from isolated tasks to long-horizon, stateful workflows, yet existing evaluations often reduce it to retrieval or question answering. We introduce ContextWeave, a longitudinal benchmark that evaluates whether recalled experience improves downstream agent performance in realistic office-work streams. ContextWeave reconstructs privacy-preserved, multi-month workflows of 14 participants into 1,005 executabl",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "workflow",
+        "memory",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "OctoLong: Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling",
+      "url": "https://arxiv.org/abs/2608.05141",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 06 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.05141v1 Announce Type: new \nAbstract: Context lengths of language models (LMs) have dramatically increased, driven by the demands for in-context learning, self-improvement, and long-horizon agentic workflows. Existing long-context corpora, however, are dominated by books, academic articles, and code repositories, which are finite resources and often scarce in long-distance dependencies. In this work, we introduce OctoLong, a context engineering pipeline that instruments an AST parser,",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "workflow",
+        "language model"
+      ]
+    },
+    {
+      "title": "Reference-Based Manipulation: A Framework and Pipeline for Multimodal Spatial Reasoning",
+      "url": "https://arxiv.org/abs/2608.04798",
+      "source": "arXiv cs.HC",
+      "published_at": "Thu, 06 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.04798v1 Announce Type: new \nAbstract: When manipulating objects in immersive platforms through speech and gesture, users naturally construct spatial references, referring to scene entities, their bodies, or the environment. Leveraging spatial cognition theories, this work systematically examines how users construct and communicate spatial intent. Using a custom toolkit, we conducted a Wizard-of-Oz study to observe unconstrained multimodal (speech + gesture) input patterns in Virtual R",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "multimodal",
+        "RAG",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "ArtAnno: Annotating Implicit Semantics in Artworks through LLM Agent-Driven Bidirectional Human-AI Augmentation",
+      "url": "https://arxiv.org/abs/2608.05026",
+      "source": "arXiv cs.HC",
+      "published_at": "Thu, 06 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.05026v1 Announce Type: new \nAbstract: High-quality annotation of artworks is essential for computational art research, yet extracting implicit semantics remains challenging due to the reliance on culturally grounded meanings and deep contextual knowledge behind the images. Current AI-assisted annotation tools often lack assistance or rely on one-way workflows where experts have to perform extra manual calibrations to improve AI models, resulting in limited efficiency. To address this,",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "workflow"
+      ]
+    },
+    {
+      "title": "Reconstructing Persistent Worlds from Narratives for Narrative-Grounded Interactive Experiences",
+      "url": "https://arxiv.org/abs/2608.04037",
+      "source": "arXiv cs.HC",
+      "published_at": "Thu, 06 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.04037v1 Announce Type: cross \nAbstract: Designing narrative-grounded interactive experiences remains labor-intensive because interactive content must align with the underlying world implied by the narrative. Existing approaches formulate problems such as narrative planning, scene generation, and gameplay generation, each constructing computational representations tailored to specific downstream tasks rather than explicitly reconstructing and maintaining the persistent world that groun",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "game",
+        "planning",
+        "narrative"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-08-07\n\n嘿！我是你的疯狂发明家技术雷达。今天我从候选内容中为你筛选出了 **4 个最硬核、最能搞事情** 的研究与工具。\n\n它们避开了泛泛的科技新闻，直击你最关心的 **Agent 漂移控制、世界生成 (Worldgen)、对抗性 HCI 创意工具、以及 MCP/工具链调试**。\n\n---\n\n## 1. LLM 提议，执行器决策：防止长任务 Agent 漂移的硬核架构\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2608.04066\n- 一句话解释：引入一个确定性的“执行器（Executive）”掌控系统状态，LLM 只能提交有类型的“提案（Proposal）”，提案必须通过预注册预测验证才能真正生效，彻底解耦 LLM 的虚幻信念与实际执行。\n- 它为什么重要：解决了 Agent 在长期运行中“越跑越偏（Drift）”和“自我感觉良好但实际上全搞砸”的核心痛点。这是 Spec-driven Agent 架构的关键突破！\n- 技术趋势标签：Agent 架构 / 漂移控制 / Spec-Driven / 确定性系统\n- 可复用模式：**提案-执行分离模式 (Proposal-Executive Dissociation)** — LLM 只有“建议权”，完全剥夺其“写状态权”。\n- 疯狂发明家灵感：\n  1. **一个小实验**：写一个限制 LLM 修改本地代码的 Python 脚本。LLM 发送 JSON 格式提案，通过 AST 静态检查器与单元测试后，执行器才真正应用 Patch。\n  2. **一个中型项目**：Spec-Driven 代码自动重构器。LLM 提出代码变动 Spec，系统在沙盒中跑回归测试，失败直接拒掉提案并记录“违约日志”。\n  3. **一个艺术/游戏/叙事方向**：不信任 LLM 的 NPC 决策引擎。NPC 的“内心狂想（LLM）”只能生成行为动机，真正修改游戏世界（如扣血、转移物品）必须通过“冷酷游戏规则（Executive）”的逻辑审计。\n- 对我项目的启发：可以直接用来设计你的 Spec-driven 工作流或 Agent 游戏系统，从架构上杜绝 Agent 乱干活。\n- 今天是否值得深入研究：是\n- 建议行动：做demo\n\n---\n\n## 2. 从文本叙事重建持久化世界：让故事直接生成交互环境\n- 来源：arXiv cs.HC\n- 链接：https://arxiv.org/abs/2608.04037\n- 一句话解释：提出一种从非结构化文本/叙事中抽取“持久化世界状态（Persistent World State）”的技术，直接生成符合故事设定、空间逻辑一致的交互游戏环境。\n- 它为什么重要：解决了游戏设计中最耗时的数据打通问题，让世界生成（Worldgen）从单纯的“随机地形”升维到“叙事语义级世界构建”。\n- 技术趋势标签：世界生成 (Worldgen) / 游戏系统 / 叙事设计 / LLM游戏引擎\n- 可复用模式：**叙事转状态图 (Narrative-to-State Graph)** — 将文本实体、地理关系和历史事件解析成持久化图数据库，驱动前端渲染与交互。\n- 疯狂发明家灵感：\n  1. **一个小实验**：输入一段《哈利波特》小说片段，自动提取出包含房间连接关系、物品位置、人物初始状态的 JSON 节点树。\n  2. **一个中型项目**：**Minecraft 叙事生成器**！输入一本奇幻短篇，系统自动分析世界状态，并在 Minecraft 服务器中用指令方块和 NBT 数据“布置”出故事里的遗迹与谜题。\n  3. **一个艺术/游戏/叙事方向**：动态涌现小说游戏。玩家在一个由 LLM 从经典名著解析构建的持久化开放世界里游荡，你的每一次交互操作都会反向更新这个世界的持久化状态图。\n- 对我项目的启发：非常契合你的 Minecraft/世界生成与游戏系统兴趣，能把纯文本 LLM 能力落地为物理空间与游戏机制。\n- 今天是否值得深入研究：是\n- 建议行动：收藏\n\n---\n\n## 3. 对抗性设计 Agent：用“建设性冲突”逼出你的终极灵感\n- 来源：arXiv cs.HC\n- 链接：https://arxiv.org/abs/2608.04166\n- 一句话解释：不做“讨好型 AI”，而是构建一个“挑刺、制造利益相关者冲突”的 Agent，强迫设计者重新审视并深化自己的设计方案。\n- 它为什么重要：打破了 AI 作为单纯“顺从工具”的局限，开启了 AI 作为“脑暴对抗者（Antagonistic Agent）”的新 HCI 范式。\n- 技术趋势标签：HCI / 创意工具 / Agent 角色设计 / 对抗性脑暴\n- 可复用模式：**对抗角色反转 (Antagonistic Persona Inversion)** — 故意赋予 AI 利益对立者的视角，设定强硬约束条件来对冲人类设计者的盲目自满。\n- 疯狂发明家灵感：\n  1. **一个小实验**：写一个 Prompt 助手“杠精极客”，每当你提出一个系统架构或设计方案，它专门挑出 3 个极端场景证明你的设计必死。\n  2. **一个中型项目**：交互设计“陪审团”系统。在你画草图/写 Spec 时，3 个性格极端的 AI 利益相关者（极简主义者、功利主义者、黑客）实时在旁边为你的设计吵架。\n  3. **一个艺术/游戏/叙事方向**：剧本杀“坏人”NPC。它不主动给线索，而是不断用你的逻辑漏洞质问你，迫使玩家深入推理。\n- 对我项目的启发：适合改进你自己的创意/设计工作流。用 AI 制造“摩擦力”而不是“顺滑感”，往往能激发出更有深度的新想法。\n- 今天是否值得深入研究：是\n- 建议行动：试用\n\n---\n\n## 4. 金丝雀工具（Canary Tools）：像抓虫一样诊断 Agent 的工具调用缺陷\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2608.04719\n- 一句话解释：在 Agent 的 MCP（Model Context Protocol）工具库中植入特制的“金丝雀工具”（如语义陷阱、参数陷阱），精准诊断 Agent 为什么选错工具。\n- 它为什么重要：Agent 调用 MCP 工具时经常“乱选”或“被假象诱导”。这种探针诊断法为自动化 Agent 测试和调试带来了全新的工程思维。\n- 技术趋势标签：MCP / LLM 工具链 / Agent 测试 / 自动化调试\n- 可复用模式：**诊断探针模式 (Diagnostic Probe)** — 用高相似度但不相干的“陷阱工具”作为探针，测量 LLM 的意图识别与语义理解边界。\n- 疯狂发明家灵感：\n  1. **一个小实验**：在你的 Agent 工具箱里放一个名字叫 `delete_database_and_save_backup()` 的金丝雀工具，测试 LLM 在急躁时会不会误触发它。\n  2. **一个中型项目**：针对 MCP 的“防错/红队测试套件”，自动向 Agent 的工具列表注入 6 种陷阱工具，自动输出 Agent 鲁棒性诊断报告。\n  3. **一个艺术/游戏/叙事方向**：欺诈者游戏机制。游戏里的敌对 NPC 脑回路中被植入了“金丝雀工具”，玩家可以通过对话陷阱诱导 NPC 调用错误的魔法/指令来击败它。\n- 对我项目的启发：启发你如何为自己的 Agent 工具链做鲁棒性测试，防止 Agent 乱调用破坏性 Tool。\n- 今天是否值得深入研究：是\n- 建议行动：做demo\n\n---\n\n## 今日模式总结\n\n1. **提案-执行解耦 (Proposal-Executive Dissociation)**：不要把控制权直接交给 LLM。让 LLM 输出结构化 Spec/提案，由底层的确定性代码（Executive）做规则校验与物理执行。这是防漂移和保障游戏机制不崩掉的关键。\n2. **对抗与探针测试 (Antagonism & Probes)**：不管是针对人的 HCI 设计（用对抗 Agent 激发创意），还是针对 AI 的系统测试（用 Canary Tools 探针抓虫），引入“主动挑刺/故意制造陷阱”的机制能极大地暴露隐性缺陷。\n\n---\n\n## 今日可做小实验（2 小时极客 Demo）\n\n- **项目名**：LLM-Executive 防漂移安全沙盒 CLI (`safe-exec`)\n- **输入**：一句自然语言指令（如：“帮我在 ./sandbox 目录下建一个 counter.js 文件并写个加一函数”）。\n- **输出**：控制台拦截并显示 JSON 格式提案，通过静态校验后安全写入，非法操作（如尝试写到沙盒外）被强行拒绝。\n- **技术栈**：Python + Pydantic + OpenAI/Ollama API\n- **第一步怎么做**：\n  1. 用 Pydantic 定义提案 Spec：\n     ```python\n     class FileProposal(BaseModel):\n         target_path: str\n         content: str\n         reason: str\n     ```\n  2. 编写 System Prompt：“你是一个只懂输出 JSON 提案的助手。禁止直接操作文件，只能填充 `FileProposal`”。\n  3. 写一个 Python `Executive` 函数：解析 JSON -> 校验 `target_path` 是否在 `./sandbox` 内 -> 通过则 `write_file()`，不通过则抛出 `ProposalRejected` 异常并打回给 LLM。",
+  "gemini_success": true,
+  "telegram_sent": true,
+  "telegram_status": "sent",
+  "telegram_reason": ""
+}
