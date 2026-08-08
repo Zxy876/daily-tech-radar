@@ -1,0 +1,294 @@
+[
+  {
+    "title": "PromptShield Home: Ambient Multimodal Prompt Injection Defense for Smart-Home Agents",
+    "url": "https://arxiv.org/abs/2608.05495",
+    "source": "arXiv cs.HC",
+    "published_at": "Fri, 07 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.05495v1 Announce Type: cross \nAbstract: Smart-home assistants increasingly use multimodal large language models (MLLMs) that perceive video and audio directly. This raises a safety question specific to the home: can the agent tell a genuine user command from ambient or externally-sourced content, television speech, on-screen text, or an overheard conversation, that merely looks like a command? We introduce PromptShield-Home, a pilot benchmark of realistic smart-home scenarios spanning",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "multimodal",
+      "prompt"
+    ]
+  },
+  {
+    "title": "WorldClaw: Agentic 3D Open-World Generation at Scale",
+    "url": "https://arxiv.org/abs/2608.05248",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 07 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.05248v1 Announce Type: new \nAbstract: Generating large-scale, freely explorable 3D worlds from open-ended text remains challenging because a system must jointly maintain global spatial coherence, rich local content, and explicit assets suitable for downstream editing and reuse. We present WorldClaw, a fully agentic, coarse-to-fine framework for open-world 3D scene generation. Planning agents translate a text prompt into a structured specification of regions, terrain, assets, materials",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "world generation",
+      "prompt",
+      "planning"
+    ]
+  },
+  {
+    "title": "C$^3$PO: Evaluating Cross-Modal Composition and Counterfactual Performance in Omnimodal Models",
+    "url": "https://arxiv.org/abs/2608.05381",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 07 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.05381v1 Announce Type: new \nAbstract: Current Multimodal Large Language Models (MLLMs) can process diverse sensory inputs, yet their reasoning remains heavily biased toward a dominant modality, resulting in brittle cross-modal reasoning. We introduce C$^3$PO, a benchmark of 3,404 samples spanning video, audio, image, and text, evaluating two abilities: information composition (fusing dispersed evidence) and counterfactual conflict (resolving deliberate contradictions). C$^3$PO's paire",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "multimodal",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Hyper-ES: Effective Evolution Strategies for LLM Reasoning via Descent Direction Merging",
+    "url": "https://arxiv.org/abs/2608.05541",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 07 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.05541v1 Announce Type: new \nAbstract: Evolution Strategy (ES) is a promising alternative to gradient-based fine-tuning for resource-constrained Large Language Model (LLM) reasoning. However, directly applying ES to billion-parameter LLMs is highly ineffective. In such high-dimensional parameter spaces, most random perturbations are nearly orthogonal to useful update directions, leading to unstable optimization. We propose Hyper-ES, a subspace-based ES framework that avoids the weaknes",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "fine-tuning",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "SkillTV-Bench: Benchmarking How Well Judges Perform on Skill-Augmented Agentic Execution",
+    "url": "https://arxiv.org/abs/2608.05573",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 07 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.05573v1 Announce Type: new \nAbstract: LLM agents increasingly execute long-horizon tasks through tool use and environment interaction, shifting evaluation from final-response scoring to verification of complete executions. For skill-augmented agents, verification additionally requires the procedural knowledge encoded in task-time skills, because this knowledge indicates what evidence to inspect and which failures are task-critical. However, existing judge benchmarks often expose final",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "tool use",
+      "procedural"
+    ]
+  },
+  {
+    "title": "StepReflect: Structured UI Transition Reflection for Mobile GUI Agents",
+    "url": "https://arxiv.org/abs/2608.05587",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 07 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.05587v1 Announce Type: new \nAbstract: Autonomous mobile GUI agents require accurate action reflection for reliable long-horizon execution. Existing approaches rely on open-ended multimodal reasoning after each action, which is costly and poorly matched to the structured nature of GUI state transitions. We propose StepReflect, which formulates per-step GUI reflection as supervised structured prediction conditioned on explicit transition specifications and paired visual evidence. StepRe",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "autonomous",
+      "multimodal",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "SkillHEX: Improving Agent Skills via Hypothesis-Driven Autonomous Exploration and Exploitation",
+    "url": "https://arxiv.org/abs/2608.05628",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 07 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.05628v1 Announce Type: new \nAbstract: Although agent skills equip LLMs with reusable procedural knowledge, manual maintenance suffers from high costs, unscalability, and misalignment. Real-world deployments thus require autonomous, on-demand skill evolution at test time, constrained by limited interaction budgets and a lack of training or validation sets. This setting introduces a severe sparse reward challenge, where outcomes conflate multiple latent failure causes. Under such ambigu",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "autonomous",
+      "procedural"
+    ]
+  },
+  {
+    "title": "OneEmo: A Unified Multimodal Reasoning Model for Emotion Perception, Understanding, and Interaction",
+    "url": "https://arxiv.org/abs/2608.06013",
+    "source": "arXiv cs.HC",
+    "published_at": "Fri, 07 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.06013v1 Announce Type: new \nAbstract: Multimodal Large Language Models (MLLMs) have demonstrated remarkable capabilities in emotional intelligence. However, prevailing research predominantly focuses on task-specific specialization, often neglecting inter-task synergy and leaving latent reasoning potential underexplored. To bridge this gap, we introduce OneEmo, a unified affective generalist capable of mastering emotion perception, comprehension, and interaction. For this purpose, we f",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "multimodal",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Vibe Compiler: A Research-Logic Synthesis Tool That Runs without Prompt Engineering -Toward Enhancing Metacognition for Sustaining Agency in the Age of Generative AI-",
+    "url": "https://arxiv.org/abs/2608.05545",
+    "source": "arXiv cs.HC",
+    "published_at": "Fri, 07 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.05545v1 Announce Type: cross \nAbstract: Generative AI used as a capable servant has greatly accelerated intellectual work, but it also risks eroding human epistemic agency by encouraging uncritical acceptance of AI-generated reasoning. This creates a need for mechanisms that preserve human agency by augmenting metacognition during AI-assisted intellectual work. To address this, we propose the Synthesis-Analysis Reciprocity Model, which views intellectual construction as a reciprocal i",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "RAG",
+      "prompt",
+      "reasoning",
+      "generative"
+    ]
+  },
+  {
+    "title": "Clinician input steers AI toward accurate and harmful recommendations",
+    "url": "https://arxiv.org/abs/2603.14158",
+    "source": "arXiv cs.HC",
+    "published_at": "Fri, 07 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2603.14158v2 Announce Type: replace \nAbstract: Large language models (LLMs) are entering clinical workflows, yet evaluations rarely assess how clinician reasoning shapes model behavior during clinical interactions. Using 61 curated NEJM Case Records, we tested how expert or misleading clinician reasoning influenced AI-generated differential diagnoses and next step recommendations across 21 reasoning variants from 8 proprietary and open-source models. After clinician exposure, LLM-clinician",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "workflow",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "'OpenBloom': A Stigma-Sensitive LLM Design Probe for Navigating Reproductive Well-being Conversations with Young Adults",
+    "url": "https://arxiv.org/abs/2606.15536",
+    "source": "arXiv cs.HC",
+    "published_at": "Fri, 07 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2606.15536v2 Announce Type: replace \nAbstract: The growing use of large language models (LLMs) by young adults seeking sensitive health information has raised important questions in Human-AI Interaction about how these systems can support understanding and navigation of reproductive well-being. In response to Feminist HCI principles, we introduce OpenBloom, a web application and an exploratory design probe that uses LLMs to generate question-based prompts from reproductive health articles.",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "HCI",
+      "language model",
+      "prompt"
+    ]
+  },
+  {
+    "title": "SearchAuditor: Auditing and Attributing Failures in Long-Horizon Search Agents",
+    "url": "https://arxiv.org/abs/2608.05212",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 07 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.05212v1 Announce Type: new \nAbstract: Deep search agents tackle challenging questions through long-horizon web interactions, a process that is both complex and fragile: small reasoning errors may propagate through long, noisy trajectories into fluent but incorrect answers. Diagnosing such failures is difficult, requiring the manual inspection of extremely long execution traces, which could be beyond human capacity. We therefore introduce SearchAuditBench, a benchmark that evaluates wh",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "RAG",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Search2Skill: Skill Distillation Beyond Knowledge Boundaries Via Rubric-Based Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2608.05245",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 07 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.05245v1 Announce Type: new \nAbstract: Reusable skills, which encapsulate the procedural knowledge required to solve real-world professional tasks, offer LLM-based agents a path toward self-evolution in expert domains. Existing self-evolving skill methods construct skills internally from the model's parametric knowledge or trajectories, and are therefore bounded by what the model already knows. However, the domain conventions and standard procedures underlying professional skills often",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "procedural"
+    ]
+  },
+  {
+    "title": "Counterfactual Analysis via Large Language Models",
+    "url": "https://arxiv.org/abs/2608.05367",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 07 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.05367v1 Announce Type: new \nAbstract: Counterfactual analysis aims to predict potential outcomes under hypothetical scenarios, offering valuable insights for decision-making. This paper investigates the application of large language models (LLMs), specifically the GPT-3.5 model, for counterfactual analysis. We focus on the online lending context, where the counterfactual return on investment (ROI) is crucial for evaluating different interest rate schemes. We begin by assessing the pre",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "GPT",
+      "language model"
+    ]
+  },
+  {
+    "title": "Recursive Synthesis for Long-Horizon Terminal Tasks",
+    "url": "https://arxiv.org/abs/2608.05466",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 07 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.05466v1 Announce Type: new \nAbstract: High-quality long-horizon training data for terminal agents is expensive to produce, often costing hundreds to thousands of dollars per task, because each task must keep the instruction, environment, reference solution, and verifier mutually consistent. Human authoring does not scale, and direct generation with large language models (LLMs) often breaks these dependencies. We present Recursive Synthetic Terminal Tasks (RST), a recursive verified sy",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model"
+    ]
+  },
+  {
+    "title": "What Current AI Benchmarks Leave Unmeasured: Modality, Search, Citations, and Implications (for Safety Evaluations)",
+    "url": "https://arxiv.org/abs/2608.06202",
+    "source": "arXiv cs.HC",
+    "published_at": "Fri, 07 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.06202v1 Announce Type: new \nAbstract: Large language model (LLM) benchmark evaluations are routinely used to support claims about model safety, reliability, and deployment readiness. Yet most evaluations rely on a single access modality (model APIs), perform a single run per prompt, and report accuracy as the primary outcome metric, without accounting for conditions such as web search that may have effects on model behavior in deployment. We audit these assumptions for one of the most",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Large Language Model Counterarguments in Older Adults: Cognitive Offloading or Susceptibility to Moral Persuasion?",
+    "url": "https://arxiv.org/abs/2604.22356",
+    "source": "arXiv cs.HC",
+    "published_at": "Fri, 07 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2604.22356v2 Announce Type: replace \nAbstract: This study examined whether counterarguments generated by large language models (LLMs) influence the moral judgments of younger and older adults, and whether these effects vary by dilemma type, cognitive functioning, trust in AI, and prior LLM experience. Using the switch and footbridge trolley dilemmas, 130 participants (56 younger adults and 74 older adults) were presented with ChatGPT-generated counterarguments that opposed their initial ju",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "GPT",
+      "language model"
+    ]
+  },
+  {
+    "title": "PPDL: LLM-Based Flows as Probabilistic Programs",
+    "url": "https://arxiv.org/abs/2608.05234",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 07 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.05234v1 Announce Type: new \nAbstract: Building reliable applications that leverage large language models (LLMs) remains a significant challenge. While LLMs offer impressive capabilities across diverse tasks, their outputs often lack accuracy and provide no clear measure of confidence. This uncertainty compounds in flows of multiple calls to LLMs and other tools, making it difficult for developers and end-users to trust the results. This paper introduces a probabilistic language for pr",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "RAG"
+    ]
+  },
+  {
+    "title": "Disentangling 3D Modeling from Spatial Reasoning",
+    "url": "https://arxiv.org/abs/2608.05242",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 07 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.05242v1 Announce Type: new \nAbstract: In this work, we explore an alternative paradigm for spatial reasoning by explicitly disentangling 3D perception from reasoning, rather than jointly acquiring implicit 3D perception and reasoning through large-scale training. Our key observation is that modern perception models excel at estimating continuous 3D geometry, whereas large language models (LLMs) are particularly effective at compositional and symbolic reasoning. Motivated by these comp",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "QEvict: Recoverable Quantized KV Eviction for Attention-Drift-Robust Long-Context Decoding",
+    "url": "https://arxiv.org/abs/2608.05326",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 07 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.05326v1 Announce Type: new \nAbstract: Autoregressive large language model inference is increasingly constrained by the memory footprint of the Key-Value (KV) cache. A dominant line of work reduces this footprint by evicting tokens that appear unimportant under attention-derived scores. However, such policies make an implicit irreversible decision: once a token is evicted, it cannot become useful again. We show that this assumption is brittle during decoding. Token and window importanc",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "language model",
+      "inference",
+      "memory"
+    ]
+  }
+]
