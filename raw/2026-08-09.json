@@ -1,0 +1,247 @@
+[
+  {
+    "title": "PrimeIntellect-ai / prime-agent",
+    "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks. [2,483 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "microsoft / agent-governance-toolkit",
+    "url": "https://github.com/microsoft/agent-governance-toolkit",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10. [56 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "huangruiteng / loopx",
+    "url": "https://github.com/huangruiteng/loopx",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs. [243 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude"
+    ]
+  },
+  {
+    "title": "vllm-project / vllm",
+    "url": "https://github.com/vllm-project/vllm",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "A high-throughput and memory-efficient inference and serving engine for LLMs [85 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "LLM",
+      "inference",
+      "memory"
+    ]
+  },
+  {
+    "title": "TinySol, a tiny solitaire game for DOS",
+    "url": "https://classicbits.net/coding-and-software/my-software/monosol/",
+    "source": "Hacker News",
+    "published_at": "Sat, 08 Aug 2026 17:42:40 +0000",
+    "description": "Article URL: https://classicbits.net/coding-and-software/my-software/monosol/ Comments URL: https://news.ycombinator.com/item?id=49224020 Points: 47 # Comments: 11",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "game"
+    ]
+  },
+  {
+    "title": "Show HN: Wyzer Programming Language",
+    "url": "https://github.com/Wyzer-Lang/wyzer",
+    "source": "Hacker News Best",
+    "published_at": "Fri, 07 Aug 2026 12:28:55 +0000",
+    "description": "So i've been working on this project since a few days (or months i should say), it's called wyzer (meaning wiser) it's a statically typed, compiled, resource-oriented programming language with integrated distributed safety via choreographic programming and perceus memory model, The reason why i began this project is out of frustration from Rust, you see it does provide safety for your memory by the strict type checking but what it does not gurantee safety against are distributed deadlocks which ",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "memory"
+    ]
+  },
+  {
+    "title": "TauricResearch / TradingAgents",
+    "url": "https://github.com/TauricResearch/TradingAgents",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework [153 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "agent",
+      "LLM"
+    ]
+  },
+  {
+    "title": "Significant-Gravitas / AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. [218 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "GPT"
+    ]
+  },
+  {
+    "title": "superlinked / sie",
+    "url": "https://github.com/superlinked/sie",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Open-source inference server and production cluster for all the models your agent needs. [30 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "agent",
+      "inference"
+    ]
+  },
+  {
+    "title": "harveyai / harvey-labs",
+    "url": "https://github.com/harveyai/harvey-labs",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "A benchmark built to evaluate and improve agent capabilities for supporting legal work. [47 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "anthropics / claude-code-security-review",
+    "url": "https://github.com/anthropics/claude-code-security-review",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities. [27 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "Claude"
+    ]
+  },
+  {
+    "title": "AgriciDaniel / claude-seo",
+    "url": "https://github.com/AgriciDaniel/claude-seo",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Universal SEO skill for Claude Code. 25 sub-skills + 18 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, maps intelligence, semantic clustering, e-commerce SEO, international SEO, Google APIs, and PDF/Excel reporting. Optional DataForSEO, Firecrawl, and Banana extensions. [99 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "agent",
+      "Claude"
+    ]
+  },
+  {
+    "title": "tirth8205 / code-review-graph",
+    "url": "https://github.com/tirth8205/code-review-graph",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows. [114 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "workflow"
+    ]
+  },
+  {
+    "title": "can1357 / oh-my-pi",
+    "url": "https://github.com/can1357/oh-my-pi",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more [235 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "open-metadata / OpenMetadata",
+    "url": "https://github.com/open-metadata/OpenMetadata",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "The Open Context Layer for Data and AI , OpenMetadata is the open platform for building trusted data context and business semantics for humans, AI assistants, and agents. [22 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "anomalyco / opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "The open source coding agent. [381 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "agent",
+      "open source"
+    ]
+  },
+  {
+    "title": "tashfeenahmed / freellmapi",
+    "url": "https://github.com/tashfeenahmed/freellmapi",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "OpenAI-compatible proxy that stacks the free tiers of 28 LLM providers (~4B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only. [88 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "LLM"
+    ]
+  },
+  {
+    "title": "jordanrendric / claude-video-vision",
+    "url": "https://github.com/jordanrendric/claude-video-vision",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Give Claude the ability to watch and understand videos — Claude Code plugin with frame extraction and multimodal audio analysis [25 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "Claude",
+      "multimodal"
+    ]
+  },
+  {
+    "title": "addyosmani / agent-skills",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Production-grade engineering skills for AI coding agents. [779 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "mattpocock / skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Skills for Real Engineers. Straight from my .agents directory. [1,359 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  }
+]

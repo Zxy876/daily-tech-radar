@@ -1,0 +1,255 @@
+{
+  "date": "2026-08-09",
+  "candidates": [
+    {
+      "title": "PrimeIntellect-ai / prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks. [2,483 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "workflow",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "microsoft / agent-governance-toolkit",
+      "url": "https://github.com/microsoft/agent-governance-toolkit",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10. [56 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "huangruiteng / loopx",
+      "url": "https://github.com/huangruiteng/loopx",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs. [243 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude"
+      ]
+    },
+    {
+      "title": "vllm-project / vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs [85 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "LLM",
+        "inference",
+        "memory"
+      ]
+    },
+    {
+      "title": "TinySol, a tiny solitaire game for DOS",
+      "url": "https://classicbits.net/coding-and-software/my-software/monosol/",
+      "source": "Hacker News",
+      "published_at": "Sat, 08 Aug 2026 17:42:40 +0000",
+      "description": "Article URL: https://classicbits.net/coding-and-software/my-software/monosol/ Comments URL: https://news.ycombinator.com/item?id=49224020 Points: 47 # Comments: 11",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "game"
+      ]
+    },
+    {
+      "title": "Show HN: Wyzer Programming Language",
+      "url": "https://github.com/Wyzer-Lang/wyzer",
+      "source": "Hacker News Best",
+      "published_at": "Fri, 07 Aug 2026 12:28:55 +0000",
+      "description": "So i've been working on this project since a few days (or months i should say), it's called wyzer (meaning wiser) it's a statically typed, compiled, resource-oriented programming language with integrated distributed safety via choreographic programming and perceus memory model, The reason why i began this project is out of frustration from Rust, you see it does provide safety for your memory by the strict type checking but what it does not gurantee safety against are distributed deadlocks which ",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "memory"
+      ]
+    },
+    {
+      "title": "TauricResearch / TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework [153 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "agent",
+        "LLM"
+      ]
+    },
+    {
+      "title": "Significant-Gravitas / AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. [218 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "GPT"
+      ]
+    },
+    {
+      "title": "superlinked / sie",
+      "url": "https://github.com/superlinked/sie",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Open-source inference server and production cluster for all the models your agent needs. [30 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "agent",
+        "inference"
+      ]
+    },
+    {
+      "title": "harveyai / harvey-labs",
+      "url": "https://github.com/harveyai/harvey-labs",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "A benchmark built to evaluate and improve agent capabilities for supporting legal work. [47 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "anthropics / claude-code-security-review",
+      "url": "https://github.com/anthropics/claude-code-security-review",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities. [27 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "Claude"
+      ]
+    },
+    {
+      "title": "AgriciDaniel / claude-seo",
+      "url": "https://github.com/AgriciDaniel/claude-seo",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Universal SEO skill for Claude Code. 25 sub-skills + 18 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, maps intelligence, semantic clustering, e-commerce SEO, international SEO, Google APIs, and PDF/Excel reporting. Optional DataForSEO, Firecrawl, and Banana extensions. [99 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "agent",
+        "Claude"
+      ]
+    },
+    {
+      "title": "tirth8205 / code-review-graph",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows. [114 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "workflow"
+      ]
+    },
+    {
+      "title": "can1357 / oh-my-pi",
+      "url": "https://github.com/can1357/oh-my-pi",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more [235 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "open-metadata / OpenMetadata",
+      "url": "https://github.com/open-metadata/OpenMetadata",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "The Open Context Layer for Data and AI , OpenMetadata is the open platform for building trusted data context and business semantics for humans, AI assistants, and agents. [22 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "anomalyco / opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "The open source coding agent. [381 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "agent",
+        "open source"
+      ]
+    },
+    {
+      "title": "tashfeenahmed / freellmapi",
+      "url": "https://github.com/tashfeenahmed/freellmapi",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "OpenAI-compatible proxy that stacks the free tiers of 28 LLM providers (~4B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only. [88 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "title": "jordanrendric / claude-video-vision",
+      "url": "https://github.com/jordanrendric/claude-video-vision",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Give Claude the ability to watch and understand videos — Claude Code plugin with frame extraction and multimodal audio analysis [25 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "Claude",
+        "multimodal"
+      ]
+    },
+    {
+      "title": "addyosmani / agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "Production-grade engineering skills for AI coding agents. [779 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "mattpocock / skills",
+      "url": "https://github.com/mattpocock/skills",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "Skills for Real Engineers. Straight from my .agents directory. [1,359 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-08-09\n\n为你精选了 4 条最能激发疯狂发明灵感的技术项目。今天的主题非常明确：**打破 Agent 的单次对话局限——从长运行状态持久化、拓扑图 Context 控制，到视觉闭环与免费算力极客挤压。**\n\n---\n\n## loopx — 长运行 Agent 团队的轻量级“状态内核”\n- 来源：GitHub Trending Python\n- 链接：https://github.com/huangruiteng/loopx\n- 一句话解释：为跨平台 AI Agent 提供持久化目标、配额感知自唤醒与可验证交接的状态调度内核。\n- 它为什么重要：彻底解决了 Agent 在长时运行中“容易掉魂、死循环、砸光 API”的问题。它把 Agent 的生命周期从“单次长对话”重构为了“可暂停、可交接、可唤醒的分布式操作系统”。\n- 技术趋势标签：Agentic State Engine / Durable Execution / Multi-Agent Handoff\n- 可复用模式：**持久化断点与可验证交接（Verifiable Handoffs）**：Agent 的进展不依赖上下文长度，而是写成事件日志与 JSON 状态断点，随时挂起、异地唤醒或换另一个 Agent 继承工作。\n- 疯狂发明家灵感：\n  1. **一个小实验**：写一个挂机脚本，让 Agent 帮你在本地重构代码。设定配额上限，消耗完自动生成状态快照并进入“冬眠”，次日触发 Cron 任务继续从快照读取并推进。\n  2. **一个中型项目**：离线游戏 NPC 自主生活系统。NPC 每天在后台执行复杂的“长远目标”（如建造一座小镇），算力耗尽或休息时写入状态内核，其他 NPC 依据离线 Log 继承其成果。\n  3. **一个艺术/游戏/叙事方向**：《无限递降的建造者》—— 一个运行在服务器后台的 Agent 建筑工会，跨越几周时间，在 Minecraft 中以极低算力消耗、默默雕刻并延伸一座结构极其严密的地下宏伟迷宫。\n- 对我项目的启发：给你的 Agent 叙事或 Minecraft 世界生成系统加入“离线快照与配额自适应”，不再依赖昂贵的大窗口 API 持续连接。\n- 今天是否值得深入研究：是\n- 建议行动：做demo\n\n---\n\n## code-review-graph — 本地优先的代码上下文图谱\n- 来源：GitHub Trending Python\n- 链接：https://github.com/tirth8205/code-review-graph\n- 一句话解释：基于本地的 MCP/CLI 代码智力图谱，构建项目结构持久化映射，极大降低 AI 调用的 Token 开销。\n- 它为什么重要：不用再傻傻地把所有文件一股脑塞给 LLM。通过建立代码间的结构图谱（Graph），只向 AI 提供依赖路径上的精细代码，大幅减噪并提升规范驱动（Spec-driven）开发的精准度。\n- 技术趋势标签：Graph-guided Context / MCP Tooling / Spec-driven Engineering\n- 可复用模式：**拓扑图感知裁剪（Graph-guided Perception Pruning）**：用代码/逻辑的 AST 依赖图代替盲目的向量检索（RAG），实现“只读关键节点”的高精上下文注入。\n- 疯狂发明家灵感：\n  1. **一个小实验**：用 AST 解析器解析一个小型 Creative Coding 项目的函数调用关系并导出 JSON 图，写个简单 CLI 工具，让 AI 修改代码时只能沿着图节点调取关联函数。\n  2. **一个中型项目**：Spec-Driven 世界生成器。将 Minecraft 或程序化生成的“建筑规范（Spec）”节点化（如：地基 -> 承重墙 -> 顶棚），AI 只读取当前绘制节点与直接依赖节点，实现极其稳定的巨型结构生成。\n  3. **一个艺术/游戏/叙事方向**：非线性叙事“树状图守门人”。AI 剧情引导员根据玩家触发的图节点，精准抽取相连的剧情分支与环境状态，构建永不发生设定冲突的庞大动态宇宙。\n- 对我项目的启发：告别对 LLM 上下文大包大揽的依赖，把复杂系统的“结构图谱”作为基础设施，能极大优化你的 Spec-driven 工作流。\n- 今天是否值得深入研究：是\n- 建议行动：试用\n\n---\n\n## claude-video-vision — 给 Terminal Agent 塞入视听感知能力\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/jordanrendric/claude-video-vision\n- 一句话解释：为 Claude Code 终端 Agent 提供视频抓帧与多模态音频分析能力的插件。\n- 它为什么重要：突破了终端 Agent 只能读写纯文本/代码的局限，把“音视频感知”直接变成了 AI 编码工具链的一部分，非常适合 Creative Coding、游戏渲染和 HCI 界面自适应调试。\n- 自动化/感知闭环：**跨模态观测闭环（Cross-modal Observability Loop）**：把代码运行结果录屏或截图，直接喂给 CLI Agent，让 Agent 像人类设计师一样“看着屏幕改代码”。\n- 疯狂发明家灵感：\n  1. **一个小实验**：用 Playwright/ffmpeg 录制一段你正在写的 p5.js 或 Three.js 动画短视频，用该插件让 Claude 观看画面表现，并直接自动调优 Shader 或粒子运动参数。\n  2. **一个中型项目**：游戏 UI/视觉自动化质检 Agent。 Agent 在 Godot 中测试运行游戏，录下画面后审查“粒子动画是否卡顿”、“配色是否符合 Spec 设计”，并直接提交代码修复。\n  3. **一个艺术/游戏/叙事方向**：《视听模态转接工坊》：你对着摄像头弹奏一段乐器或进行一段肢体表演，Agent 观看分析视频的情感与节奏后，实时用算法代码为你重构出一套响应式的视觉场景。\n- 对我项目的启发：把视觉和音频分析接入 CLI 工作流，可以为你构建一个“生成 -> 渲染 -> 视觉评估 -> 代码重构”的完整创意生成闭环。\n- 今天是否值得深入研究：是\n- 建议行动：试用\n\n---\n\n## freellmapi — 聚合 28 个免费 LLM 的超级 API 路由\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/tashfeenahmed/freellmapi\n- 一句话解释：一个兼容 OpenAI 格式的代理服务，把 28 家 LLM 厂商的免费层（约 40 亿 Token/月）统一挂在一个 API 端点下，支持自动容灾与智能路由。\n- 它为什么重要：做长运行多 Agent 试验或庞大生成系统时，API 费用往往是最大的绊脚石。这个项目用极致的工程黑客手段，为你搭建了一个几乎零成本的大规模 Agent 试验场。\n- 技术趋势标签：Agent Infrastructure / Zero-Cost Scaling / Multi-Provider Failover\n- 可复用模式：**异构算力分层路由（Heterogeneous Compute Routing）**：按任务复杂度将 Prompt 分发给不同免费模型（简单逻辑给轻量开源模型，复杂推演给高阶模型），榨干基础设施免费算力。\n- 疯狂发明家灵感：\n  1. **一个小实验**：部署该代理，写一个包含 10 个特化 Agent 的群聊讨论组，测试在零 API 支出下让它们进行 100 轮连续逻辑碰撞与协同创作。\n  2. **一个中型项目**：搭建一个“永动机”创意生产线。一个由十几个 Agent 组成的自治团队（搜集灵感、写 Spec、写代码、做测试），24 小时不断线地运行在免费算力路由之上。\n  3. **一个艺术/游戏/叙事方向**：《免费算力废土奇观》：把 28 个模型的运行状态映射为一个虚拟世界。某家 API 限流或宕机时，游戏世界中对应的“神明/阵营”就陷入衰退，玩家需要帮其寻找新的算力源泉。\n- 对我项目的启发：解决做疯狂多 Agent 涌现实验时的“Token 财务焦虑”，让想法实现不再被账单卡脖子。\n- 今天是否值得深入研究：否（架构直观，适合直接作为基础设施底层使用）\n- 建议行动：收藏\n\n---\n\n## 今日模式总结\n\n1. **长运行 Agent 的“状态与算力解耦”**：不再假设 Agent 能够持续在线或依赖单一 API 保持连贯，而是通过持久化内核（loopx）与异构算力池（freellmapi），让 Agent 实现挂起、离线交接与低成本自唤醒。\n2. **拓扑图（Graph）驱动的精准 Context 裁剪**：抛弃全局向量搜索（RAG）的混乱，采用代码/逻辑依赖图（code-review-graph）向 LLM 精确灌输上下文，这是实现高效 Spec-driven 开发的杀手锏。\n3. **视觉感知介入编码闭环**：CLI Agent 正在通过多模态视听工具（claude-video-vision）获得对项目渲染结果的“直觉”，将 Creative Coding 的调试模式从“看报错”升级到了“看画面”。\n\n---\n\n## 今日可做小实验\n\n- **项目名**：Vision-Driven Shader Refiner（视觉驱动的 Shader 自动调优器）\n- **输入**：一段简单的 GLSL/p5.js 代码 + 一句理想效果描绘（例如：“把它改成带有呼吸感的赛博朋克霓虹光晕”）。\n- **输出**：自动修改后的 Shader 代码 + 运行后渲染结果的短视频对齐反馈。\n- **技术栈**：Node.js + Playwright (用于打开本地 Canvas 渲染并录制 2 秒 MP4) + `claude-video-vision` (或 Claude API 抓帧) + Claude CLI.\n- **第一步怎么做**：\n  1. 写一个 15 行的 Playwright 脚本 `record.js`，打开本地包含 Canvas 的 HTML，录制 2 秒渲染画面保存为 `output.mp4`；\n  2. 调用 `claude-video-vision` 解析 `output.mp4`；\n  3. 编写 Prompt 发给 Claude：“这是当前代码渲染出的视频，对比我的需求，告诉我画面哪里不对，并直接修改代码文件”，体验一次完整的视觉闭环自迭代！",
+  "gemini_success": true,
+  "telegram_sent": true,
+  "telegram_status": "sent",
+  "telegram_reason": ""
+}
