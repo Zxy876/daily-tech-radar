@@ -1,0 +1,254 @@
+[
+  {
+    "title": "MervinPraison / PraisonAI",
+    "url": "https://github.com/MervinPraison/PraisonAI",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with built-in memory, RAG, and support for 100+ LLMs. [25 stars today]",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "autonomous",
+      "RAG",
+      "memory"
+    ]
+  },
+  {
+    "title": "diegosouzapw / OmniRoute",
+    "url": "https://github.com/diegosouzapw/OmniRoute",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors [833 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "Claude",
+      "Gemini",
+      "Copilot",
+      "GPT"
+    ]
+  },
+  {
+    "title": "PrimeIntellect-ai / prime-agent",
+    "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks. [2,356 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "vectorize-io / hindsight",
+    "url": "https://github.com/vectorize-io/hindsight",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Hindsight: Agent Memory That Learns [80 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "agent",
+      "vector",
+      "memory"
+    ]
+  },
+  {
+    "title": "browseros-ai / BrowserOS",
+    "url": "https://github.com/browseros-ai/BrowserOS",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia. [76 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "GPT"
+    ]
+  },
+  {
+    "title": "InsForge / InsForge",
+    "url": "https://github.com/InsForge/InsForge",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end. [11 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "RAG"
+    ]
+  },
+  {
+    "title": "AI assistant hacks gym website in first known Australian autonomous cyber attack",
+    "url": "https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986",
+    "source": "Hacker News",
+    "published_at": "Sun, 09 Aug 2026 21:52:23 +0000",
+    "description": "Article URL: https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986 Comments URL: https://news.ycombinator.com/item?id=49236439 Points: 39 # Comments: 22",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "Show HN: Alphabet Soup, a multiplayer game, build the longest word to win",
+    "url": "https://alphabetsoup.club",
+    "source": "Hacker News",
+    "published_at": "Sun, 09 Aug 2026 20:15:45 +0000",
+    "description": "I've been working on a simple multiplayer word game called Alphabet Soup. It's a bit like NYT Spelling Bee, except it's multiplayer and only your best (longest) word counts toward your score. So, instead of trying to find as many words as possible, the game is more about finding one unusually good word. You can play with friends in a private match, or, you can join a public Arena match to play against other players who are online. If no one else is around, you'll be matched with a bot. The game ",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "game"
+    ]
+  },
+  {
+    "title": "The tragedy of the commons, AI edition",
+    "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
+    "source": "Hacker News",
+    "published_at": "Sun, 09 Aug 2026 19:43:52 +0000",
+    "description": "Article URL: https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition Comments URL: https://news.ycombinator.com/item?id=49235011 Points: 72 # Comments: 39",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "RAG"
+    ]
+  },
+  {
+    "title": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
+    "url": "https://github.com/eighttrigrams/us-vs-them",
+    "source": "Hacker News",
+    "published_at": "Sun, 09 Aug 2026 15:25:29 +0000",
+    "description": "Article URL: https://github.com/eighttrigrams/us-vs-them Comments URL: https://news.ycombinator.com/item?id=49232300 Points: 44 # Comments: 11",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "Taxi drivers rarely die of Alzheimer's",
+    "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
+    "source": "Hacker News",
+    "published_at": "Sun, 09 Aug 2026 15:21:46 +0000",
+    "description": "Article URL: https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650 Comments URL: https://news.ycombinator.com/item?id=49232253 Points: 178 # Comments: 129",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "vitali87 / code-graph-rag",
+    "url": "https://github.com/vitali87/code-graph-rag",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs [96 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "RAG"
+    ]
+  },
+  {
+    "title": "ZhuLinsen / daily_stock_analysis",
+    "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs. [306 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "LLM"
+    ]
+  },
+  {
+    "title": "harveyai / harvey-labs",
+    "url": "https://github.com/harveyai/harvey-labs",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "A benchmark built to evaluate and improve agent capabilities for supporting legal work. [47 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "vladmandic / sdnext",
+    "url": "https://github.com/vladmandic/sdnext",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "SD.Next: All-in-one WebUI for AI generative image and video creation, captioning and processing [24 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "generative"
+    ]
+  },
+  {
+    "title": "stanfordnlp / dspy",
+    "url": "https://github.com/stanfordnlp/dspy",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "DSPy: The framework for programming—not prompting—language models [152 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "language model",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Significant-Gravitas / AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. [29 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "GPT"
+    ]
+  },
+  {
+    "title": "TauricResearch / TradingAgents",
+    "url": "https://github.com/TauricResearch/TradingAgents",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework [598 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "agent",
+      "LLM"
+    ]
+  },
+  {
+    "title": "JCodesMore / ai-website-cloner-template",
+    "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Clone any website with one command using AI coding agents [206 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "Mininglamp-OSS / octo-web",
+    "url": "https://github.com/Mininglamp-OSS/octo-web",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Web & desktop (Electron) client for the OCTO open workplace — one React + TypeScript codebase shipping browser and PC surfaces, with first-class AI agent UX. [83 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  }
+]

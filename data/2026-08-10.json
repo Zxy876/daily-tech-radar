@@ -1,0 +1,262 @@
+{
+  "date": "2026-08-10",
+  "candidates": [
+    {
+      "title": "MervinPraison / PraisonAI",
+      "url": "https://github.com/MervinPraison/PraisonAI",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with built-in memory, RAG, and support for 100+ LLMs. [25 stars today]",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "autonomous",
+        "RAG",
+        "memory"
+      ]
+    },
+    {
+      "title": "diegosouzapw / OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors [833 stars today]",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "Claude",
+        "Gemini",
+        "Copilot",
+        "GPT"
+      ]
+    },
+    {
+      "title": "PrimeIntellect-ai / prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks. [2,356 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "workflow",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "vectorize-io / hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Hindsight: Agent Memory That Learns [80 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "agent",
+        "vector",
+        "memory"
+      ]
+    },
+    {
+      "title": "browseros-ai / BrowserOS",
+      "url": "https://github.com/browseros-ai/BrowserOS",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia. [76 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "GPT"
+      ]
+    },
+    {
+      "title": "InsForge / InsForge",
+      "url": "https://github.com/InsForge/InsForge",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end. [11 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "RAG"
+      ]
+    },
+    {
+      "title": "AI assistant hacks gym website in first known Australian autonomous cyber attack",
+      "url": "https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986",
+      "source": "Hacker News",
+      "published_at": "Sun, 09 Aug 2026 21:52:23 +0000",
+      "description": "Article URL: https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986 Comments URL: https://news.ycombinator.com/item?id=49236439 Points: 39 # Comments: 22",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "Show HN: Alphabet Soup, a multiplayer game, build the longest word to win",
+      "url": "https://alphabetsoup.club",
+      "source": "Hacker News",
+      "published_at": "Sun, 09 Aug 2026 20:15:45 +0000",
+      "description": "I've been working on a simple multiplayer word game called Alphabet Soup. It's a bit like NYT Spelling Bee, except it's multiplayer and only your best (longest) word counts toward your score. So, instead of trying to find as many words as possible, the game is more about finding one unusually good word. You can play with friends in a private match, or, you can join a public Arena match to play against other players who are online. If no one else is around, you'll be matched with a bot. The game ",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "game"
+      ]
+    },
+    {
+      "title": "The tragedy of the commons, AI edition",
+      "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
+      "source": "Hacker News",
+      "published_at": "Sun, 09 Aug 2026 19:43:52 +0000",
+      "description": "Article URL: https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition Comments URL: https://news.ycombinator.com/item?id=49235011 Points: 72 # Comments: 39",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "RAG"
+      ]
+    },
+    {
+      "title": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
+      "url": "https://github.com/eighttrigrams/us-vs-them",
+      "source": "Hacker News",
+      "published_at": "Sun, 09 Aug 2026 15:25:29 +0000",
+      "description": "Article URL: https://github.com/eighttrigrams/us-vs-them Comments URL: https://news.ycombinator.com/item?id=49232300 Points: 44 # Comments: 11",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "Taxi drivers rarely die of Alzheimer's",
+      "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
+      "source": "Hacker News",
+      "published_at": "Sun, 09 Aug 2026 15:21:46 +0000",
+      "description": "Article URL: https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650 Comments URL: https://news.ycombinator.com/item?id=49232253 Points: 178 # Comments: 129",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "vitali87 / code-graph-rag",
+      "url": "https://github.com/vitali87/code-graph-rag",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs [96 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "RAG"
+      ]
+    },
+    {
+      "title": "ZhuLinsen / daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs. [306 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "title": "harveyai / harvey-labs",
+      "url": "https://github.com/harveyai/harvey-labs",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "A benchmark built to evaluate and improve agent capabilities for supporting legal work. [47 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "vladmandic / sdnext",
+      "url": "https://github.com/vladmandic/sdnext",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "SD.Next: All-in-one WebUI for AI generative image and video creation, captioning and processing [24 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "generative"
+      ]
+    },
+    {
+      "title": "stanfordnlp / dspy",
+      "url": "https://github.com/stanfordnlp/dspy",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "DSPy: The framework for programming—not prompting—language models [152 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "language model",
+        "prompt"
+      ]
+    },
+    {
+      "title": "Significant-Gravitas / AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. [29 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "GPT"
+      ]
+    },
+    {
+      "title": "TauricResearch / TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework [598 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "agent",
+        "LLM"
+      ]
+    },
+    {
+      "title": "JCodesMore / ai-website-cloner-template",
+      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Clone any website with one command using AI coding agents [206 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "Mininglamp-OSS / octo-web",
+      "url": "https://github.com/Mininglamp-OSS/octo-web",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Web & desktop (Electron) client for the OCTO open workplace — one React + TypeScript codebase shipping browser and PC surfaces, with first-class AI agent UX. [83 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-08-10\n\n这是为你定制的**疯狂发明家技术雷达**。今天从候选源中为你精选了 **4 条** 最具跨学科冲击力、最能直接转化为项目灵感的内容。\n\n---\n\n## [Us vs Them] Human vs AI 行级代码/文本演化溯源追踪器\n- **来源**：Hacker News\n- **链接**：https://github.com/eighttrigrams/us-vs-them\n- **一句话解释**：一个专为 Agent 协作时代设计的行级（line-level）Diff 工具，精准追踪每一行代码/文本到底是人类写的还是 AI 动的。\n- **它为什么重要**：当 Agent 自动重构你的全栈项目或剧本时，“谁写了什么”、“AI 什么时候默默改了我的设计”变成了 HCI 的核心盲区。它为“Spec-driven”与“人机共创”提供了基因级别的溯源能力。\n- **技术趋势标签**：HCI / Human-AI Co-creation / Spec-Driven Workflow / Git Provenance\n- **可复用模式**：**混合协作基因图谱（Hybrid Lineage Mapping）**——将版本控制从文件快照级下沉到“人类 vs AI 混合基因组”级别。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：挂载到你的写代码/写作流程中，实时生成一张“代码/文本的 DNA 重组热力图”，直观看到 AI 侵蚀率。\n  2. **一个中型项目**：**Spec-Diff Studio**：可视化创意 IDE 插件。对比 Spec 意图与 Agent 实际产出，用颜色红框警告“Agent 擅自越权/过度发挥”的代码段。\n  3. **一个艺术/游戏/叙事方向**：**《AI 考古遗址》（Archeology of Mind）**：交互式生成小说。读者可切换“视角滤镜”，揭露哪些剧情是 AI 逻辑膨胀产物，哪些是人类作者的创作，把文本修改历史做成地下遗迹挖掘游戏。\n- **对我项目的启发**：给你的 Spec-driven 工作流做个“AI 贡献度/偏离度”可视化层，以此评估 Spec 约束力对 Agent 产出的控制精准度。\n- **今天是否值得深入研究**：是\n- **建议行动**：试用\n\n---\n\n## [Hindsight] 会自我反思与生长的 Agent 动态记忆库\n- **来源**：GitHub Trending Python\n- **链接**：https://github.com/vectorize-io/hindsight\n- **一句话解释**：拒绝死板的静态 RAG，这是一个能根据历史执行成败自动自我调整、总结和演化的 Agent 记忆框架。\n- **它为什么重要**：静态 RAG 只是死板的字典，而 Hindsight 赋予了 Agent“事后诸葛亮”的自省机制。这是构建“自愈型 Coding Agent”和“长效进化游戏 NPC”的关键拼图。\n- **技术趋势标签**：Agent Dynamic Memory / Self-Improving Systems / RAG Next-Gen\n- **可复用模式**：**反思驱动的记忆图谱更新（Reflection-Driven Memory Evolution）**——把失败或成功的反馈，转化为可跨任务复用的长期认知规则。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：写一个会自我吐槽的 Bug 修复 Agent，每当它调通一个 Demo，就自动总结一条“人类代码癖好规避法则”存入长期记忆。\n  2. **一个中型项目**：**Minecraft 异化部落（Evolving NPC Memory）**：在 Minecraft 放入几组搭载 Hindsight 的 NPC。它们会记住玩家的欺骗/帮助行为，并在数天后根据历史交互进化出独属于这个服务器的“民间传说与神话信仰”。\n  3. **一个艺术/游戏/叙事方向**：**《记忆腐蚀剧场》**：一个实时演化的涌现式悬疑戏剧。NPC 演员在每场演出后根据观众的互动产生偏执记忆，甚至会推导出“虚假记忆（False Memories）”，导致第二天的剧本走向不可预测的偏执方向。\n- **对我项目的启发**：淘汰你的静态 Vector Store，为你的 Agent 流程加上 Hindsight 这种“事后反思闭环”，让工具链越用越懂你的 Coding 审美。\n- **今天是否值得深入研究**：是\n- **建议行动**：做demo\n\n---\n\n## [London Taxi Drivers & Spatial Memory] 伦敦出租车司机的海马体秘密与空间认知地图\n- **来源**：Hacker News\n- **链接**：https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650\n- **一句话解释**：研究表明伦敦出租车司机通过记忆极其复杂的城市网格，其海马体发生了物理级重塑，极少患阿尔茨海默病。\n- **它为什么重要**：空间化（Spatialization）不仅是人类高级认知的载体，更是打破平淡 Chat UI 的终极隐喻。抽象的代码库、LLM 的记忆、以及 Spec 架构都可以被映射为可导航的“空间城市”。\n- **技术趋势标签**：Spatial UI / World Generation / Creative Coding / Minecraft Integration\n- **可复用模式**：**空间拓扑图谱隐喻（Spatial Topology Metaphor）**——将无形的逻辑/知识结构，降维重构为具有地理深度的“三维认知空间”。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：写一段脚本，把你的 GitHub 仓库目录结构，用 Three.js/p5.js 实时渲染成一座带有街区、高楼和路网的“代码城市（Code-City）”。\n  2. **一个中型项目**：**Minecraft 智识三维副本生成器**：结合 LLM 知识库，把一段复杂的论文或代码库直接生成为一个 Minecraft 可探索副本！复杂的函数是密道，关键节点是神庙，玩家必须通过“探索跑图”来理解代码逻辑。\n  3. **一个艺术/游戏/叙事方向**：**《记忆宫殿重构师》（The Knowledge）**：空间解谜游戏。玩家扮演记忆治疗师，通过在一个庞大的生成式三维城市中导航、铺路、重新连通道路，来修复患病老人混乱坍塌的记忆网络。\n- **对我项目的启发**：抛弃标准的对话框（Chatbot），尝试把 Agent 的思考过程和上下文做成“空间三维网格（Spatial UI）”供用户探索。\n- **今天是否值得深入研究**：是\n- **建议行动**：收藏\n\n---\n\n## [Code Graph RAG] 基于知识图谱的 Monorepo 代码分析引擎\n- **来源**：GitHub Trending Python\n- **链接**：https://github.com/vitali87/code-graph-rag\n- **一句话解释**：利用知识图谱（Knowledge Graph）与大模型结合，为大型复杂多语言代码库打造的下一代结构化 RAG 工具。\n- **它为什么重要**：代码天然是树与图拓扑，纯文本切片的 RAG 对代码极其无力。Graph + LLM 是实现“Spec-driven 自动系统”和“复杂游戏系统代码生成”的核心基础设施。\n- **技术趋势标签**：Graph RAG / Spec-Driven Architecture / Developer Tools / System Design\n- **可复用模式**：**拓扑结构+语义双重检索（Graph Topology + Semantic Hybrid Retrieval）**——不只检索文本相似度，更检索代码调用链与架构依赖网格。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：用它解析一个开源的 Creative Coding 库（如 p5.js），询问：“找出所有直接影响画布渲染颜色的函数调用网络”。\n  2. **一个中型项目**：**Spec-Architecture Guard（架构守卫）**：结合 Spec 驱动理念，每次代码提交时，由 Code Graph 校验 Agent 生成的代码图谱是否符合 Spec 定义的架构图，违规调用直接拒收。\n  3. **一个艺术/游戏/叙事方向**：**《代码交响乐网络》**：将代码库的图结构映射为三维音序器，节点连线是音轨，函数调用是节奏，Agent 实时修改代码时，系统同步演奏出一场 Algorave 生成式音乐。\n- **对我项目的启发**：在你设计 Spec 时，Spec 不仅可以是 Markdown 规范，还可以定义为一种图拓扑约束（Graph Constraint）。\n- **今天是否值得深入研究**：是\n- **建议行动**：试用\n\n---\n\n## 今日模式总结\n\n1. **认知与代码的空间图谱化 (Spatial & Graph Abstraction)**\n   从代码库的 Graph RAG 到出租车司机的海马体网格，抽象信息向三维拓扑与结构图谱转换是当下的核心突破点，能大幅提升 Agent 检索精度与人机交互（HCI）维度。\n2. **反思型与溯源型 Agent 基因 (Reflective & Provenance Agentics)**\n   Agent 正从“单次命令执行器”进化为具有事后自省能力（Hindsight）的实体，同时在人机共创中，精细化的“人/AI 贡献度血统追踪（Lineage Provenance）”正成为必要的安全垫。\n\n---\n\n## 今日可做小实验\n\n### 🧪 项目名称：Spec-DNA Visualizer（Spec 代码基因溯源热力图）\n\n*   **输入**：一个 Markdown 格式的 Spec 文件 + 一个 Agent 产生的代码文件 + 你手动修改后的代码文件。\n*   **输出**：一个极简的交互式 HTML 页面，像 DNA 基因测序图一样，用不同颜色高亮显示：“Spec 严格符合段”、“Agent 自由发挥段”、“人类介入修正段”，并计算出“Agent 偏离指数”。\n*   **技术栈**：Python (`difflib`) + 极简 HTML/TailwindCSS + Claude/OpenAI API。\n*   **第一步怎么做**：\n    1. 写一个 30 行的 Python 脚本，用 `difflib.SequenceMatcher` 逐行对比 Agent 生成的代码与你的最终代码。\n    2. 将修改过和未修改的行打上标签 (`human_modified`, `agent_generated`)。\n    3. 调用一次 LLM，让它把每一行代码与原始 Spec 进行语义匹配，标注出“超越 Spec 预设”的行。\n    4. 将结果组装为 JSON，直接生成一段包含 CSS 高亮颜色的 `index.html` 并在浏览器打开！",
+  "gemini_success": true,
+  "telegram_sent": false,
+  "telegram_status": "failed",
+  "telegram_reason": "400 Client Error: Bad Request for url: https://api.telegram.org/bot8650722899:AAHUD-aqNDB7NwiPiGq3R22MVp77Cr_5GEQ/sendMessage"
+}
