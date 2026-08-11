@@ -1,0 +1,294 @@
+[
+  {
+    "title": "AgentPatch: Coarse-to-Fine Weak-Task Repair for Merging Agentic Multimodal Large Language Models",
+    "url": "https://arxiv.org/abs/2608.06699",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 10 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.06699v1 Announce Type: new \nAbstract: Agentic multimodal large language models (MLLMs) extend multimodal perception and reasoning with planning, tool use, and interaction in dynamic environments. Yet current models are specialized for particular tools or environments, complicating consolidation into a single generalist. We formulate Agentic MLLM Merging and identify two challenges: asymmetric capability preservation, whereby capabilities with different interaction complexity are retai",
+    "score": 16.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "multimodal",
+      "tool use",
+      "reasoning",
+      "planning"
+    ]
+  },
+  {
+    "title": "ruvnet / ruflo",
+    "url": "https://github.com/ruvnet/ruflo",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated [108 stars today]",
+    "score": 14.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "workflow",
+      "autonomous",
+      "RAG",
+      "memory"
+    ]
+  },
+  {
+    "title": "Long-Horizon Agent Trajectory Attribution: A Unified Benchmark and Fine-Grained Annotation Framework",
+    "url": "https://arxiv.org/abs/2608.06909",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 10 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.06909v1 Announce Type: new \nAbstract: Large language model (LLM) agents increasingly operate through long-horizon trajectories involving user instructions, tool use, external observations, and memory. Existing benchmarks primarily evaluate behavioral outcomes but provide limited support for fine-grained attribution analysis. We introduce trajectory attribution and develop a benchmark and annotation framework for this task. The benchmark organizes heterogeneous trajectories under a uni",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "tool use",
+      "memory"
+    ]
+  },
+  {
+    "title": "The Optimizer Is the Agent: Reasoning-Driven Search across Prompts, Programs, and ML Workflows",
+    "url": "https://arxiv.org/abs/2608.06714",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 10 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.06714v1 Announce Type: new \nAbstract: Recent systems for optimizing prompts, programs, and ML workflows typically rely on explicit outer-loop controllers such as evolutionary search, bandits, or textual-gradient methods. We ask a fundamentally different question: how much of this search policy can be internalized by a single tool-using agent? We present ReASearch, a unified framework for reasoning-driven optimization in which the agent autonomously decides what to evaluate, how to dia",
+    "score": 10.0,
+    "keywords_matched": [
+      "agent",
+      "workflow",
+      "autonomous",
+      "prompt",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Deal Me Maybe: The Role of Emotions in Multi-Agent Negotiation",
+    "url": "https://arxiv.org/abs/2608.06922",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 10 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.06922v1 Announce Type: new \nAbstract: Negotiation is a demanding social task for LLM agents, requiring strategic reasoning, persuasion, and interpersonal adaptation. Yet existing benchmarks often treat agents as emotionally neutral, overlooking a key driver of human bargaining behavior. We study how prompt-conditioned emotions affect LLM-based price negotiation. In a controlled framework, buyer and seller agents are independently assigned one of six emotional states and negotiate over",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "prompt",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "diegosouzapw / OmniRoute",
+    "url": "https://github.com/diegosouzapw/OmniRoute",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors [975 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "Claude",
+      "Gemini",
+      "Copilot",
+      "GPT"
+    ]
+  },
+  {
+    "title": "apify / crawlee",
+    "url": "https://github.com/apify/crawlee",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation. [32 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "automation",
+      "GPT",
+      "RAG"
+    ]
+  },
+  {
+    "title": "Interpretable Unsupervised Community Detection with LLM-Symbolized Structured Processes",
+    "url": "https://arxiv.org/abs/2608.06402",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 10 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.06402v1 Announce Type: new \nAbstract: Community detection is a fundamental task in graph analytics that aims to identify cohesive groups of entities with similar behaviors or interests. Classic objective-driven methods struggle with complex graph structures, while deep-learning approaches improve performance at the expense of interpretability and rely on labeled data and training. Large language models (LLMs), with strong reasoning capabilities and world knowledge, are promising for i",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "WebGrader: Training LLMs for Web Development with Self-Evolving Programmatic Grader",
+    "url": "https://arxiv.org/abs/2608.06474",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 10 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.06474v1 Announce Type: new \nAbstract: Large language models increasingly generate complete websites from natural-language descriptions, and reinforcement learning has become a central approach to closing their remaining functional gap. This training regime is bottlenecked by reward design. Hand-authored browser scripts are executable yet costly to write for open-ended requirements, while VLM and GUI-agent graders scale but may issue verdicts before observing the decisive state. We pro",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model"
+    ]
+  },
+  {
+    "title": "IB-RL: Isolated Bilateral Reinforcement Learning for Strategic Dialogue Agents",
+    "url": "https://arxiv.org/abs/2608.06735",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 10 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.06735v1 Announce Type: new \nAbstract: Reinforcement learning (RL) has achieved strong results in improving large language models (LLMs) on tasks with stationary, verifiable rewards, such as mathematical reasoning and code execution. In these settings, the environment follows fixed rules and does not adapt strategically to the agent. Strategic dialogue differs in this respect: the environment is another agent that adapts to the policy, and success depends on the interaction between the",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "MemPrism: Task-Conditioned Relational Memory Views for Long-Horizon Agents",
+    "url": "https://arxiv.org/abs/2608.06745",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 10 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.06745v1 Announce Type: new \nAbstract: Long-horizon agents rely on memory to reuse experiences, yet existing memory systems often assume that evidence can be directly consumed through a fixed representation. This leads to representation mismatch, where relevant information is available but not organized for the current decision. To this end, we propose MemPrism, a task-conditioned relational memory framework that separates persistent experience storage from decision-time working memory",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "RAG",
+      "memory"
+    ]
+  },
+  {
+    "title": "Gated-BEPO: Confidence-Gated Bellman Credit Assignment for Large Language Model Agents",
+    "url": "https://arxiv.org/abs/2608.06861",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 10 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.06861v1 Announce Type: new \nAbstract: Training large language model agents in long-horizon environments requires assigning credit from sparse terminal outcomes to individual actions. Existing critic-free methods propagate trajectory-level rewards uniformly across steps, while recent approaches construct step-level groups by matching repeated states and compare actions within each group. The former cannot distinguish useful actions in failed trajectories from ineffective actions in suc",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model"
+    ]
+  },
+  {
+    "title": "From Retrieval to Synthesis: Repair Literacy and the Domestication of Generative AI",
+    "url": "https://arxiv.org/abs/2601.20749",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 10 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2601.20749v3 Announce Type: replace \nAbstract: How do students develop AI literacy through everyday practice rather than formal instruction? While normative AI literacy frameworks proliferate, empirical understanding of how students actually learn to work with generative AI remains limited. This study analyzes 10,536 ChatGPT messages from 36 undergraduates over one academic year, revealing five use genres -- academic workhorse, emotional companion, metacognitive partner, repair and negotia",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "GPT",
+      "retrieval",
+      "generative"
+    ]
+  },
+  {
+    "title": "Latent Fact-Checking: Detecting Misinformation through Activation Engineering",
+    "url": "https://arxiv.org/abs/2608.06417",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 10 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.06417v1 Announce Type: new \nAbstract: The proliferation of misinformation online has driven demand for scalable detection systems. While most existing approaches rely on surface-level linguistic features or external knowledge retrieval, we examine truthfulness as a geometric property of a language model's representation space. We introduce a misinformation detection framework grounded in activation engineering, which leverages the latent geometry of transformer models. Our approach el",
+    "score": 8.0,
+    "keywords_matched": [
+      "transformer",
+      "language model",
+      "RAG",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Retrofitting Linear Attention into Diffusion Language Models",
+    "url": "https://arxiv.org/abs/2608.06628",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 10 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.06628v1 Announce Type: new \nAbstract: Diffusion language models (dLLMs) offer a promising alternative to autoregressive models by accelerating inference through parallel decoding. Recent dLLMs commonly use blockwise semi-autoregressive decoding, generating blocks autoregressively while denoising tokens within each active block in parallel. However, despite KV caching, each denoising step still attends to all previous blocks, repeatedly incurring prefix-attention cost. Motivated by thi",
+    "score": 8.0,
+    "keywords_matched": [
+      "LLM",
+      "diffusion",
+      "language model",
+      "inference"
+    ]
+  },
+  {
+    "title": "Multi-Level Modeling of Large Language Model Inference Latency and Energy via Hybrid Analytical--Machine-Learning Predictors",
+    "url": "https://arxiv.org/abs/2608.06723",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 10 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.06723v1 Announce Type: new \nAbstract: The rapid scaling of Large Language Models (LLMs) has significantly increased computational cost, energy consumption, and inference latency, making accurate estimation essential for sustainable artificial intelligence deployment and hardware-aware design. In this work, we introduce Hybrid Modeling for Energy and Latency of LLMs (HYMELL), a hybrid three-level framework for estimating LLM inference latency and energy by combining analytical modeling",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "inference"
+    ]
+  },
+  {
+    "title": "Solver-Guided Reasoning for Mixed-Equilibrium Strategies",
+    "url": "https://arxiv.org/abs/2608.06741",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 10 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.06741v1 Announce Type: new \nAbstract: Reasoning in large language models (LLMs) is often grounded in human text, human demonstrations, and human-generated rationales. For equilibrium reasoning in complex games, however, relying on human data can be suboptimal. In fact, human play is often guided by intuition and heuristics and can deviate substantially from game equilibrium. This discrepancy is amplified in games with mixed-strategy equilibria, where human data is heavily biased towar",
+    "score": 8.0,
+    "keywords_matched": [
+      "LLM",
+      "game",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "neuml / txtai",
+    "url": "https://github.com/neuml/txtai",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows [10 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "workflow",
+      "language model"
+    ]
+  },
+  {
+    "title": "PrimeIntellect-ai / prime-agent",
+    "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks. [2,642 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines",
+    "url": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs",
+    "source": "Hacker News",
+    "published_at": "Mon, 10 Aug 2026 14:20:41 +0000",
+    "description": "Article URL: https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs Comments URL: https://news.ycombinator.com/item?id=49244085 Points: 96 # Comments: 14",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "Claude",
+      "GPT"
+    ]
+  }
+]
