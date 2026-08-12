@@ -1,0 +1,310 @@
+{
+  "date": "2026-08-12",
+  "candidates": [
+    {
+      "title": "Agent-MD: Selective LLM Intervention with Event-Driven Escalation for Stateful GCMC--MD Campaigns",
+      "url": "https://arxiv.org/abs/2608.07637",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 11 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.07637v1 Announce Type: new \nAbstract: Long-running molecular simulation campaigns require repeated continuation from saved states, provenance-aware progression, adaptive assessment, and occasional interpretation of workflow conditions that cannot be resolved safely by fixed rules. Here, we present Agent-MD, a framework that places large language model (LLM) reasoning selectively at campaign construction and event-triggered review, while routine simulation, analysis, continuation, arch",
+      "score": 14.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "workflow",
+        "simulation",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "An Agentic AI Framework Overcomes Fundamental Limitations of Large Language Models for Glaucoma Detection from Fundus Photography",
+      "url": "https://arxiv.org/abs/2608.07651",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 11 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.07651v1 Announce Type: new \nAbstract: Large language models (LLMs) show promise in medical image interpretation but suffer from hallucination, limited accuracy, and run-to-run inconsistency. We developed and validated an agentic AI framework integrating LLMs with specialized deep learning tools for glaucoma detection from fundus photography. The workflow had three steps: (1) LLM initial assessment; (2) function calling to invoke specialized tools for image quality (QAModel, FundaQ-8),",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "workflow",
+        "language model",
+        "function calling"
+      ]
+    },
+    {
+      "title": "GraphThink: Graph-Enhanced LLM Thinking for Long-Horizon Embodied Task Planning",
+      "url": "https://arxiv.org/abs/2608.07905",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 11 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.07905v1 Announce Type: new \nAbstract: Embodied agents using LLM-based planners often struggle with physical hallucinations, poor generalization to long-horizon tasks, and lack of environmental awareness. We propose GraphThink, a novel framework that integrates a task graph to provide structured knowledge for robust planning and a scene graph to maintain environmental memory for event-driven replanning. Specifically, the task graph guides LLM thinking through contextual prompting and i",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "prompt",
+        "planning",
+        "memory"
+      ]
+    },
+    {
+      "title": "Knowing You Is Everything: LLM Agents Achieve Near-Perfect Profile-Consistent Reaction Prediction in Social Media Simulation",
+      "url": "https://arxiv.org/abs/2608.07498",
+      "source": "arXiv cs.HC",
+      "published_at": "Tue, 11 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.07498v1 Announce Type: new \nAbstract: Autonomous AI agents in social media present concrete risks to democratic discourse and platform governance, while also offering tools for pre-deployment recommender system testing. A central open question is whether persona-prompted LLMs can simulate individual-level social media reactions with sufficient accuracy to support either application, and how accuracy depends on profile completeness, model selection, and the generalization challenge pos",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "simulation",
+        "autonomous",
+        "prompt"
+      ]
+    },
+    {
+      "title": "PIVOT: Preference-based Intervention Vectors for Pedagogical Tutor Steering",
+      "url": "https://arxiv.org/abs/2608.07509",
+      "source": "arXiv cs.HC",
+      "published_at": "Tue, 11 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.07509v1 Announce Type: new \nAbstract: LLMs are increasingly used for conversational tutoring, but effective tutoring requires more than correct answers. Tutors must choose when to scaffold reasoning, hint, give feedback, explain, or invite reflection. Existing prompting and training methods improve pedagogical alignment, but lack reliable inference-time control over pedagogical strategies. We introduce PIVOT, an activation-steering framework that learns preference-based intervention v",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "vector",
+        "inference",
+        "prompt",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Controlled Memory Interference in Continual LLM Agents",
+      "url": "https://arxiv.org/abs/2608.07622",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 11 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.07622v1 Announce Type: new \nAbstract: Long-term memory enables AI agents to maintain continuity across sessions, personalize behavior, and evolve through accumulated experience. Yet memory evolution is not simply a process of storing more information: new experiences may reinforce, revise, or interfere with existing memory states. Existing systems mainly emphasize memory construction and relevance-based retrieval, but several memories may remain simultaneously relevant while differing",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "memory",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Contextual Value Alignment via Multilayer Combinatorial Fusion",
+      "url": "https://arxiv.org/abs/2608.07642",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 11 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.07642v1 Announce Type: new \nAbstract: Aligning large language models (LLMs) with human values remains a major challenge, especially for trustworthy AI. While existing approaches such as RLHF, CAI, and their variants have achieved promising results, they often rely on a single-agent framework and a unified reward system. This limits their ability to capture ethical pluralism, adapt to diverse moral contexts, and reflect the dynamics of multi-agent moral reasoning.\n  In this work, we pr",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "How to Ask the AI: A User Perspective Survey for Large Language Model Prompting",
+      "url": "https://arxiv.org/abs/2608.07494",
+      "source": "arXiv cs.HC",
+      "published_at": "Tue, 11 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.07494v1 Announce Type: new \nAbstract: AI tools like ChatGPT and DeepSeek, powered by Large Language Models (LLMs), allow users to obtain instant and effective content responses simply by typing requests, such as ``plan a three-day Vienna trip'', ``solve the attached mathematical problem'', ``draft an email to inquire review progress'', etc., which are also known as LLM prompts. Crafting clear and well-structured prompts leads to more appropriate LLM feedback, which effectively bridges",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "GPT",
+        "language model",
+        "prompt"
+      ]
+    },
+    {
+      "title": "Human-Simulation Interaction: From Prediction to Exploration in LLM Agent Simulations for Policy",
+      "url": "https://arxiv.org/abs/2608.07496",
+      "source": "arXiv cs.HC",
+      "published_at": "Tue, 11 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.07496v1 Announce Type: new \nAbstract: Agent-based models have historically served as tools for generative explanation, constructing testbeds in which candidate micro-level behavioral rules can be tested for their capacity to produce observed macro-level phenomena. The integration of Large Language Models into agent-based simulation has expanded what these models can represent, but it has also introduced an unexamined shift in how users engage them. We argue that current generative age",
+      "score": 10.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "simulation",
+        "language model",
+        "generative"
+      ]
+    },
+    {
+      "title": "EvalConvoLearn: An Open-Source Framework for Evaluating Grounded Learner Simulations in Tutoring Conversations",
+      "url": "https://arxiv.org/abs/2608.07497",
+      "source": "arXiv cs.HC",
+      "published_at": "Tue, 11 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.07497v1 Announce Type: new \nAbstract: Conversational learner simulations are valuable tools for testing learning theories, evaluating instructional materials and automated tutors, or powering teachable agents. Recently, large language models (LLM) have enabled richer, more naturalistic interactions with simulated learners; however, no open framework exists for evaluating whether such simulations faithfully reproduce real learner behavior. We introduce EvalConvoLearn, an open-source fr",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "simulation",
+        "language model"
+      ]
+    },
+    {
+      "title": "Weather- and Location-Aware Agentic Dining Recommendation: Leveraging LLM World Knowledge for Region-Sensitive Contextual Reasoning",
+      "url": "https://arxiv.org/abs/2608.07593",
+      "source": "arXiv cs.HC",
+      "published_at": "Tue, 11 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.07593v1 Announce Type: new \nAbstract: Context-aware recommender systems have long recognized that factors such as location, time, and weather shape where and what people choose to eat. Existing weather-aware food and point-of-interest recommenders, however, typically treat weather generically -- mapping conditions to preferences through hand-crafted rules or specially trained context models -- and do not capture that the culturally appropriate response to weather is itself region-spec",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "RAG",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "SPECTRA: Pushing the KV Cache Beyond the 2-Bit Cliff via Spectral Transform Coding",
+      "url": "https://arxiv.org/abs/2608.07915",
+      "source": "arXiv cs.LG",
+      "published_at": "Tue, 11 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.07915v1 Announce Type: new \nAbstract: Large language models (LLMs) increasingly read long inputs in the agentic era, from whole documents and codebases to conversations across many turns. Their inference memory is then dominated by the key-value (KV) cache, the stored attention keys and values of every token the model has read and generated. Because the cache grows with context length and is re-read in full at every generated token, a longer context means more GPU memory.\n  To reduce ",
+      "score": 10.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "language model",
+        "inference",
+        "memory"
+      ]
+    },
+    {
+      "title": "ZeroLock: Concurrent Memory-Efficient LLM Training via Modular Update Decoupling",
+      "url": "https://arxiv.org/abs/2608.07974",
+      "source": "arXiv cs.LG",
+      "published_at": "Tue, 11 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.07974v1 Announce Type: new \nAbstract: Large language model (LLM) fine-tuning at the edge adapts the model to scenario-specific data while preserving privacy. Although existing studies proposed pipeline parallelism to address the limited memory and computing resources of edge devices, they commonly rely on backpropagation (BP) training, which has a fundamental limitation of update locking and could experience severe throughput and memory bottlenecks. In this work, we propose a BP-free ",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "fine-tuning",
+        "memory"
+      ]
+    },
+    {
+      "title": "Accurate Ensembles, Fragile Narratives: Multi-Scale Stacking and a Fidelity Audit of LLM-Generated Explanations for Credit Risk",
+      "url": "https://arxiv.org/abs/2608.08126",
+      "source": "arXiv cs.LG",
+      "published_at": "Tue, 11 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.08126v1 Announce Type: new \nAbstract: Credit scoring increasingly relies on models whose decision logic cannot be read off their parameters, in tension with supervisory expectations that adverse decisions be explainable. A common proposal closes that gap with a language model: compute feature attributions, hand them to an LLM, and let it write the rationale. We build such a system end to end and test whether the second half of the promise holds. The predictive component is a multi-sca",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "RAG",
+        "narrative"
+      ]
+    },
+    {
+      "title": "Dynamic Coalition Formation and Communication Pricing in Skill-Based Agentic AI Systems",
+      "url": "https://arxiv.org/abs/2608.07532",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 11 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.07532v1 Announce Type: new \nAbstract: Modern agentic AI systems combine multiple large language model agents with heterogeneous skills, yet most architectures either fix communication in advance or allow full broadcast. Both can be inefficient because token cost, latency, redundancy, and error propagation increase with the number of active agents and communication links. We model agent selection and communication as a cooperative game with task-conditioned net utility $U(C\\mid x)=V(C\\",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "game",
+        "language model"
+      ]
+    },
+    {
+      "title": "When LLM Agents Negotiate: Private Information and Dynamic Bargaining in Supply Chains",
+      "url": "https://arxiv.org/abs/2608.07538",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 11 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.07538v1 Announce Type: new \nAbstract: As LLM agents move from decision support to autonomous procurement, firms need to know whether delegated negotiators create value, divide it predictably, and avoid money-losing contracts. We study this in a canonical supply chain bargaining problem: a buyer with private demand information negotiates a quantity-payment contract with an uninformed seller. We benchmark nine LLMs from OpenAI, Google, and Alibaba against a validated Perfect Bayesian Eq",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "An AI Scientist that Doesn't Drift: Taste, Structure, and Falsifiable Findings in a Quadruped Navigation Research Loop",
+      "url": "https://arxiv.org/abs/2608.07542",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 11 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.07542v1 Announce Type: new \nAbstract: Autonomous research loops driven by large language models can run machine-learning experiments at scale but tend to drift toward local refinements of whichever metric they optimise rather than testing the hypotheses that motivate the experiments. We address this structurally and present an AI Scientist for studying generalisation in quadruped robot navigation policies in simulation. Building on the autoresearch paradigm of Karpathy, our loop adds ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "simulation",
+        "language model",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "CMU-Drive and V2V-VLA: Cooperative Multi-agent Unified Driving with Reasoning Benchmark and Vehicle-to-Vehicle Vision-Language-Action Models",
+      "url": "https://arxiv.org/abs/2608.07621",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 11 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.07621v1 Announce Type: new \nAbstract: Vision-Language-Action (VLA) models have recently achieved impressive performance for end-to-end autonomous driving, yet existing approaches are primarily designed for an individual single autonomous driving agent with limited support for cooperative perception, reasoning, and planning. We present Cooperative Multi-agent Unified Driving with Reasoning (CMU-Drive), a closed-loop end-to-end benchmark for evaluating cooperative autonomous driving wit",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "autonomous",
+        "reasoning",
+        "planning"
+      ]
+    },
+    {
+      "title": "From Single Chatbots to Governed Agent Ecosystems: An Agentic AI Pattern Catalogue and Orchestration Framework for Mission-Critical Hospital Information Management Systems",
+      "url": "https://arxiv.org/abs/2608.07627",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 11 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.07627v1 Announce Type: new \nAbstract: Hospitals are racing to embed AI, while coping with the surge in adaptation of the technology in other industries, into the triage management, documentation, scheduling, and revenue-cycle workflows, yet most deployments remain as fragmented pilots that stall at the edge of production, exposing patients and institutions to operational fragility, ungoverned risk, and mounting technical debt. At the same time, the global AI-in-healthcare market is pr",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "workflow",
+        "RAG"
+      ]
+    },
+    {
+      "title": "QuantumMind: Constraint-Grounded Agentic Reasoning for Speedup Analysis in Quantum Computing",
+      "url": "https://arxiv.org/abs/2608.07743",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 11 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.07743v1 Announce Type: new \nAbstract: Identifying a meaningful quantum speedup requires more than matching a classical problem to a familiar quantum primitive: the claim must preserve the task, respect access and output models, expose required promises, and remain within a defensible complexity scope. We present QuantumMind, an auditable agentic workflow for generating and conservatively screening quantum-acceleration hypotheses. A fixed sequence of typed, role-specialized actions for",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "workflow",
+        "reasoning"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-08-12\n\nHey！我是你的疯狂发明家技术雷达。今天从 20 篇最新研究中为你筛选出了 **5 个最能触发发明灵感** 的项目。\n\n今天的内容极其硬核且有趣：涉及**防止 Agent 乱跑（Drift）的结构契约**、**Agent 之间的 Token 经济学**、**记忆干扰与曼德拉效应**，以及**混合规则与 LLM 的游戏/模拟引擎**。\n\n以下是今天的精选雷达报告：\n\n---\n\n## 1. 抑制 AI 自主迭代中的“漂移”：基于结构化假说与反驳的自动化闭环\n- 来源：arXiv cs.AI (候选 17)\n- 链接：https://arxiv.org/abs/2608.07542\n- 一句话解释：提出了一种不依靠单纯优化单一指标，而是利用“结构化假说”与“可伪证性断言”来防止自主 AI 在迭代实验中走向局部死循环（Drift）的框架。\n- 它为什么重要：**直接击中你的关键关注点“Drift”！** 当前很多 AI Agent 跑着跑着就偏离初衷，用“看似合理但实际无用”的代码敷衍你。这篇论文给出了用结构化契约约束 Agent 演化方向的具体范式。\n- 技术趋势标签：`Spec-Driven` `Anti-Drift` `Autonomous-Research` `Agent-Workflow`\n- 可复用模式：**假说-伪证契约 pattern (Hypothesis-Falsification Contract)**。Agent 每次做出修改或生成 Spec 时，必须同时提交一个“如果此修改无效，系统如何通过自动化测试证明其失败”的契约。\n- 疯狂发明家灵感：\n  1. **一个小实验**：给你的代码生成 Agent 加一个“反向测试员”。Agent 每次改代码，必须自己写一个针对该改动的断言（Assertion）；只有断言跑通且能证明解决了旧问题，代码才提交。\n  2. **一个中型项目**：**Spec-Driven Creative Coding 节点编辑器**。让 LLM 生成 P5.js/Three.js 视觉代码，但引入“美学与性能评估断言”，防止 AI 生成的代码逐步退化成一团毫无美感的噪音。\n  3. **一个艺术/游戏/叙事方向**：**永不崩溃的涌现式 NPC 社会法律系统**。NPC 可以自主提议和修改社会规则，但规则必须通过系统设定的“社会稳定度断言测试”才能生效，否则会被判定为“空想立法”并引发 NPC 社会动荡。\n- 对我项目的启发：在做 Spec-Driven 自动化开发时，除了定义“要做什么”，更重要的可能是在 Spec 中明确“**如何证明 Agent 在糊弄我**”。\n- 今天是否值得深入研究：**是**\n- 建议行动：做demo\n\n---\n\n## 2. Token 经济学下的 Agent 动态组队与通信定价\n- 来源：arXiv cs.AI (候选 15)\n- 链接：https://arxiv.org/abs/2608.07532\n- 一句话解释：不再让所有 Agent 强行广播或固定分工，而是建立了一个内生市场，让 Agent 根据技能、Token 成本与时延，动态出价组队和购买通信链路。\n- 它为什么重要：把“Token 消耗”和“Agent 协作”变为了一个博弈游戏。这种架构不仅省钱，而且展示了多 Agent 系统中极富戏剧性的“合作与交易”涌现行为。\n- 技术趋势标签：`Game-Systems` `Multi-Agent` `Agent-Economics` `HCI`\n- 可复用模式：**通信拍卖模式 (Dynamic Communication Pricing)**。将 Agent 间的信息传递设计为“受限有偿资源”，强制 Agent 提炼高价值信息。\n- 疯狂发明家灵感：\n  1. **一个小实验**：写两个不同模型的 Agent（如 GPT-4o 和一个微调小模型），给它们设定总 Token 预算，让它们通过拍卖“提问权”来合作解题。\n  2. **一个中型项目**：**独立开发者 Agent 插件市场引擎**。一个主流程 Agent 拥有预算，它可以根据任务复杂度，向外部第三方功能 Agent（爬虫、绘图、逻辑代码）下订单，自动组建最省钱的项目组。\n  3. **一个艺术/游戏/叙事方向**：**《赛博黑市》多 Agent 模拟游戏**。玩家扮演信息中介，NPC Agent 之间因为通信成本和信息差，产生情报贩卖、垄断、甚至因“买不起高阶推理服务”而做出的荒谬决策。\n- 对我项目的启发：可以在复杂 Agent 工作流中引入“内部虚拟预算”，作为防止 Agent 无限递归和浪费 API 额度的物理机制。\n- 今天是否值得深入研究：**是**\n- 建议行动：收藏\n\n---\n\n## 3. Agent 长效记忆中的“可控干预”与“认知干扰”\n- 来源：arXiv cs.AI (候选 6)\n- 链接：https://arxiv.org/abs/2608.07622\n- 一句话解释：研究了 Agent 长效记忆不仅会累积，还会产生“干预、修正和冲突”，并提出了如何主动控制和利用这种记忆干扰机制。\n- 技术趋势标签：`LLM-Memory` `Agent-Architecture` `Interactive-Narrative`\n- 它为什么重要：目前的 Agent 记忆要么是简单的 Vector Search，要么是简单的无脑追加。这篇论文探讨了“新记忆如何重写旧记忆”以及“模糊记忆如何影响决策”，这对设计有血有肉的 NPC 至关重要。\n- 可复用模式：**记忆衰减与冲突重写模式 (Memory Interference Engine)**。\n- 疯狂发明家灵感：\n  1. **一个小实验**：建立一个简单的 Agent 记忆库，每次注入新记忆时，用一个轻量 LLM 去评估新旧记忆的矛盾度，并对旧记忆进行“情绪化扭曲”。\n  2. **一个中型项目**：**智能体“认知调试器”工具**。可视化 Agent 的记忆图谱，并支持开发者手动注入“虚假记忆”或“认知毒素”，观察 Agent 行为的变化（极佳的 Agent 测试工具）。\n  3. **一个艺术/游戏/叙事方向**：**《曼德拉效应》叙事游戏**。玩家不是直接修改物理世界，而是通过给关键 NPC 注入“微小的干扰记忆”，引发 NPC 对过去的记忆重构，从而彻底改变现在的剧情发展。\n- 对我项目的启发：游戏 NPC 的长效记忆不需要绝对准确，“会记错、会自我辩护、会被暗示”的记忆系统才具有极高的叙事价值。\n- 今天是否值得深入研究：**是**\n- 建议行动：做demo\n\n---\n\n## 4. 图增强思想 (GraphThink)：基于双重图结构的长程具身 Agent 规划\n- 来源：arXiv cs.AI (候选 3)\n- 链接：https://arxiv.org/abs/2608.07905\n- 一句话解释：通过“场景图（Scene Graph）维护环境空间记忆”+“任务图（Task Graph）维护长程因果规划”，解决了具身 Agent 容易产生物理幻觉和缺乏环境感知的问题。\n- 它为什么重要：**非常适合 Minecraft / 自动化世界生成！** 纯文本 Prompt 在处理三维空间和长步骤逻辑时极度无力，图结构是连接 LLM 与三维虚拟世界的最佳桥梁。\n- 技术趋势标签：`Minecraft` `World-Generation` `Scene-Graph` `Agent-Planning`\n- 可复用模式：**双图解耦记忆架构 (Dual-Graph Spatial/Task Memory)**。\n- 疯狂发明家灵感：\n  1. **一个小实验**：解析一段 Minecraft 建造数据，生成一个简单的 Scene Graph（表示方块间的空间拓扑），让 Agent 根据图来查找可利用的建筑空间。\n  2. **一个中型项目**：**Minecraft 健壮性建造 Agent**。将建筑蓝图拆解为 Task Graph，结合实时提取的环境 Scene Graph，让 Agent 在遭到怪物干扰或地形破坏时，能动态重构建造路径。\n  3. **一个艺术/游戏/叙事方向**：**涌现式拓扑解谜关卡生成器**。根据玩家的解谜习惯，LLM 实时修改后台的任务拓扑图，并由场景图将其实例化为三维建筑关卡。\n- 对我项目的启发：做游戏或三维生成类 Agent 时，把环境抽象成 Graph 远比把文字塞进 Context 里有效得多。\n- 今天是否值得深入研究：**是**\n- 建议行动：试用\n\n---\n\n## 5. Agent-MD：选择性 LLM 介入与事件驱动升级机制\n- 来源：arXiv cs.AI (候选 1)\n- 链接：https://arxiv.org/abs/2608.07637\n- 一句话解释：在长程复杂模拟中，绝大多数时间由传统的确定性规则/物理引擎运行，只有在发生“规则无法解决的异常事件”时，才触发选择性的 LLM 介入（Escalation）。\n- 它为什么重要：**打破“凡事都用 LLM”的迷思。** 打造疯狂而可行的项目，必须是“极低成本的规则引擎”与“高智商 LLM”的混动架构。\n- 技术趋势标签：`Hybrid-Systems` `Event-Driven` `Simulation` `Creative-Tools`\n- 可复用模式：**事件驱动升级模式 (Event-Driven LLM Escalation)**。\n- 疯狂发明家灵感：\n  1. **一个小实验**：用 JS 写一个简单的物理弹球模拟器，当球陷入“死循环反弹”这种规则异常时，暂停并把现场截图发送给视觉 LLM 决定如何“打碎玻璃”。\n  2. **一个中型项目**：**混合架构游戏 NPC 引擎**。95% 的行为走高帧率的状态机/行为树，只有当玩家做出“未定义的新奇行为”或发生逻辑冲突时，才触发 LLM 挂钩并动态生成新的行为树节点。\n  3. **一个艺术/游戏/叙事方向**：**《程序员上帝》交互艺术**。你设计一套严苛的物理/代码规则，LLM 扮演“异常处理机制”。玩家试图在这个世界里卡 Bug，而 LLM 则实时用荒诞的补丁剧情来修补这个 Bug。\n- 对我项目的启发：在设计 spec-driven 工具或游戏系统时，先用代码定义 90% 的确定性框架，把 LLM 放在边界事件的触发器上，效率和稳定性会爆炸式提升。\n- 今天是否值得深入研究：**否**（掌握思想即可，无需看论文细节）\n- 建议行动：收藏\n\n---\n\n## 今日模式总结\n\n1. **假说/图谱硬约束 (Constraint-Grounded Systems)**：无论是防 Drift 的可伪证断言，还是防物理幻觉的双重图（Scene/Task Graph），纯文本 LLM 正在全面向“带结构硬约束的混合系统”演进。\n2. **事件驱动的选择性介入 (Event-Driven Escalation)**：不要让 LLM 跑主循环！主循环交给规则、物理和确定性代码，LLM 只做“边界异常捕获器”和“长程高阶规划器”。\n3. **将 Token 设计为系统内生资源 (Internal Agent Economy)**：在多 Agent 系统或游戏系统里，把 Token/算力直接转化为机制的一部分（定价、博弈、拍卖），能同时解决成本问题与涌现玩法问题。\n\n---\n\n## 今日可做小实验：2小时极客 Demo\n\n### 项目名称\n**Minecraft Spec-Guard (麦块 Spec 防死循环断言器)**\n\n### 输入\n1. 玩家指令（例：“用木头在悬崖边盖一个小木屋”）\n2. 当前简化的环境数据（例：`{\"terrain\": \"cliff\", \"materials\": [\"wood\": 20], \"danger\": \"high\"}`）\n\n### 输出\n1. LLM 生成的建造步骤计划 (Task Spec)\n2. 关联的 **反驳断言 (Falsification Spec)**（例：`ASSERT: wood_count >= 10 AFTER step_1`，若违反则终止 Agent 并报错）\n\n### 技术栈\n`Python` + `Pydantic` + `OpenAI API (GPT-4o/Claude-3.5-Sonnet)`\n\n### 第一步怎么做\n1. 打开终端，新建目录并安装依赖：`pip install pydantic openai`\n2. 用 Pydantic 定义两个 DataClass：`BuildingTask` 和 `GuardAssertion`。\n3. 写一段 Prompt：“你是一个严苛的建筑 Agent 规划器。你输出计划时，必须针对每一步附带一个物理/资源断言。如果资源不够或物理不合理，断言必须能够触发失败。”\n4. 传入一个故意设陷阱的输入（例如：材料不足但要求盖豪宅），测试你的 Prompt 能否成功捕捉并触发“防 Drift 断言失败”。\n\n---\n*提示：保持兴奋，选一个最让你想写代码的灵感，今天就试试！*",
+  "gemini_success": true,
+  "telegram_sent": true,
+  "telegram_status": "sent",
+  "telegram_reason": ""
+}

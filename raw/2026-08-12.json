@@ -1,0 +1,302 @@
+[
+  {
+    "title": "Agent-MD: Selective LLM Intervention with Event-Driven Escalation for Stateful GCMC--MD Campaigns",
+    "url": "https://arxiv.org/abs/2608.07637",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 11 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.07637v1 Announce Type: new \nAbstract: Long-running molecular simulation campaigns require repeated continuation from saved states, provenance-aware progression, adaptive assessment, and occasional interpretation of workflow conditions that cannot be resolved safely by fixed rules. Here, we present Agent-MD, a framework that places large language model (LLM) reasoning selectively at campaign construction and event-triggered review, while routine simulation, analysis, continuation, arch",
+    "score": 14.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "simulation",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "An Agentic AI Framework Overcomes Fundamental Limitations of Large Language Models for Glaucoma Detection from Fundus Photography",
+    "url": "https://arxiv.org/abs/2608.07651",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 11 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.07651v1 Announce Type: new \nAbstract: Large language models (LLMs) show promise in medical image interpretation but suffer from hallucination, limited accuracy, and run-to-run inconsistency. We developed and validated an agentic AI framework integrating LLMs with specialized deep learning tools for glaucoma detection from fundus photography. The workflow had three steps: (1) LLM initial assessment; (2) function calling to invoke specialized tools for image quality (QAModel, FundaQ-8),",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "language model",
+      "function calling"
+    ]
+  },
+  {
+    "title": "GraphThink: Graph-Enhanced LLM Thinking for Long-Horizon Embodied Task Planning",
+    "url": "https://arxiv.org/abs/2608.07905",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 11 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.07905v1 Announce Type: new \nAbstract: Embodied agents using LLM-based planners often struggle with physical hallucinations, poor generalization to long-horizon tasks, and lack of environmental awareness. We propose GraphThink, a novel framework that integrates a task graph to provide structured knowledge for robust planning and a scene graph to maintain environmental memory for event-driven replanning. Specifically, the task graph guides LLM thinking through contextual prompting and i",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "prompt",
+      "planning",
+      "memory"
+    ]
+  },
+  {
+    "title": "Knowing You Is Everything: LLM Agents Achieve Near-Perfect Profile-Consistent Reaction Prediction in Social Media Simulation",
+    "url": "https://arxiv.org/abs/2608.07498",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 11 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.07498v1 Announce Type: new \nAbstract: Autonomous AI agents in social media present concrete risks to democratic discourse and platform governance, while also offering tools for pre-deployment recommender system testing. A central open question is whether persona-prompted LLMs can simulate individual-level social media reactions with sufficient accuracy to support either application, and how accuracy depends on profile completeness, model selection, and the generalization challenge pos",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "simulation",
+      "autonomous",
+      "prompt"
+    ]
+  },
+  {
+    "title": "PIVOT: Preference-based Intervention Vectors for Pedagogical Tutor Steering",
+    "url": "https://arxiv.org/abs/2608.07509",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 11 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.07509v1 Announce Type: new \nAbstract: LLMs are increasingly used for conversational tutoring, but effective tutoring requires more than correct answers. Tutors must choose when to scaffold reasoning, hint, give feedback, explain, or invite reflection. Existing prompting and training methods improve pedagogical alignment, but lack reliable inference-time control over pedagogical strategies. We introduce PIVOT, an activation-steering framework that learns preference-based intervention v",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "vector",
+      "inference",
+      "prompt",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Controlled Memory Interference in Continual LLM Agents",
+    "url": "https://arxiv.org/abs/2608.07622",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 11 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.07622v1 Announce Type: new \nAbstract: Long-term memory enables AI agents to maintain continuity across sessions, personalize behavior, and evolve through accumulated experience. Yet memory evolution is not simply a process of storing more information: new experiences may reinforce, revise, or interfere with existing memory states. Existing systems mainly emphasize memory construction and relevance-based retrieval, but several memories may remain simultaneously relevant while differing",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "memory",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Contextual Value Alignment via Multilayer Combinatorial Fusion",
+    "url": "https://arxiv.org/abs/2608.07642",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 11 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.07642v1 Announce Type: new \nAbstract: Aligning large language models (LLMs) with human values remains a major challenge, especially for trustworthy AI. While existing approaches such as RLHF, CAI, and their variants have achieved promising results, they often rely on a single-agent framework and a unified reward system. This limits their ability to capture ethical pluralism, adapt to diverse moral contexts, and reflect the dynamics of multi-agent moral reasoning.\n  In this work, we pr",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "How to Ask the AI: A User Perspective Survey for Large Language Model Prompting",
+    "url": "https://arxiv.org/abs/2608.07494",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 11 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.07494v1 Announce Type: new \nAbstract: AI tools like ChatGPT and DeepSeek, powered by Large Language Models (LLMs), allow users to obtain instant and effective content responses simply by typing requests, such as ``plan a three-day Vienna trip'', ``solve the attached mathematical problem'', ``draft an email to inquire review progress'', etc., which are also known as LLM prompts. Crafting clear and well-structured prompts leads to more appropriate LLM feedback, which effectively bridges",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "GPT",
+      "language model",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Human-Simulation Interaction: From Prediction to Exploration in LLM Agent Simulations for Policy",
+    "url": "https://arxiv.org/abs/2608.07496",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 11 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.07496v1 Announce Type: new \nAbstract: Agent-based models have historically served as tools for generative explanation, constructing testbeds in which candidate micro-level behavioral rules can be tested for their capacity to produce observed macro-level phenomena. The integration of Large Language Models into agent-based simulation has expanded what these models can represent, but it has also introduced an unexamined shift in how users engage them. We argue that current generative age",
+    "score": 10.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "simulation",
+      "language model",
+      "generative"
+    ]
+  },
+  {
+    "title": "EvalConvoLearn: An Open-Source Framework for Evaluating Grounded Learner Simulations in Tutoring Conversations",
+    "url": "https://arxiv.org/abs/2608.07497",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 11 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.07497v1 Announce Type: new \nAbstract: Conversational learner simulations are valuable tools for testing learning theories, evaluating instructional materials and automated tutors, or powering teachable agents. Recently, large language models (LLM) have enabled richer, more naturalistic interactions with simulated learners; however, no open framework exists for evaluating whether such simulations faithfully reproduce real learner behavior. We introduce EvalConvoLearn, an open-source fr",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "simulation",
+      "language model"
+    ]
+  },
+  {
+    "title": "Weather- and Location-Aware Agentic Dining Recommendation: Leveraging LLM World Knowledge for Region-Sensitive Contextual Reasoning",
+    "url": "https://arxiv.org/abs/2608.07593",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 11 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.07593v1 Announce Type: new \nAbstract: Context-aware recommender systems have long recognized that factors such as location, time, and weather shape where and what people choose to eat. Existing weather-aware food and point-of-interest recommenders, however, typically treat weather generically -- mapping conditions to preferences through hand-crafted rules or specially trained context models -- and do not capture that the culturally appropriate response to weather is itself region-spec",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "RAG",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "SPECTRA: Pushing the KV Cache Beyond the 2-Bit Cliff via Spectral Transform Coding",
+    "url": "https://arxiv.org/abs/2608.07915",
+    "source": "arXiv cs.LG",
+    "published_at": "Tue, 11 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.07915v1 Announce Type: new \nAbstract: Large language models (LLMs) increasingly read long inputs in the agentic era, from whole documents and codebases to conversations across many turns. Their inference memory is then dominated by the key-value (KV) cache, the stored attention keys and values of every token the model has read and generated. Because the cache grows with context length and is re-read in full at every generated token, a longer context means more GPU memory.\n  To reduce ",
+    "score": 10.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "language model",
+      "inference",
+      "memory"
+    ]
+  },
+  {
+    "title": "ZeroLock: Concurrent Memory-Efficient LLM Training via Modular Update Decoupling",
+    "url": "https://arxiv.org/abs/2608.07974",
+    "source": "arXiv cs.LG",
+    "published_at": "Tue, 11 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.07974v1 Announce Type: new \nAbstract: Large language model (LLM) fine-tuning at the edge adapts the model to scenario-specific data while preserving privacy. Although existing studies proposed pipeline parallelism to address the limited memory and computing resources of edge devices, they commonly rely on backpropagation (BP) training, which has a fundamental limitation of update locking and could experience severe throughput and memory bottlenecks. In this work, we propose a BP-free ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "fine-tuning",
+      "memory"
+    ]
+  },
+  {
+    "title": "Accurate Ensembles, Fragile Narratives: Multi-Scale Stacking and a Fidelity Audit of LLM-Generated Explanations for Credit Risk",
+    "url": "https://arxiv.org/abs/2608.08126",
+    "source": "arXiv cs.LG",
+    "published_at": "Tue, 11 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.08126v1 Announce Type: new \nAbstract: Credit scoring increasingly relies on models whose decision logic cannot be read off their parameters, in tension with supervisory expectations that adverse decisions be explainable. A common proposal closes that gap with a language model: compute feature attributions, hand them to an LLM, and let it write the rationale. We build such a system end to end and test whether the second half of the promise holds. The predictive component is a multi-sca",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "RAG",
+      "narrative"
+    ]
+  },
+  {
+    "title": "Dynamic Coalition Formation and Communication Pricing in Skill-Based Agentic AI Systems",
+    "url": "https://arxiv.org/abs/2608.07532",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 11 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.07532v1 Announce Type: new \nAbstract: Modern agentic AI systems combine multiple large language model agents with heterogeneous skills, yet most architectures either fix communication in advance or allow full broadcast. Both can be inefficient because token cost, latency, redundancy, and error propagation increase with the number of active agents and communication links. We model agent selection and communication as a cooperative game with task-conditioned net utility $U(C\\mid x)=V(C\\",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "game",
+      "language model"
+    ]
+  },
+  {
+    "title": "When LLM Agents Negotiate: Private Information and Dynamic Bargaining in Supply Chains",
+    "url": "https://arxiv.org/abs/2608.07538",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 11 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.07538v1 Announce Type: new \nAbstract: As LLM agents move from decision support to autonomous procurement, firms need to know whether delegated negotiators create value, divide it predictably, and avoid money-losing contracts. We study this in a canonical supply chain bargaining problem: a buyer with private demand information negotiates a quantity-payment contract with an uninformed seller. We benchmark nine LLMs from OpenAI, Google, and Alibaba against a validated Perfect Bayesian Eq",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "An AI Scientist that Doesn't Drift: Taste, Structure, and Falsifiable Findings in a Quadruped Navigation Research Loop",
+    "url": "https://arxiv.org/abs/2608.07542",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 11 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.07542v1 Announce Type: new \nAbstract: Autonomous research loops driven by large language models can run machine-learning experiments at scale but tend to drift toward local refinements of whichever metric they optimise rather than testing the hypotheses that motivate the experiments. We address this structurally and present an AI Scientist for studying generalisation in quadruped robot navigation policies in simulation. Building on the autoresearch paradigm of Karpathy, our loop adds ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "simulation",
+      "language model",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "CMU-Drive and V2V-VLA: Cooperative Multi-agent Unified Driving with Reasoning Benchmark and Vehicle-to-Vehicle Vision-Language-Action Models",
+    "url": "https://arxiv.org/abs/2608.07621",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 11 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.07621v1 Announce Type: new \nAbstract: Vision-Language-Action (VLA) models have recently achieved impressive performance for end-to-end autonomous driving, yet existing approaches are primarily designed for an individual single autonomous driving agent with limited support for cooperative perception, reasoning, and planning. We present Cooperative Multi-agent Unified Driving with Reasoning (CMU-Drive), a closed-loop end-to-end benchmark for evaluating cooperative autonomous driving wit",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "autonomous",
+      "reasoning",
+      "planning"
+    ]
+  },
+  {
+    "title": "From Single Chatbots to Governed Agent Ecosystems: An Agentic AI Pattern Catalogue and Orchestration Framework for Mission-Critical Hospital Information Management Systems",
+    "url": "https://arxiv.org/abs/2608.07627",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 11 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.07627v1 Announce Type: new \nAbstract: Hospitals are racing to embed AI, while coping with the surge in adaptation of the technology in other industries, into the triage management, documentation, scheduling, and revenue-cycle workflows, yet most deployments remain as fragmented pilots that stall at the edge of production, exposing patients and institutions to operational fragility, ungoverned risk, and mounting technical debt. At the same time, the global AI-in-healthcare market is pr",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow",
+      "RAG"
+    ]
+  },
+  {
+    "title": "QuantumMind: Constraint-Grounded Agentic Reasoning for Speedup Analysis in Quantum Computing",
+    "url": "https://arxiv.org/abs/2608.07743",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 11 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.07743v1 Announce Type: new \nAbstract: Identifying a meaningful quantum speedup requires more than matching a classical problem to a familiar quantum primitive: the claim must preserve the task, respect access and output models, expose required promises, and remain within a defensible complexity scope. We present QuantumMind, an auditable agentic workflow for generating and conservatively screening quantum-acceleration hypotheses. A fixed sequence of typed, role-specialized actions for",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow",
+      "reasoning"
+    ]
+  }
+]
