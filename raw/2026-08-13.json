@@ -1,0 +1,292 @@
+[
+  {
+    "title": "Continuous Interaction Diffusion: A Diffusion-Native Runtime for Asynchronous Tool-Augmented Reasoning",
+    "url": "https://arxiv.org/abs/2608.10438",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 12 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.10438v1 Announce Type: new \nAbstract: Large language models increasingly rely on external tools to access up-to-date information, perform computation, and interact with the outside world. For autoregressive models, tool use naturally fits the generation process: the model emits a tool call, waits for the result, and then continues generating. Diffusion language models (dLLMs), however, reason by repeatedly refining many parts of their output in parallel, making this stop-and-resume in",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "diffusion",
+      "language model",
+      "tool use",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "FlowScout: From Execution Feedback to Reliable Tool-Using Agent Workflows",
+    "url": "https://arxiv.org/abs/2608.10039",
+    "source": "arXiv cs.LG",
+    "published_at": "Wed, 12 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.10039v1 Announce Type: new \nAbstract: Agentic workflows have become an important abstraction for building reliable LLM-based automation systems by organizing large language models (LLMs), tools, and control logic into explicit execution structures. However, constructing high-quality agentic workflows remains largely manual and requires substantial domain expertise. Recent studies have explored automatic agentic workflow generation from historical task-solving records, but they mainly ",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "automation",
+      "language model"
+    ]
+  },
+  {
+    "title": "yamadashy / repomix",
+    "url": "https://github.com/yamadashy/repomix",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more. [30 stars today]",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "Claude",
+      "Gemini",
+      "GPT",
+      "language model"
+    ]
+  },
+  {
+    "title": "CHORUS: Complementary Experts for High-Coverage Testbench Stimulus Generation",
+    "url": "https://arxiv.org/abs/2608.10090",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 12 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.10090v1 Announce Type: new \nAbstract: Large language models (LLMs) have advanced code generation, where executable feedback provides a more reliable learning signal than textual imitation alone. Hardware verification is an important application of code generation and accounts for a substantial fraction of modern chip design effort, with high-coverage testbench stimulus generation as a key task. We present CHORUS, a post-training framework that pushes performance beyond what a conventi",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "code generation",
+      "RAG"
+    ]
+  },
+  {
+    "title": "Predicting Space Groups of Double Perovskites by LLM with Dynamic Few-Shot Learning",
+    "url": "https://arxiv.org/abs/2608.10483",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 12 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.10483v1 Announce Type: new \nAbstract: Double perovskites (DPs) offer broad compositional tunability, but predicting the space groups (SGs) of stable structures remains difficult because available datasets are often strongly imbalanced toward dominant SG classes. We refer to dominant SG classes as major SGs and underrepresented classes as minor SGs. We introduce Dynamic and Diversity-enhanced Few-shot Retrieval and Rule-Guided Inference for Space-Group Prediction (DyRIS), an LLM-agent-",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "inference",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "MERA: Model Evolution and Routing with Skill Adaptation for Agentic Systems at Scale",
+    "url": "https://arxiv.org/abs/2608.10333",
+    "source": "arXiv cs.LG",
+    "published_at": "Wed, 12 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.10333v1 Announce Type: new \nAbstract: LLM agents execute heterogeneous sequences of model calls within a single task: some invocations require careful reasoning, while others are structured steps such as formatting or tool-argument construction. Prior routing methods exploit this asymmetry by assigning easy invocations to a cheaper small model and difficult ones to a large model. Such policies reduce inference cost, but they leave the small model's capability unchanged, so attainable ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "inference",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Actionable Hallucination Detection: Translating Latent Uncertainty into Agentic Critique",
+    "url": "https://arxiv.org/abs/2608.10430",
+    "source": "arXiv cs.LG",
+    "published_at": "Wed, 12 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.10430v1 Announce Type: new \nAbstract: Large Language Models (LLMs) deployed as AI agents frequently exhibit user specification-grounding failures, executing hallucinated, undesired actions to force a resolution rather than expressing uncertainty. Existing detection methods fail to provide actionable, real-time correction as they either do not localize the hallucinations, or incur prohibitive inference latency. We introduce the Latent Critic, a lightweight low-rank adapter (LoRA) that ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "inference"
+    ]
+  },
+  {
+    "title": "Closed-Loop LLM Co-Pilots for Digital Agriculture",
+    "url": "https://arxiv.org/abs/2608.09949",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 12 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.09949v1 Announce Type: new \nAbstract: This study evaluates the application of Large Language Models (LLMs) in complex biological systems, evolving from data analysis to autonomous, AI-guided experimentation. The framework is driven by data from a 49-channel phytosensor network, encompassing multispectral, electrochemical, and dielectric modalities. To enhance accessibility, the system provides real-time natural-language interpretation for both specialists and non-experts. However, its",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "The CASE Framework: A Multi-Disciplinary Control Architecture for Governing Enterprise Agentic AI",
+    "url": "https://arxiv.org/abs/2608.10153",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 12 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.10153v1 Announce Type: new \nAbstract: Enterprises are deploying autonomous AI agents faster than they can govern them, and prevailing approaches stretch a single discipline, typically DevSecOps built for deterministic automation, across every scale of agency. We argue that agentic AI governance is four problems, not one, each with a mature governing science. The CASE framework assigns Control theory to the individual agent (intent as setpoint, guardrails as feedback, evaluation as obs",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "automation",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "TRACE: Trustworthy Retrieval-Augmented Conversational Engine",
+    "url": "https://arxiv.org/abs/2608.10176",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 12 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.10176v1 Announce Type: new \nAbstract: Public service chatbots are expected to deliver recommendations from an underlying public service directory, while also making sure that the recommendations respect explicit user constraints. In practice, public service directories are noisy and inconsistent, and general-purpose large language model (LLM) or AI-based chatbots frequently generate unreliable recommendations, citing unverified sources from the web. We investigate the impact of retrie",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Mind Viruses: Self-Propagating Ideas in Multi-Agent LLM Systems",
+    "url": "https://arxiv.org/abs/2608.10218",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 12 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.10218v1 Announce Type: new \nAbstract: AI agents are becoming more autonomous and increasingly interconnected, exposing them to new emergent risks arising from agent-to-agent interaction. One such risk is the spread of mind viruses: ideas or goals that propagate through multi-agent systems by inducing the agents that adopt them to transmit them onward. In addition to propagating, a mind virus may also induce other behavioural changes in its host, which may be benign or harmful. We cons",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "Self-evolving Agentic Customer Support System at LinkedIn",
+    "url": "https://arxiv.org/abs/2608.10224",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 12 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.10224v1 Announce Type: new \nAbstract: Enterprise support agents operate in rapidly changing environments where policies, product capabilities, and knowledge bases evolve continuously, making static assistants brittle and costly to maintain. We present LinkedIn's self-evolving agentic support system, which integrates retrieval-augmented generation with evolutionary auto-prompting and a modular, production-aligned evaluation framework to enable safe, continuous improvement without retra",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "prompt",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Interpreting Language Model Hidden States at Scale",
+    "url": "https://arxiv.org/abs/2608.10260",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 12 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.10260v1 Announce Type: new \nAbstract: Lens methods interpret large language models (LLMs) by mapping intermediate activations to the output vocabulary, revealing how next-token predictions develop through the network. Trained lenses remain expensive: affine-translator parameters grow quadratically with model width, while exact, full-vocabulary Kullback--Leibler (KL) training dominates memory. Consequently, prior trained lenses have been applied to models of at most 20B parameters and ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "memory"
+    ]
+  },
+  {
+    "title": "Toward a Theory of Value in AI Alignment",
+    "url": "https://arxiv.org/abs/2608.10327",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 12 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.10327v1 Announce Type: new \nAbstract: Can AI systems be aligned to human values? The popularization of large language models (LLMs) and multi-modal foundation models has seen a rise in harms spanning from toxic speech and hallucinations to AI agents executing unauthorized actions. Within the field of AI safety, these harmful instances are often framed as the alignment problem, or of models being misaligned with human values. Researchers have responded by pursuing applied and theoretic",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model"
+    ]
+  },
+  {
+    "title": "Multi-Granular Rationale-Guided Molecular LLM for Property Prediction",
+    "url": "https://arxiv.org/abs/2608.10480",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 12 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.10480v1 Announce Type: new \nAbstract: Large language models (LLMs) are widely applied across chemical tasks, such as molecular property prediction, which underpins drug discovery. Molecular LLMs represent a molecule through several modalities, notably a 1D SMILES sequence or a 2D molecular graph. Both encode molecular information implicitly, so the contribution of individual substructures remains opaque. Retrieval and augmentation methods add context, but from external sources. Howeve",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "How to Dogfood Your AI Chat Agent: A Three-Layer Evaluation Framework with Goal-Directed NPC Simulation",
+    "url": "https://arxiv.org/abs/2608.09939",
+    "source": "arXiv cs.HC",
+    "published_at": "Wed, 12 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.09939v1 Announce Type: new \nAbstract: Production teams deploying LLM chat agents face a specific quality assurance gap: existing evaluation tools test individual responses or simulate social interactions, but none systematically verify whether real users can achieve their goals through multi-turn conversation. We introduce a three-layer dogfooding framework that bridges this gap by combining canonical question-bank testing (Layer 1), random-walk multi-turn evaluation (Layer 2), and a ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "simulation"
+    ]
+  },
+  {
+    "title": "AI-Generated Interactive Fiction for Educational Use: A Pilot Study of Perceived Comprehensibility, Coherence, and Engagement",
+    "url": "https://arxiv.org/abs/2608.10818",
+    "source": "arXiv cs.HC",
+    "published_at": "Wed, 12 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.10818v1 Announce Type: new \nAbstract: Generative artificial intelligence (AI) can produce educational content at scale, including interactive and narrative learning experiences, but technical generation alone is not sufficient: scenarios that are confusing, narratively inconsistent, or unengaging are unlikely to be useful in practice. This paper presents a pilot user-centred evaluation of AI-generated interactive fiction (IF) for educational use in higher education. Using a previously",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "generative art",
+      "narrative",
+      "generative"
+    ]
+  },
+  {
+    "title": "DOCSCHISEL: Adaptive Tool Documentation Optimization Framework for LLM Agents",
+    "url": "https://arxiv.org/abs/2608.10037",
+    "source": "arXiv cs.LG",
+    "published_at": "Wed, 12 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.10037v1 Announce Type: new \nAbstract: Large language models (LLMs) increasingly rely on external tools to accomplish complex real-world tasks, making tool documentation a critical grounding resource for LLM agents. Existing studies mainly focus on improving the tool-use capabilities of LLM agents, while largely treating tool documentation as a fixed input. Although several recent works attempt to optimize tool documentation through rewriting or compression, little is known about how t",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model"
+    ]
+  },
+  {
+    "title": "ChronoSSM: Training for Temporally Aware Representations in Autoregressive State Space Models",
+    "url": "https://arxiv.org/abs/2608.10120",
+    "source": "arXiv cs.LG",
+    "published_at": "Wed, 12 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.10120v1 Announce Type: new \nAbstract: Modern sequence models, from Transformers to State Space Models, have enabled powerful generative modeling across diverse domains, yet they are typically trained to predict what happens while treating when it happens as a secondary concern. In data-mining settings where events are associated with explicit timing information, this separation can limit temporal reasoning, anomaly detection, and faithful reconstruction of event chronology. A common s",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "transformer",
+      "reasoning",
+      "generative"
+    ]
+  },
+  {
+    "title": "REATS: LLM Reasoning-based Ensemble Learning for Adaptive Time Series Forecasting",
+    "url": "https://arxiv.org/abs/2608.10149",
+    "source": "arXiv cs.LG",
+    "published_at": "Wed, 12 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.10149v1 Announce Type: new \nAbstract: Due to the diversity of real-world time series, no single forecasting model consistently dominates across all samples. Ensemble learning addresses this by combining complementary model strengths, yet existing methods rely on fixed rules or black-box models based solely on numerical inputs, failing to leverage LLM reasoning for interpretable weighting decisions. We propose REATS, which leverages LLM reasoning capabilities as an intelligent ensemble",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "RAG",
+      "reasoning"
+    ]
+  }
+]
