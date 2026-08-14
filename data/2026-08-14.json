@@ -1,0 +1,300 @@
+{
+  "date": "2026-08-14",
+  "candidates": [
+    {
+      "title": "BEST-KAG: Enhancing Question Answering of Building Engineering Standards with Multimodal Knowledge Graph Modeling and Large Language Model",
+      "url": "https://arxiv.org/abs/2608.11244",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 13 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.11244v1 Announce Type: new \nAbstract: Construction standards are critical for building safety and sustainability. Existing standard application workflows rely on keyword-based document retrieval and manual cross-clause interpretation, which cannot reliably support multi-clause reasoning, multimodal knowledge utilization, or traceable clause-level evidence linkage. To address these limitations, this study develops a multimodal knowledge-driven framework that supports question answering",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "workflow",
+        "language model",
+        "multimodal",
+        "reasoning",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Can Frontier LLMs Match Natively Multimodal Embeddings? A Comparison on Hard-Negative Text-to-Image Retrieval",
+      "url": "https://arxiv.org/abs/2608.11343",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 13 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.11343v1 Announce Type: new \nAbstract: Multimodal retrieval and classification across different types of media, spanning text, images,video and audio, has traditionally relied on dual-encoder models that align visual and textual representations through contrastive learning. The March 2026 release of Gemini Embedding 2, Google's first natively multimodal embedding model to map text, images, video, audio, and documents into a single shared space, raises competition among multimodal retri",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "Gemini",
+        "multimodal",
+        "embedding",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "IF:CARGO: LLM-Based Semantic Compilation for Al-Native Rule Programming Games",
+      "url": "https://arxiv.org/abs/2608.12195",
+      "source": "arXiv cs.HC",
+      "published_at": "Thu, 13 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.12195v1 Announce Type: new \nAbstract: This case study presents IF: CARGO, an experimental puzzle game that uses a large language model as a semantic compiler rather than an autonomous game-playing agent. Players author IF/THEN rules in natural language, which the model translates into a constrained command schema for deterministic validation and execution by the game engine. This architecture creates a playable loop of expression, execution, observation, and revision, framing AI inter",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "game",
+        "language model",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "D3D-GEN: Robot-Aware Domain-Grounded Interactive 3D World Generation for Social Robotics",
+      "url": "https://arxiv.org/abs/2608.11876",
+      "source": "arXiv cs.HC",
+      "published_at": "Thu, 13 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.11876v1 Announce Type: cross \nAbstract: Training and validation of Embodied AI for social navigation critically depends on realistic simulation environments, yet many current approaches fail to find a balance between realism and simulability. We propose D3D-GEN, a novel world generation system that combines a domain agent with a retrieval-augmented generation (RAG) pipeline grounded in that domain. Our system enables users to rapidly generate domain-grounded, fully interactive 3D worl",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "simulation",
+        "world generation",
+        "RAG",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "\"Pharos Night: Crown Pursuit\": An AI-Native Deck-Building and Tactical Arena Game Design Based on Multi-Agent Systems",
+      "url": "https://arxiv.org/abs/2608.12216",
+      "source": "arXiv cs.HC",
+      "published_at": "Thu, 13 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.12216v1 Announce Type: new \nAbstract: With advancements in generative AI technology, an increasing number of researchers have begun exploring AI-native games in which gameplay rules are directly driven by generative AI. This paper presents \"Pharos Night: Crown Pursuit,\" an AI-native deck-building and tactical arena game based on a multi-agent system. The game uses large language models to generate materials and cards, support NPC decision-making, and mediate natural-language interacti",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "game",
+        "language model",
+        "generative"
+      ]
+    },
+    {
+      "title": "A corpus-specific clinical RAG system matches or outperforms newer frontier LLMs on HealthBench",
+      "url": "https://arxiv.org/abs/2608.12138",
+      "source": "arXiv cs.HC",
+      "published_at": "Thu, 13 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.12138v1 Announce Type: cross \nAbstract: General-purpose large language models (LLMs) have recently been reported to match or exceed specialized clinical AI tools on medical benchmarks, but such comparisons draw on a narrow set of systems and on benchmarks developed largely in high-income settings. We evaluate VITA, a retrieval-augmented generation (RAG) system purpose-built for contextual knowledge retrieval in India and other low- and middle-income (LMIC) settings. VITA retrieves fro",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "RAG",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "FM-LLM: A frequency-enhanced mixture-of-experts framework for adapting LLMs to time series forecasting",
+      "url": "https://arxiv.org/abs/2608.11623",
+      "source": "arXiv cs.LG",
+      "published_at": "Thu, 13 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.11623v1 Announce Type: new \nAbstract: Recent advances in Large Language Models (LLMs) have spurred cross-modal solutions for time-series forecasting. However, existing methods rely heavily on textual prompts for modality alignment-introducing nontrivial computational overhead and failing to leverage the rich spectral dynamics inherent in time-series data. To enable prompt-free, frequency-aware adaptation of frozen LLMs, we propose FM-LLM (Frequency-Enhanced Mixture-of-Experts for adap",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "RAG",
+        "prompt"
+      ]
+    },
+    {
+      "title": "Poor Man's Agentic Modeling: Simulating Large LLM-Agent Societies on a Laptop",
+      "url": "https://arxiv.org/abs/2608.11215",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 13 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.11215v1 Announce Type: new \nAbstract: Simulating societies of many large language model (LLM) agents is expensive, yet the questions asked of such simulations are usually macroscopic: phase behaviour, stylised facts, and scaling with the number of agents $N$, not the cognition of any single agent. We turn a statistical-physics observation into a method: replace each LLM agent by a low-parameter model fitted from a few hundred to a few thousand cheap queries, then run the society at an",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "simulation",
+        "language model"
+      ]
+    },
+    {
+      "title": "Harnessing agent memory to build lifelong AI partners for materials scientists",
+      "url": "https://arxiv.org/abs/2608.11224",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 13 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.11224v1 Announce Type: new \nAbstract: Materials research advances through accumulated experience - scripts that work, protocols that are trusted, warnings attached to failed calculations or experiments, and judgement that links a new question to an old result. This experience is essential for reproducibility and knowledge transfer, yet it is usually fragmented across notebooks, repositories, job logs and individual memory, and it is rarely portable across artificial-intelligence agent",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "RAG",
+        "memory"
+      ]
+    },
+    {
+      "title": "Towards Query-Agnostic RAG Evaluation via Query Coverage and Claim Verifiability",
+      "url": "https://arxiv.org/abs/2608.11238",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 13 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.11238v1 Announce Type: new \nAbstract: Retrieval-augmented generation improves the factuality of large language models by grounding responses in retrieved evidence, yet existing evaluation frameworks struggle to provide consistent, fine-grained diagnostics across the diverse spectrum of user queries, ranging from close-ended fact-seeking to open-ended explanatory requests. We propose Q-CARE, a query-agnostic and fully reference-free framework that enables fine-grained assessment by dec",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "language model",
+        "RAG",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "AgonAlpha: Autonomous Alpha Discovery via Prompt Economy and Scalable Agentic Search",
+      "url": "https://arxiv.org/abs/2608.11250",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 13 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.11250v1 Announce Type: new \nAbstract: Language models can propose many plausible trading factors, but an autonomous research system must also allocate its evaluation budget, verify its own evidence, and preserve how each candidate was produced. We present AgonAlpha, an architecture that searches over frozen research artifacts---hypotheses, executable expressions, platform evidence, rationales, and review status---rather than formulas alone. To our knowledge, AgonAlpha is the first alp",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "language model",
+        "autonomous",
+        "prompt"
+      ]
+    },
+    {
+      "title": "Glance, Scrutinize, and Think: Advancing Video Anomaly Detection from Training-Free to Agentic Reasoning",
+      "url": "https://arxiv.org/abs/2608.11260",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 13 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.11260v1 Announce Type: new \nAbstract: Video Anomaly Detection (VAD) aims to identify anomalous events and localize their temporal intervals. Existing approaches exhibit a \"when-what\" dissociation: traditional DNN-based methods localize when anomalies occur but lack semantic understanding, whereas LLM-based methods explain what happens but neglect precise temporal grounding. We attribute this to the absence of a unified reasoning paradigm. Inspired by how humans inspect surveillance vi",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Player Perceptions of Generative AI in Games: A Steam Review Analysis",
+      "url": "https://arxiv.org/abs/2608.11539",
+      "source": "arXiv cs.HC",
+      "published_at": "Thu, 13 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.11539v1 Announce Type: new \nAbstract: The rapid adoption of generative AI in game development has created large discussions among players, yet little empirical work has examined how players actually perceive AI-generated content. Employing quantitative methods, we study the adoption of generative AI in games in the Steam marketplace, using procedural content generation (PCG) as a baseline of a generative technology that was successfully integrated into games over several decades. Furt",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "game",
+        "procedural",
+        "generative"
+      ]
+    },
+    {
+      "title": "BLADE: Better Language Answers through Dialogue and Explanations",
+      "url": "https://arxiv.org/abs/2604.03236",
+      "source": "arXiv cs.HC",
+      "published_at": "Thu, 13 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2604.03236v2 Announce Type: replace \nAbstract: Large language model (LLM)-based educational assistants often provide direct answers offering little incentive for students to explore or engage with course materials. We present BLADE (Better Language Answers through Dialogue and Explanations), a retrieval-augmented generation (RAG) based conversational assistant grounded in course-specific content that guides students toward relevant materials through citation-grounded dialogue rather than d",
+      "score": 8.0,
+      "keywords_matched": [
+        "LLM",
+        "language model",
+        "RAG",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Weightless Fine-Tuning: Personalizing LLMs via Logit-Space Transport",
+      "url": "https://arxiv.org/abs/2608.11342",
+      "source": "arXiv cs.LG",
+      "published_at": "Thu, 13 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.11342v1 Announce Type: new \nAbstract: Supervised fine-tuning (SFT) is a standard approach for adapting LLMs to a target distribution, but in settings such as personalization, where each author requires separate weight access, optimization, storage, and retraining, its costs become prohibitive. We propose Weightless Fine-Tuning (WFT), a training-free decoding-time method that approximates the distributional effect of SFT without weight updates. WFT computes supervised residuals on an a",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "RAG",
+        "fine-tuning"
+      ]
+    },
+    {
+      "title": "Lifecycle-Optimal Tokenization: Vocabulary Size as a Deployment-Regime-Dependent Infrastructure Parameter",
+      "url": "https://arxiv.org/abs/2608.11361",
+      "source": "arXiv cs.LG",
+      "published_at": "Thu, 13 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.11361v1 Announce Type: new \nAbstract: Tokenizer vocabulary size is a foundational design choice in large language model (LLM) infrastructure, yet it is typically fixed at training time based on convention rather than deployment analysis. We show that the cost-optimal vocabulary is not a constant but a function of the serving regime. We formalize total deployment cost as $C_{lifecycle}(V) = C_{train}(V) + \\lambda \\cdot C_{infer}(V, B)$, where $\\lambda$ is inference volume and $B$ is th",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "inference"
+      ]
+    },
+    {
+      "title": "Dual-Primal Graph VAEs for Noisy Label Aggregation",
+      "url": "https://arxiv.org/abs/2608.11473",
+      "source": "arXiv cs.LG",
+      "published_at": "Thu, 13 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.11473v1 Announce Type: new \nAbstract: Inferring the ground-truth from noisy crowdsourced labels is an important theoretical and practical problem. Neural network-based methods offer an alternative to classical Bayesian models which require specifying a family of generative models used for inference. However, current models either still rely on fairly simple generative models for inference or require pseudo-labels or synthetic data to train the aggregate classifier. We propose a graph ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "neural",
+        "inference",
+        "generative"
+      ]
+    },
+    {
+      "title": "holaboss-ai / holaOS",
+      "url": "https://github.com/holaboss-ai/holaOS",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK. [241 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "memory"
+      ]
+    },
+    {
+      "title": "infiniflow / ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs [465 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "RAG",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+      "url": "https://knownagents.com/insights",
+      "source": "Hacker News Best",
+      "published_at": "Wed, 12 Aug 2026 14:02:46 +0000",
+      "description": "Article URL: https://knownagents.com/insights Comments URL: https://news.ycombinator.com/item?id=49272569 Points: 300 # Comments: 224",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-08-14\n\n这里是今日为你雷达扫描后筛选出的 **4 个最具启发性、最适合跨界魔改的项目与论文**。剔除了平庸的新闻，只保留能直接喂给你灵感库的硬核内容：\n\n---\n\n## 1. IF:CARGO: 基于 LLM 语义编译的 AI 原生规则编程游戏\n- **来源：** arXiv cs.HC\n- **链接：** https://arxiv.org/abs/2608.12195\n- **一句话解释：** 玩家用自然语言写 IF/THEN 规则，LLM 不直接玩游戏，而是充当“语义编译器”，将语言编译为严格受限的确定性指令给游戏引擎执行。\n- **它为什么重要：** 彻底打破了“LLM 作为不可控黑盒 NPC/玩家”的传统玩法，把 LLM 当作**自然语言到严格游戏 DSL 的即时编译器**。这是 Spec-Driven Game Design（规范驱动游戏设计）的绝佳范式。\n- **技术趋势标签：** `LLM Compiler` `Spec-Driven Development` `AI-Native Game` `HCI`\n- **可复用模式：** **Natural Language to Deterministic State Machine (NL-to-DSM)**：前端接收松散文本 -> LLM 严格格式化为类型安全的 AST/状态转移指令 -> 传统引擎确定性执行与回放。\n- **疯狂发明家灵感：**\n  1. *小实验*：做一个极简网页版《自然语言沙盒红石电路》，输入“当周围有水且天黑时点亮红石灯”，LLM 输出 JSON 规则并在 2D 网格中运行。\n  2. *中型项目*：Spec-driven 关卡设计器——关卡设计师用 Markdown 编写行为规范，系统自动编译为 Unity/Godot 行为树，并自动跑测试用例验证关卡解法。\n  3. *艺术/游戏/叙事方向*：**“法律朋克”解谜游戏**：玩家扮演立法者或赛博城邦大法官，通过撰写自然语言法条来控制市民 NPC 行为，NPC 严格按 LLM 编译出的逻辑行事，玩家需要寻找规则漏洞（Loophole）来通关。\n- **对我项目的启发：** 对 Drift / Spec-driven 工具链有直接借鉴意义——不要让 LLM 直接操作最终系统，而是让它生成中间严谨的 Spec，由 Runtime 确定性执行。\n- **今天是否值得深入研究：** 是（必读，直击你的跨学科交叉点）\n- **建议行动：** 做 demo\n\n---\n\n## 2. Poor Man's Agentic Modeling: 在笔记本电脑上模拟大规模 LLM 智能体社会\n- **来源：** arXiv cs.AI\n- **链接：** https://arxiv.org/abs/2608.11215\n- **一句话解释：** 借助统计物理学思路，用低参数近似模型替代昂贵的大模型，在单台笔记本上模拟数千个 Agent 的群体相变与宏观演化。\n- **它为什么重要：** 以前做社会模拟（如斯坦福小镇）需要极高的 API 成本；这篇研究证明**关注群体宏观行为时，单体智能不需要极度聪明**，为个人创作者在本地运行“千万级生态圈模拟”打开了大门。\n- **技术趋势标签：** `Multi-Agent Simulation` `Complex Systems` `Generative Society` `Low-cost AI`\n- **可复用模式：** **宏观统计驱动 + 微观低算力代理（Statistical-Agent Mesh）**：对个体简化认知计算，把算力留给交互拓扑和群体涌现。\n- **疯狂发明家灵感：**\n  1. *小实验*：在本地用极小模型（如 Ollama + TinyLlama/Phi-3）跑 100 个具有不同传言倾向的 Agent，观察一条八卦在社交网络拓扑中的变异过程。\n  2. *中型项目*：本地轻量级“活态维基百科”——上千个 Agent 针对虚构历史事件在本地 Markdown 文件中不断互相辩驳、修订、生成庞大的架空世界编年史。\n  3. *艺术/游戏/叙事方向*：**生态箱文明发生器**：结合 Cellular Automata（元胞自动机）与低秩 Agent，让 NPC 在 Minecraft 级体素世界中演化出崇拜图腾、经济贸易和神话故事，可在游戏后台无声演化数百年。\n- **对我项目的启发：** 降低单体 Agent 的认知深度，用数量和拓扑换取壮观的“涌现感”，让在本地做大型游戏生态模拟成为可能。\n- **今天是否值得深入研究：** 是\n- **建议行动：** 收藏\n\n---\n\n## 3. D3D-GEN: 面向社交机器人的可交互 3D 世界生成系统\n- **来源：** arXiv cs.HC / cs.RO\n- **链接：** https://arxiv.org/abs/2608.11876\n- **一句话解释：** 结合 Domain Agent 与实体知识 RAG 流程，生成兼具视觉真实感与**可物理交互仿真**的 3D 虚拟空间。\n- **它为什么重要：** 现有的 3D 生成大多只是一坨“不可交互的 Mesh（视觉皮囊）”，而 D3D-GEN 强调 Domain-Grounded（物理规则、机器人可操作性、语义结构对齐），这是走向真正可玩的生成式世界的必经之路。\n- **技术趋势标签：** `3D World Generation` `Spatial Computing` `RAG` `Embodied AI`\n- **可复用模式：** **Semantic Layout to Physical Grounding**：先由 LLM 生成带语义、拓扑关系的场景规范（Spec），再通过预定义资产库检索拼装，保证空间既是生成的又是物理合法的。\n- **疯狂发明家灵感：**\n  1. *小实验*：写一个 Python 脚本，输入一句提示词（如“充满废弃电器的赛博朋克维修铺”），生成带碰撞体和物理属性的 Minecraft 结构文件（`.schematic` / `.nbt`）。\n  2. *中型项目*：**空间叙事关卡生成器**：根据剧本情绪曲线，自动在 Three.js 中拼装可走动、可开门、有光源物理反馈的叙事空间。\n  3. *艺术/游戏/叙事方向*：**动态梦境空间装置**：观众在麦克风前讲述昨晚的梦，系统实时检索 3D 扫描资产库，生成一个结构荒诞但支持第一人称漫游与物理碰撞的 3D 梦境副本。\n- **对我项目的启发：** 世界生成的核心不是一次性生出全量网格，而是“规范（Spec）+ 实体资产库（RAG Retrieval）+ 物理装配”。\n- **今天是否值得深入研究：** 否（读摘要和架构图即可，思路通用）\n- **建议行动：** 试用 / 借用架构思路\n\n---\n\n## 4. Pharos Night: 基于多智能体系统的 AI 原生卡牌构建与战术竞技场\n- **来源：** arXiv cs.HC\n- **链接：** https://arxiv.org/abs/2608.12216\n- **一句话解释：** 探索由多智能体系统（MAS）直接动态驱动游戏规则、战术决策和卡牌构建的 AI 原生桌游系统。\n- **它为什么重要：** 很多“AI+游戏”停留在生成立绘或对话，本研究探索了**让 Multi-Agent 作为游戏规则制定者、实时平衡裁判与对手生态**的系统级设计。\n- **技术趋势标签：** `AI-Native Game` `Multi-Agent System` `Game Design Systems`\n- **可复用模式：** **Agent-as-Mechanic（智能体即机制）**：将多智能体协作网络封装为游戏内的黑盒/白盒博弈机制，玩家操作的不是棋子，而是与 Agent 协作系统的接口。\n- **疯狂发明家灵感：**\n  1. *小实验*：用 Python 构建一个极简双 Agent 裁判系统：一个负责提出搞怪的新规则，另一个负责检验平衡性，共同生成一副动态规则卡牌。\n  2. *中型项目*：自进化 Roguelike 卡牌：每打通一层，系统中的 Agent 观察你的流派（Deck Archetype），动态设计出针对你逻辑的“反制卡牌”供下一层 Boss 使用。\n  3. *艺术/游戏/叙事方向*：**概念辩论战术卡牌**：卡牌上不是数值，而是哲学命题；玩家出牌是在向 Multi-Agent 陪审团陈词，陪审团 Agent 间产生辩论并根据各自偏见判定战局走向。\n- **对我项目的启发：** 在设计游戏系统时，把 Agent 从“外部 NPC”内化为“底层机制齿轮（Mechanic Engines）”。\n- **今天是否值得深入研究：** 是\n- **建议行动：** 收藏并拆解其 MAS 交互逻辑\n\n---\n\n## 今日模式总结\n\n1. **从“直接黑盒生成”转向“语义编译器（Semantic Compiler）”**：无论在游戏规则（IF:CARGO）还是 3D 世界（D3D-GEN），业界正迅速抛弃端到端直接生成不可控结果的做法，转向 **自然语言 -> 严谨 Spec (JSON/DSL) -> 确定性引擎执行** 的稳固架构。\n2. **轻量化/分层涌现（Low-cost Agentic Swarms）**：不再追求单体 Agent 的超强思考力，而是用统计学/低算力模型构建宏观系统，让个人在本地电脑上驱动大规模社会/生态模拟成为现实。\n\n---\n\n## 今日可做小实验（< 2 小时）\n\n### **项目名：SpecDeck — 自然语言法条卡牌即时编译器**\n*体验将自然语言直接编译为严谨可执行的游戏机制。*\n\n- **输入：** 一句中英文自然语言规则（例如：“如果场上有超过 3 个火系随从，回合结束时对全场造成 2 点伤害并冻结发动者。”）\n- **输出：** \n  1. 结构化 JSON Spec（触发条件 Trigger、目标 Target、效果 Effect、状态更新 StateMutation）\n  2. 控制台即时模拟这段逻辑在模拟卡牌状态机上的执行结果（Pass / Fail / Executed）。\n- **技术栈：** Node.js / Python + OpenAI/Anthropic API（或本地 Ollama） + Zod / Pydantic（用于严格模式校验）。\n- **第一步怎么做：**\n  1. 定义一套最简单的 Game State JSON（包含 `board: []`, `turn: 1`）。\n  2. 用 Pydantic / Zod 写出 `CardRuleSpec` 模式（Enum: `WHEN`, `IF`, `THEN`）。\n  3. 用 Few-shot 提示词让 LLM 输出严格符合该 Schema 的 JSON，并写一个 20 行的简单解释器执行它。",
+  "gemini_success": true,
+  "telegram_sent": true,
+  "telegram_status": "sent",
+  "telegram_reason": ""
+}

@@ -1,0 +1,292 @@
+[
+  {
+    "title": "BEST-KAG: Enhancing Question Answering of Building Engineering Standards with Multimodal Knowledge Graph Modeling and Large Language Model",
+    "url": "https://arxiv.org/abs/2608.11244",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 13 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.11244v1 Announce Type: new \nAbstract: Construction standards are critical for building safety and sustainability. Existing standard application workflows rely on keyword-based document retrieval and manual cross-clause interpretation, which cannot reliably support multi-clause reasoning, multimodal knowledge utilization, or traceable clause-level evidence linkage. To address these limitations, this study develops a multimodal knowledge-driven framework that supports question answering",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "workflow",
+      "language model",
+      "multimodal",
+      "reasoning",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Can Frontier LLMs Match Natively Multimodal Embeddings? A Comparison on Hard-Negative Text-to-Image Retrieval",
+    "url": "https://arxiv.org/abs/2608.11343",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 13 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.11343v1 Announce Type: new \nAbstract: Multimodal retrieval and classification across different types of media, spanning text, images,video and audio, has traditionally relied on dual-encoder models that align visual and textual representations through contrastive learning. The March 2026 release of Gemini Embedding 2, Google's first natively multimodal embedding model to map text, images, video, audio, and documents into a single shared space, raises competition among multimodal retri",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "Gemini",
+      "multimodal",
+      "embedding",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "IF:CARGO: LLM-Based Semantic Compilation for Al-Native Rule Programming Games",
+    "url": "https://arxiv.org/abs/2608.12195",
+    "source": "arXiv cs.HC",
+    "published_at": "Thu, 13 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.12195v1 Announce Type: new \nAbstract: This case study presents IF: CARGO, an experimental puzzle game that uses a large language model as a semantic compiler rather than an autonomous game-playing agent. Players author IF/THEN rules in natural language, which the model translates into a constrained command schema for deterministic validation and execution by the game engine. This architecture creates a playable loop of expression, execution, observation, and revision, framing AI inter",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "game",
+      "language model",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "D3D-GEN: Robot-Aware Domain-Grounded Interactive 3D World Generation for Social Robotics",
+    "url": "https://arxiv.org/abs/2608.11876",
+    "source": "arXiv cs.HC",
+    "published_at": "Thu, 13 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.11876v1 Announce Type: cross \nAbstract: Training and validation of Embodied AI for social navigation critically depends on realistic simulation environments, yet many current approaches fail to find a balance between realism and simulability. We propose D3D-GEN, a novel world generation system that combines a domain agent with a retrieval-augmented generation (RAG) pipeline grounded in that domain. Our system enables users to rapidly generate domain-grounded, fully interactive 3D worl",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "simulation",
+      "world generation",
+      "RAG",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "\"Pharos Night: Crown Pursuit\": An AI-Native Deck-Building and Tactical Arena Game Design Based on Multi-Agent Systems",
+    "url": "https://arxiv.org/abs/2608.12216",
+    "source": "arXiv cs.HC",
+    "published_at": "Thu, 13 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.12216v1 Announce Type: new \nAbstract: With advancements in generative AI technology, an increasing number of researchers have begun exploring AI-native games in which gameplay rules are directly driven by generative AI. This paper presents \"Pharos Night: Crown Pursuit,\" an AI-native deck-building and tactical arena game based on a multi-agent system. The game uses large language models to generate materials and cards, support NPC decision-making, and mediate natural-language interacti",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "game",
+      "language model",
+      "generative"
+    ]
+  },
+  {
+    "title": "A corpus-specific clinical RAG system matches or outperforms newer frontier LLMs on HealthBench",
+    "url": "https://arxiv.org/abs/2608.12138",
+    "source": "arXiv cs.HC",
+    "published_at": "Thu, 13 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.12138v1 Announce Type: cross \nAbstract: General-purpose large language models (LLMs) have recently been reported to match or exceed specialized clinical AI tools on medical benchmarks, but such comparisons draw on a narrow set of systems and on benchmarks developed largely in high-income settings. We evaluate VITA, a retrieval-augmented generation (RAG) system purpose-built for contextual knowledge retrieval in India and other low- and middle-income (LMIC) settings. VITA retrieves fro",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "RAG",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "FM-LLM: A frequency-enhanced mixture-of-experts framework for adapting LLMs to time series forecasting",
+    "url": "https://arxiv.org/abs/2608.11623",
+    "source": "arXiv cs.LG",
+    "published_at": "Thu, 13 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.11623v1 Announce Type: new \nAbstract: Recent advances in Large Language Models (LLMs) have spurred cross-modal solutions for time-series forecasting. However, existing methods rely heavily on textual prompts for modality alignment-introducing nontrivial computational overhead and failing to leverage the rich spectral dynamics inherent in time-series data. To enable prompt-free, frequency-aware adaptation of frozen LLMs, we propose FM-LLM (Frequency-Enhanced Mixture-of-Experts for adap",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "RAG",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Poor Man's Agentic Modeling: Simulating Large LLM-Agent Societies on a Laptop",
+    "url": "https://arxiv.org/abs/2608.11215",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 13 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.11215v1 Announce Type: new \nAbstract: Simulating societies of many large language model (LLM) agents is expensive, yet the questions asked of such simulations are usually macroscopic: phase behaviour, stylised facts, and scaling with the number of agents $N$, not the cognition of any single agent. We turn a statistical-physics observation into a method: replace each LLM agent by a low-parameter model fitted from a few hundred to a few thousand cheap queries, then run the society at an",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "simulation",
+      "language model"
+    ]
+  },
+  {
+    "title": "Harnessing agent memory to build lifelong AI partners for materials scientists",
+    "url": "https://arxiv.org/abs/2608.11224",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 13 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.11224v1 Announce Type: new \nAbstract: Materials research advances through accumulated experience - scripts that work, protocols that are trusted, warnings attached to failed calculations or experiments, and judgement that links a new question to an old result. This experience is essential for reproducibility and knowledge transfer, yet it is usually fragmented across notebooks, repositories, job logs and individual memory, and it is rarely portable across artificial-intelligence agent",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "RAG",
+      "memory"
+    ]
+  },
+  {
+    "title": "Towards Query-Agnostic RAG Evaluation via Query Coverage and Claim Verifiability",
+    "url": "https://arxiv.org/abs/2608.11238",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 13 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.11238v1 Announce Type: new \nAbstract: Retrieval-augmented generation improves the factuality of large language models by grounding responses in retrieved evidence, yet existing evaluation frameworks struggle to provide consistent, fine-grained diagnostics across the diverse spectrum of user queries, ranging from close-ended fact-seeking to open-ended explanatory requests. We propose Q-CARE, a query-agnostic and fully reference-free framework that enables fine-grained assessment by dec",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "language model",
+      "RAG",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "AgonAlpha: Autonomous Alpha Discovery via Prompt Economy and Scalable Agentic Search",
+    "url": "https://arxiv.org/abs/2608.11250",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 13 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.11250v1 Announce Type: new \nAbstract: Language models can propose many plausible trading factors, but an autonomous research system must also allocate its evaluation budget, verify its own evidence, and preserve how each candidate was produced. We present AgonAlpha, an architecture that searches over frozen research artifacts---hypotheses, executable expressions, platform evidence, rationales, and review status---rather than formulas alone. To our knowledge, AgonAlpha is the first alp",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "language model",
+      "autonomous",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Glance, Scrutinize, and Think: Advancing Video Anomaly Detection from Training-Free to Agentic Reasoning",
+    "url": "https://arxiv.org/abs/2608.11260",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 13 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.11260v1 Announce Type: new \nAbstract: Video Anomaly Detection (VAD) aims to identify anomalous events and localize their temporal intervals. Existing approaches exhibit a \"when-what\" dissociation: traditional DNN-based methods localize when anomalies occur but lack semantic understanding, whereas LLM-based methods explain what happens but neglect precise temporal grounding. We attribute this to the absence of a unified reasoning paradigm. Inspired by how humans inspect surveillance vi",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Player Perceptions of Generative AI in Games: A Steam Review Analysis",
+    "url": "https://arxiv.org/abs/2608.11539",
+    "source": "arXiv cs.HC",
+    "published_at": "Thu, 13 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.11539v1 Announce Type: new \nAbstract: The rapid adoption of generative AI in game development has created large discussions among players, yet little empirical work has examined how players actually perceive AI-generated content. Employing quantitative methods, we study the adoption of generative AI in games in the Steam marketplace, using procedural content generation (PCG) as a baseline of a generative technology that was successfully integrated into games over several decades. Furt",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "game",
+      "procedural",
+      "generative"
+    ]
+  },
+  {
+    "title": "BLADE: Better Language Answers through Dialogue and Explanations",
+    "url": "https://arxiv.org/abs/2604.03236",
+    "source": "arXiv cs.HC",
+    "published_at": "Thu, 13 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2604.03236v2 Announce Type: replace \nAbstract: Large language model (LLM)-based educational assistants often provide direct answers offering little incentive for students to explore or engage with course materials. We present BLADE (Better Language Answers through Dialogue and Explanations), a retrieval-augmented generation (RAG) based conversational assistant grounded in course-specific content that guides students toward relevant materials through citation-grounded dialogue rather than d",
+    "score": 8.0,
+    "keywords_matched": [
+      "LLM",
+      "language model",
+      "RAG",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Weightless Fine-Tuning: Personalizing LLMs via Logit-Space Transport",
+    "url": "https://arxiv.org/abs/2608.11342",
+    "source": "arXiv cs.LG",
+    "published_at": "Thu, 13 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.11342v1 Announce Type: new \nAbstract: Supervised fine-tuning (SFT) is a standard approach for adapting LLMs to a target distribution, but in settings such as personalization, where each author requires separate weight access, optimization, storage, and retraining, its costs become prohibitive. We propose Weightless Fine-Tuning (WFT), a training-free decoding-time method that approximates the distributional effect of SFT without weight updates. WFT computes supervised residuals on an a",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "RAG",
+      "fine-tuning"
+    ]
+  },
+  {
+    "title": "Lifecycle-Optimal Tokenization: Vocabulary Size as a Deployment-Regime-Dependent Infrastructure Parameter",
+    "url": "https://arxiv.org/abs/2608.11361",
+    "source": "arXiv cs.LG",
+    "published_at": "Thu, 13 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.11361v1 Announce Type: new \nAbstract: Tokenizer vocabulary size is a foundational design choice in large language model (LLM) infrastructure, yet it is typically fixed at training time based on convention rather than deployment analysis. We show that the cost-optimal vocabulary is not a constant but a function of the serving regime. We formalize total deployment cost as $C_{lifecycle}(V) = C_{train}(V) + \\lambda \\cdot C_{infer}(V, B)$, where $\\lambda$ is inference volume and $B$ is th",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "inference"
+    ]
+  },
+  {
+    "title": "Dual-Primal Graph VAEs for Noisy Label Aggregation",
+    "url": "https://arxiv.org/abs/2608.11473",
+    "source": "arXiv cs.LG",
+    "published_at": "Thu, 13 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.11473v1 Announce Type: new \nAbstract: Inferring the ground-truth from noisy crowdsourced labels is an important theoretical and practical problem. Neural network-based methods offer an alternative to classical Bayesian models which require specifying a family of generative models used for inference. However, current models either still rely on fairly simple generative models for inference or require pseudo-labels or synthetic data to train the aggregate classifier. We propose a graph ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "neural",
+      "inference",
+      "generative"
+    ]
+  },
+  {
+    "title": "holaboss-ai / holaOS",
+    "url": "https://github.com/holaboss-ai/holaOS",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK. [241 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "memory"
+    ]
+  },
+  {
+    "title": "infiniflow / ragflow",
+    "url": "https://github.com/infiniflow/ragflow",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs [465 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "RAG",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+    "url": "https://knownagents.com/insights",
+    "source": "Hacker News Best",
+    "published_at": "Wed, 12 Aug 2026 14:02:46 +0000",
+    "description": "Article URL: https://knownagents.com/insights Comments URL: https://news.ycombinator.com/item?id=49272569 Points: 300 # Comments: 224",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude"
+    ]
+  }
+]
