@@ -1,0 +1,290 @@
+[
+  {
+    "title": "Spatial Memory Agent: Experience-Grounded Procedure Memory for Spatial Intelligence",
+    "url": "https://arxiv.org/abs/2608.12743",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.12743v1 Announce Type: new \nAbstract: Spatial intelligence is becoming a foundation for embodied agents, robotic planning, and multimodal assistants. To improve the spatial reasoning ability of VLM agents, existing work has mainly followed two lines. One line uses post-training methods, such as supervised fine-tuning and reinforcement learning. Another line adopts an agentic paradigm in which the model calls external spatial tools, such as depth estimation and 3D reconstruction tools,",
+    "score": 14.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "multimodal",
+      "fine-tuning",
+      "reasoning",
+      "planning",
+      "memory"
+    ]
+  },
+  {
+    "title": "Dual-Flow Transformers: Decoupling the Primary Prefill Path from Additional Decode Computation",
+    "url": "https://arxiv.org/abs/2608.12385",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.12385v1 Announce Type: new \nAbstract: As large language models serve more requests, cumulative inference cost is becoming increasingly important relative to one-time training cost. The two inference phases stress hardware differently: prompt prefill is parallel and typically compute-bound, whereas autoregressive decode is sequential and often memory-bandwidth-bound. Conventional width or depth scaling increases both costs together because every added layer is evaluated in both phases.",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "transformer",
+      "language model",
+      "inference",
+      "prompt",
+      "memory"
+    ]
+  },
+  {
+    "title": "Privacy-Preserving RAG by Concealing Sensitive Information from External LLMs",
+    "url": "https://arxiv.org/abs/2608.12675",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.12675v1 Announce Type: new \nAbstract: Retrieval-Augmented Generation (RAG) is widely used to improve the performance of Large Language Models (LLMs) in answering user queries. Existing privacy research on RAG has focused on preventing unauthorized users from accessing sensitive data. However, another important problem that is often overlooked in RAG privacy research is that external generators have access to the query and the retrieved documents, which may contain confidential informa",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "RAG",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "LoKiFormer: Locality-aware Attention with Decoupled Knowledge Memory for Efficient Large Language Model Pretraining",
+    "url": "https://arxiv.org/abs/2608.12419",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.12419v1 Announce Type: new \nAbstract: Large language models (LLMs) have achieved remarkable breakthroughs across various applications. However, their architectures remain inefficient in pretraining due to two main limitations: (i) self-attention lacks an explicit inductive bias for locality, leading to redundant modeling of sequence-internal local information; (ii) mixture-of-experts (MoE) implicitly couples knowledge storage with computational pathways, hindering flexible access to s",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "RAG",
+      "memory"
+    ]
+  },
+  {
+    "title": "MARCH: Scaling Recurrent Memory with Content-Routed State Anchors",
+    "url": "https://arxiv.org/abs/2608.12435",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.12435v1 Announce Type: new \nAbstract: Transformers owe much of their strong long-context retrieval capability to a token-level memory that grows with context length. This flexibility, however, incurs a quadratic computation complexity during training and a key--value cache that grows linearly during autoregressive inference. Recurrent alternatives offer efficient decoding by compressing the entire history into a fixed-size state, but often underperform on recall-intensive tasks since ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "transformer",
+      "inference",
+      "memory",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists",
+    "url": "https://arxiv.org/abs/2608.12345",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.12345v1 Announce Type: new \nAbstract: Language models are increasingly deployed as co-scientists, yet their ability to uphold research integrity under institutional pressure remains unmeasured. We introduce IntegrityBench, a benchmark evaluating misconduct classification, ethical action reasoning and artifact-grounded decision making across 36 paired tasks under a 5-level implicit-explicit pressure protocol spanning 3 domains and 4 research stages. Evaluating 18 frontier model variant",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Don't Want Your LLM to Recommend Nuclear Strike? Try Asking It in Japanese",
+    "url": "https://arxiv.org/abs/2608.12373",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.12373v1 Announce Type: new \nAbstract: Large language models are increasingly used in strategic and advisory contexts, yet their safety alignment is typically evaluated in English only. We test nine models from six providers and ask whether the language of a prompt can change a model's decision in a high-stakes scenario. We use single-turn game-theoretic vignettes in which a model advises a nuclear-armed nation on whether to strike a defenseless opponent. The prompt is intentionally am",
+    "score": 8.0,
+    "keywords_matched": [
+      "LLM",
+      "game",
+      "language model",
+      "prompt"
+    ]
+  },
+  {
+    "title": "MindMemOS: A Portable and Self-Evolving Memory Operating Layer for AI Agents",
+    "url": "https://arxiv.org/abs/2608.12428",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.12428v1 Announce Type: new \nAbstract: Memory is a core component of AI agents, enabling them to accumulate experience, maintain personalization, and adapt over long-term interactions. However, existing memory systems often remain fixed after development, limiting their ability to adapt their memory models, organization strategies, and procedural knowledge through continued use. We present MindMemOS, a portable and self-evolving memory operating layer that organizes open-world informat",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "memory",
+      "procedural"
+    ]
+  },
+  {
+    "title": "Governed Persistent Memory: Source-Bound State Semantics and Fail-Closed Release for Long-Horizon Agents",
+    "url": "https://arxiv.org/abs/2608.12476",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.12476v1 Announce Type: new \nAbstract: Long-term agent memory is usually treated as select--store--retrieve, but retrieval does not decide whether contradictory, superseded, retracted, deleted, or stale records may support an outgoing claim. We introduce Governed Persistent Memory (GPM), an auditable bitemporal state-transition model with source-bound admission, derived lifecycle state, current public barriers, and fail-closed structured release. Five executable clauses cover ledger in",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "memory",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "On the Expressive Power of Transformers",
+    "url": "https://arxiv.org/abs/2608.12671",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.12671v1 Announce Type: new \nAbstract: Multi-layer transformers form the critical component of essentially all large language models (LLMs) in use today. Because of their ubiquity and computational capability, there is a rapidly growing body of work that aims to precisely calibrate the expressive power of transformers as language recognizers by comparing them against standard models of computation studied for decades by the theoretical computer science community. In this endeavor, circ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "transformer",
+      "language model"
+    ]
+  },
+  {
+    "title": "Beyond the Best Guess: Improving LLM Solution Coverage with Evolution Strategies",
+    "url": "https://arxiv.org/abs/2608.12679",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.12679v1 Announce Type: new \nAbstract: Large Language Models (LLMs) are increasingly deployed in discovery domains such as math and science. The usual approach is to present the problem to the model and use its answer as the proposed solution. However, beyond this best guess, discovery can be enhanced by increasing test-time compute. In a process called pass@k, the model is allowed to explore the solution space and generate diverse candidate solutions. Unfortunately, the standard appro",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "RAG"
+    ]
+  },
+  {
+    "title": "Beyond Retrieval: Query-Conditioned Reuse of Long-Horizon Agent Trajectories",
+    "url": "https://arxiv.org/abs/2608.12847",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.12847v1 Announce Type: new \nAbstract: Retrieval can identify a past trajectory that may matter, yet it does not specify how an acting agent should use that trajectory after users, entities, constraints, or environment state have changed. We identify this post-retrieval reuse step as a distinct bottleneck for long-horizon trajectory memory and formulate an evaluation framework that holds candidate retrieval, target state, model, decoding, and tool budget fixed while varying the support",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "memory",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Humans are Missing from AI Coding Agent Research",
+    "url": "https://arxiv.org/abs/2608.12355",
+    "source": "arXiv cs.HC",
+    "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.12355v1 Announce Type: new \nAbstract: Recent progress in AI coding agent research has led to rapid improvements in agents' ability to autonomously perform complex software engineering tasks, from editing large codebases to executing long-horizon development workflows. As these systems make strides, however, the primary bottleneck to practical usefulness increasingly shifts away from pure task-solving capability, and toward challenges in how users communicate with, supervise, and trust",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "Vibe to Code: Elucidating Strategic Oscillation of Tacit Knowledge in Generative AI Design Workflows -- An Exploratory Qualitative Study",
+    "url": "https://arxiv.org/abs/2607.23126",
+    "source": "arXiv cs.HC",
+    "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2607.23126v2 Announce Type: replace \nAbstract: The rapid adoption of generative AI tools has created new literacy demands for designers who must verbalize tacit knowledge through natural language prompts. Yet the micro-level cognitive processes by which designers externalize implicit intentions during iterative AI dialogue remain underexplored. This exploratory qualitative study examined five expert designers (11-20 years UI/UX experience, M = 15.4 years) using think-aloud protocols. We id",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "workflow",
+      "prompt",
+      "generative"
+    ]
+  },
+  {
+    "title": "Multi-AUV Ad-hoc network-based Target Tracking: A Value Gradient Guidance Multi-Agent Diffusion Reinforcement Learning Approach",
+    "url": "https://arxiv.org/abs/2608.12436",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.12436v1 Announce Type: new \nAbstract: Multi-AUV ad-hoc network-based target tracking requires networked autonomous underwater vehicles (AUVs) to cooperatively track maneuvering targets under constrained acoustic communication, dynamic topology, and uncertain ocean disturbances. Although multi-agent reinforcement learning (MARL) enables decentralized coordination through centralized training, existing methods suffer from high-dimensional joint state-action modeling, noise-sensitive pol",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "diffusion",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "Perturbation-based Regional Interpretability through Subtraction Mapping (PRISM): naming-error dissociations in language models and post-stroke aphasia",
+    "url": "https://arxiv.org/abs/2608.12717",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.12717v1 Announce Type: new \nAbstract: Mechanistic interpretability of large language models lacks spatially resolved, falsifiable tools for testing whether internal components are specialized for distinct cognitive operations. We adapt subtraction analysis, the standard framework of human neuroimaging, from biological brains to perturbed transformers, and apply the same logic to both substrates in parallel. Building on the Brain-LLM Unified Model (BLUM), which showed that layer-pertur",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "transformer",
+      "language model"
+    ]
+  },
+  {
+    "title": "MAG: MAnifold Guided Semi-Supervised Multi-modal In-Context Learning",
+    "url": "https://arxiv.org/abs/2608.12724",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.12724v1 Announce Type: new \nAbstract: Few-shot in-context learning (ICL) with multi-modal large language models (MLLMs) enables task adaptation without parameter updates, but its performance is highly sensitive to the quality and coverage of the selected demonstrations. While unlabeled multi-modal data is abundant, it remains elusive how to exploit them for ICL. We propose MAG (MAnifold-Guided semi-supervised in-context demonstra- tion selection), an efficient framework that leverages",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "RAG"
+    ]
+  },
+  {
+    "title": "HiRoute: Hierarchical Routed Prompt Tuning for Safety Alignment of Large Language Models",
+    "url": "https://arxiv.org/abs/2608.12821",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.12821v1 Announce Type: new \nAbstract: Large language models (LLMs) remain vulnerable to harmful requests and jailbreak attacks. Parameter-efficient safety alignment methods based on prompt tuning typically rely on a single global prompt or externally selected prompt modules. Such static designs struggle to maintain a cross-category safety boundary while generating constructive responses tailored to specific risks and avoiding over-refusal of benign inputs. To address these limitations",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "prompt"
+    ]
+  },
+  {
+    "title": "volcengine / OpenViking",
+    "url": "https://github.com/volcengine/OpenViking",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. [64 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "RAG",
+      "memory"
+    ]
+  },
+  {
+    "title": "holaboss-ai / holaOS",
+    "url": "https://github.com/holaboss-ai/holaOS",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK. [769 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "memory"
+    ]
+  }
+]
