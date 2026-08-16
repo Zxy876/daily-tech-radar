@@ -1,0 +1,287 @@
+{
+  "date": "2026-08-16",
+  "candidates": [
+    {
+      "title": "Spatial Memory Agent: Experience-Grounded Procedure Memory for Spatial Intelligence",
+      "url": "https://arxiv.org/abs/2608.12743",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 15 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.12743v1 Announce Type: new \nAbstract: Spatial intelligence is becoming a foundation for embodied agents, robotic planning, and multimodal assistants. To improve the spatial reasoning ability of VLM agents, existing work has mainly followed two lines. One line uses post-training methods, such as supervised fine-tuning and reinforcement learning. Another line adopts an agentic paradigm in which the model calls external spatial tools, such as depth estimation and 3D reconstruction tools,",
+      "score": 14.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "multimodal",
+        "fine-tuning",
+        "reasoning",
+        "planning",
+        "memory"
+      ]
+    },
+    {
+      "title": "Dual-Flow Transformers: Decoupling the Primary Prefill Path from Additional Decode Computation",
+      "url": "https://arxiv.org/abs/2608.12385",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 15 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.12385v1 Announce Type: new \nAbstract: As large language models serve more requests, cumulative inference cost is becoming increasingly important relative to one-time training cost. The two inference phases stress hardware differently: prompt prefill is parallel and typically compute-bound, whereas autoregressive decode is sequential and often memory-bandwidth-bound. Conventional width or depth scaling increases both costs together because every added layer is evaluated in both phases.",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "transformer",
+        "language model",
+        "inference",
+        "prompt",
+        "memory"
+      ]
+    },
+    {
+      "title": "Privacy-Preserving RAG by Concealing Sensitive Information from External LLMs",
+      "url": "https://arxiv.org/abs/2608.12675",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 15 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.12675v1 Announce Type: new \nAbstract: Retrieval-Augmented Generation (RAG) is widely used to improve the performance of Large Language Models (LLMs) in answering user queries. Existing privacy research on RAG has focused on preventing unauthorized users from accessing sensitive data. However, another important problem that is often overlooked in RAG privacy research is that external generators have access to the query and the retrieved documents, which may contain confidential informa",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "RAG",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists",
+      "url": "https://arxiv.org/abs/2608.12345",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 15 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.12345v1 Announce Type: new \nAbstract: Language models are increasingly deployed as co-scientists, yet their ability to uphold research integrity under institutional pressure remains unmeasured. We introduce IntegrityBench, a benchmark evaluating misconduct classification, ethical action reasoning and artifact-grounded decision making across 36 paired tasks under a 5-level implicit-explicit pressure protocol spanning 3 domains and 4 research stages. Evaluating 18 frontier model variant",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Don't Want Your LLM to Recommend Nuclear Strike? Try Asking It in Japanese",
+      "url": "https://arxiv.org/abs/2608.12373",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 15 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.12373v1 Announce Type: new \nAbstract: Large language models are increasingly used in strategic and advisory contexts, yet their safety alignment is typically evaluated in English only. We test nine models from six providers and ask whether the language of a prompt can change a model's decision in a high-stakes scenario. We use single-turn game-theoretic vignettes in which a model advises a nuclear-armed nation on whether to strike a defenseless opponent. The prompt is intentionally am",
+      "score": 8.0,
+      "keywords_matched": [
+        "LLM",
+        "game",
+        "language model",
+        "prompt"
+      ]
+    },
+    {
+      "title": "MindMemOS: A Portable and Self-Evolving Memory Operating Layer for AI Agents",
+      "url": "https://arxiv.org/abs/2608.12428",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 15 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.12428v1 Announce Type: new \nAbstract: Memory is a core component of AI agents, enabling them to accumulate experience, maintain personalization, and adapt over long-term interactions. However, existing memory systems often remain fixed after development, limiting their ability to adapt their memory models, organization strategies, and procedural knowledge through continued use. We present MindMemOS, a portable and self-evolving memory operating layer that organizes open-world informat",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "memory",
+        "procedural"
+      ]
+    },
+    {
+      "title": "Governed Persistent Memory: Source-Bound State Semantics and Fail-Closed Release for Long-Horizon Agents",
+      "url": "https://arxiv.org/abs/2608.12476",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 15 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.12476v1 Announce Type: new \nAbstract: Long-term agent memory is usually treated as select--store--retrieve, but retrieval does not decide whether contradictory, superseded, retracted, deleted, or stale records may support an outgoing claim. We introduce Governed Persistent Memory (GPM), an auditable bitemporal state-transition model with source-bound admission, derived lifecycle state, current public barriers, and fail-closed structured release. Five executable clauses cover ledger in",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "memory",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "On the Expressive Power of Transformers",
+      "url": "https://arxiv.org/abs/2608.12671",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 15 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.12671v1 Announce Type: new \nAbstract: Multi-layer transformers form the critical component of essentially all large language models (LLMs) in use today. Because of their ubiquity and computational capability, there is a rapidly growing body of work that aims to precisely calibrate the expressive power of transformers as language recognizers by comparing them against standard models of computation studied for decades by the theoretical computer science community. In this endeavor, circ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "transformer",
+        "language model"
+      ]
+    },
+    {
+      "title": "Beyond the Best Guess: Improving LLM Solution Coverage with Evolution Strategies",
+      "url": "https://arxiv.org/abs/2608.12679",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 15 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.12679v1 Announce Type: new \nAbstract: Large Language Models (LLMs) are increasingly deployed in discovery domains such as math and science. The usual approach is to present the problem to the model and use its answer as the proposed solution. However, beyond this best guess, discovery can be enhanced by increasing test-time compute. In a process called pass@k, the model is allowed to explore the solution space and generate diverse candidate solutions. Unfortunately, the standard appro",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "RAG"
+      ]
+    },
+    {
+      "title": "Beyond Retrieval: Query-Conditioned Reuse of Long-Horizon Agent Trajectories",
+      "url": "https://arxiv.org/abs/2608.12847",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 15 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.12847v1 Announce Type: new \nAbstract: Retrieval can identify a past trajectory that may matter, yet it does not specify how an acting agent should use that trajectory after users, entities, constraints, or environment state have changed. We identify this post-retrieval reuse step as a distinct bottleneck for long-horizon trajectory memory and formulate an evaluation framework that holds candidate retrieval, target state, model, decoding, and tool budget fixed while varying the support",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "memory",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "citrolabs / ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config. [545 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "automation"
+      ]
+    },
+    {
+      "title": "Agreement Is Not Alignment: Divergent Moral Grounds in Human and LLM Ethical Judgments",
+      "url": "https://arxiv.org/abs/2608.12368",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 15 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.12368v1 Announce Type: new \nAbstract: Agreement with human judgments is a common proxy for evaluating the alignment of large language models (LLMs). Yet agreement in final labels does not show that human annotators and models rely on the same moral grounds. Two agents may reach the same judgment while appealing to different principles, contextual assumptions, or interpretations of the situation.\n  We test this distinction using a curated 500-item ETHICS-derived benchmark spanning five",
+      "score": 6.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "language model"
+      ]
+    },
+    {
+      "title": "Multi-Agent Scheduling with LLM-Assisted Contract Net Negotiation for Stream Processing in Mobile Edge Computing",
+      "url": "https://arxiv.org/abs/2608.12371",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 15 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.12371v1 Announce Type: new \nAbstract: Stream-processing systems increasingly operate across heterogeneous mobile edge--cloud infrastructures, where workload volatility, resource contention, and stringent quality-of-service (QoS) requirements complicate decentralized scheduling. This paper proposes \\emph{MAS-DecStream}, whose main contribution is \\emph{LLM-MR-CNP}: an extension of the classical Contract Net Protocol with semantic CFP formulation, progressive context disclosure, multi-r",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM"
+      ]
+    },
+    {
+      "title": "Position: We Need Practical AI Alignment Methods to Mirror Human Reasoning",
+      "url": "https://arxiv.org/abs/2608.12372",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 15 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.12372v1 Announce Type: new \nAbstract: AI systems are increasingly employed as decision aids, decision delegates, or autonomous decision-makers. This position paper argues that in many settings, particularly high-stakes decision-making, we need accurate cognitively-aligned AI systems that reason similarly to their users, and faithfully communicate their reasoning. We review evidence that cognitive alignment improves understandability and trustworthiness, and provide new survey data sho",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "autonomous",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Large Language Models Can Follow Instructions, But Not Many at Once: Phase Transitions in Compositional Constraint Satisfaction",
+      "url": "https://arxiv.org/abs/2608.12426",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 15 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.12426v1 Announce Type: new \nAbstract: Large language models are increasingly deployed in settings that require simultaneous adherence to multiple explicit constraints - reasoning structure, safety boundaries, output schemas. Individual constraints are handled proficiently, but the compositional regime, where many must hold jointly, remains poorly characterized: how rapidly does performance degrade, what governs the degradation, and can the collapse be mitigated? We introduce Constrain",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Reasoning Jury: Multi-Model Consensus for Evaluating Reasoning Traces",
+      "url": "https://arxiv.org/abs/2608.12585",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 15 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.12585v1 Announce Type: new \nAbstract: Improving reasoning LLMs requires the ability to judge the quality of long reasoning traces for effective reasoning data curation, strong training signals during reinforcement learning, and an in-depth understanding of reasoning behaviors during model performance evaluation. Additionally, surfacing reasoning mistakes that the model makes would enable improving the model's performance at runtime through providing feedback. Due to the difficulty of ",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "@skills: Attention is all you have",
+      "url": "https://arxiv.org/abs/2608.12610",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 15 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.12610v1 Announce Type: new \nAbstract: There are 56,804 public agent skills today, and teams write many more privately. The dominant delivery model is installation: once installed, a skill's description remains in the system prompt, competing for fewer than 100 reliable trigger slots. This leaves the long tail with no practical path to use and forces teams' own playbooks to compete for the same scarce space. We observe that installation bundles three separable functions: content, persi",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "prompt"
+      ]
+    },
+    {
+      "title": "Jagged Judges: Epistemic Stability Under Silence, Pressure, and Persistence",
+      "url": "https://arxiv.org/abs/2608.12645",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 15 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.12645v1 Announce Type: new \nAbstract: LLM judges have become central infrastructure for model evaluations, online grading, and reward modeling. Judges are typically validated by accuracy on golden data, but accuracy says little about whether they are stable under re-prompting, challenge, or sustained pushback. We introduce the \\emph{Wiggle Framework}, a unified stress test for epistemic stability in LLM judges. The framework decomposes judge robustness along three dimensions: Mechanic",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "prompt"
+      ]
+    },
+    {
+      "title": "SteerBench-Work: A Benchmark for Agent Steering at Action Boundaries",
+      "url": "https://arxiv.org/abs/2608.12654",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 15 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.12654v1 Announce Type: new \nAbstract: Long-running LLM agents act through tools, and a single step can send an email, merge a pull request, or wire a payment. The steering decision is the pre-commit choice at that boundary: proceed, or hold for human or policy review. We introduce SteerBench-Work, an incident-anchored, bidirectional benchmark for that decision in workplace agents across developer operations, customer service, finance, legal, medical, HR, and security.\n  Release v2026-",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM"
+      ]
+    },
+    {
+      "title": "PROVE-RT: Generating Mechanized Theorem Prover Scripts for Real-Time Systems using LLMs",
+      "url": "https://arxiv.org/abs/2608.12762",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 15 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.12762v1 Announce Type: new \nAbstract: Schedulability analysis is essential for certifying real-time systems, but existing tests are often developed through pen-and-paper proofs that are difficult to scale, validate, and maintain. Mechanized verification in PROSA/ROCQ offers a rigorous alternative, yet manually constructing such proofs requires substantial domain expertise and proof-engineering effort. Recent successes of large language models (LLMs) across a wide range of tasks make t",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-08-16\n\n## Spatial Memory Agent: 空间程序记忆系统\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2608.12743\n- 一句话解释：让 Agent 不仅记住“这里有什么”，而是建立一套基于经验沉淀的“空间操作程序记忆（Procedure Memory）”。\n- 它为什么重要：过去做 Minecraft 或 3D 游戏 Agent，通常要么靠纯视觉 VLM 硬看，要么靠固定的符号路网。这项研究将空间记忆 procedural 化——Agent 记下的是空间拓扑与行动序列的复合经验，大幅提升空间推理与规划效率。\n- 技术趋势标签：`Spatial Intelligence` `Embodied AI` `Procedural Memory` `Game AI`\n- 可复用模式：**拓扑图 + 动作宏（Action Macro）缓存**。不仅记录空间坐标，还记录从 A 到 B、如何在特定地形下搭建结构的动作配方。\n- 疯狂发明家灵感：\n  1. **一个小实验**：在 Minecraft (Mineflayer) 中，让 Agent 探索一个未知洞穴，自动将“如何搭跳板跨过岩浆”沉淀为一个可复用的空间动作 Macro。\n  2. **一个中型项目**：3D 生成式关卡自适应探险家：输入任意生成的 3D 地牢 mesh，Agent 自动探索并在盲区留下“空间指引路标”与解谜脚手架。\n  3. **一个艺术/游戏/叙事方向**：“记忆遗迹”互动装置——NPC 的记忆体随着玩家破坏/重建环境而产生认知失调与即兴应变，玩家通过改造空间来篡改 NPC 的生存程序。\n- 对我项目的启发：为 Minecraft/3D 世界生成系统引入“空间经验缓存”，使生成器或 Agent 无需每次从零用 LLM 计算路径与建造语法。\n- 今天是否值得深入研究：是\n- 建议行动：做demo\n\n---\n\n## Beyond Retrieval: 轨迹记忆的动态重用 (Query-Conditioned Reuse)\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2608.12847\n- 摘要：Agent 检索到历史轨迹不等于能直接用，论文提出了在实体、约束和环境状态变化后，如何“条件化重组与重用”长周期轨迹的方法。\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2608.12847\n- 一句话解释：解决了 Agent “记住了以前怎么做，但环境稍微一变就抓瞎”的泛化重用难题。\n- 它为什么重要：传统 RAG 和 Agent Memory 只管检索（Retrieve），不管突变适应（Adapt）。本研究将重点放在**检索后的轨迹参数化重构**上，这是长周期 Agent 可靠性的核心拼图。\n- 技术趋势标签：`Agent Trajectory` `Memory Adaptation` `Spec-Driven Workflow`\n- 可复用模式：**轨迹 AST 变量解耦与重绑定**。将历史执行链路抽象成带有插槽的流程模板，新任务输入时只替换变量与局部分支，而非重新规划。\n- 疯狂发明家灵感：\n  1. **一个小实验**：把一次成功的 Figma 导出或 Blender 建模操作记录提取为 JSON 轨迹，换一个全新的资产需求，让 LLM 只做“差分修补”重放操作。\n  2. **一个中型项目**：Spec-Driven 代码重构 Agent——记录一次复杂的跨文件重构轨迹，迁移并在另一个架构相似但业务不同的仓库上重演。\n  3. **一个艺术/游戏/叙事方向**：分支叙事“命运重演”引擎——将一个角色的悲剧一生记录为 Trajectory，玩家通过在关键节点修改一个环境变量，观察整个轨迹的自愈与级联偏转。\n- 对我项目的启发：在设计自动化流程中，不要每次都让 LLM end-to-end 重新生成，提取成功 Run 的 AST 轨迹进行 Conditioned Reuse 成本更低且极稳。\n- 今天是否值得深入研究：是\n- 建议行动：做demo\n\n---\n\n## @skills: 突破 System Prompt 技能插槽危机的动态分发机制\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2608.12610\n- 一句话解释：指出将成百上千个 Agent 技能硬塞进 System Prompt 必然导致注意力衰减，提出了一种按需寻址的技能动态激活协议。\n- 它为什么重要：社区工具狂欢导致大家写了上万个 Agent Skill，但模型的 Context Attention 是有限的。当技能超过几十个，Trigger 准确率暴跌。这个研究直接切中了当今 Agent 基础设施的瓶颈。\n- 技术趋势标签：`Agent Tooling` `Dynamic Routing` `Prompt Optimization` `HCI`\n- 可复用模式：**两级分发器模式（Two-Stage Dispatcher）**：主 Agent 仅挂载轻量级的技能路由器（Router Specs），真正执行时才向上下文即时 JIT 注入完整 Skill Spec。\n- 疯狂发明家灵感：\n  1. **一个小实验**：用 Bash/Python 写一个本地路由代理，把本地 50 个 CLI 工具的文档做语义索引，只有当 LLM 提及相关意图时才把工具 schema 贴入 prompt。\n  2. **一个中型项目**：模块化创意工具链 OS：允许艺术家用自然语言编写无限个微脚本（如“把选中音频反相”、“生成噪波着色器”），系统自动管理注意力分配与动态插拔。\n  3. **一个艺术/游戏/叙事方向**：一个拥有几千种人格碎片的虚拟神明，随玩家对话情绪仅动态“降临”特定子人格与词汇表，产生不可预测的通灵体验。\n- 对我项目的启发：构建 Spec-driven Agent 时，彻底抛弃“巨石型（Monolithic）System Prompt”，改用类似 MCP (Model Context Protocol) 的 JIT 按需装载机制。\n- 今天是否值得深入研究：是\n- 建议行动：试用\n\n---\n\n## citrolabs / ego-lite: 零配置无缝接管已登录状态的 Agent 浏览器\n- 来源：GitHub Trending\n- 链接：https://github.com/citrolabs/ego-lite\n- 一句话解释：专门为 Claude Code、Codex 等本地命令行 Agent 设计的超轻量浏览器，能直接复用你日常已登录的 Cookie 与会话，完全不打扰正常使用。\n- 它为什么重要：做 Agent 自动化最大的痛点是验证码、双重认证和登录态隔离。ego-lite 抹平了开发者工作流与 Agent 执行环境之间的壁垒，让 Agent 能够真正无摩擦地调取你授权的 Web 生态。\n- 技术趋势标签：`Browser Automation` `Agent HCI` `Developer Tools` `Local Agent`\n- 可复用模式：**Session Shadowing（会话影子复用）**。Agent 在后台以无头/轻量方式共享主浏览器上下文，无需频繁配置环境变量中的 API Token。\n- 疯狂发明家灵感：\n  1. **一个小实验**：让 Claude Code 通过 ego-lite 自动抓取你私人 Arena/Pinboard 收藏夹中的艺术灵感图，自动喂给 ComfyUI 批量生成。\n  2. **一个中型项目**：一键式跨平台创作工作流 Agent——直接在命令行里让 Agent 读取你的 Notion 灵感库、写成 Twitter/Are.na 草稿并自动完成排版。\n  3. **一个艺术/游戏/叙事方向**：“幽灵创作者”实验——Agent 观察你的日常浏览痕迹（已授权范围），每天半夜根据你白天看过的视觉碎片，自动合成并发布一本排版前卫的纯数字“潜意识杂志”。\n- 对我项目的启发：将本地 Agent 的工具链打通到已登录的 Web 生态中，极大降低做真实自动化工作流的摩擦力。\n- 今天是否值得深入研究：是\n- 建议行动：试用\n\n---\n\n## 多重约束下的相变失效：LLM 的组合规则崩溃临界点\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2608.12426\n- 一句话解释：研究揭示了当多条格式、推理结构、安全限制等约束同时施加给 LLM 时，其性能会发生断崖式下跌的“相变（Phase Transition）”现象。\n- 它为什么重要：在做生成式系统、游戏规则判定和 Spec-driven 架构时，我们习惯在 Prompt 里写“规则 1、规则 2……规则 10”。该论文从理论和实验上证明了这种做法的危险性：约束数量一旦超过阈值，模型不是线性变差，而是直接雪崩。\n- 技术趋势标签：`Constraint Satisfaction` `System Prompt Engineering` `Generative Rules`\n- 可复用模式：**约束分层级联过滤器（Constraint Pipeline/Gating）**。将多重约束拆解为多个单任务的微步骤，或采用编译原理中的多遍扫描（Multi-pass Parsing）。\n- 疯狂发明家灵感：\n  1. **一个小实验**：测试自己最常用的生成 Prompt，通过逐步增加负向词与排版约束，绘制出自己常用模型的“崩溃临界点曲线”。\n  2. **一个中型项目**：Spec-Linter 约束编译器：输入一个包含几十条游戏/设计规则的复杂 Spec，编译器自动将其拓扑排序，并拆分成一组无损执行的 Agent Pipeline。\n  3. **一个艺术/游戏/叙事方向**：一个以“逻辑过载”为核心机制的解谜游戏——玩家通过故意给 AI 法官叠加互相冲突的繁琐律法规则，诱发其产生“幻觉相变”，从而打破原本不可动摇的叙事死局。\n- 对我项目的启发：在设计复杂的规则系统（如 Minecraft 地形生成规范、严苛的 UI 生成格式）时，坚决不能把规则压在单次 Prompt 里，必须做管线化与约束外置。\n- 今天是否值得深入研究：是\n- 建议行动：收藏\n\n---\n\n## 今日模式总结\n\n1. **从“静态检索”到“程序化记忆与重组”（Procedural Memory & Trajectory Reuse）**：\n   记忆不再只是把向量库里的文本翻出来，而是提取“动作配方”（Macro）与“可参数化的轨迹”（Trajectory AST），在面对变化环境时做插槽替换与自适应。\n2. **上下文空间的“轻量化与动态路由”（Attention Space Decongestion）**：\n   无论是针对爆炸的 Agent 技能集（@skills），还是针对过载的规则约束（Phase Transitions），业界正在达成共识：**不能把所有东西塞进单次推理**，必须依赖动态按需注入与流水线过滤。\n\n---\n\n## 今日可做小实验\n\n### 项目名：`MacroMorph` —— 基于 AST 差分修补的单动作重演器\n- **输入**：一段你手动用 Node.js/Python 脚本操作某个设计工具（如用 p5.js 画一个网格，或生成一段特定规则 SVG）的成功执行 Trajectory JSON。\n- **输出**：在输入全新尺寸/颜色规则时，LLM 仅输出“修补补丁 (Patch Spec)”，并成功自动运行生成新资产，而不重写整个脚本。\n- **技术栈**：Node.js / Python + OpenAI/Anthropic API + 任意轻量绘图库 (Canvas / SVG)。\n- **第一步怎么做**：\n  1. 写一个极简的 JSON Schema，记录 3 个绘图步骤（如 `[{\"action\": \"draw_rect\", \"params\": {\"w\": 100, \"h\": 50}}, ...]`）。\n  2. 写一个 Prompt，给它上述 JSON 作为基准轨迹，输入新约束：“把所有的矩形换成圆角，宽度等比放大 1.5 倍”。\n  3. 要求模型**仅输出 JSON Patch 格式**（针对键值的替换指令），本地脚本 apply 这个 patch 并即时渲染出图，体验一次零幻觉的 Trajectory Reuse。",
+  "gemini_success": true,
+  "telegram_sent": true,
+  "telegram_status": "sent",
+  "telegram_reason": ""
+}
