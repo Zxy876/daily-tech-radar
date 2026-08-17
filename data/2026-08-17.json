@@ -1,0 +1,243 @@
+{
+  "date": "2026-08-17",
+  "candidates": [
+    {
+      "title": "unslothai / unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more. [572 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "diffusion"
+      ]
+    },
+    {
+      "title": "ToolJet / ToolJet",
+      "url": "https://github.com/ToolJet/ToolJet",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀 [452 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "workflow"
+      ]
+    },
+    {
+      "title": "MathCode, Mathematical Coding Agent",
+      "url": "https://math-ai-org.github.io/mathcode/",
+      "source": "Hacker News",
+      "published_at": "Sun, 16 Aug 2026 18:17:10 +0000",
+      "description": "Article URL: https://math-ai-org.github.io/mathcode/ Comments URL: https://news.ycombinator.com/item?id=49322330 Points: 56 # Comments: 18",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "The AI Credit Resale Economy",
+      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+      "source": "Hacker News",
+      "published_at": "Sun, 16 Aug 2026 14:44:55 +0000",
+      "description": "Article URL: https://vectoral.com/blog/who-are-the-token-brokers Comments URL: https://news.ycombinator.com/item?id=49320611 Points: 224 # Comments: 88",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "vector"
+      ]
+    },
+    {
+      "title": "Claude: System Prompts",
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "source": "Hacker News",
+      "published_at": "Sun, 16 Aug 2026 12:48:21 +0000",
+      "description": "Article URL: https://platform.claude.com/docs/en/release-notes/system-prompts Comments URL: https://news.ycombinator.com/item?id=49319556 Points: 535 # Comments: 224",
+      "score": 4.0,
+      "keywords_matched": [
+        "Claude",
+        "prompt"
+      ]
+    },
+    {
+      "title": "harry0703 / MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. [494 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "workflow"
+      ]
+    },
+    {
+      "title": "MakazhanAlpamys / Soup",
+      "url": "https://github.com/MakazhanAlpamys/Soup",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. [443 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "title": "THUDM / slime",
+      "url": "https://github.com/THUDM/slime",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "slime is an LLM post-training framework for RL Scaling. [31 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "title": "0xSero / ai-data-extraction",
+      "url": "https://github.com/0xSero/ai-data-extraction",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "extract all your personal data history from cursor, codex, claude-code, windsurf, and trae [51 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "Claude"
+      ]
+    },
+    {
+      "title": "CodebuffAI / freebuff",
+      "url": "https://github.com/CodebuffAI/freebuff",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "The free coding agent [141 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "chaitanyagiri / munder-difflin",
+      "url": "https://github.com/chaitanyagiri/munder-difflin",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "local multi-agent harness [181 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "Physicists discover a hidden gluon structure inside protons",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260815064805.htm",
+      "source": "Hacker News",
+      "published_at": "Mon, 17 Aug 2026 01:10:34 +0000",
+      "description": "Article URL: https://www.sciencedaily.com/releases/2026/08/260815064805.htm Comments URL: https://news.ycombinator.com/item?id=49325508 Points: 3 # Comments: 0",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Rhombus 1.1 is now available",
+      "url": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
+      "source": "Hacker News",
+      "published_at": "Mon, 17 Aug 2026 00:48:21 +0000",
+      "description": "Article URL: https://blog.racket-lang.org/2026/08/rhombus-v1.1.html Comments URL: https://news.ycombinator.com/item?id=49325384 Points: 6 # Comments: 2",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+      "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
+      "source": "Hacker News",
+      "published_at": "Sun, 16 Aug 2026 21:07:10 +0000",
+      "description": "Article URL: https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/ Comments URL: https://news.ycombinator.com/item?id=49323686 Points: 96 # Comments: 27",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+      "source": "Hacker News",
+      "published_at": "Sun, 16 Aug 2026 20:31:16 +0000",
+      "description": "Article URL: https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion Comments URL: https://news.ycombinator.com/item?id=49323381 Points: 188 # Comments: 139",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
+      "url": "https://news.ycombinator.com/item?id=49322107",
+      "source": "Hacker News",
+      "published_at": "Sun, 16 Aug 2026 17:49:46 +0000",
+      "description": "A few hours ago I switched my nameservers to Cloudflare in order to enable R2 bucket serving through my own subdomain, and I found out that it silently had injected a JS analytics snippet in my HTML-only JS-free site textlog.cc — I had to go to the Analytics dashboard, Add the site to the analytics and then disable the snippet. I find this approach entirely invasive, you should opt-in to features like that not have to opt-out. Just a warning out there to folks who might not be aware of this. Com",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    },
+    {
+      "title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
+      "url": "https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core",
+      "source": "Hacker News",
+      "published_at": "Sun, 16 Aug 2026 15:16:06 +0000",
+      "description": "Article URL: https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core Comments URL: https://news.ycombinator.com/item?id=49320856 Points: 157 # Comments: 120",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Tasklet (YC P26) Is Hiring a Head of Design Engineering",
+      "url": "https://tasklet.ai/careers/head-of-design-engineering",
+      "source": "Hacker News",
+      "published_at": "Sun, 16 Aug 2026 13:30:27 +0000",
+      "description": "Article URL: https://tasklet.ai/careers/head-of-design-engineering Comments URL: https://news.ycombinator.com/item?id=49319892 Points: 0 # Comments: 0",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Research papers using \"kidney disappointment\" instead of \"kidney failure\"",
+      "url": "https://scholar.google.com/scholar?q=%22kidney+disappointment%22",
+      "source": "Hacker News Best",
+      "published_at": "Sun, 16 Aug 2026 12:22:20 +0000",
+      "description": "Article URL: https://scholar.google.com/scholar?q=%22kidney+disappointment%22 Comments URL: https://news.ycombinator.com/item?id=49319389 Points: 352 # Comments: 128",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    },
+    {
+      "title": "What happens when an LLM never sees material beyond fifth grade?",
+      "url": "https://littlelearner-ll.github.io/",
+      "source": "Hacker News Best",
+      "published_at": "Sun, 16 Aug 2026 07:37:53 +0000",
+      "description": "Article URL: https://littlelearner-ll.github.io/ Comments URL: https://news.ycombinator.com/item?id=49317760 Points: 234 # Comments: 205",
+      "score": 2.0,
+      "keywords_matched": [
+        "LLM"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-08-17\n\n太棒了！作为你的\"疯狂发明家技术雷达\"，我已为你筛选出今日份的绝佳灵感。这些内容足够新、足够怪、足够实验，并且都与你的兴趣点高度契合。让我们一起把脑洞变成现实！\n\n---\n\n## [Unsloth：极速本地 LLM/Diffusion 模型训练与推理 UI]\n- 来源：GitHub Trending Python\n- 链接：https://github.com/unslothai/unsloth\n- 一句话解释：一个让你能在本地高效运行和训练各种大型语言模型（LLM）和图像生成模型（Diffusion Models）的桌面应用。\n- 它为什么重要：极大地降低了在个人硬件上进行先进 AI 模型实验的门槛，支持多种热门模型，让你能快速迭代和验证想法。\n- 技术趋势标签：LLM, Diffusion Models, Local AI, UI, AI Development Workflow\n- 可复用模式：**本地AI实验平台** - 提供一个集成环境，简化模型部署、微调和推理过程。\n- 疯狂发明家灵感：\n    1.  **一个小型实验**：使用 Unsloth 快速加载一个开源 LLM（如 Gemma 4），并尝试用一段自定义文本进行微调，观察其行为变化。\n    2.  **一个中型项目**：构建一个基于 Unsloth 的“AI 艺术生成器”，允许用户输入描述性文本，选择风格模型，并生成图像，同时提供参数调整的 UI。\n    3.  **一个艺术/游戏/叙事方向**：开发一个“AI 角色生成器”，结合 LLM（生成背景故事、性格）和 Diffusion Model（生成角色形象），可以用于游戏 NPC 或互动故事创作。\n- 对我项目的启发：为开发自己的 Creative Tool 或 Agent System 提供了强大的底层支持，可以快速测试和部署各种 AI 模型。\n- 今天是否值得深入研究：是\n- 建议行动：试用 / 做demo\n\n## [ToolJet AI：企业级内部工具与 AI Agent 生成平台]\n- 来源：GitHub Trending\n- 链接：https://github.com/ToolJet/ToolJet\n- 一句话解释：一个开源平台，能让你快速构建内部工具、仪表盘、业务应用，并集成 AI Agent 来自动化工作流。\n- 它为什么重要：它将低代码/无代码的内部工具开发与强大的 AI Agent 能力结合，为构建复杂、智能化的自动化系统提供了基础。\n- 技术趋势标签：AI Agents, Workflow Automation, Internal Tools, Low-Code/No-Code, Spec-Driven Development\n- 可复用模式：**AI Agent 工作流编排** - 将 AI Agent 作为核心组件，嵌入到各种业务流程和应用中。\n- 疯狂发明家灵感：\n    1.  **一个小型实验**：创建一个简单的内部工具，用 ToolJet 连接到一个数据库，然后添加一个 AI Agent，让它可以根据用户输入的自然语言查询来查询数据库。\n    2.  **一个中型项目**：设计一个“AI 驱动的项目管理助手”，ToolJet 负责 UI 和数据管理，AI Agent 负责任务分配建议、风险预警、进度报告生成。\n    3.  **一个艺术/游戏/叙事方向**：构建一个“AI 叙事生成器”，ToolJet 负责管理故事元素（角色、场景、情节线索），AI Agent 根据用户输入的触发器或规则，动态生成故事分支和文本。\n- 对我项目的启发：非常适合实践 Spec-Driven Development，定义清晰的 Agent 行为和交互，并快速实现。\n- 今天是否值得深入研究：是\n- 建议行动：试用 / 做demo\n\n## [MoneyPrinterTurbo：AI 一键生成高清短视频]\n- 来源：GitHub Trending Python\n- 链接：https://github.com/harry0703/MoneyPrinterTurbo\n- 一句话解释：一个利用大型语言模型和自动化工作流，根据主题或关键词自动生成高清短视频的工具。\n- 它为什么重要：它展示了 AI 在内容生成领域的强大潜力，特别是将文本到视频的生成流程自动化，为创意内容生产开辟了新途径。\n- 技术趋势标签：AI, Workflow Automation, Generative Systems, Creative Coding, LLM\n- 可复用模式：**自动化内容生产线** - 将 AI 模型作为流水线中的关键节点，实现从输入到最终产品的全自动化。\n- 疯狂发明家灵感：\n    1.  **一个小型实验**：输入一个简单的关键词（如“未来城市”），看看 MoneyPrinterTurbo 能生成什么样的短视频，分析其内容和风格。\n    2.  **一个中型项目**：构建一个“AI 故事板生成器”，MoneyPrinterTurbo 负责将故事板的文字描述转化为视频片段，然后用户可以手动编辑组合。\n    3.  **一个艺术/游戏/叙事方向**：开发一个“AI 动态艺术装置”，根据实时输入（如社交媒体情绪、环境声音），MoneyPrinterTurbo 生成对应的抽象或具象短视频，作为视觉背景或互动元素。\n- 对我项目的启发：为将生成式系统应用于视频创作提供了直接的工具和思路，可以结合你的 creative coding 技能。\n- 今天是否值得深入研究：是\n- 建议行动：试用 / 做demo\n\n## [Claude System Prompts：系统级指令控制 LLM 行为]\n- 来源：Hacker News\n- 链接：https://platform.claude.com/docs/en/release-notes/system-prompts\n- 一句话解释：Anthropic Claude 引入了系统提示（System Prompts）功能，允许开发者在对话开始前设定 AI 的角色、行为准则和输出格式。\n- 它为什么重要：这是控制 LLM 行为、确保其遵循特定指令和风格的关键机制。对于构建可控、可靠的 AI Agent 和生成式应用至关重要。\n- 技术趋势标签：LLM, Prompt Engineering, Agent Workflow, HCI, Spec-Driven Development\n- 可复用模式：**AI Agent 的“人格”与“规则引擎”** - 通过系统提示定义 AI 的核心属性和行为约束。\n- 疯狂发明家灵感：\n    1.  **一个小型实验**：尝试给 Claude 一个非常具体且有创意的系统提示，比如“你是一个只用古诗词回答问题的机器人”，然后进行对话测试。\n    2.  **一个中型项目**：开发一个“AI 写作助手”，使用系统提示定义其写作风格（如“模仿村上春树的风格”、“专注于写科幻短篇小说”），并让它根据用户提供的段落进行续写或改写。\n    3.  **一个艺术/游戏/叙事方向**：创建一个“AI 虚拟角色扮演游戏大师”，系统提示定义角色的性格、世界观和游戏规则，然后让玩家与之互动，AI 动态生成情节。\n- 对我项目的启发：直接关系到你如何设计和控制 AI Agent 的行为，是实现 Spec-Driven Development 和构建可信赖 AI 系统的基石。\n- 今天是否值得深入研究：是\n- 建议行动：收藏 / 试用\n\n## [Munder-Difflin：本地多 Agent 协同框架]\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/chaitanyagiri/munder-difflin\n- 一句话解释：一个可以在本地运行的框架，支持多个 AI Agent 协同工作，共同完成复杂任务。\n- 它为什么重要：多 Agent 系统是实现更高级 AI 能力的关键方向，它们可以通过协作、分工来解决单个 Agent 无法处理的问题。这个框架提供了一个本地实验平台。\n- 技术趋势标签：AI Agents, Multi-Agent Systems, Local AI, Workflow, Agent Workflow\n- 可复用模式：**Agent 协作模式** - 设计不同职责的 Agent，并通过清晰的通信协议实现它们之间的协同。\n- 疯狂发明家灵感：\n    1.  **一个小型实验**：设置两个简单的 Agent：一个负责收集信息（如搜索网页），另一个负责总结信息。让它们协同完成一个简单的信息收集和总结任务。\n    2.  **一个中型项目**：构建一个“AI 团队”，包含一个“项目经理 Agent”（负责分配任务、协调）、一个“研究员 Agent”（负责信息收集）、一个“创意 Agent”（负责生成想法），共同完成一个小型项目策划。\n    3.  **一个艺术/游戏/叙事方向**：设计一个“AI 虚拟社区”，每个 Agent 代表一个居民，拥有不同的个性和目标，它们之间的互动会生成社区故事和事件。\n- 对我项目的启发：直接支持你的 Agent 和 Spec-Driven Development 兴趣，可以探索 Agent 之间的通信、任务分解和协调机制。\n- 今天是否值得深入研究：是\n- 建议行动：试用 / 做demo\n\n---\n\n## 今日模式总结\n今天我们看到了几个关键的技术模式：\n\n1.  **本地化 AI 实验平台**：Unsloth 和 Munder-Difflin 都体现了将强大的 AI 能力（LLM、Diffusion、Multi-Agent）带到本地，降低实验门槛，加速迭代。\n2.  **AI Agent 工作流编排**：ToolJet AI 和 MoneyPrinterTurbo 展示了如何将 AI Agent 或自动化流程嵌入到更广泛的应用和内容生产中，实现端到端的自动化。\n3.  **AI 行为精细化控制**：Claude System Prompts 强调了通过系统指令来定义和约束 AI 行为的重要性，这是构建可控、可靠 Agent 的基础。\n\n## 今日可做小实验\n**项目名**：AI 驱动的“虚拟角色性格生成器”\n\n**输入**：\n1.  一个简单的关键词或概念（例如：“失落的探险家”、“赛博朋克艺术家”、“时间旅行者”）。\n2.  一个基础的输出格式要求（例如：“请用 JSON 格式输出，包含 name, personality_traits, backstory, motivation, signature_quote”）。\n\n**输出**：\n一个 JSON 对象，包含一个 AI 生成的虚拟角色的详细信息，包括名字、性格特点、背景故事、动机和一句标志性的话。\n\n**技术栈**：\n-   **LLM**：Claude (利用 System Prompt 功能) 或任何你本地部署的 LLM（如果你的本地环境支持）。\n-   **Python**：用于编写调用 LLM API 的脚本，以及处理 JSON 输出。\n-   **VS Code (或你喜欢的 IDE)**\n\n**第一步怎么做**：\n1.  **设置 Claude System Prompt**：在 Claude 的 Playground 或通过 API，设置一个系统提示，明确指示 AI：“你是一个专业的虚拟角色设计师。你的任务是根据用户提供的关键词，创作一个丰富、有趣且逻辑自洽的角色。请严格按照以下 JSON 格式输出，包含 'name', 'personality_traits', 'backstory', 'motivation', 'signature_quote'。确保每个字段都精心设计，富有创意。”\n2.  **编写 Python 脚本**：\n    *   使用 `anthropic` Python 库（或其他 LLM 库）来调用 Claude API。\n    *   定义一个函数，接收用户输入的关键词和格式要求。\n    *   将系统提示和用户输入的关键词组合成一个完整的 prompt 发送给 Claude。\n    *   接收 Claude 的响应，并解析 JSON 输出。\n    *   打印生成的 JSON 对象。\n3.  **测试**：运行你的 Python 脚本，输入几个不同的关键词，观察生成的角色是否符合预期。\n\n这个实验可以在 2 小时内完成，让你快速体验到 System Prompt 的强大能力，并为构建更复杂的 Agent 系统打下基础。祝你玩得开心！",
+  "gemini_success": true,
+  "telegram_sent": true,
+  "telegram_status": "sent",
+  "telegram_reason": ""
+}

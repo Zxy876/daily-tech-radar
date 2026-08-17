@@ -1,0 +1,235 @@
+[
+  {
+    "title": "unslothai / unsloth",
+    "url": "https://github.com/unslothai/unsloth",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more. [572 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "diffusion"
+    ]
+  },
+  {
+    "title": "ToolJet / ToolJet",
+    "url": "https://github.com/ToolJet/ToolJet",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀 [452 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow"
+    ]
+  },
+  {
+    "title": "MathCode, Mathematical Coding Agent",
+    "url": "https://math-ai-org.github.io/mathcode/",
+    "source": "Hacker News",
+    "published_at": "Sun, 16 Aug 2026 18:17:10 +0000",
+    "description": "Article URL: https://math-ai-org.github.io/mathcode/ Comments URL: https://news.ycombinator.com/item?id=49322330 Points: 56 # Comments: 18",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "The AI Credit Resale Economy",
+    "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+    "source": "Hacker News",
+    "published_at": "Sun, 16 Aug 2026 14:44:55 +0000",
+    "description": "Article URL: https://vectoral.com/blog/who-are-the-token-brokers Comments URL: https://news.ycombinator.com/item?id=49320611 Points: 224 # Comments: 88",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "vector"
+    ]
+  },
+  {
+    "title": "Claude: System Prompts",
+    "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+    "source": "Hacker News",
+    "published_at": "Sun, 16 Aug 2026 12:48:21 +0000",
+    "description": "Article URL: https://platform.claude.com/docs/en/release-notes/system-prompts Comments URL: https://news.ycombinator.com/item?id=49319556 Points: 535 # Comments: 224",
+    "score": 4.0,
+    "keywords_matched": [
+      "Claude",
+      "prompt"
+    ]
+  },
+  {
+    "title": "harry0703 / MoneyPrinterTurbo",
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. [494 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "workflow"
+    ]
+  },
+  {
+    "title": "MakazhanAlpamys / Soup",
+    "url": "https://github.com/MakazhanAlpamys/Soup",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. [443 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "LLM"
+    ]
+  },
+  {
+    "title": "THUDM / slime",
+    "url": "https://github.com/THUDM/slime",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "slime is an LLM post-training framework for RL Scaling. [31 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "LLM"
+    ]
+  },
+  {
+    "title": "0xSero / ai-data-extraction",
+    "url": "https://github.com/0xSero/ai-data-extraction",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "extract all your personal data history from cursor, codex, claude-code, windsurf, and trae [51 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "Claude"
+    ]
+  },
+  {
+    "title": "CodebuffAI / freebuff",
+    "url": "https://github.com/CodebuffAI/freebuff",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "The free coding agent [141 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "chaitanyagiri / munder-difflin",
+    "url": "https://github.com/chaitanyagiri/munder-difflin",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "local multi-agent harness [181 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "Physicists discover a hidden gluon structure inside protons",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260815064805.htm",
+    "source": "Hacker News",
+    "published_at": "Mon, 17 Aug 2026 01:10:34 +0000",
+    "description": "Article URL: https://www.sciencedaily.com/releases/2026/08/260815064805.htm Comments URL: https://news.ycombinator.com/item?id=49325508 Points: 3 # Comments: 0",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  },
+  {
+    "title": "Rhombus 1.1 is now available",
+    "url": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
+    "source": "Hacker News",
+    "published_at": "Mon, 17 Aug 2026 00:48:21 +0000",
+    "description": "Article URL: https://blog.racket-lang.org/2026/08/rhombus-v1.1.html Comments URL: https://news.ycombinator.com/item?id=49325384 Points: 6 # Comments: 2",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  },
+  {
+    "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+    "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
+    "source": "Hacker News",
+    "published_at": "Sun, 16 Aug 2026 21:07:10 +0000",
+    "description": "Article URL: https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/ Comments URL: https://news.ycombinator.com/item?id=49323686 Points: 96 # Comments: 27",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  },
+  {
+    "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+    "source": "Hacker News",
+    "published_at": "Sun, 16 Aug 2026 20:31:16 +0000",
+    "description": "Article URL: https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion Comments URL: https://news.ycombinator.com/item?id=49323381 Points: 188 # Comments: 139",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  },
+  {
+    "title": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
+    "url": "https://news.ycombinator.com/item?id=49322107",
+    "source": "Hacker News",
+    "published_at": "Sun, 16 Aug 2026 17:49:46 +0000",
+    "description": "A few hours ago I switched my nameservers to Cloudflare in order to enable R2 bucket serving through my own subdomain, and I found out that it silently had injected a JS analytics snippet in my HTML-only JS-free site textlog.cc — I had to go to the Analytics dashboard, Add the site to the analytics and then disable the snippet. I find this approach entirely invasive, you should opt-in to features like that not have to opt-out. Just a warning out there to folks who might not be aware of this. Com",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  },
+  {
+    "title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
+    "url": "https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core",
+    "source": "Hacker News",
+    "published_at": "Sun, 16 Aug 2026 15:16:06 +0000",
+    "description": "Article URL: https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core Comments URL: https://news.ycombinator.com/item?id=49320856 Points: 157 # Comments: 120",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  },
+  {
+    "title": "Tasklet (YC P26) Is Hiring a Head of Design Engineering",
+    "url": "https://tasklet.ai/careers/head-of-design-engineering",
+    "source": "Hacker News",
+    "published_at": "Sun, 16 Aug 2026 13:30:27 +0000",
+    "description": "Article URL: https://tasklet.ai/careers/head-of-design-engineering Comments URL: https://news.ycombinator.com/item?id=49319892 Points: 0 # Comments: 0",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  },
+  {
+    "title": "Research papers using \"kidney disappointment\" instead of \"kidney failure\"",
+    "url": "https://scholar.google.com/scholar?q=%22kidney+disappointment%22",
+    "source": "Hacker News Best",
+    "published_at": "Sun, 16 Aug 2026 12:22:20 +0000",
+    "description": "Article URL: https://scholar.google.com/scholar?q=%22kidney+disappointment%22 Comments URL: https://news.ycombinator.com/item?id=49319389 Points: 352 # Comments: 128",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  },
+  {
+    "title": "What happens when an LLM never sees material beyond fifth grade?",
+    "url": "https://littlelearner-ll.github.io/",
+    "source": "Hacker News Best",
+    "published_at": "Sun, 16 Aug 2026 07:37:53 +0000",
+    "description": "Article URL: https://littlelearner-ll.github.io/ Comments URL: https://news.ycombinator.com/item?id=49317760 Points: 234 # Comments: 205",
+    "score": 2.0,
+    "keywords_matched": [
+      "LLM"
+    ]
+  }
+]
