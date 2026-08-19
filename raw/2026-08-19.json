@@ -1,0 +1,300 @@
+[
+  {
+    "title": "OGX: An Open-Source, Vendor-Neutral Generative AI Application Server",
+    "url": "https://arxiv.org/abs/2608.14580",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 18 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.14580v1 Announce Type: new \nAbstract: OGX (Open GenAI Stack) is an open-source AI application server and Python library that implements the APIs of major frontier labs (OpenAI, Anthropic, Google) with pluggable backend providers. Developers building agentic AI applications--such as retrieval-augmented generation pipelines, multi-turn agents, and tool-calling workflows--can develop against a single API surface and deploy with any combination of inference engine, vector database, and sa",
+    "score": 14.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow",
+      "vector",
+      "inference",
+      "retrieval",
+      "generative"
+    ]
+  },
+  {
+    "title": "An Agentic Framework Using Rules and LLMs for Embedding and Annotating Descriptive Document Layouts: A Plant Science Use Case",
+    "url": "https://arxiv.org/abs/2608.14587",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 18 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.14587v1 Announce Type: new \nAbstract: Background: Recent advances in information retrieval (IR) leverage both dense and sparse representations, large language models (LLMs), and specialized retrieval models to improve ranking accuracy, relevance, and cross-lingual performance. Complementary techniques such as passage indexing, document layout analysis, and semantic knowledge representation further enhance retrieval effectiveness by capturing fine-grained contextual and structural info",
+    "score": 14.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "RAG",
+      "embedding",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "MUSE: An Interactive Meta-Agent for Understanding and Steering LLM-powered Data Science Systems",
+    "url": "https://arxiv.org/abs/2608.16181",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 18 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.16181v1 Announce Type: new \nAbstract: Recent advances in large language models have enabled a new class of agentic data science systems that allow users to complete complex data science workflows through natural language. Although these systems can significantly reduce manual effort, it remains difficult to diagnose their behavior and steer the reasoning process when failures or unexpected outputs occur. We present MUSE, an interactive meta-agent that enhances user understanding and c",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Discrete Diffusion Language Models Are Training-Free Multi-Label Classifiers",
+    "url": "https://arxiv.org/abs/2608.14649",
+    "source": "arXiv cs.LG",
+    "published_at": "Tue, 18 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.14649v1 Announce Type: new \nAbstract: We present dLLM-SetScore, a training-free method that uses discrete masked-diffusion language models for multi-label text classification. For each candidate label, it asks a short yes/no question and compares the probabilities of the two answer tokens at one masked position. The method uses no task-specific fine-tuning or training on textual-entailment datasets; a 200-example labelled validation slice selects thresholds, temperature, and prompt wo",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "diffusion",
+      "language model",
+      "fine-tuning",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Diagnosing and Mitigating Perception-Decision Misalignment in Omni-LLMs via Modality Subspace Activation",
+    "url": "https://arxiv.org/abs/2608.14655",
+    "source": "arXiv cs.LG",
+    "published_at": "Tue, 18 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.14655v1 Announce Type: new \nAbstract: Omni-Large Language Models (Omni-LLMs) power complex multi-modal reasoning in applications like World Action Models and autonomous agents. However, their strong performance often masks a profound Perceptual-Decision Misalignment (PDM), where decisions remain unfaithful to multi-modal perceptions. To diagnose this, we formalize Causal Modality Sensitivity (CMS), operationalized via a dual-lens framework: Answer Retention Rate (ARR) at the macro beh",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "autonomous",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Toward Safe LLM Agents: A Survey of Specification, Verification, and Enforcement",
+    "url": "https://arxiv.org/abs/2608.14590",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 18 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.14590v1 Announce Type: new \nAbstract: LLM agents increasingly perform irreversible real-world actions, including database updates, API calls, file operations, and autonomous use of tools. However, no existing system provides formally grounded, task-level safety guarantees for the plans these agents generate. Research remains fragmented across specification, verification, and enforcement, limiting understanding of the strengths and limitations of existing approaches. To address this ga",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "autonomous",
+      "RAG"
+    ]
+  },
+  {
+    "title": "Semantic Uncertainty-Guided Orchestration in Hierarchical Multi-Agent Systems",
+    "url": "https://arxiv.org/abs/2608.14707",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 18 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.14707v1 Announce Type: new \nAbstract: As large language model (LLM)-based multi-agent systems become increasingly capable, coordinating agents under uncertainty becomes a fundamental challenge. Existing orchestration strategies typically rely on fixed interaction patterns and often lack mechanisms for assessing the reliability of intermediate reasoning steps, allowing errors and hallucinations to propagate through the system. This paper introduces a semantic-uncertainty-guided orchest",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Agentic Data Cleaning Without a Clean Reference: An Experimental Study of Capabilities and Trade-offs",
+    "url": "https://arxiv.org/abs/2608.14765",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 18 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.14765v1 Announce Type: new \nAbstract: Data cleaning without a trusted clean reference is challenging because unusual values may represent either genuine errors or valid observations. This paper studies how different agent capabilities affect reference-free data cleaning and proposes an evidence-grounded framework that combines structured context, profiling, LLM reasoning, executable checks, controlled evidence retrieval, source ranking, citation alignment, conservative repair, reversi",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "reasoning",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "From \"What-If\" to \"What-Is\": Counterfactual Thinking-Inspired Semantic Alignment for Visual Brain Decoding",
+    "url": "https://arxiv.org/abs/2608.15163",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 18 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.15163v1 Announce Type: cross \nAbstract: Visual brain decoding reconstructs visual content perceived by a person from neural measurements such as fMRI, providing a computational approach to studying how visual information is represented in the brain. Recent multimodal representations and diffusion priors have improved reconstruction realism. However, visually plausible reconstructions may contain incorrect objects, attributes, or relations because a strong generative prior can complete",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "diffusion",
+      "neural",
+      "multimodal",
+      "generative"
+    ]
+  },
+  {
+    "title": "Forward Pass Domain Adaptation (Without Cross-Layer Backpropagation)",
+    "url": "https://arxiv.org/abs/2608.14563",
+    "source": "arXiv cs.LG",
+    "published_at": "Tue, 18 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.14563v1 Announce Type: new \nAbstract: Forward-Pass-Only MLP training (FPO) adapts large language models without a backward pass through the model body, achieving 2.7--3.2x the throughput of standard fine-tuning at ~40% less peak training memory, while leaving off-domain benchmarks within seed-noise of baseline, a property that full-network fine-tuning does not reliably reproduce. FPO rests on a single empirical observation: at late layers of a transformer, the output-layer prediction ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "transformer",
+      "language model",
+      "fine-tuning",
+      "memory"
+    ]
+  },
+  {
+    "title": "mukul975 / Anthropic-Cybersecurity-Skills",
+    "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0 [730 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "Gemini",
+      "Copilot"
+    ]
+  },
+  {
+    "title": "Large Language Models Show Metacognitive Sensitivity in Medical Reasoning",
+    "url": "https://arxiv.org/abs/2608.14552",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 18 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.14552v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly evaluated and used in medicine, but clinical usefulness depends on answer accuracy and whether confidence tracks evidence quality and uncertainty. We developed a controlled, psychophysics-inspired clinical benchmark to test diagnostic choice and confidence behavior in a medical LLM. The benchmark focused on probable Alzheimer-type neurocognitive disorder (AT-NCD) versus depression-related cognitive imp",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Position: Evaluations of AI Moral Reasoning Still Miss Half of the Picture",
+    "url": "https://arxiv.org/abs/2608.14566",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 18 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.14566v1 Announce Type: new \nAbstract: Recent work on evaluating the moral competence of large language models (LLMs) has focused primarily on what we call the moral value problem, i.e., whether model outputs align with human moral values. In contrast, the moral norm problem, i.e., whether models can identify and correctly apply context-sensitive moral norms, remains underexplored. We posit that this imbalance stems from the field's reliance on descriptive ethics frameworks, such as Mo",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "SKILL: Self-correcting Knowledge-guided Iterative Large Language Model Agent for Logic Optimization",
+    "url": "https://arxiv.org/abs/2608.14579",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 18 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.14579v1 Announce Type: new \nAbstract: Logic synthesis optimization poses significant challenges due to exponentially growing search spaces, sparse reward signals, and diverse logic structures. Traditional expert-designed flows lack adaptability, while reinforcement learning (RL) methods often suffer from low sample efficiency and limited interpretability. We introduce SKILL, a Self-correcting Knowledge-guided Iterative Large Language Model Agent that unifies multi-agent LLM reasoning ",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Euclid-Omni : A Unified Neuro-Symbolic Framework for Plane Geometry",
+    "url": "https://arxiv.org/abs/2608.14585",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 18 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.14585v1 Announce Type: new \nAbstract: Euclidean geometry is a compelling testbed for AI reasoning, as it demands the combination of intuitive diagram understanding, axiomatic deduction, and algebraic computation. Yet, existing approaches typically address only a subset of these abilities or struggle with competition-level problems. We introduce \\textit{Euclid-Omni}, a unified neuro-symbolic framework that couples a formal geometry system with Large Language Models (LLMs) and Vision-La",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "The Hallucination Snowball: Modeling Error Propagation as State Transitions in Multi-Agent LLM Pipelines",
+    "url": "https://arxiv.org/abs/2608.14588",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 18 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.14588v1 Announce Type: new \nAbstract: Sequential multi-agent LLM pipelines chain specialized agents without verification at handoffs, creating a structural flaw with measurable and severe consequences. We show that hallucinations injected at Stage 1 do not merely persist; they transform: raw numerical facts become derived computations, then narrative prose, then editorially approved conclusions. At each transformation, detectability degrades near-irreversibly. We formalize this as the",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "narrative"
+    ]
+  },
+  {
+    "title": "When Do LLMs Apply the Wrong Law? Diagnosing LLM Failures in Temporal Legal Reasoning",
+    "url": "https://arxiv.org/abs/2608.14610",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 18 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.14610v1 Announce Type: new \nAbstract: Legal reasoning tasks such as legal judgment prediction (LJP) require identifying the temporally correct version of the law governing a case -- a capability we term temporal applicable-law determination. However, whether large language models (LLMs) can reliably perform this task remains unexplored. In this paper, we construct a benchmark to evaluate LLMs on temporal applicable-law determination, and systematically investigate why they fail at tem",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Large Language Models and their Awareness of Mechanics and Spatial Geometry",
+    "url": "https://arxiv.org/abs/2608.14615",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 18 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.14615v1 Announce Type: new \nAbstract: Large Language Models (LLMs) perform well on established code-generation and mathematical-reasoning benchmarks, but their capabilities in mechanics and spatial geometry, here denoted as mechanical engineering awareness, has not been quantified systematically. We present MecEng, a fully automated benchmark that evaluates LLMs on the creation of multibody simulation models from parameterized textual descriptions. The benchmark comprises 84 generic t",
+    "score": 8.0,
+    "keywords_matched": [
+      "LLM",
+      "simulation",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Evaluating Multimodal LLMs across Text and Audio Modalities for Accessible Disaster Assistance",
+    "url": "https://arxiv.org/abs/2608.14651",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 18 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.14651v1 Announce Type: new \nAbstract: Effective disaster risk communication is a foundational humanitarian challenge, yet current emergency infrastructure fails to meet the needs of individuals with access and functional needs, including hard-of-hearing individuals, pregnant women, mothers with toddlers, and elderly individuals with dementia. Recent advancements in Artificial Intelligence (AI), especially Multi-Modal Large Language Models (MM-LLMs), demonstrate powerful capabilities t",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "multimodal"
+    ]
+  },
+  {
+    "title": "Position: AI Agents in Scientific Teams Should Be Studied as Human-Agent Systems",
+    "url": "https://arxiv.org/abs/2608.14667",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 18 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.14667v1 Announce Type: new \nAbstract: Large language model-based agents are increasingly deployed as collaborators in scientific discovery yet most current work focuses on the autonomous capabilities of \"AI Scientists\". We argue that this overlooks the social aspects of scientific teamwork, and that studying AI Scientists as human-agent systems (HAS)--where the unit of analysis is the human-agent pair--is both underexplored and undervalued. We establish these points through literature",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "language model",
+      "autonomous"
+    ]
+  }
+]
