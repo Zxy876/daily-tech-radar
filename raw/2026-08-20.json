@@ -1,0 +1,298 @@
+[
+  {
+    "title": "ruvnet / ruflo",
+    "url": "https://github.com/ruvnet/ruflo",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated [142 stars today]",
+    "score": 14.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "workflow",
+      "autonomous",
+      "RAG",
+      "memory"
+    ]
+  },
+  {
+    "title": "SkillEffect: Checked Lowering for Memory-Bounded Agent Tools",
+    "url": "https://arxiv.org/abs/2608.17007",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 19 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.17007v1 Announce Type: new \nAbstract: Agent Skills can specify procedural and resource obligations for tool use, and language models instantiate them as concrete programs. However, when models turn this guidance into code for existing tool interfaces, even a semantically correct program may load an entire input and exceed the memory available to one tool call. We present SkillEffect, a checked-lowering runtime for computations with a recoverable source relation, an audited bounded imp",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "language model",
+      "tool use",
+      "memory",
+      "procedural"
+    ]
+  },
+  {
+    "title": "Do LLMs Know a Good Hypothesis When They See One? Logit-Based Energy Scoring Outperforms Prompted LLM-as-Judge for Scientific Hypothesis Ranking",
+    "url": "https://arxiv.org/abs/2608.17270",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 19 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.17270v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly used for scientific hypothesis generation. However, evaluating generated hypotheses remains a challenge for trustworthy AI-enabled scientific workflows. Existing approaches often use LLMs as judges or rely on semantic similarity, which can favor familiar ideas over novel ones. We propose a logit-based energy scoring method that evaluates hypotheses using a language model's intrinsic confidence rather t",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "workflow",
+      "language model",
+      "prompt"
+    ]
+  },
+  {
+    "title": "DeAR: Decentralized Agentic Reasoning via Capability Grounding and Collaborative Thought Navigation",
+    "url": "https://arxiv.org/abs/2608.17282",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 19 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.17282v1 Announce Type: new \nAbstract: Existing agentic reasoning systems typically rely on centralized protocols. This design introduces routing bottlenecks and static role allocations that often fail when handling complex multimodal queries. We propose DeAR (Decentralized Agentic Reasoning), a framework that shifts from central control to autonomous peer-to-peer collaboration. DeAR is built on three mechanisms: (1) decentralized capability grounding for query-dependent agent speciali",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "autonomous",
+      "multimodal",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "PlanPO: Group Planning-Aware Policy Optimization for Multi-Turn Agentic LLMs",
+    "url": "https://arxiv.org/abs/2608.17289",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 19 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.17289v1 Announce Type: new \nAbstract: Group-relative policy optimization has emerged as a key paradigm for training agentic large language models (LLMs) on multi-turn interactive tasks. However, most existing variants fail to distinguish advantages among successful trajectories even when these trajectories differ substantially in their interaction efficiency. For instance, circuitous successes are often assigned the identical outcome reward, causing advantage collapse and severe perfo",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "planning"
+    ]
+  },
+  {
+    "title": "SignalReasoner: Assessing the Upper Bound of 3B Models for Signal Mathematical Reasoning",
+    "url": "https://arxiv.org/abs/2608.17301",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 19 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.17301v1 Announce Type: new \nAbstract: Post-training with supervised chain-of-thought fine-tuning and reinforcement learning from verifiable rewards has substantially improved the mathematical reasoning capabilities of large language models (LLMs). However, their application to signal processing problems remains relatively under-explored. This report investigates reinforcement fine-tuning strategies for adapting Qwen2.5-3B-Base to graduate-level signal mathematical problems from Wirele",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "fine-tuning",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Structure-Internalized Rule Language Model for Faithful Knowledge Graph Reasoning",
+    "url": "https://arxiv.org/abs/2608.17443",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 19 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.17443v1 Announce Type: new \nAbstract: Knowledge Graph Reasoning (KGR) aims to discover latent facts by leveraging the structural evidence available in KGs, posing a challenge to the structural semantic understanding capability of KGR models. Recent studies have demonstrated that Large Language Models (LLMs) can achieve remarkable progress on KGR tasks via flexible in-context learning. However, the inherent representation inconsistency between KG structural context and LLM parametric k",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "RAG",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "MoNe: Modular Neural Memory for Efficient Long Context Inference",
+    "url": "https://arxiv.org/abs/2608.17616",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 19 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.17616v1 Announce Type: new \nAbstract: We present MoNe, a lightweight modular neural memory that attaches to any frozen pretrained Transformer to enable long-context inference without retraining. MoNe reads context in fixed-size segments via test-time learning of fast-weight neural memory networks with layer-localized gradient updates; at inference, the memory generates keys and values from the query tokens alone, with no context tokens re-read. This two-phase design decouples inferenc",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "transformer",
+      "neural",
+      "inference",
+      "memory"
+    ]
+  },
+  {
+    "title": "AdaLens: Interactive Storyline for Monitoring and Steering Long-Running Agentic Data Analysis",
+    "url": "https://arxiv.org/abs/2608.17834",
+    "source": "arXiv cs.HC",
+    "published_at": "Wed, 19 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.17834v1 Announce Type: new \nAbstract: Large language models are pushing data science toward increasingly autonomous and agentic workflows, with recent systems already supporting multi-step and long-running analyses. As these workflows become more autonomous, conventional interfaces no longer provide adequate support for two critical requirements: observability for understanding an agent's evolving reasoning and evidence, and steerability for redirecting low-value directions or deepeni",
+    "score": 10.0,
+    "keywords_matched": [
+      "agent",
+      "workflow",
+      "language model",
+      "autonomous",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "LLM Enhancement with Domain Expert Mental Model to Reduce LLM Hallucination with Causal Prompt Engineering",
+    "url": "https://arxiv.org/abs/2509.10818",
+    "source": "arXiv cs.HC",
+    "published_at": "Wed, 19 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2509.10818v2 Announce Type: replace-cross \nAbstract: When consequential decisions depend on knowledge that exists nowhere in writing, LLMs hallucinate not from retrieval failure but from model absence. RAG and knowledge-graph methods share a structural ceiling. They cannot supply what has never been recorded. This paper reconceptualizes that failure as a model discovery problem. The proposed causal prompt engineering framework discovers and encodes a decision logic of a domain expert as an",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "RAG",
+      "prompt",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Hierarchical Data Selection via Manifold Coverage and Sparse Feature Coverage in LLM Post-training",
+    "url": "https://arxiv.org/abs/2608.16927",
+    "source": "arXiv cs.LG",
+    "published_at": "Wed, 19 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.16927v1 Announce Type: new \nAbstract: As supervised fine-tuning data continues to scale, selecting high-value subsets from large candidate pools is crucial for reducing training cost and improving model performance. Existing methods often measure diversity directly in the original embedding space, where geometric metrics entangle dominant semantic directions, fine-grained supervision differences, and local noise. We address this limitation by formulating data selection as a coarse-to-",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "RAG",
+      "embedding",
+      "fine-tuning"
+    ]
+  },
+  {
+    "title": "Agentic ESOpt: Fine-Tuning Long-Horizon LLM Agents with Minimal GPU Requirements",
+    "url": "https://arxiv.org/abs/2608.17310",
+    "source": "arXiv cs.LG",
+    "published_at": "Wed, 19 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.17310v1 Announce Type: new \nAbstract: Reinforcement Learning (RL) has been promising in single-turn LLM fine-tuning. However, long-horizon agentic reasoning introduces increasingly branching interactions and sparse rewards, exposing several limitations of RL: its heavyweight backpropagation-based training stack makes it impractical to fine-tune larger LLMs, and longer-horizon trajectories make credit assignment in RL substantially harder. This paper argues that evolution strategies (E",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "fine-tuning",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "mukul975 / Anthropic-Cybersecurity-Skills",
+    "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0 [766 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "Gemini",
+      "Copilot"
+    ]
+  },
+  {
+    "title": "GxP-Agent: Process-DAG Topology for Reliable Clinical Trial Programming with LLM Agents",
+    "url": "https://arxiv.org/abs/2608.16890",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 19 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.16890v1 Announce Type: new \nAbstract: Clinical trial programming -- transforming study protocols into analysis-ready datasets under CDISC standards -- is a bottleneck in regulatory submissions, yet LLM-based code generation fails catastrophically on this task: across 11 single-shot attempts with five frontier models, none produces a valid subject-level analysis dataset. We introduce GxP-Agent, a multi-agent system that encodes regulatory process ordering as a directed acyclic graph (D",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "code generation"
+    ]
+  },
+  {
+    "title": "Runtime Governance for Agentic AI: Action-Boundary Control with Trusted Provenance and Fail-Closed Execution",
+    "url": "https://arxiv.org/abs/2608.16891",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 19 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.16891v1 Announce Type: new \nAbstract: Agentic AI systems request tool actions that can modify files, send messages, launch jobs, or change workflow state. This shifts the safety problem from harmful text generation to harmful operational side effects. Prompt-level governance can shape model behavior, but it does not create an execution boundary. We introduce Aegis, a runtime governance system that treats model outputs as action proposals and mediates them through a trusted decision la",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow",
+      "prompt"
+    ]
+  },
+  {
+    "title": "DiSCO: Defending text-to-image generation through distribution-guided contrastive prompt optimization",
+    "url": "https://arxiv.org/abs/2608.17067",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 19 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.17067v1 Announce Type: new \nAbstract: As text-to-image generative models advance, they raise critical safety concerns, particularly the generation of Not-Safe-For-Work (NSFW) content such as violence and nudity, further exacerbated by red-teaming adversarial attacks. Existing defenses predominantly operate under white-box assumptions, relying on text encoder optimization, weight editing, or inference-time intervention, and fundamentally cannot scale to proprietary models. Black-box al",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "inference",
+      "prompt",
+      "generative"
+    ]
+  },
+  {
+    "title": "Synthesizing Feature Extractors: An Agentic Approach for Algorithm Selection",
+    "url": "https://arxiv.org/abs/2608.17170",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 19 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.17170v1 Announce Type: new \nAbstract: Algorithm selection for constraint satisfaction problems requires extracting features that capture problem structure. Manually designing feature extractors demands deep domain expertise and quickly becomes a bottleneck when new problem classes appear. We present an automated approach that uses Large Language Models (LLMs) in an agentic check--fix--verify loop to synthesize executable Python scripts that act as interpretable, problem-specific featu",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model"
+    ]
+  },
+  {
+    "title": "Explicit State Elicitation Is Not Enough: A Controlled Audit of Memory-Policy Classification",
+    "url": "https://arxiv.org/abs/2608.17247",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 19 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.17247v1 Announce Type: new \nAbstract: Personalized agents must decide whether retrieved user memory should be used, ignored, updated, or queried before it affects a current task. We use this setting to develop an empirical audit protocol for structured intermediate outputs: first audit dataset shortcuts, then isolate bundled prompt changes, check whether intermediate labels are answer-associated, test decomposed semantic evidence, and audit provider-level execution failures. A 480-exa",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "prompt",
+      "memory"
+    ]
+  },
+  {
+    "title": "TileMix: Tile-Centric Mixed-Precision Attention for LLM Inference Acceleration",
+    "url": "https://arxiv.org/abs/2608.17336",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 19 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.17336v1 Announce Type: new \nAbstract: Long-context prefill in large language models (LLMs) incurs substantial computation and memory traffic because dense self-attention computes quadratic query-key scores. Existing methods either use a uniform low-precision path or select token interactions, leaving spatial precision routing over hardware-aligned score tiles outside fused dense attention. We introduce TileMix, a tile-centric precision-routing kernel that makes numerical precision an ",
+    "score": 8.0,
+    "keywords_matched": [
+      "LLM",
+      "language model",
+      "inference",
+      "memory"
+    ]
+  },
+  {
+    "title": "Procedural Collapse: A Structural Account of Disengagement in LLM-Assisted Writing",
+    "url": "https://arxiv.org/abs/2608.17326",
+    "source": "arXiv cs.HC",
+    "published_at": "Wed, 19 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.17326v1 Announce Type: new \nAbstract: When students use large language models for writing, the dominant explanation for disengagement is dispositional: they are over-reliant, and the remedy is to scaffold self-regulation. We argue that a structural explanation is needed, offering an alternative basis for design interventions to support appropriate AI-assisted writing. Current LLM writing interfaces induce procedural collapse: the replacement of an iterative, self-paced writing process",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "procedural"
+    ]
+  }
+]
