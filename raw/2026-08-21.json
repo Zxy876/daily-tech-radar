@@ -1,0 +1,296 @@
+[
+  {
+    "title": "UMER: Unifying Embedding and Ranking via Pair-Aware Discriminative Reasoning for Universal Multimodal Retrieval",
+    "url": "https://arxiv.org/abs/2608.18504",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.18504v1 Announce Type: new \nAbstract: Universal multimodal retrieval aims to support diverse instruction-aware retrieval tasks, demanding both efficient corpus-scale matching and fine-grained semantic reasoning. Recent MLLM-based embedding methods typically derive representations from hidden states, while Chain-of-Thought (CoT) reasoning is emerging as a promising strategy for embedding enhancement by encoding intermediate semantic evidence into the representation space. However, exis",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "multimodal",
+      "embedding",
+      "reasoning",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "LEDGER: Claim-to-Evidence Trace Graphs for Auditing LLM Agents",
+    "url": "https://arxiv.org/abs/2608.18398",
+    "source": "arXiv cs.HC",
+    "published_at": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.18398v1 Announce Type: new \nAbstract: Large language model (LLM) agents can now carry out long-horizon technical workflows involving complex tool use, code execution, file edits, and generated artifacts. As agents do more work faster, the productivity bottleneck shifts from producing outputs to auditing whether those outputs are correct and trustworthy. Agent observability systems make fine-grained execution events visible, but visibility alone still leaves reviewers to reconstruct wh",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "language model",
+      "tool use"
+    ]
+  },
+  {
+    "title": "Osmantic / ODS",
+    "url": "https://github.com/Osmantic/ODS",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation. [162 stars today]",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "RAG",
+      "inference"
+    ]
+  },
+  {
+    "title": "Large Language Models in Mental Health: A Systematic Review of Applications, Innovations, and Ethical Challenges",
+    "url": "https://arxiv.org/abs/2608.18080",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.18080v1 Announce Type: new \nAbstract: We present a review on the applications of large language models (LLMs) in health, e.g., social media analysis, clinical conversational agents, therapy support tools, prompt engineering, multimodal learning, and ethical considerations. We integrate findings from interdisciplinary studies utilizing diverse data sources such as social media posts, electronic medical records, and multimodal inputs to enable early detection of depression, suicide risk",
+    "score": 10.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "language model",
+      "multimodal",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Self-Evolving Agents as Dynamic Graph Transformation: A Survey and New Perspective",
+    "url": "https://arxiv.org/abs/2608.18104",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.18104v1 Announce Type: new \nAbstract: Large language model (LLM)-based agents are increasingly becoming self-evolving systems that persist across interactions, maintain memories, use tools, acquire skills, refine workflows, and coordinate with other agents. These capabilities make agent states structural and dynamic: entities, relations, attributes, dependencies, and execution structures change with new evidence, feedback, and environmental conditions. Existing graph-agent surveys typ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "language model"
+    ]
+  },
+  {
+    "title": "Looped Language Models Improve Compositional Tool Calling",
+    "url": "https://arxiv.org/abs/2608.18171",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.18171v1 Announce Type: new \nAbstract: Looped language models have shown promising results on reasoning benchmarks, yet their potential for agentic tool use remains largely unexplored. We study this question in compositional tool-calling settings, where models must coordinate multiple API calls, maintain intermediate state, and preserve dependencies across tool interactions. We evaluate native and retrofitted looped language models on API-Bank, BFCL, and NESTful, comparing looped and n",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "language model",
+      "tool use",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "FM-Bench: A Benchmark for Long-Horizon Management with Competing Agents",
+    "url": "https://arxiv.org/abs/2608.18423",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.18423v1 Announce Type: new \nAbstract: Language model agents now execute bounded tasks reliably. Whether they can sustain effective decision-making over long horizons, where actions have cumulative consequences and the environment responds to their choices, remains largely unmeasured. FM-Bench (Football Management Benchmark) measures this. An LLM agent runs a football club for 20 in-game years through 26 tools and roughly 340 to 400 decision stops. It drafts a squad on the same budget ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "game",
+      "language model"
+    ]
+  },
+  {
+    "title": "Role-Conditioned Sub-Token Routing for Efficient Vision-Language-Action Policies",
+    "url": "https://arxiv.org/abs/2608.18410",
+    "source": "arXiv cs.LG",
+    "published_at": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.18410v1 Announce Type: new \nAbstract: Vision-Language-Action (VLA) models process long multimodal token sequences, making inference expensive in both memory and computation. Existing efficiency methods mainly reduce visual tokens, but aggressive token pruning becomes fragile because removing a token discards its entire representation. Sub-token compression provides a complementary alternative by retaining more tokens while reducing their value width. However, directly applying sub-tok",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "multimodal",
+      "RAG",
+      "inference",
+      "memory"
+    ]
+  },
+  {
+    "title": "Physics-Unrolled Neural Operator for Wireless Field Modeling",
+    "url": "https://arxiv.org/abs/2608.18495",
+    "source": "arXiv cs.LG",
+    "published_at": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.18495v1 Announce Type: new \nAbstract: Radio maps are essential for wireless decision-making tasks such as access-point placement, coverage planning, and localization, but their fine spatial details are governed by complex propagation effects and are costly to simulate accurately. Machine learning offers a path to high-fidelity radio-map prediction without running expensive high-fidelity simulations for every scene. However, generating high-quality training labels at scale is also diff",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "simulation",
+      "neural",
+      "RAG",
+      "planning"
+    ]
+  },
+  {
+    "title": "Infrared Universality of Collective Dynamics across Transformer and State-Space Architectures",
+    "url": "https://arxiv.org/abs/2608.18592",
+    "source": "arXiv cs.LG",
+    "published_at": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.18592v1 Announce Type: new \nAbstract: Whether distinct neural architectures develop common collective dynamics remains an open question. Recent analysis of Transformer language models revealed a nearly flat, weakly infrared-enhanced time-scale density of states (TDOS) associated with near-marginal long-memory dynamics. Here we test whether a closely related organization emerges in Mamba, whose selective state-space dynamics provides a fundamentally different microscopic mechanism. Mam",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "transformer",
+      "neural",
+      "language model",
+      "memory"
+    ]
+  },
+  {
+    "title": "mukul975 / Anthropic-Cybersecurity-Skills",
+    "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0 [632 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "Gemini",
+      "Copilot"
+    ]
+  },
+  {
+    "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+    "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+    "source": "Hacker News Best",
+    "published_at": "Thu, 20 Aug 2026 12:04:38 +0000",
+    "description": "I trained a 125M-parameter transformer to autocomplete piano performances in real time (~108 notes/sec on an iPhone 15). The idea is basically GitHub Copilot or Tabnine, except instead of prompting it with code, you prompt it by playing a few notes on a MIDI piano. The model then continues what you played, entirely on-device. The app is free if anyone wants to try it. Happy to answer questions about the model, training, Core ML, or the many things that didn't work. Comments URL: https://news.yco",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "Copilot",
+      "transformer",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Position: Multi-Agent Systems Should Prioritize Concurrency Control",
+    "url": "https://arxiv.org/abs/2608.18092",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.18092v1 Announce Type: new \nAbstract: LLM-based multi-agent systems (MAS) promise scalable collaboration, yet adding agents often reduces reliability. This position paper argues that many MAS failures are fundamentally concurrency control problems: agents concurrently read and write shared state, and long LLM inference windows amplify the risk of stale reads, lost updates, and inconsistent outcomes. Failure modes commonly attributed to coordination or communication breakdowns can be m",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "inference"
+    ]
+  },
+  {
+    "title": "Solving Is Not Drawing: A Benchmark for Diagrammatic Reasoning in Olympiad Geometry",
+    "url": "https://arxiv.org/abs/2608.18111",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.18111v1 Announce Type: new \nAbstract: Foundation models such as GPT and Claude now solve olympiad-level mathematics with remarkable proficiency, so much so that geometry problem solving has become a standard proxy for their mathematical reasoning. Yet solving a geometry problem and drawing the figure it depends on are not the same skill: progress often hinges on a faithful diagram with the right auxiliary constructions and incidences, and it is unclear that a model which reasons its w",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "Claude",
+      "GPT",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "The Lifecycle of LLM-as-a-Judge for Large-Scale Recommendation Explanations",
+    "url": "https://arxiv.org/abs/2608.18300",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.18300v1 Announce Type: new \nAbstract: LLM-as-a-Judge, which leverages a large language model to evaluate natural language generated by another AI application or model, has become a standard, scalable approach for accelerating and extending costly human evaluation. However, most work treats a judge as a static artifact, evaluating it once at construction or against a fixed benchmark. In contrast, we argue that an LLM judge running in a production system is better understood as having a",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "RAG"
+    ]
+  },
+  {
+    "title": "Which Negatives Matter? Ask Your Text Encoder: Adaptive Similarity Margins for Dense-Caption Retrieval",
+    "url": "https://arxiv.org/abs/2608.18521",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.18521v1 Announce Type: new \nAbstract: Dense-caption retrieval has recently been improved by introducing segmentation, edge maps, LLM-filtered captions, and cross-modal modules into contrastive fine-tuning. However, these methods largely inherit the same InfoNCE objective, whose optimization can prematurely saturate under a strong pre-trained initialization: on dense captions, the loss falls below 10^{-3} on 80% of batches within the first epoch, while its gradient reaches exact zero i",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "fine-tuning",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "FinRCA-Bench: Benchmarking Evidence Retrieval and Reasoning for Financial AI Systems",
+    "url": "https://arxiv.org/abs/2608.18534",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.18534v1 Announce Type: new \nAbstract: Large language models are increasingly used to support financial operations, but their apparent reasoning performance can depend on whether they receive the right evidence. In financial reconciliation, the evidence needed for diagnosis is distributed across invoices, purchase orders, approvals, allocations, payments, ledger entries, and bank activity, linked by transactional relationships rather than textual similarity. End-to-end accuracy can the",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "language model",
+      "reasoning",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Reducing Technician Search Burden: A Multimodal RAG for Cessna 172 Maintenance Manual",
+    "url": "https://arxiv.org/abs/2608.18465",
+    "source": "arXiv cs.HC",
+    "published_at": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.18465v1 Announce Type: new \nAbstract: Proper use of the aircraft maintenance manual is essential for correct maintenance, providing procedures, diagrams, cautions, and specifications. However, technicians often avoid consulting it because it is difficult to navigate and time-consuming under strict schedules. Retrieval augmented generation (RAG) models have recently been introduced in aircraft maintenance, yet existing models focus solely on textual retrieval. This research therefore t",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "multimodal",
+      "RAG",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "SemanticSlider3D: Training-Free Continuous Semantic Editing for 3D Objects",
+    "url": "https://arxiv.org/abs/2608.18560",
+    "source": "arXiv cs.HC",
+    "published_at": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.18560v1 Announce Type: new \nAbstract: Fine-grained control over continuous semantic attributes of 3D objects is essential for 3D content creation, but is not well supported by conventional 3D modeling workflows or prompt-based interaction with existing generative AI tools. While slider-based methods have proven effective for fine-grained semantic control in 2D image generation, no equivalent approach exists for 3D. Extending these 2D methods to 3D is non-trivial due to challenges uniq",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "workflow",
+      "prompt",
+      "generative"
+    ]
+  },
+  {
+    "title": "Procedural Collapse: A Structural Account of Disengagement in LLM-Assisted Writing",
+    "url": "https://arxiv.org/abs/2608.17326",
+    "source": "arXiv cs.HC",
+    "published_at": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.17326v2 Announce Type: replace \nAbstract: When students use large language models for writing, the dominant explanation for disengagement is dispositional: they are over-reliant, and the remedy is to scaffold self-regulation. We argue that a structural explanation is needed, offering an alternative basis for design interventions to support appropriate AI-assisted writing. Current LLM writing interfaces induce procedural collapse: the replacement of an iterative, self-paced writing pro",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "procedural"
+    ]
+  }
+]
