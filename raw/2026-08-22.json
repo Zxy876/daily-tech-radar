@@ -1,0 +1,297 @@
+[
+  {
+    "title": "ruvnet / ruflo",
+    "url": "https://github.com/ruvnet/ruflo",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated [140 stars today]",
+    "score": 14.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "workflow",
+      "autonomous",
+      "RAG",
+      "memory"
+    ]
+  },
+  {
+    "title": "Towards general embodied intelligence: integrating large language models, knowledge bases, and reasoning capabilities to build the next generation of AI agents",
+    "url": "https://arxiv.org/abs/2608.19794",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 21 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.19794v1 Announce Type: new \nAbstract: The convergence of large language models (LLMs), structured knowledge bases (KBs), and reasoning ability (RA) presents a promising trajectory toward general embodied intelligence (GEI). This paper reviews the evolution of LLM-centered intelligent systems, emphasising their integration with knowledge representation, logical reasoning, and physical embodiment. We analyse LLM architectures, pre-training methods, and inference mechanisms, along with t",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "inference",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Osmantic / ODS",
+    "url": "https://github.com/Osmantic/ODS",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation. [42 stars today]",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "RAG",
+      "inference"
+    ]
+  },
+  {
+    "title": "Active Inference as Context Acquisition for AI Agents",
+    "url": "https://arxiv.org/abs/2608.19202",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 21 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.19202v1 Announce Type: new \nAbstract: Interactive AI agents must acquire the right context as efficiently as possible. When a user omits a constraint, preference, file, or task variable, an agent can proceed with a default assumption or spend tokens on a clarifying question, retrieval call, tool call, or prompt trial. We formulate this tradeoff as active inference for context acquisition. An inner inference step updates beliefs over a latent task state, and an outer decision selects t",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "inference",
+      "prompt",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Enforcing LLM Safety through DMD-based Classification of Prompt-Response Embedding Dynamics",
+    "url": "https://arxiv.org/abs/2608.19579",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 21 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.19579v1 Announce Type: new \nAbstract: Large Language Models (LLMs) are increasingly deployed in high-stakes applications, yet their tendency to generate toxic, harmful, or policy-violating content poses significant risks. Detecting these unsafe outputs efficiently in a black-box manner remains an open challenge. In this paper, we extend a recently proposed dynamical systems framework designed for hallucination detection to LLM safety classification. By projecting both prompts and resp",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "embedding",
+      "prompt"
+    ]
+  },
+  {
+    "title": "PolicyGuide: From Guarding One Action to Guiding the Whole Workflow for Policy-Compliant LLM Agents",
+    "url": "https://arxiv.org/abs/2608.19861",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 21 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.19861v1 Announce Type: new \nAbstract: Customer-service LLM agents must follow organizational policy when acting on a user's behalf. Compliance failures arise from either forbidden actions, such as granting an ineligible change, or omitted procedural requirements, such as identification or confirmation. Runtime safeguards can intervene on risky actions, but action-local checks do not guide an agent through a multi-step procedure. Workflow-following systems support prescribed process ex",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "procedural"
+    ]
+  },
+  {
+    "title": "ReguSim: Evaluating LLM Agent Rule Grounding in Financial Compliance",
+    "url": "https://arxiv.org/abs/2608.19974",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 21 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.19974v1 Announce Type: new \nAbstract: LLM agents in financial markets may cite rules yet still submit orders that violate executable constraints or misread surveillance evidence. We introduce ReguSim, a controlled financial-compliance environment, and ReguBench, a target-marked monitoring benchmark, to separate four artifacts: stated reasoning, attempted action, execution enforcement, and monitor evidence. In trader runs with DeepSeek V4 Pro and Gemini 3.5 Flash, visible rules reduce ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "Gemini",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Holtercare-Bench: A Multimodal Benchmark for Evaluating Long-Term Dynamic ECG Analysis",
+    "url": "https://arxiv.org/abs/2608.19297",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 21 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.19297v1 Announce Type: new \nAbstract: While multimodal large language models (MLLMs) excel in medical applications, most of them favor static images or short-term signals. In the critical field of dynamic electrocardiograms (ECG), models struggle with complex temporal reasoning and diagnostic report generation due to a lack of high-quality datasets and benchmarks. To address this, we introduce (i) Holtercare-23K, a large-scale multimodal dynamic ECG dataset comprising 22,980 QA pairs ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "multimodal",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Inadvertent Context Leakage in Language Models",
+    "url": "https://arxiv.org/abs/2608.19857",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 21 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.19857v1 Announce Type: new \nAbstract: For AI agents to be useful beyond simple chat, they must hold sensitive user context such as calendars, credentials, health records, and financial data. We study whether the mere presence of such secrets in a model's context window introduces hidden correlations into the model's benign outputs, allowing reconstruction even when the model correctly refuses direct extraction. We further study whether an adversary can actively engineer prompts that a",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "language model",
+      "prompt",
+      "context window"
+    ]
+  },
+  {
+    "title": "mukul975 / Anthropic-Cybersecurity-Skills",
+    "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0 [243 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "Gemini",
+      "Copilot"
+    ]
+  },
+  {
+    "title": "diegosouzapw / OmniRoute",
+    "url": "https://github.com/diegosouzapw/OmniRoute",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors [768 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "Claude",
+      "Gemini",
+      "Copilot",
+      "GPT"
+    ]
+  },
+  {
+    "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+    "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+    "source": "Hacker News Best",
+    "published_at": "Thu, 20 Aug 2026 12:04:38 +0000",
+    "description": "I trained a 125M-parameter transformer to autocomplete piano performances in real time (~108 notes/sec on an iPhone 15). The idea is basically GitHub Copilot or Tabnine, except instead of prompting it with code, you prompt it by playing a few notes on a MIDI piano. The model then continues what you played, entirely on-device. The app is free if anyone wants to try it. Happy to answer questions about the model, training, Core ML, or the many things that didn't work. Comments URL: https://news.yco",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "Copilot",
+      "transformer",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Air Traffic Control Using Large Language Models: Prompt Engineering, Architecture, and Evaluation",
+    "url": "https://arxiv.org/abs/2608.19299",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 21 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.19299v1 Announce Type: new \nAbstract: Air traffic control (ATC) communication is a safety-critical dialogue that remains largely human-driven even as other parts of air traffic management have been semi-automated. In this article, we experimentally evaluate whether large language models (LLMs) can generate operationally realistic ATC transmissions. An experimental general-aviation flight flying over the San Francisco \"Bay Tour\" route is hand-transcribed and used as ground truth (P0). ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "prompt"
+    ]
+  },
+  {
+    "title": "From Retrieved Context to Runtime Control: Adaptive Compression for Edge-based RAG",
+    "url": "https://arxiv.org/abs/2608.19535",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 21 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.19535v1 Announce Type: new \nAbstract: Retrieval-augmented generation (RAG) improves language-model responses by grounding generation in external passages, which comes with overhead: retrieved context lengthens the prompt, increasing prefill work, KV-cache footprint, memory traffic, latency, and energy. Context compression offers a natural remedy by pruning retrieved text before generation. However, state-of-the-art context-compression methods are typically used with a fixed compressio",
+    "score": 8.0,
+    "keywords_matched": [
+      "RAG",
+      "prompt",
+      "memory",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Scientific Data Skills: Enabling Agent-Ready Scientific Data Services at Scale",
+    "url": "https://arxiv.org/abs/2608.19625",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 21 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.19625v1 Announce Type: new \nAbstract: Scientific data are increasingly used by AI agents, yet existing dataset representations provide limited support for autonomous discovery, interpretation, and invocation. This limitation stems from the fragmentation of scientific data across heterogeneous repositories and from dataset representations designed primarily for human use. To address this limitation, we introduce the Scientific Data Skill (SciDSK), an agent-ready representation that pac",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "autonomous",
+      "RAG"
+    ]
+  },
+  {
+    "title": "Beyond Memory Majority: Latent-Source Reasoning for Multi-Agent Memory Arbitration",
+    "url": "https://arxiv.org/abs/2608.19701",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 21 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.19701v1 Announce Type: new \nAbstract: Long-term multi-agent systems continuously accumulate the memories produced by different agents. Existing memory methods typically treat retrieved memories as independent evidence and combine them through voting or weighting. However, this independence assumption often fails in multi-agent settings: memories written by different agents may inherit the same upstream source or shared bias, causing correlated evidence to be repeatedly counted and cre",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "reasoning",
+      "memory"
+    ]
+  },
+  {
+    "title": "SAPO: Single-Rollout Autoregressive Policy Optimization for Agentic Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2608.19842",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 21 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.19842v1 Announce Type: new \nAbstract: Agentic reinforcement learning (RL) has become a critical stage in the post-training of large language models. Existing critic-free, group-relative methods estimate policy advantages from multiple rollouts, avoiding the substantial memory overhead of conventional proximal policy optimization (PPO) and achieving strong performance on long-horizon interactive tasks. Despite their success, recent studies revealed three limitations: (1) Lack explicit ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "language model",
+      "memory"
+    ]
+  },
+  {
+    "title": "Optimal Skill Selection for LLM Agents with Provable Bicriteria Guarantees",
+    "url": "https://arxiv.org/abs/2608.19993",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 21 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.19993v1 Announce Type: new \nAbstract: Loading reusable skill documents into a bounded context window is now the primary way large language model (LLM) agents acquire task-specific capabilities, which makes skill selection a first-order determinant of task performance and token cost. Yet current agents score skills independently by semantic relevance and assemble the set by top-$k$ or greedy packing, with no quality guarantee or cost awareness on the selected set. As a result, redundan",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "language model",
+      "context window"
+    ]
+  },
+  {
+    "title": "Delegating or Doing? Understanding User Behavior in Hybrid Human-Agent Interfaces",
+    "url": "https://arxiv.org/abs/2608.19551",
+    "source": "arXiv cs.HC",
+    "published_at": "Fri, 21 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.19551v1 Announce Type: new \nAbstract: Large Language Models (LLMs) are increasingly embedded into applications, allowing users to complete tasks either through direct manipulation or by delegating actions to conversational agents. However, little is known about how users balance these modalities when both are available. We present a web-based content management system augmented with an LLM agent through the Model Context Protocol (MCP), enabling users to perform CRUD tasks through a g",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model"
+    ]
+  },
+  {
+    "title": "Generative AI Use in Entrepreneurship: An Integrative Review and an Empowerment-Entrapment Framework",
+    "url": "https://arxiv.org/abs/2604.02567",
+    "source": "arXiv cs.HC",
+    "published_at": "Fri, 21 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2604.02567v2 Announce Type: replace-cross \nAbstract: Despite the growing use of generative artificial intelligence (GenAI) in entrepreneurship, research on its impact remains fragmented. To address this limitation, we provide an integrative, entrepreneur-centered review of how GenAI influences entrepreneurs at each stage of the entrepreneurial process: (1) opportunity recognition and ideation, (2) opportunity evaluation and commitment, (3) resource assembly and mobilization, and (4) ventur",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "generative art",
+      "RAG",
+      "generative"
+    ]
+  }
+]
