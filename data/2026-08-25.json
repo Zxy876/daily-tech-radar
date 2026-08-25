@@ -1,0 +1,315 @@
+{
+  "date": "2026-08-25",
+  "candidates": [
+    {
+      "title": "SDAD: Spec-Driven Agentic Development for the AI-Native SDLC",
+      "url": "https://arxiv.org/abs/2608.20341",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 24 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.20341v1 Announce Type: new \nAbstract: Frontier coding agents backed by large language models with context windows from hundreds of thousands to millions of tokens are restructuring the Software Development Life Cycle (SDLC). Rich context handling and multi-step reasoning now allow substantial Functional Requirement Documents (FRDs) and repository context to be ingested in a single workflow, making specification quality the execution fuel for autonomous delivery. This report formalises",
+      "score": 16.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "spec-driven",
+        "workflow",
+        "language model",
+        "autonomous",
+        "context window",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Weighted Memory Tree: Remembering What Matters for Long-Horizon LLM Agents",
+      "url": "https://arxiv.org/abs/2608.20631",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 24 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.20631v1 Announce Type: new \nAbstract: Large language model (LLM) agents have demonstrated the ability to solve multi-step tasks requiring planning, tool use, and external information access, yet growing execution histories increase inference cost and expose reasoning to outdated, irrelevant, or misleading information, potentially degrading reasoning quality. Existing memory approaches organize or compress execution histories but provide limited mechanisms for deciding which memories r",
+      "score": 16.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "language model",
+        "tool use",
+        "inference",
+        "reasoning",
+        "planning",
+        "memory"
+      ]
+    },
+    {
+      "title": "PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure",
+      "url": "https://arxiv.org/abs/2608.20342",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 24 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.20342v1 Announce Type: new \nAbstract: Large language model (LLM) coding agents start each session with an empty context window, discarding accumulated knowledge from prior work. We present PrimeAgentOrchestrator (PAO), a system that spawns new instances of Claude Code -- Anthropic's terminal-based coding agent -- pre-loaded with relevant memories compiled from the user's existing personal databases. At spawn time, PAO queries two independently-operated memory backends in parallel (a P",
+      "score": 14.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "Claude",
+        "language model",
+        "context window",
+        "memory"
+      ]
+    },
+    {
+      "title": "Representation Affects Retrieval: A Case Study of Skill Discovery and Routing in a Multimodal Agent Harness",
+      "url": "https://arxiv.org/abs/2608.20389",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 24 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.20389v1 Announce Type: new \nAbstract: A production agent harness must discover and rank, from a growing library of skills, the one most appropriate for a user's task. At small scale this selection happens in context: the LLM planner chooses among skill representations exposed in its system prompt, without an explicit embedding-based retrieval step. We treat this in-context selection as the small-N counterpart to embedding-based skill retrieval at scale, and present a case study of how",
+      "score": 12.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "multimodal",
+        "embedding",
+        "prompt",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Auditable by Construction: An Ontology-Driven Framework for Trustworthy LLM Analytics in Enterprise Finance",
+      "url": "https://arxiv.org/abs/2608.20661",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 24 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.20661v1 Announce Type: new \nAbstract: Enterprise adoption of large language models in finance is constrained less by fluency than by trust: in Financial Planning and Analysis (FP&A) and other regulated workflows, an answer is usable only if it is traceable to authoritative sources and auditable after the fact. This paper argues that retrieval-augmented generation for enterprise finance should be evaluated on auditability alongside accuracy, and presents the Knowledge-Driven Analytics ",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "workflow",
+        "language model",
+        "planning",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "VortexChat: An agentic framework for autonomous multi-objective integrated photonic design",
+      "url": "https://arxiv.org/abs/2608.20688",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 24 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.20688v1 Announce Type: new \nAbstract: The advancement of modern integrated photonics is frequently bottlenecked by device design workflows that rely heavily on manual simulation and expert intuition. While inverse design offers an alternative, it remains constrained by expert supervision and a lack of end-to-end automation. To address these issues, we present VortexChat, an agentic framework for the autonomous, end-to-end inverse design of integrated photonic devices directly from nat",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "workflow",
+        "automation",
+        "simulation",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "A Survey on Foundations and Frontiers of Multimodal Agentic Frameworks: Techniques and Applications",
+      "url": "https://arxiv.org/abs/2608.20379",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 24 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.20379v1 Announce Type: new \nAbstract: Advances in large language models (LLMs) have fueled a wave of research into agency: the ability to reason, plan, and act. This effort has produced agentic frameworks that orchestrate perception, memory, and decision-making around powerful LLM backbones. With the advent of large multimodal models (LMMs), these systems can process and integrate diverse modalities, including images, audio, and video, thereby improving their real-world applicability.",
+      "score": 10.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "language model",
+        "multimodal",
+        "memory"
+      ]
+    },
+    {
+      "title": "Nexus: Depth-Adaptive KV-Cache Splicing and Retrieval-Decoupled Tool Routing for Agentic LLMs on Unified Memory",
+      "url": "https://arxiv.org/abs/2608.20397",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 24 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.20397v1 Announce Type: new \nAbstract: Agentic large language models (LLMs) on the Model Context Protocol (MCP) re-encode verbose tool schemas every turn, so prefill - quadratic in sequence length - dominates time-to-first-token (TTFT) as the tool registry grows. Nexus's primary lever is to decouple routing from the schema-prefill cost: an INT8 semantic lookaside buffer (SLB) with a calibrated cross-encoder margin gate selects tools by retrieval, and arguments are generated over a comp",
+      "score": 10.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "language model",
+        "memory",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "StateSight: Benchmarking Latent Spatial-State Reconstruction in Vision-Language Models",
+      "url": "https://arxiv.org/abs/2608.20414",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 24 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.20414v1 Announce Type: new \nAbstract: Vision-language models are increasingly used for multimodal question answering, yet their ability to reconstruct latent spatial structure from a single image remains difficult to isolate. Broad benchmarks often combine perception, optical character recognition, domain knowledge, linguistic priors, and reasoning in the same evaluation. We introduce StateSight, a procedurally generated benchmark for cube-net opposite-face reasoning, occluded cube-to",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "language model",
+        "multimodal",
+        "reasoning",
+        "procedural"
+      ]
+    },
+    {
+      "title": "Volumetric Radiology AI in the Era of Multimodal Large Language Models",
+      "url": "https://arxiv.org/abs/2608.20549",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 24 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.20549v1 Announce Type: new \nAbstract: Advances in multimodal large language models (MLLMs) are extending radiological artificial intelligence (AI) beyond task-specific image analysis toward multimodal understanding and reasoning. Volumetric radiology, however, presents a fundamental representational mismatch: clinical interpretation often requires full-volume spatial context and acquisition-dependent quantitative information, whereas current MLLMs are commonly conditioned on selected ",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "multimodal",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "AgentDecarbonizer: Carbon-Aware Execution for AI Agents",
+      "url": "https://arxiv.org/abs/2608.20566",
+      "source": "arXiv cs.LG",
+      "published_at": "Mon, 24 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.20566v1 Announce Type: new \nAbstract: AI agents extend large language models from single prompt-response interactions to long-running, goaldirected workflows that issue many model calls, invoke tools, and interact with external environments. These workflows enable tasks such as software repair, data analysis, and experiment management, but their repeated model invocations can incur substantial carbon emissions. This paper characterizes the carbon emissions of OpenClaw agent workloads ",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "workflow",
+        "language model",
+        "prompt"
+      ]
+    },
+    {
+      "title": "Designing a Robust LLM-Based Evaluation System for Agentic AI in Drug Discovery Through Human Alignment",
+      "url": "https://arxiv.org/abs/2608.21057",
+      "source": "arXiv cs.LG",
+      "published_at": "Mon, 24 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.21057v1 Announce Type: new \nAbstract: Agentic large language model (LLM) systems are reshaping scientific workflows in chemistry and drug discovery, but evaluating their open-ended, tool-augmented outputs remains a fundamental bottleneck. Reference-based metrics such as BLEU and ROUGE fail to capture semantic correctness, while expert human evaluation does not scale to the iteration speed these systems demand. The LLM-as-a-Judge paradigm has emerged as a scalable alternative, but exis",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "workflow",
+        "language model"
+      ]
+    },
+    {
+      "title": "TracingFlow: A Simulation-Free Trajectory Inference Framework Based on Second-Order Dynamics",
+      "url": "https://arxiv.org/abs/2608.21070",
+      "source": "arXiv cs.LG",
+      "published_at": "Mon, 24 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.21070v1 Announce Type: new \nAbstract: Inferring continuous system evolution from sparse temporal snapshots is a key challenge in generative modeling and single-cell omics. While Optimal Transport (OT) is popular, existing frameworks are largely restricted to first-order dynamics, assuming memoryless velocity fields. This limits expressiveness, as first-order systems fail to account for regulatory momentum and time-delayed responses inherent in processes like cell differentiation. Here",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "simulation",
+        "inference",
+        "memory",
+        "generative"
+      ]
+    },
+    {
+      "title": "diegosouzapw / OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 350 providers (90+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors [667 stars today]",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "Claude",
+        "Gemini",
+        "Copilot",
+        "GPT"
+      ]
+    },
+    {
+      "title": "Truth Lies Deep: Countering Semantic Camouflage via Latent Intent Verification",
+      "url": "https://arxiv.org/abs/2608.20378",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 24 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.20378v1 Announce Type: new \nAbstract: Safety alignment in Large Language Models (LLMs) is often superficial, relying on refusal mechanisms that trigger only at the final stages of generation without erasing the foundational knowledge of harmful concepts acquired during pretraining. This study demonstrates that this architectural disconnect leaves models vulnerable to Semantic Camouflage -- adversarial attacks that wrap harmful intent in benign narrative contexts (e.g., creative writin",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "narrative"
+      ]
+    },
+    {
+      "title": "Terminal Agents: A Survey of AI Agents in Command-Line Environments",
+      "url": "https://arxiv.org/abs/2608.20485",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 24 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.20485v1 Announce Type: new \nAbstract: Large language model agents increasingly act through terminals, yet existing surveys disperse terminal-mediated behavior across software engineering, tool use, and computer-use research. We regard terminal agents as systems whose dominant progress-bearing action--observation loop is mediated by terminal command execution, textual feedback, and stateful environment interaction. Using terminal-mediated execution as an organizing lens, this survey es",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "language model",
+        "tool use"
+      ]
+    },
+    {
+      "title": "FL-MAESTRO: Multi-Agent LLM Orchestration for Resource-Constrained Federated Learning",
+      "url": "https://arxiv.org/abs/2608.20518",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 24 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.20518v1 Announce Type: new \nAbstract: In Federated Learning (FL), the communication topology is a runtime variable rather than a fixed design choice, since links and edge devices drop in and out during training. Each round, the server must commit three coupled decisions, namely the communication topology, per-client resource allocation, and the aggregation rule for combining local updates. Recent agentic systems have begun bringing large language models (LLM) into FL, but the existing",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model"
+      ]
+    },
+    {
+      "title": "Difficulty-Aware Semantic-ID Optimization for Generative Recommendation",
+      "url": "https://arxiv.org/abs/2608.20611",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 24 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.20611v1 Announce Type: new \nAbstract: Semantic-ID-based generative recommendation casts retrieval and ranking as autoregressive generation over hierarchical item identifiers. A common recipe is SFT followed by GRPO, yet vanilla GRPO is poorly matched to this tree-structured task. Under the frozen SFT checkpoint, the exact target is absent from the first 16 candidates of the 50-beam constrained ranking for many prompts, and in harder cases none of these candidates enters the target SID",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "prompt",
+        "retrieval",
+        "generative"
+      ]
+    },
+    {
+      "title": "DirEAG: Dirichlet Evidence Aggregation for Calibrating Verbalized Confidence in Mathematical Reasoning",
+      "url": "https://arxiv.org/abs/2608.20717",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 24 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.20717v1 Announce Type: new \nAbstract: Reliable confidence estimation is essential for using large language models in mathematical reasoning, but black-box verbalized confidence is difficult to calibrate. When the same problem is queried under multiple confidence-steering prompts, the resulting answer-confidence observations contain useful uncertainty information, yet their scales may shift across steering levels, models, and datasets. Existing black-box uncertainty methods often rely ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "language model",
+        "prompt",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Is Multimodal Speculative Decoding Ready for Diffusion-Based Parallel Drafting? A Survey and Empirical Diagnosis",
+      "url": "https://arxiv.org/abs/2608.20743",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 24 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.20743v1 Announce Type: new \nAbstract: Speculative decoding accelerates autoregressive generation by allowing a lightweight drafter to propose future tokens while a target model verifies them in parallel. Its lossless guarantee has motivated a line of work that pushes the drafter itself toward parallel generation. The most recent paradigm is block-parallel generative drafting, including diffusion-based methods such as DFlash and DSpark, achieving up to 3.6x speedup on common daily chat",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "diffusion",
+        "multimodal",
+        "generative"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-08-25\n\n这里是为你筛选的 **4 个高价值、高启发性的最新技术研究**。它们在 **Spec-Driven 开发、长程 Agent 记忆、多 Agent 实例化与空间状态重建** 上有极强的跨界转化潜力：\n\n---\n\n## 1. SDAD: Spec-Driven Agentic Development for the AI-Native SDLC\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2608.20341\n- **一句话解释**：利用百万级 Token 上下文与多步推理，将传统的“需求文档(FRD)”直接作为执行蓝图，驱动多 Agent 自治完成全流程软件构建。\n- **它为什么重要**：它把 **Spec（规范文档）** 从“给人看的沟通工具”升级为“给 Agent 执行的绝对真理层”。在大上下文窗口时代，开发的核心不再是写代码，而是设计精准、可自洽验证的 Spec 体系。\n- **技术趋势标签**：#SpecDriven #AgenticSDLC #LongContext #AI-NativeWorkflow\n- **可复用模式**：`Spec as Single Source of Truth`（规格即真理）+ `Agentic Contract Enforcement`（Agent 基于规范自检验收）。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：写一份极度详尽的 Markdown 游戏机制规范（含状态机定义），喂给 Cursor/Claude，让其全自动生成一个包含单元测试的 Text-RPG 核心逻辑，不写一行代码。\n  2. **一个中型项目**：**SpecCanvas** —— 一个交互式白板工具，设计师在画布上连线绘制“系统行为规范”，后台 Agent 实时将其编译为可运行的 React/WebGPU 交互原型。\n  3. **一个艺术/游戏/叙事方向**：**世界法典演化器**：用 Spec 编写虚拟世界的物理与伦理法则，多个自治 NPC Agent 必须在严格遵守 Spec 的前提下展开生存与博弈，一旦违背法则自动触发世界坍缩或神罚事件。\n- **对我项目的启发**：非常契合 Spec-driven 理念。后续做系统或游戏工具时，应该将“规格描述语言（DSL/Markdown）”作为一等公民，而不是直接与代码纠缠。\n- **今天是否值得深入研究**：是\n- **建议行动**：做demo\n\n---\n\n## 2. Weighted Memory Tree: 解决长程 Agent 记忆迷失的树状加权结构\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2608.20631\n- **一句话解释**：用加权树形结构组织 Agent 的长程执行历史与外部记忆，防止上下文爆炸与陈旧信息误导推理。\n- **它为什么重要**：当前 Agent 在执行复杂、长时间任务（如大型游戏模拟、长期项目协作）时极易“上下文漂移”或被旧状态污染。加权树能在不丢失宏观分支结构的前提下，精准提取高权重核心记忆。\n- **技术趋势标签**：#AgentMemory #HierarchicalMemory #LongHorizonReasoning #TreeSearch\n- **可复用模式**：`Weighted Memory Tree`（按因果层级与重要性衰减加权存储记忆节点）。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：用 JSON 树实现一个简单的 NPC 记忆系统，每次与玩家对话不仅线性追加 log，而是在树上增加分支节点并动态计算亲密度权重，剪枝掉低权重的闲聊。\n  2. **一个中型项目**：**LoreTree Engine** —— 用于生成式叙事世界观管理的记忆引擎，管理成百上千个历史事件之间的因果依赖树，动态为 NPC 提供上下文。\n  3. **一个艺术/游戏/叙事方向**：**记忆修剪者（Memory Pruner）**：一个交互叙事游戏，玩家扮演一个 AI 意识的园艺师，通过修剪 NPC 记忆树上的不同权重枝干，来重塑该 NPC 的人格、信仰与命运轨迹。\n- **对我项目的启发**：在设计 Minecraft 模拟或复杂世界生成时，不要用平铺的 Vector RAG，用树状因果图作为世界状态沉淀，更符合叙事与物理规律。\n- **今天是否值得深入研究**：是\n- **建议行动**：收藏\n\n---\n\n## 3. PrimeAgentOrchestrator: 基于个人记忆预热的 Agent 动态派生\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2608.20342\n- **一句话解释**：从用户个人知识库中提取针对性记忆“预热”上下文，随调随用批量派生带有专属技能上下文的 Claude Code/终端 Agent 实例。\n- **它为什么重要**：解决了 Agent 每次启动都是“白板/失忆”的问题，但又避免了把整个知识库硬塞进上下文的浪费。实现了“针对特定任务，组装特定记忆，派生即抛型专属 Agent”。\n- **技术趋势标签**：#AgentOrchestration #MemoryPriming #ClaudeCode #PersonalAIInfra\n- **可复用模式**：`Ephemeral Agent Spawning`（即抛型 Agent 派生）+ `Targeted Memory Injection`（精准记忆预热）。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：写一个 Bash/Python 脚本，读取本地关于某个具体创意库（如 p5.js/Three.js 个人代码片段）的 Markdown，拼接出预设 Prompt 并自动唤起一个新的 `claude` 终端会话。\n  2. **一个中型项目**：**Agent Forge CLI** —— 终端工具，输入 `forge art-coder \"生成流体粒子\"`，自动检索你过往写过的 Shader 习惯，派生一个最懂你代码风格的 Agent 并打开新终端窗口。\n  3. **一个艺术/游戏/叙事方向**：**数字分身剧场**：从你个人的聊天记录/设计笔记中，提取不同时期的思想切片，派生出 5 个不同人生阶段的“记忆预热 Agent”，让“大一的你”与“现在的你”在一个终端中就你的毕业设计展开激烈辩论。\n- **对我项目的启发**：不要试图造一个“全能全知”的长寿 Agent，而是打造一个“中央记忆库 + 随用随生的小克隆体集群”系统。\n- **今天是否值得深入研究**：是\n- **建议行动**：做demo\n\n---\n\n## 4. StateSight: 视觉语言模型的隐式空间状态重建基准\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2608.20414\n- **一句话解释**：专门评测 VLM 从单张 2D 图像中“脑补”并重建潜在 3D/空间拓扑结构能力的研究基准。\n- **它为什么重要**：从“2D 草图/截图”到“3D 世界/体素网格生成”的核心阻碍在于模型对隐式空间状态的理解。这篇论文揭示了多模态模型如何提取空间拓扑，为 AI 辅助世界生成提供了评测和 Prompting 突破口。\n- **技术趋势标签**：#SpatialIntelligence #VLM #WorldGeneration #VoxelReconstruction\n- **可复用模式**：`Latent Spatial Inference`（从静态视觉表象反推隐式空间坐标与邻接关系）。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：给 GPT-4o 喂一张简单的手绘地牢 2D 草图，要求其严格输出 3D 空间中方块放置的 3D 坐标数组（JSON 格式），并在 Three.js 中直接渲染出体素模型。\n  2. **一个中型项目**：**Sketch-to-Minecraft Pipeline** —— 在 iPad 随手画一张建筑/地形截面图，利用空间状态推理 Prompt 流水线，将其自动转换成 Minecraft 原生 `.schematic` 或 WorldEdit 命令并在服务器中生成。\n  3. **一个艺术/游戏/叙事方向**：**盲区生成世界**：玩家上传一张现实生活的房间照片，AI 自动推理出“相机视角看不到的死角有什么空间”，并将其生成为一个无限延展的超现实解谜游戏关卡。\n- **对我项目的启发**：在做 Minecraft / 程序化世界生成时，不要局限于文本输入，多模态模型已经具备将视觉空间隐喻直接翻译为空间网格的能力。\n- **今天是否值得深入研究**：是\n- **建议行动**：试用\n\n---\n\n## 今日模式总结\n\n1. **Spec 正在成为 AI 的机器码**：从 SDAD 可以看出，规范文档（Spec）不再是给工程师看的文档，而是 Agentic 时代的高级编程语言。\n2. **即用即弃的轻量 Agent + 结构化记忆库**：Weighted Memory Tree 与 PrimeAgentOrchestrator 共同指向了一个架构方向——不要维护一个臃肿的长对话，而是维护一个清晰的树状/图状记忆库，遇到任务时快速组装上下文、派生专属 Agent、完成后销毁。\n3. **2D 视觉向结构化空间状态的升维**：多模态模型正在突破纯图像描述，开始具备反推 3D 拓扑结构的能力，这是生成式世界与设计工具的巨大机会。\n\n---\n\n## 今日可做小实验\n\n### 实验名：**Spec-to-Voxel: 单图空间状态体素生成器**\n*利用多模态空间推理能力，实现从一张手绘草图到三维体素世界的即时转换。*\n\n- **输入**：一张随手用画图板画的 2D 俯视/侧视建筑草图（如：一个带尖顶的小塔楼）。\n- **输出**：一个在浏览器中可用鼠标 360° 旋转查看的 3D 体素模型（HTML/Three.js）。\n- **技术栈**：Node.js / Python + GPT-4o API + Three.js（单文件 HTML 渲染）。\n- **第一步怎么做**：\n  1. 准备一张手绘草图 `sketch.png`。\n  2. 编写一段 System Prompt，限定输出为格式严格的 JSON 数组：`[{\"x\": 0, \"y\": 0, \"z\": 0, \"color\": \"#8B4513\"}, ...]`，要求模型根据草图推理出 16x16x16 空间内的实体方块坐标。\n  3. 用一个预制好的简单 HTML 模板加载该 JSON，遍历生成 Three.js `BoxGeometry`，直接在浏览器中观察空间还原度。",
+  "gemini_success": true,
+  "telegram_sent": true,
+  "telegram_status": "sent",
+  "telegram_reason": ""
+}
