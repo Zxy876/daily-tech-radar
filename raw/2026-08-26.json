@@ -1,0 +1,297 @@
+[
+  {
+    "title": "SchemaRouter: Field-Aware Tool Routing for Efficient Heterogeneous Agentic RAG",
+    "url": "https://arxiv.org/abs/2608.21375",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 25 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.21375v1 Announce Type: new \nAbstract: Heterogeneous agentic retrieval-augmented generation (RAG) systems increasingly orchestrate external APIs, internal databases, vector stores, and graph stores. Exposing all tool descriptions to an LLM agent, or selecting tools only by vector similarity, causes two costly failures: over-fetching, which increases payload size, token use, and latency, and under-fetching, which omits fields needed to answer the query.\n  We present SchemaRouter, a ligh",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "RAG",
+      "vector",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Retrieval-grounded robot program generation and simulation-based correction via Model Context Protocol",
+    "url": "https://arxiv.org/abs/2608.21417",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 25 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.21417v1 Announce Type: new \nAbstract: Flexible manufacturing requires industrial robots to be reprogrammed rapidly as product variants change. This paper presents a language-model-based workflow that generates, validates, and iteratively corrects ABB RAPID robot programs from natural language task descriptions. A dual-stream retrieval-augmented generation (RAG) pipeline grounds code generation in verified technical documentation and production templates, reducing domain-specific error",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "workflow",
+      "simulation",
+      "code generation",
+      "RAG",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "SAEM: Stage-Aware Expert Management for Memory-Efficient MoE Inference in Chain-of-Thought Reasoning",
+    "url": "https://arxiv.org/abs/2608.21614",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 25 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.21614v1 Announce Type: new \nAbstract: Chain-of-thought (CoT) prompting improves LLM reasoning by decomposing complex problems into intermediate steps, but its sequential nature increases decoding latency and memory usage. Mixture-of-Experts (MoE) models scale capacity through sparse expert activation, yet their full expert weights often exceed GPU memory and require costly GPU-CPU transfers. Existing runtimes treat all tokens uniformly, overlooking a key structural property of CoT tra",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "inference",
+      "prompt",
+      "reasoning",
+      "memory"
+    ]
+  },
+  {
+    "title": "KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference",
+    "url": "https://arxiv.org/abs/2608.21362",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 25 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.21362v1 Announce Type: new \nAbstract: Transformer-based large language models (LLMs) incur high prefill latency because key-value (KV) tensors must be recomputed for each request. Existing prefix-caching systems reduce this cost but require prompts to share a leading contiguous prefix, limiting effectiveness when shared content appears at arbitrary positions. We present KVBoost, a chunk-level KV cache reuse system for HuggingFace-compatible decoder models that enables reuse regardless",
+    "score": 10.0,
+    "keywords_matched": [
+      "LLM",
+      "transformer",
+      "language model",
+      "inference",
+      "prompt"
+    ]
+  },
+  {
+    "title": "From Mastery Profile to Simulated Response: Stochastic Student Knowledge Graphs (SSKG) for Faithful LLM Student Simulation",
+    "url": "https://arxiv.org/abs/2608.21668",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 25 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.21668v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly used to simulate students at different mastery levels. These simulations can generate synthetic training data and stress-test tutoring systems. However, common prompt-based approaches leave the answer decision to the LLM, which tends to perform according to its built-in capabilities even when instructed to simulate a student with low mastery. As a result, these approaches may have difficulty distinguis",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "simulation",
+      "language model",
+      "prompt"
+    ]
+  },
+  {
+    "title": "From Association to Causation: Improving Retrieval Precision of Retrieval-Augmented Generation via Causal Relations and an Attention Mechanism",
+    "url": "https://arxiv.org/abs/2608.21702",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 25 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.21702v1 Announce Type: new \nAbstract: Retrieval-Augmented Generation (RAG) grounds LLM generation on retrieved documents, but the standard terminal retrieval stage--dense-vector similarity, optionally followed by reranking--often returns documents that share keywords with the query without containing the needed information, a failure mode that grows with the knowledge base. We trace it to a conceptual gap: similarity captures only associational relations, whereas the documents that ma",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "RAG",
+      "vector",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "ATHENA: Knowledge-guided agentic neural architecture search for AutoFormer-based electronic health record modeling",
+    "url": "https://arxiv.org/abs/2608.21712",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 25 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.21712v1 Announce Type: new \nAbstract: Transformer-based models are widely used for clinical prediction from electronic health records (EHRs), yet their architectures still require substantial manual tuning, and the optimal configuration may vary across tasks and hospitals. Neural architecture search (NAS) automates architecture design, but conventional methods are computationally costly for Transformer-based EHR models. Recent large language model (LLM)-guided NAS methods reduce manua",
+    "score": 10.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "transformer",
+      "neural",
+      "language model"
+    ]
+  },
+  {
+    "title": "Beyond Success and Failure: Length-Aware Contrastive Learning for GUI Agents",
+    "url": "https://arxiv.org/abs/2608.21830",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 25 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.21830v1 Announce Type: new \nAbstract: Graphical User Interface (GUI) agents powered by Multimodal Large Language Models (MLLMs) have shown strong potential for automating tasks across diverse digital environments, where reinforcement learning (RL) has become a dominant training paradigm. However, widely used methods such as Group Relative Policy Optimization (GRPO) suffer from reward-gradient misalignment, leading to inefficient and unstable optimization. Recent work addresses this is",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "multimodal"
+    ]
+  },
+  {
+    "title": "AgentDecarbonizer: Carbon-Aware Execution for AI Agents",
+    "url": "https://arxiv.org/abs/2608.20566",
+    "source": "arXiv cs.LG",
+    "published_at": "Tue, 25 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.20566v1 Announce Type: new \nAbstract: AI agents extend large language models from single prompt-response interactions to long-running, goaldirected workflows that issue many model calls, invoke tools, and interact with external environments. These workflows enable tasks such as software repair, data analysis, and experiment management, but their repeated model invocations can incur substantial carbon emissions. This paper characterizes the carbon emissions of OpenClaw agent workloads ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow",
+      "language model",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Designing a Robust LLM-Based Evaluation System for Agentic AI in Drug Discovery Through Human Alignment",
+    "url": "https://arxiv.org/abs/2608.21057",
+    "source": "arXiv cs.LG",
+    "published_at": "Tue, 25 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.21057v1 Announce Type: new \nAbstract: Agentic large language model (LLM) systems are reshaping scientific workflows in chemistry and drug discovery, but evaluating their open-ended, tool-augmented outputs remains a fundamental bottleneck. Reference-based metrics such as BLEU and ROUGE fail to capture semantic correctness, while expert human evaluation does not scale to the iteration speed these systems demand. The LLM-as-a-Judge paradigm has emerged as a scalable alternative, but exis",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "language model"
+    ]
+  },
+  {
+    "title": "TracingFlow: A Simulation-Free Trajectory Inference Framework Based on Second-Order Dynamics",
+    "url": "https://arxiv.org/abs/2608.21070",
+    "source": "arXiv cs.LG",
+    "published_at": "Tue, 25 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.21070v1 Announce Type: new \nAbstract: Inferring continuous system evolution from sparse temporal snapshots is a key challenge in generative modeling and single-cell omics. While Optimal Transport (OT) is popular, existing frameworks are largely restricted to first-order dynamics, assuming memoryless velocity fields. This limits expressiveness, as first-order systems fail to account for regulatory momentum and time-delayed responses inherent in processes like cell differentiation. Here",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "simulation",
+      "inference",
+      "memory",
+      "generative"
+    ]
+  },
+  {
+    "title": "Shubhamsaboo / awesome-llm-apps",
+    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source. [161 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "open source",
+      "RAG"
+    ]
+  },
+  {
+    "title": "AI Learning and Conceptual Transfer in the Game of Hidden Rules",
+    "url": "https://arxiv.org/abs/2608.21372",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 25 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.21372v1 Announce Type: new \nAbstract: This report summarizes the work conducted on the Game of Hidden Rules (GOHR), focusing on reinforcement learning agents trained to infer hidden rules from trial-and-error feedback, representation design, rule difficulty analysis, transfer learning, generalization, and pseudo-bot-assisted human learning analysis. The report focuses on the Transformer-based A2C framework, Feature-Centric and Object-Centric representations, experimental findings, and",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "game",
+      "transformer"
+    ]
+  },
+  {
+    "title": "There Is No Neutral Harness: Modern LLM Leaderboards Are Manufactured by Config-Fragile Items",
+    "url": "https://arxiv.org/abs/2608.21382",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 25 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.21382v1 Announce Type: new \nAbstract: Multiple-choice benchmarks fix the questions and the correct answers, but not the harness: the order of the options, the wording of the prompt, and whether a language model's answer is read from generated text or from per-option likelihoods. Work on this harness sensitivity reports it as aggregate score variance, leaving unexamined which items the variance falls on and whether they are the items that separate one model from the next. We treat the ",
+    "score": 8.0,
+    "keywords_matched": [
+      "LLM",
+      "language model",
+      "RAG",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Spyre-Accelerated Retrieval-Augmented Generation on IBM LinuxONE: A Cloud-Native Architecture for Secure, High-Throughput Enterprise AI Inference",
+    "url": "https://arxiv.org/abs/2608.21393",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 25 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.21393v1 Announce Type: new \nAbstract: Running large language models inside enterprise environments has always bumped up against a practical wall: the data lives in one place, the AI horsepower sits somewhere else, and moving sensitive records between the two creates real headaches around latency, security, and regulatory exposure. IBM's Spyre accelerator PCIe inference card built for LinuxONE and the broader IBM Z family changes that equation.\n  In this paper we lay out a six-subsyste",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "language model",
+      "inference",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Context as an Environment: Programmatic Context Management for Long-Horizon Agents",
+    "url": "https://arxiv.org/abs/2608.21690",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 25 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.21690v1 Announce Type: new \nAbstract: LLM agents increasingly take on long-running tasks whose history grows far beyond a single model context window. Existing approaches compress earlier interactions or extract selected information into fixed memory representations, committing to what to preserve before future needs are known. We present Scroll, a context manager that treats each agent session as an executable Session Environment. The environment is backed by an append-only Event Log",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "context window",
+      "memory"
+    ]
+  },
+  {
+    "title": "ECHO: A Cognitively Inspired, Auditable Memory Plane for Long-Horizon Agents",
+    "url": "https://arxiv.org/abs/2608.21755",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 25 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.21755v1 Announce Type: new \nAbstract: Long-horizon agents need memory that identifies relevant experience, resolves revisions, and exposes checkable provenance. We present ECHO (Embodied Context and History Orchestration), an auditable memory architecture and service prototype inspired by episodic encoding, consolidation, contextual reinstatement, reconsolidation, and executive control. This is functional inspiration, not neural equivalence; the empirical analysis focuses on retrieval",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "neural",
+      "memory",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "GameXpert-Bench: How Far Are Coding Agents from Expert Game Development?",
+    "url": "https://arxiv.org/abs/2608.21833",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 25 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.21833v1 Announce Type: new \nAbstract: Recent large language models (LLMs) can operate as coding agents that build complete games from natural language requests. Game development is especially demanding because program logic, visual and audio content, interfaces, interaction and playability must function together in one executable artifact. Measuring this capability therefore requires evaluation of both game product and the development process. Existing benchmarks often assess the game",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "game",
+      "language model"
+    ]
+  },
+  {
+    "title": "All four leading LLMs talk more than they listen to personality-verified synthetic help-seekers",
+    "url": "https://arxiv.org/abs/2608.22425",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 25 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.22425v1 Announce Type: new \nAbstract: Large language models are increasingly consulted at moments of distress, yet single-turn benchmarks neither test sustained exchanges nor distinguish between users. We built a personality-aware evaluation in which four widely used models advised several synthetic help-seekers, each given a psychometrically specified profile, in an acute crisis: a caregiver learning of a relative's dementia diagnosis. Auditors blind to the profile prompt recovered t",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Poetic Heritage for Culturally Grounded Emotional Support: An Interaction Design Framework and Its Multimodal Agentic Instantiation",
+    "url": "https://arxiv.org/abs/2608.22639",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 25 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.22639v1 Announce Type: new \nAbstract: Digital systems increasingly mediate emotional support, yet their interactions often remain culturally generic. Accordingly, we examine how a poetic tradition can be operationalized as a culturally grounded interactive medium and how generative AI can support such engagement. The resulting interaction design framework translates staged literature-based support and tradition-specific poetic aesthetics into guidance for digital system design. Poemit",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "multimodal",
+      "generative"
+    ]
+  }
+]
