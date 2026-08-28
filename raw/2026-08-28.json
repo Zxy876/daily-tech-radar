@@ -1,0 +1,308 @@
+[
+  {
+    "title": "LLM Agents Perform Controlled Experiments Using Simulation Models",
+    "url": "https://arxiv.org/abs/2608.23622",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 27 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.23622v1 Announce Type: new \nAbstract: Large language models (LLMs) have shown strong capabilities in reasoning, planning, and tool use, but many scientific and engineering tasks require more than plausible text and code generation. They require understanding how a system responds to intervention, which in practice depends on controlled experimentation. In this work, we propose a multi-agent framework that enables LLM agents to conduct controlled experiments with scientific simulation ",
+    "score": 16.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "simulation",
+      "language model",
+      "code generation",
+      "tool use",
+      "reasoning",
+      "planning"
+    ]
+  },
+  {
+    "title": "Beyond the Chatbot: Co-Learning and Co-Teaching through a Dual-Persona Generative-AI Assistant",
+    "url": "https://arxiv.org/abs/2608.24902",
+    "source": "arXiv cs.HC",
+    "published_at": "Thu, 27 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.24902v1 Announce Type: new \nAbstract: In this paper we present a generative AI application developed to support both teachers and students in secondary education. The system employs two Large Language Models-LLMs, Gemini and DeepSeek, and a Small Language Model-SLM, Gemma, integrated within a Retrieval Augmented Generation - RAG framework, creating a pedagogically grounded, Greek-language assistant capable of adapting its reasoning and communication style to the user role. Unlike conv",
+    "score": 16.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "Gemini",
+      "language model",
+      "RAG",
+      "reasoning",
+      "retrieval",
+      "generative"
+    ]
+  },
+  {
+    "title": "MolEmb: Multimodal Large Language Models Can Be Strong Molecular Embedding Models",
+    "url": "https://arxiv.org/abs/2608.23646",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 27 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.23646v1 Announce Type: new \nAbstract: Molecular embedding models can serve as foundational infrastructure for computational chemistry and drug discovery, where reusable vector representations support property prediction, virtual screening, and retrieval. Most molecular encoders are specialist models built around a single molecular view, producing unconditional vectors with no language interface for varying the representation. We ask whether multimodal large language models (MLLMs), wh",
+    "score": 12.0,
+    "keywords_matched": [
+      "LLM",
+      "language model",
+      "multimodal",
+      "embedding",
+      "vector",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Generating Biomedical Fact-Checking Reports with RL-Enhanced Agentic Search",
+    "url": "https://arxiv.org/abs/2608.23811",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 27 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.23811v1 Announce Type: new \nAbstract: Automated fact-checking is essential for ensuring the reliability of public health information, yet the biomedical domain poses unique challenges. Validating biomedical claims requires rigorous interpretation of scientific literature, assessment of retrieved evidence, and comprehensive justification toward the conclusion. Although Large Language Models (LLMs) enhanced by Retrieval-Augmented Generation (RAG) and agentic search perform automated fac",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "RAG",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "MARS: Multi-Specialist LLM Relay System for Competitive Programming",
+    "url": "https://arxiv.org/abs/2608.23918",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 27 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.23918v1 Announce Type: new \nAbstract: Large Language Models excel at code generation, yet competitive programming exposes a persistent failure mode: existing multi-agent pipelines distribute work over generic planner, coder, and debugger roles and delegate the choice of algorithmic technique to the backbone alone. We present MARS (Multi-Agent Relay of Specialized LLMs), a prompt-only framework in which each agent is a topic specialist---dynamic programming, graphs, strings, geometry, ",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "code generation",
+      "prompt"
+    ]
+  },
+  {
+    "title": "aipsy-judge: A Specialized, Psychologist-Corrected Local Judge for the Psychological Safety of Conversational AI",
+    "url": "https://arxiv.org/abs/2608.24899",
+    "source": "arXiv cs.HC",
+    "published_at": "Thu, 27 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.24899v1 Announce Type: new \nAbstract: The standard recipe for LLM-as-judge -- pick a frontier model, or average several -- is actively unsafe for grading the psychological safety of conversational AI. Using aipsy-bench, an open frozen safety instrument, we run a fully-crossed competence study: three frontier models (gpt-5.4-mini, claude-sonnet-4-6, gemini-2.5-flash) serve as both generators and judges of 3,000 mental-health, companion, and coaching messages against a psychologist's ra",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "Claude",
+      "Gemini",
+      "GPT",
+      "RAG"
+    ]
+  },
+  {
+    "title": "From Blind Edits to Verified Repair: Building Trustworthy User-Side LLM Agents for Web Accessibility",
+    "url": "https://arxiv.org/abs/2608.24913",
+    "source": "arXiv cs.HC",
+    "published_at": "Thu, 27 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.24913v1 Announce Type: new \nAbstract: Assistive agents that adapt web pages on the user's side, at the moment of browsing, could reach the accessibility failures that site authors leave unfixed, and large language models make such agents newly plausible. We contribute three building blocks toward that goal. The first is a complete, privacy-preserving browser agent: a Chrome extension that extracts a page's style sheets, condenses them to fit a local model's context window, asks the mo",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "context window",
+      "local model"
+    ]
+  },
+  {
+    "title": "Retrieval-augmented generation vs. deterministic tax computation in multi-agent financial advisory: A 2x2 factorial experiment",
+    "url": "https://arxiv.org/abs/2608.23908",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 27 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.23908v1 Announce Type: new \nAbstract: Tax-loss harvesting demonstrates consistent benefits to long-term portfolio growth; yet implementing it efficiently often involves complex considerations that are specific to the holdings within that portfolio and the individual who owns it. We introduce a custom capital gains calculation engine and a RAG-retrieved vector store of market advisory reports to provide context for a multi-agent trade recommendation system. We investigate the effects o",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "RAG",
+      "vector",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Giraffe: A Mapping Architecture from Hidden Text Representations to Visual Embeddings for Efficient Graphic Design",
+    "url": "https://arxiv.org/abs/2608.23970",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 27 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.23970v1 Announce Type: new \nAbstract: Multimodal large language models (MLLMs) have made significant progress in understanding and interpreting mul- timedia content. However, their ability to generate me- dia remains limited. Recent approaches have attempted to bridge this gap by translating the hidden representations of token sequences into the embedding space of visual models or directly into raw image data. However, these methods often represent each image using multiple specialise",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "multimodal",
+      "embedding"
+    ]
+  },
+  {
+    "title": "MCP-Driven Accessibility Tree Standardization for AI-Powered Screen Reader Agents",
+    "url": "https://arxiv.org/abs/2608.24898",
+    "source": "arXiv cs.HC",
+    "published_at": "Thu, 27 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.24898v1 Announce Type: new \nAbstract: Large language model (LLM) agents that interact with graphical user interfaces increasingly rely on either raw screenshots or platform-specific accessibility application programming interfaces (APIs) to perceive interface state. Both approaches have limitations for assistive applications: screenshot-based perception lacks the semantic roles and relationships required by screen readers, while platform-specific APIs such as Windows UI Automation, ma",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "automation",
+      "language model"
+    ]
+  },
+  {
+    "title": "Stronger Alignment between Brain Activity and LLM Embeddings during Code Writing compared to Prose Writing",
+    "url": "https://arxiv.org/abs/2608.24900",
+    "source": "arXiv cs.HC",
+    "published_at": "Thu, 27 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.24900v1 Announce Type: new \nAbstract: Programming is a critical skill underlying modern software systems, yet the cognitive processes supporting code writing are only beginning to be understood, limiting educational practices and developer tools. At the same time, Large Language Models (LLMs) are increasingly used to assist programming. These models themselves are not well understood and can exhibit undesirable behavior like introducing security vulnerabilities. Given evidence that so",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "developer tools",
+      "language model",
+      "embedding"
+    ]
+  },
+  {
+    "title": "From Plots to Words: Model-Aware Multimodal Explanations as a Foundation for Accessible, Non-Visual Interaction",
+    "url": "https://arxiv.org/abs/2608.24910",
+    "source": "arXiv cs.HC",
+    "published_at": "Thu, 27 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.24910v1 Announce Type: new \nAbstract: Multimodal large language models are increasingly used in interactive systems, yet ensuring consistent, trustworthy reasoning across heterogeneous modalities remains challenging. We present a context-aware, multi-agent framework that integrates textual queries, numerical data, visual representations, and model-derived signals for explainable time-series forecasting. A distinctive feature is that it turns predominantly visual forecasting outputs (e",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "language model",
+      "multimodal",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "AFDBench: A Reasoning-First AI Scientist for NationalWeather Service Forecast Discussions",
+    "url": "https://arxiv.org/abs/2608.24954",
+    "source": "arXiv cs.LG",
+    "published_at": "Thu, 27 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.24954v1 Announce Type: new \nAbstract: Large language models (LLMs) hallucinate numerical values when generating high-stakes meteorological text, posing risks for weather communication. We present AFDBench, an AI meteorologist that generates professional Area Forecast Discussions (AFDs) by reasoning through structured AI weather forecast data from Google's WeatherNext 2. We introduce AFDBench, the first benchmark for evaluating generative meteorological reasoning, comprising 7,732 expe",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "reasoning",
+      "generative"
+    ]
+  },
+  {
+    "title": "diegosouzapw / OmniRoute",
+    "url": "https://github.com/diegosouzapw/OmniRoute",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Never stop coding. Free MIT AI gateway: one endpoint, 350 providers (90+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors [853 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "Claude",
+      "Gemini",
+      "Copilot",
+      "GPT"
+    ]
+  },
+  {
+    "title": "thedotmack / claude-mem",
+    "url": "https://github.com/thedotmack/claude-mem",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More [143 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "Gemini",
+      "Copilot"
+    ]
+  },
+  {
+    "title": "RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation",
+    "url": "https://arxiv.org/abs/2608.23568",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 27 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.23568v1 Announce Type: new \nAbstract: Memory and RAG evaluations often treat the answering model's input as an implementation detail, even though systems may render the same history as a memory entry, summary, typed record, or raw excerpt. We introduce RENDER, a benchmark control that fixes the conversation while varying the reader-facing artifact. RENDER combines a five-level packet ladder, localizing when answer-bearing content enters the input, with deterministic templates approxim",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "RAG",
+      "memory"
+    ]
+  },
+  {
+    "title": "Ethical LLM-Assisted Research: A Framework for Responsible Delegation, Verification, and Epistemic Value",
+    "url": "https://arxiv.org/abs/2608.23644",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 27 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.23644v1 Announce Type: new \nAbstract: Large language models (LLMs) are becoming routine instruments of scientific research, assisting with literature synthesis, hypothesis development, coding, and formal reasoning. Their use raises a central epistemic question: when parts of scientific reasoning are delegated to an artificial system, what conditions must remain under human control for the resulting knowledge claims to retain epistemic legitimacy and accountable authorship? This paper ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Evidence-Grounded Mapping of Multimodal Human Sensing Psychological Transdiagnostic Dimensions",
+    "url": "https://arxiv.org/abs/2608.24903",
+    "source": "arXiv cs.HC",
+    "published_at": "Thu, 27 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.24903v1 Announce Type: new \nAbstract: Mobile and wearable sensing enables longitudinal observation of behavior, yet translating these signals into meaningful mental health constructs remains difficult. We introduce a clinician-in-the-loop benchmark for evaluating whether large language models (LLMs) can generate evidence-grounded Brief Hierarchical Taxonomy of Psychopathology (B-HiTOP) item profiles from passive sensing, ecological momentary assessment (EMA), and questionnaire evidenc",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "multimodal"
+    ]
+  },
+  {
+    "title": "Analyzing and Correcting Benevolence Bias in Large Language Models",
+    "url": "https://arxiv.org/abs/2608.24912",
+    "source": "arXiv cs.HC",
+    "published_at": "Thu, 27 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.24912v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly used as stand-ins for human respondents, from opinion polls and simulated survey participants to agent-based social simulations. These uses rest on one assumption: that conditioning a model on who a person is yields answers resembling those of real people from that group. Here we identify and measure benevolence bias, a small but consistent tendency for aligned LLMs to lean toward the kinder, safer, mo",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "simulation",
+      "language model"
+    ]
+  },
+  {
+    "title": "Large Language Model Few-Shot Prompting with Dilemma Training Outperforms Human Surrogates in Predicting Patient Preferences",
+    "url": "https://arxiv.org/abs/2608.25771",
+    "source": "arXiv cs.HC",
+    "published_at": "Thu, 27 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.25771v1 Announce Type: new \nAbstract: In serious illness, human surrogates often struggle to accurately predict patient preferences (68% accuracy), causing decision conflict. Personalized Patient Preference Predictor (P4) agents offer a potential solution, but prior prototypes treat values as static ratings, ignoring the contextual, situation-dependent nature of medical choices. Grounded in the 'logic of care', we present P4-DT (Dilemma Training), a P4 agent that constructs a patient ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "language model",
+      "prompt"
+    ]
+  }
+]
