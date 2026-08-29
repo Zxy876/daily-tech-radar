@@ -1,0 +1,302 @@
+{
+  "date": "2026-08-29",
+  "candidates": [
+    {
+      "title": "SKILL.state: Scalable Long-Horizon Agent Skills",
+      "url": "https://arxiv.org/abs/2608.26263",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 28 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.26263v1 Announce Type: new \nAbstract: Large Language Models (LLMs) increasingly act as autonomous agents executing complex, long-running procedural skills. Existing agent runtimes maintain execution by continually appending observations, actions, and intermediate reasoning traces to an ever-growing conversation history, causing latency degradation and context-poisoning failures over long horizons. We present SKILL.state, a runtime architecture that replaces append-only conversational ",
+      "score": 14.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "autonomous",
+        "reasoning",
+        "procedural"
+      ]
+    },
+    {
+      "title": "Distinct Profiles of Run-to-Run Score Reliability and Expert-Panel Alignment Across Four LLM Evaluators of Simulated Japanese-Language AI-to-AI Counseling",
+      "url": "https://arxiv.org/abs/2507.02950",
+      "source": "arXiv cs.HC",
+      "published_at": "Fri, 28 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2507.02950v4 Announce Type: replace-cross \nAbstract: Large language models (LLMs) increasingly evaluate generated dialogue, but repeatable scores do not necessarily align with professional judgment. This observational fixed-benchmark study compared four configured LLM evaluator systems (GPT-5.5, Gemini 3.5 Flash, Claude Opus 4.8, and Fable 5) with aggregated ratings from 15 counseling experts on 18 complete simulated AI-to-AI counseling sessions conducted in Japanese. The sessions represen",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "Claude",
+        "Gemini",
+        "GPT",
+        "language model"
+      ]
+    },
+    {
+      "title": "Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset",
+      "url": "https://arxiv.org/abs/2608.26109",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 28 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.26109v1 Announce Type: new \nAbstract: Machine-learning models can predict ICU mortality accurately, but feature-attribution methods alone rarely provide the clinical narrative needed for bedside use. Large language models (LLMs) may bridge this gap, and multi-step agentic pipelines are a plausible extension because they separate data interpretation, guideline checking, and final explanation. This revised feasibility study preserves the original standalone-versus-agentic comparison whi",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "narrative"
+      ]
+    },
+    {
+      "title": "CIFQA: A Deterministic Tool-Grounded Multi-Agent LLM Framework for Financial Query Answering",
+      "url": "https://arxiv.org/abs/2608.26114",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 28 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.26114v1 Announce Type: new \nAbstract: Calculation-intensive financial question answering requires exact reasoning over structured rates, temporal conditions, numerical formulas, and rule-based constraints. Although Large Language Models (LLMs) perform strongly on natural language tasks, they often produce numerically incorrect yet plausible answers when solving multi-step financial calculations. To address this limitation, we introduce CIFQA (Calculation-Intensive Financial Query Answ",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "LLMs for Academic Workflows: An Evaluation of Literature Reviews Generated with Short and Long Context Windows of LLMs",
+      "url": "https://arxiv.org/abs/2608.26145",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 28 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.26145v1 Announce Type: new \nAbstract: Our research focuses on evaluating literature reviews generated in short and long context settings of large language models (LLMs) to investigate the impact of context window on the quality of AI-generated literature reviews and the role of AI in supporting literature review writing. Twenty AI-generated literature reviews based on research sources from Semantic Scholar and Arxiv were evaluated by two researchers across 15 dimensions. Our findings ",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "workflow",
+        "language model",
+        "context window"
+      ]
+    },
+    {
+      "title": "AffectOmni: RL-Verifiable People-Centric Grounded Affective Reasoning for Social and Art-Related Scenes",
+      "url": "https://arxiv.org/abs/2608.26193",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 28 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.26193v1 Announce Type: new \nAbstract: Multimodal large language models (MLLMs) achieve strong performance on VQA and scene understanding, yet affective reasoning remains vulnerable to shortcut behavior. Models may predict correct answers while neglecting people-centric cues such as micro expressions and body language, which weakens traceability and external verification. Prior reinforcement learning approaches mainly reward context or logical coherence without explicitly enforcing att",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "multimodal",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Activation Outliers Matter: Robust Recovery for Quantized Multimodal LLMs",
+      "url": "https://arxiv.org/abs/2608.26581",
+      "source": "arXiv cs.LG",
+      "published_at": "Fri, 28 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.26581v1 Announce Type: new \nAbstract: Low-bit quantization offers a promising avenue for reducing the computational and memory demands of Multimodal Large Language Models (MLLMs). Recent hardware support for low-precision formats, ranging from MXFP8 to ultra-low-bit formats such as MXFP4 and HiF4, has accelerated research into efficient MLLM training and deployment. In this work, we present a systematic study of these quantization schemes in representative MLLMs that span both video g",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "multimodal",
+        "memory"
+      ]
+    },
+    {
+      "title": "SAGE: Variate-Wise Semantic Augmentation for Vision-Language Time Series Forecasting",
+      "url": "https://arxiv.org/abs/2608.26829",
+      "source": "arXiv cs.LG",
+      "published_at": "Fri, 28 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.26829v1 Announce Type: new \nAbstract: Time series forecasting models operate on raw numerical sequences, lacking the semantic knowledge that domain experts implicitly leverage, such as the physical meaning of each variable, its statistical behavior, and its temporal dynamics. Recent efforts to bridge this gap fall into two camps. Some rely on large language models at inference time, which is computationally expensive. Others apply uniform textual prompts at the dataset level, ignoring",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "language model",
+        "RAG",
+        "inference",
+        "prompt"
+      ]
+    },
+    {
+      "title": "diegosouzapw / OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 350 providers (90+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors [656 stars today]",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "Claude",
+        "Gemini",
+        "Copilot",
+        "GPT"
+      ]
+    },
+    {
+      "title": "Leveraging Large Language Models for Systematic Literature Review of Disease Spread Models",
+      "url": "https://arxiv.org/abs/2608.26150",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 28 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.26150v1 Announce Type: new \nAbstract: Recent advancements in Large Language Models (LLMs) have created new opportunities to streamline and potentially automate many research processes, including systematic literature reviews (SLRs). This study reports an LLM pipeline development for extracting model-relevant information from 536 peer-reviewed agent-based modeling papers. We compare the results with those of a human-conducted SLR. Our results show paper-level accuracies of approximatel",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "language model",
+        "RAG"
+      ]
+    },
+    {
+      "title": "Why did My Robot Just Change Personality? Prompting Guidelines for a Grounded Robot Persona in LLM-Based HRI",
+      "url": "https://arxiv.org/abs/2608.26182",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 28 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.26182v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly used for verbal interaction in social robots, yet prompt design in human-robot interaction (HRI) remains underspecified. As a result, robots may present hallucinated capabilities, unclear behavioural boundaries, and misleading personas. This paper develops a framework for prompt design in LLM-based robots and introduces a structured prompt template comprising eight functional components through which r",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "prompt"
+      ]
+    },
+    {
+      "title": "Improving LLM Interpretability with User-Centric Chain-of-Thought Reasoning",
+      "url": "https://arxiv.org/abs/2608.26166",
+      "source": "arXiv cs.HC",
+      "published_at": "Fri, 28 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.26166v1 Announce Type: new \nAbstract: Advancing reasoning capabilities allow large language models (LLMs) to tackle increasingly complex problems, while reasoning traces - intermediate steps toward solutions - open up high-stakes applications by enabling human inspection of AI decision-making. However, current approaches prioritize model performance over human interpretability, limiting effective human-AI collaboration. In this study, we design and evaluate a human-centered approach t",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "RegulAR: Graph-Grounded Error Recognition and Assistance for Procedural Tasks in AR",
+      "url": "https://arxiv.org/abs/2608.26715",
+      "source": "arXiv cs.HC",
+      "published_at": "Fri, 28 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.26715v1 Announce Type: new \nAbstract: Errors are inevitable in procedural tasks, yet most AR guidance systems focus on step-by-step instruction delivery rather than helping users recognize and recover from mistakes. We present RegulAR, an AR task assistant for procedural error recognition and recovery. RegulAR models task instructions as a hierarchical dependency graph and combines this structure with a Multimodal Large Language Model (MLLM) to interpret egocentric observations during",
+      "score": 8.0,
+      "keywords_matched": [
+        "LLM",
+        "language model",
+        "multimodal",
+        "procedural"
+      ]
+    },
+    {
+      "title": "Evaluating human and LLM screening workflows in a conceptually complex scoping review: Recall--workload trade-offs and run-to-run consistency",
+      "url": "https://arxiv.org/abs/2608.26885",
+      "source": "arXiv cs.HC",
+      "published_at": "Fri, 28 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.26885v1 Announce Type: cross \nAbstract: Background. Large language models (LLMs) are increasingly used for screening in evidence synthesis, where false negatives can remove relevant studies before full-text assessment. We compared human and LLM title-and-abstract screening workflows in a preregistered study embedded in a conceptually complex scoping review.\n  Methods. After a conservative title-only screen, 1,131 records were screened by one review lead, four trained assistants screen",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "workflow",
+        "language model"
+      ]
+    },
+    {
+      "title": "The BS-meter: Detecting Politics and Labour through ChatGPT's Language",
+      "url": "https://arxiv.org/abs/2411.15129",
+      "source": "arXiv cs.HC",
+      "published_at": "Fri, 28 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2411.15129v3 Announce Type: replace-cross \nAbstract: What can we learn about language from studying how it is used by ChatGPT and other large language model (LLM)-based chatbots? In this paper, we analyse the distinctive character of language generated by ChatGPT, in relation to questions raised by natural language processing pioneer, and student of Wittgenstein, Margaret Masterman. Following frequent complaints that LLM-based chatbots produce \"bullshit,\" in the sense of Frankfurt's popula",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "GPT",
+        "language model"
+      ]
+    },
+    {
+      "title": "NeuronFuzz: Safety Neuron Guided Fuzzing for LLM Safety Evaluation",
+      "url": "https://arxiv.org/abs/2608.26222",
+      "source": "arXiv cs.LG",
+      "published_at": "Fri, 28 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.26222v1 Announce Type: new \nAbstract: Safety evaluation is critical for assessing whether aligned Large Language Models (LLMs) remain robust against jailbreak attacks. Existing automated testing methods, however, largely rely on response-level feedback: each candidate prompt typically requires generating a target-model response to evaluate its attack effectiveness. This process is expensive and, more importantly, provides only sparse guidance on strongly aligned models, where most can",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "prompt"
+      ]
+    },
+    {
+      "title": "SimCast-S2S: An Efficient Generative Model for Subseasonal Precipitation Forecasting via Transfer Learning from Climate Simulations",
+      "url": "https://arxiv.org/abs/2608.26594",
+      "source": "arXiv cs.LG",
+      "published_at": "Fri, 28 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.26594v1 Announce Type: new \nAbstract: Subseasonal-to-seasonal (S2S) precipitation forecasting has substantial financial and societal impact, yet remains challenging because of weak predictive signals, high associated uncertainty, and the computational cost of operational systems, which constrains simulation fidelity. We introduce SimCast-S2S, a generative latent-diffusion framework for probabilistic S2S precipitation forecasting that addresses three major bottlenecks in data-driven pr",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "simulation",
+        "diffusion",
+        "generative"
+      ]
+    },
+    {
+      "title": "Graphify-Labs / graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store. [514 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "Claude",
+        "Gemini",
+        "vector"
+      ]
+    },
+    {
+      "title": "Benchmarking AI Agents for Hardware Design Automation via MCP Tool Calling",
+      "url": "https://arxiv.org/abs/2608.26199",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 28 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.26199v1 Announce Type: new \nAbstract: We ask whether AI agents powered by locally deployed large language models can reliably automate expert-defined hardware design workflows in an industry-realistic tool-calling setting. In these environments, engineers issue repetitive, dependency-ordered operations---such as creating components, adding ports, and wiring connections---through specialised tools. Confidentiality constraints on component specifications and naming conventions often pre",
+      "score": 7.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "workflow",
+        "automation",
+        "language model"
+      ]
+    },
+    {
+      "title": "The Artificial Experimentalist: Discovery and Control of Self-Organizing Phenomena with Autotelic Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2608.26116",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 28 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.26116v1 Announce Type: new \nAbstract: Existing methods for exploring cellular automata and other complex systems mostly operate in open loop: they set initial conditions, execute a full simulation, and observe the outcome, without intervening during execution. We introduce a closed-loop framework based on autotelic reinforcement learning, in which an agent autonomously samples diverse goals and learns a goal-conditioned policy to intervene in a complex system through minimal, local pe",
+      "score": 6.0,
+      "keywords_matched": [
+        "agent",
+        "simulation",
+        "autonomous"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-08-29\n\n好的，疯狂发明家！你的技术雷达已启动，准备捕获那些能点燃你项目灵感的火花。\n\n我已为你筛选出 4 条最有潜力的内容，它们不仅新颖、怪异，而且充满了实践与发明的可能性。\n\n---\n\n## SKILL.state: Scalable Long-Horizon Agent Skills\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2608.26263\n- 一句话解释：一个全新的代理运行时，旨在解决 LLM 代理在执行复杂、长期任务时上下文过长导致的问题，通过结构化技能而非无限增长的对话历史来管理任务。\n- 它为什么重要：这是对当前 LLM Agent 架构的根本性优化。传统 Agent 在处理长任务时，上下文窗口会无限膨胀，导致性能下降、成本增加，甚至“遗忘”和“混乱”。SKILL.state 提出用模块化的“技能”来管理，这让 Agent 具备了更强大的“记忆”和“规划”能力，是 Agent 走向真正自主的关键一步。\n- 技术趋势标签：Agent Workflow, LLM Toolchain, Spec-driven Development, Automation, Scalability\n- 可复用模式：\n    1. **模块化技能设计**：将复杂任务分解为可独立执行、可复用的子技能。\n    2. **外部状态管理**：Agent 不再依赖单一的聊天历史来存储所有信息，而是将状态外部化、结构化。\n    3. **长周期任务管理**：通过明确的技能调用和状态转移，支持 Agent 执行跨越长时间、多步骤的任务。\n- 疯狂发明家灵感：\n  1. **一个小实验**：构建一个简单的“食谱执行 Agent”。定义“切菜”、“烹饪”、“调味”等技能，Agent 不通过长对话而是通过调用这些技能和更新一个外部的“食材状态”来完成一道菜。\n  2. **一个中型项目**：开发一个“Minecraft 世界建造 Agent”。Agent 拥有“挖掘”、“放置方块”、“建造结构”等技能，并能根据用户输入的蓝图（Spec）和当前世界状态，自主规划并执行建造任务。它的“记忆”是世界的状态和已完成的子任务。\n  3. **一个艺术/游戏/叙事方向**：一个“动态叙事生成器”。Agent 扮演故事创作者，拥有“人物塑造”、“情节推进”、“场景描述”等技能。它根据故事大纲（Spec）和当前故事状态，自主调用技能，生成连贯、长篇的叙事。每次技能调用只处理当前小节，而不会让整个故事上下文爆炸。\n- 对我项目的启发：我在 Agent 和世界生成方面的工作可以借鉴这种“技能”和“外部状态”分离的思想。Agent 不必总是“思考”所有细节，而是可以调用预定义的、经过验证的“构建原语”或“生成算法”，只关注更高层次的规划。这能提高效率和可控性，也更适合 Spec-driven 的开发模式。\n- 今天是否值得深入研究：是\n- 建议行动：做demo\n\n---\n\n## RegulAR: Graph-Grounded Error Recognition and Assistance for Procedural Tasks in AR\n- 来源：arXiv cs.HC\n- 链接：https://arxiv.org/abs/2608.26715\n- 一句话解释：一个基于 AR 的任务助手，它通过将任务指令建模为分层依赖图，并在任务执行过程中识别错误并提供恢复指导，而不仅仅是提供一步步的指令。\n- 它为什么重要：这不仅仅是 AR，更是对“人机协作”和“智能辅助”的深刻理解。它从被动提供指令，转向主动识别错误并引导用户纠正。这种“图谱化任务”和“错误恢复”的模式，对于任何涉及复杂流程、需要用户操作的系统都具有巨大价值，尤其是在 HCI 领域。\n- 技术趋势标签：HCI, Automation, Procedural Systems, Spec-driven Development, Agent Workflow (辅助型Agent)\n- 可复用模式：\n    1. **任务图谱化**：将复杂任务分解为带有依赖关系和状态的节点（步骤），形成一个可遍历、可追踪的图。\n    2. **实时状态感知与对比**：通过传感器（AR）实时获取用户操作状态，与预设的任务图谱进行对比，识别偏差。\n    3. **智能错误诊断与恢复路径**：不只是发现错误，还能根据图谱提供多条可能的纠正路径，引导用户。\n- 疯狂发明家灵感：\n  1. **一个小实验**：构建一个简单的“数字食谱助手”。用户根据屏幕提示做饭，系统（可以是简单的网页应用）通过摄像头识别用户操作（例如，切菜动作、倒水），当用户步骤错误时，系统能指引用户回到正确的路径。\n  2. **一个中型项目**：一个“创意编程学习伴侣”。用户在 IDE 中编写 Creative Coding 代码，系统（一个插件或 Web 应用）理解代码的“预期行为”和“当前行为”，当用户代码出现逻辑错误或未达到预期效果时，系统能根据预设的“学习路径图谱”提供调试建议或下一步提示。\n  3. **一个艺术/游戏/叙事方向**：一个“互动装置调试工具”。一个艺术装置可能涉及复杂的物理连接和软件配置。这个 AR 系统可以指导艺术家和技术人员安装、调试装置。当某个环节出错时（例如，传感器未连接），AR 界面会高亮显示错误部分，并提供修复步骤。在游戏设计中，可以设计一个“故障排除”小游戏，玩家需要修复一个复杂的机器，系统提供图谱化的故障诊断和修复指导。\n- 对我项目的启发：我在 Creative Coding 和生成式系统方面，经常需要用户按照特定流程操作或调试。这个模式可以用来构建更智能的创作工具，帮助用户识别并解决在生成过程中遇到的问题，或者在游戏系统中提供更自然的、情境化的任务指导。Spec-driven Development 也可以用于定义任务图谱。\n- 今天是否值得深入研究：是\n- 建议行动：试用 / 做demo\n\n---\n\n## OmniRoute\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/diegosouzapw/OmniRoute\n- 一句话解释：一个免费的 MIT 许可的 AI 网关，它提供一个统一的 API 端点，连接了 350 多个 AI 提供商和 1200 多个模型（包括 Kimi, Claude, GPT, Gemini 等），支持配额感知自动回退、token 压缩，并兼容多种 AI 辅助编程工具。\n- 它为什么重要：这是 AI 工具链的基建！它解决了多模型、多提供商的管理复杂性，让开发者可以无缝切换和组合不同的 LLM，实现成本优化和高可用性。对于需要尝试多种模型、进行 A/B 测试、或者希望在不同场景下使用最佳模型的发明家来说，这是一个巨大的效率提升。token 压缩功能更是直接降低了成本。\n- 技术趋势标签：LLM Toolchain, Automation, Workflow Optimization, API Gateway, Cost Efficiency\n- 可复用模式：\n    1. **统一 API 抽象**：将不同 AI 服务的 API 统一到一个接口之下。\n    2. **智能路由与回退**：根据模型性能、成本、可用性等策略自动选择最佳模型，并在失败时自动切换。\n    3. **Token 优化**：在不损失语义的前提下压缩输入，减少 LLM 调用的成本。\n- 疯狂发明家灵感：\n  1. **一个小实验**：用 OmniRoute 搭建一个简单的“多模型摘要器”。输入一段文本，让它同时调用 GPT-4o、Claude Opus 和 Kimi 来生成摘要，然后对比它们的输出，并记录 token 消耗。\n  2. **一个中型项目**：构建一个“智能 Agent 决策引擎”。Agent 在执行任务时，可以根据任务类型、复杂度和当前的预算，动态选择使用哪个 LLM 来完成推理或代码生成。例如，简单逻辑用便宜模型，复杂决策用顶级模型。\n  3. **一个艺术/游戏/叙事方向**：一个“多风格文本生成器”。通过 OmniRoute 调用不同 LLM（每个 LLM 可以被 prompt 引导出不同的风格），生成同一叙事片段的不同风格版本，例如“赛博朋克风”、“古典史诗风”、“儿童绘本风”，为叙事系统提供丰富的文本变体。\n- 对我项目的启发：我的 LLM 工具链开发可以大幅受益。我可以更容易地尝试不同模型来优化 Agent 的表现，或者在生成式艺术/叙事中探索多模型的风格融合。同时，token 压缩对降低成本和提高效率至关重要。\n- 今天是否值得深入研究：是\n- 建议行动：试用\n\n---\n\n## The Artificial Experimentalist: Discovery and Control of Self-Organizing Phenomena with Autotelic Reinforcement Learning\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2608.26116\n- 一句话解释：一个基于自成目的强化学习（Autotelic Reinforcement Learning）的闭环框架，让 Agent 能够自主地探索、发现并控制像细胞自动机这类自组织系统的涌现行为。\n- 它为什么重要：这彻底改变了我们与复杂系统（如细胞自动机、世界生成器）交互的方式。以往我们只能设定初始条件、运行模拟、观察结果（开环）。现在，Agent 可以在模拟过程中实时介入，通过强化学习主动引导系统产生特定的、有趣的、甚至从未见过的涌现模式。这对于世界生成、创意编码、生成式艺术等领域是突破性的。\n- 技术趋势标签：Agent, Simulation, Autonomous Systems, Generative Systems, Creative Coding, Game Systems\n- 可复用模式：\n    1. **闭环实验与控制**：Agent 不仅观察，还能在模拟过程中施加影响，以达到目标。\n    2. **自成目的探索**：Agent 具有内在的好奇心，自主探索环境，发现新奇的模式和行为。\n    3. **涌现模式的引导与控制**：通过强化学习，Agent 可以学习如何通过微小的干预来引导复杂系统产生宏观的、预期的模式。\n- 疯狂发明家灵感：\n  1. **一个小实验**：用一个简单的细胞自动机（如 Conway's Game of Life），让一个 Agent 通过在特定位置放置或删除细胞，来尝试引导细胞自动机进入某种稳定状态或生成特定的图案。\n  2. **一个中型项目**：一个“互动式世界生成器”。玩家（或另一个 Agent）可以设定世界生成的一些高层级目标（例如，“生成一个拥有山脉、河流和森林的宜居大陆”），然后一个“实验家 Agent”在世界生成过程中，实时调整参数或注入“种子”，引导生成器逐步逼近目标，并探索不同的地形组合。\n  3. **一个艺术/游戏/叙事方向**：一个“自演化艺术装置”。设计一个基于物理模拟或粒子系统的生成式艺术作品，一个“艺术 Agent”在后台通过 Autotelic RL 不断调整系统的参数或施加微小扰动，让作品持续演化出有趣、动态的视觉或听觉模式，甚至可以根据观众的反馈（通过传感器）进行调整。在游戏中，可以设计一个“动态挑战生成器”，Agent 根据玩家的表现，实时调整游戏世界的规则或事件，以保持游戏的趣味性和挑战性。\n- 对我项目的启发：我在 Minecraft/世界生成和生成式系统方面的工作可以引入这种“主动控制涌现”的模式。Agent 不再只是被动地运行生成算法，而是可以成为一个“演化者”，在生成过程中实时干预，探索参数空间，引导生成出更符合设计意图或更具艺术性的结果。这对于 Spec-driven 生成和 Agent 驱动的创意过程至关重要。\n- 今天是否值得深入研究：是\n- 建议行动：做demo\n\n---\n\n## 今日模式总结\n\n1.  **模块化与外部化状态管理（Agent 架构进化）**：多个项目（特别是 SKILL.state）都在强调将 Agent 的核心逻辑（技能）与状态管理（上下文、记忆）解耦，并将其外部化、结构化。这解决了长周期任务的上下文爆炸问题，提升了 Agent 的可伸缩性、鲁棒性和可控性。\n2.  **闭环反馈与智能干预（从被动到主动）**：RegulAR 和 The Artificial Experimentalist 都展现了系统从被动提供信息/执行任务，转向主动感知环境、诊断问题，并在运行时进行干预和引导的能力。这使得系统能够更好地适应复杂、动态的环境，并实现更深层次的自动化和人机协作。\n3.  **多模型/多服务抽象与优化（LLM 工具链基建）**：OmniRoute 代表了 LLM 工具链发展的方向，即如何高效、灵活地集成和管理多种 LLM 服务。统一 API、智能路由和成本优化（如 token 压缩）是未来 LLM 应用开发不可或缺的基础设施。\n\n## 今日可做小实验\n\n**项目名**：技能型 Agent 迷你厨房\n\n**输入**：\n一段简单的 JSON 格式食谱，例如：\n```json\n{\n  \"dish_name\": \"炒鸡蛋\",\n  \"steps\": [\n    {\"action\": \"打蛋\", \"ingredients\": [\"鸡蛋\"], \"tools\": [\"碗\", \"筷子\"]},\n    {\"action\": \"加入调料\", \"ingredients\": [\"盐\", \"油\"], \"tools\": [\"碗\"]},\n    {\"action\": \"热锅\", \"tools\": [\"锅\", \"灶台\"]},\n    {\"action\": \"倒蛋液\", \"ingredients\": [\"蛋液\"], \"tools\": [\"锅\"]},\n    {\"action\": \"翻炒\", \"tools\": [\"铲子\"]},\n    {\"action\": \"出锅\", \"tools\": [\"盘子\"]}\n  ]\n}\n```\n\n**输出**：\nAgent 执行食谱的“日志”输出，清晰地显示每一步调用的“技能”名称、使用的“工具/食材”以及“当前状态”的更新。\n\n**技术栈**：\n- Python (或其他你熟悉的语言)\n- 简单的字典/JSON 作为“食谱”和“世界状态”\n- 几个函数模拟“技能”\n\n**第一步怎么做**：\n1.  **定义“世界状态”**：创建一个 Python 字典 `world_state = {\"ingredients\": {}, \"tools\": {}, \"status\": \"idle\"}`，用来模拟厨房里的物品和 Agent 的当前状态。\n2.  **定义几个“技能函数”**：\n    *   `skill_beat_egg(ingredients, tools)`：模拟打蛋，更新 `world_state`，例如：`world_state[\"ingredients\"][\"蛋液\"] = True`。\n    *   `skill_heat_pan(tools)`：模拟热锅，更新 `world_state`，例如：`world_state[\"tools\"][\"锅\"][\"heated\"] = True`。\n    *   `skill_cook(ingredients, tools)`：模拟烹饪，更新 `world_state`。\n3.  **编写一个简单的 Agent 执行器**：\n    *   接收食谱 JSON。\n    *   遍历食谱中的 `steps`。\n    *   根据 `step[\"action\"]` 调用对应的“技能函数”，并将 `step[\"ingredients\"]` 和 `step[\"tools\"]` 作为参数传入。\n    *   每次调用后，打印日志，显示当前执行的技能和 `world_state` 的变化。\n    *   你可以加入一些简单的条件判断，例如，如果 `skill_cook` 被调用但锅还没热，就打印一个错误信息。\n\n这个小实验将让你亲身体验到“技能化”和“外部状态管理”如何让 Agent 的逻辑更清晰、更易于管理，为你的 Agent 项目打下坚实基础。祝你玩得开心！",
+  "gemini_success": true,
+  "telegram_sent": true,
+  "telegram_status": "sent",
+  "telegram_reason": ""
+}
