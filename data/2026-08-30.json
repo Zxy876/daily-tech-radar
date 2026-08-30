@@ -1,0 +1,290 @@
+{
+  "date": "2026-08-30",
+  "candidates": [
+    {
+      "title": "SKILL.state: Scalable Long-Horizon Agent Skills",
+      "url": "https://arxiv.org/abs/2608.26263",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 29 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.26263v1 Announce Type: new \nAbstract: Large Language Models (LLMs) increasingly act as autonomous agents executing complex, long-running procedural skills. Existing agent runtimes maintain execution by continually appending observations, actions, and intermediate reasoning traces to an ever-growing conversation history, causing latency degradation and context-poisoning failures over long horizons. We present SKILL.state, a runtime architecture that replaces append-only conversational ",
+      "score": 14.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "autonomous",
+        "reasoning",
+        "procedural"
+      ]
+    },
+    {
+      "title": "Osmantic / ODS",
+      "url": "https://github.com/Osmantic/ODS",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation. [35 stars today]",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "workflow",
+        "RAG",
+        "inference"
+      ]
+    },
+    {
+      "title": "Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset",
+      "url": "https://arxiv.org/abs/2608.26109",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 29 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.26109v1 Announce Type: new \nAbstract: Machine-learning models can predict ICU mortality accurately, but feature-attribution methods alone rarely provide the clinical narrative needed for bedside use. Large language models (LLMs) may bridge this gap, and multi-step agentic pipelines are a plausible extension because they separate data interpretation, guideline checking, and final explanation. This revised feasibility study preserves the original standalone-versus-agentic comparison whi",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "narrative"
+      ]
+    },
+    {
+      "title": "CIFQA: A Deterministic Tool-Grounded Multi-Agent LLM Framework for Financial Query Answering",
+      "url": "https://arxiv.org/abs/2608.26114",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 29 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.26114v1 Announce Type: new \nAbstract: Calculation-intensive financial question answering requires exact reasoning over structured rates, temporal conditions, numerical formulas, and rule-based constraints. Although Large Language Models (LLMs) perform strongly on natural language tasks, they often produce numerically incorrect yet plausible answers when solving multi-step financial calculations. To address this limitation, we introduce CIFQA (Calculation-Intensive Financial Query Answ",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "LLMs for Academic Workflows: An Evaluation of Literature Reviews Generated with Short and Long Context Windows of LLMs",
+      "url": "https://arxiv.org/abs/2608.26145",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 29 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.26145v1 Announce Type: new \nAbstract: Our research focuses on evaluating literature reviews generated in short and long context settings of large language models (LLMs) to investigate the impact of context window on the quality of AI-generated literature reviews and the role of AI in supporting literature review writing. Twenty AI-generated literature reviews based on research sources from Semantic Scholar and Arxiv were evaluated by two researchers across 15 dimensions. Our findings ",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "workflow",
+        "language model",
+        "context window"
+      ]
+    },
+    {
+      "title": "AffectOmni: RL-Verifiable People-Centric Grounded Affective Reasoning for Social and Art-Related Scenes",
+      "url": "https://arxiv.org/abs/2608.26193",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 29 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.26193v1 Announce Type: new \nAbstract: Multimodal large language models (MLLMs) achieve strong performance on VQA and scene understanding, yet affective reasoning remains vulnerable to shortcut behavior. Models may predict correct answers while neglecting people-centric cues such as micro expressions and body language, which weakens traceability and external verification. Prior reinforcement learning approaches mainly reward context or logical coherence without explicitly enforcing att",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "multimodal",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Leveraging Large Language Models for Systematic Literature Review of Disease Spread Models",
+      "url": "https://arxiv.org/abs/2608.26150",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 29 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.26150v1 Announce Type: new \nAbstract: Recent advancements in Large Language Models (LLMs) have created new opportunities to streamline and potentially automate many research processes, including systematic literature reviews (SLRs). This study reports an LLM pipeline development for extracting model-relevant information from 536 peer-reviewed agent-based modeling papers. We compare the results with those of a human-conducted SLR. Our results show paper-level accuracies of approximatel",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "language model",
+        "RAG"
+      ]
+    },
+    {
+      "title": "Why did My Robot Just Change Personality? Prompting Guidelines for a Grounded Robot Persona in LLM-Based HRI",
+      "url": "https://arxiv.org/abs/2608.26182",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 29 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.26182v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly used for verbal interaction in social robots, yet prompt design in human-robot interaction (HRI) remains underspecified. As a result, robots may present hallucinated capabilities, unclear behavioural boundaries, and misleading personas. This paper develops a framework for prompt design in LLM-based robots and introduces a structured prompt template comprising eight functional components through which r",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "prompt"
+      ]
+    },
+    {
+      "title": "mksglu / context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. [26 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "context window",
+        "memory"
+      ]
+    },
+    {
+      "title": "Benchmarking AI Agents for Hardware Design Automation via MCP Tool Calling",
+      "url": "https://arxiv.org/abs/2608.26199",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 29 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.26199v1 Announce Type: new \nAbstract: We ask whether AI agents powered by locally deployed large language models can reliably automate expert-defined hardware design workflows in an industry-realistic tool-calling setting. In these environments, engineers issue repetitive, dependency-ordered operations---such as creating components, adding ports, and wiring connections---through specialised tools. Confidentiality constraints on component specifications and naming conventions often pre",
+      "score": 7.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "workflow",
+        "automation",
+        "language model"
+      ]
+    },
+    {
+      "title": "The Artificial Experimentalist: Discovery and Control of Self-Organizing Phenomena with Autotelic Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2608.26116",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 29 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.26116v1 Announce Type: new \nAbstract: Existing methods for exploring cellular automata and other complex systems mostly operate in open loop: they set initial conditions, execute a full simulation, and observe the outcome, without intervening during execution. We introduce a closed-loop framework based on autotelic reinforcement learning, in which an agent autonomously samples diverse goals and learns a goal-conditioned policy to intervene in a complex system through minimal, local pe",
+      "score": 6.0,
+      "keywords_matched": [
+        "agent",
+        "simulation",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "EEG-to-Report: An Annotation and Feature-Text Framework for Training Language Models on Clinical EEG",
+      "url": "https://arxiv.org/abs/2608.26153",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 29 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.26153v1 Announce Type: new \nAbstract: Clinical electroencephalography (EEG) reporting remains largely manual and time-consuming, and current EEG software ecosystems do not produce the structured EEG-text supervision needed for training modern language models. Most toolboxes focus on visualization or preprocessing, providing limited support for workflows that generate high-quality datasets for AI. We introduce EEG-to-Report, a browser-based annotation and feature-text framework that li",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "workflow",
+        "language model"
+      ]
+    },
+    {
+      "title": "A Safety-Gated Multimodal AI Backend for Mental-Health Support: Hierarchical State Representation, Conservative Risk Fusion, and Controlled Generation in Anian",
+      "url": "https://arxiv.org/abs/2608.26162",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 29 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.26162v1 Announce Type: new \nAbstract: Safety-critical mental-health support systems must distinguish when supportive conversation is appropriate from when free-form generation should be blocked. This paper presents Anian, a safety-gated multimodal AI backend for perinatal mental-health support and mindfulness-intervention routing. Anian is not intended to diagnose psychiatric conditions or replace clinical care or crisis intervention. Its modular pipeline places generative AI downstre",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "multimodal",
+        "generative"
+      ]
+    },
+    {
+      "title": "A Task-Centric Ontology and Deterministic Domain Rules as a Verifiable Core for AI-Assisted Chemistry Problem Solving",
+      "url": "https://arxiv.org/abs/2608.26164",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 29 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.26164v1 Announce Type: new \nAbstract: Large language models can interpret natural-language chemistry questions, but their internal reasoning is difficult to inspect, constrain, and validate. This paper presents ChemOntoRule, a proof-of-concept symbolic core for AI-assisted school-level chemistry problem solving. The central design choice is task-centric ontology engineering: the ontology is constructed around the concepts, properties, relations, and executable procedures required by a",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "GameWAM: A World Action Model for Video Games",
+      "url": "https://arxiv.org/abs/2608.26200",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 29 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.26200v1 Announce Type: new \nAbstract: Modern video games combine first-person perception, rapid visual changes, persistent world state, and heterogeneous native controls. Existing game agents map visual and task context directly to actions but lack explicit world dynamics modeling, whereas interactive game world models predict visual futures from supplied actions but do not serve as task policies. World-Action Models (WAMs) unify these objectives, but remain largely unexplored under t",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "game"
+      ]
+    },
+    {
+      "title": "Agent Mesh: Reliability Primitives for Non-Idempotent Agent Delegation - Identity Adequacy and Evidence Adequacy",
+      "url": "https://arxiv.org/abs/2608.26225",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 29 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.26225v1 Announce Type: new \nAbstract: Autonomous agents increasingly perform bounded software tasks under an orchestrator that retries, resumes, and budgets them. The machinery such orchestrators reach for is the service mesh's: retry, timeout, and error-rate circuit breaking. We report a failure study of a production agentic software-delivery platform over 147 numbered incidents spanning 81 runs, each with a measured cost and, in most cases, a mutation proof reproducing the failure. ",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "LLM Agents for Time-Series: A Survey",
+      "url": "https://arxiv.org/abs/2608.26226",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 29 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.26226v1 Announce Type: new \nAbstract: LLM-based agents are increasingly being developed for time-series problems, but their design choices vary substantially across task settings. This survey adopts a problem-driven taxonomy that organizes these systems by the time-series problems they address rather than by isolated technical components. We group existing systems into four categories: forecasting and reasoning, augmentation and synthesis, anomaly detection and diagnosis, and decision",
+      "score": 6.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Assessing mentalization in humans and large language models",
+      "url": "https://arxiv.org/abs/2608.26291",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 29 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.26291v1 Announce Type: new \nAbstract: Mentalization - the ability to infer others' beliefs and intentions to guide one's own choices - is a key cognitive function underlying human social interactions. Large language models (LLMs) demonstrate behaviour consistent with humans on theory-of-mind tasks, yet whether these models can guide adaptive behaviour through mentalization is unknown. Here we use two economic games with cognitive computational modeling to uncover the latent strategies",
+      "score": 6.0,
+      "keywords_matched": [
+        "LLM",
+        "game",
+        "language model"
+      ]
+    },
+    {
+      "title": "Approved Too Late: Verdict Staleness in LLM-Guarded Self-Adaptive Systems",
+      "url": "https://arxiv.org/abs/2608.26306",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 29 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.26306v1 Announce Type: new \nAbstract: A large language model (LLM) guardrail for a self-adaptive system (SAS) may issue an approval that is correct at check time but stale by actuation. This creates an Execute-stage time-of-check to time-of-use (TOCTOU) hazard. We study verdict freshness: whether a guardrail verdict remains valid when used. We distinguish three quantities that answer different questions: all-candidate verdict change under fixed-action replay, oracle-labeled approval e",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model"
+      ]
+    },
+    {
+      "title": "FaithSieve: Fine-Grained Evaluation of Math Proofs with Faithful Formal Evidence",
+      "url": "https://arxiv.org/abs/2608.26310",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 29 Aug 2026 00:00:00 -0400",
+      "description": "arXiv:2608.26310v1 Announce Type: new \nAbstract: Large language models can now generate complex, multi-step mathematical proofs, but reliably determining their correctness and localizing early logical errors remains a critical challenge. Existing evaluation approaches largely depend on model-based natural-language judgments, which often overlook local reasoning gaps. While formal theorem provers like Lean offer a path to rigorous verification, using them to evaluate informal text requires solvin",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "language model",
+        "reasoning"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-08-30\n\n好的，疯狂发明家！我已启动技术雷达，为你筛选出最有趣、最具潜力的技术洞察。这次的候选内容非常精彩，我为你挑选了 5 条，它们都具有“疯狂但可做”的基因，并且能激发你的跨学科创造力。\n\n---\n\n## [SKILL.state: Scalable Long-Horizon Agent Skills]\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2608.26263\n- 一句话解释：解决长时序 Agent 在执行复杂任务时，因对话历史过长导致效率下降和错误的问题，提出了一种新的状态管理和技能执行方式。\n- 它为什么重要：Agent 的“记忆”和“执行效率”是其走向大规模应用的关键瓶颈。这个研究直接触及了 Agent 的核心能力，为构建更强大、更持久的 Agent 提供了理论基础。\n- 技术趋势标签：AI, Agent, LLM, Reasoning, Procedural Skills, Agent Workflow\n- 可复用模式：长时序任务状态管理，技能分解与组合，Agent 记忆优化。\n- 疯狂发明家灵感：\n    1. 一个小实验：构建一个简单的 Agent，让它尝试完成一个需要多步才能成功的在线小游戏（如经典的“找钥匙开门”），并在 Agent 的状态管理中记录关键事件和行动，观察其在长回合中的表现。\n    2. 一个中型项目：开发一个“Agent 技能编辑器”，允许用户像搭积木一样组合和定义 Agent 的原子技能，并为每个技能设计独立的“状态”和“执行逻辑”，然后测试其完成复杂指令的能力。\n    3. 一个艺术/游戏/叙事方向：创建一个“AI 叙事生成器”，Agent 能够根据预设的“情绪状态”和“目标”，通过一系列技能（如“观察环境”、“与 NPC 互动”、“做出选择”）来动态生成一个具有连贯性的故事线。\n- 对我项目的启发：如何设计一个更健壮的 Agent 框架，使其能够处理更复杂的、跨越长时间的任务，并且在执行过程中保持高效。\n- 今天是否值得深入研究：是\n- 建议行动：收藏 / 做demo\n\n---\n\n## [Osmantic / ODS: Turn your PC, Mac, or Linux box into an AI server]\n- 来源：GitHub Trending Python\n- 链接：https://github.com/Osmantic/ODS\n- 一句话解释：一个开源项目，可以将你的本地计算机变成一个功能强大的 AI 服务器，支持 LLM 推理、聊天 UI、语音、Agents、工作流、RAG 和图像生成。\n- 它为什么重要：降低了本地运行和实验各种 AI 模型（特别是 LLM 和 Agent）的门槛，让你可以在自己的硬件上自由探索，不受云服务商的限制，也更容易进行私有数据的 RAG。\n- 技术趋势标签：AI, Agent, LLM, Workflow, RAG, Local Inference, Creative Tool\n- 可复用模式：本地 AI 服务基础设施，多模态 AI 应用集成，私有数据 RAG。\n- 疯狂发明家灵感：\n    1. 一个小实验：安装 ODS，尝试用它连接你自己的本地 LLM（如 Llama.cpp 导出的模型），然后尝试用它来驱动一个简单的聊天机器人，实现基本的问答。\n    2. 一个中型项目：将 ODS 集成到你的创意工具链中。例如，创建一个“AI 灵感生成器”，让 ODS 负责调用 LLM 生成文本、图像（如果支持），然后你的 CS/Art 代码可以消费这些生成内容，进行进一步的艺术化处理。\n    3. 一个艺术/游戏/叙事方向：构建一个“交互式 AI 剧本助手”。ODS 负责生成剧情分支、角色对话、场景描述。你可以用你的 creative coding skill 来可视化这些内容，或者用 Agent 来模拟 NPC 的行为，让剧本“活”起来。\n- 对我项目的启发：快速搭建本地 AI 服务，为我的创意项目提供强大的后端支持，特别是对于需要本地数据处理（RAG）和私密性要求的项目。\n- 今天是否值得深入研究：是\n- 建议行动：试用 / 做demo\n\n---\n\n## [CIFQA: A Deterministic Tool-Grounded Multi-Agent LLM Framework for Financial Query Answering]\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2608.26114\n- 一句话解释：一个基于多 Agent 和工具调用的框架，专门用于解决金融领域需要精确计算和规则判断的问答任务，克服了 LLM 在数值计算方面的不足。\n- 它为什么重要：展示了如何通过结构化工具调用和 Agent 协作来增强 LLM 的“精确性”和“可验证性”，尤其是在对准确性要求极高的领域。这对于构建可信赖的 AI 系统非常有价值。\n- 技术趋势标签：AI, Agent, LLM, Reasoning, Tool-Grounded, Deterministic AI, Spec-Driven Development\n- 可复用模式：Agent 协作进行复杂计算，工具调用与 LLM 结合，领域知识嵌入（通过工具）。\n- 疯狂发明家灵感：\n    1. 一个小实验：模仿该框架，选择一个非金融但需要精确计算的领域（如简单的物理模拟或数学问题），设计两个 Agent：一个负责解析问题，另一个负责调用一个计算工具（如 Python 的 `eval` 或 `sympy`），最终输出答案。\n    2. 一个中型项目：开发一个“AI 游戏规则检查器”。让 Agent 理解游戏规则（可以用 Spec-Driven 的方式定义），然后能够解析玩家的操作，判断是否违反规则，并提供解释。这需要 Agent 调用“规则引擎”工具。\n    3. 一个艺术/游戏/叙事方向：构建一个“动态叙事生成器”，Agent 能够根据玩家的“资源”和“状态”（Spec-Driven 定义），调用“资源管理工具”和“事件触发工具”，生成有逻辑且符合设定的故事。\n- 对我项目的启发：如何将 Spec-Driven Development 的思想与 Agent 和工具调用结合，为我的创意项目构建一个“可信赖”的智能核心，尤其是在涉及计算和逻辑的场景。\n- 今天是否值得深入研究：是\n- 建议行动：收藏 / 做demo\n\n---\n\n## [Why did My Robot Just Change Personality? Prompting Guidelines for a Grounded Robot Persona in LLM-Based HRI]\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2608.26182\n- 一句话解释：针对基于 LLM 的人机交互（HRI）中的机器人，提出了一套提示（Prompt）设计指南，以确保机器人拥有稳定、可信且符合预期的“人格”和行为边界。\n- 它为什么重要：LLM 驱动的机器人很容易出现“人格分裂”或行为不稳定，这严重影响了用户体验和信任度。这篇论文提供了一种系统化的方法来控制机器人的“个性”，对于构建更自然的交互式系统至关重要。\n- 技术趋势标签：AI, LLM, Prompt Engineering, HCI, Agent Persona, Creative Tool\n- 可复用模式：Persona Prompting，行为边界定义，LLM 输出的稳定性控制。\n- 疯狂发明家灵感：\n    1. 一个小实验：选择一个简单的聊天机器人（可以用 ODS 搭建），尝试用不同的 Prompt 来定义它的“性格”（例如：一个愤世嫉俗的诗人，一个充满好奇心的孩子）。观察同一个问题在不同 Prompt 下的回答差异。\n    2. 一个中型项目：开发一个“AI 角色生成器”。用户可以输入一些关键词或背景信息，然后通过精心设计的 Prompt，生成一个具有独特“人格”和“行为模式”的 LLM Agent，这个 Agent 可以用于游戏 NPC、虚拟助手或故事角色。\n    3. 一个艺术/游戏/叙事方向：创建一个“情感化交互装置”。装置中的 AI 角色会根据用户的情绪（可以通过文字输入或未来的语音/图像分析）和预设的“Persona Prompt”，调整其对话风格和反应，创造出更具共情力的互动体验。\n- 对我项目的启发：如何通过精细的 Prompt Engineering 来为我的 AI 项目（无论是 Agent、游戏 NPC 还是生成式叙事）赋予独特的、稳定的“个性”，使其更具吸引力和可信度。\n- 今天是否值得深入研究：是\n- 建议行动：收藏 / 做demo\n\n---\n\n## [mksglu / context-mode: Context window optimization for AI coding agents.]\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/mksglu/context-mode\n- 一句话解释：一个旨在优化 AI 编码 Agent 上下文窗口的工具，通过沙盒化工具输出、持久化会话记忆和跨平台路由来减少上下文占用。\n- 它为什么重要：LLM 的上下文窗口大小是限制其处理复杂信息和长序列的关键因素。对于编码 Agent 来说，如何有效地管理代码、文档和工具输出的上下文信息，直接影响其效率和能力。\n- 技术趋势标签：AI, Agent, Context Window Optimization, LLM Tooling, Memory Management, Automation\n- 可复用模式：上下文压缩，会话记忆管理，Agent 工具调用路由。\n- 疯狂发明家灵感：\n    1. 一个小实验：在你现有的 Agent 项目中，集成 `context-mode` 的思想，尝试记录 Agent 在执行某个复杂编码任务（如重构一个函数）时的关键中间状态和工具调用结果，然后测试如何压缩这些信息而不影响最终结果。\n    2. 一个中型项目：开发一个“AI 创意代码助手”。它能够接收你的创意想法（用自然语言描述），然后利用 `context-mode` 的技术来管理代码片段、API 文档和生成的中间代码，帮助你迭代和优化你的 creative coding 项目。\n    3. 一个艺术/游戏/叙事方向：构建一个“AI 游戏关卡编辑器辅助工具”。Agent 能够理解你对关卡设计的需求（例如，“我想要一个有陷阱和宝藏的迷宫”），并调用游戏引擎的 API 来生成或修改关卡。`context-mode` 可以帮助 Agent 管理大量关卡元素和设计历史，确保生成过程的连贯性。\n- 对我项目的启发：如何让我的 Agent 在处理大量代码、艺术资源或游戏资产时，更有效地管理和利用有限的上下文信息，从而提高其效率和能力。\n- 今天是否值得深入研究：是\n- 建议行动：收藏 / 试用\n\n---\n\n## 今日模式总结\n今天涌现出几个非常有趣的模式：\n1.  **Agent 的“长时序能力”与“可控个性”**：SKILL.state 关注 Agent 如何处理长时间任务，而“Why did My Robot Just Change Personality?”则关注如何赋予 Agent 稳定可控的个性。这两者结合，预示着更强大、更易于交互的 Agent 将成为主流。\n2.  **LLM 的“精确性”与“工具化”**：CIFQA 展示了如何通过工具调用和 Agent 协作来克服 LLM 在精确计算上的短板。这表明未来的 LLM 应用将不再是单纯的文本生成，而是与外部工具和服务深度集成。\n3.  **本地化与效率优化**：Osmantic / ODS 提供了本地化 AI 服务的基础设施，而 `context-mode` 则关注如何优化 Agent 的上下文管理效率。这预示着 AI 开发和应用将更加灵活、低成本，并且更易于定制。\n\n## 今日可做小实验\n**项目名**：\"AI 情绪调色板\"\n\n**输入**：\n1.  一段简短的文字描述（例如：“我今天感到很沮丧，因为项目进展不顺。”）\n2.  一个预设的“Persona Prompt”模板，定义了 AI 角色的基本性格（例如：一个总是尝试用积极视角看待问题的 AI 伙伴）。\n\n**输出**：\n一段由 AI 生成的、带有特定“人格”的回应，并且回应的“情绪基调”会根据输入文字和 Persona Prompt 进行调整，并最终映射到一种颜色。\n\n**技术栈**：\n*   Python\n*   LLM (可以使用 ODS 提供的本地 LLM 接口，或者 OpenAI/Anthropic API)\n*   (可选) Gradio/Streamlit 用于简单的 UI\n\n**第一步怎么做**：\n1.  **安装 ODS (Osmantic / ODS)**：按照其 GitHub 页面说明进行安装，并配置一个本地 LLM（如果可能）。\n2.  **定义 Persona Prompt**：创建一个包含角色设定、对话风格和行为准则的 Prompt 模板。例如：\n    ```\n    你是一个 AI 伙伴，名叫 'Sunny'。你的主要目标是鼓励用户，并帮助他们从积极的角度看待问题。你说话友好、乐观，但不过分夸张。\n    当用户说：\"{user_input}\"\n    请用 Sunny 的语气回应，并尝试找到积极的一面。\n    ```\n3.  **编写 Python 脚本**：\n    *   接收用户输入的文字。\n    *   将用户输入和 Persona Prompt 结合，形成最终的 LLM Prompt。\n    *   调用 LLM（通过 ODS 或 API）生成回应。\n    *   **（进阶）** 尝试分析 LLM 生成的回应，提取其“情绪强度”或“积极度”评分（可以使用另一个简单的 LLM 调用或关键词匹配）。\n    *   **（进阶）** 根据情绪评分，将回应映射到一个颜色值（例如：非常积极 -> 亮黄色，中性 -> 白色，略带沮丧 -> 淡蓝色）。\n    *   打印出 AI 的回应和对应的颜色。\n\n这个实验结合了 LLM 的对话能力，Persona Prompting 的思想，以及一点点“情绪到颜色”的映射，非常适合在 2 小时内快速验证。",
+  "gemini_success": true,
+  "telegram_sent": false,
+  "telegram_status": "failed",
+  "telegram_reason": "400 Client Error: Bad Request for url: https://api.telegram.org/bot8650722899:AAHUD-aqNDB7NwiPiGq3R22MVp77Cr_5GEQ/sendMessage"
+}
