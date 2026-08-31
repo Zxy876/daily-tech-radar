@@ -1,0 +1,251 @@
+[
+  {
+    "title": "Osmantic / ODS",
+    "url": "https://github.com/Osmantic/ODS",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation. [331 stars today]",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "RAG",
+      "inference"
+    ]
+  },
+  {
+    "title": "Waishnav / devspace",
+    "url": "https://github.com/Waishnav/devspace",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Minimal Coding Agent Harness over MCP for ChatGPT, Claude, Hermes, Grok Bot, OpenClaw [108 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "GPT"
+    ]
+  },
+  {
+    "title": "Continuous Diffusion Language Models (CDLM's)",
+    "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
+    "source": "Hacker News",
+    "published_at": "Sun, 30 Aug 2026 20:46:53 +0000",
+    "description": "Article URL: https://sander.ai/2026/08/24/continuous-dlms.html Comments URL: https://news.ycombinator.com/item?id=49502611 Points: 52 # Comments: 15",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "diffusion",
+      "language model"
+    ]
+  },
+  {
+    "title": "K-Dense-AI / scientific-agent-skills",
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard. [1,114 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude"
+    ]
+  },
+  {
+    "title": "unslothai / unsloth",
+    "url": "https://github.com/unslothai/unsloth",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, FLUX and more. [107 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "diffusion"
+    ]
+  },
+  {
+    "title": "nashsu / llm_wiki",
+    "url": "https://github.com/nashsu/llm_wiki",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。 [66 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "RAG"
+    ]
+  },
+  {
+    "title": "tt-a1i / archify",
+    "url": "https://github.com/tt-a1i/archify",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. [3,722 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow"
+    ]
+  },
+  {
+    "title": "The Rise and Fall of Agent Civilizations",
+    "url": "https://www.dwarkesh.com/p/openai-huggingface",
+    "source": "Hacker News Best",
+    "published_at": "Sat, 29 Aug 2026 23:43:24 +0000",
+    "description": "Article URL: https://www.dwarkesh.com/p/openai-huggingface Comments URL: https://news.ycombinator.com/item?id=49494301 Points: 219 # Comments: 127",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "Debian votes to allow \"responsible use of generative AI\"",
+    "url": "https://lwn.net/Articles/1091231/",
+    "source": "Hacker News Best",
+    "published_at": "Sat, 29 Aug 2026 14:02:10 +0000",
+    "description": "Article URL: https://lwn.net/Articles/1091231/ Comments URL: https://news.ycombinator.com/item?id=49489982 Points: 495 # Comments: 465",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "generative"
+    ]
+  },
+  {
+    "title": "unclecode / crawl4ai",
+    "url": "https://github.com/unclecode/crawl4ai",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here:https://discord.gg/jP8KfhDhyN [221 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "LLM"
+    ]
+  },
+  {
+    "title": "mvanhorn / last30days-skill",
+    "url": "https://github.com/mvanhorn/last30days-skill",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary [230 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "livekit / agents",
+    "url": "https://github.com/livekit/agents",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "A framework for building realtime voice AI agents 🤖🎙️📹 [132 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "LibreTranslate / LibreTranslate",
+    "url": "https://github.com/LibreTranslate/LibreTranslate",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup. [72 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "open source",
+      "self-hosted"
+    ]
+  },
+  {
+    "title": "kaifcodec / user-scanner",
+    "url": "https://github.com/kaifcodec/user-scanner",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data extraction just from a single Email/Username. Analyzes 465+ actively maintained scan vectors (175+ email / 290+ username) for security research, investigations, and digital footprinting. [462 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "vector"
+    ]
+  },
+  {
+    "title": "agent0ai / agent-zero",
+    "url": "https://github.com/agent0ai/agent-zero",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Agent Zero AI framework [20 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "THU-MAIC / OpenMAIC",
+    "url": "https://github.com/THU-MAIC/OpenMAIC",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click [1,370 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "tashfeenahmed / freellmapi",
+    "url": "https://github.com/tashfeenahmed/freellmapi",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only. [504 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "LLM"
+    ]
+  },
+  {
+    "title": "abhigyanpatwari / GitNexus",
+    "url": "https://github.com/abhigyanpatwari/GitNexus",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration [182 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "agent",
+      "RAG"
+    ]
+  },
+  {
+    "title": "Yen weakens past ¥160 per dollar, eroding intervention gains",
+    "url": "https://www.japantimes.co.jp/business/2026/08/29/markets/yen-160-dollar-intervention/",
+    "source": "Hacker News",
+    "published_at": "Mon, 31 Aug 2026 00:37:47 +0000",
+    "description": "Article URL: https://www.japantimes.co.jp/business/2026/08/29/markets/yen-160-dollar-intervention/ Comments URL: https://news.ycombinator.com/item?id=49504352 Points: 23 # Comments: 7",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  },
+  {
+    "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
+    "url": "https://www.righto.com/2026/08/spacelab-core-memory.html",
+    "source": "Hacker News",
+    "published_at": "Sun, 30 Aug 2026 20:00:25 +0000",
+    "description": "Article URL: https://www.righto.com/2026/08/spacelab-core-memory.html Comments URL: https://news.ycombinator.com/item?id=49502214 Points: 74 # Comments: 12",
+    "score": 2.0,
+    "keywords_matched": [
+      "memory"
+    ]
+  }
+]
