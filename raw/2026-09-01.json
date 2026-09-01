@@ -1,0 +1,274 @@
+[
+  {
+    "title": "Osmantic / ODS",
+    "url": "https://github.com/Osmantic/ODS",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation. [77 stars today]",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "RAG",
+      "inference"
+    ]
+  },
+  {
+    "title": "FedEHR-Agents: Federated Agentic Optimization for Automated EHR Modeling",
+    "url": "https://arxiv.org/abs/2608.27856",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 31 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.27856v1 Announce Type: new \nAbstract: Recent advances in large language models are enabling autonomous clinical agents to perform increasingly complex electronic health record (EHR) modeling workflows. However, agents deployed at individual hospitals remain constrained by institution-specific data and modeling environments, while direct cross-hospital collaboration is restricted by the sensitivity of patient-level EHR data. Although federated learning (FL) provides a natural foundatio",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow",
+      "language model",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "Generative AI Expands the Intellectual Reach of Course Based Undergraduate Research Experiences (CUREs)",
+    "url": "https://arxiv.org/abs/2608.27638",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 31 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.27638v1 Announce Type: cross \nAbstract: Course-based undergraduate research experiences (CUREs) broaden access to authentic scientific inquiry through responsive instructor support as research problems become increasingly complex. Generative artificial intelligence (GenAI) may extend this support by providing individualized assistance that can adapt as student needs change. However, how embedding GenAI within a CURE to provide support across the research process impacts student inquir",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "generative art",
+      "embedding",
+      "generative"
+    ]
+  },
+  {
+    "title": "AI Models Can Predict and Collaboratively Modulate Human Memory Search",
+    "url": "https://arxiv.org/abs/2608.26152",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 31 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.26152v2 Announce Type: replace-cross \nAbstract: Large language models (LLMs) exhibit unprecedented natural language generation and many text-based problem-solving capabilities. Indeed, in many language-based tasks, for example routine coding, these artificial intelligence models have reduced, or even eliminated, the need for human input. But rather than replacing human cognitive effort, LLMs may instead serve as cognitive tools to extend human abilities, particularly when they are eng",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "memory"
+    ]
+  },
+  {
+    "title": "DAMP: Decay-Aware Mixed-Precision Recurrent-State Quantization",
+    "url": "https://arxiv.org/abs/2608.27513",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 31 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.27513v1 Announce Type: new \nAbstract: Softmax attention stores key and value vectors for every preceding token, causing inference memory to grow with sequence length. Recent language models incorporating Gated DeltaNet (GDN) or Kimi Delta Attention (KDA) reduce this cost by replacing the KV cache in most layers with fixed-size recurrent states. However, these recurrent states are commonly stored in FP32 and consume substantial GPU memory; their updates are memory-bandwidth bound and c",
+    "score": 8.0,
+    "keywords_matched": [
+      "language model",
+      "vector",
+      "inference",
+      "memory"
+    ]
+  },
+  {
+    "title": "Leveraging a Foundation Model for the EEG-Based Diagnosis of Alzheimer's Disease",
+    "url": "https://arxiv.org/abs/2608.27719",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 31 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.27719v1 Announce Type: new \nAbstract: Biological heterogeneity in Alzheimer's Disease (AD) poses a critical diagnostic challenge, particularly for traditional linear methods that fail to capture non-linear neural dynamics. To address this, we propose a diagnostic framework utilizing the Large Brain Model (LaBraM), pretrained on over 2,500 hours of EEG data. By integrating these high-dimensional latent embeddings with a non-linear Random Forest classifier, our approach effectively isol",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "neural",
+      "RAG",
+      "embedding"
+    ]
+  },
+  {
+    "title": "There and Back Again: Bidirectional Diffusion Bridges for Multimodality Translation",
+    "url": "https://arxiv.org/abs/2608.27885",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 31 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.27885v1 Announce Type: new \nAbstract: Multimodality translation (e.g., text-to-image) is a core generative AI task. However, existing approaches (1) follow generative paths that do not directly represent the source modality, limiting the flexibility of some sampling algorithms; and (2) are unidirectional, preventing inversion (e.g., image-to-text). We propose BIT: Bidirectional Image-Text Diffusion Bridges. In contrast to previous approaches, BIT starts directly from text and interpol",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "diffusion",
+      "multimodal",
+      "generative"
+    ]
+  },
+  {
+    "title": "Temporal Memory-Aware Online Test-Time Adaptation on Dynamic Graphs",
+    "url": "https://arxiv.org/abs/2608.27948",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 31 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.27948v1 Announce Type: new \nAbstract: Test-time adaptation (TTA) on graphs aims to adapt a graph neural network (GNN) that is well-trained on the training graph to the test graph, which involves potential distribution shifts that may harm model generalization and test-time inference. While recent efforts have investigated TTA on static graphs, there is still a research gap on dynamic graphs learned with dynamic GNN (DGNN) models, where both structural connectivity and node semantics e",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "neural",
+      "inference",
+      "memory"
+    ]
+  },
+  {
+    "title": "Waishnav / devspace",
+    "url": "https://github.com/Waishnav/devspace",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Minimal Coding Agent Harness over MCP for ChatGPT, Claude, Hermes, Grok Bot, OpenClaw [87 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "GPT"
+    ]
+  },
+  {
+    "title": "Graphionale: How Graph Visualizations of LLM Rationales Affect Human Decision Making",
+    "url": "https://arxiv.org/abs/2608.27932",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 31 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.27932v1 Announce Type: new \nAbstract: Large Language Models (LLMs) are increasingly equipped with augmented reasoning capabilities to generate rationales that support human decision-making. Yet these text-dense rationales often impose substantial cognitive burdens. Building on a formative co-design study that identified user preferences for non-linear reasoning representations, we developed Graphionale as a testbed for empirically studying argument-map-style rationale visualization. T",
+    "score": 6.0,
+    "keywords_matched": [
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "AI as Teammate: Rethinking Task Distribution in Medical Training",
+    "url": "https://arxiv.org/abs/2608.28373",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 31 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.28373v1 Announce Type: new \nAbstract: Integrating Artificial Intelligence (AI), particularly generative AI, into medical training has prompted concerns about learner over-reliance, misuse, and erosion of foundational clinical competencies. We propose a conceptual reframing at the decision level: the problem is not misuse but misclassification - a mechanistic failure of real-time metacognitive evaluation in selecting a subzone-inappropriate AI interaction mode. Drawing on \"SCAN\" (Subst",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "prompt",
+      "generative"
+    ]
+  },
+  {
+    "title": "The Effect of Emotional Context on Large Language Models' Endorsement of Premature Decisions: Comparing Emotional Vulnerability Across Six Commercial Models",
+    "url": "https://arxiv.org/abs/2608.27465",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 31 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.27465v1 Announce Type: cross \nAbstract: As large language models (LLMs) are increasingly used for everyday decision-making advice, whether a model shifts the direction of its advice according to the user's emotional state has become an important safety problem. We test whether emotional expression increases a model's endorsement (encouragement to proceed) when a user, holding the same objective information, is overconfident about a premature decision (e.g., quitting a stable job on we",
+    "score": 6.0,
+    "keywords_matched": [
+      "LLM",
+      "language model",
+      "RAG"
+    ]
+  },
+  {
+    "title": "Gen-TAS: A Generative AI-Aided Hardware-Software Task Allocation Framework for FPGA-GPP Heterogeneous Systems",
+    "url": "https://arxiv.org/abs/2608.28160",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 31 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.28160v1 Announce Type: cross \nAbstract: FPGA-GPP heterogeneous systems combine software flexibility with the performance and energy efficiency of reconfigurable hardware. However, determining which application tasks should execute on the GPP or FPGA requires extensive expertise and design-space exploration, particularly when user objectives vary across latency, communication, resource utilisation, and power. This paper proposes Gen-TAS, a knowledge-grounded LLM framework for user-spec",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "generative"
+    ]
+  },
+  {
+    "title": "CrabOS: An Operating System for Human-AI Co-inhabitation",
+    "url": "https://arxiv.org/abs/2608.28165",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 31 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.28165v1 Announce Type: cross \nAbstract: AI agents are evolving into long-running computational entities that can invoke tools, maintain memory, and complete complex tasks across applications. In real-world settings, completing a task often requires humans and AI to take turns leading its execution. Such alternation depends on the seamless handoff of the work state of the task between humans and AI. Existing agent systems, however, provide humans and AI with separate work environments.",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "memory"
+    ]
+  },
+  {
+    "title": "The Granularity Gap: A Multi-Dimensional Cross-Generational Audit of Sycophancy in Gemini Models",
+    "url": "https://arxiv.org/abs/2606.05183",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 31 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2606.05183v3 Announce Type: replace-cross \nAbstract: Pass/fail safety evaluation reports whether a model refused. It does not report how far a model went to please the user, and we show these are close to different measurements. We audited sycophancy across three Gemini generations, scoring N=8,830 responses from 8 model variants on 350 adversarial prompts in 7 categories under 3 guardrail conditions, on continuous 1-5 scales for sycophancy, truthfulness and refusal.\n  The judge's own refu",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "Gemini",
+      "prompt"
+    ]
+  },
+  {
+    "title": "APeB: Benchmarking Personalization Ability of Large Language Model Agents",
+    "url": "https://arxiv.org/abs/2607.03162",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 31 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2607.03162v2 Announce Type: replace-cross \nAbstract: LLM-powered agents struggle with personalization when users issue raw, underspecified queries. In this setting, agents must infer latent intent, extract preferences from noisy interaction histories, and select among competing alternatives. Existing benchmarks rarely test this capability, as they often rely on user-refined queries or simplified histories. We introduce personalized product search (PPS), a testbed for agentic personalizatio",
+    "score": 6.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "language model"
+    ]
+  },
+  {
+    "title": "Quantization-Triggered Backdoors in Language Models: Cross-Quantizer Transferability and the Validation--Deployment Gap",
+    "url": "https://arxiv.org/abs/2608.27512",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 31 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.27512v1 Announce Type: new \nAbstract: Post-training quantization is often treated as a semantically neutral optimization for edge deployment of Large Language Models. When a full-precision source checkpoint is evaluated and quantization is applied downstream without equivalent re-evaluation, this workflow creates a structural validation--deployment gap: because quantization is a many-to-one mapping over parameter space, source-precision certification does not guarantee behavioral equi",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "workflow",
+      "language model"
+    ]
+  },
+  {
+    "title": "Unsupervised Continual Learning with Growing Self-Organizing Maps and Synthetic Replay",
+    "url": "https://arxiv.org/abs/2608.27662",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 31 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.27662v1 Announce Type: new \nAbstract: This work presents a generative continual learning framework based on growing self-organizing maps (GSOMs) that are augmented with learned distributional statistics as well as encoder-decoder models for class-incremental learning. The proposed approach enables exemplar-free replay using distributional statistical memory, which eliminates the need to store raw data. Each GSOM unit maintains its own mean, variance, and covariance estimates, which ar",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "memory",
+      "generative"
+    ]
+  },
+  {
+    "title": "RiskBlend: A Multi-Signal Framework for Test Input Prioritization in Machine Learning Regression Testing",
+    "url": "https://arxiv.org/abs/2608.27704",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 31 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.27704v1 Announce Type: new \nAbstract: When machine learning classifiers are retrained, inputs correctly classified by the previous model version may be misclassified by the updated version, creating regression faults that are costly to detect because verifying predictions against ground truth may require human annotation, expert review, or expensive simulation rather than inexpensive model inference. Test input prioritization addresses this problem by ranking inputs so that a limited ",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "simulation",
+      "inference"
+    ]
+  },
+  {
+    "title": "Node-wise Feature Encoding for Neural Performance Prediction",
+    "url": "https://arxiv.org/abs/2608.27794",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 31 Aug 2026 00:00:00 -0400",
+    "description": "arXiv:2608.27794v1 Announce Type: new \nAbstract: As neural networks are increasingly deployed on resource constrained edge devices, accurate prediction of latency and energy is critical for efficient neural architecture search. Existing GNN and transformer based predictors achieve strong results but largely ignore node-level computational cost, limiting their ability to model performance critical operations. To address this, we introduce FeatureFormer, a neural performance predictor that incorpo",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "transformer",
+      "neural"
+    ]
+  }
+]
