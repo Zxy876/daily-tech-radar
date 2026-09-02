@@ -1,0 +1,295 @@
+[
+  {
+    "title": "ORDDAR: Observation-Driven Reasoning for Distortion-Resilient Decision, Action, and Cognitive Recovery",
+    "url": "https://arxiv.org/abs/2608.28704",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 01 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2608.28704v1 Announce Type: new \nAbstract: AI agents increasingly perform long-term reasoning, planning, tool use, memory integration, and autonomous decision making, yet erroneous intermediate states can propagate and cause inconsistent decisions and unreliable outputs. Existing reasoning approaches mainly rely on iterative planning, self-reflection, augmented memory, or verification, but rarely localize and selectively repair faulty reasoning. We present ORDDAR (Observation-Driven Reason",
+    "score": 14.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "autonomous",
+      "tool use",
+      "reasoning",
+      "planning",
+      "memory"
+    ]
+  },
+  {
+    "title": "DS-Lighting: Making Agent Harnesses Explicit for Data-Science Automation",
+    "url": "https://arxiv.org/abs/2608.28590",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 01 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2608.28590v1 Announce Type: new \nAbstract: Large Language Model (LLM) agents have shown promise for automating data-science workflows, yet their end-to-end performance depends critically on the agent harness that represents tasks, manages execution state, constrains output artifacts, and provides evaluation feedback. Existing data-science agents often leave this harness implicit, making results difficult to reproduce, compare, and attribute across heterogeneous tasks. We introduce DS-Light",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "automation",
+      "language model"
+    ]
+  },
+  {
+    "title": "Paper Pilot: A Human-in-the-Loop Expert System for Evidence-Traceable Scientific Manuscript Generation in Applied Sciences",
+    "url": "https://arxiv.org/abs/2608.28596",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 01 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2608.28596v1 Announce Type: new \nAbstract: Large language model (LLM) agents are increasingly embedded in scientific workflows for literature analysis, drafting, and review. Existing systems advance autonomous discovery and manuscript generation, but do not resolve the governance problem that arises when ideas, methods, results, and claims propagate through AI-assisted workflows without mandatory human approval or artifact-level traceability. This paper proposes Paper Pilot, a human-in-the",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "language model",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "Development of an Autonomous AI Coding Agent using Monte Carlo Tree Search (MCTS) and Gemini LLM Frameworks",
+    "url": "https://arxiv.org/abs/2608.29096",
+    "source": "arXiv cs.LG",
+    "published_at": "Tue, 01 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2608.29096v1 Announce Type: new \nAbstract: The ongoing changes in software engineering requirements have created a substantial need for automated tools which can create secure source code from natural language input. The performance of traditional Large Language Models (LLMs) becomes limited by their \"one-shot\" capability which results in logical hallucinations together with reduced algorithmic performance during complicated operations. The research presents an autonomous AI Coding Agent w",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "Gemini",
+      "language model",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "Osmantic / ODS",
+    "url": "https://github.com/Osmantic/ODS",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation. [497 stars today]",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "RAG",
+      "inference"
+    ]
+  },
+  {
+    "title": "The Race between Agentic AI Capabilities and Data Quality Control in Online Surveys",
+    "url": "https://arxiv.org/abs/2608.28597",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 01 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2608.28597v1 Announce Type: new \nAbstract: Online surveys are a foundational data collection instrument in a variety of fields, with attention checks serving as critical guardians of response quality. However, the rapid emergence of agentic AI (goal directed systems powered by a large language model (LLM) brain and/or a multimodal processing unit with tool-augmented capabilities) raises new questions about the robustness of these safeguards. We investigate how well agentic AI architectures",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "multimodal"
+    ]
+  },
+  {
+    "title": "Pro-Router: Token-Aware Progressive Model Routing with Adaptive Edge-Cloud Collaboration for Efficient Multimodal LLM Inference",
+    "url": "https://arxiv.org/abs/2608.28726",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 01 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2608.28726v1 Announce Type: new \nAbstract: The remarkable performance of multimodal large language models (MLLMs) comes at the cost of substantial computational overhead, posing significant challenges to real-time deployment and cost effectiveness. Existing model routing approaches either decide from coarse request-level features alone or spend one or several extra language model passes to inspect the generated response, leaving the token-level uncertainty signals that emerge during genera",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "multimodal",
+      "inference"
+    ]
+  },
+  {
+    "title": "langgenius / dify",
+    "url": "https://github.com/langgenius/dify",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. [113 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow",
+      "RAG",
+      "self-hosted"
+    ]
+  },
+  {
+    "title": "SHAPE of Chain-of-Thought in Math Reasoning",
+    "url": "https://arxiv.org/abs/2608.28600",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 01 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2608.28600v1 Announce Type: new \nAbstract: Large language models (LLMs) achieve strong performance on mathematical reasoning benchmarks, yet the mathematically meaningful skills underlying their reasoning remain underexplored. We introduce \\texttt{SHAPE}, a framework that analyzes Chain-of-Thought (CoT) trajectories through two lenses developed in mathematics education: (1) semantic spaces: the model's evolving mathematical interpretations of a problem (e.g., algebraic, geometric), and (2)",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Leveraging Generative AI to Design Accessible Interactive Visualizations for Undergraduate Mathematics: A Six-Phase Workflow",
+    "url": "https://arxiv.org/abs/2608.28601",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 01 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2608.28601v1 Announce Type: new \nAbstract: Interactive visualizations support conceptual understanding in undergraduate mathematics, but building them has required programming expertise most instructors lack. Using a design-based research approach, we develop, deploy, and evaluate a six-phase workflow (Foundation, Customization, Mathematical Depth, Application, Accessibility, Pedagogical Control) that uses generative AI to build WCAG~2.2 Level~AA compliant visualizations without programmin",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "workflow",
+      "RAG",
+      "generative"
+    ]
+  },
+  {
+    "title": "InternReviewer & InternAdvocate: Objective Reward and Evaluation for Agentic Reinforcement Learning in Peer Review and Rebuttal",
+    "url": "https://arxiv.org/abs/2608.28612",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 01 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2608.28612v1 Announce Type: new \nAbstract: Generating professional scholarly content, such as peer reviews and rebuttals, requires an intricate synergy between domain reasoning and factual grounding. This work presents a comprehensive framework for the development and evaluation of specialized scholarly agents, InternReviewer and InternAdvocate. We first establish a large-scale, high-quality scholarly dataset and integrate a high-efficiency arXiv retrieval tool to enable active evidence ga",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "reasoning",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "BiasMix-Finance: Post-Generation KYC Guardrails for LLM Portfolio Advice",
+    "url": "https://arxiv.org/abs/2608.28646",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 01 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2608.28646v1 Announce Type: new \nAbstract: Large language models (LLMs) can generate plausible-sounding ETF portfolios while silently violating basic KYC-style constraints on risk, fees, and diversification. This is especially problematic in agentic multi-turn advisory systems, where each draft recommendation can become an action unless guarded by an auditable enforcement layer. We study a model-agnostic, asset-agnostic post-generation guardrail pipeline: (i) enforce a strict JSON allocati",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model"
+    ]
+  },
+  {
+    "title": "PermitGPT: A Unified Generative-AI Pipeline for Construction Hazard Forecasting, Permit Prediction, and Community Impact",
+    "url": "https://arxiv.org/abs/2608.28728",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 01 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2608.28728v1 Announce Type: new \nAbstract: Urban construction governance requires early decisions that connect workplace safety, permitting requirements, and community impact, yet the relevant evidence is often scattered across separate municipal and regulatory data sources. This paper presents PermitGPT, a unified generative artificial intelligence framework for converting unstructured construction permit descriptions into structured decision-support outputs across three domains: safety h",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "generative art",
+      "GPT",
+      "generative"
+    ]
+  },
+  {
+    "title": "SemKV: Semantic Mixed-Precision KV Cache Quantization Guided by the Quality Cliff for Long-Context LLM Inference",
+    "url": "https://arxiv.org/abs/2608.28911",
+    "source": "arXiv cs.LG",
+    "published_at": "Tue, 01 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2608.28911v1 Announce Type: new \nAbstract: The key-value (KV) cache is the dominant memory bottleneck of long-context large language model (LLM) inference, growing linearly with context length. We show that uniform KV quantization on a fractional-bit grid does not degrade gracefully: under a prespecified multi-seed statistical protocol, Llama-3.1-8B-Instruct with an affine quantizer is statistically indistinguishable from FP16 KV down to 2.322 code bits/value and collapses at 2.0 bits - a ",
+    "score": 8.0,
+    "keywords_matched": [
+      "LLM",
+      "language model",
+      "inference",
+      "memory"
+    ]
+  },
+  {
+    "title": "Context-Aware Interpretable Representations for Retrieval and Graph Convolutional Network Classification",
+    "url": "https://arxiv.org/abs/2608.29004",
+    "source": "arXiv cs.LG",
+    "published_at": "Tue, 01 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2608.29004v1 Announce Type: new \nAbstract: The advances in visual information modeling and representation during the last decades are remarkable, mainly supported by Convolutional Neural Networks, Transformer-based, and Foundation Models. Despite this progress, critical challenges regarding the nature of similarity assessment and model transparency have been neglected. A primary concern is the Geometric Gap, where traditional pairwise measures fail to capture the intrinsic geometry of the ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "transformer",
+      "neural",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "HalluPrism: When Multimodal Uncertainty Should Diagnose, Not Decide",
+    "url": "https://arxiv.org/abs/2608.29193",
+    "source": "arXiv cs.LG",
+    "published_at": "Tue, 01 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2608.29193v1 Announce Type: new \nAbstract: Multimodal Large Language Models (MLLMs) can assign similar confidence to answers that fail for different reasons. We propose HalluPrism, a behavioral diagnostic that re-runs an answer after visual degradation, blank-image replacement, and grounding or relation checks. These targeted probes yield a signature over visual-perturbation sensitivity (V ), image-removal confidence retention (L), and grounding/relation-probe instability (A). Across 58K+ ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "multimodal"
+    ]
+  },
+  {
+    "title": "anthropics / claude-code",
+    "url": "https://github.com/anthropics/claude-code",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. [130 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "workflow"
+    ]
+  },
+  {
+    "title": "NVIDIA / SkillSpector",
+    "url": "https://github.com/NVIDIA/SkillSpector",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them. [113 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "prompt"
+    ]
+  },
+  {
+    "title": "VectifyAI / PageIndex",
+    "url": "https://github.com/VectifyAI/PageIndex",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG [23 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "RAG",
+      "vector",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
+    "url": "https://mvakde.github.io/blog/44-on-arc-1/",
+    "source": "Hacker News Best",
+    "published_at": "Tue, 01 Sep 2026 09:52:45 +0000",
+    "description": "Article URL: https://mvakde.github.io/blog/44-on-arc-1/ Comments URL: https://news.ycombinator.com/item?id=49519939 Points: 560 # Comments: 149",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "transformer"
+    ]
+  }
+]
