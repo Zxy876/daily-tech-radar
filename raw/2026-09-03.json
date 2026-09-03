@@ -1,0 +1,298 @@
+[
+  {
+    "title": "RestoreBench: Can AI Agents Restore Power Flow Convergence?",
+    "url": "https://arxiv.org/abs/2609.00384",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 02 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.00384v1 Announce Type: new \nAbstract: Large Language Model (LLM) agents increasingly automate multi-step engineering workflows through tool use, interpretation of intermediate results, and iterative planning. Diagnosing and resolving non-convergent power flow cases is a promising yet largely unexplored application, as it requires engineering judgment, experimentation, and decision-making within constrained action spaces. We introduce a benchmark that evaluates these capabilities acros",
+    "score": 14.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "language model",
+      "tool use",
+      "planning"
+    ]
+  },
+  {
+    "title": "ruvnet / ruflo",
+    "url": "https://github.com/ruvnet/ruflo",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated [128 stars today]",
+    "score": 14.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "workflow",
+      "autonomous",
+      "RAG",
+      "memory"
+    ]
+  },
+  {
+    "title": "Learning What to Retain: Gated-Memory Routing for Efficient Collaboration in Multi-Agent LLM Systems",
+    "url": "https://arxiv.org/abs/2609.00237",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 02 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.00237v1 Announce Type: new \nAbstract: Large language model (LLM)-based multi-agent systems tackle complex reasoning by orchestrating how multiple agents are configured and how they collaborate. A central challenge is to adapt orchestration to the evolving collaboration state. Routing from the query alone cannot adapt to intermediate progress or errors, which hurts accuracy. Routing from the complete execution history supplies this missing context, but forces later decisions to process",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "reasoning",
+      "memory"
+    ]
+  },
+  {
+    "title": "Dr. Claw: An AI Scientist Workspace for Vibe Research",
+    "url": "https://arxiv.org/abs/2609.00365",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 02 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.00365v1 Announce Type: new \nAbstract: Command-line coding agents (e.g., Claude Code, Gemini CLI) can already read and write files and sustain long sessions, yet end-to-end research still fragments across chat tools, IDEs, terminals, and writing environments, and the decisions that make it auditable are rarely preserved. We present Dr. Claw, an open-source workspace that wraps existing coding-agent executors in a controllable and auditable human-in-the-loop workflow rather than introdu",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "Gemini",
+      "workflow",
+      "RAG"
+    ]
+  },
+  {
+    "title": "Investigating Assistant Bias in LLM User Simulators Using a Role Vector",
+    "url": "https://arxiv.org/abs/2609.00608",
+    "source": "arXiv cs.HC",
+    "published_at": "Wed, 02 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.00608v1 Announce Type: cross \nAbstract: LLM-based user simulators are increasingly used to evaluate autonomous agents at scale, in place of costly human evaluations. Despite this promise, these simulators exhibit \"assistant bias,\" a tendency to cooperate and pursue task goals. They rarely reproduce the frustration or disengagement that real users exhibit, compromising evaluation validity. Prior work outlines that this bias is baked in during model training, which role-playing prompts ",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "autonomous",
+      "vector",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Can LLMs Use Relational Transformer Embeddings?",
+    "url": "https://arxiv.org/abs/2609.00457",
+    "source": "arXiv cs.LG",
+    "published_at": "Wed, 02 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.00457v1 Announce Type: new \nAbstract: Injecting frozen relational-encoder embeddings as soft tokens into a large language model (LLM) is a conceptually appealing fusion strategy: the encoder handles multi-table structure, the LLM handles language and reasoning, and no lossy text serialization is required. We test this hypothesis concretely by injecting embeddings from a frozen Relational Transformer (RT) into Qwen3.5-4B via a learned MLP projection and LoRA adaptation, trained first w",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "transformer",
+      "language model",
+      "embedding",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "UI-Venus-2 Technical Report",
+    "url": "https://arxiv.org/abs/2609.00028",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 02 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.00028v1 Announce Type: new \nAbstract: Multimodal GUI agents have emerged as a promising paradigm for digital task automation, yet transitioning from benchmark-oriented models to dependable real-world applications remains challenging due to limited environment coverage, brittle task construction, and unreliable reward verification. In this work, we present UI-Venus-2, a general-purpose foundation GUI agent designed to operate across mobile, web, and desktop environments through a unifi",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "automation",
+      "multimodal",
+      "RAG"
+    ]
+  },
+  {
+    "title": "Generative artificial intelligence for reliable mechanistic reasoning for corrosion",
+    "url": "https://arxiv.org/abs/2609.00099",
+    "source": "arXiv cs.LG",
+    "published_at": "Wed, 02 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.00099v1 Announce Type: new \nAbstract: Corrosion accounts for approximately 4% of global GDP, and reliable prediction is essential for timely mitigation. Machine learning effectively predicts corrosion rates from composition, microstructure, and environmental variables, but cannot explain the underlying mechanisms. A reliable approach in safety-critical materials engineering requires not only accurate retrieval but also mechanistically defensible reasoning, a capability that existing f",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "generative art",
+      "reasoning",
+      "retrieval",
+      "generative"
+    ]
+  },
+  {
+    "title": "Long-Horizon State Tracking in LLMs: Executing MD5 through a Deep Sequence of Dependent Tool Calls",
+    "url": "https://arxiv.org/abs/2609.00012",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 02 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.00012v1 Announce Type: new \nAbstract: Long-horizon tasks remain uncommon in large language model (LLM) evaluation, and for a reason: when each step depends on the last, per-step accuracy that looks excellent in isolation decays catastrophically, as errors cascade and the end-to-end failure probability grows sharply with length. Existing agentic benchmarks report end-to-end success but confound this state-tracking difficulty with instruction interpretation, give no control group that i",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model"
+    ]
+  },
+  {
+    "title": "OpenAgentFlow: Enabling System-Wide Safety Boundaries for Heterogeneous AI Agent Fleets",
+    "url": "https://arxiv.org/abs/2609.00015",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 02 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.00015v1 Announce Type: new \nAbstract: AI agents powered by large language models are evolving from isolated assistants into heterogeneous systems in which multiple agents, planners, controllers, and execution backends operate over the same user or enterprise environment. In such settings, safety becomes a system-level action-governance problem: deciding whether concrete agent-generated actions should be committed before they modify shared state. Existing safeguards cover prompts, tool",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "language model",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Deploying and Evaluating a Smart-Agriculture Agentic Engine for Full-Season Soybean Farm Operations",
+    "url": "https://arxiv.org/abs/2609.00106",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 02 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.00106v1 Announce Type: new \nAbstract: This paper presents FAIRY, a full-stack smart-agriculture agent system developed for and deployed to an operating soybean research farm at Harbin Institute of Technology's smart-agriculture site. We develop FAIRY to execute and evaluate agentic agronomic operations on full-season spatiotemporal workflows that span ridge preparation, planting, irrigation, fertilization, pest and disease treatment, harvest, grain handling, drying, and storage. FAIRY",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow",
+      "RAG"
+    ]
+  },
+  {
+    "title": "Invalidation Contracts for Cross-Episode Agent Memory",
+    "url": "https://arxiv.org/abs/2609.00243",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 02 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.00243v1 Announce Type: new \nAbstract: LLM agents that cache recovery suggestions from API errors can skip re-derivation in later episodes, spending fewer tokens and fewer model calls on constraints they have already learned. Server-side data drift turns those cached fixes into silent failures, and the usual remedy, re-deriving on every episode, gives the savings back. We introduce invalidation contracts, a protocol layer that attaches version stamps and cacheability hints to every rec",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "memory"
+    ]
+  },
+  {
+    "title": "Dependency-Aware Chain-of-Thought Compression for Financial Reasoning",
+    "url": "https://arxiv.org/abs/2609.00413",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 02 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.00413v1 Announce Type: new \nAbstract: Chain of thought prompting improves complex reasoning, but its long intermediate traces create substantial inference cost and hinder practical deployment in financial settings. We present a Hierarchical Semantic Distillation Network, HSDN, for compressing reasoning chains while preserving answer accuracy and logical coherence. The framework combines semantic segmentation, dependency graph construction, dual encoder importance scoring, constrained ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "inference",
+      "prompt",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "SAGE: State-Grounded, Abstention-Aware Evaluation of Task-Oriented Dialogue Agents",
+    "url": "https://arxiv.org/abs/2609.00434",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 02 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.00434v1 Announce Type: new \nAbstract: Evaluating task-oriented dialogue agents requires judging not merely whether a reply reads well but whether each turn advances the underlying workflow state correctly--a distinction conventional holistic LLM judges can miss because they evaluate the available context as a single unit and require one or more full-model calls per turn. We propose SAGE (State-Grounded Abstention-Aware Evaluation), which compiles a workflow specification and per-turn ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow"
+    ]
+  },
+  {
+    "title": "RecalibrateGPT: AI Fatigue Resilient Conversational Interfaces",
+    "url": "https://arxiv.org/abs/2609.00506",
+    "source": "arXiv cs.HC",
+    "published_at": "Wed, 02 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.00506v1 Announce Type: new \nAbstract: Large language models are powerful, but their interfaces often devolve into a type $\\rightarrow$ read $\\rightarrow$ retype loop, creating conversational AI fatigue, cognitive load, and eventual task abandonment. To mitigate this, we present RecalibrateGPT, a system introducing five cross-turn operators (Anchor, Replay, Delta, Scope, and Steer) that each target a distinct fatigue type, recalibrating LLM responses through a structured panel by actin",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "GPT",
+      "language model"
+    ]
+  },
+  {
+    "title": "Are We There Yet? Assessing Computer-Use Agents for Blind Users' Accessible Interaction with Desktop Applications",
+    "url": "https://arxiv.org/abs/2609.00524",
+    "source": "arXiv cs.HC",
+    "published_at": "Wed, 02 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.00524v1 Announce Type: new \nAbstract: Computer-use agents are emerging as a paradigm for agentic human-AI interaction, combining language reasoning with multi-modal interface grounding to operate GUIs. Yet their effectiveness for blind screen-reader users in real-world desktop workflows remains unclear. We present a three-week diary study with 8 blind users using OLLA, a screen-reader-accessible CUA prototype, collecting 1,258 commands across 12 applications with screenshots, UI trees",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Disclosure-Gated User Simulation for Companion-Agent Evaluation",
+    "url": "https://arxiv.org/abs/2609.00982",
+    "source": "arXiv cs.HC",
+    "published_at": "Wed, 02 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.00982v1 Announce Type: cross \nAbstract: Using a large language model to play the user is now standard in scalable evaluation. It has a repeatedly diagnosed failure: the simulated user is excessively cooperative, so a system under test can score by the sheer number of questions it asks rather than by making the user willing to speak. We answer with a disclosure gate conditioning information release on the companion agent's behaviour: its state is a ladder of five ordered gates, merged ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "simulation",
+      "language model"
+    ]
+  },
+  {
+    "title": "Generativism: Toward a Learning Theory for the Age of Generative Artificial Intelligence",
+    "url": "https://arxiv.org/abs/2606.12441",
+    "source": "arXiv cs.HC",
+    "published_at": "Wed, 02 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2606.12441v2 Announce Type: replace-cross \nAbstract: The four dominant learning theories of behaviorism, cognitivism, constructivism, and connectivism show significant conceptual limitations as generative artificial intelligence (AI) proliferates in educational settings. These frameworks were formulated before the emergence of AI systems capable of generating, synthesizing, and reasoning about knowledge. This article critically examines each learning theory and identifies assumptions chall",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "generative art",
+      "reasoning",
+      "generative"
+    ]
+  },
+  {
+    "title": "Faster Than Flash: Exploiting Attention Sparsity for Efficient Long-Context Decoding",
+    "url": "https://arxiv.org/abs/2609.00097",
+    "source": "arXiv cs.LG",
+    "published_at": "Wed, 02 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.00097v1 Announce Type: new \nAbstract: The development of long-context Large Language Models (LLMs) is constrained by the memory bandwidth bottleneck and quadratic complexity of the attention mechanism during decoding. To overcome the inherent trade-offs between the memory overhead of metadata-based metrics and the computational inefficiency of adaptive selection strategies, we present Faster Flash Decoding (FFD), a novel hardware-algorithm co-design framework designed to break the mem",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "memory"
+    ]
+  },
+  {
+    "title": "QTEA: Ternary LLMs with Sparse Residual Salient Weight and By-Column Optimization",
+    "url": "https://arxiv.org/abs/2609.00224",
+    "source": "arXiv cs.LG",
+    "published_at": "Wed, 02 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.00224v1 Announce Type: new \nAbstract: Weight-only post-training quantization (PTQ) can alleviate the computational burden of serving large language models (LLMs) at scale. However, existing PTQ methods often fail to generalize across models and suffer severe accuracy loss below 2 bits. Many leverage unstructured sparsity to mitigate this loss, but at the cost of regularity and GPU-friendly execution. We present QTEA, a sub-2-bit PTQ framework that quantizes weights into ternary values",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "RAG"
+    ]
+  }
+]
