@@ -1,0 +1,293 @@
+[
+  {
+    "title": "SimSkill: A Lifelong Learning AI Agent for Autonomous Mastery of Traffic Simulation",
+    "url": "https://arxiv.org/abs/2609.03753",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 04 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.03753v1 Announce Type: new \nAbstract: As large language models (LLMs) become increasingly capable, the long-term value of AI systems depends not only on solving individual requests, but also on transforming experience and accumulated knowledge into durable, reusable competence. We introduce SimSkill, a self-evolving agent built around the Simulation of Urban MObility (SUMO) traffic simulator. SimSkill identifies capability gaps, generates and solves environment-grounded tasks, verifie",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "simulation",
+      "language model",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "A Prompt-Engineering Approach to Develop Scalable, Flexible, and Real-Time Hybrid Micro-Level Personalization in a General Purpose AI Teaching Assistant",
+    "url": "https://arxiv.org/abs/2609.03402",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 04 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.03402v1 Announce Type: new \nAbstract: Artificial intelligence (AI) teaching assistants powered by large language models (LLMs) offer scalable educational support but often provide limited personalization. This study presents a prompt-engineering-based framework for personalizing general-purpose LLM/RAG-based AI teaching assistants such as Jill Watson across academic disciplines and courses. The framework adapts responses using six learner-specific dimensions: self-assessment, abstract",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "RAG",
+      "prompt"
+    ]
+  },
+  {
+    "title": "CulturalMenuBench: Probing the Knowledge-Application Gap in Multimodal Culinary Reasoning",
+    "url": "https://arxiv.org/abs/2609.03526",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 04 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.03526v1 Announce Type: new \nAbstract: Multimodal language models achieve near-ceiling scores on food recognition benchmarks, yet it remains unclear whether this success reflects genuine cultural understanding or mere visual matching. To probe this distinction, we introduce CulturalMenuBench, a benchmark of 4,870 items in 10 languages across 18 regions; its 10 tasks pair final-dish and step-by-step cooking images with ingredients, procedural text, and regional labels, spanning basic re",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "language model",
+      "multimodal",
+      "reasoning",
+      "procedural"
+    ]
+  },
+  {
+    "title": "Semantic Bayesian World Models",
+    "url": "https://arxiv.org/abs/2609.03834",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 04 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.03834v1 Announce Type: new \nAbstract: Knowledge graphs describe reality in crisp assertions, while the systems now consuming them, foundation models and autonomous agents, reason natively in probabilities. We argue that this mismatch is why the integration of language models and knowledge graphs remains a data-feeding pipeline rather than a unified reasoning architecture. We envision Semantic Bayesian World Models (SBWMs): a Web that describes the world not as a database of facts but ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "language model",
+      "autonomous",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Bioinfoysis Technical Report",
+    "url": "https://arxiv.org/abs/2609.03871",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 04 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.03871v1 Announce Type: new \nAbstract: Large language model agents have shown promise in bioinformatics, but most existing systems focus primarily on producing final answers, treating planning, tool use, and code execution as transient interactions. This design is poorly suited to long-horizon bioinformatics tasks, where conclusions must remain connected to the data, computations, and intermediate evidence that support them. We introduce \\textbf{Bioinfoysis}, a multi-agent harness that",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "language model",
+      "tool use",
+      "planning"
+    ]
+  },
+  {
+    "title": "STAIR (STructure Aware Information Retriever): A novel dataset and LLM based retriever for document structure augmentation",
+    "url": "https://arxiv.org/abs/2609.03874",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 04 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.03874v1 Announce Type: new \nAbstract: Retrieval Augmented Generation (RAG) is a key component for generating accurate and hallucination free answers using Large Language Models (LLMs). LLMs are improving at handling long context, but still suffer from \"lost in the middle\" problem. Thus, precise and accurate retrieval is important. Current retrievers chunk long context into length-based manageable chunks - in the process throwing away rich and informative semantic global structure in t",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "RAG",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "OmegaUse-SOP: SOP Engineering for Professional Computer Use from Human Demonstrations",
+    "url": "https://arxiv.org/abs/2609.02149",
+    "source": "arXiv cs.HC",
+    "published_at": "Fri, 04 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.02149v2 Announce Type: replace \nAbstract: Large language models (LLMs) are increasingly evolving from conversational assistants into agents capable of operating external digital environments. Graphical user interface (GUI) agents play an important role in this transition, as many real-world workflows remain accessible only through user-facing software interfaces. However, despite recent progress on general computer-use benchmarks, domain-specific professional standard operating proced",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "language model"
+    ]
+  },
+  {
+    "title": "RecurTrace: Adaptive Latent Reasoning with Loop-Time Memory",
+    "url": "https://arxiv.org/abs/2609.03379",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 04 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.03379v1 Announce Type: new \nAbstract: Repeating a small block of middle layers increases a language model's effective inference depth without adding parameters or generating extra tokens, and recent work shows that this latent recurrence improves reasoning. However, two design choices limit these gains. Each iteration sees only the previous output and cannot directly access earlier computations. Moreover, a fixed loop count wastes depth on easy inputs while leaving hard ones with too ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "language model",
+      "inference",
+      "reasoning",
+      "memory"
+    ]
+  },
+  {
+    "title": "magnitudedev / magnitude",
+    "url": "https://github.com/magnitudedev/magnitude",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline. [391 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "agent",
+      "Claude",
+      "open source",
+      "inference",
+      "local model"
+    ]
+  },
+  {
+    "title": "langgenius / dify",
+    "url": "https://github.com/langgenius/dify",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. [109 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow",
+      "RAG",
+      "self-hosted"
+    ]
+  },
+  {
+    "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+    "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+    "source": "Hacker News Best",
+    "published_at": "Thu, 03 Sep 2026 14:28:18 +0000",
+    "description": "These are my notes from porting my Amiga game, which I originally built in Baghdad in 1993 in MC68000 assembly, to Godot, using Claude Fable 5 during last July holiday.  It took an evening! Getting the feel right and shipping it took a few more weekends and evenings. I spent the last few weeks analyzing what Claude did, feeding it my 33 years of memory of how I built the game, my notes and the git repos. It wrote the first draft of the article, and I edited line by line over a week. The screensh",
+    "score": 8.0,
+    "keywords_matched": [
+      "LLM",
+      "Claude",
+      "game",
+      "memory"
+    ]
+  },
+  {
+    "title": "Fresh Memory, Stale Plans: Dependency-Scoped Validation for Distributed LLM-Agent Memory",
+    "url": "https://arxiv.org/abs/2609.03340",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 04 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.03340v1 Announce Type: new \nAbstract: Distributed LLM-agent teams can read the latest shared facts and still act on an obsolete plan. A planner may derive an action from requirement $r_3$, another agent may commit $r_4$, and an executor may receive $r_4$ without replacing the plan derived from $r_3$. We call this \\emph{stale-plan execution}: state freshness does not establish that the plan authorizing an action remains valid. We introduce PlanFence, a dependency-scoped action-validati",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "memory"
+    ]
+  },
+  {
+    "title": "NeoRed: A Knowledge-Logic-Alignment Multimodal Large Language Model for Neonatal Respiratory Disease Diagnosis",
+    "url": "https://arxiv.org/abs/2609.03527",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 04 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.03527v1 Announce Type: new \nAbstract: Neonatal respiratory diseases are a major cause of neonatal morbidity and mortality, posing substantial challenges in clinical practice. Despite recent advances, existing Multimodal Large Language Models (MLLMs) face two key limitations in neonatal diagnosis: (1) domain gap arising from predominantly adult training data; (2) insufficient integration of multidimensional clinical context for accurate diagnosis. To address these challenges, we collec",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "multimodal"
+    ]
+  },
+  {
+    "title": "Analysis of Prompt Engineering for Drug Toxicity Prediction",
+    "url": "https://arxiv.org/abs/2609.03635",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 04 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.03635v1 Announce Type: new \nAbstract: Clinical trials in the UK can cost up to {\\pounds}1.3 million, with approximately 90% drug failure rate. Toxicity is a major contributing factor in drug failure. Testing is time and cost intensive. In recent years, the use of artificial intelligence has been increasingly explored to aid in the prediction of drug toxicity, with extensive use of large language models (LLMs). However, LLMs can show considerable variation when minor changes are made t",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Synthetic Semantic Supervision for Contrastive Code Representation Learning in Small Transformers: An Empirical Study",
+    "url": "https://arxiv.org/abs/2609.03702",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 04 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.03702v1 Announce Type: new \nAbstract: General-purpose code embeddings power tools for code search, classification, and retrieval. Compact transformer encoders for code typically rely on either human-written docstrings (labor-intensive and inconsistent) or mined structural signals such as execution traces (setting-specific and costly to collect). We empirically study an alternative: contrastive pretraining of small encoders with synthetically generated natural-language descriptions emp",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "transformer",
+      "embedding",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "PlanePivoting: Exploration and Optimization of Gaze-Mouse Cursor Alignment for Spatial Object Translation",
+    "url": "https://arxiv.org/abs/2609.03665",
+    "source": "arXiv cs.HC",
+    "published_at": "Fri, 04 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.03665v1 Announce Type: new \nAbstract: As XR matures into a ubiquitous computing platform, the disconnect between 2D and 3D input modalities remains a critical barrier to seamless workflow. Frequent transitions between the mouse for 2D precision and hand gestures for 3D manipulation induce significant physical fatigue and cognitive load. To address this, we introduce PlanePivoting, a multimodal interaction technique that extends standard mouse input into 3D space by leveraging gaze-mou",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "workflow",
+      "multimodal",
+      "RAG"
+    ]
+  },
+  {
+    "title": "Discovering High Level Patterns from Simulation Traces",
+    "url": "https://arxiv.org/abs/2602.10009",
+    "source": "arXiv cs.HC",
+    "published_at": "Fri, 04 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2602.10009v3 Announce Type: replace-cross \nAbstract: Large Language Models (LLMs) are unable to reliably reason about specific physical systems. Attempts to imbue LLMs with knowledge of the necessary physics concepts have shown great promise, but explainability and validation remain open challenges. An emerging alternative is tooling, where LLMs can query physical simulators and use the resulting simulation traces as context for validation. This approach suffers from poor scalability since",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "simulation",
+      "language model"
+    ]
+  },
+  {
+    "title": "The Geometry of Ignorance: LLMs Know When to Temper Bayesian Priors",
+    "url": "https://arxiv.org/abs/2609.02959",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 04 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.02959v1 Announce Type: new \nAbstract: What does a language model predict when it has few clues? The answer lurks in its unembedding geometry: a single direction of the unembedding matrix encodes the unigram distribution of the training corpus, which serves as the Bayesian prior the model falls back on when uncertain. This structure --- which we term the \\emph{direction of ignorance} --- appears in all four model families examined (\\texttt{Llama}, \\texttt{Qwen}, \\texttt{Gemma}, and \\te",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "embedding"
+    ]
+  },
+  {
+    "title": "Tail-Likelihood Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2609.02987",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 04 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.02987v1 Announce Type: new \nAbstract: Reinforcement learning typically optimizes average reward. For generative policies, the average can hide an important distinction: two policies can achieve the same mean reward while having very different chances of producing a rare but high-reward rollout. This matters as sampling increases during training and inference, since its benefit depends on retaining probability mass on high-reward outcomes. We propose to optimize this coverage directly.",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "RAG",
+      "inference",
+      "generative"
+    ]
+  },
+  {
+    "title": "LeanStream: A Speculate-and-Refine Streaming Framework for Efficient on-Device LLM Inference",
+    "url": "https://arxiv.org/abs/2609.03079",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 04 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.03079v1 Announce Type: new \nAbstract: On-device LLM inference is attractive for privacy and responsiveness, but remains challenging on mobile and embedded devices because model weights far exceed available DRAM. Prior systems exploit activation sparsity and offload weights to SSD or flash storage, but face a fundamental systems trade-off: accurate sparse execution decisions require the latest context, whereas efficient computation-I/O overlap requires early prediction. As a result, ex",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "RAG",
+      "inference"
+    ]
+  }
+]
