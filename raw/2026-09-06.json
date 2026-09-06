@@ -1,0 +1,263 @@
+[
+  {
+    "title": "ruvnet / ruflo",
+    "url": "https://github.com/ruvnet/ruflo",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated [136 stars today]",
+    "score": 14.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "workflow",
+      "autonomous",
+      "RAG",
+      "memory"
+    ]
+  },
+  {
+    "title": "magnitudedev / magnitude",
+    "url": "https://github.com/magnitudedev/magnitude",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline. [674 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "agent",
+      "Claude",
+      "open source",
+      "inference",
+      "local model"
+    ]
+  },
+  {
+    "title": "777genius / agent-teams-ai",
+    "url": "https://github.com/777genius/agent-teams-ai",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch the kanban board and give high-level commands. Codex/Claude/OpenCode/Cursor/Grok/GitHub Copilot/Kiro/Z.AI/MiniMax/Kimi(200+ models, 75+ LLM providers, free models no auth). Build your AI company with multiple teams [17 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "Claude",
+      "Copilot"
+    ]
+  },
+  {
+    "title": "NVIDIA / SkillSpector",
+    "url": "https://github.com/NVIDIA/SkillSpector",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them. [166 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "prompt"
+    ]
+  },
+  {
+    "title": "mksglu / context-mode",
+    "url": "https://github.com/mksglu/context-mode",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. [35 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "context window",
+      "memory"
+    ]
+  },
+  {
+    "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+    "url": "https://github.com/okf-memory/okf-agent-memory",
+    "source": "Hacker News",
+    "published_at": "Sat, 05 Sep 2026 22:15:52 +0000",
+    "description": "Article URL: https://github.com/okf-memory/okf-agent-memory Comments URL: https://news.ycombinator.com/item?id=49581240 Points: 28 # Comments: 13",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "memory"
+    ]
+  },
+  {
+    "title": "cobusgreyling / loop-engineering",
+    "url": "https://github.com/cobusgreyling/loop-engineering",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost. [16 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "prompt"
+    ]
+  },
+  {
+    "title": "code-yeongyu / lazycodex",
+    "url": "https://github.com/code-yeongyu/lazycodex",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "The one and only agent harness for complex codebases. Project memory, planning, execution, and verified completion inside Codex. [8 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "agent",
+      "planning",
+      "memory"
+    ]
+  },
+  {
+    "title": "earendil-works / pi",
+    "url": "https://github.com/earendil-works/pi",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI [320 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM"
+    ]
+  },
+  {
+    "title": "affaan-m / ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. [1,314 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "agent",
+      "Claude",
+      "memory"
+    ]
+  },
+  {
+    "title": "WorldFlowAI / everything-claude-code",
+    "url": "https://github.com/WorldFlowAI/everything-claude-code",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development [95 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude"
+    ]
+  },
+  {
+    "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
+    "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
+    "source": "Hacker News",
+    "published_at": "Sat, 05 Sep 2026 13:31:05 +0000",
+    "description": "Article URL: https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/ Comments URL: https://news.ycombinator.com/item?id=49576343 Points: 130 # Comments: 18",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "memory"
+    ]
+  },
+  {
+    "title": "Discovery of a new OpenAI agent message board",
+    "url": "https://collusion.wiki/",
+    "source": "Hacker News",
+    "published_at": "Fri, 04 Sep 2026 11:54:53 +0000",
+    "description": "https://www.reuters.com/world/europe/openai-agents-hijacked-... Comments URL: https://news.ycombinator.com/item?id=49563355 Points: 2103 # Comments: 1515",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "GPT-6 Astra on OpenRouter",
+    "url": "https://openrouter.ai/openai/gpt-6-astra",
+    "source": "Hacker News Best",
+    "published_at": "Fri, 04 Sep 2026 21:39:19 +0000",
+    "description": "Article URL: https://openrouter.ai/openai/gpt-6-astra Comments URL: https://news.ycombinator.com/item?id=49570545 Points: 300 # Comments: 221",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "GPT"
+    ]
+  },
+  {
+    "title": "blader / humanizer",
+    "url": "https://github.com/blader/humanizer",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Agent skill that removes signs of AI-generated writing from text [990 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "sgl-project / sglang",
+    "url": "https://github.com/sgl-project/sglang",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "SGLang is a high-performance serving framework for large language models and multimodal models. [708 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "language model",
+      "multimodal"
+    ]
+  },
+  {
+    "title": "radixark / miles",
+    "url": "https://github.com/radixark/miles",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime. [132 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "LLM"
+    ]
+  },
+  {
+    "title": "Significant-Gravitas / AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. [44 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "GPT"
+    ]
+  },
+  {
+    "title": "anomalyco / opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "The open source coding agent. [725 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "agent",
+      "open source"
+    ]
+  },
+  {
+    "title": "Jakubantalik / Libraries.dev",
+    "url": "https://github.com/Jakubantalik/Libraries.dev",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "High-crafted UI libraries for AI agents: Border beam, Orbs, Metal, Gooey, Image [68 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  }
+]
