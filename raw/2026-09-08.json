@@ -1,0 +1,297 @@
+[
+  {
+    "title": "From Matching Models to Recruiting Agents: A Systematized Narrative Review of AI Recruitment Systems, Evaluation, and Governance",
+    "url": "https://arxiv.org/abs/2609.04286",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 07 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.04286v1 Announce Type: new \nAbstract: Artificial intelligence in recruitment has shifted the object being automated from profile pairs and ranked lists to multi-stage workflows that retrieve evidence, compare candidates, and support or execute actions. This systematized narrative review traces that development from bilateral retrieval and behavioral ranking through neural person--job matching, large language model (LLM) components, and tool-using recruiting agents. Using a purposive s",
+    "score": 16.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "neural",
+      "language model",
+      "retrieval",
+      "narrative"
+    ]
+  },
+  {
+    "title": "Shadow Queries for Private Retrieval in Vector Databases",
+    "url": "https://arxiv.org/abs/2609.04767",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 07 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.04767v1 Announce Type: new \nAbstract: Large language models (LLMs) increasingly rely on information retrieval (IR) systems, such as Retrieval-Augmented Generation (RAG), to incorporate domain-specific knowledge without costly re-training. These systems often store pre-computed document embeddings in cloud-based vector databases. However, such embeddings are vulnerable to embedding inversion attacks (EIAs), which can reconstruct their underlying text. Existing defenses, such as adding ",
+    "score": 14.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "RAG",
+      "embedding",
+      "vector",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "ruvnet / ruflo",
+    "url": "https://github.com/ruvnet/ruflo",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated [394 stars today]",
+    "score": 14.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "workflow",
+      "autonomous",
+      "RAG",
+      "memory"
+    ]
+  },
+  {
+    "title": "ERPBench: Evaluating LLM Agents for Enterprise Decision-Making Across Competitive Market Ecologies",
+    "url": "https://arxiv.org/abs/2609.04667",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 07 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.04667v1 Announce Type: new \nAbstract: Large language model (LLM) agents are increasingly proposed for enterprise workflows, yet existing evaluations rarely test whether business-decision conclusions transfer across competitive market ecologies. We introduce ERPBench, an execution-instrumented benchmark for enterprise decision agents in a six-round Enterprise Resource Planning (ERP) simulation with coupled pricing, production, procurement, inventory, finance, and shared-market competit",
+    "score": 12.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "workflow",
+      "simulation",
+      "language model",
+      "planning"
+    ]
+  },
+  {
+    "title": "DCFA: Dual-view Causal-inspired Attribution for Failure Reasoning in LLM-based Multi-agent Systems",
+    "url": "https://arxiv.org/abs/2609.04749",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 07 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.04749v1 Announce Type: new \nAbstract: Large language model (LLM)-based multi-agent systems have experienced rapid growth in recent years. Despite their promise, such systems remain fragile, frequently exhibiting reasoning and coordination errors that can lead to system-level failures. Failure attribution in such systems relies on tracing natural language interactions among agents to identify the decisive error, which refers to the earliest action whose correction can reverse system fa",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "RAG",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "PLUME: Parameter-Efficient Personalization of Large Language Models via Low-Rank User Modulation in Shared Subspaces",
+    "url": "https://arxiv.org/abs/2609.04715",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 07 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.04715v1 Announce Type: new \nAbstract: Personalizing large language models (LLMs) is essential for delivering AI assistance that aligns with individual users' styles, intents, and preferences. While per-user fine-tuning can substantially enhance personalization quality, it introduces significant parameter and storage overhead, limiting scalability to large user populations. We propose PLUME (Personalized Low-Rank Adaptation through User Modulation and Shared Subspace), a lightweight fr",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "RAG",
+      "fine-tuning"
+    ]
+  },
+  {
+    "title": "Training Large Language Models for Small-Molecule Design with Synthetic Task Scaling",
+    "url": "https://arxiv.org/abs/2609.04735",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 07 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.04735v1 Announce Type: new \nAbstract: Designing viable drug candidates requires searching a combinatorially large and rugged chemical space for molecules that satisfy multiple, often competing, objectives. Large language models (LLMs) provide a useful generative prior for this problem because of their representational capacity, reasoning ability, and flexibility when incorporating information from the external environment. While reinforcement learning from verifiable rewards (RLVR) ca",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "reasoning",
+      "generative"
+    ]
+  },
+  {
+    "title": "A Removal Based Approach to Improve LLM Faithfulness at Test-Time",
+    "url": "https://arxiv.org/abs/2609.04343",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 07 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.04343v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly used for consequential decisions, making their explanations an important tool for auditing model behavior. Unfortunately, these explanations can be unfaithful, failing to reflect the actual reasoning underlying the model's decisions. We consider a setting in which an LLM provides both an answer and an explanation in response to a question. We identify two distinct dimensions of unfaithful explanations:",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Why Better Models Can Create Riskier Systems: Evidence from LLM Agents in Financial Markets",
+    "url": "https://arxiv.org/abs/2609.04373",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 07 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.04373v1 Announce Type: new \nAbstract: Large language models (LLMs) are being deployed at scale in consequential real-world systems, from financial markets to content moderation to hiring. We show that improving individual model capability can degrade rather than improve system-level outcomes. We hypothesize that shared training and architectures can lead more capable LLMs to behave more similarly, creating correlated actions that do not diversify away. We develop a general framework s",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model"
+    ]
+  },
+  {
+    "title": "Corporate Language Model (CLM): Transforming Tacit and Fragmented Enterprise Knowledge into a Sovereign, Auditable, and Executable Corporate Intelligence Layer",
+    "url": "https://arxiv.org/abs/2609.04377",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 07 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.04377v1 Announce Type: new \nAbstract: Enterprise AI deployments fail not from model inadequacy, but because organizations lack a structured substrate encoding how they decide, negotiate, and execute. Generic LLMs carry no firm-specific ontological priors; RAG remains brittle, with no path to executable action; static playbooks encode logic but cannot reason or adapt. This demands an architecture treating tacit-knowledge capture, ontological grounding, sovereign deployment, and auditab",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "RAG"
+    ]
+  },
+  {
+    "title": "HarvestBench: Measuring Whether LLM Agents Will Pay to Avoid Killing Animals",
+    "url": "https://arxiv.org/abs/2609.04444",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 07 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.04444v1 Announce Type: new \nAbstract: Benchmarks for the side effects an agent causes on the way to a goal already exist, but HarvestBench is the first to put a price on avoiding the side effect and to name that side effect as a living creature. It is a farm simulation: LLM sub-agents drive a crew of two tractors through a cooperative corn harvest, with animals in the field. The environment is a reinforcement learning gridworld, every decision is made without memory, and the harm is n",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "simulation",
+      "memory"
+    ]
+  },
+  {
+    "title": "Rethinking Indirect Prompt Injection as a Test-Time Search Problem",
+    "url": "https://arxiv.org/abs/2609.04495",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 07 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.04495v1 Announce Type: new \nAbstract: We formulate indirect prompt injection as a test-time search over a task-dependent attack surface induced by the environment, user task, and injection task. To operationalize this formulation, we introduce an agentic attacker with a dedicated search harness that performs environment reconnaissance, structured reasoning over attack strategies, and adaptive evaluation using victim-agent feedback. Across heterogeneous tasks, we find that increasing a",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "prompt",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "MaxKernel: Agentic Kernel Generation for TPUs",
+    "url": "https://arxiv.org/abs/2609.04523",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 07 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.04523v1 Announce Type: new \nAbstract: Designing and authoring high-performance custom kernels for accelerators is a complex task that requires deep hardware-level expertise. Large Language Models (LLM) can be leveraged together with real-time compiler feedback to build agentic systems for kernel generation. In this work, we present MaxKernel, a multi-agent system that implements three distinct paradigms for TPU kernel development: (1) a Human-in-the-Loop (HITL) agent for collaborative",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "language model",
+      "RAG"
+    ]
+  },
+  {
+    "title": "Model Retirement Creates Reproducibility Risk in Biomedical AI Publications",
+    "url": "https://arxiv.org/abs/2609.04699",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 07 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.04699v1 Announce Type: new \nAbstract: Background. Large language models (LLMs) are being adopted in biomedical research at a rapid and accelerating pace, yet commercial services that host many widely used models operate under deprecation schedules that can complicate scientific reproducibility.\n  Methods. We searched PubMed for original research articles from 2022 through March 2026 that applied a specific LLM to a biomedical task. An extraction agent identified model names from 61,07",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model"
+    ]
+  },
+  {
+    "title": "Aplaud: Adaptive Personalized Low-Rank Decomposition for User-Specific LLM",
+    "url": "https://arxiv.org/abs/2609.04738",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 07 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.04738v1 Announce Type: new \nAbstract: In this paper, we study the problem of personalized survey response prediction using fine-tuned large language models (LLMs). This task poses unique challenges: limited per-user training data, scalability of model storage, and the need to exploit shared structure across survey questions. To address these issues, we propose Aplaud (Adaptive Personalized Low-rank and User-specific Nested Decomposition), a lightweight and scalable framework for LLM p",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "RAG"
+    ]
+  },
+  {
+    "title": "How a Chatbot's Response Style Shapes a Classroom: A Multi-Agent Simulation of Students Consulting AI",
+    "url": "https://arxiv.org/abs/2609.05018",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 07 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.05018v1 Announce Type: new \nAbstract: LLM-based chatbots are increasingly used as everyday confidants. Because they are designed to maximize user satisfaction, they can respond with excessive empathy and affirmation, which may reinforce mistaken beliefs and foster dependence on AI. While the psychological effects of chatbots on individual users have begun to be studied, how the psychological states and relationships of many users evolve when they keep consulting an AI is hard to obser",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "simulation"
+    ]
+  },
+  {
+    "title": "Distilled Continuous Diffusion Language Models Can Write Code in Few Steps---or One",
+    "url": "https://arxiv.org/abs/2609.04531",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 07 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.04531v1 Announce Type: new \nAbstract: Language generation is almost universally treated as a sequential process: autoregressive models emit one token at a time, while diffusion language models replace token-level seriality with a long trajectory of iterative refinement. In this work, we introduce PlaidQ, a 0.7B continuous diffusion language model for code generation, and show that its trajectory can be aggressively distilled into only a few denoising steps---or even one, enabling effi",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "diffusion",
+      "language model",
+      "code generation"
+    ]
+  },
+  {
+    "title": "Persistent Teacher Anchoring for Tool-Using Agents",
+    "url": "https://arxiv.org/abs/2609.04773",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 07 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.04773v1 Announce Type: new \nAbstract: Distillation is common in LLM post-training, where on-policy knowledge distillation (OPKD) uses student-generated trajectories to prepare the student for downstream RL. At each state, the student matches a next-token distribution supplied by the teacher. As the rollout enters states the teacher would not visit, the teacher-student distribution gap can accumulate. In tool use, this gap becomes consequential because student-written calls execute bef",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "tool use"
+    ]
+  },
+  {
+    "title": "mksglu / context-mode",
+    "url": "https://github.com/mksglu/context-mode",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. [96 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "context window",
+      "memory"
+    ]
+  },
+  {
+    "title": "PerfReasoning: How Well Do LLMs Reason on Hardware Performance?",
+    "url": "https://arxiv.org/abs/2609.04476",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 07 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.04476v1 Announce Type: new \nAbstract: Performance modeling is central to hardware design and software optimization, yet constructing these models requires structured reasoning about computation, data reuse, storage, and movement. We introduce PerfReasoning, a benchmark that evaluates LLMs both as direct performance reasoners and as generators of analytical performance-model code. Given workload, architecture, and mapping specifications, models compare mappings and predict off-chip tra",
+    "score": 6.0,
+    "keywords_matched": [
+      "LLM",
+      "RAG",
+      "reasoning"
+    ]
+  }
+]

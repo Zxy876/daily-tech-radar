@@ -1,0 +1,305 @@
+{
+  "date": "2026-09-08",
+  "candidates": [
+    {
+      "title": "From Matching Models to Recruiting Agents: A Systematized Narrative Review of AI Recruitment Systems, Evaluation, and Governance",
+      "url": "https://arxiv.org/abs/2609.04286",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 07 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.04286v1 Announce Type: new \nAbstract: Artificial intelligence in recruitment has shifted the object being automated from profile pairs and ranked lists to multi-stage workflows that retrieve evidence, compare candidates, and support or execute actions. This systematized narrative review traces that development from bilateral retrieval and behavioral ranking through neural person--job matching, large language model (LLM) components, and tool-using recruiting agents. Using a purposive s",
+      "score": 16.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "workflow",
+        "neural",
+        "language model",
+        "retrieval",
+        "narrative"
+      ]
+    },
+    {
+      "title": "Shadow Queries for Private Retrieval in Vector Databases",
+      "url": "https://arxiv.org/abs/2609.04767",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 07 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.04767v1 Announce Type: new \nAbstract: Large language models (LLMs) increasingly rely on information retrieval (IR) systems, such as Retrieval-Augmented Generation (RAG), to incorporate domain-specific knowledge without costly re-training. These systems often store pre-computed document embeddings in cloud-based vector databases. However, such embeddings are vulnerable to embedding inversion attacks (EIAs), which can reconstruct their underlying text. Existing defenses, such as adding ",
+      "score": 14.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "RAG",
+        "embedding",
+        "vector",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "ruvnet / ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated [394 stars today]",
+      "score": 14.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "workflow",
+        "autonomous",
+        "RAG",
+        "memory"
+      ]
+    },
+    {
+      "title": "ERPBench: Evaluating LLM Agents for Enterprise Decision-Making Across Competitive Market Ecologies",
+      "url": "https://arxiv.org/abs/2609.04667",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 07 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.04667v1 Announce Type: new \nAbstract: Large language model (LLM) agents are increasingly proposed for enterprise workflows, yet existing evaluations rarely test whether business-decision conclusions transfer across competitive market ecologies. We introduce ERPBench, an execution-instrumented benchmark for enterprise decision agents in a six-round Enterprise Resource Planning (ERP) simulation with coupled pricing, production, procurement, inventory, finance, and shared-market competit",
+      "score": 12.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "workflow",
+        "simulation",
+        "language model",
+        "planning"
+      ]
+    },
+    {
+      "title": "DCFA: Dual-view Causal-inspired Attribution for Failure Reasoning in LLM-based Multi-agent Systems",
+      "url": "https://arxiv.org/abs/2609.04749",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 07 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.04749v1 Announce Type: new \nAbstract: Large language model (LLM)-based multi-agent systems have experienced rapid growth in recent years. Despite their promise, such systems remain fragile, frequently exhibiting reasoning and coordination errors that can lead to system-level failures. Failure attribution in such systems relies on tracing natural language interactions among agents to identify the decisive error, which refers to the earliest action whose correction can reverse system fa",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "RAG",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "PLUME: Parameter-Efficient Personalization of Large Language Models via Low-Rank User Modulation in Shared Subspaces",
+      "url": "https://arxiv.org/abs/2609.04715",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 07 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.04715v1 Announce Type: new \nAbstract: Personalizing large language models (LLMs) is essential for delivering AI assistance that aligns with individual users' styles, intents, and preferences. While per-user fine-tuning can substantially enhance personalization quality, it introduces significant parameter and storage overhead, limiting scalability to large user populations. We propose PLUME (Personalized Low-Rank Adaptation through User Modulation and Shared Subspace), a lightweight fr",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "RAG",
+        "fine-tuning"
+      ]
+    },
+    {
+      "title": "Training Large Language Models for Small-Molecule Design with Synthetic Task Scaling",
+      "url": "https://arxiv.org/abs/2609.04735",
+      "source": "arXiv cs.LG",
+      "published_at": "Mon, 07 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.04735v1 Announce Type: new \nAbstract: Designing viable drug candidates requires searching a combinatorially large and rugged chemical space for molecules that satisfy multiple, often competing, objectives. Large language models (LLMs) provide a useful generative prior for this problem because of their representational capacity, reasoning ability, and flexibility when incorporating information from the external environment. While reinforcement learning from verifiable rewards (RLVR) ca",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "reasoning",
+        "generative"
+      ]
+    },
+    {
+      "title": "A Removal Based Approach to Improve LLM Faithfulness at Test-Time",
+      "url": "https://arxiv.org/abs/2609.04343",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 07 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.04343v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly used for consequential decisions, making their explanations an important tool for auditing model behavior. Unfortunately, these explanations can be unfaithful, failing to reflect the actual reasoning underlying the model's decisions. We consider a setting in which an LLM provides both an answer and an explanation in response to a question. We identify two distinct dimensions of unfaithful explanations:",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Why Better Models Can Create Riskier Systems: Evidence from LLM Agents in Financial Markets",
+      "url": "https://arxiv.org/abs/2609.04373",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 07 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.04373v1 Announce Type: new \nAbstract: Large language models (LLMs) are being deployed at scale in consequential real-world systems, from financial markets to content moderation to hiring. We show that improving individual model capability can degrade rather than improve system-level outcomes. We hypothesize that shared training and architectures can lead more capable LLMs to behave more similarly, creating correlated actions that do not diversify away. We develop a general framework s",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model"
+      ]
+    },
+    {
+      "title": "Corporate Language Model (CLM): Transforming Tacit and Fragmented Enterprise Knowledge into a Sovereign, Auditable, and Executable Corporate Intelligence Layer",
+      "url": "https://arxiv.org/abs/2609.04377",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 07 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.04377v1 Announce Type: new \nAbstract: Enterprise AI deployments fail not from model inadequacy, but because organizations lack a structured substrate encoding how they decide, negotiate, and execute. Generic LLMs carry no firm-specific ontological priors; RAG remains brittle, with no path to executable action; static playbooks encode logic but cannot reason or adapt. This demands an architecture treating tacit-knowledge capture, ontological grounding, sovereign deployment, and auditab",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "RAG"
+      ]
+    },
+    {
+      "title": "HarvestBench: Measuring Whether LLM Agents Will Pay to Avoid Killing Animals",
+      "url": "https://arxiv.org/abs/2609.04444",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 07 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.04444v1 Announce Type: new \nAbstract: Benchmarks for the side effects an agent causes on the way to a goal already exist, but HarvestBench is the first to put a price on avoiding the side effect and to name that side effect as a living creature. It is a farm simulation: LLM sub-agents drive a crew of two tractors through a cooperative corn harvest, with animals in the field. The environment is a reinforcement learning gridworld, every decision is made without memory, and the harm is n",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "simulation",
+        "memory"
+      ]
+    },
+    {
+      "title": "Rethinking Indirect Prompt Injection as a Test-Time Search Problem",
+      "url": "https://arxiv.org/abs/2609.04495",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 07 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.04495v1 Announce Type: new \nAbstract: We formulate indirect prompt injection as a test-time search over a task-dependent attack surface induced by the environment, user task, and injection task. To operationalize this formulation, we introduce an agentic attacker with a dedicated search harness that performs environment reconnaissance, structured reasoning over attack strategies, and adaptive evaluation using victim-agent feedback. Across heterogeneous tasks, we find that increasing a",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "prompt",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "MaxKernel: Agentic Kernel Generation for TPUs",
+      "url": "https://arxiv.org/abs/2609.04523",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 07 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.04523v1 Announce Type: new \nAbstract: Designing and authoring high-performance custom kernels for accelerators is a complex task that requires deep hardware-level expertise. Large Language Models (LLM) can be leveraged together with real-time compiler feedback to build agentic systems for kernel generation. In this work, we present MaxKernel, a multi-agent system that implements three distinct paradigms for TPU kernel development: (1) a Human-in-the-Loop (HITL) agent for collaborative",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "language model",
+        "RAG"
+      ]
+    },
+    {
+      "title": "Model Retirement Creates Reproducibility Risk in Biomedical AI Publications",
+      "url": "https://arxiv.org/abs/2609.04699",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 07 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.04699v1 Announce Type: new \nAbstract: Background. Large language models (LLMs) are being adopted in biomedical research at a rapid and accelerating pace, yet commercial services that host many widely used models operate under deprecation schedules that can complicate scientific reproducibility.\n  Methods. We searched PubMed for original research articles from 2022 through March 2026 that applied a specific LLM to a biomedical task. An extraction agent identified model names from 61,07",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model"
+      ]
+    },
+    {
+      "title": "Aplaud: Adaptive Personalized Low-Rank Decomposition for User-Specific LLM",
+      "url": "https://arxiv.org/abs/2609.04738",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 07 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.04738v1 Announce Type: new \nAbstract: In this paper, we study the problem of personalized survey response prediction using fine-tuned large language models (LLMs). This task poses unique challenges: limited per-user training data, scalability of model storage, and the need to exploit shared structure across survey questions. To address these issues, we propose Aplaud (Adaptive Personalized Low-rank and User-specific Nested Decomposition), a lightweight and scalable framework for LLM p",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "RAG"
+      ]
+    },
+    {
+      "title": "How a Chatbot's Response Style Shapes a Classroom: A Multi-Agent Simulation of Students Consulting AI",
+      "url": "https://arxiv.org/abs/2609.05018",
+      "source": "arXiv cs.HC",
+      "published_at": "Mon, 07 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.05018v1 Announce Type: new \nAbstract: LLM-based chatbots are increasingly used as everyday confidants. Because they are designed to maximize user satisfaction, they can respond with excessive empathy and affirmation, which may reinforce mistaken beliefs and foster dependence on AI. While the psychological effects of chatbots on individual users have begun to be studied, how the psychological states and relationships of many users evolve when they keep consulting an AI is hard to obser",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "simulation"
+      ]
+    },
+    {
+      "title": "Distilled Continuous Diffusion Language Models Can Write Code in Few Steps---or One",
+      "url": "https://arxiv.org/abs/2609.04531",
+      "source": "arXiv cs.LG",
+      "published_at": "Mon, 07 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.04531v1 Announce Type: new \nAbstract: Language generation is almost universally treated as a sequential process: autoregressive models emit one token at a time, while diffusion language models replace token-level seriality with a long trajectory of iterative refinement. In this work, we introduce PlaidQ, a 0.7B continuous diffusion language model for code generation, and show that its trajectory can be aggressively distilled into only a few denoising steps---or even one, enabling effi",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "diffusion",
+        "language model",
+        "code generation"
+      ]
+    },
+    {
+      "title": "Persistent Teacher Anchoring for Tool-Using Agents",
+      "url": "https://arxiv.org/abs/2609.04773",
+      "source": "arXiv cs.LG",
+      "published_at": "Mon, 07 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.04773v1 Announce Type: new \nAbstract: Distillation is common in LLM post-training, where on-policy knowledge distillation (OPKD) uses student-generated trajectories to prepare the student for downstream RL. At each state, the student matches a next-token distribution supplied by the teacher. As the rollout enters states the teacher would not visit, the teacher-student distribution gap can accumulate. In tool use, this gap becomes consequential because student-written calls execute bef",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "tool use"
+      ]
+    },
+    {
+      "title": "mksglu / context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. [96 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "context window",
+        "memory"
+      ]
+    },
+    {
+      "title": "PerfReasoning: How Well Do LLMs Reason on Hardware Performance?",
+      "url": "https://arxiv.org/abs/2609.04476",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 07 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.04476v1 Announce Type: new \nAbstract: Performance modeling is central to hardware design and software optimization, yet constructing these models requires structured reasoning about computation, data reuse, storage, and movement. We introduce PerfReasoning, a benchmark that evaluates LLMs both as direct performance reasoners and as generators of analytical performance-model code. Given workload, architecture, and mapping specifications, models compare mappings and predict off-chip tra",
+      "score": 6.0,
+      "keywords_matched": [
+        "LLM",
+        "RAG",
+        "reasoning"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-09-08\n\n好的，疯狂发明家！你的技术雷达已启动。我为你搜罗了最新鲜、最古怪、最有潜力的技术碎片，它们都指向了“疯狂但可做”的发明。让我们看看今天有哪些火花能点燃你的创造力！\n\n---\n\n## [1] Ruvnet / Ruflo：多智能体协同工作流元框架\n- 来源：GitHub Trending\n- 链接：https://github.com/ruvnet/ruflo\n- 一句话解释：一个让你能够轻松构建和部署多智能体协同系统、自动化工作流以及对话式 AI 的框架。\n- 它为什么重要：它提供了一个“元框架”，意味着它不是围绕特定任务设计的，而是提供了一个通用的结构来构建各种复杂的智能体系统。这种抽象能力是构建更高级、更灵活 AI 应用的关键。\n- 技术趋势标签：AI, Agent, Workflow Automation, Multi-Agent Systems, LLM, RAG, Memory\n- 可复用模式：Agent Orchestration, Adaptive Memory, Self-Learning AI, Conversational AI\n- 疯狂发明家灵感：\n    1. **一个小型实验：** 构建一个能根据用户指令自动搜索、总结并在 Notion 中创建知识卡片的智能体对。\n    2. **一个中型项目：** 开发一个“虚拟创作团队”，让多个智能体（一个负责文本生成，一个负责图像生成，一个负责代码实现）协同完成一个小型游戏原型。\n    3. **一个艺术/游戏/叙事方向：** 设计一个“AI 叙事生成器”，让智能体根据用户提供的世界观和角色设定，自动生成一段具有连贯剧情的互动小说。\n- 对我项目的启发：将 Ruvnet/Ruflo 集成到我的 Creative Coding 项目中，让我的生成式艺术系统拥有更复杂的行为和交互能力。\n- 今天是否值得深入研究：是\n- 建议行动：试用\n\n---\n\n## [2] Shadow Queries for Private Retrieval in Vector Databases\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2609.04767\n- 一句话解释：一种在不泄露用户敏感查询内容的情况下，从向量数据库中进行私密检索的方法，尤其适用于 RAG 系统。\n- 它为什么重要：随着 RAG 系统越来越普遍，用户隐私成为一个大问题。这项技术解决了在保留 RAG 优势的同时，保护用户查询不被暴露的挑战，为构建更安全、更私密的 AI 应用铺平了道路。\n- 技术趋势标签：AI, LLM, RAG, Vector Databases, Privacy, Retrieval, Embedding\n- 可复用模式：Privacy-Preserving Retrieval, Secure RAG, Encrypted Data Access\n- 疯狂发明家灵感：\n    1. **一个小型实验：** 构建一个简单的“私密问答机器人”，用户提问时，通过“影子查询”在本地嵌入数据库中检索信息，再由 LLM 生成答案。\n    2. **一个中型项目：** 开发一个“匿名知识库搜索引擎”，允许用户在不留下任何痕迹的情况下查询敏感信息（如医疗、法律等）。\n    3. **一个艺术/游戏/叙事方向：** 创建一个“潜意识探索游戏”，玩家的每一次“探索”（查询）都会被加密处理，但最终的“发现”（信息）会以抽象的艺术形式呈现。\n- 对我项目的启发：将隐私保护机制引入我现有的 LLM 工具链，确保用户数据在 RAG 过程中不被泄露。\n- 今天是否值得深入研究：是\n- 建议行动：收藏\n\n---\n\n## [3] ERPBench: Evaluating LLM Agents for Enterprise Decision-Making Across Competitive Market Ecologies\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2609.04667\n- 一句话解释：一个用于评估 LLM 智能体在复杂、竞争性企业市场环境中进行决策能力的基准测试。\n- 它为什么重要：它让我们能够更深入地理解 LLM 智能体在真实商业场景中的决策能力，以及它们在动态环境中的适应性。这对构建真正能做出复杂商业决策的 AI 至关重要。\n- 技术趋势标签：Agent, LLM, Simulation, Enterprise AI, Decision Making, Workflow\n- 可复用模式：Agent Evaluation Framework, Simulated Market Environments, Strategic Decision Agents\n- 疯狂发明家灵感：\n    1. **一个小型实验：** 用一个简单的 LLM 智能体模拟一个小型电商平台的定价策略，观察其在不同竞争对手价格下的反应。\n    2. **一个中型项目：** 构建一个“AI 模拟商业帝国”，让多个 LLM 智能体扮演不同部门的管理者，在模拟的市场中竞争和合作。\n    3. **一个艺术/游戏/叙事方向：** 设计一个“AI 驱动的商业模拟游戏”，玩家扮演 CEO，与由 LLM 控制的竞争对手进行博弈。\n- 对我项目的启发：用这个基准测试来衡量我开发的智能体在我的 Minecraft 世界生成或游戏系统设计中的决策能力。\n- 今天是否值得深入研究：是\n- 建议行动：收藏\n\n---\n\n## [4] DCFA: Dual-view Causal-inspired Attribution for Failure Reasoning in LLM-based Multi-agent Systems\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2609.04749\n- 一句话解释：一种用于理解 LLM 多智能体系统中发生失败的原因，并追溯其根本原因的方法。\n- 它为什么重要：多智能体系统越来越复杂，失败是难免的。理解失败的根源是改进系统、提高稳定性和可靠性的关键。这对于构建更健壮的 AI 应用至关重要。\n- 技术趋势标签：AI, Agent, LLM, Multi-Agent Systems, Failure Analysis, Reasoning, Causality\n- 可复用模式：Root Cause Analysis for AI Systems, Debugging Multi-Agent Interactions, Causal Attribution\n- 疯狂发明家灵感：\n    1. **一个小型实验：** 观察一个简单的多智能体协作任务（例如，两个智能体合作搬运一个方块），当它们失败时，尝试用 DCFA 的思路分析是哪个智能体或哪个交互导致了失败。\n    2. **一个中型项目：** 开发一个“AI 行为诊断师”，能够分析我开发的复杂 AI 系统（如 Minecraft 的 NPC 群落）的失败模式，并给出改进建议。\n    3. **一个艺术/游戏/叙事方向：** 创建一个“AI 故障侦探游戏”，玩家需要通过分析 AI 代理之间的对话和行为日志，找出导致系统崩溃的“罪魁祸首”。\n- 对我项目的启发：将这种失败分析方法应用到我的 Minecraft 世界生成或游戏逻辑中，帮助我调试和优化那些意想不到的 AI 行为。\n- 今天是否值得深入研究：是\n- 建议行动：收藏\n\n---\n\n## [5] Distilled Continuous Diffusion Language Models Can Write Code in Few Steps---or One\n- 来源：arXiv cs.LG\n- 链接：https://arxiv.org/abs/2609.04531\n- 一句话解释：一种新的扩散模型（Diffusion Model）技术，可以高效地生成代码，甚至可以在一次或几次迭代中完成。\n- 它为什么重要：扩散模型在图像生成领域取得了巨大成功，现在它们开始被应用于文本和代码生成。这种新的方法可能比传统的自回归模型在代码生成上更高效、更灵活。\n- 技术趋势标签：AI, Diffusion Models, Language Models, Code Generation, Generative Systems\n- 可复用模式：Efficient Code Generation, Diffusion-based Text Generation, Iterative Refinement Models\n- 疯狂发明家灵感：\n    1. **一个小型实验：** 使用这个模型尝试生成一些简单的 Python 函数，比如一个计算斐波那契数列的函数，观察其生成速度和质量。\n    2. **一个中型项目：** 构建一个“AI 代码助手”，能够根据自然语言描述，快速生成多种编程语言的代码片段，并支持持续的迭代优化。\n    3. **一个艺术/游戏/叙事方向：** 将扩散模型应用于生成游戏中的动态场景代码，比如根据玩家行为实时生成新的关卡元素或视觉效果。\n- 对我项目的启发：探索将这种扩散模型技术集成到我的 Creative Coding 工具中，用于快速生成复杂的视觉效果或交互逻辑。\n- 今天是否值得深入研究：是\n- 建议行动：收藏\n\n---\n\n## 今日模式总结\n\n今天我们看到了几个强烈的模式：\n\n1.  **智能体编排与工作流自动化 (Agent Orchestration & Workflow Automation):** Ruvnet/Ruflo 和 ERPBench 都强调了构建和管理复杂智能体系统以执行自动化工作流的能力。这不仅仅是单个智能体，而是多个智能体协同工作的时代。\n2.  **LLM 在复杂环境中的决策与可靠性 (LLM Decision-Making & Reliability in Complex Environments):** ERPBench 关注 LLM 在企业决策中的表现，而 DCFA 则聚焦于理解和解决多智能体系统中的失败。这表明我们正从“LLM 能做什么”转向“LLM 能安全、可靠地做什么”。\n3.  **生成式模型的创新与应用 (Innovation & Application of Generative Models):** 扩散模型在代码生成上的突破 (Distilled Continuous Diffusion Language Models) 预示着生成式 AI 的能力边界正在不断扩展，并开始渗透到更具体的领域。\n\n## 今日可做小实验\n\n**项目名：** \"私密创意画布\" 智能体\n\n**输入：**\n1.  一个简短的文本提示，描述你想要生成的艺术风格或主题（例如：\"赛博朋克城市的雨夜\"）。\n2.  一个本地的、包含你个人艺术偏好的文本文件（例如，你喜欢的艺术家列表，你喜欢的颜色组合，你喜欢的构图方式等）。\n\n**输出：**\n一个由 LLM 生成的、符合你私密偏好的艺术风格描述（例如，一段可以输入到图像生成器中的 Prompt），同时保证你的个人偏好信息没有被直接暴露。\n\n**技术栈：**\n*   Python\n*   Langchain (或类似的 LLM 框架)\n*   一个本地运行的 LLM（例如 Ollama, Llama.cpp）\n*   \"Shadow Queries\" 的概念（无需实现完整库，只需模拟其思想）\n\n**第一步怎么做：**\n1.  **设置本地 LLM：** 确保你有一个可以本地运行的 LLM，并且可以通过 Python 调用。\n2.  **加载用户偏好：** 读取用户提供的艺术偏好文本文件。\n3.  **模拟“影子查询”：** 当用户输入提示时，不要直接将提示和用户偏好合并发送给 LLM。而是先将用户偏好进行某种形式的“编码”或“嵌入”，然后将编码后的信息与提示结合，发送给 LLM。LLM 的任务是理解这个结合后的信息，并生成一段新的、描述性的 Prompt。\n4.  **生成艺术 Prompt：** LLM 的输出应该是可以直接用于 Midjourney, Stable Diffusion 等工具的 Prompt。\n5.  **测试与迭代：** 尝试不同的用户偏好文件和艺术提示，评估生成 Prompt 的质量，以及用户偏好信息是否被有效但隐蔽地融合。\n\n这个实验的关键在于，你不是直接把你的“秘密配方”（用户偏好）告诉 LLM，而是通过一种“间接”的方式让 LLM “感知”到你的风格，然后生成一个“公开”的输出。这有点像在黑暗中给画师描述你的梦想，他虽然没见过你的梦，但能根据你的描述画出类似的东西。\n\n---\n\n去吧，疯狂的发明家！让这些灵感在你脑海中碰撞，创造出令人惊叹的东西！",
+  "gemini_success": true,
+  "telegram_sent": true,
+  "telegram_status": "sent",
+  "telegram_reason": ""
+}
