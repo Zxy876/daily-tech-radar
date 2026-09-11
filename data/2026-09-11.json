@@ -1,0 +1,296 @@
+{
+  "date": "2026-09-11",
+  "candidates": [
+    {
+      "title": "alsk1992 / CloddsBot",
+      "url": "https://github.com/alsk1992/CloddsBot",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude. [277 stars today]",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "open source",
+        "autonomous",
+        "self-hosted"
+      ]
+    },
+    {
+      "title": "The Failure Happens Before the Drift: The Social Dynamics of Values in LLM Agent Societies",
+      "url": "https://arxiv.org/abs/2609.05514",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 10 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.05514v1 Announce Type: new \nAbstract: Large Language Model (LLM)-based agents are increasingly used as proxies for human participants in social science research, yet it remains unclear whether they can faithfully simulate diverse and conflicting human value systems. We present a World Values Survey (WVS)-grounded simulation framework where culturally diverse agents with different communication styles engage in longitudinal, value-laden discussions. Across approximately 4,000 conversat",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "simulation",
+        "language model"
+      ]
+    },
+    {
+      "title": "EdgeMem: LLM-Free Agent Memory Construction and Retrieval via Evidence-Preserving Multi-Anchor Hypergraph",
+      "url": "https://arxiv.org/abs/2609.05553",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 10 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.05553v1 Announce Type: new \nAbstract: Agent memory allows LLM agents to use earlier interactions when answering new queries. Existing methods often compress interaction histories into summaries or other LLM-generated representations. Repeated generation adds cost and can discard answer-bearing details before the system knows what a future query will require. We propose EdgeMem, an agent-memory method built around a simple principle: preserve original interaction turns and organize the",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "memory",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "CUSP: Decomposable Collective Uncertainty for Multi-Agent Multimodal Reasoning",
+      "url": "https://arxiv.org/abs/2609.05708",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 10 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.05708v1 Announce Type: new \nAbstract: Aggregating heterogeneous vision-language models (VLMs) can improve multimodal reasoning, but neither an individual model's confidence nor that of the aggregated answer measures reliability at the system level. We present CUSP (Collective Uncertainty through Semantic Opinion Pooling), a training-free uncertainty quantification framework that maps multiple VLM responses to a shared semantic response space, pools them into a pooled semantic opinion,",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "language model",
+        "multimodal",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Inference-Time Graph Engineering for Multi-Agent LLM Workflows",
+      "url": "https://arxiv.org/abs/2609.05774",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 10 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.05774v1 Announce Type: new \nAbstract: Recent multi-agent LLM systems increasingly rely on graph-structured communication to coordinate specialized agents. We revisit multi-agent orchestration from a graph-engineering perspective: rather than optimizing a static topology, we synthesize a task-conditioned temporal workflow graph that jointly specifies agent connectivity and edge-level communication semantics. We introduce ReActNet, a training-free framework that compiles a query and a s",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "workflow",
+        "inference"
+      ]
+    },
+    {
+      "title": "Agentic BAIM-LLM Evaluation (ABLE): Benchmarking LLM Use of Protein Design Tools",
+      "url": "https://arxiv.org/abs/2609.05818",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 10 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.05818v1 Announce Type: new \nAbstract: We introduce ABLE, a benchmark for evaluating LLM agents' ability to use biological AI models (BAIMs), such as ProteinMPNN and AlphaFold3, in dual-use protein design workflows. ABLE assesses agent performance through a set of tasks spanning structure retrieval, sequence generation, and design validation. We evaluate 15 frontier models and find that seven refuse all tasks, while the remaining models exhibit substantial performance differences. Clau",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "workflow",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "The End of AI Exponentiation: Fluttering Inside and Outside AI Bubble",
+      "url": "https://arxiv.org/abs/2609.05894",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 10 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.05894v1 Announce Type: new \nAbstract: The exponentiation of Artificial intelligence (AI) in the recent past has entered a transformative era that has been driven by the growth in large language models (LLMs), large-scale compute infrastructures, and autonomous reasoning systems. However, the rapid acceleration of AI has increasingly shown technological, societal, economic, ethical and infrastructural challenges associated with peak data limitations, rising computational demands, synth",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "autonomous",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Memory in Deep Time-Series Models",
+      "url": "https://arxiv.org/abs/2609.06006",
+      "source": "arXiv cs.LG",
+      "published_at": "Thu, 10 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.06006v1 Announce Type: new \nAbstract: Deep learning for time series has progressed through successive architectural paradigms, from recurrent networks and transformers to structured state-space models, retrieval-augmented predictors, foundation models, and tool-using agents. These developments are typically studied in isolation, organized by architecture or modeling era. We argue that they can instead be viewed through a common question of \\emph{how does a time-series model retain and",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "transformer",
+        "memory",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "diegosouzapw / OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors [626 stars today]",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "Claude",
+        "Gemini",
+        "Copilot",
+        "GPT"
+      ]
+    },
+    {
+      "title": "EnvCraft: Synthesizing Executable Environments in Agentic RL for Claw-like Agent",
+      "url": "https://arxiv.org/abs/2609.05576",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 10 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.05576v1 Announce Type: new \nAbstract: The paradigm of LLMs has rapidly shifted from passive language interfaces to autonomous Claw-like agents that execute long-horizon tasks across stateful workspaces. While Agentic Reinforcement Learning (Agentic RL) provides a promising path to optimize these agents, its scaling is heavily bottlenecked by the severe scarcity of interactive training environments. Existing synthetic environments are strictly limited to tool-calling endpoints, renderi",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "The convergent laboratory: when AI reasoning, autonomous experiments, high performance and quantum computing reshape chemistry",
+      "url": "https://arxiv.org/abs/2609.05643",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 10 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.05643v1 Announce Type: new \nAbstract: This Comment emerges from TPC26 (https://tpc26.org), a conference convening leaders from academia, national laboratories, and industry who are reshaping materials science discovery. The meeting explored how AI, autonomous agents, self-driving labs, higher performance and quantum computing converge to amplify their individual impact on materials science discovery. The perspectives here reflect the firsthand experiences of researchers at these front",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "autonomous",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Beyond Prompts: Measuring and Optimizing LLM Tool-Agent Harnesses",
+      "url": "https://arxiv.org/abs/2609.05736",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 10 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.05736v2 Announce Type: new \nAbstract: LLM tool agents can be improved without retraining by modifying the runtime harness around a fixed model: prompts, tool interfaces, middleware, state handling, and recovery logic. We study this setting as resource-bounded harness selection for fixed-model multi-turn tool agents, with the search surface scoped to prompts and tool-boundary middleware: edits are guarded intercepts at the tool boundary, not arbitrary rewriting of agent execution logic",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "prompt"
+      ]
+    },
+    {
+      "title": "Beyond Top-$k$ Skill Retrieval: Diversity-Aware Skill Routing for LLM Agents",
+      "url": "https://arxiv.org/abs/2609.05824",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 10 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.05824v1 Announce Type: new \nAbstract: Large language model (LLM) agents increasingly rely on external skills, but routing user requests over large skill registries is difficult because many skills are functionally redundant while complex tasks often require complementary skill sets. Existing skill routers typically rank candidates independently by query relevance, which can waste context budget on redundant skills. We propose Diverse Skill Routing (DSR), a diversity-aware reranking fr",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "language model",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Multimodal Resource-Exhaustion Attacks on Vision-Language Models via Joint Pixel-Prompt Optimization",
+      "url": "https://arxiv.org/abs/2609.05889",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 10 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.05889v1 Announce Type: new \nAbstract: Resource-exhaustion attacks against autoregressive vision-language models (VLMs) typically assume unimodal threat models, treating the image branch as the primary optimization surface while holding user-visible prompts fixed. Even recent loop-centric variants remain confined to this single-channel paradigm, leaving the exploitation of availability unexplored as a cross-modal optimization problem over jointly controllable input surfaces.\n  We intro",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "language model",
+        "multimodal",
+        "prompt"
+      ]
+    },
+    {
+      "title": "Rethinking the Evaluation of Efficiency Methods for Multi-Agent Systems",
+      "url": "https://arxiv.org/abs/2609.05933",
+      "source": "arXiv cs.LG",
+      "published_at": "Thu, 10 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.05933v1 Announce Type: new \nAbstract: Efficiency is increasingly important for Large Language Model (LLM)-based multi-agent systems (MAS), as larger models and more agents introduce substantial execution costs. Recent methods aim to make MAS cheaper by pruning agents, removing communication edges, or searching for compact structures. However, we argue that existing evaluations may overestimate their true ability to improve MAS efficiency. Reported gains are often measured under method",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model"
+      ]
+    },
+    {
+      "title": "mksglu / context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. [297 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "context window",
+        "memory"
+      ]
+    },
+    {
+      "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
+      "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+      "source": "Hacker News Best",
+      "published_at": "Wed, 09 Sep 2026 14:37:47 +0000",
+      "description": "Article URL: https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and Comments URL: https://news.ycombinator.com/item?id=49627370 Points: 503 # Comments: 160",
+      "score": 6.0,
+      "keywords_matched": [
+        "GPT",
+        "transformer",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Beyond Right and Wrong: Evaluating Second-order Social Reasoning in Large Language Models",
+      "url": "https://arxiv.org/abs/2609.05437",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 10 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.05437v1 Announce Type: new \nAbstract: Previous AI alignment efforts have focused primarily on first-order social norms -- teaching models what is socially acceptable or unacceptable (e.g., `do not steal'). However, social intelligence depends not only on norm recognition, but also on anticipating who will enforce it and how (e.g., public shame or even imprisonment). These second-order expectations, known as metanorms, govern how people respond when social rules are broken. We introduc",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "When Does Memory Help? A Cost-Aware Evaluation of Long-Term Memory in Tool-Using LLM Agents",
+      "url": "https://arxiv.org/abs/2609.05441",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 10 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.05441v1 Announce Type: new \nAbstract: Long-term memory for LLM agents is evaluated today by conversational recall benchmarks (LoCoMo, LongMemEval), which measure question answering over dialogue history, not whether remembered facts change what a tool-using agent does. We present MERIT (Memory Evaluation for Realistic Instrumented Tasks), a benchmark and harness that measures the marginal utility of memory for task-executing agents under explicit cost accounting. MERIT provides episod",
+      "score": 6.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "memory"
+      ]
+    },
+    {
+      "title": "Compiling VGDL into Causal Models",
+      "url": "https://arxiv.org/abs/2609.05459",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 10 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.05459v1 Announce Type: new \nAbstract: Reinforcement learning and large language models often struggle to accurately capture the causal mechanics of game environments. Standard reinforcement learning agents tend to rely on spurious correlations, while large language models are prone to hallucinating game rules. Although causal reinforcement learning improves interpretability, there is currently no formal methodology to map complex game mechanics directly into causal models. To address ",
+      "score": 6.0,
+      "keywords_matched": [
+        "agent",
+        "game",
+        "language model"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-09-11\n\n今天为你筛选出 5 个高能量、兼具 CS 硬核架构与艺术/游戏系统潜力的候选。拒绝纯发币 agent 和泛泛的行业嘴炮，直击**游戏因果律、上下文沙盒、环境自生成、无 LLM 记忆超图、二阶社会博弈**。\n\n---\n\n## 1. Compiling VGDL into Causal Models\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2609.05459\n- **一句话解释**：将视频游戏描述语言（VGDL）直接编译成结构化因果图（Causal Model），彻底解决 LLM 和强化学习玩游戏时“幻觉规则”和“伪相关性”的通病。\n- **它为什么重要**：游戏设计本质上是因果系统的形式化定义。当你可以把游戏规则编译成因果图，LLM 就不再是“盲目猜下一帧”，而是拥有了对“动作-机制-结果”的确定性物理认知。\n- **技术趋势标签**：Game Systems / Spec-Driven Development / Causal AI / Formal Verification\n- **可复用模式**：**规则即因果图（Rules-as-Causal-DAG）**——将自然语言或 DSL 声明的游戏规则编译为因果有向无环图，约束 Agent 的推理空间。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：写一个 30 行 DSL 描述“推箱子”或“井字棋”规则，编译成一个 Mermaid 因果图，喂给本地小模型（如 Qwen-2.5），强制它只在因果边允许的范围内生成下一步行动。\n  2. **一个中型项目**：**Minecraft 机械与因果引擎插件**：输入红石电路或合成配方，自动编译出因果依赖树，让游戏内的助手 NPC 能精准解释“为什么灯不亮”（自动归因 Debugging）。\n  3. **一个艺术/游戏/叙事方向**：**因果逆转解谜游戏**：玩家通过修改底层因果图的边（如把“火接触水 -> 熄灭”篡改为“火接触水 -> 结冰”），游戏世界实时重新编译物理法则。\n- **对我项目的启发**：在做 Spec-driven 开发或复杂世界生成时，不要让 LLM 直接脑补逻辑，先让它产出“因果关系定义书”，以符号/图的形式锁死底层机制。\n- **今天是否值得深入研究**：是\n- **建议行动**：做demo\n\n---\n\n## 2. mksglu / context-mode\n- **来源**：GitHub Trending TypeScript\n- **链接**：https://github.com/mksglu/context-mode\n- **一句话解释**：面向 AI 编码 Agent 的上下文窗口激进优化器，通过沙盒化工具输出把无关日志压缩 98%，并通过 MCP + Hooks 实现跨 17 个平台的会话记忆持久化。\n- **它为什么重要**：做 Agent 最痛苦的不是模型不够聪明，而是工具调用的巨大输出（几千行 stdout、巨大 JSON）把有限且昂贵的上下文直接冲垮。上下文必须像操作系统的虚拟内存一样做分页和沙盒隔离。\n- **技术趋势标签**：LLM 工具链 / MCP / Context Window Management / Developer Workflow\n- **可复用模式**：**工具输出沙盒化（Tool Output Sandboxing）**——仅向 Agent 上下文暴露虚拟指针与摘要句柄，全量数据留在本地沙盒，需详细信息时再“下钻”查询。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：在本地搭一个轻量 MCP Server，拦截任何超过 50 行的 Terminal 输出，用正则或轻量抽取只返回 `exit code` + `error summary` + `temp_file_hash`。\n  2. **一个中型项目**：**Creative Coder 的上下文守门人**：为 p5.js/Blender Python 开发的 Agent 插件，自动截留巨大的顶点数据和中间帧日志，只向 LLM 投喂视觉截图和错误行号。\n  3. **一个艺术/游戏/叙事方向**：**失忆症 NPC 系统**：把角色的“潜意识”留在沙盒数据库中，NPC 每天只能提取 2% 的碎片记忆（指针），玩家必须通过特定刺激让 NPC “解引用”核心记忆。\n- **对我项目的启发**：直接借用其 MCP 结构，用来给自己的 coding agent 或自动化工作流降噪，立竿见影砍掉 Token 费用。\n- **今天是否值得深入研究**：是\n- **建议行动**：试用\n\n---\n\n## 3. EnvCraft: Synthesizing Executable Environments in Agentic RL\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2609.05576\n- **一句话解释**：为了训练能操作复杂长程任务的自主 Agent（如类 OpenClaw 智能体），提出自动合成具有可交互状态的有状态可执行环境。\n- **它为什么重要**：以前我们用 AI 生成文本或世界，现在进入“AI 为 AI 生成能运行的交互式训练场”。这对虚拟世界生成、仿真沙盒和游戏程序化生成（PCG）提供了全新范式。\n- **技术趋势标签**：World Generation / Agentic RL / Sandbox Synthesizer / Generative Systems\n- **可复用模式**：**可执行规范环境（Executable Spec as Environment）**——不仅生成内容描述，同时生成状态机、API 桩（Stubs）和校验逻辑，使世界天然可运行。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：给 LLM 一段“废弃核电站控制室”的设定，让它自动生成对应的 Python Flask 虚拟控制台，带有限状态机与可操作的假按钮接口。\n  2. **一个中型项目**：**Minecraft 任务关卡自动生成器**：根据任务描述（如“解开水下神庙的密码锁”），自动生成包含逻辑触发器、钥匙和机关的完整关卡代码并加载到游戏中。\n  3. **一个艺术/游戏/叙事方向**：**无限生成的荒诞官僚模拟器**：系统每天自动合成一个奇葩政府部门的内部 OA 系统（包含流程审批、虚假报错、反人类规定），玩家必须在 Agent 协助下通关。\n- **对我项目的启发**：环境不是人工一块块拼出来的，应该让底层 Spec 自动实例化出状态机。将“世界生成”从“美术资产生成”提升为“运行逻辑生成”。\n- **今天是否值得深入研究**：是\n- **建议行动**：做demo\n\n---\n\n## 4. EdgeMem: LLM-Free Agent Memory via Multi-Anchor Hypergraph\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2609.05553\n- **一句话解释**：摒弃传统让 LLM 不断做总结提炼的记忆模式，改用多锚点超图（Multi-Anchor Hypergraph）无损保留证据链，实现零 LLM 调用的高性能记忆构建与检索。\n- **它为什么重要**：现有 Agent 记忆库最大的 Bug 是“提前总结”会丢失关键细节，且频繁调用 LLM 压缩非常慢且贵。用图论中的超图锚定原始交互，既快又完全保留细节证据。\n- **技术趋势标签**：LLM-Free / Hypergraph / Memory Systems / Agent Architecture\n- **可复用模式**：**多锚点证据超图（Multi-Anchor Evidence Graph）**——不压缩文本本身，而是将参与者、时间、关键实体作为节点，把每一次事件定义为连接多节点的超边（Hyperedge）。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：用 NetworkX 建一个简单的多端超图，记录多轮对话中实体间的交互关系，用纯图算法（图聚类/路径搜索）代替向量相似度进行上下文召回。\n  2. **一个中型项目**：**本地无依赖的长程对话助手**：完全运行在浏览器或本地端的 Agent 记忆引擎，不消耗任何 API Token，通过超图秒级检索三个月前的具体代办事项。\n  3. **一个艺术/游戏/叙事方向**：**侦探推理游戏证据网**：游戏不给玩家答案，而是用超图动态连接嫌疑人、凶器和地点，当玩家找出超边上的逻辑冲突时触发真相反转。\n- **对我项目的启发**：在做 agent workflow 时，别什么都用 LLM 总结或 embedding 向量。很多结构化关联用图的确定性拓扑结构做，成本为 0 且永远不产生幻觉。\n- **今天是否值得深入研究**：是\n- **建议行动**：收藏\n\n---\n\n## 5. Beyond Right and Wrong: Evaluating Second-order Social Reasoning in LLMs\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2609.05437\n- **一句话解释**：研究 LLM 的“二阶社会规范推理”——不仅知道某事“对不对”（一阶），还能预判“谁会来惩罚我、以什么方式惩罚（公开羞辱 vs 法律制裁）”（二阶）。\n- **它为什么重要**：真正的社会智能与戏剧冲突永远发生在二阶推理里：“我知道这不对，但我打赌警察不会来管，只有邻居会翻白眼”。这是让 NPC 从“假道德教条复读机”变成“鲜活心机人类”的关键杠杆。\n- **技术趋势标签**：Social Dynamics / Emergent Game Mechanics / Narrative Systems / HCI\n- **可复用模式**：**二阶预期博弈（Second-order Expectation Matrix）**——为 Agent 设置“规范识别”与“惩罚预期者画像”双层解耦系统，由预期执行者的反应驱动具体行为。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：构建三个角色 Prompt（主角、爱打小报告的同事、和稀泥的老板），让主角面临微小的道德违规（如偷喝公司可乐），观察不同惩罚预期下主角的行为策略演变。\n  2. **一个中型项目**：**Minecraft 村庄法律与私刑模拟器**：村民 Agent 不再依赖全局规则，而是根据“谁在看着我”来决定是否偷窃小麦，并演化出公开审判或私下报复机制。\n  3. **一个艺术/游戏/叙事方向**：**互动戏剧《旁观者的审判》**：在一个充满道德灰色的虚构小镇，玩家通过影响“谁被赋予了道德惩罚权”，操控小镇走向法治、民粹或无政府状态。\n- **对我项目的启发**：做多 Agent 社会模拟或动态叙事时，不要只给 NPC 设定“性格标签”，要给他们设定“对惩罚的敏感度与预判能力”，戏剧张力立刻涌现。\n- **今天是否值得深入研究**：否\n- **建议行动**：收藏\n\n---\n\n## 今日模式总结\n\n1. **结构化/因果约束替代纯概率生成（Causal/Graph constraints over pure probability）**：\n   无论是把游戏规则编译成 Causal DAG（Compiling VGDL），还是用超图存储记忆（EdgeMem），趋势都是从“把一切丢给 LLM 猜”转向“用精确的图结构约束模型边界”。\n2. **状态与环境的即时自动化合成（Runtime Environment Synthesis）**：\n   如 EnvCraft 所展现，Agent 正在超越被动的聊天界面，进入“为了完成任务，动态捏出一个可运行的状态环境”的自举闭环。\n3. **上下文极简主义与分层代理（Aggressive Context Minimization）**：\n   从 context-mode 的沙盒降噪到超图免 LLM 提取，开发者正在全力抵抗长上下文带来的速度慢、费用高和注意衰减。\n\n---\n\n## 今日可做小实验\n\n### 实验名称：**Mini-CausalGame：DSL 到因果图的即时物理引擎**\n\n- **输入**：一段用简单 YAML 声明的微型游戏规则（例如：定义火、水、冰、草的相互作用与胜利条件）。\n- **输出**：一个可交互的单 HTML 页面，左边是动态渲染的因果网络图（Vis.js 或 Mermaid），右边是一个根据因果图逻辑受限的文字解谜终端，模型不得做出违反因果边的行动。\n- **技术栈**：Python / Node.js + LiteLLM (调用本地 Ollama 或 Claude) + Mermaid.js / Vis.js + 纯 HTML\n- **第一步怎么做**：\n  1. 新建一个 `rules.yaml`，写下 4 条规则（如：`action: burn; source: torch; target: grass; result: fire`；`rule: fire + water -> steam`）。\n  2. 写一个 20 行脚本解析该 YAML，生成一个节点关系字典 `{\"torch\": [\"grass\", \"fire\"]}`。\n  3. 组装 Prompt：“你是一个严格受限于以下因果图的执行器：[注入因果边]，当用户输入‘对草使用火把’，请确认该路径是否存在，若存在返回状态改变，若不存在返回物理无效拒绝执行。”验证其是否 100% 免疫幻觉。",
+  "gemini_success": true,
+  "telegram_sent": true,
+  "telegram_status": "sent",
+  "telegram_reason": ""
+}
