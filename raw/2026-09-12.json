@@ -1,0 +1,293 @@
+[
+  {
+    "title": "EMMI: Edge Multi-Modal Intelligence for Communication-Efficient MLLM Inference via Fused Representation Compression",
+    "url": "https://arxiv.org/abs/2609.11058",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.11058v1 Announce Type: new \nAbstract: Recent advances in multimodal large language mod- els (MLLMs) have opened new opportunities for edge intelligence by enabling reasoning across heterogeneous sensor modalities, such as vision, text, and telemetry data. However, deploying these capabilities on resource-constrained edge platforms remains challenging due to the substantial computational, memory, and communication demands of modern MLLMs. Rather than transmitting raw sensor observation",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "multimodal",
+      "inference",
+      "reasoning",
+      "memory"
+    ]
+  },
+  {
+    "title": "alsk1992 / CloddsBot",
+    "url": "https://github.com/alsk1992/CloddsBot",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude. [626 stars today]",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "open source",
+      "autonomous",
+      "self-hosted"
+    ]
+  },
+  {
+    "title": "OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows",
+    "url": "https://arxiv.org/abs/2609.09203",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.09203v1 Announce Type: new \nAbstract: Existing benchmarks for autonomous AI scientists evaluate only final outputs---generated code, hypotheses, or papers---yet discard the reasoning process by which those outputs were obtained. This makes it impossible to audit scientific methodology, diagnose failure modes, or distinguish systematic reasoning from fortunate guessing. We present \\textbf{OpenDiscoveryTrace}, a public dataset of 558 complete AI scientific agent trajectories that captur",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow",
+      "autonomous",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "AgentAudit: An Open, Extensible Framework for Full-Lifecycle Trust Evaluation of AI Agents",
+    "url": "https://arxiv.org/abs/2609.09875",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.09875v1 Announce Type: new \nAbstract: Existing evaluation frameworks mostly assess only one part of AI agents, such as task completion (AgentBench) or security robustness (AgentDojo, ASB), rather than the complete pipeline of planning, tool selection, tool execution, memory and reasoning. Failures can occur at any stage, yet existing benchmarks rarely identify their precise source. AgentAudit evaluates the entire execution trace across ten capability, grounding, security and behaviour",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "reasoning",
+      "planning",
+      "memory"
+    ]
+  },
+  {
+    "title": "Belief-State Engine: Augmenting LLMs for Principled Planning Under Partial Observability",
+    "url": "https://arxiv.org/abs/2609.10036",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.10036v1 Announce Type: new \nAbstract: Large language model agents produce fluent action sequences across a wide range of tasks, yet they fail in characteristic ways once the environment becomes partially observable. Ambiguous feedback pushes them into premature commitments. A single informative observation can collapse their uncertainty onto the wrong hypothesis. Policies drift as the history grows. We trace these symptoms to a common structural cause. An LLM agent, as commonly deploy",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "planning"
+    ]
+  },
+  {
+    "title": "Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training",
+    "url": "https://arxiv.org/abs/2609.10939",
+    "source": "arXiv cs.HC",
+    "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.10939v1 Announce Type: cross \nAbstract: Clinical education must prepare medical students to conduct safe and coherent patient interviews under conditions of uncertainty. Traditional standardized patient (SP) training is resource-intensive and difficult to scale. We developed a scaffolding-oriented multi-agent Large Language Model (LLM) AI Standardized Patient (AI-SP) training platform1. The system includes a patient agent for simulated dialog, a tutor agent providing Socratic prompts ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "prompt"
+    ]
+  },
+  {
+    "title": "CARLAverse: A Highly Modular, Distributed, and Multimodal Framework for Human-in-the-Loop Simulation",
+    "url": "https://arxiv.org/abs/2609.11478",
+    "source": "arXiv cs.HC",
+    "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.11478v1 Announce Type: cross \nAbstract: The development of autonomous driving demands comprehensive testing in mixed-traffic scenarios involving vulnerable road users (VRUs), where purely artificial agents often fail to capture authentic human social negotiations. While human-in-the-loop (HITL) simulators enable safe investigation of these interactions, existing multi-agent platforms struggle with the network latency and synchronization constraints required for high-fidelity haptic fe",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "simulation",
+      "autonomous",
+      "multimodal"
+    ]
+  },
+  {
+    "title": "OmegaUse-SOP: SOP Engineering for Professional Computer Use from Human Demonstrations",
+    "url": "https://arxiv.org/abs/2609.02149",
+    "source": "arXiv cs.HC",
+    "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.02149v3 Announce Type: replace \nAbstract: Large language models (LLMs) are increasingly evolving from conversational assistants into agents capable of operating external digital environments. Graphical user interface (GUI) agents play an important role in this transition, as many real-world workflows remain accessible only through user-facing software interfaces. However, despite recent progress on general computer-use benchmarks, domain-specific professional standard operating proced",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "language model"
+    ]
+  },
+  {
+    "title": "diegosouzapw / OmniRoute",
+    "url": "https://github.com/diegosouzapw/OmniRoute",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors [801 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "Claude",
+      "Gemini",
+      "Copilot",
+      "GPT"
+    ]
+  },
+  {
+    "title": "Subagents vs Agent Skills: Executing Reusable Knowledge for Long-Horizon Agentic Tasks",
+    "url": "https://arxiv.org/abs/2609.09233",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.09233v1 Announce Type: new \nAbstract: How can language model agents effectively leverage libraries of reusable knowledge to solve long-horizon tasks? Recent work has increasingly focused on agent skills: reusable capabilities represented as skill packages, i.e., multi-file bundles containing instructions, scripts, and other resources that help agents perform specific tasks. Agent skills are typically executed by loading their skill instructions into an agent's context and relying on t",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "language model",
+      "RAG"
+    ]
+  },
+  {
+    "title": "An Autonomous GeoAI Agent for Arctic Eco-Navigation",
+    "url": "https://arxiv.org/abs/2609.09374",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.09374v1 Announce Type: new \nAbstract: Arctic maritime navigation is becoming increasingly important as changing sea-ice conditions expand seasonal accessibility while simultaneously introducing substantial operational, environmental, and community risks. Arctic route planning is inherently a multi-criteria problem: routes that improve vessel safety or efficiency may increase exposure to sea ice, sensitive ecosystems, or nearby communities. Existing routing methods prioritize travel ti",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "autonomous",
+      "planning"
+    ]
+  },
+  {
+    "title": "Do Agents Know When They Succeed? Calibrating Agent Confidence from Internal Representations",
+    "url": "https://arxiv.org/abs/2609.09448",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.09448v1 Announce Type: new \nAbstract: As agentic systems getting adopted rapidly in safety critical applications, it is vital to measure the confidence associated with the agentic actions. In comparison to the traditional machine learning systems, agentic workflows have complex failure modes with planning, tool invocation and dynamic environment interactions. In this paper, we investigate whether model's internal representations provide stronger signals of eventual task success in mul",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow",
+      "planning"
+    ]
+  },
+  {
+    "title": "ContractEval: Query-Conditioned Execution Matching for Procedural Instruction Conformance",
+    "url": "https://arxiv.org/abs/2609.09458",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.09458v1 Announce Type: new \nAbstract: As LLM agents move from answering questions to carrying out procedures, failures can be unwarranted rather than visibly wrong: the final response looks acceptable even though the system skipped the check, branch, dependency, or invariant that made the answer justified. Output-only evaluation sees the answer, and trace-aware judging sees activity, but neither identifies which obligations were active for the query. We introduce CONTRACTEVAL, a diagn",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "procedural"
+    ]
+  },
+  {
+    "title": "Multi-Agent Agentic Graph Learning via Structural Signatures",
+    "url": "https://arxiv.org/abs/2609.09565",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.09565v1 Announce Type: new \nAbstract: Agentic graph learning (AGL) has recently achieved promising results on graph reasoning tasks, where an agent powered by a large language model (LLM) sequentially samples the graph as evidence to support its final prediction. Existing methods either employ a single agent or orchestrate multiple role-based agents to reason and learn over the entire graph, but both essentially rely on a shared reasoning policy across different graph regions, which c",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "PRAGMA: Evaluating Personalized Guidance with Memory Alignment in Lifelong Conversations",
+    "url": "https://arxiv.org/abs/2609.09664",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.09664v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly deployed as personalized assistants that interact with users over extended periods of time. As conversations grow longer, relying on full interaction histories becomes increasingly inefficient and unreliable: long contexts introduce substantial computational overhead, making it difficult for models to consistently identify and utilize the most relevant information for the current request. These challen",
+    "score": 8.0,
+    "keywords_matched": [
+      "LLM",
+      "language model",
+      "RAG",
+      "memory"
+    ]
+  },
+  {
+    "title": "Procedural Memory Under Change: Reuse and Interference in Controlled Web Tasks",
+    "url": "https://arxiv.org/abs/2609.09774",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.09774v1 Announce Type: new \nAbstract: Procedural memory lets language agents reuse successful routines, but reuse presumes that a stored routine remains applicable. We study what happens when that presumption is deliberately violated. The study combines a retrospective, human-assisted interface-adaptation case from BrowserGym TimeWarp with controlled frozen-memory comparisons on synthetic shopping decisions. During the documented WebShop V1-V6 development path, interface-specific code",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "memory",
+      "procedural"
+    ]
+  },
+  {
+    "title": "Grounded Evaluation and Repair for NL-to-PDDL Problem Generation",
+    "url": "https://arxiv.org/abs/2609.09898",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.09898v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have shown promise for translating Natural Language (NL) planning descriptions into PDDL problem instances. However, standard evaluation criteria such as syntactic validity or planner success can substantially overestimate faithfulness to the described task: a generated problem may be parseable and solvable while misrepresenting the intended initial state, goal, object structure, or optimization target. This paper stud",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "planning"
+    ]
+  },
+  {
+    "title": "RAP: Research Attention Prediction Reveals Target-Conditioned Evidence Acquisition Biases",
+    "url": "https://arxiv.org/abs/2609.10092",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.10092v1 Announce Type: new \nAbstract: Large language models (LLMs) increasingly act as research agents, yet their ability to track shifts in research attention is difficult to evaluate because reviews and research ideas lack uniquely verifiable outcomes. We introduce Research Attention Prediction (RAP), a rolling benchmark covering 278 AI/ML fields and 1,390 episodes. At each cut-off, an LLM agent searches a temporally restricted arXiv corpus and predicts the next six months' paper sh",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model"
+    ]
+  },
+  {
+    "title": "What Makes Creation Human? Authorship, Reasons, and Meaningful Human Control in Generative AI",
+    "url": "https://arxiv.org/abs/2609.10738",
+    "source": "arXiv cs.HC",
+    "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.10738v1 Announce Type: new \nAbstract: Generative artificial intelligence (GenAI) significantly expands creators' productive capacity, but this does not necessarily entail a corresponding increase in creative agency or authorship. This paper distinguishes creativity at the level of the work from creative agency at the level of the creator, and argues that human authorship cannot be determined solely by manual intervention, degree of automation, the origin of an initial idea, or final s",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "automation",
+      "generative art",
+      "generative"
+    ]
+  },
+  {
+    "title": "Finishing the Task Is Not Enough: Evaluating Agent Resilience and Considerate Participation under Accumulating Challenge",
+    "url": "https://arxiv.org/abs/2609.10724",
+    "source": "arXiv cs.HC",
+    "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.10724v1 Announce Type: cross \nAbstract: Sustained deployment of generative AI agents requires more than isolated task success. Agents must remain useful across repeated interactions, changing conditions, and dependencies on people within shared workflows, especially as technical, human, and operational disruptions accumulate over time. We propose operational resilience and considerate participation as two complementary aspects of evaluating such agents: the former captures how agents ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow",
+      "generative"
+    ]
+  }
+]
