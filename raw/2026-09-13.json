@@ -1,0 +1,283 @@
+[
+  {
+    "title": "Benchmark Radar: A Living Database and Search Engine for AI Benchmarks and Evaluation",
+    "url": "https://arxiv.org/abs/2609.11115",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 12 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.11115v1 Announce Type: new \nAbstract: Benchmark researchers and developers of large language models (LLMs) and other AI systems need to find relevant evaluations, locate their benchmark datasets and code, and understand the settings behind reported scores. We present Benchmark Radar, a living database and search engine for retrieval and discovery of AI benchmarks, covering LLM evaluation, agentic and tool-use benchmarks, coding, reasoning, safety, and domain-specific evaluations. The ",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "reasoning",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "alsk1992 / CloddsBot",
+    "url": "https://github.com/alsk1992/CloddsBot",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude. [376 stars today]",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "open source",
+      "autonomous",
+      "self-hosted"
+    ]
+  },
+  {
+    "title": "Decoupling Readiness from Release for Tail-Aware Scheduling of Agentic LLM Workflows",
+    "url": "https://arxiv.org/abs/2609.10964",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 12 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.10964v1 Announce Type: new \nAbstract: Agentic LLM workflows consist of sequences of model turns interleaved with tool interactions, so their end-to-end completion time depends not only on inference speed but also on when ready turns are released. Most runtimes release each turn immediately upon readiness. Under contention, this eager release policy can accumulate released but unfinished work; once submitted, those turns can no longer be reordered by the workflow-level policy, increasi",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "inference"
+    ]
+  },
+  {
+    "title": "Autonomous Chemical Mechanistic Discovery through Agentic Reasoning and Validation",
+    "url": "https://arxiv.org/abs/2609.11147",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 12 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.11147v1 Announce Type: new \nAbstract: Unraveling reaction mechanisms is central to modern chemistry, yet automating these investigations remains challenging because computational workflows still rely heavily on expert intervention. Here we introduce ARCHE, an autonomous agentic system that integrates a general-purpose reasoning model, a domain-specialized computational chemistry model, and a structured tool registry to transform mechanistic inquiry into a scalable, self-validating pro",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow",
+      "autonomous",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Shubhamsaboo / awesome-llm-apps",
+    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source. [230 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "open source",
+      "RAG"
+    ]
+  },
+  {
+    "title": "asgeirtj / system_prompts_leaks",
+    "url": "https://github.com/asgeirtj/system_prompts_leaks",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly. [217 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "Claude",
+      "Gemini",
+      "GPT",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Understanding LoRA Rank Trade-offs in Diffusion Model Fine-Tuning",
+    "url": "https://arxiv.org/abs/2609.10656",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 12 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.10656v1 Announce Type: new \nAbstract: Selecting LoRA rank for diffusion fine-tuning requires balancing quality and compute cost. We present a controlled study on CIFAR-10 using a DDPM U-Net with ranks {2,4,8,16,32}, fixed optimization settings, and a reproducible local-folder pytorch-fid protocol. We report FID, trainable parameters, runtime, and GPU memory, then validate trends with extended-budget DDPM runs (20 epochs; ranks 4/8/16) and a Tiny DiT backbone (10 epochs; ranks 4/8/16).",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "diffusion",
+      "fine-tuning",
+      "memory"
+    ]
+  },
+  {
+    "title": "Finishing the Task Is Not Enough: Evaluating Agent Resilience and Considerate Participation under Accumulating Challenge",
+    "url": "https://arxiv.org/abs/2609.10724",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 12 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.10724v1 Announce Type: new \nAbstract: Sustained deployment of generative AI agents requires more than isolated task success. Agents must remain useful across repeated interactions, changing conditions, and dependencies on people within shared workflows, especially as technical, human, and operational disruptions accumulate over time. We propose operational resilience and considerate participation as two complementary aspects of evaluating such agents: the former captures how agents re",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow",
+      "generative"
+    ]
+  },
+  {
+    "title": "Studying Without a Syllabus: Task-Agnostic Environment Preprocessing",
+    "url": "https://arxiv.org/abs/2609.10824",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 12 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.10824v1 Announce Type: new \nAbstract: Before an LLM agent tackles tasks in a new environment, it can inspect available corpora and tools and construct reusable resources such as indices, scripts, or procedural guidance. Most automated adaptation methods, however, rely on task examples, trajectories, or evaluation feedback to decide what to build. Existing task-agnostic approaches avoid this supervision but commit in advance to a preparation strategy for a particular type of environmen",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "procedural"
+    ]
+  },
+  {
+    "title": "SemVerBench: Benchmarking LLM Comprehension of Version-Constraint Resolution Semantics",
+    "url": "https://arxiv.org/abs/2609.11180",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 12 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.11180v1 Announce Type: new \nAbstract: Large language model (LLM) coding agents constantly decide whether a version satisfies a constraint such as ^1.2.3 or >=2.0,<3, yet their grasp of version-constraint semantics has never been measured directly. We introduce SemVerBench, the first benchmark of LLM version-constraint resolution semantics across three ecosystems (npm, PEP 440, Cargo): 240 machine-checkable items with unique answers, built author-neutrally from four balanced sources (e",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model"
+    ]
+  },
+  {
+    "title": "A Voice-Interactive Multi-Agent System for Smart Operating Rooms: Architecture Design and Key Technologies",
+    "url": "https://arxiv.org/abs/2609.11231",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 12 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.11231v1 Announce Type: new \nAbstract: This paper presents SurgicalRoomAgent, a voice-interactive multi-agent system for smart operating rooms based on large language models (LLMs). The system achieves natural language understanding, device control, intraoperative recording, and surgical report generation through a layered architecture comprising a voice interaction pipeline (wake, ASR, turn detection, agent reasoning, TTS) and an agent core (skill registry, task planner, device manage",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Sci-MMR: Benchmarking Multi-Step Evidence-Grounded Scientific Reasoning in Multimodal Agents",
+    "url": "https://arxiv.org/abs/2609.11243",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 12 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.11243v1 Announce Type: new \nAbstract: Autonomous research agents are increasingly expected to search the literature, analyze experimental evidence, and generate scientific hypotheses. These capabilities require multi-step evidence grounded reasoning that progressively acquires, integrates, and verifies evidence before reaching a conclusion. Existing multimodal benchmarks, however, largely evaluate final-answer accuracy, leaving open whether predictions are actually supported by tracea",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "autonomous",
+      "multimodal",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Bio-inspired Learning and Decision-Making with Probabilistic In-Memory Computing Hardware: Part 1",
+    "url": "https://arxiv.org/abs/2609.11281",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 12 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.11281v1 Announce Type: new \nAbstract: Learning and decision-making in animals are often modeled as Bayesian processes, where sensory evidence is integrated with prior beliefs to guide behavior in the face of uncertainty. But what are the inherent neural dynamics that give rise to this ability, and how could they be replicated in computing systems? This abstract discusses a biologically grounded framework in which noisy neural and synaptic dynamics perform inference and learning via st",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "neural",
+      "inference",
+      "memory"
+    ]
+  },
+  {
+    "title": "An Open Recipe for IMO Gold: Training Nemotron for Olympiad Mathematics",
+    "url": "https://arxiv.org/abs/2609.10712",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 12 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.10712v1 Announce Type: new \nAbstract: We study how model post-training and test-time inference design affect natural-language proof generation for hard olympiad mathematics. Starting from Nemotron 3 Ultra, we train two specialist checkpoints using supervised fine-tuning and reinforcement learning, and evaluate checkpoint choice, verification, and refinement. Based on these findings, we present an open-model test-time-compute pipeline. The system operates entirely in natural language, ",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "fine-tuning",
+      "inference"
+    ]
+  },
+  {
+    "title": "Demystifying the Privacy-Utility Trade-off in LLM Interactions",
+    "url": "https://arxiv.org/abs/2609.10992",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 12 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.10992v1 Announce Type: new \nAbstract: The integration of Large Language Models into daily tasks relies on context-rich instructions, inevitably exposing sensitive user information. Current privacy-preserving methods typically employ context-agnostic static rules, causing severe utility degradation. However, the specific mechanisms governing how sanitization impacts downstream performance remain largely underexplored. To address this, we conduct a systematic analysis to deconstruct the",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model"
+    ]
+  },
+  {
+    "title": "Grounding Agent Memory: Environment-Probing Curation for Enterprise Agents",
+    "url": "https://arxiv.org/abs/2609.11060",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 12 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.11060v1 Announce Type: new \nAbstract: Persistent memory is entering production-oriented agent platforms to help long-horizon agents accumulate experience across sessions. Yet a post-task curator agent restricted to completed trajectories can preserve errors, overgeneralize partial evidence, or retain stale knowledge. We introduce environment-probing curation, a deployment-compatible extension that gives an existing asynchronous curator agent least-privilege, read-only world tools to c",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "memory"
+    ]
+  },
+  {
+    "title": "MOSAIC: Query-Aware Exploration Policy Adaptation for GraphRAG",
+    "url": "https://arxiv.org/abs/2609.11065",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 12 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.11065v1 Announce Type: new \nAbstract: Graph Retrieval-Augmented Generation (GraphRAG) can connect evidence distributed across a corpus graph, but most systems use largely shared exploration procedures across queries. This creates a structural mismatch: direct facts may need compact local neighborhoods, comparisons need balanced coverage of multiple targets, and mediated questions may require deeper paths through weakly related connectors. We present Mosaic, a training-free framework t",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "RAG",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "The Oligarch Barely Steers Model Collapse in Multi-Model Ecosystems",
+    "url": "https://arxiv.org/abs/2609.11146",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 12 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.11146v1 Announce Type: new \nAbstract: AI-generated text is flowing back into the training corpora of the next generation of models. Recursive training on it drives model collapse, and recent work extends the setting to many models feeding one another -- but almost always with the market split evenly, while real generative AI is an oligopoly. Concentration raises two worries: fewer, more uniform sources may make collapse faster, and later models may be dragged toward the oligarch's out",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "RAG",
+      "generative"
+    ]
+  },
+  {
+    "title": "DRG-MAPPO: Hierarchical Dynamic Role-Graph Multi-Agent Reinforcement Learning for Cooperative Air Combat",
+    "url": "https://arxiv.org/abs/2609.11155",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 12 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.11155v1 Announce Type: new \nAbstract: Multi-Agent Reinforcement Learning (MARL) has emerged as a pivotal paradigm for complex decision-making in autonomous systems and air combat. While MARL has demonstrated significant potential in air combat, achieving sophisticated tactical coordination remains a non-trivial challenge. This difficulty is largely attributed to two primary limitations: (1) the absence of structured relational modeling hinders agents from capturing complex, time-varyi",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "Can LLMs Follow Medical Expert Logic? A Benchmark for Hierarchical Logical Consistency in Risk-of-Bias Assessment",
+    "url": "https://arxiv.org/abs/2609.11185",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 12 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.11185v1 Announce Type: new \nAbstract: Evidence-based medicine demands strict logical consistency, yet current evaluations of large language models (LLMs) prioritize superficial label matching over genuine reasoning. We introduce LogiMed-RoB, a benchmark grounded in Cochrane Risk of Bias (RoB) 2.0 expert logic, comprising 860 randomized controlled trials (RCTs) and 14,820 queries. It evaluates models under the Hierarchical Logical Consistency (HLC) framework across four dimensions: Ato",
+    "score": 6.0,
+    "keywords_matched": [
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  }
+]

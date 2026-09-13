@@ -1,0 +1,291 @@
+{
+  "date": "2026-09-13",
+  "candidates": [
+    {
+      "title": "Benchmark Radar: A Living Database and Search Engine for AI Benchmarks and Evaluation",
+      "url": "https://arxiv.org/abs/2609.11115",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 12 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.11115v1 Announce Type: new \nAbstract: Benchmark researchers and developers of large language models (LLMs) and other AI systems need to find relevant evaluations, locate their benchmark datasets and code, and understand the settings behind reported scores. We present Benchmark Radar, a living database and search engine for retrieval and discovery of AI benchmarks, covering LLM evaluation, agentic and tool-use benchmarks, coding, reasoning, safety, and domain-specific evaluations. The ",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "reasoning",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "alsk1992 / CloddsBot",
+      "url": "https://github.com/alsk1992/CloddsBot",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude. [376 stars today]",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "open source",
+        "autonomous",
+        "self-hosted"
+      ]
+    },
+    {
+      "title": "Decoupling Readiness from Release for Tail-Aware Scheduling of Agentic LLM Workflows",
+      "url": "https://arxiv.org/abs/2609.10964",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 12 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.10964v1 Announce Type: new \nAbstract: Agentic LLM workflows consist of sequences of model turns interleaved with tool interactions, so their end-to-end completion time depends not only on inference speed but also on when ready turns are released. Most runtimes release each turn immediately upon readiness. Under contention, this eager release policy can accumulate released but unfinished work; once submitted, those turns can no longer be reordered by the workflow-level policy, increasi",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "workflow",
+        "inference"
+      ]
+    },
+    {
+      "title": "Autonomous Chemical Mechanistic Discovery through Agentic Reasoning and Validation",
+      "url": "https://arxiv.org/abs/2609.11147",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 12 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.11147v1 Announce Type: new \nAbstract: Unraveling reaction mechanisms is central to modern chemistry, yet automating these investigations remains challenging because computational workflows still rely heavily on expert intervention. Here we introduce ARCHE, an autonomous agentic system that integrates a general-purpose reasoning model, a domain-specialized computational chemistry model, and a structured tool registry to transform mechanistic inquiry into a scalable, self-validating pro",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "workflow",
+        "autonomous",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Shubhamsaboo / awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source. [230 stars today]",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "open source",
+        "RAG"
+      ]
+    },
+    {
+      "title": "asgeirtj / system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly. [217 stars today]",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "Claude",
+        "Gemini",
+        "GPT",
+        "prompt"
+      ]
+    },
+    {
+      "title": "Understanding LoRA Rank Trade-offs in Diffusion Model Fine-Tuning",
+      "url": "https://arxiv.org/abs/2609.10656",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 12 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.10656v1 Announce Type: new \nAbstract: Selecting LoRA rank for diffusion fine-tuning requires balancing quality and compute cost. We present a controlled study on CIFAR-10 using a DDPM U-Net with ranks {2,4,8,16,32}, fixed optimization settings, and a reproducible local-folder pytorch-fid protocol. We report FID, trainable parameters, runtime, and GPU memory, then validate trends with extended-budget DDPM runs (20 epochs; ranks 4/8/16) and a Tiny DiT backbone (10 epochs; ranks 4/8/16).",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "diffusion",
+        "fine-tuning",
+        "memory"
+      ]
+    },
+    {
+      "title": "Finishing the Task Is Not Enough: Evaluating Agent Resilience and Considerate Participation under Accumulating Challenge",
+      "url": "https://arxiv.org/abs/2609.10724",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 12 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.10724v1 Announce Type: new \nAbstract: Sustained deployment of generative AI agents requires more than isolated task success. Agents must remain useful across repeated interactions, changing conditions, and dependencies on people within shared workflows, especially as technical, human, and operational disruptions accumulate over time. We propose operational resilience and considerate participation as two complementary aspects of evaluating such agents: the former captures how agents re",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "workflow",
+        "generative"
+      ]
+    },
+    {
+      "title": "Studying Without a Syllabus: Task-Agnostic Environment Preprocessing",
+      "url": "https://arxiv.org/abs/2609.10824",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 12 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.10824v1 Announce Type: new \nAbstract: Before an LLM agent tackles tasks in a new environment, it can inspect available corpora and tools and construct reusable resources such as indices, scripts, or procedural guidance. Most automated adaptation methods, however, rely on task examples, trajectories, or evaluation feedback to decide what to build. Existing task-agnostic approaches avoid this supervision but commit in advance to a preparation strategy for a particular type of environmen",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "procedural"
+      ]
+    },
+    {
+      "title": "SemVerBench: Benchmarking LLM Comprehension of Version-Constraint Resolution Semantics",
+      "url": "https://arxiv.org/abs/2609.11180",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 12 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.11180v1 Announce Type: new \nAbstract: Large language model (LLM) coding agents constantly decide whether a version satisfies a constraint such as ^1.2.3 or >=2.0,<3, yet their grasp of version-constraint semantics has never been measured directly. We introduce SemVerBench, the first benchmark of LLM version-constraint resolution semantics across three ecosystems (npm, PEP 440, Cargo): 240 machine-checkable items with unique answers, built author-neutrally from four balanced sources (e",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model"
+      ]
+    },
+    {
+      "title": "A Voice-Interactive Multi-Agent System for Smart Operating Rooms: Architecture Design and Key Technologies",
+      "url": "https://arxiv.org/abs/2609.11231",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 12 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.11231v1 Announce Type: new \nAbstract: This paper presents SurgicalRoomAgent, a voice-interactive multi-agent system for smart operating rooms based on large language models (LLMs). The system achieves natural language understanding, device control, intraoperative recording, and surgical report generation through a layered architecture comprising a voice interaction pipeline (wake, ASR, turn detection, agent reasoning, TTS) and an agent core (skill registry, task planner, device manage",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Sci-MMR: Benchmarking Multi-Step Evidence-Grounded Scientific Reasoning in Multimodal Agents",
+      "url": "https://arxiv.org/abs/2609.11243",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 12 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.11243v1 Announce Type: new \nAbstract: Autonomous research agents are increasingly expected to search the literature, analyze experimental evidence, and generate scientific hypotheses. These capabilities require multi-step evidence grounded reasoning that progressively acquires, integrates, and verifies evidence before reaching a conclusion. Existing multimodal benchmarks, however, largely evaluate final-answer accuracy, leaving open whether predictions are actually supported by tracea",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "autonomous",
+        "multimodal",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Bio-inspired Learning and Decision-Making with Probabilistic In-Memory Computing Hardware: Part 1",
+      "url": "https://arxiv.org/abs/2609.11281",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 12 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.11281v1 Announce Type: new \nAbstract: Learning and decision-making in animals are often modeled as Bayesian processes, where sensory evidence is integrated with prior beliefs to guide behavior in the face of uncertainty. But what are the inherent neural dynamics that give rise to this ability, and how could they be replicated in computing systems? This abstract discusses a biologically grounded framework in which noisy neural and synaptic dynamics perform inference and learning via st",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "neural",
+        "inference",
+        "memory"
+      ]
+    },
+    {
+      "title": "An Open Recipe for IMO Gold: Training Nemotron for Olympiad Mathematics",
+      "url": "https://arxiv.org/abs/2609.10712",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 12 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.10712v1 Announce Type: new \nAbstract: We study how model post-training and test-time inference design affect natural-language proof generation for hard olympiad mathematics. Starting from Nemotron 3 Ultra, we train two specialist checkpoints using supervised fine-tuning and reinforcement learning, and evaluate checkpoint choice, verification, and refinement. Based on these findings, we present an open-model test-time-compute pipeline. The system operates entirely in natural language, ",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "fine-tuning",
+        "inference"
+      ]
+    },
+    {
+      "title": "Demystifying the Privacy-Utility Trade-off in LLM Interactions",
+      "url": "https://arxiv.org/abs/2609.10992",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 12 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.10992v1 Announce Type: new \nAbstract: The integration of Large Language Models into daily tasks relies on context-rich instructions, inevitably exposing sensitive user information. Current privacy-preserving methods typically employ context-agnostic static rules, causing severe utility degradation. However, the specific mechanisms governing how sanitization impacts downstream performance remain largely underexplored. To address this, we conduct a systematic analysis to deconstruct the",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model"
+      ]
+    },
+    {
+      "title": "Grounding Agent Memory: Environment-Probing Curation for Enterprise Agents",
+      "url": "https://arxiv.org/abs/2609.11060",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 12 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.11060v1 Announce Type: new \nAbstract: Persistent memory is entering production-oriented agent platforms to help long-horizon agents accumulate experience across sessions. Yet a post-task curator agent restricted to completed trajectories can preserve errors, overgeneralize partial evidence, or retain stale knowledge. We introduce environment-probing curation, a deployment-compatible extension that gives an existing asynchronous curator agent least-privilege, read-only world tools to c",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "memory"
+      ]
+    },
+    {
+      "title": "MOSAIC: Query-Aware Exploration Policy Adaptation for GraphRAG",
+      "url": "https://arxiv.org/abs/2609.11065",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 12 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.11065v1 Announce Type: new \nAbstract: Graph Retrieval-Augmented Generation (GraphRAG) can connect evidence distributed across a corpus graph, but most systems use largely shared exploration procedures across queries. This creates a structural mismatch: direct facts may need compact local neighborhoods, comparisons need balanced coverage of multiple targets, and mediated questions may require deeper paths through weakly related connectors. We present Mosaic, a training-free framework t",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "RAG",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "The Oligarch Barely Steers Model Collapse in Multi-Model Ecosystems",
+      "url": "https://arxiv.org/abs/2609.11146",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 12 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.11146v1 Announce Type: new \nAbstract: AI-generated text is flowing back into the training corpora of the next generation of models. Recursive training on it drives model collapse, and recent work extends the setting to many models feeding one another -- but almost always with the market split evenly, while real generative AI is an oligopoly. Concentration raises two worries: fewer, more uniform sources may make collapse faster, and later models may be dragged toward the oligarch's out",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "RAG",
+        "generative"
+      ]
+    },
+    {
+      "title": "DRG-MAPPO: Hierarchical Dynamic Role-Graph Multi-Agent Reinforcement Learning for Cooperative Air Combat",
+      "url": "https://arxiv.org/abs/2609.11155",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 12 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.11155v1 Announce Type: new \nAbstract: Multi-Agent Reinforcement Learning (MARL) has emerged as a pivotal paradigm for complex decision-making in autonomous systems and air combat. While MARL has demonstrated significant potential in air combat, achieving sophisticated tactical coordination remains a non-trivial challenge. This difficulty is largely attributed to two primary limitations: (1) the absence of structured relational modeling hinders agents from capturing complex, time-varyi",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "Can LLMs Follow Medical Expert Logic? A Benchmark for Hierarchical Logical Consistency in Risk-of-Bias Assessment",
+      "url": "https://arxiv.org/abs/2609.11185",
+      "source": "arXiv cs.AI",
+      "published_at": "Sat, 12 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.11185v1 Announce Type: new \nAbstract: Evidence-based medicine demands strict logical consistency, yet current evaluations of large language models (LLMs) prioritize superficial label matching over genuine reasoning. We introduce LogiMed-RoB, a benchmark grounded in Cochrane Risk of Bias (RoB) 2.0 expert logic, comprising 860 randomized controlled trials (RCTs) and 14,820 queries. It evaluates models under the Hierarchical Logical Consistency (HLC) framework across four dimensions: Ato",
+      "score": 6.0,
+      "keywords_matched": [
+        "LLM",
+        "language model",
+        "reasoning"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-09-13\n\n为你雷达扫描后精选的 4 项高价值技术火种。今天的主题高度收敛在**“Agent 的主体性、生存直觉与生产级 Spec 逆向”**，非常适合注入你的游戏生成系统和创作者工具链。\n\n---\n\n## 1. Studying Without a Syllabus: Task-Agnostic Environment Preprocessing\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2609.10824\n- **一句话解释**：让 Agent 在没有接任何具体任务前，先像拓荒者一样自主探索陌生环境，自动编译工具库、建立索引和写出“生存指南”。\n- **它为什么重要**：以往的 Agent 都是“给需求才动”（Task-driven），而这篇论文探讨的是“无纲领自适应”（Task-agnostic）。Agent 会主动摸索环境里的 API、文件、交互机制，生成预处理资产。这是构建具有自主意识 NPC 和自动化开荒工作流的关键跳板。\n- **技术趋势标签**：#AgenticEnvironment #自主探索 #ProceduralWorkflow #SpecGeneration\n- **可复用模式**：`Env-Inspection -> Asset-Synthesis -> Skill-Registry`（环境盲测 -> 资产提取 -> 注册为自制技能库）。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：给 Claude 扔一个没有任何 README 的冷门开源仓库，限制它不准运行任何测试用例，仅通过阅读目录和 AST 自动生成一份《新手黑客游玩指南.md》以及 3 个封装好的 CLI 便捷脚本。\n  2. **一个中型项目**：**Minecraft 拓荒先遣队**。新生成一个随机种子地图后，无任务 Agent 先自主在世界跑图 10 分钟，建立一份包含“附近矿脉热图、危险生物群系分布、当前资源最优科技树”的本地 Spec 文档，随后生成待执行任务列表给玩家或下游工作 Agent。\n  3. **一个艺术/游戏/叙事方向**：**《盲盒遗迹》文字冒险游戏**。玩家每进入一个程序生成的失落文明遗迹，AI 伴侣都在后台“无先验逆向工程”这个遗迹的神庙机关，根据它探测到的环境规律，实时生成带有仪式感但功能合乎逻辑的解谜机制。\n- **对我项目的启发**：在 Spec-driven 开发中，不要总由人类先写 Spec。可以让 Agent 先对目标沙盒做 Task-agnostic Preprocessing，反向提炼出环境规范（Environment Spec），开发者只需在上面做 Diff 修正。\n- **今天是否值得深入研究**：是\n- **建议行动**：做demo\n\n---\n\n## 2. system_prompts_leaks: 顶级工业 Agent 的系统级 Spec 解剖库\n- **来源**：GitHub Trending\n- **链接**：https://github.com/asgeirtj/system_prompts_leaks\n- **一句话解释**：全面逆向收集 Anthropic（Claude Code、Claude Design）、OpenAI、Cursor 等第一梯队产品的最新完整 System Prompt 泄露库。\n- **它为什么重要**：这不是猎奇八卦，这是**全球最顶尖团队的“Prompt 架构工程 Spec”实物切片**。你可以直接观察 Anthropic 和 OpenAI 是如何定义 Agent 的工具调用边界、文件读写协议、思维链约束以及失败自愈机制的，比读任何论文都更贴近工业级落地。\n- **技术趋势标签**：#PromptArchitecture #SpecDriven #AgentWorkflow #逆向工程\n- **可复用模式**：`Meta-Role + Negative Constraints + Tool Invocation Grammar`（角色元定义 + 严格负向约束 + 工具调用语法树）。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：对比 Claude Code 与 Cursor 的 System Prompt 结构，提取出它们用于“防止误删文件”与“长上下文记忆修剪”的特定 Prompt Block，合入你自己的日常开发 Agent。\n  2. **一个中型项目**：**System-Prompt-Linter**。一个基于 AST 和规则引擎的 VSCode 插件，根据泄露的顶级 Prompt 提炼出的防御性规则，对你自己编写的 Agent System Prompt 进行静态检查（如：检测是否有歧义指令、是否缺少边界终止条件）。\n  3. **一个艺术/游戏/叙事方向**：**AI 仿生人格冲突剧场**。把 Claude Code 的“极端严谨与任务至上”人格注入 NPC-A，把 Claude Design 的“审美发散与视觉权衡”注入 NPC-B，给它们同一套生成代码并围观它们在终端里吵架和博弈。\n- **对我项目的启发**：做 Agent 工具时，Spec 的编写风格可以直接套用顶级产品的模板（比如结构化 XML 标签、极端清晰的 Step-by-step 工具交互守则）。\n- **今天是否值得深入研究**：是\n- **建议行动**：收藏（必须把 Claude Code 和 Claude Design 的文件拉下来细读）\n\n---\n\n## 3. Grounding Agent Memory: Environment-Probing Curation\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2609.11060\n- **一句话解释**：Agent 不再盲信历史对话记录，而是在存入长期记忆前，主动向真实环境发探针“戳一下”验证事实，防止错误经验病毒式蔓延。\n- **它为什么重要**：Agent 长时间运行最怕“记忆污染”（幻觉被当作常识存进向量库）。本研究提出了一种主动探测机制（Active Probing），在维护持久记忆时不仅做文本归纳，还要主动跑测试、发探针，确保记忆是与环境强绑定的。\n- **技术趋势标签**：#AgentMemory #ActiveProbing #自愈系统 #可靠性工程\n- **可复用模式**：`Candidate Memory -> Probing Action -> Environment Feedback -> Validated Storage`（生成记忆候选 -> 发出验证探针 -> 获得物理真实反馈 -> 固化进记忆）。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：写一个只有 30 行代码的记忆校验器：当 Agent 总结出一条规则（如：“端口 8080 已被占满”）准备写入 memory.json 前，强制派发一个探测器执行 `nc -zv 127.0.0.1 8080`，验证失败则直接将该条记忆打上 `[HALLUCINATION]` 标签并丢弃。\n  2. **一个中型项目**：**Minecraft 动态经验簿**。NPC 学习生存技能时，记录下“用木镐可以挖钻石”，入库前触发一次行为探针（去试挖一次），探针捕获破坏失败后，NPC 记忆自动修正为“木镐无法破坏钻石，需要铁镐以上”。\n  3. **一个艺术/游戏/叙事方向**：**不可靠叙事解谜游戏**。玩家扮演一个机器人的“记忆审查官”，AI 机器人经常因为各种创伤生成虚假记忆，玩家需要根据世界环境的探针数据（物理痕迹、终端日志），剔除它的妄想，拼凑出飞船失事的真实始末。\n- **对我项目的启发**：在你的自动化流水线或世界生成管线中，不要让 LLM 纯靠上下文推理生成规则，每个记忆/规则的持久化必须绑定一个“可执行断言（Executable Assertion）”。\n- **今天是否值得深入研究**：是\n- **建议行动**：做demo\n\n---\n\n## 4. Finishing the Task Is Not Enough: Agent Resilience and Considerate Participation\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2609.10724\n- **一句话解释**：重新定义 Agent 的好坏——不仅看它能不能跑通任务，更看它在环境崩坏时的“韧性”以及与人类协作时的“体贴度”。\n- **它为什么重要**：终于有学术界开始从 HCI（人机交互）和系统韧性视角审视 Agent 了！过去的基准测试只看单一任务成功率，但现实是环境会有扰动、人类会临时插嘴改需求。这篇论文提出了“累积混乱下的抗打击能力”和“协同体贴度”，是做生成式协作系统（Co-creative tools）的理论金矿。\n- **技术趋势标签**：#HCI #Agent协作 #Resilience #情商与交互体验\n- **可复用模式**：`Disruption Ingestion -> Graceful Degradation -> Considerate Check-in`（摄入扰动 -> 优雅降级/兜底 -> 主动寻求人类最小成本确认）。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：设计一个“防暴怒代码助手”：模拟开发中断（比如你突然强行 Ctrl+C 或修改了正在生成的文件），观察 Agent 是否能保留已完成的暂存区，并体贴地发一条：“你刚才中断了我，我保留了前 15 行逻辑，接下来你打算自己写还是让我从第 16 行继续？”\n  2. **一个中型项目**：**体贴型 Game Master (AI-DM)**。在跑团或开放游戏世界中，当检测到玩家长时间处于挫败状态（频繁死亡/卡关/输入带情绪词汇），Agent 不破坏世界规则强行通关，而是动态引入环境微扰（如偶遇一个受伤的流浪商人遗落了补给），做到“无痕体贴”。\n  3. **一个艺术/游戏/叙事方向**：**双人默契实验游戏**。玩家必须和一个具有自主脾气的 AI 共同操作一台复杂的星际采矿机械，AI 会根据你的操作稳定度来调整它对你的“信任值”；你犯错时它不仅要补救，还会产生符合性格的微表情和对话反馈。\n- **对我项目的启发**：在设计 Creative Coding / 自动化设计工具时，不要追求“一次性黑盒跑完”，要把重点放在“当参数冲突时，Agent 如何体贴地向创作者提供可视化分支选择”。\n- **今天是否值得深入研究**：否（理念极佳，可作为系统设计的指导哲学，无需通读全文公式）\n- **建议行动**：收藏\n\n---\n\n## 今日模式总结\n\n1. **从“等待 Prompt”转向“环境主动嗅探”（Environment Probing & Preprocessing）**\n   顶尖 Agent 不再是一个被动的聊天框，而是一个被扔进未知生态系统后，能自己探索、自己下探针做单元测试、自己生成地图的“数字有机体”。\n2. **Spec 从静态代码扩展为双向协议（Bidirectional Contract）**\n   系统 Prompt 泄露库和韧性评估表明，工业级的 Spec 正在变成一个强约束、高防御、具备错误降级和情境感知的完整运行时配置。\n\n---\n\n## 今日可做小实验：主动式环境自检探针（Probe-Grounded Agent Memory）\n\n- **项目名**：`Probe-Memory-Mini`（带探针验证的极简 Agent 记忆缓存）\n- **输入**：一段 Agent 试图记录的“经验断言”（例如：`{\"belief\": \"当前目录包含未提交的 git 更改\", \"probe_command\": \"git status --porcelain\"}`）\n- **输出**：经由物理环境执行并裁决后的记忆对象（若 probe 返回空，则判定为伪经验，拒绝写入并在控制台亮红灯；若非空，写入 `active_memory.json`）。\n- **技术栈**：Node.js 或 Python（几行 `child_process.execSync` 或 `subprocess` 即可）、任意一个小 LLM（甚至直接写死 Mock 测试 logic）。\n- **第一步怎么做**：\n  1. 打开终端，新建一个目录 `probe-test` 并初始化 git。\n  2. 写一个 20 行的脚本：接受一个 `{ 事实描述, 检验命令, 期望条件 }` 对象。\n  3. 执行检验命令，捕获实际 stdout/stderr，断言失败则抛出 `MemoryPollutionError`。\n  4. 感受一下“不靠 LLM 自圆其说，而是靠环境反馈作为真实性锚点”的感觉。这将是你未来写游戏 Agent 世界感知闭环的核心基石。",
+  "gemini_success": true,
+  "telegram_sent": false,
+  "telegram_status": "failed",
+  "telegram_reason": "400 Client Error: Bad Request for url: https://api.telegram.org/bot8650722899:AAHUD-aqNDB7NwiPiGq3R22MVp77Cr_5GEQ/sendMessage"
+}
