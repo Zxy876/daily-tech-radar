@@ -1,0 +1,260 @@
+[
+  {
+    "title": "alsk1992 / CloddsBot",
+    "url": "https://github.com/alsk1992/CloddsBot",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude. [288 stars today]",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "open source",
+      "autonomous",
+      "self-hosted"
+    ]
+  },
+  {
+    "title": "Shubhamsaboo / awesome-llm-apps",
+    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source. [429 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "open source",
+      "RAG"
+    ]
+  },
+  {
+    "title": "asgeirtj / system_prompts_leaks",
+    "url": "https://github.com/asgeirtj/system_prompts_leaks",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly. [706 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "Claude",
+      "Gemini",
+      "GPT",
+      "prompt"
+    ]
+  },
+  {
+    "title": "tech-leads-club / agent-skills",
+    "url": "https://github.com/tech-leads-club/agent-skills",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence. [265 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "Copilot"
+    ]
+  },
+  {
+    "title": "TencentCloud / TencentDB-Agent-Memory",
+    "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks. [145 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "memory"
+    ]
+  },
+  {
+    "title": "multimodal-art-projection / YuE",
+    "url": "https://github.com/multimodal-art-projection/YuE",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing. [487 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "agent",
+      "multimodal",
+      "planning"
+    ]
+  },
+  {
+    "title": "melgarafael / DeskcommCRM",
+    "url": "https://github.com/melgarafael/DeskcommCRM",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD. [432 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "self-hosted"
+    ]
+  },
+  {
+    "title": "nashsu / llm_wiki",
+    "url": "https://github.com/nashsu/llm_wiki",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。 [256 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "RAG"
+    ]
+  },
+  {
+    "title": "vxcontrol / pentagi",
+    "url": "https://github.com/vxcontrol/pentagi",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks [590 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "alibaba / open-code-review",
+    "url": "https://github.com/alibaba/open-code-review",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. [443 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM"
+    ]
+  },
+  {
+    "title": "huggingface / transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. [152 stars today]",
+    "score": 5.0,
+    "keywords_matched": [
+      "AI",
+      "transformer",
+      "multimodal",
+      "inference"
+    ]
+  },
+  {
+    "title": "calesthio / OpenMontage",
+    "url": "https://github.com/calesthio/OpenMontage",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio. [380 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "SnailSploit / Claude-Red",
+    "url": "https://github.com/SnailSploit/Claude-Red",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development. [506 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "Claude"
+    ]
+  },
+  {
+    "title": "unclecode / crawl4ai",
+    "url": "https://github.com/unclecode/crawl4ai",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here:https://discord.gg/jP8KfhDhyN [655 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "LLM"
+    ]
+  },
+  {
+    "title": "simonlin1212 / TradingAgents-astock",
+    "url": "https://github.com/simonlin1212/TradingAgents-astock",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "A股多Agent投研框架 — 适配A股数据源(龙虎榜/游资/解禁等)，7位分析师基于A股规则的辩论决策，基于TradingAgents深度改造，适配大A。A-share multi-agent investment research framework — 7 AI analysts, bull/bear debate, risk assessment。 [7 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "microsoft / AI-Engineering-Coach",
+    "url": "https://github.com/microsoft/AI-Engineering-Coach",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "better agentic engineering [211 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "tashfeenahmed / freellmapi",
+    "url": "https://github.com/tashfeenahmed/freellmapi",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only. [229 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "LLM"
+    ]
+  },
+  {
+    "title": "The case against JPEG XL",
+    "url": "https://giannirosato.com/blog/post/case-against-jxl/",
+    "source": "Hacker News",
+    "published_at": "Mon, 14 Sep 2026 01:02:37 +0000",
+    "description": "Article URL: https://giannirosato.com/blog/post/case-against-jxl/ Comments URL: https://news.ycombinator.com/item?id=49690554 Points: 7 # Comments: 0",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  },
+  {
+    "title": "Open-Source AI and Open Models Reading List",
+    "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+    "source": "Hacker News",
+    "published_at": "Mon, 14 Sep 2026 00:22:51 +0000",
+    "description": "Article URL: https://www.interconnects.ai/p/open-source-ai-reading-list Comments URL: https://news.ycombinator.com/item?id=49690260 Points: 13 # Comments: 0",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  },
+  {
+    "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+    "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+    "source": "Hacker News",
+    "published_at": "Sun, 13 Sep 2026 21:06:13 +0000",
+    "description": "Article URL: https://www.vals.ai/blogs/fable-solves-cyphral-distich Comments URL: https://news.ycombinator.com/item?id=49688695 Points: 436 # Comments: 179",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  }
+]

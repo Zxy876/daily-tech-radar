@@ -1,0 +1,268 @@
+{
+  "date": "2026-09-14",
+  "candidates": [
+    {
+      "title": "alsk1992 / CloddsBot",
+      "url": "https://github.com/alsk1992/CloddsBot",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude. [288 stars today]",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "open source",
+        "autonomous",
+        "self-hosted"
+      ]
+    },
+    {
+      "title": "Shubhamsaboo / awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source. [429 stars today]",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "open source",
+        "RAG"
+      ]
+    },
+    {
+      "title": "asgeirtj / system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly. [706 stars today]",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "Claude",
+        "Gemini",
+        "GPT",
+        "prompt"
+      ]
+    },
+    {
+      "title": "tech-leads-club / agent-skills",
+      "url": "https://github.com/tech-leads-club/agent-skills",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence. [265 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "Copilot"
+      ]
+    },
+    {
+      "title": "TencentCloud / TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks. [145 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "memory"
+      ]
+    },
+    {
+      "title": "multimodal-art-projection / YuE",
+      "url": "https://github.com/multimodal-art-projection/YuE",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing. [487 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "agent",
+        "multimodal",
+        "planning"
+      ]
+    },
+    {
+      "title": "melgarafael / DeskcommCRM",
+      "url": "https://github.com/melgarafael/DeskcommCRM",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD. [432 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "self-hosted"
+      ]
+    },
+    {
+      "title": "nashsu / llm_wiki",
+      "url": "https://github.com/nashsu/llm_wiki",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。 [256 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "RAG"
+      ]
+    },
+    {
+      "title": "vxcontrol / pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks [590 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "alibaba / open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. [443 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM"
+      ]
+    },
+    {
+      "title": "huggingface / transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. [152 stars today]",
+      "score": 5.0,
+      "keywords_matched": [
+        "AI",
+        "transformer",
+        "multimodal",
+        "inference"
+      ]
+    },
+    {
+      "title": "calesthio / OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio. [380 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "SnailSploit / Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development. [506 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "Claude"
+      ]
+    },
+    {
+      "title": "unclecode / crawl4ai",
+      "url": "https://github.com/unclecode/crawl4ai",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here:https://discord.gg/jP8KfhDhyN [655 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "title": "simonlin1212 / TradingAgents-astock",
+      "url": "https://github.com/simonlin1212/TradingAgents-astock",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "A股多Agent投研框架 — 适配A股数据源(龙虎榜/游资/解禁等)，7位分析师基于A股规则的辩论决策，基于TradingAgents深度改造，适配大A。A-share multi-agent investment research framework — 7 AI analysts, bull/bear debate, risk assessment。 [7 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "microsoft / AI-Engineering-Coach",
+      "url": "https://github.com/microsoft/AI-Engineering-Coach",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "better agentic engineering [211 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "tashfeenahmed / freellmapi",
+      "url": "https://github.com/tashfeenahmed/freellmapi",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only. [229 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "title": "The case against JPEG XL",
+      "url": "https://giannirosato.com/blog/post/case-against-jxl/",
+      "source": "Hacker News",
+      "published_at": "Mon, 14 Sep 2026 01:02:37 +0000",
+      "description": "Article URL: https://giannirosato.com/blog/post/case-against-jxl/ Comments URL: https://news.ycombinator.com/item?id=49690554 Points: 7 # Comments: 0",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Open-Source AI and Open Models Reading List",
+      "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+      "source": "Hacker News",
+      "published_at": "Mon, 14 Sep 2026 00:22:51 +0000",
+      "description": "Article URL: https://www.interconnects.ai/p/open-source-ai-reading-list Comments URL: https://news.ycombinator.com/item?id=49690260 Points: 13 # Comments: 0",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+      "source": "Hacker News",
+      "published_at": "Sun, 13 Sep 2026 21:06:13 +0000",
+      "description": "Article URL: https://www.vals.ai/blogs/fable-solves-cyphral-distich Comments URL: https://news.ycombinator.com/item?id=49688695 Points: 436 # Comments: 179",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-09-14\n\n这是今天为你雷达扫描后筛选出的 5 个最具「疯狂发明家」潜质的技术种子：\n\n---\n\n## 1. YuE2：符号规划与智能体级音乐生成系统\n- **来源：** GitHub Trending Python\n- **链接：** https://github.com/multimodal-art-projection/YuE\n- **一句话解释：** 从纯黑盒端到端音频生成，跃迁为引入“符号规划（Symbolic Planning）”与“Agent 局部编辑”的全流程可控音乐创作引擎。\n- **它为什么重要：** 纯黑盒生成（如 Suno/Udio）最大的痛点是不可控和无法局部修改。YuE2 引入符号层与智能体编辑管线，把生成音乐从“抽卡买彩票”变成了“可编排、可局部修音的交互式设计系统”，这是生成式艺术工具从玩具走向专业级交互的核心转折点。\n- **技术趋势标签：** `#多模态生成` `#符号规划` `#AgenticAudio` `#创意编程`\n- **可复用模式：** **「宏观符号骨架（Symbolic Draft） + 微观神经渲染（Neural Audio） + Agent 差异修补（Diff-Editor）」** 三层解耦管线。\n- **疯狂发明家灵感：**\n  1. **一个小实验：** 用规则生成一段简短的 MIDI/文本旋律线（符号层），调用其 API/模型渲染成特定情绪的声音切片。\n  2. **一个中型项目：** 动态环境音生成器——根据玩家在虚拟空间的位置和情绪参数，实时下发乐理约束，现场合成无限长自适应环境配乐。\n  3. **一个艺术/游戏/叙事方向：** 《唱诗班 NPC》——在 Minecraft 或开放世界游戏中，NPC 吟游诗人会根据游戏实时世界事件（如刚刚发生的战斗或日落），现场写词、谱曲并即兴唱出符合场景调式的歌谣。\n- **对我项目的启发：** 不要把 LLM 仅用来写文案。让 LLM 充当“乐理/符号规划者”，底层音频模型负责物理合成，这是通往极高可控性生成艺术的标准范式。\n- **今天是否值得深入研究：** 是\n- **建议行动：** 做demo\n\n---\n\n## 2. OpenMontage：Agent 驱动的模块化视频工坊\n- **来源：** GitHub Trending Python\n- **链接：** https://github.com/calesthio/OpenMontage\n- **一句话解释：** 包含 12 条制作管线、700+ 个 Agent Skills 的开源自动化影视制作系统，把代码助手变成分镜师与剪辑师。\n- **它为什么重要：** 它代表了 Creative Tool 的最新趋势：不是做一个复杂的图形界面，而是把影视制作知识库拆解成成百上千个微小的「Skill 规范文件（Spec/Markdown）」，由调度 Agent 自主装配、调用 FFmpeg/生成工具链完成渲染。\n- **技术趋势标签：** `#AgentWorkflow` `#自动化管线` `#SpecDriven` `#计算摄影与剪辑`\n- **可复用模式：** **「技能离散化（Skill-as-Code）」**：把复杂的非线性制作流程，解构为一组带严格输入/输出 schema 的领域技能文件，由 LLM 根据制作目标动态编排 DAG。\n- **疯狂发明家灵感：**\n  1. **一个小实验：** 提取其剪辑逻辑，写一个 Agent 工具，根据字幕停顿和语气词自动给录屏视频加 B-roll 和转场震动。\n  2. **一个中型项目：** 游戏高光时刻自动剪辑导演——接入游戏录屏与事件日志（如 Minecraft 击杀、掉落、死亡），自动拉镜头、配音效并导出符合短视频叙事节奏的短片。\n  3. **一个艺术/游戏/叙事方向：** “自演剧场”——由 3 个 Agent 分别扮演编剧、分镜师与演员，每天自主产出一部微型荒诞派 3D 动画连载。\n- **对我项目的启发：** 如果要做复杂的多媒体项目，不要写死几万行 Python 脚本；把专业知识固化为标准 Skill 文件，用 Spec 约束 Agent 跑流水线。\n- **今天是否值得深入研究：** 是\n- **建议行动：** 试用\n\n---\n\n## 3. llm_wiki：自生长的互联认知维基\n- **来源：** GitHub Trending TypeScript\n- **链接：** https://github.com/nashsu/llm_wiki\n- **一句话解释：** 告别每次查询都临时切片的传统 RAG，让 LLM 随新材料输入，增量维护、动态链接一个结构化的持久知识库。\n- **它为什么重要：** 传统 RAG 是死板的“向量相似检索”，丢失了知识之间的因果、演化和概念引用。llm_wiki 采用类似人类“双链笔记（Obsidian）”的逻辑，把信息整合为自愈、增量的知识图谱网络，极其适合需要长期一致性的世界观设定系统。\n- **技术趋势标签：** `#持久化记忆` `#知识图谱` `#超越传统RAG` `#个人认知OS`\n- **可复用模式：** **「增量概念同化（Incremental Assimilation）」**：每次丢入新文本时，Agent 不只是存进去，而是执行“寻找关联词条 -> 合并冲突 -> 建立反向链接”的三步重构。\n- **疯狂发明家灵感：**\n  1. **一个小实验：** 丢入 3 篇毫无关联的奇幻设定短文，观察并提取它自发创建的交集概念词条。\n  2. **一个中型项目：** Spec-driven 架构演化工具——监控项目代码库与 PR，增量维护一份随代码变更永不失效的系统架构 Wiki。\n  3. **一个艺术/游戏/叙事方向：** 虚拟世界“维基历史编纂官”——模拟一个文明演进的文字沙盒，AI 历史学家根据 NPC 的琐碎日志，自动整理出一部有交叉考证、有野史记载的虚构维基百科。\n- **对我项目的启发：** 用在世界生成或复杂 NPC 记忆上，比向量数据库纯拼余弦相似度高明得多，它自带“概念网络”结构。\n- **今天是否值得深入研究：** 是\n- **建议行动：** 收藏并拆解其增量逻辑\n\n---\n\n## 4. System Prompts Leaks：顶级 Agent 的工程设计规范蓝图\n- **来源：** GitHub Trending\n- **链接：** https://github.com/asgeirtj/system_prompts_leaks\n- **一句话解释：** 包含 Claude Code、Claude Design、Gemini Antigravity 等业界最强智能体系统完整泄漏 System Prompt 的元认知宝库。\n- **它为什么重要：** 顶级实验室对 Agent 的控制手法，本质上就是极致的 **Spec-driven Development**。研究这些 Prompt，你可以窥见大厂如何用精确的语气、防御性边界、工具调用协议和自我纠错逻辑，将不可预测的 LLM 驯化为工业级严谨工具。\n- **技术趋势标签：** `#PromptEngineering` `#系统元规范` `#Agent架构逆向`\n- **可复用模式：** **「元规范定义模版」**：包含状态自检机制、工具调用前思考协议（scratchpad）、负向限制（Negative Constraints）以及错误降级指令的标准架构。\n- **疯狂发明家灵感：**\n  1. **一个小实验：** 提取 Claude Code 的工具调用前自检指令，放进自己平常写的轻量 CLI 脚本中，测试代码生成成功率的提升幅度。\n  2. **一个中型项目：** “Prompt 语法 linter”——基于顶级提示词的共性规则，写一个自动检查并加固用户自己 System Prompt 的审计工具。\n  3. **一个艺术/游戏/叙事方向：** “性格破壁者”——将不同顶级商业 Prompt 中的安全防御规范提取出来，互换给两个对话 Agent，看它们在极致防守机制下如何进行博弈与哲学思辨。\n- **对我项目的启发：** 你不需要猜怎么写出高可用的 Agent。直接看目前市面上最强的工具是怎么用 Markdown 结构、标签系统约束自身逻辑的。\n- **今天是否值得深入研究：** 是\n- **建议行动：** 收藏并作为日常 Prompt 设计手册\n\n---\n\n## 5. TencentDB-Agent-Memory：多维记忆中枢框架\n- **来源：** GitHub Trending TypeScript\n- **链接：** https://github.com/TencentCloud/TencentDB-Agent-Memory\n- **一句话解释：** 将 Agent 记忆解构为对话历史、可重用技能、LLM-Wiki、代码图谱四种异构资产的企业级记忆中间件。\n- **它为什么重要：** 很多做 Agent 的人把“记忆”单纯当作“聊天记录上下文”，导致智能体缺乏深度。该项目明确把记忆分类：短期对话、程序性技能记忆（Procedural）、陈述性概念网络（Semantic）、结构化代码图谱，为构建具备长期自主进化能力的智能体提供了标准认知骨架。\n- **技术趋势标签：** `#认知架构` `#AgentMemory` `#模块化状态管理`\n- **可复用模式：** **「四象限记忆模型」**：区分“经验（Chat）”、“技能（Skill）”、“世界观（Wiki）”、“拓扑关系（Graph）”，按需调用不同介质。\n- **疯狂发明家灵感：**\n  1. **一个小实验：** 模拟一个极简的“两层记忆”脚本：一层存储事实，一层记录调用技能的成功/失败率，动态调整未来动作权重。\n  2. **一个中型项目：** 面向特定开源项目的“驻场导师 Agent”——同时挂载项目代码图谱和以往 Issue 问答库，能够像老程序员一样带新人熟悉代码。\n  3. **一个艺术/游戏/叙事方向：** 《记忆宫殿 RPG》——主角的各项能力与记忆被物化成具体房间，NPC 会偷窃你的“技能记忆”或篡改你的“Wiki 记忆”，引发游戏世界的叙事因果崩溃。\n- **对我项目的启发：** 在设计游戏智能体（如 Minecraft 复杂自主 Agent）时，按这四种维度拆解状态变量，能极大降低状态机的管理混乱。\n- **今天是否值得深入研究：** 否（概念比实现更有启发，看其架构图即可）\n- **建议行动：** 收藏架构思路\n\n---\n\n## 今日模式总结\n\n1. **从“端到端黑盒生成”转向“符号骨架约束（Symbolic Spec-driven Generation）”**：无论在音乐（YuE2）还是视频制作（OpenMontage），单纯靠纯自然语言 prompt 抽卡已被抛弃，现在的核心是：用结构化数据/符号系统（MIDI、Markdown、DAG、DSL）作为骨架，Agent 围绕骨架做局部编辑与装配。\n2. **“自维护 Wiki 式记忆”正在取代“粗暴的向量 RAG”**：传统 RAG 是静态切片检索，新趋势（llm_wiki、Tencent Memory）强调的是动态概念吸收、反向链接与图谱演进。记忆是一个有机的网络，而不是碎纸机吐出的碎片。\n\n---\n\n## 今日可做小实验（2小时搞定）\n\n- **项目名：** `WorldConcept-Linker`（世界观增量概念编织器）\n- **输入：** 一段任意的架空世界设定片段（例如一段关于 Minecraft 某个虚构部落的文本日记）。\n- **输出：** 一个自动更新的 Markdown 维基目录（包含自动提取的新概念、更新的已有概念、以及利用 `[[双括号]]` 自动建立的双向超链接）。\n- **技术栈：** Node.js / Python + 本地 Markdown 文件夹 + 任意 LLM API（Claude / GPT / DeepSeek）。\n- **第一步怎么做：**\n  1. 新建一个 `wiki/` 目录，里面只放一个基础文件 `index.md`。\n  2. 写一段极简 Prompt，要求模型：读取输入片段和当前 `wiki/` 目录中的所有词条名称，输出两个 JSON 列表：\n     - `create`: 需要新建的词条名称及其包含 `[[已有词条]]` 链接的正文。\n     - `update`: 需要在哪些旧词条中追加交叉引用链接。\n  3. 用脚本解析 JSON 并自动用文件 I/O 写入 `wiki/` 目录，在 Obsidian 中打开查看网状图谱的生长。",
+  "gemini_success": true,
+  "telegram_sent": false,
+  "telegram_status": "failed",
+  "telegram_reason": "400 Client Error: Bad Request for url: https://api.telegram.org/bot8650722899:AAHUD-aqNDB7NwiPiGq3R22MVp77Cr_5GEQ/sendMessage"
+}
