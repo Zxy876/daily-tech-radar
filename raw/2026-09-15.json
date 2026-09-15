@@ -1,0 +1,285 @@
+[
+  {
+    "title": "Sampling via Decision-Flow: Training-Free Extraction of Improved Latent Reasoning Paths in Large Language Models",
+    "url": "https://arxiv.org/abs/2609.12317",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 14 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.12317v1 Announce Type: new \nAbstract: A central question in LLM reasoning is whether reinforcement learning (RL) instills genuinely new capabilities or merely reshapes how existing knowledge is expressed during inference. Building on the distribution-sharpening hypothesis, which holds that RL reallocates probability mass toward high-reward trajectories already latent in base models, we ask: can we unlock those latent paths without costly RL fine-tuning? We present Decision-Flow Sampli",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "fine-tuning",
+      "inference",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "\"I Felt Very Seen, But Still Very Alone\": Longitudinal Trajectories of General-Purpose LLM Use for Socioemotional Support",
+    "url": "https://arxiv.org/abs/2609.12314",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 14 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.12314v1 Announce Type: new \nAbstract: People increasingly use general-purpose chatbots such as ChatGPT, Claude, and Gemini for mental health and emotional support. We report a multi-stage longitudinal qualitative study of 18 U.S. adults, conducted from April to December 2025, combining initial interviews, a four-week diary study, focus groups, and exit interviews. We find that socioemotional use often emerged gradually out of practical use and when other forms of support were unavaila",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "Claude",
+      "Gemini",
+      "GPT"
+    ]
+  },
+  {
+    "title": "On-Device Language Models for Privacy-Preserving Stress Prediction: A Multimodal Evaluation on Mobile Health",
+    "url": "https://arxiv.org/abs/2609.11961",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 14 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.11961v1 Announce Type: cross \nAbstract: Stress is a pervasive determinant of mental health and a key target for mobile health interventions. On-device language models (ODLMs) offer privacy-preserving inference without cloud dependency, yet their feasibility for health prediction under mobile resource constraints remains underexplored. We evaluate ODLMs for multi-modal stress prediction using zero-shot prompting, measuring predictive accuracy alongside latency and throughput. Our resul",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "language model",
+      "multimodal",
+      "inference",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Calibrated Ambiguity in Multimodal Language Models: Humans reach for cultural references, while models describe the picture",
+    "url": "https://arxiv.org/abs/2609.12575",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 14 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.12575v1 Announce Type: cross \nAbstract: Ambiguity is often treated as a bug for AI systems to resolve---but in human communication and culture, ambiguity can also be a generative resource. From humour to politics to art, people express themselves in words and images that are open enough to invite different interpretations, yet constrained enough to be interpretable. We operationalise this notion of calibrated ambiguity with a task drawn from the parlour game Dixit. We compare differen",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "game",
+      "language model",
+      "multimodal",
+      "generative"
+    ]
+  },
+  {
+    "title": "Fixed State, Long Reach: What a Constant-Size Cache Buys Block Diffusion at Scale",
+    "url": "https://arxiv.org/abs/2609.11998",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 14 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.11998v1 Announce Type: new \nAbstract: Diffusion language models decode tokens in parallel, but their bidirectional denoiser rules out the naive key--value (KV) cache behind fast autoregressive inference. Block diffusion restores caching by decoding block-by-block, and the block caches deployed on it so far are tied to attention: O(L)in memory and, if used as training-free retrofits, only an approximation of the model's computation. Both constraints can be overcome: sequence mixers tha",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "diffusion",
+      "language model",
+      "inference",
+      "memory"
+    ]
+  },
+  {
+    "title": "asgeirtj / system_prompts_leaks",
+    "url": "https://github.com/asgeirtj/system_prompts_leaks",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly. [764 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "Claude",
+      "Gemini",
+      "GPT",
+      "prompt"
+    ]
+  },
+  {
+    "title": "From Review to Reuse: How Post-Task Workflow Can Support Human-AI Agent Interaction",
+    "url": "https://arxiv.org/abs/2609.13136",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 14 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.13136v1 Announce Type: new \nAbstract: AI agents can automate tasks by turning a single natural-language request into a multi-step process spanning tools, files, and applications. Users are often left to judge that process from fragmented execution information and the final output. To make the completed process easier to understand, validate, and reuse, we investigate post-task workflows: editable, graph-based representations of an agent's completed execution. We first analyzed 10,803 ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow",
+      "RAG"
+    ]
+  },
+  {
+    "title": "When Does AI Augment Work? A Workflow-Level Framework for Human-Agent Collaboration",
+    "url": "https://arxiv.org/abs/2609.12482",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 14 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.12482v1 Announce Type: cross \nAbstract: We aim to characterise the value of artificial intelligence in the workplace. Current studies largely measure this value in terms of the current automation capabilities and public adoption of AI. However, such metrics ignore the greater impacts of human--agent collaboration in transforming the nature of work. To account for this, we must expand the scope of our analysis beyond atomised tasks of today, and instead focus on how AI can augment enti",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow",
+      "automation"
+    ]
+  },
+  {
+    "title": "Unified Agentic Video Editing Across Levels of Complexity and Creativity",
+    "url": "https://arxiv.org/abs/2609.12769",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 14 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.12769v1 Announce Type: cross \nAbstract: Editing is a core component of video production, requiring creative planning and decisions under multiple constraints. Here, we report methods for agentic tooling for automated video editing across three tasks varying in editorial goal, complexity and creativity, namely scene previews, video summaries and cinematic trailers. We evaluate the outputs and discuss implications for automation and agency.",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "automation",
+      "planning"
+    ]
+  },
+  {
+    "title": "Performance, Efficiency and Collapse -- Advantages and Challenges in Offline Post-training of Code LLMs",
+    "url": "https://arxiv.org/abs/2609.11956",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 14 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.11956v1 Announce Type: new \nAbstract: Post-training with reinforcement learning (RL) is a critical phase in the development of code-generating large language models (LLMs), as it ensures adherence to instructions and the production of functionally correct code. This process typically requires computationally intensive code sample generation from Transformer-based LLMs and substantial GPU-CPU communication for sequence verification. To address these computational challenges, this work ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "transformer",
+      "language model"
+    ]
+  },
+  {
+    "title": "FINESSE: An Agent-Based Simulator and Benchmark Dataset for Multimodal Financial Event Sequences",
+    "url": "https://arxiv.org/abs/2609.11993",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 14 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.11993v1 Announce Type: new \nAbstract: Machine learning research in financial services is limited by the scarcity of representative open-source datasets. Existing resources are often narrowly focused on a single modality or task and fail to reflect the structured, multimodal, and dynamic nature inherent to many problems in financial services.\n  In this paper, we introduce FINESSE, a Financial Event Sequence Simulation Environment, an agent-based simulation framework for generating synt",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "simulation",
+      "multimodal"
+    ]
+  },
+  {
+    "title": "GUIDE: Generative Utility Inference and Decision Engine",
+    "url": "https://arxiv.org/abs/2609.12137",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 14 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.12137v1 Announce Type: new \nAbstract: Measuring the preferences of human users remains a fundamental challenge of AI alignment. Existing elicitation approaches struggle to efficiently discover multidimensional preferences or accurately ground these inferences in domain knowledge. To address this, we introduce GUIDE, an LLM-driven elicitation architecture that infers user preferences through conversations by combining Bayesian adaptive sampling for question selection and symbolic repre",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "inference",
+      "generative"
+    ]
+  },
+  {
+    "title": "Reinforcement Learning over Patient Trajectories for Clinical Reasoning in EHR Foundation Models",
+    "url": "https://arxiv.org/abs/2609.12277",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 14 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.12277v1 Announce Type: new \nAbstract: Electronic health record (EHR) foundation models trained on longitudinal patient trajectories have demonstrated strong performance across diverse clinical prediction tasks. However, their clinical reasoning capabilities remain constrained by next-token prediction on limited and incomplete EHR data. To address this, we propose a reinforcement learning (RL) fine-tuning framework that treats EHR foundation models as generative policies over patient t",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "fine-tuning",
+      "reasoning",
+      "generative"
+    ]
+  },
+  {
+    "title": "tech-leads-club / agent-skills",
+    "url": "https://github.com/tech-leads-club/agent-skills",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence. [512 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "Copilot"
+    ]
+  },
+  {
+    "title": "danny-avila / LibreChat",
+    "url": "https://github.com/danny-avila/LibreChat",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active [286 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Gemini",
+      "GPT"
+    ]
+  },
+  {
+    "title": "TencentCloud / TencentDB-Agent-Memory",
+    "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks. [113 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "memory"
+    ]
+  },
+  {
+    "title": "Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost",
+    "url": "https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/",
+    "source": "Hacker News",
+    "published_at": "Mon, 14 Sep 2026 16:07:58 +0000",
+    "description": "Hey HN, Toby from Nari Labs here. We've been working on making OSS speech models super-fast. Last year, we built Dia, the first OSS text-to-speech model capable of doing natural dialogue. Since then, so many more great speech models have been released to the public. But the market is still dominated by closed source models. We think that's an inference problem. Existing systems such as vLLM / SGLang are not well suited for multimodal inference. To prove this, we built an inference engine special",
+    "score": 6.0,
+    "keywords_matched": [
+      "LLM",
+      "multimodal",
+      "inference"
+    ]
+  },
+  {
+    "title": "Plans They Abandon, Reports They Author: The Narrative Layer of Autonomous Agents",
+    "url": "https://arxiv.org/abs/2609.12205",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 14 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.12205v1 Announce Type: new \nAbstract: When a coding agent finishes a task, the developer reviews a summary the agent wrote about itself, not a display someone designed. We ask how much of the agent's work that summary carries, and whether it drifts toward the plan the agent stated when execution departed from it. Across 5,851 real developer sessions and 355,942 tool calls, a self-report referred to about one action in eleven, and a reader working from the report alone recovered roughl",
+    "score": 6.0,
+    "keywords_matched": [
+      "agent",
+      "autonomous",
+      "narrative"
+    ]
+  },
+  {
+    "title": "Synthetic TLX: Forecasting Human Workload Using Agent Simulation",
+    "url": "https://arxiv.org/abs/2609.12273",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 14 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.12273v1 Announce Type: new \nAbstract: Assessing human workload for technology-mediated tasks helps prevent task failure caused by poor technology design. Traditionally, workload is assessed retrospectively using the NASA Task Load Index (TLX) after humans complete a task. What if we could forecast workload before a human attempts a task using agent simulation? We introduce Synthetic TLX, a new paradigm for proactive workload estimation that predicts NASA TLX scores for a given task, u",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "simulation"
+    ]
+  },
+  {
+    "title": "From the Task Boundaries of Narrative Text to Structural Anchoring, Uncertainty Triggers, and Cross-Calibration",
+    "url": "https://arxiv.org/abs/2609.12453",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 14 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.12453v1 Announce Type: new \nAbstract: Causal graphs represent structural relationships among variables, yet users must still interpret direction, mechanism, and adjustment conditions in relation to the task at hand. Prior work often compares explanation formats as fixed conditions and pays less attention to how users distribute reasoning across graphs, direct explanations, and stories. We developed CoNS-Explorer, which uses reviewed instructional DAGs/SCMs to maintain a shared causal-",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "reasoning",
+      "narrative"
+    ]
+  }
+]
