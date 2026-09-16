@@ -1,0 +1,298 @@
+[
+  {
+    "title": "GeoSkill:Experience-Driven Hierarchical Skill Learning with Collaborative Revision forGeospatialAgents",
+    "url": "https://arxiv.org/abs/2609.13667",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 15 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.13667v1 Announce Type: new \nAbstract: Geospatial agents are increasingly expected to support recurring and evolving analytical tasks rather than execute isolated workflows. In such settings, effective agents must distill prior execution experience into reusable geospatial procedural knowledge to guide future planning and tool use. However, existing memory-augmented paradigms struggle to summarize both long-horizon tool-chain orchestration experience and tool-level invocation constrain",
+    "score": 14.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow",
+      "tool use",
+      "planning",
+      "memory",
+      "procedural"
+    ]
+  },
+  {
+    "title": "TimeThink: Eliciting Compositional Reasoning in Timeseries Large Language Models",
+    "url": "https://arxiv.org/abs/2609.13457",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 15 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.13457v1 Announce Type: new \nAbstract: Timeseries multimodal large language models (TS-MLLMs) have recently begun leveraging the reasoning capabilities of large language models (LLMs) for question-answering tasks. However, these models often fail to capture dynamic temporal patterns, providing only implicit reasoning that lacks the underlying explanations critical for high-stakes applications like healthcare. While reinforcement learning (RL)-based timeseries language models aim to add",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "multimodal",
+      "RAG",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Carbon-Aware Routing for Function Calling in Edge-Cloud LLM Systems",
+    "url": "https://arxiv.org/abs/2609.13559",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 15 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.13559v1 Announce Type: new \nAbstract: Large Language Models (LLMs) with function-calling capabilities are becoming critical for modern agentic AI systems. Nevertheless, current deployments typically route inferences to powerful cloud-based models, incurring significant energy use and carbon emissions. We address this sustainability challenge with a carbon-aware routing framework that distributes function-calling queries across a three-tier edge-cloud architecture, combining edge and c",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "function calling",
+      "inference"
+    ]
+  },
+  {
+    "title": "Trustworthy Agentic AI: A Comprehensive Cybersecurity and Systems Survey on Threat Landscapes, Defense Architectures, and Open Challenges",
+    "url": "https://arxiv.org/abs/2609.13731",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 15 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.13731v1 Announce Type: new \nAbstract: The transition from passive foundation models to autonomous, goal-directed agentic AI systems has introduced unprecedented capabilities by coupling recursive cognitive reasoning loops, persistent memory architectures, live tool execution planes, and multi-agent collaboration topologies. However, granting probabilistic neural cores execution authority across filesystems, networks, and cloud infrastructure dissolves classical security perimeters: na",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "neural",
+      "autonomous",
+      "reasoning",
+      "memory"
+    ]
+  },
+  {
+    "title": "Oops, Not Now: PEARL, a RAG-Based Support Agent for Gameplay and What Players Want from AI Help",
+    "url": "https://arxiv.org/abs/2609.13718",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 15 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.13718v1 Announce Type: new \nAbstract: AI-powered gameplay support agents hold promise for game-based learning, yet grounding generative models in structured game data remains an open challenge. We present PEARL (Parallel Education Agent for Reflection and Learning), a dual-component Retrieval-Augmented Generation (RAG) system that combines semantic knowledge retrieval with structural board-state matching to deliver contextualized scaffolding in Parallel, a puzzle game for learning par",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "game",
+      "RAG",
+      "retrieval",
+      "generative"
+    ]
+  },
+  {
+    "title": "Evaluating LLM-Generated Rules for Heart Disease Prediction",
+    "url": "https://arxiv.org/abs/2609.13192",
+    "source": "arXiv cs.LG",
+    "published_at": "Tue, 15 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.13192v1 Announce Type: new \nAbstract: This study compares traditional machine learning models and Large Language Model (LLM)-generated rule-based systems for heart disease prediction using the UCI Heart Disease dataset. Several classifiers, including Logistic Regression, K-Nearest Neighbors (KNN), Support Vector Machine (SVM), Naive Bayes, Decision Tree, and Random Forest, were evaluated alongside rule-based systems generated using GPT-4o and Claude Sonnet 4.6. Model performance was a",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "Claude",
+      "GPT",
+      "language model",
+      "vector"
+    ]
+  },
+  {
+    "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
+    "url": "https://github.com/pizza-bot-app/pizza-bot",
+    "source": "Hacker News",
+    "published_at": "Tue, 15 Sep 2026 15:20:26 +0000",
+    "description": "Hi HN - long-time lurker (since 2012!), first time poster. Pizza Bot is a self-hosted desktop app for Mac, Windows, and Linux that runs AI agents in the background and exposes them through an email-like UI. Finished work shows up in Unread, and anything waiting on your approval shows up in Action. It's Apache 2.0-licensed, there's no signup and no telemetry, and you bring your own model provider: Anthropic, Amazon Bedrock, Google Gemini, OpenAI, OpenRouter, or a local model through Ollama. There",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Gemini",
+      "self-hosted",
+      "local model"
+    ]
+  },
+  {
+    "title": "Toward Self-Adaptive Physical AI: Can LLM Agents Manage Long-Horizon Physical Tasks?",
+    "url": "https://arxiv.org/abs/2609.13436",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 15 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.13436v1 Announce Type: new \nAbstract: Large Language Model (LLM) agents offer a promising path toward autonomously managing long-term physical tasks without human intervention. However, physical tasks require agents to continuously observe the environment, make consequential actions, and remain effective as the environment changes. Existing approaches either require substantial data and retraining, or primarily focus on agents operating in the virtual world. In this work, we explore t",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "Generative Interpretability via Scalable Neuro-Symbolic Models",
+    "url": "https://arxiv.org/abs/2609.13529",
+    "source": "arXiv cs.LG",
+    "published_at": "Tue, 15 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.13529v1 Announce Type: new \nAbstract: As the use of Large Language Models moves from chatbots into agentic systems, where outputs become actions with irreversible consequences on reality, the existing paradigm on AI Interpretability research, post-hoc interpretability, is structurally inadequate for safe and trustworthy model deployment: it explains behavior after the fact but cannot audit or intervene in an inference computation before it commits to an output. We therefore argue for ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "language model",
+      "inference",
+      "generative"
+    ]
+  },
+  {
+    "title": "FLoKD: Adaptive Knowledge Distillation for Federated Low-Rank LLM over Wireless Networks",
+    "url": "https://arxiv.org/abs/2609.13580",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 15 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.13580v1 Announce Type: new \nAbstract: Large language models (LLMs) have demonstrated strong capabilities across a wide range of natural language processing tasks. However, conventional fine-tuning typically relies on centralized data collection, bringing in privacy concerns. Federated learning (FL) enables collaborative LLM fine-tuning without sharing raw client data, but its deployment over bandwidth-constrained wireless networks is hindered by the communication overhead of model-par",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "fine-tuning"
+    ]
+  },
+  {
+    "title": "Solar Intelligence",
+    "url": "https://arxiv.org/abs/2609.13648",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 15 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.13648v1 Announce Type: new \nAbstract: Solar energy decision support is fragmented across dashboards that provide data without explanation, research papers are slow to parse, and general-purpose language models are not solar domain specific and answer without evidence. This paper introduces Solar Intelligence, a hybrid retrieval-augmented framework that unifies structured solar analytics, evidence-grounded scientific question answering, and machine learning forecasting in one system. T",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "language model",
+      "RAG",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "How Many Thoughts Can a Vector Hold? The Capacity of Reasoning by Superposition",
+    "url": "https://arxiv.org/abs/2609.13747",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 15 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.13747v1 Announce Type: new \nAbstract: Large language models solve hard problems through intermediate computations across multi-step reasoning. Traditional chain-of-thought encodes these computations as tokens. Recent continuous and recurrent methods instead move partial computations into fixed-dimensional latent states, where a single thought can superpose multiple alternatives. This raises a fundamental design question:what should continuous thoughts preserve as reasoning proceeds? A",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "language model",
+      "vector",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "PAUSE: A Privacy-Preserving Self-Reflection Tool for AI-Associated Cognitive Offloading",
+    "url": "https://arxiv.org/abs/2609.13155",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 15 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.13155v1 Announce Type: new \nAbstract: Cognitive offloading is the use of external aids, such as notes, calculators, or search engines, to reduce mental effort. Large language models (LLMs) extend this to thinking itself, and by AI-associated cognitive offloading, I mean the pattern where a person routinely substitutes LLM output for their own reasoning, idea generation, learning, or communication. Recent empirical work reports associations between some patterns of LLM use and changes ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "LLMs Unplugged: Teaching Resources for a ChatGPT World",
+    "url": "https://arxiv.org/abs/2609.13183",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 15 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.13183v1 Announce Type: new \nAbstract: Large Language Models (LLMs) are everywhere, yet many learners lack a concrete mental model of how they generate text. This paper presents LLMs Unplugged, an unplugged set of activities that teaches the training-to-generation loop (and beyond) using hand-built n-gram models and simple weighted sampling. Workshops based on these resources have been delivered to over 400 participants across secondary, tertiary, and executive-education contexts, and ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "GPT",
+      "language model"
+    ]
+  },
+  {
+    "title": "AI Use Conditions and Perspective Diversity in Ethical Decision-Making: A Pilot Study of Human Reasoning Processes",
+    "url": "https://arxiv.org/abs/2609.13302",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 15 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.13302v1 Announce Type: new \nAbstract: Generative artificial intelligence (AI) is increasingly used to support human decision-making, yet less attention has been paid to how AI may influence the reasoning processes that precede final judgments. This pilot study explored whether different AI-use conditions were associated with differences in reasoning breadth during ethical decision-making. Twenty-nine participants completed an ethical dilemma under one of three conditions: AI-Prohibite",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "generative art",
+      "reasoning",
+      "generative"
+    ]
+  },
+  {
+    "title": "Assessing the Applicability of Existing Design Recommendations to AI Companion Design: A Multi-Method Study",
+    "url": "https://arxiv.org/abs/2609.14236",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 15 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.14236v1 Announce Type: new \nAbstract: With the rapid proliferation of large language model (LLM)-based systems, AI companions have emerged as conversational agents designed to cultivate emotional connection rather than primarily to support humans in instrumental tasks. Because engagement with AI companions involves relational, emotional, and potentially long-term interactions, their design is consequential. Prior work has offered guidance for designing trustworthy and relational AI sy",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model"
+    ]
+  },
+  {
+    "title": "AnnoSketch: Evaluating and Collecting Human Sketches for MLLM-assisted Chart Annotation",
+    "url": "https://arxiv.org/abs/2609.14289",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 15 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.14289v1 Announce Type: new \nAbstract: As multimodal large language models (MLLMs) support a growing range of input modalities, increasing work explores how to incorporate rough sketches to convey user intent. For annotated chart generation, it remains unclear what annotation sketches people provide and when such visual input helps MLLMs generate more useful annotations. In this study, we examine when sketch input is useful for MLLM-generated chart annotations across variation in chart",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "multimodal"
+    ]
+  },
+  {
+    "title": "Investigating the Impacts of Generative AI on Information Seeking",
+    "url": "https://arxiv.org/abs/2609.14638",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 15 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.14638v1 Announce Type: new \nAbstract: This paper is an encore submission of our 2026 journal article \"Expertise and Information Seeking in the Age of Generative AI: New Procedures, New Problematics\" with an extended discussion for the CSCW 2026 \"Broader Impacts of GenAI in Communication\" Workshop on October 10, 2026. In the original article, we employ procedural rhetoric to analyze how generative AI chatbots leverage natural language signifiers of expertise and intelligence to influen",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "RAG",
+      "procedural",
+      "generative"
+    ]
+  },
+  {
+    "title": "BudgetBench: A Budget-Tiered Protocol and Pilot Harness for Memory Strategy Evaluation in Local Large Language Model Agents",
+    "url": "https://arxiv.org/abs/2609.13149",
+    "source": "arXiv cs.LG",
+    "published_at": "Tue, 15 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.13149v1 Announce Type: new \nAbstract: For local large language model agents, active context is a scarce resource: memory capacity, prefill latency, cache growth, and service objectives all constrain how many input tokens each call can afford. We present BudgetBench, an active-budget protocol and reference harness that treats the per-call input-token budget as the independent variable when comparing memory strategies. Holding the model, task, sampler, and decoding fixed, it sweeps budg",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "language model",
+      "memory"
+    ]
+  },
+  {
+    "title": "LLMs or Naive Bayes? Old Gems or New Ways",
+    "url": "https://arxiv.org/abs/2609.13185",
+    "source": "arXiv cs.LG",
+    "published_at": "Tue, 15 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.13185v1 Announce Type: new \nAbstract: Large language models (LLMs) prompt a recurring question in research computing: should classical methods like Naive Bayes (NB) be retired? We benchmark Complement Naive Bayes against zero-shot and few-shot LLMs spanning four model families and a 37x range in scale (27B to a 1T-parameter mixture-of-experts) across text classification tasks. LLMs dominate only in zero-data regimes (98.0% vs 88.2% on Amazon Polarity sentiment), and even that win is c",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "prompt"
+    ]
+  }
+]

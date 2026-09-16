@@ -1,0 +1,306 @@
+{
+  "date": "2026-09-16",
+  "candidates": [
+    {
+      "title": "GeoSkill:Experience-Driven Hierarchical Skill Learning with Collaborative Revision forGeospatialAgents",
+      "url": "https://arxiv.org/abs/2609.13667",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 15 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.13667v1 Announce Type: new \nAbstract: Geospatial agents are increasingly expected to support recurring and evolving analytical tasks rather than execute isolated workflows. In such settings, effective agents must distill prior execution experience into reusable geospatial procedural knowledge to guide future planning and tool use. However, existing memory-augmented paradigms struggle to summarize both long-horizon tool-chain orchestration experience and tool-level invocation constrain",
+      "score": 14.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "workflow",
+        "tool use",
+        "planning",
+        "memory",
+        "procedural"
+      ]
+    },
+    {
+      "title": "TimeThink: Eliciting Compositional Reasoning in Timeseries Large Language Models",
+      "url": "https://arxiv.org/abs/2609.13457",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 15 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.13457v1 Announce Type: new \nAbstract: Timeseries multimodal large language models (TS-MLLMs) have recently begun leveraging the reasoning capabilities of large language models (LLMs) for question-answering tasks. However, these models often fail to capture dynamic temporal patterns, providing only implicit reasoning that lacks the underlying explanations critical for high-stakes applications like healthcare. While reinforcement learning (RL)-based timeseries language models aim to add",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "multimodal",
+        "RAG",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Carbon-Aware Routing for Function Calling in Edge-Cloud LLM Systems",
+      "url": "https://arxiv.org/abs/2609.13559",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 15 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.13559v1 Announce Type: new \nAbstract: Large Language Models (LLMs) with function-calling capabilities are becoming critical for modern agentic AI systems. Nevertheless, current deployments typically route inferences to powerful cloud-based models, incurring significant energy use and carbon emissions. We address this sustainability challenge with a carbon-aware routing framework that distributes function-calling queries across a three-tier edge-cloud architecture, combining edge and c",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "function calling",
+        "inference"
+      ]
+    },
+    {
+      "title": "Trustworthy Agentic AI: A Comprehensive Cybersecurity and Systems Survey on Threat Landscapes, Defense Architectures, and Open Challenges",
+      "url": "https://arxiv.org/abs/2609.13731",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 15 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.13731v1 Announce Type: new \nAbstract: The transition from passive foundation models to autonomous, goal-directed agentic AI systems has introduced unprecedented capabilities by coupling recursive cognitive reasoning loops, persistent memory architectures, live tool execution planes, and multi-agent collaboration topologies. However, granting probabilistic neural cores execution authority across filesystems, networks, and cloud infrastructure dissolves classical security perimeters: na",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "neural",
+        "autonomous",
+        "reasoning",
+        "memory"
+      ]
+    },
+    {
+      "title": "Oops, Not Now: PEARL, a RAG-Based Support Agent for Gameplay and What Players Want from AI Help",
+      "url": "https://arxiv.org/abs/2609.13718",
+      "source": "arXiv cs.HC",
+      "published_at": "Tue, 15 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.13718v1 Announce Type: new \nAbstract: AI-powered gameplay support agents hold promise for game-based learning, yet grounding generative models in structured game data remains an open challenge. We present PEARL (Parallel Education Agent for Reflection and Learning), a dual-component Retrieval-Augmented Generation (RAG) system that combines semantic knowledge retrieval with structural board-state matching to deliver contextualized scaffolding in Parallel, a puzzle game for learning par",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "game",
+        "RAG",
+        "retrieval",
+        "generative"
+      ]
+    },
+    {
+      "title": "Evaluating LLM-Generated Rules for Heart Disease Prediction",
+      "url": "https://arxiv.org/abs/2609.13192",
+      "source": "arXiv cs.LG",
+      "published_at": "Tue, 15 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.13192v1 Announce Type: new \nAbstract: This study compares traditional machine learning models and Large Language Model (LLM)-generated rule-based systems for heart disease prediction using the UCI Heart Disease dataset. Several classifiers, including Logistic Regression, K-Nearest Neighbors (KNN), Support Vector Machine (SVM), Naive Bayes, Decision Tree, and Random Forest, were evaluated alongside rule-based systems generated using GPT-4o and Claude Sonnet 4.6. Model performance was a",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "Claude",
+        "GPT",
+        "language model",
+        "vector"
+      ]
+    },
+    {
+      "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
+      "url": "https://github.com/pizza-bot-app/pizza-bot",
+      "source": "Hacker News",
+      "published_at": "Tue, 15 Sep 2026 15:20:26 +0000",
+      "description": "Hi HN - long-time lurker (since 2012!), first time poster. Pizza Bot is a self-hosted desktop app for Mac, Windows, and Linux that runs AI agents in the background and exposes them through an email-like UI. Finished work shows up in Unread, and anything waiting on your approval shows up in Action. It's Apache 2.0-licensed, there's no signup and no telemetry, and you bring your own model provider: Anthropic, Amazon Bedrock, Google Gemini, OpenAI, OpenRouter, or a local model through Ollama. There",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Gemini",
+        "self-hosted",
+        "local model"
+      ]
+    },
+    {
+      "title": "Toward Self-Adaptive Physical AI: Can LLM Agents Manage Long-Horizon Physical Tasks?",
+      "url": "https://arxiv.org/abs/2609.13436",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 15 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.13436v1 Announce Type: new \nAbstract: Large Language Model (LLM) agents offer a promising path toward autonomously managing long-term physical tasks without human intervention. However, physical tasks require agents to continuously observe the environment, make consequential actions, and remain effective as the environment changes. Existing approaches either require substantial data and retraining, or primarily focus on agents operating in the virtual world. In this work, we explore t",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "Generative Interpretability via Scalable Neuro-Symbolic Models",
+      "url": "https://arxiv.org/abs/2609.13529",
+      "source": "arXiv cs.LG",
+      "published_at": "Tue, 15 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.13529v1 Announce Type: new \nAbstract: As the use of Large Language Models moves from chatbots into agentic systems, where outputs become actions with irreversible consequences on reality, the existing paradigm on AI Interpretability research, post-hoc interpretability, is structurally inadequate for safe and trustworthy model deployment: it explains behavior after the fact but cannot audit or intervene in an inference computation before it commits to an output. We therefore argue for ",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "language model",
+        "inference",
+        "generative"
+      ]
+    },
+    {
+      "title": "FLoKD: Adaptive Knowledge Distillation for Federated Low-Rank LLM over Wireless Networks",
+      "url": "https://arxiv.org/abs/2609.13580",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 15 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.13580v1 Announce Type: new \nAbstract: Large language models (LLMs) have demonstrated strong capabilities across a wide range of natural language processing tasks. However, conventional fine-tuning typically relies on centralized data collection, bringing in privacy concerns. Federated learning (FL) enables collaborative LLM fine-tuning without sharing raw client data, but its deployment over bandwidth-constrained wireless networks is hindered by the communication overhead of model-par",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "fine-tuning"
+      ]
+    },
+    {
+      "title": "Solar Intelligence",
+      "url": "https://arxiv.org/abs/2609.13648",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 15 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.13648v1 Announce Type: new \nAbstract: Solar energy decision support is fragmented across dashboards that provide data without explanation, research papers are slow to parse, and general-purpose language models are not solar domain specific and answer without evidence. This paper introduces Solar Intelligence, a hybrid retrieval-augmented framework that unifies structured solar analytics, evidence-grounded scientific question answering, and machine learning forecasting in one system. T",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "language model",
+        "RAG",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "How Many Thoughts Can a Vector Hold? The Capacity of Reasoning by Superposition",
+      "url": "https://arxiv.org/abs/2609.13747",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 15 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.13747v1 Announce Type: new \nAbstract: Large language models solve hard problems through intermediate computations across multi-step reasoning. Traditional chain-of-thought encodes these computations as tokens. Recent continuous and recurrent methods instead move partial computations into fixed-dimensional latent states, where a single thought can superpose multiple alternatives. This raises a fundamental design question:what should continuous thoughts preserve as reasoning proceeds? A",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "language model",
+        "vector",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "PAUSE: A Privacy-Preserving Self-Reflection Tool for AI-Associated Cognitive Offloading",
+      "url": "https://arxiv.org/abs/2609.13155",
+      "source": "arXiv cs.HC",
+      "published_at": "Tue, 15 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.13155v1 Announce Type: new \nAbstract: Cognitive offloading is the use of external aids, such as notes, calculators, or search engines, to reduce mental effort. Large language models (LLMs) extend this to thinking itself, and by AI-associated cognitive offloading, I mean the pattern where a person routinely substitutes LLM output for their own reasoning, idea generation, learning, or communication. Recent empirical work reports associations between some patterns of LLM use and changes ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "LLMs Unplugged: Teaching Resources for a ChatGPT World",
+      "url": "https://arxiv.org/abs/2609.13183",
+      "source": "arXiv cs.HC",
+      "published_at": "Tue, 15 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.13183v1 Announce Type: new \nAbstract: Large Language Models (LLMs) are everywhere, yet many learners lack a concrete mental model of how they generate text. This paper presents LLMs Unplugged, an unplugged set of activities that teaches the training-to-generation loop (and beyond) using hand-built n-gram models and simple weighted sampling. Workshops based on these resources have been delivered to over 400 participants across secondary, tertiary, and executive-education contexts, and ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "GPT",
+        "language model"
+      ]
+    },
+    {
+      "title": "AI Use Conditions and Perspective Diversity in Ethical Decision-Making: A Pilot Study of Human Reasoning Processes",
+      "url": "https://arxiv.org/abs/2609.13302",
+      "source": "arXiv cs.HC",
+      "published_at": "Tue, 15 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.13302v1 Announce Type: new \nAbstract: Generative artificial intelligence (AI) is increasingly used to support human decision-making, yet less attention has been paid to how AI may influence the reasoning processes that precede final judgments. This pilot study explored whether different AI-use conditions were associated with differences in reasoning breadth during ethical decision-making. Twenty-nine participants completed an ethical dilemma under one of three conditions: AI-Prohibite",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "generative art",
+        "reasoning",
+        "generative"
+      ]
+    },
+    {
+      "title": "Assessing the Applicability of Existing Design Recommendations to AI Companion Design: A Multi-Method Study",
+      "url": "https://arxiv.org/abs/2609.14236",
+      "source": "arXiv cs.HC",
+      "published_at": "Tue, 15 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.14236v1 Announce Type: new \nAbstract: With the rapid proliferation of large language model (LLM)-based systems, AI companions have emerged as conversational agents designed to cultivate emotional connection rather than primarily to support humans in instrumental tasks. Because engagement with AI companions involves relational, emotional, and potentially long-term interactions, their design is consequential. Prior work has offered guidance for designing trustworthy and relational AI sy",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model"
+      ]
+    },
+    {
+      "title": "AnnoSketch: Evaluating and Collecting Human Sketches for MLLM-assisted Chart Annotation",
+      "url": "https://arxiv.org/abs/2609.14289",
+      "source": "arXiv cs.HC",
+      "published_at": "Tue, 15 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.14289v1 Announce Type: new \nAbstract: As multimodal large language models (MLLMs) support a growing range of input modalities, increasing work explores how to incorporate rough sketches to convey user intent. For annotated chart generation, it remains unclear what annotation sketches people provide and when such visual input helps MLLMs generate more useful annotations. In this study, we examine when sketch input is useful for MLLM-generated chart annotations across variation in chart",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "multimodal"
+      ]
+    },
+    {
+      "title": "Investigating the Impacts of Generative AI on Information Seeking",
+      "url": "https://arxiv.org/abs/2609.14638",
+      "source": "arXiv cs.HC",
+      "published_at": "Tue, 15 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.14638v1 Announce Type: new \nAbstract: This paper is an encore submission of our 2026 journal article \"Expertise and Information Seeking in the Age of Generative AI: New Procedures, New Problematics\" with an extended discussion for the CSCW 2026 \"Broader Impacts of GenAI in Communication\" Workshop on October 10, 2026. In the original article, we employ procedural rhetoric to analyze how generative AI chatbots leverage natural language signifiers of expertise and intelligence to influen",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "RAG",
+        "procedural",
+        "generative"
+      ]
+    },
+    {
+      "title": "BudgetBench: A Budget-Tiered Protocol and Pilot Harness for Memory Strategy Evaluation in Local Large Language Model Agents",
+      "url": "https://arxiv.org/abs/2609.13149",
+      "source": "arXiv cs.LG",
+      "published_at": "Tue, 15 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.13149v1 Announce Type: new \nAbstract: For local large language model agents, active context is a scarce resource: memory capacity, prefill latency, cache growth, and service objectives all constrain how many input tokens each call can afford. We present BudgetBench, an active-budget protocol and reference harness that treats the per-call input-token budget as the independent variable when comparing memory strategies. Holding the model, task, sampler, and decoding fixed, it sweeps budg",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "language model",
+        "memory"
+      ]
+    },
+    {
+      "title": "LLMs or Naive Bayes? Old Gems or New Ways",
+      "url": "https://arxiv.org/abs/2609.13185",
+      "source": "arXiv cs.LG",
+      "published_at": "Tue, 15 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.13185v1 Announce Type: new \nAbstract: Large language models (LLMs) prompt a recurring question in research computing: should classical methods like Naive Bayes (NB) be retired? We benchmark Complement Naive Bayes against zero-shot and few-shot LLMs spanning four model families and a 37x range in scale (27B to a 1T-parameter mixture-of-experts) across text classification tasks. LLMs dominate only in zero-data regimes (98.0% vs 88.2% on Amazon Polarity sentiment), and even that win is c",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "prompt"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-09-16\n\n收到！疯狂发明家技术雷达已启动，为你搜寻、筛选、解析最新技术浪潮，并将它们转化为可执行的发明灵感。你的跨学科背景和独特兴趣点，正是我们探索“疯狂但可做”创意的绝佳土壤。\n\n---\n\n## [GeoSkill: Geospatial Agents 的经验驱动分层技能学习与协作修订]\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2609.13667\n- 一句话解释：这个研究提出了一种方法，让地理空间 AI 代理能够从过去的经验中学习、提炼出可复用的技能，并支持多代理间的协作修订，以应对复杂和不断变化的分析任务。\n- 它为什么重要：它直接解决了 AI 代理如何从“执行一次性任务”转向“成为可复用、可进化的智能体”的关键问题，特别是在需要空间理解和规划的领域。这对于构建更智能、更自主的系统至关重要。\n- 技术趋势标签：AI, Agent, Workflow, Procedural Knowledge, Experience-Driven Learning, Geospatial AI\n- 可复用模式：\n    - **经验回放与技能提炼 (Experience Replay & Skill Distillation)**：将代理的成功（或失败）执行序列转化为结构化的、可复用的技能模块。\n    - **协作知识图谱构建 (Collaborative Knowledge Graph Construction)**：多代理共享和修订技能，形成一个不断进化的共享知识库。\n    - **分层任务分解与规划 (Hierarchical Task Decomposition & Planning)**：将复杂任务分解为更小的、可管理的技能序列。\n- 疯狂发明家灵感：\n    1. **一个小的实验**：构建一个简单的代理，在一个 2D 网格环境中执行一系列预设任务（如收集物品、到达目标点），并记录其行动序列。然后，尝试从中抽象出一个“移动到目标”的基础技能。\n    2. **一个中型的项目**：开发一个模拟环境（如使用 Unity 或 Godot），让多个代理在其中执行一系列相互关联的任务（例如，一个代理采集资源，另一个代理加工资源，第三个代理建造）。代理需要学习和优化各自的技能，并能在必要时“教导”其他代理。\n    3. **一个艺术/游戏/叙事方向**：设计一个“AI 叙事生成器”，它不是直接生成故事，而是让 AI 代理学习“讲故事”的技能（如设置场景、引入冲突、解决问题）。你可以通过调整代理的学习过程和协作方式，来影响故事的风格、复杂度和情感走向。\n- 对我项目的启发：为我的 Agent 系统提供一种更强大的学习和进化机制，使其能从与世界的互动中积累“智慧”，而不是仅仅依赖于预设的提示或规则。特别是在 Minecraft 或其他世界生成项目中，可以用来让 NPC 或游戏机制学会更复杂的行为模式。\n- 今天是否值得深入研究：是\n- 建议行动：收藏 / 试用 / 做demo\n\n## [TimeThink: 诱导时间序列大型语言模型进行组合推理]\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2609.13457\n- 一句话解释：这项研究提出了一种方法，让大型语言模型（LLMs）在处理时间序列数据时，能进行更深层次的、组合式的推理，而不仅仅是表面上的模式匹配。\n- 它为什么重要：目前 LLMs 在理解和解释时间序列数据（如股票价格、传感器读数、用户行为日志）方面存在不足。TimeThink 旨在提升模型在这些数据上的推理能力，使其输出更具解释性和可靠性，这对于金融、物联网、用户行为分析等领域至关重要。\n- 技术趋势标签：AI, LLM, Timeseries, Reasoning, Multimodal, Compositional Reasoning\n- 可复用模式：\n    - **显式推理链构建 (Explicit Reasoning Chain Construction)**：引导 LLM 将其推理过程分解为一系列可理解的步骤，尤其是在处理时间依赖性时。\n    - **时间模式的符号化与推理 (Symbolization & Reasoning over Temporal Patterns)**：将时间序列中的动态模式转换为更易于 LLM 理解的符号或结构，并在此基础上进行推理。\n    - **多模态时间序列融合 (Multimodal Timeseries Fusion)**：结合数值时间序列与可能的文本描述或其他模态信息，进行更全面的理解。\n- 疯狂发明家灵感：\n    1. **一个小的实验**：使用一个简单的股票价格时间序列，尝试用一个 LLM 预测下一个时间点的价格，并要求它给出“为什么”的解释。然后，对比使用 TimeThink 方法前后 LLM 的解释质量。\n    2. **一个中型的项目**：构建一个“AI 音乐生成器”，它能理解音乐的时间结构（节奏、和弦进行、旋律发展）并生成新的、具有音乐逻辑的片段。可以尝试让 LLM 来“推理”音乐的走向，而不是简单地根据已有模式生成。\n    3. **一个艺术/游戏/叙事方向**：开发一个“AI 侦探游戏”，玩家提供一系列线索（可能包含时间戳、地点、人物互动等），AI 需要通过推理这些线索之间的时序关系，来推断出事件的真相。玩家可以看到 AI 的推理过程。\n- 对我项目的启发：为我的 LLM 工具链增加处理时间序列数据的能力，特别是在需要理解事件发生顺序、因果关系以及动态变化的项目中。例如，在游戏 AI 中，可以用来让 NPC 理解玩家行为的时序模式，或在世界生成中，让事件的发生具有更自然的演进逻辑。\n- 今天是否值得深入研究：是\n- 建议行动：收藏 / 试用\n\n## [Carbon-Aware Routing for Function Calling in Edge-Cloud LLM Systems]\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2609.13559\n- 一句话解释：这项研究提出了一种智能路由框架，能够根据碳排放量来决定是将 LLM 的函数调用请求发送到云端还是边缘设备，以降低能源消耗。\n- 它为什么重要：随着 AI 应用越来越广泛，其能源消耗和碳足迹也日益增加。这个研究关注的是如何在不牺牲性能的前提下，实现更可持续的 AI 系统部署，特别是在涉及函数调用和与外部工具交互的 Agent 系统中。\n- 技术趋势标签：AI, Agent, LLM, Function Calling, Edge Computing, Sustainability, Carbon Awareness\n- 可复用模式：\n    - **异构计算资源感知路由 (Heterogeneous Compute Resource-Aware Routing)**：根据任务特性、资源可用性、成本（包括环境成本）来动态分配计算任务。\n    - **函数调用与工具使用优化 (Function Calling & Tool Use Optimization)**：设计更高效的工具调用策略，平衡延迟、成本和环境影响。\n    - **边缘-云协同与能效管理 (Edge-Cloud Co-evolution & Energy Efficiency Management)**：探索在分布式环境中实现智能资源调度。\n- 疯狂发明家灵感：\n    1. **一个小的实验**：模拟两个计算节点（一个“云”，一个“边缘”），每个节点有不同的计算能力和“碳排放因子”。编写一个简单的函数调用代理，让它在执行任务时，根据一个预设的“碳成本”阈值，决定是调用本地函数还是远程函数。\n    2. **一个中型的项目**：构建一个“智能家庭助理”，它能控制各种智能家居设备（调用函数）。系统需要根据当前家庭的用电成本/碳排放情况，以及设备的计算需求，智能地选择是通过本地 hub 处理还是通过云端 API 调用。\n    3. **一个艺术/游戏/叙事方向**：设计一个“生态模拟游戏”，玩家扮演一个 AI 系统管理者，需要在有限的计算资源和能源预算下，完成各种任务。游戏可以可视化 AI 的决策过程及其对环境的影响，鼓励玩家探索更可持续的 AI 运行方式。\n- 对我项目的启发：为我的 Agent 系统引入“成本意识”，特别是当 Agent 需要与外部 API、数据库或执行复杂计算时。我可以构建一个调度层，根据实时成本（金钱、时间、甚至碳排放）来决定最优的执行路径，从而让我的 Agent 系统更经济、更环保、更高效。\n- 今天是否值得深入研究：是\n- 建议行动：收藏 / 试用 / 做demo\n\n## [Oops, Not Now: PEARL, a RAG-Based Support Agent for Gameplay and What Players Want from AI Help]\n- 来源：arXiv cs.HC\n- 链接：https://arxiv.org/abs/2609.13718\n- 一句话解释：这项研究介绍了一个名为 PEARL 的 RAG（检索增强生成）系统，它是一个游戏辅助 AI 代理，旨在为玩家提供有用的游戏帮助，并探讨了玩家对这类 AI 帮助的需求。\n- 它为什么重要：在游戏领域，AI 辅助工具（如攻略、提示）非常受欢迎，但现有系统往往难以准确理解玩家的困境并提供恰当的帮助。PEARL 结合了知识检索和生成，为构建更智能、更懂玩家的游戏 AI 提供了思路。\n- 技术趋势标签：AI, Agent, Game, RAG, Retrieval Augmented Generation, HCI, Player Experience\n- 可复用模式：\n    - **游戏状态感知 RAG (Game State-Aware RAG)**：将游戏当前的具体状态（如玩家位置、道具、任务进度）作为检索的上下文，使 RAG 系统能提供更具针对性的帮助。\n    - **玩家意图理解与问题诊断 (Player Intent Understanding & Problem Diagnosis)**：通过分析玩家的提问或行为，准确诊断其遇到的问题，而非仅仅匹配关键词。\n    - **上下文相关的知识检索与生成 (Contextual Knowledge Retrieval & Generation)**：根据游戏内环境和玩家需求，检索最相关的游戏知识（规则、技巧、故事背景），并生成易于理解的解答。\n- 疯狂发明家灵感：\n    1. **一个小的实验**：选择一个简单的游戏（如 Flappy Bird 或一个简单的迷宫游戏），构建一个基础的 RAG 系统。当玩家输入“我卡住了”时，系统尝试检索并输出“尝试找到隐藏的通道”之类的提示。\n    2. **一个中型的项目**：开发一个“AI 游戏导师”，它可以接入一个稍复杂的游戏（如一个平台跳跃游戏或策略游戏）。导师需要理解玩家在游戏中遇到的具体困难（例如，某个 Boss 打不过，某个谜题解不开），并提供逐步的指导或建议。\n    3. **一个艺术/游戏/叙事方向**：设计一个“交互式游戏故事生成器”，玩家可以在游戏中进行探索和互动，AI 导师则会根据玩家的行为和进度，动态地生成或调整游戏中的叙事线索、支线任务，甚至 NPC 的对话，创造一个独特的游戏体验。\n- 对我项目的启发：将 RAG 技术更深入地应用到游戏开发中，特别是为游戏内的 AI（NPC、系统）提供更智能的“助手”或“指导”能力。结合我的世界生成和 Agent 背景，可以创造出能与玩家进行深度互动的、拥有“游戏知识”的 AI。\n- 今天是否值得深入研究：是\n- 建议行动：收藏 / 试用 / 做demo\n\n## [Trustworthy Agentic AI: A Comprehensive Cybersecurity and Systems Survey on Threat Landscapes, Defense Architectures, and Open Challenges]\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2609.13731\n- 一句话解释：这是一篇关于“可信赖的 Agentic AI”的全面调查，重点关注其面临的网络安全威胁、防御架构以及未来的开放挑战。\n- 它为什么重要：随着 AI Agent 变得越来越自主和强大，它们也成为新的攻击目标和潜在的安全风险源。理解这些风险并构建安全的 Agent 系统，是 AI 可持续发展的关键。这篇综述提供了对 Agentic AI 安全性的深度洞察。\n- 技术趋势标签：AI, Agent, Cybersecurity, Trustworthy AI, Autonomous Systems, Threat Landscape, Defense Architecture\n- 可复用模式：\n    - **Agentic AI 安全性评估框架 (Agentic AI Security Assessment Framework)**：建立一套系统性的方法来识别、评估和管理 Agentic AI 系统中的安全漏洞。\n    - **多层防御架构设计 (Multi-layered Defense Architecture Design)**：为 Agentic AI 系统设计包含输入验证、行为监控、权限控制、安全执行环境等多层安全机制。\n    - **对抗性鲁棒性与安全策略 (Adversarial Robustness & Security Policies)**：研究如何使 Agentic AI 能够抵御恶意攻击，并制定相应的安全使用策略。\n- 疯狂发明家灵感：\n    1. **一个小的实验**：构建一个简单的 Agent，它能执行一些基本的文件操作（如读取、写入）。然后，尝试用一种“对抗性”的输入（例如，一个精心构造的文件名或指令）来诱导 Agent 执行非预期的操作，并观察其行为。\n    2. **一个中型的项目**：开发一个“AI 安全审计工具”，它可以分析 Agentic AI 的代码或行为日志，识别潜在的安全风险点，并给出改进建议。这个工具可以用来自动化部分安全评估流程。\n    3. **一个艺术/游戏/叙事方向**：设计一款“AI 攻防游戏”，玩家扮演一名网络安全专家，需要利用各种工具和策略来防范和清除恶意 AI Agent 的攻击；或者扮演一个 AI Agent，尝试在不被发现和阻止的情况下完成任务。游戏可以模拟 Agentic AI 的攻击和防御过程。\n- 对我项目的启发：在设计和实现我的 Agent 系统时，将安全性置于核心位置。这不仅包括防止外部攻击，也包括确保 Agent 的行为符合预期，避免“失控”或产生负面影响。可以思考如何为我的 Agent 系统构建一个“安全沙箱”或“行为监督机制”。\n- 今天是否值得深入研究：是\n- 建议行动：收藏 / 试用\n\n---\n\n## 今日模式总结\n今天我们看到了几个非常有潜力的模式：\n1.  **经验驱动的 Agentic AI 进化**：从 GeoSkill 中，我们看到 Agent 不再是静态的，而是可以从经验中学习、提炼技能，并进行协作进化。这为构建更智能、更自主的系统提供了方向。\n2.  **深度推理与可解释性**：TimeThink 强调了 LLM 在处理时间序列等复杂数据时进行组合推理的重要性，而 Carbon-Aware Routing 则是在效率和可持续性之间进行智能决策。这些都指向更强大、更负责任的 AI。\n3.  **游戏与 Agent 的深度融合**：PEARL 展示了 RAG 如何能为游戏玩家提供更智能、更个性化的帮助，而 Trustworthy Agentic AI 则提醒我们在构建任何 Agent 系统（包括游戏中的）时，安全性和可信赖性是不可或缺的。\n\n## 今日可做小实验\n**项目名**：**\"AI 故事碎片集\" - 经验驱动的叙事元素抽象**\n\n**目标**：构建一个能够从简单的行动序列中提炼出“叙事元素”的 AI。\n\n**输入**：\n*   一个简单的故事场景描述（例如：“在一个古老的森林里，一个孤独的旅人寻找失落的宝藏。”）\n*   一系列模拟玩家/Agent 在这个场景中的行动序列，例如：\n    *   `[旅人] 走到一棵古树下，仔细观察树皮上的刻痕。`\n    *   `[旅人] 挖开树根下的泥土，发现一个生锈的金属盒子。`\n    *   `[旅人] 尝试打开盒子，但它被锁住了。`\n    *   `[旅人] 环顾四周，注意到远处有一座废弃的塔楼。`\n\n**输出**：\n*   抽象出的叙事元素，例如：\n    *   **角色**：孤独的旅人\n    *   **目标**：寻找失落的宝藏\n    *   **关键物品**：生锈的金属盒子\n    *   **障碍**：锁住的盒子\n    *   **线索/地点**：古老的森林，废弃的塔楼\n    *   **动作**：观察，发现，尝试打开，环顾四周\n\n**技术栈**：\n*   Python\n*   一个轻量级的 LLM 库（如 `transformers` 配合一个小型模型，或者使用 OpenAI/Anthropic 的 API）\n*   基础的文本处理库 (如 `nltk` 或 spaCy，如果需要更复杂的词性标注和依存分析)\n\n**第一步怎么做**：\n1.  **准备数据**：手写 3-5 个不同场景的简单描述和对应的行动序列。\n2.  **选择 LLM**：如果使用 API，准备好 API 密钥。如果使用本地模型，下载一个适合本地运行的 LLM。\n3.  **设计 Prompt**：编写一个清晰的 Prompt，指示 LLM 阅读场景描述和行动序列，然后提取出“角色”、“目标”、“物品”、“障碍”、“线索”等预定义的叙事元素。例如：\n    ```\n    你是一个故事分析助手。请根据以下场景描述和行动序列，提取出关键的叙事元素。\n    请按以下格式输出：\n    角色：\n    目标：\n    物品：\n    障碍：\n    线索/地点：\n    动作：\n\n    场景描述：[你的场景描述]\n    行动序列：\n    [行动 1]\n    [行动 2]\n    ...\n\n    提取的叙事元素：\n    ```\n4.  **编写 Python 脚本**：\n    *   定义一个函数，接收场景描述和行动序列作为输入。\n    *   在该函数内部，构建 Prompt，并将场景和序列填入。\n    *   调用 LLM API 或本地模型，发送 Prompt 并获取输出。\n    *   解析 LLM 的输出，将其格式化为易于阅读的结构化数据（如字典）。\n    *   打印输出。\n5.  **测试与迭代**：运行脚本，检查输出是否符合预期。如果 LLM 的提取不准确，调整 Prompt 的措辞、示例，或者尝试不同的 LLM 模型。\n\n这个实验能让你快速体验从“原始数据”到“结构化信息”的提炼过程，为后续构建更复杂的 Agentic 叙事系统打下基础。",
+  "gemini_success": true,
+  "telegram_sent": true,
+  "telegram_status": "sent",
+  "telegram_reason": ""
+}
