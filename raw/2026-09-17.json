@@ -1,0 +1,304 @@
+[
+  {
+    "title": "Toward Governance-Aware Autonomous GIS: A Narrative Review of Ethical and Privacy Risks in LLM-Enabled GeoAI",
+    "url": "https://arxiv.org/abs/2609.16232",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 16 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.16232v1 Announce Type: new \nAbstract: Geospatial artificial intelligence (GeoAI) powered by large language models (LLMs) is expanding the capacity to query, generate, and interpret spatial information through natural-language interfaces and agentic autonomous GIS workflows. This capability creates governance challenges that general AI ethics discussions do not fully capture, including passive location inference from mobility traces, spatially structured bias amplification driven by sp",
+    "score": 16.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "language model",
+      "autonomous",
+      "inference",
+      "narrative"
+    ]
+  },
+  {
+    "title": "Available but Unclaimed: An Empirical Study of Human-AI Synergy",
+    "url": "https://arxiv.org/abs/2609.16793",
+    "source": "arXiv cs.HC",
+    "published_at": "Wed, 16 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.16793v1 Announce Type: new \nAbstract: People increasingly reason with large language models (LLMs), yet complementary capabilities do not guarantee outperforming both components. In a between-subjects study, participants (N=535) solved a 40-item battery of matrix reasoning, mental rotation, syllogisms, and letter-string analogies, unaided or with GPT-5.6-Luna, Claude Opus 4.8, Gemini 3.6 Flash, or Kimi K3. Each assisted trial required consultation with the model. Each model answered e",
+    "score": 14.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "Claude",
+      "Gemini",
+      "GPT",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Distilling Foundation Models for Agentic What-If Reasoning:Cost, Latency, and Governance in a Hybrid LLM+SLM Architecture",
+    "url": "https://arxiv.org/abs/2609.16091",
+    "source": "arXiv cs.LG",
+    "published_at": "Wed, 16 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.16091v1 Announce Type: new \nAbstract: Tabular foundation models deliver strong zero-training predictive performance via in-context learning, but their high inference latency makes them impractical as hot-path decision backends in interactive agentic loops. We distill a TabPFN teacher into a compact feed-forward student across a business-decision simulation on UCI Adult and five OpenML benchmarks: the classification head compresses 53.2M parameters to 8,546 (6,220x); the deployed two-h",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "simulation",
+      "inference",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Tencent / WeKnora",
+    "url": "https://github.com/Tencent/WeKnora",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. [1,197 stars today]",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "autonomous",
+      "RAG",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Position: AI Is Not Ready for Strategic Conflicts",
+    "url": "https://arxiv.org/abs/2609.16189",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 16 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.16189v1 Announce Type: new \nAbstract: Open-ended strategic wargames are high-stakes LM-based social simulations: they model adversaries, institutions, escalation, plan brittleness, doctrine, and crisis response. Language models (LMs) are attractive because they can play agents, generate scenario branches, adjudicate ambiguous actions, and summarize lessons, but the same affordances make open-ended roles dangerous: model language determines both what an actor attempts and what becomes ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "game",
+      "simulation",
+      "language model"
+    ]
+  },
+  {
+    "title": "CLEAR: Cross-Source Evidence Adjudication for Large Language Models in Medicine",
+    "url": "https://arxiv.org/abs/2609.16301",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 16 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.16301v1 Announce Type: new \nAbstract: Medical knowledge evolves continuously, whereas the parametric knowledge encoded in large language models (LLMs) is fixed at training time. External retrieval, including retrieval-augmented generation (RAG), can provide access to newly available evidence, but retrieved information may be irrelevant, incomplete, or conflicting. As a result, external retrieval can in turn degrade the factual accuracy and evidence grounding of LLM outputs. To address",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "RAG",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "BLINDSPOT: A Benchmark for Safety and Refusal Calibration in Long-Horizon Tool-Using Agents",
+    "url": "https://arxiv.org/abs/2609.16305",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 16 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.16305v1 Announce Type: new \nAbstract: Large language model (LLM) agents increasingly operate over long-horizon interactions involving tool use, persistent state, evolving authorization, and external environment feedback. In such settings, safety failures may emerge only after multiple turns, yet existing evaluations often reduce agent behavior to task or attack success, obscuring whether an agent acts, refuses, or remains appropriately calibrated as the interaction evolves. We introdu",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "tool use"
+    ]
+  },
+  {
+    "title": "AquiLLM: Evaluating Faithfulness in Open-Weight RAG-LLM Systems for Scientific Research",
+    "url": "https://arxiv.org/abs/2609.16519",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 16 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.16519v1 Announce Type: new \nAbstract: Scientific research increasingly relies on large, heterogeneous data sources, motivating interest in retrieval-augmented generation (RAG) systems that provide natural language access to scientific knowledge and research workflows. Researchers are exploring the viability of these systems as natural language interfaces for document search and for generating analysis code and pipeline components. At the same time, concerns about data privacy and cont",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "workflow",
+      "RAG",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "VideoMM: Adaptive Macro-Micro Inference for Efficient Video MLLMs",
+    "url": "https://arxiv.org/abs/2609.16722",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 16 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.16722v1 Announce Type: new \nAbstract: Scaling Multimodal Large Language Models (MLLMs) to long-form video understanding is bottlenecked by the explosion of visual tokens, which saturates context windows and incurs prohibitive costs. Current solutions predominantly rely on auxiliary models for token reduction but face a fundamental dilemma: lightweight encoder-driven approaches often overlook critical semantic information, whereas heavyweight MLLM-driven reduction negates the efficienc",
+    "score": 10.0,
+    "keywords_matched": [
+      "LLM",
+      "language model",
+      "multimodal",
+      "inference",
+      "context window"
+    ]
+  },
+  {
+    "title": "When AI Becomes Hard to Understand: Cognitive Demands in Real-World Human-AI Conversations",
+    "url": "https://arxiv.org/abs/2609.17301",
+    "source": "arXiv cs.HC",
+    "published_at": "Wed, 16 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.17301v1 Announce Type: new \nAbstract: Generative AI increasingly supports complex financial and health decisions, yet we know little about when its responses become difficult to process in real-world dialogue. We analyse more than 84,000 ChatGPT and Gemini conversations, using repeated prompting and clarification following misunderstanding as behavioural indicators of cognitive difficulty. We find that response characteristics such as length, readability and lexical diversity do not h",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "Gemini",
+      "GPT",
+      "prompt",
+      "generative"
+    ]
+  },
+  {
+    "title": "Using Codebooks to Detect Cybercrime Topics in Text Narratives",
+    "url": "https://arxiv.org/abs/2609.16000",
+    "source": "arXiv cs.HC",
+    "published_at": "Wed, 16 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.16000v1 Announce Type: cross \nAbstract: In the United States, management of cybercrime-related consumer complaints increasingly falls on state and city governments given de-staffing of federal agencies. AI, and in particular, large language models (LLMs), shows promise for detecting cybercrime in text complaints, but often via specialized models that local governments are not resourced to develop and maintain. We present an LLM prompting method that uses codebooks from qualitative cyb",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "prompt",
+      "narrative"
+    ]
+  },
+  {
+    "title": "Neuro-Symbolic Hierarchical Intention Anticipation in Human Behavior",
+    "url": "https://arxiv.org/abs/2609.17064",
+    "source": "arXiv cs.HC",
+    "published_at": "Wed, 16 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.17064v1 Announce Type: cross \nAbstract: Assistive autonomous systems must anticipate human goals before an observed behavior is complete. This article formulates anticipation as goal inference from a partially observed multimodal episode together with structured prediction of the remaining behavior, rather than exact motor forecasting. A compact Hierarchical Planning Decoder (HPD) is attached to a frozen neuro-symbolic recognition encoder and predicts, at four ontological levels, the ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "autonomous",
+      "multimodal",
+      "inference",
+      "planning"
+    ]
+  },
+  {
+    "title": "OmniHarness: Harnessing Generalizable Visual Generation via Symbolic Policy Learning",
+    "url": "https://arxiv.org/abs/2609.16057",
+    "source": "arXiv cs.LG",
+    "published_at": "Wed, 16 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.16057v1 Announce Type: new \nAbstract: Unified multimodal large language models (MLLMs) and multi-agent systems have advanced visual generation. However, three limitations remain. (1) Existing methods often distill task-specific experience with limited generalizability. (2) Reflection is often deferred until task completion. (3) Knowledge is often acquired only in response to downstream task demands. To address these limitations, we introduce OmniHarness, a framework for generalizable ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "multimodal"
+    ]
+  },
+  {
+    "title": "Agentic Search Spaces for Tabular Machine Learning",
+    "url": "https://arxiv.org/abs/2609.16309",
+    "source": "arXiv cs.LG",
+    "published_at": "Wed, 16 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.16309v1 Announce Type: new \nAbstract: Despite the rapid progress of LLM-based agents for planning, code generation, and debugging, their practical value for tabular machine learning remains underexplored. In this paper, we investigate a concrete use case: whether state-of-the-art agentic AI systems can design extended HPO search spaces for established tabular models that outperform the standard search spaces provided by the model authors. Specifically, we represent each tabular model ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "code generation",
+      "planning"
+    ]
+  },
+  {
+    "title": "MemTensor / MemOS",
+    "url": "https://github.com/MemTensor/MemOS",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support. [29 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "memory",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Artificial intelligence and biosecurity: capabilities, threat pathways, and defense-in-depth governance",
+    "url": "https://arxiv.org/abs/2609.16213",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 16 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.16213v1 Announce Type: new \nAbstract: Artificial intelligence is reshaping biological research across an increasingly connected digital-to-physical workflow. General-purpose large language models can retrieve and integrate scientific information, support experimental planning, and computational analysis; biological foundation models can predict, optimize, and generate proteins, genes, and genome-scale sequences; agentic systems can coordinate multistep research tasks; automated labora",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "workflow",
+      "language model",
+      "planning"
+    ]
+  },
+  {
+    "title": "CADWorld: Computer-Use Benchmark for Long-Horizon Computer-Aided Design",
+    "url": "https://arxiv.org/abs/2609.16251",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 16 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.16251v1 Announce Type: new \nAbstract: Computer-use agents are increasingly evaluated in realistic desktop environments, but existing benchmarks provide limited coverage of professional engineering workflows whose outputs are persistent, structured artifacts. Mechanical computer-aided design (CAD) is a particularly demanding setting: an agent must manipulate geometry and constraints over long interaction horizons while producing a native project whose dimensions, construction structure",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow",
+      "RAG"
+    ]
+  },
+  {
+    "title": "Fine-Tuning Fixes Mode Collapse and Over-Dispersion in LLMs",
+    "url": "https://arxiv.org/abs/2609.16454",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 16 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.16454v1 Announce Type: new \nAbstract: Recent work by Doshi and Hauser (2024), Bisbee et al. (2024), and Xie et al. (2026) raises concerns that outputs from large language models (LLMs) tend to be under-diverse: they repeat or resemble one another more often than responses from the population they are meant to represent, a phenomenon known as mode collapse. In this work, we show that whether mode-collapse, or its opposite, occurs depends on the specific model and dataset used. Further,",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "fine-tuning"
+    ]
+  },
+  {
+    "title": "Beyond Episodic AI: Cognitive Field Networks for Biologically Inspired Persistent Cognition",
+    "url": "https://arxiv.org/abs/2609.16752",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 16 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.16752v1 Announce Type: new \nAbstract: Cognitive Field Theory (CFT) proposes that cognition arises from memory-dressed collective dynamics that generate a persistent macroscopic cognitive field. Here we develop a Cognitive Field Network (CFN), a recurrent Transformer in which the organized hidden field re-enters subsequent inference through \\[ \\Phi_{n+1}=F_{\\theta}(X_{n+1},\\Phi_n). \\] Rather than prescribing an explicit memory operation, the CFN allows new information to act on an alre",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "transformer",
+      "inference",
+      "memory"
+    ]
+  },
+  {
+    "title": "Turn-level Multiscale Density Ratio Estimation for LLM Agents",
+    "url": "https://arxiv.org/abs/2609.16760",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 16 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.16760v1 Announce Type: new \nAbstract: With the rapid development of Large language model (LLM), agent systems enhanced by LLMs show huge potential in being able to deal with complex tasks, especially involving multi-step thinking or interaction with tools. For applying LLM techniques with a well-designed agent paradigm, post-training of LLM in multiple agent scenarios is necessary to achieve better performance. Among the variable post-training techniques, alignment methods such as PPO",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model"
+    ]
+  }
+]
