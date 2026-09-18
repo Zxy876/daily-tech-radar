@@ -1,0 +1,297 @@
+[
+  {
+    "title": "Beyond Static RAG: An Adaptive, Tri-Metric Routing Framework for Efficient Long-Context Inference on Commodity GPUs",
+    "url": "https://arxiv.org/abs/2609.17564",
+    "source": "arXiv cs.LG",
+    "published_at": "Thu, 17 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.17564v1 Announce Type: new \nAbstract: Deploying retrieval-augmented generation (RAG) on commodity GPUs such as the NVIDIA T4 (16 GB VRAM) exposes a practical failure mode we call the Compression Paradox: neural prompt compression can add key-value (KV) cache contention and preprocessing latency that outweigh generation-time savings, while skipping compression can cause out-of-memory (OOM) failures on long contexts. We identify two distinct failure mechanisms when a vLLM-served LLM and",
+    "score": 16.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "neural",
+      "RAG",
+      "inference",
+      "prompt",
+      "memory",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Symbolic Temporal Supervision of LLM Agents Using Contracts",
+    "url": "https://arxiv.org/abs/2609.18128",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 17 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.18128v1 Announce Type: new \nAbstract: Large language model (LLM) agents augmented by tools can automate complex, multi-step tasks, such as web navigation, code generation, and workflow orchestration, by acting on external systems through tool calls. However, hallucinations, distributional instability, and adversarial manipulations in LLMs, and the irreversible consequences of certain tool calls can lead to harmful outcomes. Existing safeguards either grade recorded trajectories post h",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "language model",
+      "code generation"
+    ]
+  },
+  {
+    "title": "Tencent / WeKnora",
+    "url": "https://github.com/Tencent/WeKnora",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. [1,125 stars today]",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "autonomous",
+      "RAG",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "A Four-Stage Decomposition of Word-Problem Solving and Mechanistic Fragility in LLM Math Reasoning",
+    "url": "https://arxiv.org/abs/2609.17804",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 17 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.17804v1 Announce Type: new \nAbstract: Large language models solve grade-school math word problems with high accuracy, yet a single irrelevant clause inserted into the problem can collapse it. We reconcile these observations with a mechanistic account. We show that the model's internal computation decomposes into a four-stage sequential pipeline, Schema Abstraction, Operation Planning, Operand Binding, and Computation, each stage producing a distinct intermediate representation in an i",
+    "score": 10.0,
+    "keywords_matched": [
+      "LLM",
+      "language model",
+      "RAG",
+      "reasoning",
+      "planning"
+    ]
+  },
+  {
+    "title": "When to Call an LLM: A Confidence-Gated Hybrid for Cost-Effective Emotion Recognition in Conversational AI",
+    "url": "https://arxiv.org/abs/2609.17977",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 17 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.17977v1 Announce Type: new \nAbstract: Emotion recognition in conversation (ERC) is a production capability behind agent-assist prompts, escalation routing, and post-call analytics in contact-center-as-a-service (CCaaS) platforms, where cost and latency constraints matter as much as accuracy. We report a systems-level comparison of three deployment options for dialogue-contextual ERC: a low-cost stacked ensemble (sentence embeddings, windowed context, RandomForest/XGBoost/logistic-regr",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "embedding",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Contiguity, Not Importance: Budgeted Repair of Stale KV Caches After Document Edits",
+    "url": "https://arxiv.org/abs/2609.17983",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 17 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.17983v1 Announce Type: new \nAbstract: KV-cache reuse can reduce inference cost in retrieval-augmented generation and agentic systems, but cached contexts may become stale when retrieved knowledge, working memory, or user state is edited. Under causal self-attention, even a local edit can affect downstream KV states. A full re-prefill reliably restores consistency but is costly, whereas refreshing only the edited span can leave downstream dependencies stale. We formulate in-place repai",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "inference",
+      "memory",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Multimodal Conditioning of Fine-Tuned Stable Diffusion XL for Controllable and Culturally Faithful Ulos Motif Generation",
+    "url": "https://arxiv.org/abs/2609.17987",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 17 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.17987v1 Announce Type: new \nAbstract: The traditional Batak Ulos weaving industry faces growing challenges in producing diverse, innovative motifs due to limitations in conventional, manually driven design methods. This study proposes a multimodal generative framework integrating a fine-tuned Latent Diffusion Model (Stable Diffusion XL v1.0 via LoRA) with a Multimodal Large Language Model (LLaMA 1.5-7B) to enable controllable, culturally faithful Ulos motif generation. Four complement",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "diffusion",
+      "language model",
+      "multimodal",
+      "generative"
+    ]
+  },
+  {
+    "title": "Designing Agentic AI Workflow Portfolios under Imperfect Selection and Compute Cost",
+    "url": "https://arxiv.org/abs/2609.18126",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 17 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.18126v1 Announce Type: new \nAbstract: Agentic AI systems often approach the same task through multiple workflows that differ in reasoning strategy, verification structure, and compute cost. A natural deployment policy is to use the workflow with the highest average performance, but this can be suboptimal because different workflows may succeed on different instances. We study a portfolio-and-selector paradigm in which a firm runs multiple workflow executions and selects the final answ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow",
+      "RAG",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "WFM: Wiki Foundation Model for Complex Agentic Reasoning",
+    "url": "https://arxiv.org/abs/2609.18182",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 17 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.18182v1 Announce Type: new \nAbstract: Real-world agents fundamentally require persistent non-parametric knowledge for dynamic reasoning, i.e., long-term memory and retrieval-augmented generation. While graphs have shown reliable advantages in providing structured evidence, the sparse graph representations naturally restrict machine readability and semantic density required for complex agentic workflows. Driven by this limitation, the entire industry is witnessing a paradigm shift from",
+    "score": 10.0,
+    "keywords_matched": [
+      "agent",
+      "workflow",
+      "reasoning",
+      "memory",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "When AI Becomes Hard to Understand: Cognitive Demands in Real-World Human-AI Conversations",
+    "url": "https://arxiv.org/abs/2609.17301",
+    "source": "arXiv cs.HC",
+    "published_at": "Thu, 17 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.17301v2 Announce Type: replace \nAbstract: Generative AI increasingly supports complex financial and health decisions, yet we know little about when its responses become difficult to process in real-world dialogue. We analyse more than 84,000 ChatGPT and Gemini conversations, using repeated prompting and clarification following misunderstanding as behavioural indicators of cognitive difficulty. We find that response characteristics such as length, readability and lexical diversity do n",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "Gemini",
+      "GPT",
+      "prompt",
+      "generative"
+    ]
+  },
+  {
+    "title": "EvolveTrade: Experience-Driven Policy Refinement for Self-Evolving LLM Trading Agents",
+    "url": "https://arxiv.org/abs/2609.17632",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 17 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.17632v1 Announce Type: new \nAbstract: Large language model (LLM) trading agents can combine market data, news, and executable analysis, but their behavior is often controlled by static hand-written tool-use policies that are fixed before deployment. This limits their ability to adapt how they gather evidence, invoke tools, verify signals, and manage risk under changing market regimes. We introduce EvolveTrade, a self-evolving framework that treats the system prompt of a tool-using tra",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "language model",
+      "prompt"
+    ]
+  },
+  {
+    "title": "SAGE: Governed Artifact Generation from Enterprise Guidelines",
+    "url": "https://arxiv.org/abs/2609.17775",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 17 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.17775v1 Announce Type: new \nAbstract: Enterprise guideline documents mix narrative text, complex tables, and embedded images, and converting them into structured work artifacts still takes two to three days of manual effort each. Current language and vision-language models extract from such documents but offer no governed workflow beyond extraction: no validation, no consistency checking, no traceable artifact generation. We introduce SAGE, a governed multi-stage LLM pipeline organize",
+    "score": 8.0,
+    "keywords_matched": [
+      "LLM",
+      "workflow",
+      "language model",
+      "narrative"
+    ]
+  },
+  {
+    "title": "The Inference Engineering Pareto Atlas: Which Optimizations Dominate the Cost, Quality, and Latency Frontier?",
+    "url": "https://arxiv.org/abs/2609.17863",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 17 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.17863v1 Announce Type: new \nAbstract: LLM inference optimizations report speedups on different models, GPUs, prompts, and quality metrics, making them hard to compare or combine. We build a cost, quality, and latency Pareto atlas to identify the best configurations for different deployment constraints. Since exhaustive testing is impractical, we measure 54 configurations of Qwen2.5-7B-Instruct running on vLLM 0.12 across L4, A100, and H100 GPUs and use these anchors to calibrate a sim",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "inference",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Collaborative Memory for Multi-Agent VLM Systems",
+    "url": "https://arxiv.org/abs/2609.17921",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 17 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.17921v1 Announce Type: new \nAbstract: Vision-language model (VLM) agents combine specialized perception, tools, and reasoning to address complex visual tasks. In multi-agent settings, different agents inspect different image regions, video frames, or visual representations, so collaboration extends beyond distributed reasoning to distributed perception. This makes shared visual context a central problem in VLM agent collaboration. In this paper, we frame memory hierarchy, cross-agent ",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "language model",
+      "reasoning",
+      "memory"
+    ]
+  },
+  {
+    "title": "AutoTuneBench: Trustworthy Measurement for Agent Auto-Tuning of LLM Serving Engines",
+    "url": "https://arxiv.org/abs/2609.18123",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 17 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.18123v1 Announce Type: new \nAbstract: Large language model agents tune GPU kernels and serving engines through a closed loop of propose, measure, and keep, but the measurements behind this loop are not trustworthy. We characterize four failure modes from a four-day pilot corpus of 619 model calls: strawman baselines manufacture speedups, absolute times do not transfer across machines, saturated tasks nullify comparisons, and infrastructure defects impersonate science. We present AutoT",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model"
+    ]
+  },
+  {
+    "title": "Lexara-RF: Reference-Free Metrics for Evaluating Conversational Visual Analytics Agents",
+    "url": "https://arxiv.org/abs/2609.17842",
+    "source": "arXiv cs.HC",
+    "published_at": "Thu, 17 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.17842v1 Announce Type: new \nAbstract: Conversational visual analytics (CVA) agents powered by large language models generate visualizations and natural-language explanations from open-ended queries. Evaluating these multimodal outputs is challenging: curated reference benchmarks are costly to author, cannot comprehensively capture the space of valid responses, and are unavailable in production. Building on the Lexara evaluation framework, we introduce Lexara-RF, a reference-free set o",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "language model",
+      "multimodal"
+    ]
+  },
+  {
+    "title": "Encypher: Shared Agency and Social Presence in Collaborative Music Generation for Dance Cyphers",
+    "url": "https://arxiv.org/abs/2609.18062",
+    "source": "arXiv cs.HC",
+    "published_at": "Thu, 17 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.18062v1 Announce Type: new \nAbstract: Music and dance are social practices of expression and connection, yet most HCI work in human-AI co-creation centers the solo performer. As generative music matures, we ask not only what AI can compose but what social encounters it can organize around sound. We present Encypher, a collaborative generative music system that translates collective movement qualities into text prompts conditioning real-time music generation for dance cyphers. Through ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "HCI",
+      "prompt",
+      "generative"
+    ]
+  },
+  {
+    "title": "Beyond Accuracy: How Procedural Traces Shift the Decision Criterion of LLM Overseers",
+    "url": "https://arxiv.org/abs/2609.18204",
+    "source": "arXiv cs.HC",
+    "published_at": "Thu, 17 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.18204v1 Announce Type: cross \nAbstract: Organizations increasingly use oversight loops where one large language model (LLM) audits another's outputs alongside procedural traces of claimed steps. A common concern about such LLM-as-a-judge pipelines is that detailed traces make overseers gullible. Using signal detection theory, we audit five LLM overseers on 19 compliance tasks (4,551 analyzed judgments), varying only trace detail and evidence labeling. With disconfirming evidence alway",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "procedural"
+    ]
+  },
+  {
+    "title": "RankGround: Efficient High-Resolution GUI Grounding via Lightweight Reranker-Guided Crop Selection",
+    "url": "https://arxiv.org/abs/2609.18690",
+    "source": "arXiv cs.HC",
+    "published_at": "Thu, 17 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.18690v1 Announce Type: cross \nAbstract: Graphical User Interface (GUI) grounding is a fundamental perception task for multimodal agents, enabling them to interpret natural language instructions and interact with digital interfaces. Existing methods face a fundamental trade-off between accuracy and efficiency: direct full-image inference often fails to capture small or visually similar UI elements, while multi-crop strategies improve localization at the cost of multiple expensive Visio",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "multimodal",
+      "inference"
+    ]
+  },
+  {
+    "title": "Walking the Score Manifold: Continuous-time Generative Dynamics on Learned Data Manifolds",
+    "url": "https://arxiv.org/abs/2609.17901",
+    "source": "arXiv cs.LG",
+    "published_at": "Thu, 17 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.17901v1 Announce Type: new \nAbstract: Generative modeling of time-dependent data is typically formulated on a discrete temporal grid, restricting supervision to the observed timestamps in the training data. We instead frame generation as continuous-time evolution on a learned data manifold. To this end, we leverage pretrained score-based models as geometric priors and learn a vector field that evolves data along score-induced interpolation paths. Because these dynamics follow transiti",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "RAG",
+      "vector",
+      "generative"
+    ]
+  }
+]
