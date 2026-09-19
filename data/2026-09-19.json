@@ -1,0 +1,296 @@
+{
+  "date": "2026-09-19",
+  "candidates": [
+    {
+      "title": "What Users Think of Generative AI: A Cross-Platform NLP Analysis of Trust and Friction in App Store Reviews",
+      "url": "https://arxiv.org/abs/2609.19151",
+      "source": "arXiv cs.HC",
+      "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.19151v1 Announce Type: cross \nAbstract: Generative AI (GenAI) applications have achieved rapid consumer adoption, yet little large-scale research examines user-perceived quality, trust, and adoption barriers. We present one of the first cross-application analyses of app store reviews for six major GenAI applications (ChatGPT, Gemini, Microsoft Copilot, Claude, DeepSeek, and Perplexity), comprising 17,012 English-language reviews from Google Play and the Apple App Store. We combine BER",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "Claude",
+        "Gemini",
+        "Copilot",
+        "GPT",
+        "generative"
+      ]
+    },
+    {
+      "title": "Characterizing Web Search by Conversational LLM Agents: From Search Decisions and Strategies to Results and Responses",
+      "url": "https://arxiv.org/abs/2609.19244",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.19244v1 Announce Type: new \nAbstract: Conversational LLM agents increasingly rely on Web search, yet the end-to-end lifecycle of agentic search remains poorly understood. We present the first study of Web search across four major conversational platforms (ChatGPT, Claude, Grok, and DeepSeek), combining real-world user interactions (invivo) with controlled experiments using the same platform's models by their APIs (invitro). We investigate the quality of agentic decisions to invoke Web",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "title": "A Unified Evaluation Framework for Trustworthy Large Language Models, Agentic AI, and Multimodal Systems",
+      "url": "https://arxiv.org/abs/2609.19524",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.19524v1 Announce Type: new \nAbstract: Benchmark scores alone provide an incomplete basis for assessing the trustworthiness of modern artificial intelligence systems. Large language models (LLMs), agentic systems, and multimodal models (MLLMs) require different forms of assessment, yet their evaluation evidence must remain interpretable for development and oversight. We propose a unified framework that connects output-level, trajectory-level, and cross-modal assessment through eight tr",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "multimodal"
+      ]
+    },
+    {
+      "title": "Penquiry: A Pen-based Interactive In-situ Q&A System Leveraging LLMs",
+      "url": "https://arxiv.org/abs/2609.19870",
+      "source": "arXiv cs.HC",
+      "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.19870v1 Announce Type: new \nAbstract: Pen-based digital devices remain a preferred medium for active, cognitively engaging study. Concurrently, Large Language Models (LLMs) have become indispensable for self-directed learning, enabling students to clarify concepts. However, a fundamental interaction gap exists between the fluid, spatial nature of pen-based workflows and the discrete, keyboard-heavy requirements of LLMs. We present Penquiry, an in-situ question-and-answer system that b",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "workflow",
+        "language model",
+        "RAG"
+      ]
+    },
+    {
+      "title": "FootprintRAG: Visual Analytics for Evidence Context Refinement in RAG-based Scientific Literature Exploration",
+      "url": "https://arxiv.org/abs/2609.19601",
+      "source": "arXiv cs.HC",
+      "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.19601v1 Announce Type: cross \nAbstract: Retrieval-Augmented Generation (RAG) is increasingly used to ground large language model (LLM) outputs in scientific literature. However, in open-ended literature exploration, the evidence context used for generation is often produced through hidden retrieval, reranking, assessment, and filtering steps. Users may receive retrieval summaries without knowing how the system constructed the evidence context, which evidence units were retained or dis",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "RAG",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Position: It is Time to Virtualize Foundation Models with a Self-evolving Operating System Layer",
+      "url": "https://arxiv.org/abs/2609.19203",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.19203v1 Announce Type: new \nAbstract: AI applications have shifted from single, monolithic foundation models (FM) to compound agentic systems. Yet today's stacks remain fragmented: even as protocols (e.g., MCP, A2A) ease tool/agent connectivity, each framework embeds an implicit runtime for state, memory, budgets, and guardrails, making behavior non-portable and governance brittle. It mirrors computing before operating systems, when every program re-implemented basic services. This po",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "RAG",
+        "memory"
+      ]
+    },
+    {
+      "title": "Closed-World Resolution Against Tool Hallucination in LLM Agents",
+      "url": "https://arxiv.org/abs/2609.19425",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.19425v1 Announce Type: new \nAbstract: Tool-augmented large language model (LLM) agents fail in a way no tool-selection or tool-security method addresses: they call tools that do not exist and pass arguments no schema declares. Existing defenses either pick the right tool (selection) or constrain what an agent may do with real tools (gating), both of which presuppose the emitted call refers to a real tool at all. We show this is a structural blind spot: a hallucinated call is by constr",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model"
+      ]
+    },
+    {
+      "title": "Safety Beyond the Interface: Detecting Harm via Latent States in Large Language Models",
+      "url": "https://arxiv.org/abs/2609.19472",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.19472v1 Announce Type: new \nAbstract: Autonomous systems increasingly rely on Large Language Models (LLMs) yet the safety infrastructure surrounding these models introduces latency and compute overhead. This limits utility in resource-constrained, time-critical deployments. Existing external guardrail models remain blind to the model's internal workings, creating a fundamental assurance gap. We ask: does the model already know when the content is harmful? We extract activations from L",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "Replan, Repair, or Edit? A Unified Empirical Evaluation of Travel Agents for Itinerary Revision under Resource Disruptions",
+      "url": "https://arxiv.org/abs/2609.19654",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.19654v1 Announce Type: new \nAbstract: Travel-planning agents generate itineraries that may become infeasible after acceptance because of flight cancellations, hotel unavailability, or attraction closures. Revising these itineraries involves full replanning, classical plan repair, and LLM-based travel-agent revision, whose differing task formulations and evaluation protocols hinder comparison. We conduct a systematic empirical study using two TREK-derived benchmark sets: 500 single-dis",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "planning"
+      ]
+    },
+    {
+      "title": "FINSKILLOPS: A Self-Evolving Multi-Agent System for SEC Filing QA",
+      "url": "https://arxiv.org/abs/2609.19680",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.19680v1 Announce Type: new \nAbstract: Financial QA systems are typically improved before deployment through better retrieval, prompting, or agent coordination, leaving their reliability behavior fixed thereafter. In practice, new SEC-filing questions repeatedly expose heterogeneous errors in period, entity, evidence use, and calculation. Existing self-improvement methods can turn failures into new behaviors, but offer limited control over where a correction should apply or which previ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "prompt",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "LearnActCoder: Role-Aware Error Memory for Adaptive Clinical Coding Agents",
+      "url": "https://arxiv.org/abs/2609.19721",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.19721v1 Announce Type: new \nAbstract: Clinical coding agents repeatedly encounter the same failure modes, including unsupported codes, missed documented conditions, specificity errors, and procedure-coding convention mismatches. We introduce Learn-Then-Act, an inference-time adaptation framework that converts errors from a small labeled LEARN batch into a structured Mistake Knowledge Database (MistakeKDB). False-negative lessons are routed to a recall-oriented Coder, while false-posit",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "inference",
+        "memory"
+      ]
+    },
+    {
+      "title": "Rethinking Multi-Agent Collaboration: When More Is Less",
+      "url": "https://arxiv.org/abs/2609.19759",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.19759v1 Announce Type: new \nAbstract: The rapid advancement of large language models and single-agent harnesses has reshaped the landscape of autonomous systems, raising a critical question of when multi-agent collaboration offers genuine value. As individual agent capabilities continue to scale, multi-agent collaboration faces diminishing returns while incurring growing context overhead. Through systematic analysis, we delineate the capability boundaries of multi-agent collaboration ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "language model",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "Faithful Where It Can Be Checked: Auditing a Reflection Agent Against Its System Prompt in a Randomized Trial",
+      "url": "https://arxiv.org/abs/2609.19635",
+      "source": "arXiv cs.HC",
+      "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.19635v1 Announce Type: new \nAbstract: Conversational agents are increasingly used to guide reflection. A recent randomized trial compared a GPT-4o career reflection agent with the same program in a static journaling survey. Agent participants ended less committed to their career plans and more doubtful. We coded all 17,930 turns from its two studies, checked our coding against human coders and linked conversations to the trial's surveys. The rules the agent followed were the easy-to-c",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "GPT",
+        "prompt"
+      ]
+    },
+    {
+      "title": "What People Almost Did: Evaluating LLM Social Simulations Beyond Behavioral Fit",
+      "url": "https://arxiv.org/abs/2609.20055",
+      "source": "arXiv cs.HC",
+      "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.20055v1 Announce Type: new \nAbstract: LLM-based social simulations are primarily evaluated for behavioral fit, testing whether agents reproduce the actions or response distributions of the people they are simulating. However, the promise of simulation extends beyond behavioral fit. Simulations can explain human behavior, diagnose barriers, and compare large-scale interventions. These use cases depend on understanding \\textit{why} people acted a certain way, not just \\textit{what} they",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "simulation"
+      ]
+    },
+    {
+      "title": "Generative Query Suggestion via Intent Coverage and Query-Level Credit Assignment",
+      "url": "https://arxiv.org/abs/2609.19209",
+      "source": "arXiv cs.LG",
+      "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.19209v1 Announce Type: new \nAbstract: Generative query suggestion aims to enhance user engagement by anticipating user intents and recommending relevant follow-up queries. A central challenge is to generate slates whose individual queries are useful while the slate covers distinct intents. We propose an Intent-Driven Query Suggestion Framework with dual-stage optimization. First, intent-aware diversity modeling constructs intent-aligned supervised fine-tuning (SFT) data and uses an In",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "RAG",
+        "fine-tuning",
+        "generative"
+      ]
+    },
+    {
+      "title": "Block Parallelism For Efficient Distributed Long-Context Diffusion Language Model Training",
+      "url": "https://arxiv.org/abs/2609.19242",
+      "source": "arXiv cs.LG",
+      "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.19242v1 Announce Type: new \nAbstract: Block diffusion language models (BDLMs) combine autoregressive dependencies across blocks with parallel denoising within blocks, but long-context training is constrained by distributed attention communication and activation memory. Conventional context parallelism (CP) shards the combined clean-plus-corrupted sequence by position, communicating shared clean K/V together with block-specific corrupted K/V and their gradients. We observe that the BDL",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "diffusion",
+        "language model",
+        "memory"
+      ]
+    },
+    {
+      "title": "Bayesian Optimization with Rich Auxiliary Information via LLMs",
+      "url": "https://arxiv.org/abs/2609.19437",
+      "source": "arXiv cs.LG",
+      "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.19437v1 Announce Type: new \nAbstract: Bayesian Optimization (BO) is widely used for optimizing expensive black-box functions, yet many real-world optimization problems contain substantially richer information than function evaluations alone. Examples include training curves in hyperparameter optimization, expert notes and images in scientific experimentation, and prior knowledge about where optima may lie. We show that large language models (LLMs) can effectively leverage such rich au",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "RAG"
+      ]
+    },
+    {
+      "title": "Sample Count Is Not Enough: Candidate-Generation Strategy Shapes the Energy and Performance of LLM Test-Time Scaling",
+      "url": "https://arxiv.org/abs/2609.19499",
+      "source": "arXiv cs.LG",
+      "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.19499v1 Announce Type: new \nAbstract: Test-time scaling can improve large language model reasoning by generating and combining multiple candidate responses. In sampling-based methods, the inference budget is often described by the number of generated candidates, N. However, N tells us how many candidates are generated, not how they are executed. The same candidate budget can be produced in one batched generation call or split across several sequential calls with smaller batch sizes. W",
+      "score": 8.0,
+      "keywords_matched": [
+        "LLM",
+        "language model",
+        "inference",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Learn Your Own Thoughts: Abstract Token Curriculum",
+      "url": "https://arxiv.org/abs/2609.19717",
+      "source": "arXiv cs.LG",
+      "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.19717v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have achieved remarkable reasoning capabilities by utilizing chain-of-thought (CoT) as a scratchpad for intermediate stages of thinking. However, CoT techniques require explicit supervision on thinking tokens, which requires rich, task-specific data. In this work, we propose Abstract Token Curriculum (ATC), a novel curriculum learning framework that elicits effective continuous intermediate representations without dire",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "NVIDIA / SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them. [142 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "prompt"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-09-19\n\n从今日候选池中，我为你筛选出 **4 个最具“疯狂发明家”气质且工程可落地** 的项目与论文。它们切中了 **空间原位交互（HCI）**、**Agent OS 运行时规范**、**工具调用符号闭环** 以及 **虚拟 NPC 的“未竟之志”（反事实叙事）**。\n\n---\n\n## 1. Penquiry: 手写笔空间原位问答系统\n- **来源：** arXiv cs.HC\n- **链接：** https://arxiv.org/abs/2609.19870\n- **一句话解释：** 打破键盘对话框的限制，将手写笔圈选、空间位置与草图笔迹直接作为 LLM 的原位（in-situ）上下文交互输入。\n- **它为什么重要：** 传统的 LLM 交互把人类逼成“打字员”。对于设计和思考过程，手绘、画圈、空间连线才是连续的心智流。这篇论文解决了连续空间手势与离散语言模型之间的流式鸿沟。\n- **技术趋势标签：** `Spatial HCI` `Pen-computing` `Multimodal-Agent` `Creative-Tool`\n- **可复用模式：** **空间圈选锚点（Spatial Grounding Anchor）**：不靠全屏截图 OCR，而是把触控笔绘制的闭合曲线几何坐标 + 局部图层作为 Prompt 的局部注意力 Mask。\n- **疯狂发明家灵感：**\n  1. **一个小实验：** 用 Excalidraw + WebCanvas API 做一个原型：用红色荧光笔画一个圈，自动截取该 ROI 图像送给视觉模型，并在圈旁边生成一个吸附的便签气泡。\n  2. **一个中型项目：** 创意编程无限画布（Infinite Canvas for P5.js）：在画布上手绘几何线稿，笔尖一点，Agent 自动推导你的意图，并在手绘线框内原位运行生成的 Shader 或 P5 动画。\n  3. **一个艺术/游戏/叙事方向：** **“神明涂鸦沙盒”**：在 Minecraft 式体素世界或 2D 地形上用手写笔勾画“山脉走向”或“河流路径”，Agent 理解笔势的速度和粗细，实时原位隆起山脉或引流灌溉。\n- **对我项目的启发：** 在做 spec-driven 或设计工具时，Prompt 输入框是最低效的交互；把“空间圈注”转化为“Spec 的局部 Patch”，才是真正专业级的生产力工具。\n- **今天是否值得深入研究：** 是\n- **建议行动：** 做demo\n\n---\n\n## 2. 基金模型虚拟化：自进化的 Agent 操作系统层\n- **来源：** arXiv cs.AI\n- **链接：** https://arxiv.org/abs/2609.19203\n- **一句话解释：** 论文提出不能再把 Agent 当脚本写，必须像传统 OS 虚拟化 CPU/内存一样，建立一层管理状态、运行时、预算和治理策略的自进化“Agent OS 内核”。\n- **它为什么重要：** MCP（Model Context Protocol）只解决了连线（I/O 协议），没有解决生命周期管理。多 Agent 协作目前是一团乱麻的黑盒，这篇论文直击 Spec-driven 与 Agent 架构的最底层：我们需要 Agent 进程的调度器与虚拟内存。\n- **技术趋势标签：** `Agent-OS` `Runtime-Virtualization` `Spec-driven` `System-Architecture`\n- **可复用模式：** **分层内核与虚拟状态机**：将 Tool 执行、Token 预算、记忆交换解耦进一个统一的上下文调度沙盒中，由 Spec 严格定义状态边界。\n- **疯狂发明家灵感：**\n  1. **一个小实验：** 用 Node.js 写一个带“死锁检测”和“内存限额（Token Quota）”的微型 Agent 调度进程，当 Agent 连续陷入无效 Tool 循环时直接触发 SIGKILL 并回滚状态。\n  2. **一个中型项目：** **Spec-Driven Local Agent Daemon**：一个跑在后台的轻量守护进程，读取本地项目根目录的 `spec.md`，统一分配和审计 Cursor/Claude Code/本地小模型的工具调用流水线与环境变量。\n  3. **一个艺术/游戏/叙事方向：** **“AI 虚拟机里的赛博生态”**：把 5 个具备不同性格 Spec 的 Agent 丢进受限系统资源的“模拟 OS”里，它们必须通过编写脚本、交换内存配额来竞争控制屏幕画面的渲染权。\n- **对我项目的启发：** 如果你在构思高阶自动化流程，别再堆砌 LangChain 链条了，用操作系统的视角（中断、页表、驱动隔离）去设计 Spec 的执行引擎。\n- **今天是否值得深入研究：** 是\n- **建议行动：** 收藏\n\n---\n\n## 3. 闭环世界解析：终结 Agent 的“幽灵工具”幻觉\n- **来源：** arXiv cs.AI\n- **链接：** https://arxiv.org/abs/2609.19425\n- **一句话解释：** 专门解决 Agent 在复杂环境中“胡乱编造不存在的函数、传入非法 Schema 参数”的顽疾，通过形式化封闭世界约束进行推理级拦截与重构。\n- **它为什么重要：** 在驱动游戏引擎、Minecraft API 或复杂自动化流水线时，Agent 最常挂掉的原因不是逻辑不对，而是它“凭空捏造了一个不存在的 API”。这项研究给出了一种不依赖重新微调就能强制收敛到合法接口集的方法。\n- **技术趋势标签：** `Tool-Use` `Deterministic-AI` `Schema-Validation` `Reliable-Agents`\n- **可复用模式：** **封闭世界投射（Closed-World Projection）**：在 Agent 输出 Tool Call 的第一时刻，将其置于语法树（AST）校验器中，若命中不存在的标识符，即时根据函数语义距离近邻重定向或阻断回弹。\n- **疯狂发明家灵感：**\n  1. **一个小实验：** 编写一个基于 Zod/Pydantic 的代理网关，当 LLM 产生幻觉调用非法工具时，捕获异常并提取最近似的可用 API，组装成带有修正提示的“编译器错误”在单轮内静默修复。\n  2. **一个中型项目：** **Minecraft / Mineflayer 符号安全网**：包装几百个复杂的机器人底层动作指令，LLM 随意输出自然动作构想，网关 100% 形式化将其解析为合法的世界操作原子原语。\n  3. **一个艺术/游戏/叙事方向：** **“故障美学代码游戏”**：把这个校验机制故意“松绑”为游戏的魔法机制——玩家对世界施法，Agent 幻觉出的代码如果通过合法闭包就会变成世界新增的物理规则。\n- **对我项目的启发：** Spec-driven 系统的核心就在于**确定性**。不能指望 LLM 总是听话，必须在输出层架设一层极速的“符号闭环编译器”。\n- **今天是否值得深入研究：** 否（先抓核心思想）\n- **建议行动：** 试用其拦截设计思路\n\n---\n\n## 4. What People Almost Did: 仿真中评估“差一点就做了”的反事实行为\n- **来源：** arXiv cs.HC\n- **链接：** https://arxiv.org/abs/2609.20055\n- **一句话解释：** 评估 LLM 社会仿真时，不仅看它最终输出了什么动作，而是挖掘 Agent 产生决策时**“原本差一点要做、但最终放弃了的选择（Counterfactuals）”**。\n- **它为什么重要：** 这是绝妙的 HCI 与游戏叙事切角！传统游戏 NPC 只有确定的单行动作，显得机械呆板。而人类的生动感恰恰来自于“内心的犹豫与挣扎”。提取 Logit 潜在分支或思考链里的“未竟之选”，能让虚拟人物获得惊人的戏剧张力。\n- **技术趋势标签：** `Social-Simulation` `Game-AI` `Narrative-Design` `Counterfactual-Thinking`\n- **可复用模式：** **犹豫度与未遂行为抓取（Almost-Did Extraction）**：在采样阶段提取 Top-P 的候选动作差值，或者从 CoT 思考链中正则提取“被自我否决的冲动”，将其外显为叙事线索。\n- **疯狂发明家灵感：**\n  1. **一个小实验：** 让 LLM 扮演一个NPC并开启长思考模式（Thinking Block），写脚本专门正则匹配它思考里出现的“我本想……但是不行”，将这部分“内心独白”单列出来。\n  2. **一个中型项目：** **“平行遗憾”叙事探针（Regret Visualizer）**：在交互小说引擎中，玩家每做一个决定，Agent 会同时计算出另外 2 个高概率但被舍弃的行动分支，生成一段“幻影旁白”，展现角色内心的纠结。\n  3. **一个艺术/游戏/叙事方向：** **“读心术”解谜游戏（Mind-Reading Detective）**：在类似《奥伯拉丁的回归》的侦探游戏里，嫌疑人 NPC 嘴上说的都是合乎逻辑的话，但玩家拥有“读心雷达”，能看到 Agent 在决策时刻“差一点脱口而出的秘密”，通过心智挣扎破案。\n- **对我项目的启发：** 在设计生成式游戏或世界生成系统时，最精彩的不是静态的故事树，而是把 Agent 的**决策阻力与替代方案**直接作为游戏机制的一部分暴露给玩家。\n- **今天是否值得深入研究：** 是\n- **建议行动：** 收藏\n\n---\n\n## 今日模式总结\n\n1. **从“聊天框文本交互”走向“空间具身锚定”**：无论是 Penquiry 的笔触原位交互，还是未来画布工具，文本框正在死掉，带有空间坐标（Spatial Context）的直觉输入正在成为下一代生成工具的标准。\n2. **从“Prompt 工程”走向“系统内核与形式化编译器”**：Agent 已经不是单步调用的黑盒，行业正在把操作系统的概念（进程管理、内存沙盒、闭环符号解析）搬进 Agent 运行时，以杜绝幻觉并保证确定性。\n3. **“反事实（Counterfactuals）”成为叙事与心智的新维度**：AI 不再只输出单一的确定结果，挖掘它在思考过程中“放弃的候选解”，是构建高可信度 NPC、心理学模拟以及前卫互动艺术的超级蓝海。\n\n---\n\n## 今日可做小实验：2 小时极速构建\n\n### 项目名：`GhostIntent`（幽灵意图：提取 NPC 的未竟之选）\n\n- **输入：** 一段包含道德冲突的情境设定（例如：“你是一个饥饿的守卫，面前有一块属于孤儿的面包”）。\n- **输出：** \n  1. 最终行为描述（Action）\n  2. 角色原本差一点做出的“幽灵动作”与“自我克制原因”（Ghost Action & Inner Friction）\n- **技术栈：** Node.js 或 Python + 本地 Ollama (或 Claude/OpenAI API) + 几行提取 JSON 的 Spec。\n- **第一步怎么做：**\n  1. 打开终端，新建一个目录，配置调用支持结构化输出的 LLM。\n  2. 编写 System Spec Prompt，强制模型必须先在 `<internal_struggle>` 标签中列出 3 个被否决的冲动选择，最后再在 `<final_action>` 中给出决定。\n  3. 运行代码，把 `<internal_struggle>` 提取出来，渲染成一条半透明的“内心幽灵独白”，看看角色的立体感是否瞬间翻倍。",
+  "gemini_success": true,
+  "telegram_sent": false,
+  "telegram_status": "failed",
+  "telegram_reason": "400 Client Error: Bad Request for url: https://api.telegram.org/bot8650722899:AAHUD-aqNDB7NwiPiGq3R22MVp77Cr_5GEQ/sendMessage"
+}

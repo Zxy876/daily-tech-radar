@@ -1,0 +1,288 @@
+[
+  {
+    "title": "What Users Think of Generative AI: A Cross-Platform NLP Analysis of Trust and Friction in App Store Reviews",
+    "url": "https://arxiv.org/abs/2609.19151",
+    "source": "arXiv cs.HC",
+    "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.19151v1 Announce Type: cross \nAbstract: Generative AI (GenAI) applications have achieved rapid consumer adoption, yet little large-scale research examines user-perceived quality, trust, and adoption barriers. We present one of the first cross-application analyses of app store reviews for six major GenAI applications (ChatGPT, Gemini, Microsoft Copilot, Claude, DeepSeek, and Perplexity), comprising 17,012 English-language reviews from Google Play and the Apple App Store. We combine BER",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "Claude",
+      "Gemini",
+      "Copilot",
+      "GPT",
+      "generative"
+    ]
+  },
+  {
+    "title": "Characterizing Web Search by Conversational LLM Agents: From Search Decisions and Strategies to Results and Responses",
+    "url": "https://arxiv.org/abs/2609.19244",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.19244v1 Announce Type: new \nAbstract: Conversational LLM agents increasingly rely on Web search, yet the end-to-end lifecycle of agentic search remains poorly understood. We present the first study of Web search across four major conversational platforms (ChatGPT, Claude, Grok, and DeepSeek), combining real-world user interactions (invivo) with controlled experiments using the same platform's models by their APIs (invitro). We investigate the quality of agentic decisions to invoke Web",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "Claude",
+      "GPT"
+    ]
+  },
+  {
+    "title": "A Unified Evaluation Framework for Trustworthy Large Language Models, Agentic AI, and Multimodal Systems",
+    "url": "https://arxiv.org/abs/2609.19524",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.19524v1 Announce Type: new \nAbstract: Benchmark scores alone provide an incomplete basis for assessing the trustworthiness of modern artificial intelligence systems. Large language models (LLMs), agentic systems, and multimodal models (MLLMs) require different forms of assessment, yet their evaluation evidence must remain interpretable for development and oversight. We propose a unified framework that connects output-level, trajectory-level, and cross-modal assessment through eight tr",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "multimodal"
+    ]
+  },
+  {
+    "title": "Penquiry: A Pen-based Interactive In-situ Q&A System Leveraging LLMs",
+    "url": "https://arxiv.org/abs/2609.19870",
+    "source": "arXiv cs.HC",
+    "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.19870v1 Announce Type: new \nAbstract: Pen-based digital devices remain a preferred medium for active, cognitively engaging study. Concurrently, Large Language Models (LLMs) have become indispensable for self-directed learning, enabling students to clarify concepts. However, a fundamental interaction gap exists between the fluid, spatial nature of pen-based workflows and the discrete, keyboard-heavy requirements of LLMs. We present Penquiry, an in-situ question-and-answer system that b",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "workflow",
+      "language model",
+      "RAG"
+    ]
+  },
+  {
+    "title": "FootprintRAG: Visual Analytics for Evidence Context Refinement in RAG-based Scientific Literature Exploration",
+    "url": "https://arxiv.org/abs/2609.19601",
+    "source": "arXiv cs.HC",
+    "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.19601v1 Announce Type: cross \nAbstract: Retrieval-Augmented Generation (RAG) is increasingly used to ground large language model (LLM) outputs in scientific literature. However, in open-ended literature exploration, the evidence context used for generation is often produced through hidden retrieval, reranking, assessment, and filtering steps. Users may receive retrieval summaries without knowing how the system constructed the evidence context, which evidence units were retained or dis",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "RAG",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Position: It is Time to Virtualize Foundation Models with a Self-evolving Operating System Layer",
+    "url": "https://arxiv.org/abs/2609.19203",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.19203v1 Announce Type: new \nAbstract: AI applications have shifted from single, monolithic foundation models (FM) to compound agentic systems. Yet today's stacks remain fragmented: even as protocols (e.g., MCP, A2A) ease tool/agent connectivity, each framework embeds an implicit runtime for state, memory, budgets, and guardrails, making behavior non-portable and governance brittle. It mirrors computing before operating systems, when every program re-implemented basic services. This po",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "RAG",
+      "memory"
+    ]
+  },
+  {
+    "title": "Closed-World Resolution Against Tool Hallucination in LLM Agents",
+    "url": "https://arxiv.org/abs/2609.19425",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.19425v1 Announce Type: new \nAbstract: Tool-augmented large language model (LLM) agents fail in a way no tool-selection or tool-security method addresses: they call tools that do not exist and pass arguments no schema declares. Existing defenses either pick the right tool (selection) or constrain what an agent may do with real tools (gating), both of which presuppose the emitted call refers to a real tool at all. We show this is a structural blind spot: a hallucinated call is by constr",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model"
+    ]
+  },
+  {
+    "title": "Safety Beyond the Interface: Detecting Harm via Latent States in Large Language Models",
+    "url": "https://arxiv.org/abs/2609.19472",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.19472v1 Announce Type: new \nAbstract: Autonomous systems increasingly rely on Large Language Models (LLMs) yet the safety infrastructure surrounding these models introduces latency and compute overhead. This limits utility in resource-constrained, time-critical deployments. Existing external guardrail models remain blind to the model's internal workings, creating a fundamental assurance gap. We ask: does the model already know when the content is harmful? We extract activations from L",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "Replan, Repair, or Edit? A Unified Empirical Evaluation of Travel Agents for Itinerary Revision under Resource Disruptions",
+    "url": "https://arxiv.org/abs/2609.19654",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.19654v1 Announce Type: new \nAbstract: Travel-planning agents generate itineraries that may become infeasible after acceptance because of flight cancellations, hotel unavailability, or attraction closures. Revising these itineraries involves full replanning, classical plan repair, and LLM-based travel-agent revision, whose differing task formulations and evaluation protocols hinder comparison. We conduct a systematic empirical study using two TREK-derived benchmark sets: 500 single-dis",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "planning"
+    ]
+  },
+  {
+    "title": "FINSKILLOPS: A Self-Evolving Multi-Agent System for SEC Filing QA",
+    "url": "https://arxiv.org/abs/2609.19680",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.19680v1 Announce Type: new \nAbstract: Financial QA systems are typically improved before deployment through better retrieval, prompting, or agent coordination, leaving their reliability behavior fixed thereafter. In practice, new SEC-filing questions repeatedly expose heterogeneous errors in period, entity, evidence use, and calculation. Existing self-improvement methods can turn failures into new behaviors, but offer limited control over where a correction should apply or which previ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "prompt",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "LearnActCoder: Role-Aware Error Memory for Adaptive Clinical Coding Agents",
+    "url": "https://arxiv.org/abs/2609.19721",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.19721v1 Announce Type: new \nAbstract: Clinical coding agents repeatedly encounter the same failure modes, including unsupported codes, missed documented conditions, specificity errors, and procedure-coding convention mismatches. We introduce Learn-Then-Act, an inference-time adaptation framework that converts errors from a small labeled LEARN batch into a structured Mistake Knowledge Database (MistakeKDB). False-negative lessons are routed to a recall-oriented Coder, while false-posit",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "inference",
+      "memory"
+    ]
+  },
+  {
+    "title": "Rethinking Multi-Agent Collaboration: When More Is Less",
+    "url": "https://arxiv.org/abs/2609.19759",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.19759v1 Announce Type: new \nAbstract: The rapid advancement of large language models and single-agent harnesses has reshaped the landscape of autonomous systems, raising a critical question of when multi-agent collaboration offers genuine value. As individual agent capabilities continue to scale, multi-agent collaboration faces diminishing returns while incurring growing context overhead. Through systematic analysis, we delineate the capability boundaries of multi-agent collaboration ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "language model",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "Faithful Where It Can Be Checked: Auditing a Reflection Agent Against Its System Prompt in a Randomized Trial",
+    "url": "https://arxiv.org/abs/2609.19635",
+    "source": "arXiv cs.HC",
+    "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.19635v1 Announce Type: new \nAbstract: Conversational agents are increasingly used to guide reflection. A recent randomized trial compared a GPT-4o career reflection agent with the same program in a static journaling survey. Agent participants ended less committed to their career plans and more doubtful. We coded all 17,930 turns from its two studies, checked our coding against human coders and linked conversations to the trial's surveys. The rules the agent followed were the easy-to-c",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "GPT",
+      "prompt"
+    ]
+  },
+  {
+    "title": "What People Almost Did: Evaluating LLM Social Simulations Beyond Behavioral Fit",
+    "url": "https://arxiv.org/abs/2609.20055",
+    "source": "arXiv cs.HC",
+    "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.20055v1 Announce Type: new \nAbstract: LLM-based social simulations are primarily evaluated for behavioral fit, testing whether agents reproduce the actions or response distributions of the people they are simulating. However, the promise of simulation extends beyond behavioral fit. Simulations can explain human behavior, diagnose barriers, and compare large-scale interventions. These use cases depend on understanding \\textit{why} people acted a certain way, not just \\textit{what} they",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "simulation"
+    ]
+  },
+  {
+    "title": "Generative Query Suggestion via Intent Coverage and Query-Level Credit Assignment",
+    "url": "https://arxiv.org/abs/2609.19209",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.19209v1 Announce Type: new \nAbstract: Generative query suggestion aims to enhance user engagement by anticipating user intents and recommending relevant follow-up queries. A central challenge is to generate slates whose individual queries are useful while the slate covers distinct intents. We propose an Intent-Driven Query Suggestion Framework with dual-stage optimization. First, intent-aware diversity modeling constructs intent-aligned supervised fine-tuning (SFT) data and uses an In",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "RAG",
+      "fine-tuning",
+      "generative"
+    ]
+  },
+  {
+    "title": "Block Parallelism For Efficient Distributed Long-Context Diffusion Language Model Training",
+    "url": "https://arxiv.org/abs/2609.19242",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.19242v1 Announce Type: new \nAbstract: Block diffusion language models (BDLMs) combine autoregressive dependencies across blocks with parallel denoising within blocks, but long-context training is constrained by distributed attention communication and activation memory. Conventional context parallelism (CP) shards the combined clean-plus-corrupted sequence by position, communicating shared clean K/V together with block-specific corrupted K/V and their gradients. We observe that the BDL",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "diffusion",
+      "language model",
+      "memory"
+    ]
+  },
+  {
+    "title": "Bayesian Optimization with Rich Auxiliary Information via LLMs",
+    "url": "https://arxiv.org/abs/2609.19437",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.19437v1 Announce Type: new \nAbstract: Bayesian Optimization (BO) is widely used for optimizing expensive black-box functions, yet many real-world optimization problems contain substantially richer information than function evaluations alone. Examples include training curves in hyperparameter optimization, expert notes and images in scientific experimentation, and prior knowledge about where optima may lie. We show that large language models (LLMs) can effectively leverage such rich au",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "RAG"
+    ]
+  },
+  {
+    "title": "Sample Count Is Not Enough: Candidate-Generation Strategy Shapes the Energy and Performance of LLM Test-Time Scaling",
+    "url": "https://arxiv.org/abs/2609.19499",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.19499v1 Announce Type: new \nAbstract: Test-time scaling can improve large language model reasoning by generating and combining multiple candidate responses. In sampling-based methods, the inference budget is often described by the number of generated candidates, N. However, N tells us how many candidates are generated, not how they are executed. The same candidate budget can be produced in one batched generation call or split across several sequential calls with smaller batch sizes. W",
+    "score": 8.0,
+    "keywords_matched": [
+      "LLM",
+      "language model",
+      "inference",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Learn Your Own Thoughts: Abstract Token Curriculum",
+    "url": "https://arxiv.org/abs/2609.19717",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.19717v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have achieved remarkable reasoning capabilities by utilizing chain-of-thought (CoT) as a scratchpad for intermediate stages of thinking. However, CoT techniques require explicit supervision on thinking tokens, which requires rich, task-specific data. In this work, we propose Abstract Token Curriculum (ATC), a novel curriculum learning framework that elicits effective continuous intermediate representations without dire",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "NVIDIA / SkillSpector",
+    "url": "https://github.com/NVIDIA/SkillSpector",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them. [142 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "prompt"
+    ]
+  }
+]
