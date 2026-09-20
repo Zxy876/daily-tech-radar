@@ -1,0 +1,266 @@
+{
+  "date": "2026-09-20",
+  "candidates": [
+    {
+      "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
+      "url": "https://github.com/trycua/cua",
+      "source": "Hacker News",
+      "published_at": "Sat, 19 Sep 2026 15:52:51 +0000",
+      "description": "Hello HN! We're Dillon and Francesco from Cua. We were wondering how many computer use tasks actually need a full general purpose LLM (e.g. gpt-6-astra, claude-opus-5 etc.) to think through all their decisions and steps. Some tasks require thinking about a plan, exploring different paths, recovering from failure. Other tasks are a question of making local decisions, like this value should go in this box, or should I check this box, or this element should be ignored. We wondered how far we could ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "title": "VectifyAI / PageIndex",
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG [24 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "RAG",
+        "vector",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "anthropics / claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. [483 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "workflow"
+      ]
+    },
+    {
+      "title": "Show HN: I created an open source locally usable full fledged AI platform",
+      "url": "https://github.com/theguysudo/ENZO",
+      "source": "Hacker News",
+      "published_at": "Sat, 19 Sep 2026 23:47:35 +0000",
+      "description": "hi to all the readers this post is for my recent opensource project called ENZO now answering what is enzo so enzo is an opensource platform where i clubbed all the free available api for anyone use under one hood with more than 2000 models available to use for chatting coding researching and much more now answering the most common question of why you should put your time looking the project so it has few distinct feature meaning it has a dedicated agents tab where you can describe your need and",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "open source"
+      ]
+    },
+    {
+      "title": "TencentCloud / Octop",
+      "url": "https://github.com/TencentCloud/Octop",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent. [281 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "self-hosted"
+      ]
+    },
+    {
+      "title": "opendatalab / MinerU",
+      "url": "https://github.com/opendatalab/MinerU",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows. [59 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "workflow"
+      ]
+    },
+    {
+      "title": "mem0ai / mem0",
+      "url": "https://github.com/mem0ai/mem0",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production. [62 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "memory"
+      ]
+    },
+    {
+      "title": "unslothai / unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more. [68 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "diffusion"
+      ]
+    },
+    {
+      "title": "n8n-io / n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. [126 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "workflow",
+        "automation"
+      ]
+    },
+    {
+      "title": "Tencent / BrowserSkill",
+      "url": "https://github.com/Tencent/BrowserSkill",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent. [612 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "automation"
+      ]
+    },
+    {
+      "title": "google-labs-code / stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor. [9 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "agent",
+        "Claude",
+        "Gemini"
+      ]
+    },
+    {
+      "title": "NVIDIA / TensorRT-LLM",
+      "url": "https://github.com/NVIDIA/TensorRT-LLM",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way. [14 stars today]",
+      "score": 5.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "inference"
+      ]
+    },
+    {
+      "title": "Can you tell which images are AI-generated?",
+      "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai/",
+      "source": "Hacker News",
+      "published_at": "Sat, 19 Sep 2026 23:02:34 +0000",
+      "description": "Article URL: https://slop-sense.labtoagi.com/games/is-this-image-ai/ Comments URL: https://news.ycombinator.com/item?id=49770847 Points: 38 # Comments: 36",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "game"
+      ]
+    },
+    {
+      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+      "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+      "source": "Hacker News",
+      "published_at": "Sat, 19 Sep 2026 06:41:44 +0000",
+      "description": "Article URL: https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio Comments URL: https://news.ycombinator.com/item?id=49763987 Points: 365 # Comments: 166",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "GPT"
+      ]
+    },
+    {
+      "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+      "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+      "source": "Hacker News Best",
+      "published_at": "Sat, 19 Sep 2026 05:48:50 +0000",
+      "description": "https://www.nature.com/articles/s41593-026-02433-7 Comments URL: https://news.ycombinator.com/item?id=49763697 Points: 613 # Comments: 236",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "neural"
+      ]
+    },
+    {
+      "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+      "url": "https://code.claude.com/docs/en/changelog",
+      "source": "Hacker News Best",
+      "published_at": "Fri, 18 Sep 2026 21:00:32 +0000",
+      "description": "Article URL: https://code.claude.com/docs/en/changelog Comments URL: https://news.ycombinator.com/item?id=49760187 Points: 713 # Comments: 265",
+      "score": 4.0,
+      "keywords_matched": [
+        "agent",
+        "Claude"
+      ]
+    },
+    {
+      "title": "ZCode, the GLM coding agent, silently uploads your Git history",
+      "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+      "source": "Hacker News Best",
+      "published_at": "Fri, 18 Sep 2026 10:35:28 +0000",
+      "description": "Article URL: https://tokenstead.ai/guides/zcode-silent-git-history-upload Comments URL: https://news.ycombinator.com/item?id=49752422 Points: 261 # Comments: 14",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+      "url": "https://cactuscompute.com/needle",
+      "source": "Hacker News Best",
+      "published_at": "Fri, 18 Sep 2026 00:11:44 +0000",
+      "description": "Hey HN, Henry from Cactus here. We submitted Needle 2 here a few weeks ago, and the feedback in the discussion thread was incredibly valuable, thanks! Thanks to all that feedback, we’ve been able to move quickly to release Needle 3 and I'd love to hear what you think again. The key features: 1) Automation (tool calls & structured JSON output): Needle still doesn't chat by design, its quite challenging to pack general capacity into such small models, so we focus on tool calls and structured JSON.",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "automation"
+      ]
+    },
+    {
+      "title": "anthropics / knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork [281 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "Claude",
+        "open source"
+      ]
+    },
+    {
+      "title": "cactus-compute / needle",
+      "url": "https://github.com/cactus-compute/needle",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers. [234 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "automation",
+        "embedding"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-09-20\n\n这里是为你精选的 4 项今日高价值技术增量，过滤掉了泛泛的资讯，专注在 **端侧小模型、Spec驱动开发、HCI交互分层** 上的突破。\n\n---\n\n## Cactus Needle 3: 8~29MB 极微型结构化输出模型\n- 来源：Hacker News / GitHub\n- 链接：https://cactuscompute.com/needle\n- 一句话解释：不聊天、只干活——把 Function Calling 和结构化 JSON 提取压缩进 8~29MB 的微型专用模型，能跑在手机、单片机甚至可穿戴设备上。\n- 它为什么重要：打破了“Agent 必须依赖云端百亿参数大模型”的定势。它不跟你谈天说地，专攻 0 延迟的本地工具调用。这意味着游戏 NPC、物理计算装置终于可以在本地拥有高频、免费、毫秒级的指令决策能力。\n- 技术趋势标签：Edge-AI / Local Agent / Micro-Controller / Structured Output / Game Systems\n- 可复用模式：**端侧神经反射弧（Reflex Agent Pattern）**——云端慢模型负责宏观叙事与策略，端侧 10MB 微型模型负责高频、确定性的行为解析。\n- 疯狂发明家灵感：\n  1. **一个小实验**：在本地跑 Needle 3，做一个剪贴板监听脚本：一旦你复制任何混乱文本，毫秒级把它格式化成特定架构的 JSON（0 延迟、0 API 开销）。\n  2. **一个中型项目**：**实体交互装置/机械小宠**——在树莓派或微控制器上运行 Needle，通过麦克风或传感器高频生成物理舵机的动作控制协议。\n  3. **一个艺术/游戏/叙事方向**：**Minecraft \"蜂群\" 本地微实体**——大模型负责生成世界大纲，本地用 50 个并发的 Needle 实例分别控制 50 个村民的微观行动逻辑（采矿、逃跑、交易），完全无需担心 API 限流和高昂费用。\n- 对我项目的启发：在构建生成式世界或复杂系统时，解耦“高层规划”和“底层行为”。低成本本地模型是做海量自治实体（Autonomous Agents）的核心钥匙。\n- 今天是否值得深入研究：是\n- 建议行动：做demo\n\n---\n\n## CUA-S1: 计算机操作的“系统 1（快思考）”专用模型\n- 来源：Hacker News\n- 链接：https://github.com/trycua/cua\n- 一句话解释：将计算机操作分为“慢规划”与“快肌肉记忆”，用轻量级模型专攻 UI 屏幕局部判断与点击定位。\n- 它为什么重要：过去让 Claude 3.5/Opus 执行截屏与鼠标点击又贵又慢（系统 2）。CUA-S1 借鉴认知科学的“双系统理论”，把 UI 识别与像素级动作剥离为肌肉级反射，大幅降低交互延迟。\n- 技术趋势标签：HCI / Computer Use / Dual-Process AI / UI Automation\n- 可复用模式：**双系统交互架构（Dual-System Architecture）**——大模型负责“想做什么”，专用小模型负责“按哪个像素”。\n- 疯狂发明家灵感：\n  1. **一个小实验**：用 CUA-S1 控制一个无 API 的创意软件（如 Blender、Figma 或纯客户端工具），让它根据自然语言指令自动在界面上寻找菜单项并完成重命名。\n  2. **一个中型项目**：**生成式 UI \"自动化皮影戏\"**——做一个跨软件的 Agent 助手，能在 TouchDesigner 或 Max/MSP 画布上像人类一样快速拖拽连线节点。\n  3. **一个艺术/游戏/叙事方向**：**自动游戏盲测员 NPC**：让一个视觉 Agent 扮演不知情的人类玩家，仅通过看游戏画面（无内存 Hook）去玩你做出的解谜游戏 Demo，自动生成交互卡点热力图。\n- 对我项目的启发：设计 HCI 工具时，不要总想着把整个屏幕一股脑丢给多模态大模型，用分层思路能做出极其流畅的视觉交互管线。\n- 今天是否值得深入研究：是\n- 建议行动：试用\n\n---\n\n## Claude Code 全面支持 AGENTS.md 规范\n- 来源：Hacker News\n- 链接：https://code.claude.com/docs/en/changelog\n- 一句话解释：Claude Code 官方支持读取 `AGENTS.md`，标志着跨工具的 Agent 项目级规范（Spec）正在走向标准化。\n- 它为什么重要：过去每个 Agent 工具都有自己的私有配置文件（如 `.cursorrules`、`CLAUDE.md`）。`AGENTS.md` 的通用化意味着 Spec-Driven Development 迎来了跨平台的通用格式。一份规范，多 Agent 共用。\n- 技术趋势标签：Spec-Driven Development / Agent Workflow / Standard Protocols\n- 可复用模式：**通用规范协议（Universal Spec Context）**——把系统边界、数据模型与协作公理固化在版本控制下的 Markdown 里，作为系统的“机器宪法”。\n- 疯狂发明家灵感：\n  1. **一个小实验**：在现有个人项目的根目录写一个包含严格交互公理与防御性规则的 `AGENTS.md`，测试不同终端 Agent 对该规范的遵循一致性。\n  2. **一个中型项目**：**Spec-Driven Generative World Compiler**：在世界生成项目里写一份 `WORLD_SPEC.md`，Agent 读取该 Spec 自动推导结构树、逻辑规则与自动化单元测试。\n  3. **一个艺术/游戏/叙事方向**：**活体设定集（Living Lore Bible）**：把游戏世界观以 `AGENTS.md` 语法组织，让 Agent 充当“世界观审查官”，每次设计新武器或新剧情时，由它自动驳回违反世界观公理的设计。\n- 对我项目的启发：强化了“代码只是产物，Spec 才是本质”的思路。未来做项目应优先设计机器可理解的 Spec 架构，而不是直接手写样板代码。\n- 今天是否值得深入研究：是\n- 建议行动：试用\n\n---\n\n## BrowserSkill: 寄生于真实已登录浏览器的无感 Agent 接口\n- 来源：GitHub Trending\n- 链接：https://github.com/Tencent/BrowserSkill\n- 一句话解释：通过 CLI + 插件打通本地真实浏览器，让 Agent 随时调用你的已登录环境，且完全不干扰你的当前屏幕操作。\n- 它为什么重要：过去做网页 Agent 往往要开一个隔离的无头浏览器（Headless），处理登录态、验证码极度繁琐。BrowserSkill 采取“环境共生”策略，直接借用人类已有的真实会话上下文。\n- 技术趋势标签：HCI / Browser Automation / Ambient Computing / Context-Aware\n- 可复用模式：**活体上下文注入（Living Session Injection）**——不新建沙盒，直接在人类的生活与工作痕迹中寄生运行。\n- 疯狂发明家灵感：\n  1. **一个小实验**：写一个终端一键命令，在后台借助你真实登录的 Are.na / Pinterest 账号，无感抓取某个设计主题的最新参考图并存入本地。\n  2. **一个中型项目**：**设计资产自动归档器**：当你在 Web 页面（如 Midjourney、Figma）上给资产打上特定星标，后台 Agent 自动抓取元数据、高清图并注入到本地生成式引擎的素材库中。\n  3. **一个艺术/游戏/叙事方向**：**侵入式现实游戏（ARG）暗线分发器**：在互动叙事中，让 Agent 悄无声息地在玩家的网页环境里放置“线索碎片”（如一封发往虚构收件箱的邮件）。\n- 对我项目的启发：在设计人机协作工作流时，减少“上下文切换”与“冷启动环境配置”能带来无与伦比的交互丝滑感。\n- 今天是否值得深入研究：否（原理清晰，适合储备）\n- 建议行动：收藏\n\n---\n\n## 今日模式总结\n\n1. **快慢分层（Dual-System Separation）**：AI 正在从“一个全能大模型包办一切”转向“慢大脑（规划）+ 快肌肉（反射）”。本地十几 MB 的小模型负责毫秒级操作，云端负责深度思考。\n2. **规范标准化（Spec-as-Protocol）**：从专有 prompt 走向跨平台的统一规范（如 `AGENTS.md`）。人类的角色愈发变成“系统规则与世界观的 Spec 制定者”。\n3. **环境共生（Ambient Co-existence）**：不再强制构建独立的封闭沙盒，Agent 越来越倾向于悄无声息地复用人类现有的应用上下文（已登录会话、本地终端口）。\n\n---\n\n## 今日可做小实验\n\n### 项目名：LoreKeeper — 基于 AGENTS.md 的游戏世界公理校验器\n*用今天标准化的 Spec 思想，做一个 2 小时内可玩的“活体世界观检测机”。*\n\n- **输入**：一段随手写下的新设定文本（例如：`input.md` 写入 \"荒原探险家拔出一把通体发着霓虹紫光的等离子激光剑，切开了生锈的黄铜闸门\"）。\n- **输出**：终端实时输出格式化反馈：\n  1. 违背的公理清单（指出哪一条被打破，例如：严禁使用 20 世纪以后的电子/等离子能源）。\n  2. 修复建议（改用发光的以太电弧阀）。\n  3. 自动生成符合该世界观的道具卡片 JSON。\n- **技术栈**：Markdown + 终端 Agent 工具（Claude Code、Gemini CLI，或一个 15 行的 Python 脚本直接调用本地 Ollama / OpenAI API）。\n- **第一步怎么做**：\n  在一个空目录中新建 `AGENTS.md`，写入以下简短规范：\n  ```markdown\n  # 世界公理：蒸汽与发条纪元\n  1. 动力学铁律：所有能量必须来源于蒸汽、发条弹簧或化学以太，世界上绝对不存在半导体、等离子与现代电力。\n  2. 视觉公理：材质必须是黄铜、铸铁、皮革或打磨玻璃。\n  3. 你的职责：审讯任何提交的设定文本，严格揪出违背公理的词汇，并强制将其蒸汽朋克化重写。\n  ```\n  然后运行 CLI 指令或 Python 脚本，观察它是否能把你的随意涂鸦精准规约到 Spec 定义的边界内！",
+  "gemini_success": true,
+  "telegram_sent": false,
+  "telegram_status": "failed",
+  "telegram_reason": "400 Client Error: Bad Request for url: https://api.telegram.org/bot8650722899:AAHUD-aqNDB7NwiPiGq3R22MVp77Cr_5GEQ/sendMessage"
+}
