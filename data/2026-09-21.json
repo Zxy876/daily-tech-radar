@@ -1,0 +1,249 @@
+{
+  "date": "2026-09-21",
+  "candidates": [
+    {
+      "title": "anthropics / claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. [419 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "workflow"
+      ]
+    },
+    {
+      "title": "Tencent / BrowserSkill",
+      "url": "https://github.com/Tencent/BrowserSkill",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent. [324 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "automation"
+      ]
+    },
+    {
+      "title": "affaan-m / ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. [826 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "agent",
+        "Claude",
+        "memory"
+      ]
+    },
+    {
+      "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+      "source": "Hacker News Best",
+      "published_at": "Sat, 19 Sep 2026 18:21:30 +0000",
+      "description": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit Comments URL: https://news.ycombinator.com/item?id=49768921 Points: 181 # Comments: 49",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "GPT"
+      ]
+    },
+    {
+      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+      "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+      "source": "Hacker News Best",
+      "published_at": "Sat, 19 Sep 2026 06:41:44 +0000",
+      "description": "Article URL: https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio Comments URL: https://news.ycombinator.com/item?id=49763987 Points: 388 # Comments: 177",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "GPT"
+      ]
+    },
+    {
+      "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+      "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+      "source": "Hacker News Best",
+      "published_at": "Sat, 19 Sep 2026 05:48:50 +0000",
+      "description": "https://www.nature.com/articles/s41593-026-02433-7 Comments URL: https://news.ycombinator.com/item?id=49763697 Points: 641 # Comments: 255",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "neural"
+      ]
+    },
+    {
+      "title": "FareedKhan-dev / train-llm-from-scratch",
+      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "A straightforward method for training your LLM, from downloading data to generating text. [265 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "title": "harvard-edge / cs249r_book",
+      "url": "https://github.com/harvard-edge/cs249r_book",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard CS249r |https://mlsysbook.ai [28 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "Significant-Gravitas / AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. [27 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "GPT"
+      ]
+    },
+    {
+      "title": "cactus-compute / needle",
+      "url": "https://github.com/cactus-compute/needle",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers. [381 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "automation",
+        "embedding"
+      ]
+    },
+    {
+      "title": "supermemoryai / supermemory",
+      "url": "https://github.com/supermemoryai/supermemory",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era. [169 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "memory"
+      ]
+    },
+    {
+      "title": "krillinai / OpenCreator",
+      "url": "https://github.com/krillinai/OpenCreator",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Formerly KrillinAI. Open-source AI workspace for creators, powered by Codex. Create videos, images, voice, avatars, translations, and edits with Agents in one place. [263 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "diffusionstudio / editor",
+      "url": "https://github.com/diffusionstudio/editor",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "An open-source video editor built for agents. Edits become code, code becomes video. [63 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "agent",
+        "diffusion"
+      ]
+    },
+    {
+      "title": "KnockOutEZ / wigolo",
+      "url": "https://github.com/KnockOutEZ/wigolo",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta. [25 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "addyosmani / agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "Production-grade engineering skills for AI coding agents. [736 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "Amiga Unix, Again",
+      "url": "https://amigaux.org/",
+      "source": "Hacker News",
+      "published_at": "Sun, 20 Sep 2026 23:57:10 +0000",
+      "description": "Article URL: https://amigaux.org/ Comments URL: https://news.ycombinator.com/item?id=49781436 Points: 13 # Comments: 5",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    },
+    {
+      "title": "DAPO: An Open-source RL System from ByteDance Seed and Tsinghua AIR",
+      "url": "https://github.com/BytedTsinghua-SIA/DAPO",
+      "source": "Hacker News",
+      "published_at": "Sun, 20 Sep 2026 23:19:04 +0000",
+      "description": "Article URL: https://github.com/BytedTsinghua-SIA/DAPO Comments URL: https://news.ycombinator.com/item?id=49781138 Points: 10 # Comments: 0",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Google's Open Agentic Orchestrator",
+      "url": "https://agentexecutor.io",
+      "source": "Hacker News",
+      "published_at": "Sun, 20 Sep 2026 22:32:43 +0000",
+      "description": "Article URL: https://agentexecutor.io Comments URL: https://news.ycombinator.com/item?id=49780797 Points: 173 # Comments: 71",
+      "score": 2.0,
+      "keywords_matched": [
+        "agent"
+      ]
+    },
+    {
+      "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
+      "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
+      "source": "Hacker News",
+      "published_at": "Sun, 20 Sep 2026 17:38:50 +0000",
+      "description": "Article URL: https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say Comments URL: https://news.ycombinator.com/item?id=49778029 Points: 342 # Comments: 219",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Resident Evil 4 (GameCube) – complete byte-identical decompilation to C/C++",
+      "url": "https://github.com/adonis-singh/re4",
+      "source": "Hacker News",
+      "published_at": "Sun, 20 Sep 2026 17:38:27 +0000",
+      "description": "Article URL: https://github.com/adonis-singh/re4 Comments URL: https://news.ycombinator.com/item?id=49778022 Points: 83 # Comments: 51",
+      "score": 2.0,
+      "keywords_matched": [
+        "game"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-09-21\n\n好的，疯狂发明家！你的技术雷达已启动，正在为你搜刮、筛选、并转化最前沿、最怪诞、最可实验的技术浪潮。本次为你精选了 5 条，确保它们能点燃你的跨学科火花，驱动你的“疯狂但可做”发明。\n\n---\n\n## [Claude Code：终端中的全能 AI 编码助手]\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/anthropics/claude-code\n- 一句话解释：一个能驻留在终端、理解你的代码库、并通过自然语言指令执行日常任务、解释代码、处理 Git 工作流的智能体。\n- 它为什么重要：将 LLM 的能力从一个独立的聊天窗口，直接集成到开发者最核心的工作流中，极大地提升了编码效率和可访问性。\n- 技术趋势标签：AI, Agent, LLM Toolchain, Automation, HCI\n- 可复用模式：Agentic Development Workflow, Natural Language Interface for Code\n- 疯狂发明家灵感：\n  1. **一个小实验：** 编写一个脚本，让 Claude Code 自动检测并修复代码中的一个常见 bug 类型（如未使用的变量）。\n  2. **一个中型项目：** 构建一个“代码考古”助手，利用 Claude Code 自动解析一个不熟悉的代码库，生成详细的文档和依赖关系图。\n  3. **一个艺术/游戏/叙事方向：** 设计一个“代码叙事生成器”，让 AI 代理根据玩家的文本指令，动态生成游戏中的代码片段（如生成简单的 NPC 行为脚本），并实时反馈给游戏引擎。\n- 对我项目的启发：如何将 Agentic 的能力更深入地嵌入到我的 creative coding 或游戏系统开发流程中，实现更自然的交互和更快的迭代。\n- 今天是否值得深入研究：是\n- 建议行动：试用 / 做demo\n\n---\n\n## [BrowserSkill：让 AI Agent 在真实浏览器中无缝工作]\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/Tencent/BrowserSkill\n- 一句话解释：一个 CLI 工具和浏览器扩展，允许 AI Agent 在不中断你工作的情况下，使用你的真实、已登录的浏览器执行自动化任务。\n- 它为什么重要：解决了 AI Agent 缺乏真实世界交互能力的问题，让它们能够访问动态网页、执行需要登录的操作，极大地扩展了 Agent 的应用场景。\n- 技术趋势标签：AI, Agent, Automation, HCI, LLM Toolchain\n- 可复用模式：Browser Automation for Agents, Real-World Interaction Layer for AI\n- 疯狂发明家灵感：\n  1. **一个小实验：** 创建一个 Agent，让它使用 BrowserSkill 自动抓取一个电商网站的产品信息，并将其整理成 CSV 文件。\n  2. **一个中型项目：** 开发一个“AI 浏览器助手”，能够根据你的指示，自动完成复杂的在线任务，例如预订机票、填写在线表格、或者进行社交媒体互动。\n  3. **一个艺术/游戏/叙事方向：** 构建一个“数字侦探游戏”，玩家通过指令引导 AI Agent 在互联网上搜集线索，揭开故事的谜底。AI Agent 的浏览器操作将是游戏的核心玩法。\n- 对我项目的启发：如何让我的生成式系统或游戏 AI，能够通过浏览器与外部世界（如网页数据、API）进行更丰富的交互，从而产生更动态和意想不到的结果。\n- 今天是否值得深入研究：是\n- 建议行动：试用 / 做demo\n\n---\n\n## [ECC：Agent Harness 性能优化系统]\n- 来源：GitHub Trending\n- 链接：https://github.com/affaan-m/ECC\n- 一句话解释：一个面向 Agent 的性能优化系统，为 Claude Code、Codex 等提供技能、直觉、记忆、安全和研究优先的开发能力。\n- 它为什么重要：解决了当前 Agent 系统在复杂任务中可能遇到的瓶颈，通过引入记忆、更强的推理和安全机制，让 Agent 能够处理更长期的任务和更复杂的决策。\n- 技术趋势标签：Agent, Memory, LLM Toolchain, AI Development Workflow\n- 可复用模式：Enhanced Agent Capabilities, Agentic Memory and Skill Management\n- 疯狂发明家灵感：\n  1. **一个小实验：** 尝试为一个简单的 Agent 添加一个“短期记忆”模块，让它在连续的对话中能记住之前提到的关键信息。\n  2. **一个中型项目：** 开发一个“AI 助手编排器”，允许用户组合多个具备不同技能（如写作、代码、研究）的 Agent，并利用 ECC 的机制协调它们的协作，完成跨领域的复杂任务。\n  3. **一个艺术/游戏/叙事方向：** 设计一个“AI 驱动的互动式小说生成器”，Agent 能够根据读者的选择，动态生成故事分支，并且通过“记忆”模块，保持角色性格和情节的一致性，甚至能“学习”读者的偏好。\n- 对我项目的启发：如何为我的生成式艺术或游戏系统中的 Agent 赋予更强的“个性”和“记忆”，让它们能进行更连贯、更有深度的行为和叙事。\n- 今天是否值得深入研究：是\n- 建议行动：收藏 / 做demo\n\n---\n\n## [Needle：微型设备的自动化基础模型]\n- 来源：GitHub Trending Python\n- 链接：https://github.com/cactus-compute/needle\n- 一句话解释：一个专为微型设备设计的自动化基础模型，能在手机、可穿戴设备、智能家居、机器人等极低资源环境下（2-bit, 8-29 MB）实现工具调用、结构化提取和嵌入。\n- 它为什么重要：将强大的 AI 自动化能力下放到资源极其受限的边缘设备，是实现真正分布式智能和物联网智能化的关键一步，也为低功耗、本地化 AI 应用打开了大门。\n- 技术趋势标签：Automation, AI, Embedding, Edge AI, HCI\n- 可复用模式：TinyML for Automation, On-Device AI Agent\n- 疯狂发明家灵感：\n  1. **一个小实验：** 将 Needle 模型部署到一个微控制器（如 ESP32），让它通过简单的传感器输入（如光线强度）触发一个 LED 闪烁模式。\n  2. **一个中型项目：** 构建一个“智能家居自动化中心”，利用 Needle 在低功耗设备上运行，根据环境传感器和用户指令，自动控制家电，并进行本地化的模式识别和预测。\n  3. **一个艺术/游戏/叙事方向：** 设计一系列“智能雕塑”或“交互式装置”，每个装置都包含一个运行 Needle 的微型 AI，它们能够感知观众的行为，并以微妙的方式做出反应（如改变光影、发出声音），共同构成一个群体智能的艺术作品。\n- 对我项目的启发：如何将 AI 自动化能力以极低的资源消耗集成到我的硬件艺术项目或游戏原型中，实现更智能、更具互动性的物理体验。\n- 今天是否值得深入研究：是\n- 建议行动：收藏 / 试用\n\n---\n\n## [OpenCreator：创作者的开源 AI 工作空间]\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/krillinai/OpenCreator\n- 一句话解释：一个由 Codex 驱动的开源 AI 工作空间，让创作者能够在一个地方通过 Agent 创建视频、图片、语音、头像、翻译和剪辑。\n- 它为什么重要：将多种生成式 AI 工具整合到一个统一的 Agentic 工作流中，极大地降低了跨模态内容创作的门槛，赋能更多非技术背景的创作者。\n- 技术趋势标签：AI, Agent, Creative Tool, Generative System, Automation\n- 可复用模式：Multi-modal Agentic Creation Platform, Creator-Focused AI Workflow\n- 疯狂发明家灵感：\n  1. **一个小实验：** 使用 OpenCreator 的 Agent，自动将一段文字描述转化为一张概念图。\n  2. **一个中型项目：** 开发一个“AI 故事板生成器”，用户输入故事梗概，Agent 自动生成包含视觉元素（图片/短视频）、语音旁白和基础剪辑的初步故事板。\n  3. **一个艺术/游戏/叙事方向：** 创建一个“AI 驱动的动态漫画/动画生成器”，用户可以定义角色、场景和基本剧情，Agent 负责生成连续的画面、对话和音效，并根据用户反馈不断迭代。\n- 对我项目的启发：如何将我的 AI/CS 技能与艺术/设计背景结合，构建一个能够让我的创意流程更高效、更具实验性的 AI 工具。\n- 今天是否值得深入研究：是\n- 建议行动：试用 / 做demo\n\n---\n\n## 今日模式总结\n今天涌现了几个核心模式：\n1.  **Agentic Workflow Integration:** AI Agent 正从独立工具走向深度集成，嵌入到开发者（Claude Code）、用户（BrowserSkill）和创作者（OpenCreator）的日常工作流中，提供更无缝、更强大的自动化能力。\n2.  **Enhanced Agent Capabilities & Memory:** Agent 不再是“一次性”的工具，而是开始具备“记忆”和更强的“技能管理”（ECC），能够处理更复杂的、有状态的任务，并进行更长期的规划。\n3.  **Edge AI for Automation:** AI 自动化正向更广泛的设备渗透，Needle 展示了在极低资源环境下实现 Agentic 自动化成为可能，预示着智能将无处不在。\n\n## 今日可做小实验\n**项目名：** 终端代码理解助手（Mini Claude Code）\n**输入：**\n1.  一个 Python 文件（例如：一个你最近写的、有点复杂的函数）。\n2.  一个自然语言指令，例如：“解释一下这个函数的作用，并指出其中可能存在的性能瓶颈。”\n**输出：**\n1.  对该函数功能的自然语言解释。\n2.  对潜在性能瓶颈的分析。\n**技术栈：**\n-   Python\n-   `subprocess` 模块\n-   一个本地运行的 LLM（例如：LM Studio 提供的 Ollama 或 OpenAI API 的本地模拟）\n-   （可选）`tree-sitter` 用于更深入的代码解析。\n**第一步怎么做：**\n1.  **设置本地 LLM:** 确保你有一个可以本地访问的 LLM 模型，可以通过 `ollama run <model_name>` 或者 OpenAI API 的本地模拟器来运行。\n2.  **编写 Python 脚本：**\n    *   读取你选择的 Python 文件内容。\n    *   构建一个 Prompt，将文件名、文件内容和你的自然语言指令组合起来。\n    *   使用 `subprocess` 模块调用你的本地 LLM API（或模拟 API），发送 Prompt 并获取响应。\n    *   打印 LLM 的输出。\n    *   **进阶：** 如果你想让它更像 Claude Code，可以尝试使用 `tree-sitter` 解析代码，提取函数签名、参数等信息，然后将其作为上下文加入 Prompt。\n\n这个实验将让你直接体验到如何将 LLM 的代码理解能力转化为一个实用的终端工具，为你的 Agentic Workflow 铺路。",
+  "gemini_success": true,
+  "telegram_sent": false,
+  "telegram_status": "failed",
+  "telegram_reason": "400 Client Error: Bad Request for url: https://api.telegram.org/bot8650722899:AAHUD-aqNDB7NwiPiGq3R22MVp77Cr_5GEQ/sendMessage"
+}

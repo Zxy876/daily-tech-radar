@@ -1,0 +1,241 @@
+[
+  {
+    "title": "anthropics / claude-code",
+    "url": "https://github.com/anthropics/claude-code",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. [419 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "workflow"
+    ]
+  },
+  {
+    "title": "Tencent / BrowserSkill",
+    "url": "https://github.com/Tencent/BrowserSkill",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent. [324 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "automation"
+    ]
+  },
+  {
+    "title": "affaan-m / ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. [826 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "agent",
+      "Claude",
+      "memory"
+    ]
+  },
+  {
+    "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+    "source": "Hacker News Best",
+    "published_at": "Sat, 19 Sep 2026 18:21:30 +0000",
+    "description": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit Comments URL: https://news.ycombinator.com/item?id=49768921 Points: 181 # Comments: 49",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "GPT"
+    ]
+  },
+  {
+    "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+    "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+    "source": "Hacker News Best",
+    "published_at": "Sat, 19 Sep 2026 06:41:44 +0000",
+    "description": "Article URL: https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio Comments URL: https://news.ycombinator.com/item?id=49763987 Points: 388 # Comments: 177",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "GPT"
+    ]
+  },
+  {
+    "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+    "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+    "source": "Hacker News Best",
+    "published_at": "Sat, 19 Sep 2026 05:48:50 +0000",
+    "description": "https://www.nature.com/articles/s41593-026-02433-7 Comments URL: https://news.ycombinator.com/item?id=49763697 Points: 641 # Comments: 255",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "neural"
+    ]
+  },
+  {
+    "title": "FareedKhan-dev / train-llm-from-scratch",
+    "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "A straightforward method for training your LLM, from downloading data to generating text. [265 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "LLM"
+    ]
+  },
+  {
+    "title": "harvard-edge / cs249r_book",
+    "url": "https://github.com/harvard-edge/cs249r_book",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard CS249r |https://mlsysbook.ai [28 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "Significant-Gravitas / AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. [27 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "GPT"
+    ]
+  },
+  {
+    "title": "cactus-compute / needle",
+    "url": "https://github.com/cactus-compute/needle",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers. [381 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "automation",
+      "embedding"
+    ]
+  },
+  {
+    "title": "supermemoryai / supermemory",
+    "url": "https://github.com/supermemoryai/supermemory",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era. [169 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "memory"
+    ]
+  },
+  {
+    "title": "krillinai / OpenCreator",
+    "url": "https://github.com/krillinai/OpenCreator",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Formerly KrillinAI. Open-source AI workspace for creators, powered by Codex. Create videos, images, voice, avatars, translations, and edits with Agents in one place. [263 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "diffusionstudio / editor",
+    "url": "https://github.com/diffusionstudio/editor",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "An open-source video editor built for agents. Edits become code, code becomes video. [63 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "agent",
+      "diffusion"
+    ]
+  },
+  {
+    "title": "KnockOutEZ / wigolo",
+    "url": "https://github.com/KnockOutEZ/wigolo",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta. [25 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "addyosmani / agent-skills",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Production-grade engineering skills for AI coding agents. [736 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "Amiga Unix, Again",
+    "url": "https://amigaux.org/",
+    "source": "Hacker News",
+    "published_at": "Sun, 20 Sep 2026 23:57:10 +0000",
+    "description": "Article URL: https://amigaux.org/ Comments URL: https://news.ycombinator.com/item?id=49781436 Points: 13 # Comments: 5",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  },
+  {
+    "title": "DAPO: An Open-source RL System from ByteDance Seed and Tsinghua AIR",
+    "url": "https://github.com/BytedTsinghua-SIA/DAPO",
+    "source": "Hacker News",
+    "published_at": "Sun, 20 Sep 2026 23:19:04 +0000",
+    "description": "Article URL: https://github.com/BytedTsinghua-SIA/DAPO Comments URL: https://news.ycombinator.com/item?id=49781138 Points: 10 # Comments: 0",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  },
+  {
+    "title": "Google's Open Agentic Orchestrator",
+    "url": "https://agentexecutor.io",
+    "source": "Hacker News",
+    "published_at": "Sun, 20 Sep 2026 22:32:43 +0000",
+    "description": "Article URL: https://agentexecutor.io Comments URL: https://news.ycombinator.com/item?id=49780797 Points: 173 # Comments: 71",
+    "score": 2.0,
+    "keywords_matched": [
+      "agent"
+    ]
+  },
+  {
+    "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
+    "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
+    "source": "Hacker News",
+    "published_at": "Sun, 20 Sep 2026 17:38:50 +0000",
+    "description": "Article URL: https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say Comments URL: https://news.ycombinator.com/item?id=49778029 Points: 342 # Comments: 219",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  },
+  {
+    "title": "Resident Evil 4 (GameCube) – complete byte-identical decompilation to C/C++",
+    "url": "https://github.com/adonis-singh/re4",
+    "source": "Hacker News",
+    "published_at": "Sun, 20 Sep 2026 17:38:27 +0000",
+    "description": "Article URL: https://github.com/adonis-singh/re4 Comments URL: https://news.ycombinator.com/item?id=49778022 Points: 83 # Comments: 51",
+    "score": 2.0,
+    "keywords_matched": [
+      "game"
+    ]
+  }
+]
