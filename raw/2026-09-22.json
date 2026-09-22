@@ -1,0 +1,286 @@
+[
+  {
+    "title": "Driving on Registers, Reasoning on Risk: Risk-Aware Occupancy for Register-Based End-to-End Autonomous Driving",
+    "url": "https://arxiv.org/abs/2609.21486",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 21 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.21486v1 Announce Type: new \nAbstract: Multimodal trajectory prediction improves behavioral coverage in end-to-end autonomous driving, but existing methods remain limited by sparse scene representations. Incomplete evidence leads to low-quality candidate generation and unreliable ranking among geometrically similar trajectories. On a register-based baseline, bad and poor candidates constitute 19.74% of the candidate set, while the oracle-best candidate ranks only 33.9th on average. We ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "autonomous",
+      "multimodal",
+      "RAG",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "PolyBridgeBench: Benchmarking Multimodal LLMs for Physics-Grounded Bridge Design",
+    "url": "https://arxiv.org/abs/2609.21493",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 21 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.21493v1 Announce Type: new \nAbstract: Multimodal large language models, or MLLMs, perform well at visual understanding and structured generation, yet these capabilities do not establish whether an engineering design will work when executed. Existing benchmarks assess spatial reasoning, structural validity, or physics-grounded construction, but they do not determine whether MLLMs can synthesize complete load-bearing structures and repair them after simulator execution exposes a failure",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "multimodal",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Machines, AI and the past//future of things",
+    "url": "https://arxiv.org/abs/2512.16285",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 21 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2512.16285v2 Announce Type: replace \nAbstract: This essay explores a techno-artistic experiment that reanimates a 1980s East German typewriter using a contemporary AI language model. Situated at the intersection of media archaeology and speculative design, the project questions dominant narratives of progress by embedding generative AI in an obsolete, tactile interface. Through public exhibitions and aesthetic intervention, we demonstrate how slowness, friction, and material render artific",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "language model",
+      "embedding",
+      "narrative",
+      "generative"
+    ]
+  },
+  {
+    "title": "Do Quantum Models Scale Like LLMs?",
+    "url": "https://arxiv.org/abs/2609.20912",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 21 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.20912v1 Announce Type: new \nAbstract: In this work, we study the neural scaling laws of RydbergGPT, an autoregressive transformer model trained on qubit projective measurement data gathered from interacting Rydberg atom arrays. The quantum system is known to exhibit a finite-size remnant of a critical point as the laser detuning parameter is varied. We find that near the critical point the transformer loss as a function of training dataset size is well described by a power-law with a ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "GPT",
+      "transformer",
+      "neural"
+    ]
+  },
+  {
+    "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
+    "url": "https://arxiv.org/abs/2609.20971",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 21 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.20971v1 Announce Type: new \nAbstract: Long-context large language model inference is increasingly limited by prefill, where dense self-attention processes the entire prompt before generation begins. Sparse block selection can reduce this cost, but a block centroid may hide a highly relevant token among many irrelevant ones. We call this failure mode mean dilution and propose RBS-Attention, a training-free sparse-prefill method with two complementary selection branches. A centroid base",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "language model",
+      "inference",
+      "prompt"
+    ]
+  },
+  {
+    "title": "CaLR: Causal Latent Revision for Robust Diffusion Reasoning",
+    "url": "https://arxiv.org/abs/2609.20981",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 21 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.20981v1 Announce Type: new \nAbstract: Autoregressive (AR) models suffer from local greediness, while diffusion language models (DLMs) often lack the strict causal structure required for reasoning. To combine the advantages and overcome the drawbacks of the dual, we propose Causal Latent Revision (CaLR), a framework that reformulates reasoning as constrained latent optimization. By adopting a causal topology matrix (CTM) from an expert model and implicit differentiation, CaLR performs ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "diffusion",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Decoupling Internal Representational Changes and Causal Importance in Fine-Tuned Large Language Models",
+    "url": "https://arxiv.org/abs/2609.21113",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 21 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.21113v1 Announce Type: new \nAbstract: Fine-tuning has emerged as a widely adopted approach for adapting LLMs to a variety of downstream tasks. However, how it reshapes their internal mechanisms remains poorly understood. To address this, we investigate how fine-tuning alters internal representations in LLMs, including attention patterns and layer-wise activations, and examine whether these changes are linked to task-relevant components identified by EAP (e.g., attention heads and logi",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "fine-tuning"
+    ]
+  },
+  {
+    "title": "Can Agents Design Better Chips with a Higher Level Abstraction?",
+    "url": "https://arxiv.org/abs/2609.21157",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 21 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.21157v1 Announce Type: new \nAbstract: Large Language Model (LLM) agents are increasingly being explored for chip design, but most existing approaches operate directly at RTL. We ask whether agents can design better chips by leveraging higher-level abstractions. We compare Direct RTL Design, Agent-based HLS Design, Post-Compiler HLS Refinement, and Post-HLS RTL Refinement, and combine Agent-based HLS Design with Post-HLS RTL Refinement as Agent-based HLS with RTL Refinement (AHRR). We ",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "language model",
+      "RAG"
+    ]
+  },
+  {
+    "title": "Implicit Rule Induction with Test-Time Task Embeddings in ARC-like Tasks",
+    "url": "https://arxiv.org/abs/2609.21181",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 21 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.21181v1 Announce Type: new \nAbstract: The Abstraction and Reasoning Corpus and related benchmarks evaluate whether AI models can solve novel reasoning tasks, but often leave unclear whether success reflects inference of the intended underlying rule or reliance on shortcuts. We address this gap by studying test-time task embeddings in Vision ARC (VARC), a model in which a pre-trained backbone is complemented by a trainable embedding representing the transformation rule. In the original",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "embedding",
+      "inference",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "GVPO++: Group Variance Policy Optimization for LLM Post-Training and On-Policy Distillation",
+    "url": "https://arxiv.org/abs/2609.21432",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 21 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.21432v1 Announce Type: new \nAbstract: Post-training plays a pivotal role in enhancing the reasoning capabilities and task-specific expertise of large language models (LLMs). Despite recent advances in post-training methods, such as Group Relative Policy Optimization (GRPO), their practical deployment remains impeded by training instability arising from the reliance on importance sampling.\n  We introduce Group Variance Policy Optimization (GVPO), a novel post-training method that integ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "LogicTrack: Auditing Reasoning Trajectories of Large Language Models with Formal Logic Solvers",
+    "url": "https://arxiv.org/abs/2609.21492",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 21 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.21492v1 Announce Type: new \nAbstract: Chain-of-Thought (CoT) reasoning has been shown to improve the performance of large language models (LLMs), yet existing optimization methods largely rely on outcome-based feedback, leaving the logical validity of intermediate reasoning steps largely unverified. To address the gap whereby LLMs arrive at correct final answers through logically flawed intermediate reasoning chains, we propose LogicTrack, a neuro-symbolic framework that audits reason",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "One Prompt Does Not Fit All: Self-Meta-Evolve for Personalized Information Extraction",
+    "url": "https://arxiv.org/abs/2609.21626",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 21 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.21626v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly deployed for enterprise information extraction (IE), where the same document must be reorganized differently for each user. Existing prompt optimization methods, however, rely on a single prompt optimized against a global objective, which is misaligned with the inherent user heterogeneity of real workplaces. We formulate enterprise IE as per-user prompt adaptation under interaction feedback and propose",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "prompt"
+    ]
+  },
+  {
+    "title": "ECG Mirage: Revealing and Mitigating the Underutilisation of ECGs in Vision-Language Models for Clinical Prediction",
+    "url": "https://arxiv.org/abs/2609.21755",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 21 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.21755v1 Announce Type: new \nAbstract: Emergency department (ED) decision-making relies on heterogeneous clinical information, including patient history, vital signs, laboratory results, and electrocardiograms (ECGs). Vision--language models (VLMs) can jointly process these modalities, but strong predictive performance does not necessarily imply meaningful use of the correct patient's ECG. We term this failure mode ECG Mirage: apparent multimodal capability without useful dependence on",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "language model",
+      "multimodal",
+      "RAG"
+    ]
+  },
+  {
+    "title": "Value-Sensitive Delegation in Everyday AI Agent Use: Evidence from OpenClaw",
+    "url": "https://arxiv.org/abs/2609.22067",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 21 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.22067v1 Announce Type: new \nAbstract: Users increasingly delegate work to autonomous AI agents, yet evaluations typically measure task completion rather than the values users prioritize. Using Value Sensitive Design, we analyzed, with LLM assistance, 73,093 first-person Reddit posts about using OpenClaw, each for its human value, agent aspect, value fulfillment, and user outcome. The 21 values form six value groups, including Autonomous, Dependable, and Affordable Operation, Bounded R",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "From Momentary Emotion Inference to Sustained Emotion Support: Evaluating a Companion Agent in a Longitudinal Study",
+    "url": "https://arxiv.org/abs/2609.16344",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 21 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.16344v2 Announce Type: replace \nAbstract: Sustained emotional support is a long-horizon interaction task closely tied to human well-being. Recent research demonstrates generative agents' capacity for momentary emotional support, yet how these capabilities sustain support over time remains unclear. To examine this challenge, we deployed PAIR, a theory-based emotion-regulation companion, with 19 participants for 14 days. Across 1,093 sessions, we paired emotion estimates with self-repor",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "inference",
+      "generative"
+    ]
+  },
+  {
+    "title": "MOSAIC-SR: Transformer-Guided Symbolic Regression for Scientific Equation Recovery",
+    "url": "https://arxiv.org/abs/2609.20997",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 21 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.20997v1 Announce Type: new \nAbstract: Symbolic regression aims to recover closed-form equations from observations, providing interpretable models for scientific discovery. Existing approaches struggle to combine flexible structural search with efficient inference. Search-based methods can refine expression structure but often rely on costly combinatorial optimization with random initialization. Pretrained neural models generate formulas almost instantly, but their predictions often co",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "transformer",
+      "neural",
+      "inference"
+    ]
+  },
+  {
+    "title": "M2G-LLM: Enhancing Clinical Prediction via Multimodal Graph Reasoning and LLM Context Injection",
+    "url": "https://arxiv.org/abs/2609.21164",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 21 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.21164v1 Announce Type: new \nAbstract: Integrating diverse data modalities --- such as clinical notes, laboratory results, and medical imaging --- is essential for advancing clinical decision-making. While Large Language Models (LLMs) have shown remarkable performance in processing unstructured clinical text, their limited capacity to incorporate non-text modalities hinders their broader utility in healthcare applications. Here, we introduce M2G-LLM (Multimodal MedGraph-LLM), a novel f",
+    "score": 8.0,
+    "keywords_matched": [
+      "LLM",
+      "language model",
+      "multimodal",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "SWE-Proof: Can Language Models Resolve Real-World Issues with Machine-Checked Proofs?",
+    "url": "https://arxiv.org/abs/2609.21190",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 21 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.21190v1 Announce Type: new \nAbstract: Ensuring the correctness of LLM-generated code is a core challenge for modern software engineering. Benchmarks for agentic code generation check correctness with held-out test suites, which are inherently incomplete and increasingly susceptible to memorization. Formal verification avoids both problems, but existing work covers only standalone tasks whose specifications are given as input, not real issues, which touch large repositories and state i",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "language model",
+      "code generation"
+    ]
+  },
+  {
+    "title": "Tracing the Evidence Behind Zero-Shot Time-Series Forecasting: A Source-First Taxonomy and Audit Framework",
+    "url": "https://arxiv.org/abs/2609.21425",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 21 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.21425v1 Announce Type: new \nAbstract: Zero-shot time-series forecasting (TSF) is often described as forecasting without target-specific parameter updates, but that training-status condition does not specify what evidence the system may use. A frozen language model prompted with serialized values, a time-series model pretrained on broad forecasting corpora, and a retrieval-augmented forecaster may all satisfy the no-update condition while drawing on different transferable evidence. Thi",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "language model",
+      "prompt",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "anthropics / claude-code",
+    "url": "https://github.com/anthropics/claude-code",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. [468 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "workflow"
+    ]
+  }
+]

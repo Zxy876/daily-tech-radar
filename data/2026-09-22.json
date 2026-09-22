@@ -1,0 +1,294 @@
+{
+  "date": "2026-09-22",
+  "candidates": [
+    {
+      "title": "Driving on Registers, Reasoning on Risk: Risk-Aware Occupancy for Register-Based End-to-End Autonomous Driving",
+      "url": "https://arxiv.org/abs/2609.21486",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 21 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.21486v1 Announce Type: new \nAbstract: Multimodal trajectory prediction improves behavioral coverage in end-to-end autonomous driving, but existing methods remain limited by sparse scene representations. Incomplete evidence leads to low-quality candidate generation and unreliable ranking among geometrically similar trajectories. On a register-based baseline, bad and poor candidates constitute 19.74% of the candidate set, while the oracle-best candidate ranks only 33.9th on average. We ",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "autonomous",
+        "multimodal",
+        "RAG",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "PolyBridgeBench: Benchmarking Multimodal LLMs for Physics-Grounded Bridge Design",
+      "url": "https://arxiv.org/abs/2609.21493",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 21 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.21493v1 Announce Type: new \nAbstract: Multimodal large language models, or MLLMs, perform well at visual understanding and structured generation, yet these capabilities do not establish whether an engineering design will work when executed. Existing benchmarks assess spatial reasoning, structural validity, or physics-grounded construction, but they do not determine whether MLLMs can synthesize complete load-bearing structures and repair them after simulator execution exposes a failure",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "multimodal",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Machines, AI and the past//future of things",
+      "url": "https://arxiv.org/abs/2512.16285",
+      "source": "arXiv cs.HC",
+      "published_at": "Mon, 21 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2512.16285v2 Announce Type: replace \nAbstract: This essay explores a techno-artistic experiment that reanimates a 1980s East German typewriter using a contemporary AI language model. Situated at the intersection of media archaeology and speculative design, the project questions dominant narratives of progress by embedding generative AI in an obsolete, tactile interface. Through public exhibitions and aesthetic intervention, we demonstrate how slowness, friction, and material render artific",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "language model",
+        "embedding",
+        "narrative",
+        "generative"
+      ]
+    },
+    {
+      "title": "Do Quantum Models Scale Like LLMs?",
+      "url": "https://arxiv.org/abs/2609.20912",
+      "source": "arXiv cs.LG",
+      "published_at": "Mon, 21 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.20912v1 Announce Type: new \nAbstract: In this work, we study the neural scaling laws of RydbergGPT, an autoregressive transformer model trained on qubit projective measurement data gathered from interacting Rydberg atom arrays. The quantum system is known to exhibit a finite-size remnant of a critical point as the laser detuning parameter is varied. We find that near the critical point the transformer loss as a function of training dataset size is well described by a power-law with a ",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "GPT",
+        "transformer",
+        "neural"
+      ]
+    },
+    {
+      "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
+      "url": "https://arxiv.org/abs/2609.20971",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 21 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.20971v1 Announce Type: new \nAbstract: Long-context large language model inference is increasingly limited by prefill, where dense self-attention processes the entire prompt before generation begins. Sparse block selection can reduce this cost, but a block centroid may hide a highly relevant token among many irrelevant ones. We call this failure mode mean dilution and propose RBS-Attention, a training-free sparse-prefill method with two complementary selection branches. A centroid base",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "language model",
+        "inference",
+        "prompt"
+      ]
+    },
+    {
+      "title": "CaLR: Causal Latent Revision for Robust Diffusion Reasoning",
+      "url": "https://arxiv.org/abs/2609.20981",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 21 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.20981v1 Announce Type: new \nAbstract: Autoregressive (AR) models suffer from local greediness, while diffusion language models (DLMs) often lack the strict causal structure required for reasoning. To combine the advantages and overcome the drawbacks of the dual, we propose Causal Latent Revision (CaLR), a framework that reformulates reasoning as constrained latent optimization. By adopting a causal topology matrix (CTM) from an expert model and implicit differentiation, CaLR performs ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "diffusion",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Decoupling Internal Representational Changes and Causal Importance in Fine-Tuned Large Language Models",
+      "url": "https://arxiv.org/abs/2609.21113",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 21 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.21113v1 Announce Type: new \nAbstract: Fine-tuning has emerged as a widely adopted approach for adapting LLMs to a variety of downstream tasks. However, how it reshapes their internal mechanisms remains poorly understood. To address this, we investigate how fine-tuning alters internal representations in LLMs, including attention patterns and layer-wise activations, and examine whether these changes are linked to task-relevant components identified by EAP (e.g., attention heads and logi",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "fine-tuning"
+      ]
+    },
+    {
+      "title": "Can Agents Design Better Chips with a Higher Level Abstraction?",
+      "url": "https://arxiv.org/abs/2609.21157",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 21 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.21157v1 Announce Type: new \nAbstract: Large Language Model (LLM) agents are increasingly being explored for chip design, but most existing approaches operate directly at RTL. We ask whether agents can design better chips by leveraging higher-level abstractions. We compare Direct RTL Design, Agent-based HLS Design, Post-Compiler HLS Refinement, and Post-HLS RTL Refinement, and combine Agent-based HLS Design with Post-HLS RTL Refinement as Agent-based HLS with RTL Refinement (AHRR). We ",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "language model",
+        "RAG"
+      ]
+    },
+    {
+      "title": "Implicit Rule Induction with Test-Time Task Embeddings in ARC-like Tasks",
+      "url": "https://arxiv.org/abs/2609.21181",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 21 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.21181v1 Announce Type: new \nAbstract: The Abstraction and Reasoning Corpus and related benchmarks evaluate whether AI models can solve novel reasoning tasks, but often leave unclear whether success reflects inference of the intended underlying rule or reliance on shortcuts. We address this gap by studying test-time task embeddings in Vision ARC (VARC), a model in which a pre-trained backbone is complemented by a trainable embedding representing the transformation rule. In the original",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "embedding",
+        "inference",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "GVPO++: Group Variance Policy Optimization for LLM Post-Training and On-Policy Distillation",
+      "url": "https://arxiv.org/abs/2609.21432",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 21 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.21432v1 Announce Type: new \nAbstract: Post-training plays a pivotal role in enhancing the reasoning capabilities and task-specific expertise of large language models (LLMs). Despite recent advances in post-training methods, such as Group Relative Policy Optimization (GRPO), their practical deployment remains impeded by training instability arising from the reliance on importance sampling.\n  We introduce Group Variance Policy Optimization (GVPO), a novel post-training method that integ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "LogicTrack: Auditing Reasoning Trajectories of Large Language Models with Formal Logic Solvers",
+      "url": "https://arxiv.org/abs/2609.21492",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 21 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.21492v1 Announce Type: new \nAbstract: Chain-of-Thought (CoT) reasoning has been shown to improve the performance of large language models (LLMs), yet existing optimization methods largely rely on outcome-based feedback, leaving the logical validity of intermediate reasoning steps largely unverified. To address the gap whereby LLMs arrive at correct final answers through logically flawed intermediate reasoning chains, we propose LogicTrack, a neuro-symbolic framework that audits reason",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "One Prompt Does Not Fit All: Self-Meta-Evolve for Personalized Information Extraction",
+      "url": "https://arxiv.org/abs/2609.21626",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 21 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.21626v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly deployed for enterprise information extraction (IE), where the same document must be reorganized differently for each user. Existing prompt optimization methods, however, rely on a single prompt optimized against a global objective, which is misaligned with the inherent user heterogeneity of real workplaces. We formulate enterprise IE as per-user prompt adaptation under interaction feedback and propose",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "prompt"
+      ]
+    },
+    {
+      "title": "ECG Mirage: Revealing and Mitigating the Underutilisation of ECGs in Vision-Language Models for Clinical Prediction",
+      "url": "https://arxiv.org/abs/2609.21755",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 21 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.21755v1 Announce Type: new \nAbstract: Emergency department (ED) decision-making relies on heterogeneous clinical information, including patient history, vital signs, laboratory results, and electrocardiograms (ECGs). Vision--language models (VLMs) can jointly process these modalities, but strong predictive performance does not necessarily imply meaningful use of the correct patient's ECG. We term this failure mode ECG Mirage: apparent multimodal capability without useful dependence on",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "language model",
+        "multimodal",
+        "RAG"
+      ]
+    },
+    {
+      "title": "Value-Sensitive Delegation in Everyday AI Agent Use: Evidence from OpenClaw",
+      "url": "https://arxiv.org/abs/2609.22067",
+      "source": "arXiv cs.HC",
+      "published_at": "Mon, 21 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.22067v1 Announce Type: new \nAbstract: Users increasingly delegate work to autonomous AI agents, yet evaluations typically measure task completion rather than the values users prioritize. Using Value Sensitive Design, we analyzed, with LLM assistance, 73,093 first-person Reddit posts about using OpenClaw, each for its human value, agent aspect, value fulfillment, and user outcome. The 21 values form six value groups, including Autonomous, Dependable, and Affordable Operation, Bounded R",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "From Momentary Emotion Inference to Sustained Emotion Support: Evaluating a Companion Agent in a Longitudinal Study",
+      "url": "https://arxiv.org/abs/2609.16344",
+      "source": "arXiv cs.HC",
+      "published_at": "Mon, 21 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.16344v2 Announce Type: replace \nAbstract: Sustained emotional support is a long-horizon interaction task closely tied to human well-being. Recent research demonstrates generative agents' capacity for momentary emotional support, yet how these capabilities sustain support over time remains unclear. To examine this challenge, we deployed PAIR, a theory-based emotion-regulation companion, with 19 participants for 14 days. Across 1,093 sessions, we paired emotion estimates with self-repor",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "inference",
+        "generative"
+      ]
+    },
+    {
+      "title": "MOSAIC-SR: Transformer-Guided Symbolic Regression for Scientific Equation Recovery",
+      "url": "https://arxiv.org/abs/2609.20997",
+      "source": "arXiv cs.LG",
+      "published_at": "Mon, 21 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.20997v1 Announce Type: new \nAbstract: Symbolic regression aims to recover closed-form equations from observations, providing interpretable models for scientific discovery. Existing approaches struggle to combine flexible structural search with efficient inference. Search-based methods can refine expression structure but often rely on costly combinatorial optimization with random initialization. Pretrained neural models generate formulas almost instantly, but their predictions often co",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "transformer",
+        "neural",
+        "inference"
+      ]
+    },
+    {
+      "title": "M2G-LLM: Enhancing Clinical Prediction via Multimodal Graph Reasoning and LLM Context Injection",
+      "url": "https://arxiv.org/abs/2609.21164",
+      "source": "arXiv cs.LG",
+      "published_at": "Mon, 21 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.21164v1 Announce Type: new \nAbstract: Integrating diverse data modalities --- such as clinical notes, laboratory results, and medical imaging --- is essential for advancing clinical decision-making. While Large Language Models (LLMs) have shown remarkable performance in processing unstructured clinical text, their limited capacity to incorporate non-text modalities hinders their broader utility in healthcare applications. Here, we introduce M2G-LLM (Multimodal MedGraph-LLM), a novel f",
+      "score": 8.0,
+      "keywords_matched": [
+        "LLM",
+        "language model",
+        "multimodal",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "SWE-Proof: Can Language Models Resolve Real-World Issues with Machine-Checked Proofs?",
+      "url": "https://arxiv.org/abs/2609.21190",
+      "source": "arXiv cs.LG",
+      "published_at": "Mon, 21 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.21190v1 Announce Type: new \nAbstract: Ensuring the correctness of LLM-generated code is a core challenge for modern software engineering. Benchmarks for agentic code generation check correctness with held-out test suites, which are inherently incomplete and increasingly susceptible to memorization. Formal verification avoids both problems, but existing work covers only standalone tasks whose specifications are given as input, not real issues, which touch large repositories and state i",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "language model",
+        "code generation"
+      ]
+    },
+    {
+      "title": "Tracing the Evidence Behind Zero-Shot Time-Series Forecasting: A Source-First Taxonomy and Audit Framework",
+      "url": "https://arxiv.org/abs/2609.21425",
+      "source": "arXiv cs.LG",
+      "published_at": "Mon, 21 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.21425v1 Announce Type: new \nAbstract: Zero-shot time-series forecasting (TSF) is often described as forecasting without target-specific parameter updates, but that training-status condition does not specify what evidence the system may use. A frozen language model prompted with serialized values, a time-series model pretrained on broad forecasting corpora, and a retrieval-augmented forecaster may all satisfy the no-update condition while drawing on different transferable evidence. Thi",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "language model",
+        "prompt",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "anthropics / claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. [468 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "workflow"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-09-22\n\n这里是为你筛选的今日技术雷达。今天 arXiv 和开源社区出现了非常漂亮的“向外接地”（Grounding）趋势——AI 正在脱离纯文本聊天框，一方面深入物理引擎与形式化逻辑，另一方面走向终端原生与复古硬件实体。\n\n---\n\n## 候选 20：anthropics / claude-code\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/anthropics/claude-code\n- 一句话解释：Anthropic 官方推出的终端原生 Agent 编码工具，直接驻留在 CLI 中，拥有读写代码库、执行 Shell、Git 提交流程的全套自治权限。\n- 它为什么重要：它代表了编程 Agent 从“IDE 辅助补全插件”正式向“拥有 Shell 绝对控制权的终端副驾驶”演进。对 Spec-Driven Development 来说，这种原生命令行交互是构建自动化流水线（Headless Agent）最完美的底座。\n- 技术趋势标签：Terminal-native Agent / Spec-Driven Dev / 开发者自动化工具链\n- 可复用模式：**CLI 级自主 Agent 循环**（自然语言意图 $\\to$ 代码索引 $\\to$ 本地 Shell 执行/测试 $\\to$ Git 自动化分步提交）。\n- 疯狂发明家灵感：\n  1. **一个小实验**：写一个 30 行的 Bash 脚本，将你的设计 Spec Markdown 文件作为管道输入喂给 Claude Code，让它自动跑“编写代码 - 运行单元测试 - 自动修复 - Git commit”单向闭环。\n  2. **一个中型项目**：**Spec-Runner TUI**：做一个极简终端界面，左边是你的系统规格说明书，右边由 Claude Code 在后台按条目施工，并在 TUI 中实时点亮已通过的 Spec 进度条。\n  3. **一个艺术/游戏/叙事方向**：**《代码考古探险》游戏**：构建一个包含虚构神秘事故代码库的仓库，玩家用终端命令与游戏内的 Agent 对话，通过让 Agent 修复 bug 和检视 Git log 来解开一段科幻叙事谜题。\n- 对我项目的启发：可以直接将你的 Spec 规范转化成驱动 Claude Code 的执行流水线，跳过笨重的 IDE 插件，打造你自己的自动化创作者 Agent。\n- 今天是否值得深入研究：是\n- 建议行动：试用 / 做demo\n\n---\n\n## 候选 2：PolyBridgeBench: Benchmarking Multimodal LLMs for Physics-Grounded Bridge Design\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2609.21493\n- 一句话解释：一个用经典物理造桥游戏《Poly Bridge》思路设计的评测基准，检验多模态 LLM 能否设计出在真实物理受力仿真下“不坍塌”的桥梁。\n- 它为什么重要：过去生成式 AI 只在乎“视觉上看起来像一座桥”，但工程与游戏系统需要“物理上能受力”。这篇论文将**多模态推理与刚体动力学仿真器闭环结合**，是生成式系统迈向可玩性、工程合理性的核心一步。\n- 技术趋势标签：Physics-Grounded AI / 游戏系统模拟 / 生成式设计 (Generative Design)\n- 可复用模式：**“生成器-仿真评估-反思重试”架构**（LLM 输出拓扑结构 $\\to$ 物理引擎仿真受力 $\\to$ 返回坍塌断裂节点数据 $\\to$ LLM 针对性加固）。\n- 疯狂发明家灵感：\n  1. **一个小实验**：用浏览器运行一个 Matter.js 2D 物理沙盒，让 LLM 输出节点坐标生成桁架，实时施加重力，若断裂则将断裂数据当做 Error Prompt 让它重试。\n  2. **一个中型项目**：**Minecraft 结构应力守护者**：做一个连接 Minecraft 的代理，在玩家或 AI 生成宏大建筑（悬挑屋顶、高塔）时，后台进行体素应力计算，自动为脆弱结构补上哥特式飞扶壁或梁柱。\n  3. **一个艺术/游戏/叙事方向**：**《绝望建筑师》物理叙事游戏**：NPC 提出荒谬的建筑需求（“建一座像枯萎水仙花一样倾斜但能通火车的桥”），玩家与 AI 合作在严苛的物理引擎惩罚下维持脆弱的平衡。\n- 对我项目的启发：世界生成和生成式建筑不能停留在“体素摆放外观”，把轻量级物理仿真器作为 Critic（检验者），能瞬间让生成物拥有游戏机制级的说服力。\n- 今天是否值得深入研究：是\n- 建议行动：做demo\n\n---\n\n## 候选 3：Machines, AI and the past//future of things\n- 来源：arXiv cs.HC\n- 链接：https://arxiv.org/abs/2512.16285\n- 一句话解释：通过将现代大语言模型接入一台 1980 年代东德机械打字机，实现了一次媒体考古学（Media Archaeology）与推测设计（Speculative Design）的物理实体交互实验。\n- 它为什么重要：在屏幕泛滥、聊天界面同质化的今天，这篇论文探索了**去屏幕化、触觉化（Tactile）与实体化 AI**。机械打字机清脆的击打声、缓慢的机械延迟、墨水与纸张的不可逆性，打破了人类对“即时 Token 流”的麻木认知。\n- 技术趋势标签：Tangible HCI / 媒体考古学 / 艺术技术 / 推测设计\n- 可复用模式：**物理反差接口模式（Anachronistic Interface）**：将最尖端的无形智能（LLM）注入到过时、机械、具有强烈触觉反馈的古董硬件介质中。\n- 疯狂发明家灵感：\n  1. **一个小实验**：找一台二手微型热敏小票打印机（串口/USB），连接树莓派或电脑，写个脚本让本地小模型化身为“每日虚无主义账单”，按物理按钮就咔咔吐出一张对当前天气的诗意讽刺纸条。\n  2. **一个中型项目**：**机械发报机 Agent**：用电磁铁或舵机改造一台老式电报键/打字机，Agent 的每个 Token 不在屏幕显示，而是通过实体击打纸带或莫尔斯电码蜂鸣产生，逼迫用户在等待敲击的过程中重新感受“生成的重量”。\n  3. **一个艺术/游戏/叙事方向**：**《冷战档案馆的幽灵》装置艺术**：观众在老式键盘上敲入问题，藏在生锈铁皮柜里的打字机自行通电、换行、击打，以一个 1983 年官僚系统的口吻，审问当代科技文明的虚妄。\n- 对我项目的启发：交互装置不一定要用炫酷的 OLED 或 Web 动效。反向利用旧媒介的机械阻尼感、声音与不可篡改性，能制造极强的艺术反差与 HCI 张力。\n- 今天是否值得深入研究：是\n- 建议行动：收藏\n\n---\n\n## 候选 11：LogicTrack: Auditing Reasoning Trajectories of Large Language Models with Formal Logic Solvers\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2609.21492\n- 一句话解释：利用形式化逻辑求解器（Formal Logic Solvers）对 LLM 的思维链（Chain-of-Thought）每一步进行严密形式审查，揪出那些“结论正确但过程瞎编”的逻辑漏洞。\n- 它为什么重要：AI 的 CoT 经常充满幻觉与偷换概念。这篇论文展示了**神经系统（LLM）与符号系统（Solver）结合**的绝佳范式——用确定性的数理逻辑工具来给概率性的模型推理当“审计官”，这是让 Agent 走向可靠自动化和严格游戏世界观控制的核心。\n- 技术趋势标签：Neuro-Symbolic AI / 形式化验证 / 可靠 Agent 架构\n- 可复用模式：**双重推理审计流水线**（LLM 输出自洽自然语言步骤 $\\to$ 提取为一阶逻辑谓词/约束 $\\to$ SMT/SAT 求解器验证一致性 $\\to$ 发现悖论立即拦截）。\n- 疯狂发明家灵感：\n  1. **一个小实验**：用 Python 里的 Z3 求解器写一套世界规则（如：吸血鬼怕光、Alice是吸血鬼），让 LLM 生成故事段落，脚本把段落提取成事实喂给 Z3，只要 Z3 判定 `UNSAT`（矛盾），立即判定故事暴雷重写。\n  2. **一个中型项目**：**Spec-Lint（规范一致性静态分析器）**：针对你的 Spec 驱动开发流，编写一个 Agent 工具，在代码生成前，先将人类写的需求文档与系统不变式（Invariants）转为逻辑命题进行求解，在敲代码前就证明需求没有自相矛盾。\n  3. **一个艺术/游戏/叙事方向**：**《不可能的法庭》推理游戏**：玩家和 NPC 的辩论发言必须同时满足 Z3 逻辑约束。玩家的目标不是说服陪审团，而是通过套话诱导 NPC 说出一套在形式逻辑求解器中出现死循环的“悖论命题”。\n- 对我项目的启发：对于做世界生成和游戏规则系统的开发者，形式化验证（如 Z3）是杜绝世界观 bug 和 Agent 叙事出戏的“终极数学栅栏”。\n- 今天是否值得深入研究：是\n- 建议行动：试用\n\n---\n\n## 今日模式总结\n\n1. **“硬核环境作为 Critic”（Simulation & Solver as Grounding Truth）**：\n   从 PolyBridgeBench 的物理仿真到 LogicTrack 的形式逻辑求解器，前沿趋势不再信任 LLM 的“自我评估”（LLM-as-a-judge），而是把**游戏物理引擎**和**形式数学求解器**作为不可逾越的客观真理环境，形成“生成-验证-修正”闭环。\n2. **“脱离屏幕与浏览器的 Agent 界面”（Sub-Browser & Tangible Interfaces）**：\n   Claude Code 直接驻扎在纯粹的 Unix Shell 中控制系统；打字机研究则退回 1980 年代的机械物理界面。界面范式正在两极分化：要么极度黑客化（CLI / Headless 管道），要么极度实体化（机械阻尼、物理纸张）。\n\n---\n\n## 今日可做小实验：Prompt-to-Physics 2D 桁架沙盒\n\n- **项目名**：`prompt-truss`\n- **输入**：一段简短的结构需求 prompt（例如：“设计一个跨度 400 像素、由不超过 8 根棍子组成的三角形承重架”）。\n- **输出**：一个在网页 Canvas 中实时运行的 Matter.js 刚体仿真，展示该结构承受从天而降的重球时，究竟是稳如泰山还是彻底粉碎。\n- **技术栈**：单文件 HTML/JS + Matter.js (CDN) + 任意 LLM API (Claude/OpenAI/DeepSeek fetch 调用)。\n- **第一步怎么做**：\n  1. 新建一个 `index.html`，引入 `matter.min.js`，写死两个固定支撑点和一个下落的重物球。\n  2. 定义一个 JSON 协议：`{ vertices: [[x, y], ...], constraints: [[i, j], ...] }`。\n  3. 写一个极简 Prompt 模板，让 LLM 根据你的跨度要求只输出合法的 JSON 格式。\n  4. 页面拿到 JSON 直接用 `Matter.Constraint.create` 连线生成刚体，按下“放球”按键，肉眼见证 AI 设计的物理合理性。",
+  "gemini_success": true,
+  "telegram_sent": true,
+  "telegram_status": "sent",
+  "telegram_reason": ""
+}
