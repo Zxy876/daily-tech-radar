@@ -1,0 +1,291 @@
+[
+  {
+    "title": "StepKV: Step-Aware KV Cache Compression for LLM Agents",
+    "url": "https://arxiv.org/abs/2609.22158",
+    "source": "arXiv cs.LG",
+    "published_at": "Tue, 22 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.22158v1 Announce Type: new \nAbstract: Key-value (KV) caching is essential for efficient autoregressive large language model (LLM) inference, but the cache grows linearly with context length, increasing storage and decoding costs. KV cache compression mitigates this cost by retaining only a subset of cached tokens. This challenge is particularly important for multi-step LLM agents, where a query expands into trajectories of reasoning, tool interactions, and retrieved observations. Exis",
+    "score": 14.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "RAG",
+      "inference",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "When Disability Disclosure Travels: Memory, Privacy, and Contextual Integrity in Conversational AI",
+    "url": "https://arxiv.org/abs/2609.22720",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 22 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.22720v1 Announce Type: new \nAbstract: Conversational AI assistants remember what people tell them, and for disabled people, that often includes disability. We interviewed 12 adults with disabilities in the United States who use LLM-based assistants such as ChatGPT, Claude, and Gemini about when, how, and why they disclose disability to these systems and how this compares with disclosing to people. Using contextual integrity as an analytic lens, we found that participants disclosed by ",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "Claude",
+      "Gemini",
+      "GPT",
+      "memory"
+    ]
+  },
+  {
+    "title": "Driving on Registers, Reasoning on Risk: Risk-Aware Occupancy for Register-Based End-to-End Autonomous Driving",
+    "url": "https://arxiv.org/abs/2609.21486",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 22 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.21486v1 Announce Type: new \nAbstract: Multimodal trajectory prediction improves behavioral coverage in end-to-end autonomous driving, but existing methods remain limited by sparse scene representations. Incomplete evidence leads to low-quality candidate generation and unreliable ranking among geometrically similar trajectories. On a register-based baseline, bad and poor candidates constitute 19.74% of the candidate set, while the oracle-best candidate ranks only 33.9th on average. We ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "autonomous",
+      "multimodal",
+      "RAG",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "PolyBridgeBench: Benchmarking Multimodal LLMs for Physics-Grounded Bridge Design",
+    "url": "https://arxiv.org/abs/2609.21493",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 22 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.21493v1 Announce Type: new \nAbstract: Multimodal large language models, or MLLMs, perform well at visual understanding and structured generation, yet these capabilities do not establish whether an engineering design will work when executed. Existing benchmarks assess spatial reasoning, structural validity, or physics-grounded construction, but they do not determine whether MLLMs can synthesize complete load-bearing structures and repair them after simulator execution exposes a failure",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "multimodal",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Prompting Against Persona Drift: Comparing Intervention Timing and Content in LLM-Simulated Conversations",
+    "url": "https://arxiv.org/abs/2609.24532",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 22 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.24532v1 Announce Type: new \nAbstract: Simulating student personas with large language models (LLMs) enables scalable evaluation of educational systems. However, behavioral drift, a progressive decline in persona consistency, can emerge over extended conversations, limiting the validity of such simulations. We evaluate five prompt-level mechanisms using separate monitoring and intervention pipelines. Across 1,200 28-turn conversations spanning four LLMs and two ADHD persona intensities",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "simulation",
+      "language model",
+      "prompt"
+    ]
+  },
+  {
+    "title": "SafeTune: A Unified Faithful Library for Auditing and Repairing Safety Drift in Fine-Tuned LLMs",
+    "url": "https://arxiv.org/abs/2609.22153",
+    "source": "arXiv cs.LG",
+    "published_at": "Tue, 22 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.22153v1 Announce Type: new \nAbstract: Methods for addressing safety drift in fine-tuned Large Language Models (LLMs) are scattered across incompatible implementations, lifecycle stages, and evaluation protocols, making them difficult to adopt and compare. We introduce SafeTune, a source-available library that unifies four intervention paradigms: post-hoc weight recovery, safety-constrained fine-tuning, gradient-based unlearning, and inference-time steering, alongside shared interpreta",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "fine-tuning",
+      "inference"
+    ]
+  },
+  {
+    "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
+    "url": "https://arxiv.org/abs/2609.20971",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 22 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.20971v1 Announce Type: new \nAbstract: Long-context large language model inference is increasingly limited by prefill, where dense self-attention processes the entire prompt before generation begins. Sparse block selection can reduce this cost, but a block centroid may hide a highly relevant token among many irrelevant ones. We call this failure mode mean dilution and propose RBS-Attention, a training-free sparse-prefill method with two complementary selection branches. A centroid base",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "language model",
+      "inference",
+      "prompt"
+    ]
+  },
+  {
+    "title": "CaLR: Causal Latent Revision for Robust Diffusion Reasoning",
+    "url": "https://arxiv.org/abs/2609.20981",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 22 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.20981v1 Announce Type: new \nAbstract: Autoregressive (AR) models suffer from local greediness, while diffusion language models (DLMs) often lack the strict causal structure required for reasoning. To combine the advantages and overcome the drawbacks of the dual, we propose Causal Latent Revision (CaLR), a framework that reformulates reasoning as constrained latent optimization. By adopting a causal topology matrix (CTM) from an expert model and implicit differentiation, CaLR performs ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "diffusion",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Decoupling Internal Representational Changes and Causal Importance in Fine-Tuned Large Language Models",
+    "url": "https://arxiv.org/abs/2609.21113",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 22 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.21113v1 Announce Type: new \nAbstract: Fine-tuning has emerged as a widely adopted approach for adapting LLMs to a variety of downstream tasks. However, how it reshapes their internal mechanisms remains poorly understood. To address this, we investigate how fine-tuning alters internal representations in LLMs, including attention patterns and layer-wise activations, and examine whether these changes are linked to task-relevant components identified by EAP (e.g., attention heads and logi",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "fine-tuning"
+    ]
+  },
+  {
+    "title": "Can Agents Design Better Chips with a Higher Level Abstraction?",
+    "url": "https://arxiv.org/abs/2609.21157",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 22 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.21157v1 Announce Type: new \nAbstract: Large Language Model (LLM) agents are increasingly being explored for chip design, but most existing approaches operate directly at RTL. We ask whether agents can design better chips by leveraging higher-level abstractions. We compare Direct RTL Design, Agent-based HLS Design, Post-Compiler HLS Refinement, and Post-HLS RTL Refinement, and combine Agent-based HLS Design with Post-HLS RTL Refinement as Agent-based HLS with RTL Refinement (AHRR). We ",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "language model",
+      "RAG"
+    ]
+  },
+  {
+    "title": "Implicit Rule Induction with Test-Time Task Embeddings in ARC-like Tasks",
+    "url": "https://arxiv.org/abs/2609.21181",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 22 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.21181v1 Announce Type: new \nAbstract: The Abstraction and Reasoning Corpus and related benchmarks evaluate whether AI models can solve novel reasoning tasks, but often leave unclear whether success reflects inference of the intended underlying rule or reliance on shortcuts. We address this gap by studying test-time task embeddings in Vision ARC (VARC), a model in which a pre-trained backbone is complemented by a trainable embedding representing the transformation rule. In the original",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "embedding",
+      "inference",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "GVPO++: Group Variance Policy Optimization for LLM Post-Training and On-Policy Distillation",
+    "url": "https://arxiv.org/abs/2609.21432",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 22 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.21432v1 Announce Type: new \nAbstract: Post-training plays a pivotal role in enhancing the reasoning capabilities and task-specific expertise of large language models (LLMs). Despite recent advances in post-training methods, such as Group Relative Policy Optimization (GRPO), their practical deployment remains impeded by training instability arising from the reliance on importance sampling.\n  We introduce Group Variance Policy Optimization (GVPO), a novel post-training method that integ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "LogicTrack: Auditing Reasoning Trajectories of Large Language Models with Formal Logic Solvers",
+    "url": "https://arxiv.org/abs/2609.21492",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 22 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.21492v1 Announce Type: new \nAbstract: Chain-of-Thought (CoT) reasoning has been shown to improve the performance of large language models (LLMs), yet existing optimization methods largely rely on outcome-based feedback, leaving the logical validity of intermediate reasoning steps largely unverified. To address the gap whereby LLMs arrive at correct final answers through logically flawed intermediate reasoning chains, we propose LogicTrack, a neuro-symbolic framework that audits reason",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "One Prompt Does Not Fit All: Self-Meta-Evolve for Personalized Information Extraction",
+    "url": "https://arxiv.org/abs/2609.21626",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 22 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.21626v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly deployed for enterprise information extraction (IE), where the same document must be reorganized differently for each user. Existing prompt optimization methods, however, rely on a single prompt optimized against a global objective, which is misaligned with the inherent user heterogeneity of real workplaces. We formulate enterprise IE as per-user prompt adaptation under interaction feedback and propose",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "prompt"
+    ]
+  },
+  {
+    "title": "ECG Mirage: Revealing and Mitigating the Underutilisation of ECGs in Vision-Language Models for Clinical Prediction",
+    "url": "https://arxiv.org/abs/2609.21755",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 22 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.21755v1 Announce Type: new \nAbstract: Emergency department (ED) decision-making relies on heterogeneous clinical information, including patient history, vital signs, laboratory results, and electrocardiograms (ECGs). Vision--language models (VLMs) can jointly process these modalities, but strong predictive performance does not necessarily imply meaningful use of the correct patient's ECG. We term this failure mode ECG Mirage: apparent multimodal capability without useful dependence on",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "language model",
+      "multimodal",
+      "RAG"
+    ]
+  },
+  {
+    "title": "Deciphering the Babel of Play: A Human-AI Collaborative Approach for Large-Scale Cross-Language Analysis of Game Reviews",
+    "url": "https://arxiv.org/abs/2609.23104",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 22 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.23104v1 Announce Type: new \nAbstract: We present a large-scale cross-language analysis of game reviews using a human-AI collaborative framework that combines quantitative screening with multilingual large language models (LLMs). Starting from 17 million Steam reviews across 30 languages and 2,000 top-selling titles, we select 28 games with notable cross-language rating patterns. We then apply LLM-assisted content analysis to 442,162 reviews spanning 17 languages, with human researcher",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "game",
+      "language model"
+    ]
+  },
+  {
+    "title": "Weak Ties, Strong Signals: Efficient Training Data Detection in Diffusion LLMs via Independent Token Sampling",
+    "url": "https://arxiv.org/abs/2609.22145",
+    "source": "arXiv cs.LG",
+    "published_at": "Tue, 22 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.22145v1 Announce Type: new \nAbstract: Diffusion large language models (dLLMs) offer a compelling alternative to autoregressive models, yet they may expose sensitive training data during denoising. Detecting such usage is challenging because dLLMs lack the efficient one-pass probability decomposition of causal architectures. Existing methods rely on random masking to obtain tractable token-wise detection signals under limited query budgets, but fail to control dependencies among masked",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "diffusion",
+      "language model"
+    ]
+  },
+  {
+    "title": "GRRR: The Geometry of Reshaping, Rotation, and Routing in Decoder LLM post-training",
+    "url": "https://arxiv.org/abs/2609.22146",
+    "source": "arXiv cs.LG",
+    "published_at": "Tue, 22 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.22146v1 Announce Type: new \nAbstract: We study how post-training changes the weights of Large Language Models (LLMs) relative to their pretrained weights. Across 12 post-training chains with supervised fine-tuning (SFT) and reinforcement learning (RL), we express each weight update in the pretrained matrix's singular value decomposition (SVD) frame. This decomposition separates the changes of three geometrically distinct components: diagonal values, which reshapes singular values; off",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "fine-tuning"
+    ]
+  },
+  {
+    "title": "A Pinch of SFT, A Dash of RL: When Reinforcement Learning Helps Long-Horizon Advertising Agents",
+    "url": "https://arxiv.org/abs/2609.22194",
+    "source": "arXiv cs.LG",
+    "published_at": "Tue, 22 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.22194v1 Announce Type: new \nAbstract: Enterprise analytics agents solve long-horizon tool-use problems over distributed business data, requiring retrieval, reasoning, API calls, code execution, and adaptation to intermediate observations. Supervised fine-tuning (SFT) calibrates tool syntax and teacher-supported behavior, whereas reinforcement learning (RL) can explore reward-supported behaviors beyond demonstrations; applied uniformly, however, RL can perturb already-calibrated skills",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "fine-tuning",
+      "reasoning",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "anthropics / claude-code",
+    "url": "https://github.com/anthropics/claude-code",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. [195 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "workflow"
+    ]
+  }
+]
