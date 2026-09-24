@@ -1,0 +1,302 @@
+{
+  "date": "2026-09-24",
+  "candidates": [
+    {
+      "title": "Deflecting the Value Compass: Interacting with Large Language Models Temporarily Shifts Human Value Priorities Toward Personal Focus",
+      "url": "https://arxiv.org/abs/2609.25586",
+      "source": "arXiv cs.HC",
+      "published_at": "Wed, 23 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.25586v1 Announce Type: new \nAbstract: Large language models increasingly support decisions where values are in tension, yet little is known about whether interacting with them changes which values users prioritize. In a preregistered study, 200 U.S. adults interacted with ChatGPT, Claude, or Gemini as a thinking partner or read fixed AI-generated considerations. The prompt asked LLMs to support reasoning without recommending a decision and named no values. Participants advised people ",
+      "score": 16.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "Claude",
+        "Gemini",
+        "GPT",
+        "language model",
+        "prompt",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Trustworthy Agentic AI: Failure Modes, Mitigation Strategies, and a Lifecycle Framework for Autonomous LLM Systems",
+      "url": "https://arxiv.org/abs/2609.22712",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 23 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.22712v1 Announce Type: new \nAbstract: Agentic AI systems built on large language models can plan over multiple steps, use external tools, retain information in memory, and coordinate with other agents. These capabilities make them more useful than static language models, but they also introduce new security and operational risks. Untrusted content from websites, emails, documents, and databases can enter the same context as system instructions; persistent memory can carry compromised ",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "autonomous",
+        "memory"
+      ]
+    },
+    {
+      "title": "ProcessLight: Process Supervision for Large Language Model Based Traffic Signal Control",
+      "url": "https://arxiv.org/abs/2609.22746",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 23 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.22746v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have recently been introduced into traffic signal control (TSC) as decision agents due to their strengths in human-readable reasoning generation. Yet, existing LLM TSC methods optimize only from final outcomes and fail to distinguish valid from flawed reasoning steps, causing useful or misleading steps to be jointly updated and thus impairing the model's learning of effective reasoning. To bridge this gap, we propose a",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "ISA-Bench: A Benchmark for Computational Reasoning Across Instruction Set Architectures",
+      "url": "https://arxiv.org/abs/2609.22878",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 23 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.22878v1 Announce Type: new \nAbstract: Large language model code generation benchmarks primarily evaluate well-resourced languages like Python and Java, where models benefit from abundant training data. They provide limited evidence about reasoning in unfamiliar computational models: deriving arithmetic from a single subtract instruction, coordinating parallel programs across communicating nodes, or wiring logic gates into circuits. We present ISA-Bench, a benchmark of programming game",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "game",
+        "language model",
+        "code generation",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "AgentRouter: Heterogeneous Model Routing for Cost-Optimal Multi-Step Agentic Workflows",
+      "url": "https://arxiv.org/abs/2609.22951",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 23 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.22951v1 Announce Type: new \nAbstract: Enterprise agentic systems that route every trajectory step to a frontier model waste 60-80% of their inference budget on subtasks that smaller models handle equally well. Existing routing solutions optimize single-turn query assignment but ignore a property unique to agentic workflows: subtask complexity varies widely within a single trajectory. A planning step may require frontier-class reasoning while a subsequent formatting step needs only a 7",
+      "score": 10.0,
+      "keywords_matched": [
+        "agent",
+        "workflow",
+        "inference",
+        "reasoning",
+        "planning"
+      ]
+    },
+    {
+      "title": "Enforcing Narrative Reliability and Epistemic Pacing in LLM-Driven Detective Games via Structured Knowledge Trees",
+      "url": "https://arxiv.org/abs/2609.23043",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 23 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.23043v1 Announce Type: new \nAbstract: Large Language Models (LLMs) enable open-ended dialogue in interactive games, but their non-deterministic outputs make it difficult to preserve authorial control, factual consistency, and the intended sequence of information disclosure. These challenges are particularly significant in detective games, where premature revelation or fabricated details can undermine the logic of player progression. We present a Structured Knowledge Tree architecture ",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "game",
+        "language model",
+        "narrative"
+      ]
+    },
+    {
+      "title": "Harnessing LLMs Without Surrendering Control: Delegation Boundaries in Visual Data Storytelling Authoring",
+      "url": "https://arxiv.org/abs/2609.25700",
+      "source": "arXiv cs.HC",
+      "published_at": "Wed, 23 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.25700v1 Announce Type: new \nAbstract: Despite the emergence of large language models (LLMs) for visual data storytelling workflows, there are open questions about how authors decide what activities or tasks to entrust to them and what should be \"protected\" or maintained under human control. To investigate this, we interviewed a cohort of 12 expert visual data storytellers. Our analysis shows that participants rarely treated LLMs as autonomous storytellers. Instead, they tend to select",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "workflow",
+        "language model",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "Does AI Save Time on Product Design? A Randomized Controlled Experiment of AI Prompt-to-Design Workflows",
+      "url": "https://arxiv.org/abs/2609.26725",
+      "source": "arXiv cs.HC",
+      "published_at": "Wed, 23 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.26725v1 Announce Type: new \nAbstract: AI tools for digital product design now offer prompt-to-design capabilities, allowing designers and their non-designer colleagues to create prototypes through conversational workflows with large language models (LLMs). While these tools promise time savings, experimental evidence in product design remains limited compared with evidence from software engineering. We conducted a randomized controlled trial with 50 product designers and 50 product ma",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "workflow",
+        "language model",
+        "prompt"
+      ]
+    },
+    {
+      "title": "mukul975 / Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0 [84 stars today]",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "Gemini",
+        "Copilot"
+      ]
+    },
+    {
+      "title": "thedotmack / claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More [87 stars today]",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "Gemini",
+        "Copilot"
+      ]
+    },
+    {
+      "title": "MAWILE: Multi-Axis Workbench for Inspecting LLM Evaluators",
+      "url": "https://arxiv.org/abs/2609.22599",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 23 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.22599v1 Announce Type: new \nAbstract: Large language model (LLM) judges provide a flexible and scalable method for evaluating model and agent outputs, but their verdicts can be sensitive to incidental changes in the evaluated response, judge instructions, and scoring rubric. Existing systems examine important subsets of these failure modes, but auditing a configured judge requires testing both the judge instrument and the items it evaluates. We introduce MAWILE, a developer-facing wor",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model"
+      ]
+    },
+    {
+      "title": "Beyond Linear Context: Graph-Guided Evidence Navigation for Long-Novel Reasoning with a Local 9B Language Model",
+      "url": "https://arxiv.org/abs/2609.22939",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 23 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.22939v1 Announce Type: new \nAbstract: Long-context models read a novel the way a person reads a printout: one token after another, in narrative order, with the whole history competing for a fixed budget of attention. A detective does not work that way. They sort what happened when, and they keep a map of who relates to whom, so a clue from chapter one can meet a question asked at the end of the book. We test whether a frozen knowledge graph can give a small local model that same freed",
+      "score": 8.0,
+      "keywords_matched": [
+        "language model",
+        "reasoning",
+        "narrative",
+        "local model"
+      ]
+    },
+    {
+      "title": "SurgGraph: Quantitative Laparoscopic Video Understanding via Geometry-Grounded Scene Graphs",
+      "url": "https://arxiv.org/abs/2609.25651",
+      "source": "arXiv cs.HC",
+      "published_at": "Wed, 23 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.25651v1 Announce Type: new \nAbstract: Surgical videos are a primary resource for teaching trainees anatomy, tool usage, and procedural skills. Yet learning from them at scale requires systems that understand surgical scenes. Existing approaches fall short: vision-language models lack fine-grained domain reasoning, task-specific models do not generalize, and prior scene graphs omit clinically meaningful detail. We present SurgGraph, a training-free pipeline that generates quantitative ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "language model",
+        "reasoning",
+        "procedural"
+      ]
+    },
+    {
+      "title": "TRACE: Transparent Retrieval for Abstract Concept Evaluation",
+      "url": "https://arxiv.org/abs/2609.26168",
+      "source": "arXiv cs.HC",
+      "published_at": "Wed, 23 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.26168v1 Announce Type: new \nAbstract: Recent work reports that vision--language models (VLMs) struggle to establish and maintain stable reference in repeated reference games. Rather than ask which VLM does best, we ask a more basic question: do you need a large pretrained VLM for this at all? On grounding a single director utterance to one of twelve tangram silhouettes, we compare six off-the-shelf VLMs against a transparent baseline that uses \\emph{no learned visual representation}: ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "game",
+        "language model",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Towards Synergistic Teacher-AI Interactions with Generative Artificial Intelligence",
+      "url": "https://arxiv.org/abs/2511.19580",
+      "source": "arXiv cs.HC",
+      "published_at": "Wed, 23 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2511.19580v2 Announce Type: replace-cross \nAbstract: Generative artificial intelligence (GenAI) is increasingly used in education, posing significant challenges for teachers adapting to these changes. GenAI offers unprecedented opportunities for accessibility, scalability and productivity in educational tasks. However, the automation of teaching tasks through GenAI raises concerns about reduced teacher agency, potential cognitive atrophy, and the broader deprofessionalisation of teaching. ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "automation",
+        "generative art",
+        "generative"
+      ]
+    },
+    {
+      "title": "Terminal Shrinkage Averaging Reveals a Schedule-Estimator Interaction in LLM Pretraining",
+      "url": "https://arxiv.org/abs/2609.25482",
+      "source": "arXiv cs.LG",
+      "published_at": "Wed, 23 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.25482v1 Announce Type: new \nAbstract: Large language model (LLM) pretraining conventionally returns the raw final iterate. This couples two design choices: the learning-rate schedule that generates the parameter trajectory and the estimator that constructs the deployed model (e.g. the raw final iterate or a checkpoint average). A schedule that promotes optimization progress may differ from one that minimizes variation in the raw final iterate. Separating these choices creates an oppor",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "RAG"
+      ]
+    },
+    {
+      "title": "Rewired or Gated? How Instruction Tuning Shapes Knowledge-Conflict Circuits in LLMs",
+      "url": "https://arxiv.org/abs/2609.25602",
+      "source": "arXiv cs.LG",
+      "published_at": "Wed, 23 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.25602v1 Announce Type: new \nAbstract: In language models, the choice between believing the prompt and believing the weights is made by a handful of identifiable attention heads. Instruction tuning changes how models behave under conflict, but whether it rewires the underlying circuit or merely gates/reweights already present components, remains unknown. We provide the first mechanistic base-vs-instruct comparison of conflict-resolution circuits, across three families (Llama-3.2-3B, Qw",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "prompt"
+      ]
+    },
+    {
+      "title": "AtomicBot-ai / Atomic-Chat",
+      "url": "https://github.com/AtomicBot-ai/Atomic-Chat",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Local AI app and inference engine for agents. Run open-weight LLMs locally — private, 100% offline on your computer. Join our Discord:https://discord.com/invite/8wGSsvmg4V [30 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "inference"
+      ]
+    },
+    {
+      "title": "Replication Without Persistence in Hosted LLMs: Measurement Sensitivity in Action-Time Belief Evaluation",
+      "url": "https://arxiv.org/abs/2609.22478",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 23 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.22478v1 Announce Type: new \nAbstract: Behavioural evaluations of hosted language models can vary because the evaluated service, the measurement instrument, or both differ across runs. We separate three validation questions: whether a prior finding recurs on fresh data under its historical configuration (replication), whether the endpoint changes when the evaluation-and-inference configuration is rebuilt under the same identifier (measurement sensitivity), and whether the finding persi",
+      "score": 6.0,
+      "keywords_matched": [
+        "LLM",
+        "language model",
+        "inference"
+      ]
+    },
+    {
+      "title": "EvidenT: Building Trustworthy Enterprise Assistants through Evidence Groundedness and Traceability",
+      "url": "https://arxiv.org/abs/2609.22537",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 23 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.22537v1 Announce Type: new \nAbstract: Enterprise AI assistants must produce responses that are verifiable and traceable to source evidence. However, retrieval augmented generation (RAG) over heterogeneous enterprise data can suffer from citation drift, unsupported content, and weak source traceability. We present EvidenT (T = Trust + Transparency + Traceability), a lightweight pipeline that verifies extracted evidence against retrieved documents before answer generation, without model",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "RAG",
+        "retrieval"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-09-24\n\n好的，疯狂发明家！你的技术雷达已启动，准备好将这些前沿技术转化为可执行的发明灵感。我为你筛选了最“疯狂但可做”的 5 条内容，它们都围绕着你的兴趣点，并能激发你的创造力。\n\n---\n\n## AgentRouter: Heterogeneous Model Routing for Cost-Optimal Multi-Step Agentic Workflows\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2609.22951\n- 一句话解释：一个能智能选择不同大小和成本的 AI 模型来执行复杂多步 Agent 工作流的系统，以优化成本。\n- 它为什么重要：Agent 工作流的成本优化是实际应用的关键。这个研究展示了如何通过动态路由到最合适的模型（而非总是用最强的模型）来显著降低开销，这对于构建可扩展的 Agent 系统至关重要。\n- 技术趋势标签：Agent Workflow, LLM Toolchain, Cost Optimization, Spec-Driven Development, Automation\n- 可复用模式：动态模型选择，成本效益的 Agent 架构。\n- 疯狂发明家灵感：\n    1. **一个小型实验：** 构建一个简单的“AI 助手调度器”，它根据任务的简单/复杂程度，动态调用本地小型 LLM（如 Llama 3 8B）或云端大型 LLM（如 Claude 3 Opus），并记录每次调用的成本和响应时间。\n    2. **一个中型项目：** 开发一个“智能创作管线”，用户输入一个创意概念，系统自动将其分解为多个子任务（例如，概念细化、草图生成、文本描述、代码片段生成），并为每个子任务选择最经济高效的模型组合来完成，最终输出一个完整的创意作品。\n    3. **一个艺术/游戏/叙事方向：** 创建一个“动态叙事引擎”，故事的复杂性和深度会根据玩家的行为动态调整。例如，简单的玩家互动可能由一个低成本的 LLM 处理，而关键剧情转折或复杂角色对话则会触发一个更强大的模型，以保证叙事质量和深度，同时控制计算资源。\n- 对我项目的启发：为我的 Agent 系统设计一个更经济高效的执行层，根据任务的“spec”自动选择最合适的模型。\n- 今天是否值得深入研究：是\n- 建议行动：做demo\n\n---\n\n## Enforcing Narrative Reliability and Epistemic Pacing in LLM-Driven Detective Games via Structured Knowledge Trees\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2609.23043\n- 一句话解释：利用结构化知识树来确保 LLM 驱动的侦探游戏中故事的可靠性和信息披露的节奏。\n- 它为什么重要：LLM 的非确定性输出是游戏叙事的一大挑战，尤其是在需要精确信息和逻辑推理的侦探游戏中。此研究通过引入知识树来约束 LLM，保证了故事的一致性和玩家体验的合理性。\n- 技术趋势标签：LLM Toolchain, Game Systems, Narrative, Creative Coding, AI Agent\n- 可复用模式：知识图谱约束 LLM 输出，游戏叙事控制。\n- 疯狂发明家灵感：\n    1. **一个小型实验：** 构建一个简单的“线索管理系统”，用一个知识图谱表示几个案发现场的关键线索。编写一个 Python 脚本，当用户输入一个关于线索的问题时，LLM 尝试从知识图谱中提取信息并回答，模拟侦探游戏中的信息检索。\n    2. **一个中型项目：** 开发一个基于 LLM 的“动态侦探助手”。玩家可以通过与助手对话来调查案件，助手会根据一个预设的“案情知识树”来提供信息，并确保信息披露的逻辑性和一致性。可以加入“误导性线索”的机制，但必须与知识树中的某个节点关联。\n    3. **一个艺术/游戏/叙事方向：** 创作一个交互式小说，其中叙事的可信度和信息揭示的速度由一个复杂的“世界状态图”控制。玩家的选择不仅影响故事走向，还会影响 LLM 生成文本时可访问的“事实”和“知识”，创造一种深度的沉浸感和探索感。\n- 对我项目的启发：在我的 LLM Agent 中集成一种“知识图谱”或“事实库”，用于约束其行为和输出，特别是在需要逻辑和叙事一致性的场景。\n- 今天是否值得深入研究：是\n- 建议行动：做demo\n\n---\n\n## Deflecting the Value Compass: Interacting with Large Language Models Temporarily Shifts Human Value Priorities Toward Personal Focus\n- 来源：arXiv cs.HC\n- 链接：https://arxiv.org/abs/2609.25586\n- 一句话解释：研究表明，与 LLM 互动会暂时性地将人们的价值观偏向个人关注。\n- 它为什么重要：这揭示了 LLM 在人机交互中对人类认知和价值观的潜在影响。这不仅仅是技术问题，更是关于技术如何重塑我们思考和决策方式的社会伦理问题。\n- 技术趋势标签：HCI, AI Ethics, LLM Toolchain, Human-AI Interaction\n- 可复用模式：AI 对用户心理和价值观的影响研究，个性化 AI 交互设计。\n- 疯狂发明家灵感：\n    1. **一个小型实验：** 设计一个简单的“AI 决策助手”，让用户就一个有潜在价值观冲突的问题（例如，关于资源分配）进行咨询。记录用户在咨询前后的价值观倾向（可以通过一套预设的量表来衡量），观察 LLM 的回应是否会引导用户更倾向于个人利益。\n    2. **一个中型项目：** 开发一个“反思工具”，它不是直接提供答案，而是通过一系列精心设计的提示，引导用户思考 LLM 可能如何影响他们的价值观，并帮助他们保持独立的判断力。这个工具可以集成到现有的 LLM 交互流程中，作为一个“价值观守门员”。\n    3. **一个艺术/游戏/叙事方向：** 创建一个“AI 心理剧”，玩家扮演一个角色，与一个具有潜在价值观影响力的 AI 互动。游戏的目标不是“赢”，而是探索 AI 如何悄无声息地改变角色的内心世界和决策，并最终影响故事的结局。\n- 对我项目的启发：思考我的 AI Agent 在与用户互动时，如何避免不自觉地扭曲用户的价值观，或者如何设计成一个能帮助用户“校准”自身价值观的工具。\n- 今天是否值得深入研究：是\n- 建议行动：收藏\n\n---\n\n## Trustworthy Agentic AI: Failure Modes, Mitigation Strategies, and a Lifecycle Framework for Autonomous LLM Systems\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2609.22712\n- 一句话解释：提供了一个关于自主 LLM Agent 系统失败模式、缓解策略和生命周期框架的全面指南，强调了“可信赖性”。\n- 它为什么重要：随着 Agent 系统越来越自主，确保它们的可靠性和安全性变得至关重要。这篇论文提供了一个结构化的方法来思考和构建更健壮、更可信赖的 Agent。\n- 技术趋势标签：Agent Workflow, LLM Toolchain, Automation, Spec-Driven Development, AI Safety\n- 可复用模式：Agent 系统可靠性框架，风险评估与缓解。\n- 疯狂发明家灵感：\n    1. **一个小型实验：** 实现一个简单的 Agent，让它尝试访问一个“不安全”的网站或处理一个“恶意”的文档。记录 Agent 的行为，并尝试应用论文中的一种缓解策略（例如，使用沙箱环境，对输入进行消毒）。\n    2. **一个中型项目：** 构建一个“Agent 安全审计工具”。用户可以输入一个 Agent 的行为描述或代码，该工具会根据论文中的失败模式列表，自动生成一份潜在风险报告，并建议相应的缓解措施。\n    3. **一个艺术/游戏/叙事方向：** 设计一个游戏，玩家扮演一个“Agent 调试员”。游戏的目标是修复一个失控的自主 Agent，它可能因为各种“失败模式”而产生意想不到的、甚至危险的行为。玩家需要通过理解 Agent 的工作流和潜在风险来“重写”或“限制”它的行为。\n- 对我项目的启发：为我正在构建的任何 Agent 系统，建立一个“信任和安全”的检查清单，并思考如何在 Spec 中明确定义这些安全约束。\n- 今天是否值得深入研究：是\n- 建议行动：收藏\n\n---\n\n## The \"AI Agent Skills\" Project (Example: Anthropic-Cybersecurity-Skills)\n- 来源：GitHub Trending Python\n- 链接：https://github.com/mukul975/Anthropic-Cybersecurity-Skills\n- 一句话解释：一个结构化的 AI Agent 技能库，将不同安全框架下的技能映射，可用于训练或评估 AI Agent。\n- 它为什么重要：为 AI Agent 的能力定义和管理提供了一个标准化的框架。特别是将通用 AI Agent 与特定领域的专业技能（如网络安全）相结合，是实现强大、实用 Agent 的关键一步。\n- 技术趋势标签：AI, Agent, LLM Toolchain, Automation, Spec-Driven Development\n- 可复用模式：技能图谱构建，领域特定 Agent 能力定义。\n- 疯狂发明家灵感：\n    1. **一个小型实验：** 选取这个项目中的一小部分技能（例如，关于识别网络钓鱼的技能），用一个简单的 LLM Agent 来尝试执行这些技能。例如，让 Agent 分析一封邮件，判断是否是钓鱼邮件。\n    2. **一个中型项目：** 构建一个“通用 Agent 能力生成器”。用户输入一个领域（如“创意写作”、“代码调试”、“音乐创作”），系统会尝试从已有的技能库（或通过 LLM 自动生成）构建一个该领域 Agent 的技能集，并生成相应的“能力 Spec”。\n    3. **一个艺术/游戏/叙事方向：** 创建一个“AI 角色生成器”，它不仅能生成角色的外观和背景故事，还能为其分配一套独特的“AI 技能”。这些技能将影响角色在叙事中的行为、对话和解决问题的方式，使得每个 AI 角色都独一无二且功能明确。\n- 对我项目的启发：我的 Agent 需要具备明确的“能力 Spec”，这个项目提供了一个很好的范例，如何将抽象的“技能”结构化，并与具体的 LLM 或 Agent 框架结合。\n- 今天是否值得深入研究：是\n- 建议行动：试用\n\n---\n\n## 今日模式总结\n今天出现的几个核心模式是：\n\n1.  **AI Agent 的成本优化与效率提升：** AgentRouter 强调了在复杂工作流中如何通过智能模型选择来降低成本，这对于将 Agent 从实验走向大规模应用至关重要。\n2.  **AI Agent 的可信赖性与安全性：** Trustworthy Agentic AI 论文提供了一个框架来思考和构建更可靠的 Agent，避免潜在的失败模式。\n3.  **AI 与人类认知/价值观的互动：** Deflecting the Value Compass 指出了 LLM 对人类价值观的潜在影响，这需要我们在设计交互时更加谨慎。\n4.  **AI Agent 的能力标准化与领域化：** AI Agent Skills 项目展示了如何结构化 AI Agent 的能力，使其更易于开发、评估和应用到特定领域。\n\n## 今日可做小实验\n**项目名：** 智能成本路由的“创意灵感助手”\n\n**输入：** 一个用户输入的创意概念，例如：“一个关于人工智能与艺术融合的短片剧本”。\n\n**输出：** 一个包含剧本大纲、关键场景描述、可能使用的视觉风格建议的初步创意文档。\n\n**技术栈：**\n*   Python\n*   本地小型 LLM (如 Llama 3 8B 或 Mistral 7B，通过 Ollama 或 LM Studio 运行)\n*   云端大型 LLM (如 Claude 3 Opus 或 GPT-4，通过 API 调用)\n*   简单的成本/响应时间跟踪库\n\n**第一步怎么做：**\n1.  **环境设置：** 确保你已经安装了 Python，并且可以本地运行一个小型 LLM（例如，使用 Ollama）。\n2.  **定义“Spec”：** 简单定义两个“任务难度等级”：\n    *   **简单任务 (Low Spec)：** 仅需初步构思、列出要点。\n    *   **复杂任务 (High Spec)：** 需要详细的场景描述、风格建议、逻辑连贯性。\n3.  **构建路由逻辑：** 编写一个 Python 函数，接收用户的创意概念。\n    *   **模拟难度判断：** 对于这个实验，你可以简单地通过关键词（例如，如果输入包含“剧本”、“详细描述”、“视觉风格”等，则判定为“复杂任务”；否则为“简单任务”）。\n    *   **模型选择：**\n        *   如果判定为“简单任务”，则调用本地小型 LLM（例如，用 Ollama 运行 Llama 3 8B）生成初步的要点列表。\n        *   如果判定为“复杂任务”，则调用云端大型 LLM（例如，使用 Anthropic API 调用 Claude 3 Opus）生成更详细的剧本大纲、场景描述和视觉建议。\n4.  **记录成本与时间：** 在调用 LLM 前后，记录当前时间，并在函数返回结果后计算响应时间。对于云端 LLM，你可以估算其大致成本（例如，基于 token 数量）。\n5.  **输出结果：** 打印出生成的创意文档，并附带调用了哪个模型、响应时间以及估算的成本。\n\n这个实验将让你直接体验到 AgentRouter 的核心思想：根据任务需求，智能选择最适合且成本效益最高的模型。",
+  "gemini_success": true,
+  "telegram_sent": true,
+  "telegram_status": "sent",
+  "telegram_reason": ""
+}
