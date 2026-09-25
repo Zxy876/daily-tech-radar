@@ -1,0 +1,302 @@
+{
+  "date": "2026-09-25",
+  "candidates": [
+    {
+      "title": "COPE: Continual Personalization of LLMs under Sparse User Feedback via User Embeddings and Self-Evaluation",
+      "url": "https://arxiv.org/abs/2609.26853",
+      "source": "arXiv cs.LG",
+      "published_at": "Thu, 24 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.26853v1 Announce Type: new \nAbstract: While Large Language Models (LLMs) have achieved remarkable results across various benchmarks, their alignment with normative values often results in homogenized responses that fail to address diverse user preferences. Existing training-free methods often occupy valuable context windows through prompt engineering, while training-based methods typically remain static post-training, failing to support the continual optimization required in real-worl",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "embedding",
+        "prompt",
+        "context window"
+      ]
+    },
+    {
+      "title": "ChipMEM: Verification-Grounded Memory for EDA Agents",
+      "url": "https://arxiv.org/abs/2609.27067",
+      "source": "arXiv cs.LG",
+      "published_at": "Thu, 24 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.27067v1 Announce Type: new \nAbstract: Large language model (LLM)-based agents use Electronic Design Automation (EDA) tools to generate and revise register-transfer-level (RTL) designs under synthesis and verification feedback. Recent methods learn from this feedback by distilling reusable skills from execution traces or by training on rewards derived from EDA-tools. Both methods are typically evaluated on the tasks that produced the experience. Repeated access to benchmark feedback on",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "automation",
+        "language model",
+        "memory"
+      ]
+    },
+    {
+      "title": "KITE: KV-Invariant Transformer Expansion for Efficient Agentic LLM Scaling",
+      "url": "https://arxiv.org/abs/2609.27294",
+      "source": "arXiv cs.LG",
+      "published_at": "Thu, 24 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.27294v1 Announce Type: new \nAbstract: Scaling a language model is not only a question of final quality: the architectural choice determines how much computation is spent during training, prompt processing, and autoregressive decoding to achieve certain model quality. An ideal model architecture should lower all above computation costs to facilitate scaling to a larger model, while ensure the larger model indeed outperforms smaller baselines. We introduce KV-Invariant Transformer Expan",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "transformer",
+        "language model",
+        "prompt"
+      ]
+    },
+    {
+      "title": "Harness as a Language: A Minimalist Agent Framework With Maximal Expressivity",
+      "url": "https://arxiv.org/abs/2609.26891",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 24 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.26891v1 Announce Type: new \nAbstract: Modern language-model agents are built around the \\textit{agent loop}, where the LLM is placed in an environment exposing a set of tools, and the LLM has full control over the workflow by alternating between tool calls and observing their output. However, certain workflows currently require additional engineering beyond the agent loop itself, such as memory systems and self-improving systems. We built an LLM agent framework, JAZ, to explore the ex",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "workflow",
+        "memory"
+      ]
+    },
+    {
+      "title": "Learn How to Act from Your Own Interactions: On-Policy Self-Distillation for GUI Agents",
+      "url": "https://arxiv.org/abs/2609.27307",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 24 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.27307v1 Announce Type: new \nAbstract: Graphical User Interface (GUI) agents enable the fulfillment of complex user instructions through multi-turn interactions with software environments, requiring step-wise reasoning and long-horizon memory to guide actions and retain task-relevant information, respectively. Recent on-policy self-distillation (OPSD) methods have achieved strong performance on GUI grounding, a foundational subtask for GUI agents, owing to dense token-level supervision",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "reasoning",
+        "memory"
+      ]
+    },
+    {
+      "title": "Just-in-Time Memory: Learning to Curate Task-Adaptive Memory for LLM Agents",
+      "url": "https://arxiv.org/abs/2609.27334",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 24 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.27334v1 Announce Type: new \nAbstract: Agentic memory systems reuse past experience to improve future performance, yet most existing designs curate memory at write time: once a task is completed, its trajectory is distilled into a fixed artifact, such as a reflection, workflow, skill, or reasoning strategy, that is later retrieved by similarity. This forces the system to decide what is worth remembering before the future query is known, irreversibly discarding information and producing",
+      "score": 10.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "workflow",
+        "reasoning",
+        "memory"
+      ]
+    },
+    {
+      "title": "When Direct Manipulation Becomes a Guess: Productive Friction in AI-Mediated Multisensory Visualization",
+      "url": "https://arxiv.org/abs/2609.27104",
+      "source": "arXiv cs.HC",
+      "published_at": "Thu, 24 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.27104v1 Announce Type: new \nAbstract: Generative visualization increasingly embeds large language models within direct manipulation and multisensory interaction. Speech, gaze, touch, gesture, sound, and haptics can make probabilistic inference feel like familiar, deterministic tool use. I call this gap a deterministic-affordance mismatch: deterministic interaction cues persist while AI weakens predictability, locality, reversibility, or provenance. Reading the malleable interfaces of ",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "language model",
+        "tool use",
+        "inference",
+        "generative"
+      ]
+    },
+    {
+      "title": "Helping Customers in Distress: An LLM-powered Agent that Converses, Probes, and Routes",
+      "url": "https://arxiv.org/abs/2605.16268",
+      "source": "arXiv cs.HC",
+      "published_at": "Thu, 24 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2605.16268v2 Announce Type: replace \nAbstract: Banks receive millions of reports of fraud, scams, and disputed transactions every year, making it challenging to accurately direct customers to the appropriate specialist teams for assistance. The existing manual process driven by humans is slow and stressful for both customers and staff. To address this, we develop a customer-facing AI powered triaging agent that leverages large language models (LLMs) to conduct multi-turn conversations, ask",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "RAG"
+      ]
+    },
+    {
+      "title": "Scaling of Capability and Efficiency at Inference Time in Large Reasoning Models",
+      "url": "https://arxiv.org/abs/2609.27166",
+      "source": "arXiv cs.LG",
+      "published_at": "Thu, 24 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.27166v1 Announce Type: new \nAbstract: Capability and efficiency are two key dimensions of reasoning in large language models (LLMs). Capability refers to the ability to solve a given problem correctly, whereas efficiency refers to the ability to do so with limited resources. When LLMs use Chain-of-Thought (CoT) reasoning to solve problems of controlled hardness, both the number of problems solved correctly and the number of tokens required to reach a correct answer depend on problem h",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "inference",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Building Socio-Affective Artificial Intelligence for Interactive Multi-Agent Simulations",
+      "url": "https://arxiv.org/abs/2609.26927",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 24 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.26927v1 Announce Type: new \nAbstract: The objective of this article is to provide design principles and a software architecture for enabling interaction between humans and multiple agents in simulated dynamic worlds. This connects the current era of general artificial intelligence (AI/AGI) with the proliferation of transformer-based conversational agents and the increased computational capabilities. Given an overview of current and previous multi-agent theories of mind (socially and a",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "simulation",
+        "transformer"
+      ]
+    },
+    {
+      "title": "Provably Complete Generalized Planning with LLMs",
+      "url": "https://arxiv.org/abs/2609.27105",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 24 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.27105v1 Announce Type: new \nAbstract: Generalized planning aims to compute a plan that solves all instances of a planning domain. Recent work has used LLMs to automatically generate and debug such generalized plans in the form of Python programs and achieved perfect test data coverage for several domains. However, whether these generalized plans are actually complete, i.e. solve all instances of the domain, could only be determined by manual evaluation. Here, we present an approach fo",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "RAG",
+        "planning"
+      ]
+    },
+    {
+      "title": "Do We Need Complex Topology Control? Distinct-Peer Random Routing Improves Cost-Efficiency in Sparse Multi-Agent Debate",
+      "url": "https://arxiv.org/abs/2609.27150",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 24 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.27150v1 Announce Type: new \nAbstract: Multi-agent debate (MAD) has emerged as a promising paradigm for improving the reasoning accuracy of large language models (LLMs) through iterative peer interaction. Communication topology plays a central role in this process, motivating increasingly sophisticated mechanisms that learn, adapt, or dynamically reconfigure agent interactions to improve accuracy or reasoning reliability. Meanwhile, prior studies suggest that much simpler sparse commun",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Hunyuan-A13B Technical Report",
+      "url": "https://arxiv.org/abs/2609.27284",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 24 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.27284v1 Announce Type: new \nAbstract: We present Hunyuan-A13B, an open-source large language model based on a Mixture-of-Experts architecture. It contains 80 billion total parameters but activates only 13 billion during inference, balancing model capability, computational efficiency, and deployment cost. The model is pretrained on a rigorously filtered 20T-token corpus with enhanced STEM data curation, improving factual reliability and reasoning ability. High-quality supervised fine-t",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "language model",
+        "inference",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Memory Control Signals Emerge Before Action in Long Horizon Agents",
+      "url": "https://arxiv.org/abs/2609.27286",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 24 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.27286v1 Announce Type: new \nAbstract: Long horizon language model agents continuously accumulate interaction history, increasing computational cost while making relevant information harder to preserve and reuse. Existing context management methods mainly focus on how to compress or retrieve history, but largely leave open whether the model itself already represents the need for these memory operations before they occur. We study the hidden state immediately before each agent action an",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "language model",
+        "memory"
+      ]
+    },
+    {
+      "title": "CART: Closed-Loop Adaptive Red Teaming for Large Language Models",
+      "url": "https://arxiv.org/abs/2609.27336",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 24 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.27336v1 Announce Type: new \nAbstract: Automated red teaming often replays a fixed set of prompts, which measures known risks but cannot learn from failures found during testing. We present CART (Closed-Loop Adaptive Red Teaming), a framework that uses each result to guide what it tests next. CART begins with broad risk coverage, follows weaknesses that emerge, keeps new probes diverse, and records the evidence and source of every finding. It separates the Challenger that creates tests",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "language model",
+        "RAG",
+        "prompt"
+      ]
+    },
+    {
+      "title": "MolDesignBench: Evaluating LLM-based Agent for Scenario-grounded Molecular Design",
+      "url": "https://arxiv.org/abs/2609.27349",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 24 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.27349v1 Announce Type: new \nAbstract: Real-world molecular design remains challenging for large language model (LLM)-based agents. It requires them to interpret design contexts, satisfy multiple constraints, identify infeasible specifications, and reason over multi-step tool outputs. Existing benchmarks do not capture this complexity, focusing instead on explicit and narrow constraints, only feasible problems, and single-path solutions. To address this gap, we propose MolDesignBench, ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model"
+      ]
+    },
+    {
+      "title": "Not What You Meant: Can LLMs Follow a Specified Negation Semantics?",
+      "url": "https://arxiv.org/abs/2609.27517",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 24 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.27517v1 Announce Type: new \nAbstract: Negation does not carry a uniform interpretation across domains. In legal, regulatory, and medical reasoning, the intended interpretation depends on the reading in force -- open- versus closed-world, two- versus three-valued, and credulous versus skeptical. We study which reading of negation large language models adopt by default and whether they can override that preference when a different reading is explicitly specified. To this end, we introdu",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "State-Grounded Conditioning: Wrapping User-Facing LLM Agents Where Direction Depends on Live State",
+      "url": "https://arxiv.org/abs/2609.27606",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 24 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.27606v1 Announce Type: new \nAbstract: We introduce State-Grounded Conditioning (SGC), a design principle for user-facing LLM agents that must condition on live user state (game state, session history, live inventory), and a distinct failure class we call direction drift: task-complete responses whose chosen direction misaligns with the current state. SGC externalises state-dependent control into rule kernels over structured inputs and three primary state slices, via Perception, Ground",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "game"
+      ]
+    },
+    {
+      "title": "ContraVis: Evidence-Grounded Visual Analytics for Contradiction Review in Legal Contracts",
+      "url": "https://arxiv.org/abs/2609.27014",
+      "source": "arXiv cs.HC",
+      "published_at": "Thu, 24 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.27014v1 Announce Type: new \nAbstract: Legal contracts are structurally complex documents in which contradictions may emerge across distant and interconnected provisions. Although large language models (LLMs) improve legal language understanding, contradiction analysis remains a human-centered and evidence-grounded review task. We present ContraVis, a visual analytics system for human-in-the-loop contradiction analysis in legal contracts. The system models contracts as typed paragraph ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "RAG"
+      ]
+    },
+    {
+      "title": "WTF?! Simulation-Free Reinforcement Learning with Wasserstein-Tilted Flow Maps",
+      "url": "https://arxiv.org/abs/2609.27033",
+      "source": "arXiv cs.LG",
+      "published_at": "Thu, 24 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.27033v1 Announce Type: new \nAbstract: Reward fine-tuning aims to update a pre-trained flow-based generative model to improve the downstream reward of its generated samples. Existing methods typically formulate this problem as sampling from a reward-tilted distribution, the solution to a KL-regularized reward-maximization problem. Here, we introduce an optimal transport regularizer built directly from the pre-trained drift. Unlike KL reward tilting, the resulting objective transports i",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "simulation",
+        "fine-tuning",
+        "generative"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-09-25\n\n好的，疯狂发明家！让我们深入挖掘这些最新的技术碎屑，从中提炼出闪光的发明灵感。我已为你筛选出最有趣、最能激发你跨学科创造力的内容。\n\n---\n\n## [COPE: 稀疏反馈下的LLM持续个性化]\n- 来源：arXiv cs.LG\n- 链接：https://arxiv.org/abs/2609.26853\n- 一句话解释：一种新的方法，即使在用户反馈很少的情况下，也能让大型语言模型（LLM）持续学习并适应用户的个性化偏好。\n- 它为什么重要：当前LLM通常缺乏深度个性化能力，容易产生“千篇一律”的回复。COPE提出了一种在几乎没有明确指导的情况下，让LLM“悄悄”学习用户喜好的机制，这对于创造真正懂用户的AI至关重要。\n- 技术趋势标签：AI, LLM, 个性化, 用户反馈, 嵌入 (Embeddings), 持续学习 (Continual Learning)\n- 可复用模式：**“隐性偏好学习”** - 模型通过观察用户行为（即使是间接的）来推断其偏好，而不是等待明确指令。\n- 疯狂发明家灵感：\n    1. **一个小的实验**：训练一个简单的文本生成模型（如GPT-2），给它一个“虚构用户”的少量交互记录（比如他们对某个话题的评论），然后观察模型在生成后续文本时是否会微妙地偏向该用户的风格或观点。\n    2. **一个中型的项目**：构建一个基于LLM的写作助手，能够根据用户过去写过的文章、邮件等（作为稀疏反馈），自动调整其建议的措辞、语气和风格，使其更贴合用户的个人品牌。\n    3. **一个艺术/游戏/叙事方向**：开发一个“AI叙事伴侣”，它能根据玩家在游戏中的选择、对话和行为（作为稀疏反馈），动态调整游戏世界中NPC的性格、对话内容和对玩家的态度，创造一个真正“活”起来、个性化响应的游戏体验。\n- 对我项目的启发：可以将“隐性偏好学习”应用于你的Creative Coding工具，让工具根据你过去的代码风格、偏好颜色、常用函数等，自动生成更符合你习惯的代码片段或视觉效果。\n- 今天是否值得深入研究：是\n- 建议行动：收藏 / 试用\n\n## [ChipMEM: 基于验证的EDA代理内存]\n- 来源：arXiv cs.LG\n- 链接：https://arxiv.org/abs/2609.27067\n- 一句话解释：为基于LLM的电子设计自动化（EDA）代理设计了一种“记住”和“学习”从设计验证过程中获得的知识的内存系统。\n- 它为什么重要：AI代理在执行复杂任务（如硬件设计）时，需要能够从过去的错误和成功中学习。ChipMEM提出的内存机制，特别强调了从“验证反馈”中学习，这对于构建更可靠、更自主的AI设计工具至关重要。\n- 技术趋势标签：AI, Agent, LLM, 自动化, 电子设计自动化 (EDA), 验证, 内存 (Memory), 工作流 (Workflow)\n- 可可复用模式：**“验证驱动的知识积累”** - AI代理的关键学习不是来自直接的成功/失败信号，而是来自更精细的“为什么会失败/成功”的验证反馈。\n- 疯狂发明家灵感：\n    1. **一个小的实验**：创建一个简单的“代码调试代理”，当它写出的代码编译失败或遇到运行时错误时，不是简单地报告错误，而是尝试分析错误信息，并将其“记录”下来，以便下次遇到类似错误时能更快找到解决方案。\n    2. **一个中型的项目**：开发一个“创意工具助手”，它可以监控用户在使用你的Creative Coding工具时遇到的“技术难题”（例如，某个函数不生效、颜色混合不理想等），并记录下解决这些问题的步骤和原因。当用户再次遇到类似问题时，助手能提供精准的解决方案或替代方案。\n    3. **一个艺术/游戏/叙事方向**：构建一个“AI叙事生成器”，它能学习玩家在特定叙事分支中的选择，并从“叙事验证”中学习（例如，某个选择导致了剧情不合理、角色行为矛盾）。它会记录下这些“叙事bug”，并尝试生成更连贯、逻辑性更强的后续剧情。\n- 对我项目的启发：将“验证驱动的知识积累”应用于你的世界生成系统。当生成的世界出现不一致、不符合设定的地方时（即“验证失败”），系统能记录下来，并调整生成规则，以避免未来出现同类问题，创造更稳定、更符合预期的生成内容。\n- 今天是否值得深入研究：是\n- 建议行动：收藏 / 试用\n\n## [Harness as a Language: 极简但强大的代理框架]\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2609.26891\n- 一句话解释：提出了一种新的代理（Agent）设计理念，将工具调用和环境交互视为一种“语言”，从而构建一个更简单、更灵活的代理框架。\n- 它为什么重要：当前许多AI代理框架往往过于复杂，或者将LLM的能力局限于固定的“工具调用”模式。Harness将整个代理的工作流视为一种“语言”，这为构建更通用、更易于扩展的AI代理提供了新的视角。\n- 技术趋势标签：AI, Agent, LLM, 工作流 (Workflow), 框架 (Framework), 语言 (Language), 自动化\n- 可复用模式：**“代理工作流即语言”** - 将代理与环境的交互视为一种可解析、可操作的语言，而不是一系列离散的指令。\n- 疯狂发明家灵感：\n    1. **一个小的实验**：尝试使用一个简单的文本解析库（如`regex`或`parsy`），定义一套简单的“动作语言”（例如，“移动到X”，“拾取Y”，“说‘你好’”)，然后让一个LLM尝试生成符合这套语言的指令序列来完成一个简单的环境任务。\n    2. **一个中型的项目**：构建一个“交互式故事编辑器”，用户可以用一种类似自然语言的简单指令（例如，“让角色A走向房间B”，“然后让角色C说出‘我饿了’”)来编排游戏或故事的场景。这个系统会将用户的指令解析成底层的游戏引擎事件。\n    3. **一个艺术/游戏/叙事方向**：设计一个“AI驱动的动态场景生成器”。用户可以通过描述性的语言来定义场景元素、角色行为和事件触发条件（例如，“一个雨夜，一盏孤灯下，一个神秘人物在等待”），系统将这些描述转化为游戏引擎的实际场景和AI角色的行为。\n- 对我项目的启发：将“代理工作流即语言”的理念应用到你的Minecraft世界生成或游戏系统开发中。你可以设计一套“世界生成语言”，用户通过编写这种语言来控制世界的生成过程、NPC的行为模式，甚至定义游戏的规则，而无需直接编写复杂的代码。\n- 今天是否值得深入研究：是\n- 建议行动：收藏 / 试用\n\n## [State-Grounded Conditioning: LLM代理的状态感知]\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2609.27606\n- 一句话解释：提出了一种新的设计原则，让面向用户的LLM代理能够准确地响应当前“实时状态”（如游戏状态、用户会话信息），避免出现“方向漂移”的错误。\n- 它为什么重要：许多AI代理在与用户交互时，会因为未能准确理解和利用实时的上下文信息而产生不相关的或错误的响应。SGC通过将状态信息外部化并显式地用于条件化，解决了这一关键问题，尤其是在游戏和交互式应用中。\n- 技术趋势标签：AI, Agent, LLM, 游戏 (Game), HCI, 实时状态, 上下文 (Context)\n- 可复用模式：**“实时状态条件化”** - AI代理的决策和响应，必须基于其所处的实时、动态的环境状态。\n- 疯狂发明家灵感：\n    1. **一个小的实验**：创建一个简单的聊天机器人，它能记住用户之前说的几句话。当用户问“它怎么样了？”时，机器人能够根据用户最近提到的某个对象（例如，“那只猫”）来回答，而不是泛泛而谈。\n    2. **一个中型的项目**：开发一个“智能游戏助手”，它能实时读取（或接收）游戏的状态信息（如玩家位置、血量、背包物品），并根据这些信息为玩家提供建议、执行自动操作（如自动寻路、自动使用药水），或者生成游戏内的提示信息。\n    3. **一个艺术/游戏/叙事方向**：创建一个“情感响应式叙事系统”。系统会实时跟踪角色的情感状态（例如，玩家的信任度、NPC的愤怒值），并动态调整叙事走向、对话选项和环境描写，确保叙事始终与角色的实时情感状态保持一致。\n- 对我项目的启发：将“实时状态条件化”应用于你的Minecraft世界生成。你可以设计一个系统，让生成器能够根据玩家当前的位置、正在进行的活动（例如，挖矿、建造）或玩家的意图（通过简单的指令或行为模式推断），来动态调整即将生成的区域的内容、生物群落的特征，甚至是地下矿藏的分布。\n- 今天是否值得深入研究：是\n- 建议行动：收藏 / 试用\n\n## [MolDesignBench: 评估LLM代理的分子设计能力]\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2609.27349\n- 一句话解释：一个专门用于评估大型语言模型（LLM）代理在复杂、情境化的分子设计任务中的表现的基准测试。\n- 它为什么重要：LLM在各种领域展现出潜力，但要让它们真正应用于科学研究（如药物发现），需要有严谨的评估工具。MolDesignBench强调了“情境化”和“多约束”的设计，这使得LLM代理的评估更加贴近真实世界的复杂性。\n- 技术趋势标签：AI, Agent, LLM, 分子设计 (Molecular Design), 科学AI, 基准测试 (Benchmark), 约束优化 (Constraint Optimization)\n- 可复用模式：**“情境驱动的科学代理”** - AI代理在科学领域（如化学、物理、生物）的应用，需要能够理解复杂的背景信息和多重约束。\n- 疯狂发明家灵感：\n    1. **一个小的实验**：尝试使用一个LLM来“设计”一个简单的虚构分子，给定一些基础的“属性需求”（例如，颜色为蓝色，密度小于水）。观察LLM如何组合这些需求，并生成一个“分子描述”。\n    2. **一个中型的项目**：构建一个“艺术材料生成助手”。用户可以描述他们想要的艺术材料的特性（例如，一种能在光线下变色的颜料，具有丝绸般的触感，且对环境无害）。LLM代理会尝试“设计”出这种材料的构成成分和制备方法（当然是虚构的）。\n    3. **一个艺术/游戏/叙事方向**：开发一个“AI炼金术系统”。玩家可以通过描述他们想要合成的物品的属性和效果（例如，“一个能让你隐身的药水，但有副作用是会让你说话变慢”），AI会尝试生成合成配方、描述其炼制过程，并可能生成相关的游戏事件或故事片段。\n- 对我项目的启发：将“情境驱动的科学代理”理念应用到你的游戏系统设计或世界生成中。你可以设计一个“生态系统生成器”，它不仅能生成地形，还能根据设定的“生态规则”（例如，食物链、气候影响、物种间的共生/竞争关系），智能地生成具有内在逻辑和相互作用的生物群落。LLM代理可以帮助你定义和调整这些复杂的生态约束。\n- 今天是否值得深入研究：是\n- 建议行动：收藏 / 试用\n\n---\n\n## 今日模式总结\n\n今天我们看到了几个关键的模式：\n\n1.  **情境感知与实时状态**：AI代理（特别是LLM代理）越来越需要理解和响应其所处的**实时、动态的环境状态**（候选 6, 候选 18）。这不仅仅是记住过去，更是对当下情况的精确把握。\n2.  **验证驱动的学习与知识积累**：AI系统，尤其是在复杂任务（如EDA、科学研究）中，其进步不仅来自成功的“奖励”，更来自对**失败和验证反馈的深入分析和学习**（候选 2, 候选 16）。这使得AI能构建更鲁棒、更可靠的知识。\n3.  **工作流的抽象与语言化**：将复杂的AI代理工作流、工具调用、环境交互等，视为一种**可解析、可操作的“语言”**，可以极大地简化框架设计，提高灵活性和表达能力（候选 4）。\n\n---\n\n## 今日可做小实验\n\n**项目名**：**“AI情绪调色板”**\n\n**输入**：一段用户输入的文本（例如，一句话描述自己的心情，或一段日记）。\n\n**输出**：一个根据文本情绪生成的颜色值（例如，Hex颜色码）。\n\n**技术栈**：\n*   Python\n*   一个轻量级的LLM（如`transformers`库中的GPT-2或DistilGPT-2）\n*   一个简单的文本情感分析库（如`NLTK`的VADER或`TextBlob`）\n*   一个将情绪映射到颜色的简单逻辑\n\n**第一步怎么做**：\n1.  安装必要的Python库：`pip install transformers nltk textblob`\n2.  下载VADER情感分析模型：在Python中运行 `nltk.download('vader_lexicon')`\n3.  加载一个预训练的GPT-2模型，并为其编写一个简单的“提示符”（prompt），让它尝试将情绪词语（如“开心”、“悲伤”、“愤怒”）与颜色概念关联起来。例如：`\"将以下情绪映射到一种颜色：[情绪词]。颜色是：\"`\n4.  编写一个函数，接收用户文本，先用VADER分析其整体情绪得分（正面/负面/中性）。\n5.  然后，将情绪得分（或情绪词）输入到GPT-2模型中，让它生成一个与该情绪相关的颜色描述或名称。\n6.  最后，编写一个简单的映射逻辑，将GPT-2生成的颜色描述（或你自定义的情绪-颜色映射表）转换为一个Hex颜色码。例如，“开心”映射到 `#FFD700` (金色)，“悲伤”映射到 `#4682B4` (钢蓝色)。\n7.  尝试用你写的代码，输入不同的情绪描述，看看生成的颜色是否符合你的直觉！\n\n这个实验能让你快速体验到：\n*   LLM在理解和生成与概念关联内容上的能力。\n*   如何将抽象的情绪概念转化为视觉元素。\n*   一个简单的“AI驱动的创意工具”的雏形。\n\n祝你发明愉快！",
+  "gemini_success": true,
+  "telegram_sent": false,
+  "telegram_status": "failed",
+  "telegram_reason": "400 Client Error: Bad Request for url: https://api.telegram.org/bot8650722899:AAHUD-aqNDB7NwiPiGq3R22MVp77Cr_5GEQ/sendMessage"
+}
