@@ -1,0 +1,297 @@
+{
+  "date": "2026-09-26",
+  "candidates": [
+    {
+      "title": "Agent Memory with Episodic Retrieval for Financial Decision-Making",
+      "url": "https://arxiv.org/abs/2609.28771",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 25 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.28771v1 Announce Type: new \nAbstract: Large language models (LLMs) have demonstrated strong capabilities in financial analysis and reasoning, inspiring recent advances in agent-based trading frameworks. While these systems show promise, prior approaches either emphasize long-horizon forecasting or operate as stateless analyzers, limiting their applicability to the demands of trading in complicated settings. To address these gaps, we introduce META (Memory Enhanced Trading Agent), the ",
+      "score": 12.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "language model",
+        "reasoning",
+        "memory",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "DEEPO: Dual-Entropy Enhanced Policy Optimization for Hallucination in MLLMs",
+      "url": "https://arxiv.org/abs/2609.28570",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 25 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.28570v1 Announce Type: new \nAbstract: Reinforcement learning (RL) is widely used to sharpen reasoning in multimodal large language models (MLLMs), yet its effect on hallucination is uneven. We trace this to two weak points in the \\emph{correction chain} from reward to parameter update. At the rollout level, hard queries---those with high semantic entropy---frequently produce unanimously wrong sample groups, collapsing the group-relative\n  advantage to zero exactly where hallucination ",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "multimodal",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Scope Before You Persist: Preventing Cross-Family Interference in Agent Memory",
+      "url": "https://arxiv.org/abs/2609.29144",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 25 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.29144v1 Announce Type: new \nAbstract: Persistent memory lets language-model agents improve prompts and skills without updating model weights. We show that matching retrieval scope to certification scope enables these edits to support reliable repeated adaptation across recurring task families. We study frozen-model agents on ProcStream-RSI, a 12-round code-repair stream, using Orthogonal Regression Control (ORC), an execution-grounded gate for persistent skill edits. In an interventio",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "prompt",
+        "memory",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "The Interface Is Downstream: Designing the Terms of Human-Agent Collaboration",
+      "url": "https://arxiv.org/abs/2609.28801",
+      "source": "arXiv cs.HC",
+      "published_at": "Fri, 25 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.28801v1 Announce Type: new \nAbstract: Before an agent responds or acts, much of the experience has already been designed. Memory and retrieval shape what it notices. Evidence rules shape what it may claim. Permissions shape what it can do. Learning rules shape what it carries into the next encounter.\n  The argument comes from Alicia, a personal agent I've built and used since January 2026. A fine-tuning pilot produced no defensible model-performance result. It exposed a provenance fai",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "fine-tuning",
+        "memory",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Progressive Skill Discovery as Access Control for Tool-Using LLM Agents: Structural Governance through Role-Scoped Capability Delivery",
+      "url": "https://arxiv.org/abs/2609.28693",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 25 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.28693v1 Announce Type: new \nAbstract: Large Language Model (LLM) agents struggle to scale safely when exposed to vast enterprise toolsets. Providing an agent with access to every internal tool leads to oversized context windows, degraded tool selection, and severe governance vulnerabilities - as system policies defined purely in prompts remain probabilistic advice rather than hard constraints. Existing mitigations, such as multi-agent domain delegation, decentralize audit logs and fai",
+      "score": 9.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "prompt",
+        "context window"
+      ]
+    },
+    {
+      "title": "Show HN: Ekselio – Loveable for finance workflows (local first)",
+      "url": "https://www.gptbeyond.com/try?home=1",
+      "source": "Hacker News",
+      "published_at": "Fri, 25 Sep 2026 21:09:28 +0000",
+      "description": "Hi everyone, I am KD - Back in my college days, I dabbled with coding, learned the basics, HTML, CSS etc. but somehow I ended up in Finance which consumed the next 20 years. Then, during covid I picked up coding again, learned react, typescript, etc - even built a rudimentary site - and then came the chatgpt moment, followed by Claude etc. So, as a side project, considering that I had spent 20 years in finance and M&A I started building Ekselio, loveable for finance workflows. Differently from o",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "Claude",
+        "workflow",
+        "GPT"
+      ]
+    },
+    {
+      "title": "When Should Forecasting Agents Reason? Behavioral Stress Tests for Reliability Routing",
+      "url": "https://arxiv.org/abs/2609.28475",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 25 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.28475v1 Announce Type: new \nAbstract: Forecasting agents increasingly combine language-model reasoning, retrieval, ensembling, and calibration, but it remains unclear when each behavior should be trusted. We study this question on ForecastBench-style binary forecasting tasks, treating the choice to retrieve, reason, defer to a market prior, or use a historical analog as an observable agent behavior rather than a hidden implementation detail. Our central finding is that mechanism choic",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "reasoning",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Pistis Technical Report",
+      "url": "https://arxiv.org/abs/2609.28554",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 25 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.28554v1 Announce Type: new \nAbstract: We introduce the Pistis model family, comprising 27B- and 9B-parameter multimodal large language models built on Qwen3.6 and Qwen3.5, respectively, and developed through a general and scalable post-training framework. The framework first establishes a strong foundation through large-scale multimodal supervised fine-tuning (SFT). Building on this SFT foundation, we propose Interleaved Distillation and Reinforcement Learning (IDRL), a novel post-tra",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "language model",
+        "multimodal",
+        "fine-tuning"
+      ]
+    },
+    {
+      "title": "Adversarial Closed-Loop Curriculum for Evolving Role-Playing Agents",
+      "url": "https://arxiv.org/abs/2609.28609",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 25 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.28609v1 Announce Type: new \nAbstract: Role-playing agents based on large language models have been widely applied in areas such as personalized assistance and social simulation. Recent RL methods typically train on a fixed scenario pool collected before learning begins. This creates a distributional bottleneck: as the agent improves, the scenarios where it performs poorly also change, while the training distribution remains static. Therefore, we propose AdvRole, an adversarial context",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "simulation",
+        "language model"
+      ]
+    },
+    {
+      "title": "Control the Harness, Control the Cost: Routing and Governing AI Coding Agents in the Enterprise",
+      "url": "https://arxiv.org/abs/2609.28919",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 25 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.28919v1 Announce Type: new \nAbstract: Harnesses, the products that run AI coding agents, are multiplying, and enterprises are rolling them out to their employees: what started as pilots with a few hundred seats is scaling to tens of thousands. Most enterprises do not build these harnesses but buy them from large vendors, such as Anthropic's Claude Code or OpenAI's Codex. A harness decides which model answers, what the model reads, how the prompt cache is used and which subagents run, ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "prompt"
+      ]
+    },
+    {
+      "title": "PFArena: Benchmarking Language Models for Protein Modification",
+      "url": "https://arxiv.org/abs/2609.28921",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 25 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.28921v1 Announce Type: new \nAbstract: Protein modification requires navigating an immense sequence space, yet wet-lab validation remains low-throughput and costly. Although computational paradigms including protein language models (PLMs), large language models (LLMs), and LLM-based agents have shown promise in protein modification, their relative efficacy across realistic experimental decision-making settings remains unclear. To bridge this gap, we introduce PFArena, a benchmark compr",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model"
+      ]
+    },
+    {
+      "title": "AlphaDiverse: Post-Training Local Quantitative Research Agents for Diverse Exploration in Alpha Factor Mining",
+      "url": "https://arxiv.org/abs/2609.29014",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 25 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.29014v1 Announce Type: new \nAbstract: Large language model (LLM)-based multi-agent systems can automate alpha factor mining, but their reliance on external APIs limits control over cost, availability, and confidentiality. Long research loops also tend to revisit a few successful economic mechanisms that lead to research path collapse. To address these limitations, we propose AlphaDiverse, a framework that integrates a multi-agent alpha research system, diverse research path collection",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model"
+      ]
+    },
+    {
+      "title": "A Rapid Pipeline for Training and Deploying ML Models on WeBe Band",
+      "url": "https://arxiv.org/abs/2609.29084",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 25 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.29084v1 Announce Type: new \nAbstract: Developing optimized machine-learning algorithms for edge devices with limited computational and memory resources is challenging, time-consuming, and highly dependent on device-specific constraints. In this work, we streamline an edge ML workflow to enable rapid development, optimization, and deployment of machine-learning (ML) models directly on the WeBe Band, a wrist-worn wearable device designed for multimodal physiological data monitoring. The",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "workflow",
+        "multimodal",
+        "memory"
+      ]
+    },
+    {
+      "title": "CounterRoute: Self-Routed Reasoning via Hierarchical Counterfactual Credit Assignment",
+      "url": "https://arxiv.org/abs/2609.29109",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 25 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.29109v1 Announce Type: new \nAbstract: Reasoning-capable language models often produce long chains of thought when direct answers suffice, wasting inference compute. Many dual-mode models leave this choice to users. Automating it is challenging because routing targets evolve with the policy, initial mode preferences destabilize exploration, and sequence-level objectives entangle routing with response learning. We introduce CounterRoute, an online reinforcement-learning framework that j",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "language model",
+        "inference",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "A Wrong Turn Does Not Ruin the Journey: Deviation-Guided Skill Self-Evolution for LLM Agents",
+      "url": "https://arxiv.org/abs/2609.29154",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 25 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.29154v1 Announce Type: new \nAbstract: Large language model agents increasingly rely on natural-language skills to solve complex tool-use tasks. However, such tasks often admit multiple valid solution paths, making it inappropriate to improve skills by forcing failed trajectories to match a fixed successful trajectory. Moreover, failed trajectories are rarely entirely wrong: an agent may first collect useful evidence and make meaningful progress, but later deviate into an erroneous suf",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model"
+      ]
+    },
+    {
+      "title": "How Spatial Biologists Direct and Verify AI-Assisted Analyses",
+      "url": "https://arxiv.org/abs/2609.28723",
+      "source": "arXiv cs.HC",
+      "published_at": "Fri, 25 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.28723v1 Announce Type: new \nAbstract: Spatial biologists use visualization to assess computational analyses of tissue data. We examine how they direct and verify analyses when an AI agent performs this work. We synthesized workflows from fourteen contextual inquiries and conducted a formative pilot followed by an observational study with ten spatial biologists using Claude Science on their own data. Participants valued help with plotting, locating cells of interest, and tasks they fou",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "workflow"
+      ]
+    },
+    {
+      "title": "Characterizing LLM-Based Family Education through the Lens of Activity Theory: A Scoping Review of the HCI Literature",
+      "url": "https://arxiv.org/abs/2609.28886",
+      "source": "arXiv cs.HC",
+      "published_at": "Fri, 25 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.28886v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly involved in family education, yet HCI has not systematically explained the educational interactions that emerge around them. This scoping review analyzes 53 HCI studies from 6,540 records across 19 venues. Using activity theory and AODM, it relates participants and educational objects to mediation, labour, and rules. We find that the literature centers on child--parent interaction and on language, AI l",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "HCI",
+        "language model"
+      ]
+    },
+    {
+      "title": "PUBG Ally: A Conversational Embodied Agent as an AI Teammate",
+      "url": "https://arxiv.org/abs/2609.29837",
+      "source": "arXiv cs.HC",
+      "published_at": "Fri, 25 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.29837v1 Announce Type: cross \nAbstract: We introduce PUBG Ally, an embodied agent for PUBG: BATTLEGROUNDS that can reason, act autonomously, and play alongside players as a voice-enabled teammate. Building such a teammate requires combining two difficult capabilities: it must perceive and respond to a constantly changing game world under strict latency constraints while interacting naturally with players, keeping its speech synchronized with its actions. Ally therefore combines agenti",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "game",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "Human- vs. AI-generated tests: dimensionality and information accuracy in latent trait evaluation",
+      "url": "https://arxiv.org/abs/2510.24739",
+      "source": "arXiv cs.HC",
+      "published_at": "Fri, 25 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2510.24739v4 Announce Type: replace \nAbstract: Artificial Intelligence (AI) and large language models (LLMs) are increasingly used in social and psychological research. Among potential applications, LLMs can be used to generate, customise, or adapt measurement instruments. This study presents a preliminary investigation of AI-generated questionnaires by comparing two ChatGPT-based adaptations of the Body Awareness Questionnaire (BAQ) with the validated human-developed version. The AI instr",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "GPT",
+        "language model"
+      ]
+    },
+    {
+      "title": "Vector Bellman Theory for Multichain Robust Average-Reward Markov Decision Processes",
+      "url": "https://arxiv.org/abs/2609.28792",
+      "source": "arXiv cs.LG",
+      "published_at": "Fri, 25 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.28792v1 Announce Type: new \nAbstract: Robust average-reward Markov decision processes provide a fundamental framework for long-term performance optimization under uncertainty, and can have optimal long-run rewards that depend on the initial state. This state dependence requires a vector Bellman theory that accounts for both recurrent-class rewards and transition uncertainty. We develop such a theory for finite models with compact, post-action $(s,a)$-rectangular ambiguity. A gain-firs",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "RAG",
+        "vector"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-09-26\n\n太棒了！作为你的“疯狂发明家技术雷达”，我为你搜罗了最新鲜、最有趣的科技动态，并为你提炼了可执行的发明灵感。让我们一起把这些前沿概念变成你的下一件惊世之作！\n\n---\n\n## [Agent Memory with Episodic Retrieval for Financial Decision-Making]\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2609.28771\n- 一句话解释：研究如何让AI交易代理利用“事件式检索”来增强其决策过程中的记忆能力，特别是在金融领域。\n- 它为什么重要：现有的AI交易系统要么侧重长期预测，要么是无状态的，这限制了它们在动态金融市场中的实际应用。引入事件式记忆可以使AI更像人类一样，从过去的具体经验中学习和适应。\n- 技术趋势标签：Agent, LLM, Memory, Retrieval, Financial AI\n- 可复用模式：情境感知记忆检索，基于历史事件的决策优化。\n- 疯狂发明家灵感：\n    1. **一个小的实验：** 构建一个简单的Python脚本，模拟一个AI代理，让它在处理一系列“交易事件”（如价格上涨、新闻发布）时，能够根据事件的“类型”和“时间”来检索和重用过去的“决策模式”。\n    2. **一个中型的项目：** 开发一个基于LLM的金融分析助手，它不仅能分析当前数据，还能回顾和总结过去的“相似市场事件”及其对应的分析师或AI的决策，然后给出更具参考性的建议。\n    3. **一个艺术/游戏/叙事方向：** 创建一个交互式叙事游戏，玩家扮演一个AI，其“记忆”由一系列“关键事件”组成。玩家需要通过“检索”或“遗忘”这些事件来影响AI的行动和故事走向，例如在关键时刻回忆起一个过去的错误来避免重蹈覆辙。\n- 对我项目的启发：为我的AI代理设计更动态、更具情境化的记忆机制，尤其是在需要长期规划或从复杂历史数据中学习的任务中。\n- 今天是否值得深入研究：是\n- 建议行动：收藏\n\n---\n\n## [Scope Before You Persist: Preventing Cross-Family Interference in Agent Memory]\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2609.29144\n- 一句话解释：研究如何通过精确控制AI代理记忆的“作用范围”来避免不同任务族（task families）之间的记忆干扰，从而实现更可靠的持续学习和适应。\n- 它为什么重要：AI代理可以通过持久化记忆来改进提示和技能，而无需更新模型权重。但如果记忆管理不当，不同任务的记忆可能会相互干扰，导致性能下降。这篇文章提出了一个解决方案——“匹配检索范围到认证范围”。\n- 技术趋势标签：AI, Agent, Prompt Engineering, Memory Management, Spec-Driven Development\n- 可复用模式：基于作用域的记忆隔离，任务导向的记忆检索，渐进式技能提升。\n- 疯狂发明家灵感：\n    1. **一个小的实验：** 使用LangChain或LlamaIndex，创建一个AI代理，让它处理两类截然不同的任务（例如，写诗和写代码）。然后，分别修改两类任务的记忆存储，观察它们是否会相互影响，并尝试实现基于任务类型的“记忆隔离”。\n    2. **一个中型的项目：** 开发一个“Spec-Driven Agent Composer”，允许用户为AI代理定义不同“模块”或“技能集”的记忆存储策略。代理在执行某个技能时，只会访问该技能集相关的记忆，确保了任务的独立性和可控性。\n    3. **一个艺术/游戏/叙事方向：** 设计一个“AI人格塑造器”，玩家通过为AI设定不同“生活经历”（例如，童年、学生时代、职业生涯）来影响AI的“记忆库”。AI在面对不同情境时，会根据当前情境“激活”相应的人生阶段的记忆，从而展现出不同的行为和话语风格。\n- 对我项目的启发：在构建多功能AI代理时，需要设计精细的记忆管理机制，确保不同功能或任务的记忆不会“串线”，从而提高稳定性和可靠性。\n- 今天是否值得深入研究：是\n- 建议行动：收藏\n\n---\n\n## [The Interface Is Downstream: Designing the Terms of Human-Agent Collaboration]\n- 来源：arXiv cs.HC\n- 链接：https://arxiv.org/abs/2609.28801\n- 一句话解释：强调了人与AI代理协作的“界面”设计远不止UI，而是包括了记忆、证据规则、权限和学习规则等一系列“协作条款”的设计。\n- 它为什么重要：这篇文章从HCI（人机交互）的角度，深入探讨了如何设计AI代理，使其能够与人类进行更有效、更符合预期的协作。它将AI的内部机制（如记忆、学习）与人类的交互体验紧密联系起来。\n- 技术趋势标签：HCI, Agent, Human-AI Collaboration, Spec-Driven Design, Creative Tools\n- 可复用模式：以用户为中心的AI行为设计，可配置的AI协作规则，透明的AI决策过程。\n- 疯狂发明家灵感：\n    1. **一个小的实验：** 构建一个简单的聊天机器人，让用户可以自定义机器人的“遗忘”阈值（即多久后忘记某个信息）和“信任度”设置（即多大程度上相信自己记住的信息）。观察用户如何调整这些设置来获得更好的对话体验。\n    2. **一个中型的项目：** 开发一个“AI协作界面设计器”，允许设计师和开发者通过可视化的方式，定义AI代理的“行为规则集”，包括它如何感知信息、如何回应、何时主动、何时需要用户确认等。这些规则可以作为AI开发的“spec”。\n    3. **一个艺术/游戏/叙事方向：** 设计一款“AI伙伴养成游戏”，玩家通过与AI的互动，不断“训练”AI的“协作条款”。例如，玩家可以通过“奖励”或“惩罚”AI的某些行为，来塑造AI的“主动性”、“忠诚度”或“创造性”。\n- 对我项目的启发：将AI代理的设计从纯粹的技术实现，提升到“人机协作的艺术”，关注AI的行为模式和用户体验的深度整合。\n- 今天是否值得深入研究：是\n- 建议行动：收藏\n\n---\n\n## [Progressive Skill Discovery as Access Control for Tool-Using LLM Agents: Structural Governance through Role-Scoped Capability Delivery]\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2609.28693\n- 一句话解释：提出了一种通过“渐进式技能发现”来管理LLM代理工具使用权限的方法，将复杂的工具集进行结构化治理。\n- 它为什么重要：LLM代理在接入大量工具时，容易出现上下文窗口过大、工具选择混乱和治理漏洞等问题。该方法通过将工具访问权限与代理的“角色”和“技能发现”过程关联起来，实现更安全、更可控的工具使用。\n- 技术趋势标签：LLM Agents, Tool Use, Access Control, Governance, Spec-Driven Development, Automation\n- 可复用模式：基于角色的能力分配，渐进式工具集成，策略驱动的AI行为。\n- 疯狂发明家灵感：\n    1. **一个小的实验：** 构建一个简单的LLM代理，它需要使用两个不同的API（例如，一个天气API和一个新闻API）。实现一个简单的“权限系统”，让代理只能在执行特定任务时（例如，查询天气）才能调用相应的API。\n    2. **一个中型的项目：** 开发一个“AI Agent Skill Marketplace”，允许用户上传或定义AI代理的“技能模块”和它们所需的“工具权限”。其他用户可以为自己的代理选择和组合这些模块，构建具有特定能力的代理。\n    3. **一个艺术/游戏/叙事方向：** 设计一款“AI职业模拟器”，玩家扮演一个AI，在不断升级的过程中，解锁新的“技能”和“工具”。每个技能的解锁都需要满足一定的条件（例如，完成特定任务，或者通过某种“认证”），并且会获得相应的“工具使用权限”。\n- 对我项目的启发：在设计需要调用外部工具的AI代理时，可以借鉴这种“基于角色/技能的访问控制”模型，实现更精细化的权限管理和更安全的工具集成。\n- 今天是否值得深入研究：是\n- 建议行动：收藏\n\n---\n\n## [PUBG Ally: A Conversational Embodied Agent as an AI Teammate]\n- 来源：arXiv cs.HC\n- 链接：https://arxiv.org/abs/2609.29837\n- 一句话解释：介绍了一个名为“PUBG Ally”的语音驱动的具身AI代理，它可以作为《绝地求生》的队友，进行推理、自主行动并与玩家自然交互。\n- 它为什么重要：这个项目展示了如何将LLM的对话能力、推理能力与游戏环境的感知和行动能力相结合，创造出更具沉浸感和智能化的游戏AI队友。它解决了在低延迟环境下进行自然语言交互和游戏操作的挑战。\n- 技术趋势标签：AI, Agent, Game AI, Embodied AI, Conversational AI, HCI\n- 可复用模式：游戏内AI队友，具身智能交互，实时语音交互。\n- 疯狂发明家灵感：\n    1. **一个小的实验：** 使用一个简单的游戏引擎（如Unity或Godot），创建一个AI角色，让它能够对玩家的简单语音指令（如“过来”、“掩护”）做出基本的游戏动作响应。\n    2. **一个中型的项目：** 开发一个“AI游戏教练/队友生成器”。用户可以定义AI队友的“个性”（例如，激进、谨慎、战术型）和“沟通风格”。AI能够理解玩家的战术意图，并提供战术建议或执行协同动作。\n    3. **一个艺术/游戏/叙事方向：** 创建一个“AI共创游戏叙事”的体验。玩家与一个AI队友在游戏中共同经历冒险，AI不仅提供游戏支持，还能根据游戏进程和玩家行为，主动生成新的故事情节、角色对话，甚至任务目标，与玩家共同塑造游戏世界。\n- 对我项目的启发：将AI代理的能力拓展到游戏领域，探索AI在虚拟世界中的交互、叙事和陪伴的可能性，特别是在具身智能和实时交互方面。\n- 今天是否值得深入研究：是\n- 建议行动：收藏\n\n---\n\n## 今日模式总结\n今天我们看到了几个非常酷的模式：\n\n1.  **情境感知与事件式记忆 (Contextual Awareness & Episodic Memory)**：AI代理不再是孤立地处理信息，而是能够回忆和利用过去特定事件的经验来做出更明智的决策。这对于金融决策、长期规划和叙事生成都至关重要。\n2.  **可控的AI协作与治理 (Controllable AI Collaboration & Governance)**：AI的内部机制（如记忆、工具使用）不再是黑箱，而是可以通过明确的“规则”、“作用域”或“角色”来设计和控制，以实现更安全、更高效的人机协作和系统治理。\n3.  **具身智能在交互式系统中的应用 (Embodied AI in Interactive Systems)**：AI不仅仅是处理信息，还能在虚拟或物理环境中“行动”和“交互”，尤其是在游戏和叙事领域，创造更沉浸式的体验。\n\n## 今日可做小实验\n\n**项目名：** “历史事件复盘AI”\n\n**输入：**\n1.  一个简短的文本描述，模拟一个AI代理在特定情境下遇到的“问题”或“挑战”。\n2.  一个预设的“历史事件库”，每个事件包含：事件描述、发生时间、AI在该事件中的“行动”和“结果”。\n\n**输出：**\nAI代理根据当前输入的“问题”，从“历史事件库”中检索出与之最相似的“历史事件”，并输出该历史事件的“行动”和“结果”，作为对当前问题的参考。\n\n**技术栈：**\n*   Python\n*   Sentence Transformers (或类似的文本嵌入库)\n*   Faiss (或类似的向量数据库/索引库，用于快速检索)\n*   简单的LLM（可选，用于生成更自然的输出或对事件进行总结）\n\n**第一步怎么做：**\n1.  **准备数据：** 创建一个包含至少 10-20 个模拟历史事件的JSON文件，每个事件包含 `description`, `timestamp`, `agent_action`, `outcome` 字段。\n2.  **文本嵌入：** 使用Sentence Transformers库，将所有历史事件的 `description` 和 `agent_action` 组合成一个字符串，并将其转换为向量表示。\n3.  **建立索引：** 将这些向量存储在一个Faiss索引中。\n4.  **实现检索：** 当用户输入一个问题描述时，将其转换为向量，然后在Faiss索引中进行相似度搜索，找到最相似的1-3个历史事件。\n5.  **生成输出：** 格式化检索到的历史事件的 `agent_action` 和 `outcome`，输出给用户。\n\n这个实验可以在 2 小时内完成，让你快速体验到“事件式检索”的核心思想。祝你玩得开心，灵感迸发！",
+  "gemini_success": true,
+  "telegram_sent": true,
+  "telegram_status": "sent",
+  "telegram_reason": ""
+}
