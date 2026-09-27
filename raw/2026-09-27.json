@@ -1,0 +1,245 @@
+[
+  {
+    "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
+    "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+    "source": "Hacker News",
+    "published_at": "Sat, 26 Sep 2026 15:49:04 +0000",
+    "description": "We found an approach to get Jev-like properties from standard LLMs like GLM-5.3-Flash. The core idea is to craft the input prompt so that the first output token answers the question. This makes it possible to get a decision with a single forward pass. In the blog post, we describe the approach in detail for GLM-5.3-Flash and vLLM. We benchmark this setup against Jev and Laya. We find that our setup is on-par with Jev in terms of accuracy and speed and that it substantially outperforms Laya. Stil",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "prompt"
+    ]
+  },
+  {
+    "title": "vectorize-io / hindsight",
+    "url": "https://github.com/vectorize-io/hindsight",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Hindsight: Agent Memory That Learns [2,147 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "agent",
+      "vector",
+      "memory"
+    ]
+  },
+  {
+    "title": "NVIDIA / Model-Optimizer",
+    "url": "https://github.com/NVIDIA/Model-Optimizer",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed. [357 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "LLM",
+      "neural",
+      "inference"
+    ]
+  },
+  {
+    "title": "wshobson / agents",
+    "url": "https://github.com/wshobson/agents",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi [56 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "agent",
+      "Claude",
+      "Copilot"
+    ]
+  },
+  {
+    "title": "PostHog / posthog",
+    "url": "https://github.com/PostHog/posthog",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP. [22 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "developer tools"
+    ]
+  },
+  {
+    "title": "rohitg00 / agentmemory",
+    "url": "https://github.com/rohitg00/agentmemory",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks [41 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "memory"
+    ]
+  },
+  {
+    "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+    "url": "https://swarmtraces.org/",
+    "source": "Hacker News Best",
+    "published_at": "Fri, 25 Sep 2026 21:09:27 +0000",
+    "description": "Article URL: https://swarmtraces.org/ Comments URL: https://news.ycombinator.com/item?id=49849985 Points: 701 # Comments: 444",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "Show HN: Jev Plays Pokémon Red",
+    "url": "https://jev-pokemon.vercel.app/",
+    "source": "Hacker News Best",
+    "published_at": "Fri, 25 Sep 2026 14:28:07 +0000",
+    "description": "Hey HN! Wanted to share a fun project I've been hacking on. Given Jev can make decisions really fast (but not fast enough to play Doom yet sadly), I wanted to try and push it to play a more complex game than Tetris. So I went with Pokémon. I've spent endless hours playing this game as a child so building this was a ton of fun. I open sourced everything in case you want to hack on it yourself here: https://github.com/christianmat/jev-pokemon The game is being streamed live including the tokens an",
+    "score": 4.0,
+    "keywords_matched": [
+      "game",
+      "open source"
+    ]
+  },
+  {
+    "title": "harry0703 / MoneyPrinterTurbo",
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. [349 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "workflow"
+    ]
+  },
+  {
+    "title": "strands-agents / harness-sdk",
+    "url": "https://github.com/strands-agents/harness-sdk",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud. [43 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "MakazhanAlpamys / Soup",
+    "url": "https://github.com/MakazhanAlpamys/Soup",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. [74 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "LLM"
+    ]
+  },
+  {
+    "title": "paperclipai / paperclip",
+    "url": "https://github.com/paperclipai/paperclip",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "The open-source app everyone uses to manage agents at work [2,608 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "dream-num / univer",
+    "url": "https://github.com/dream-num/univer",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. [849 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "lightningpixel / modly",
+    "url": "https://github.com/lightningpixel/modly",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU [77 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Jakubantalik / Libraries.dev",
+    "url": "https://github.com/Jakubantalik/Libraries.dev",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "High-crafted UI libraries for AI agents: Border beam, Orbs, Metal, Gooey, Voice, Image, Avatar bots [72 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "vercel / ai",
+    "url": "https://github.com/vercel/ai",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents [19 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "zhaoxuya520 / reverse-skill",
+    "url": "https://github.com/zhaoxuya520/reverse-skill",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端 [361 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "Claude"
+    ]
+  },
+  {
+    "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+    "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+    "source": "Hacker News",
+    "published_at": "Sat, 26 Sep 2026 15:56:34 +0000",
+    "description": "Article URL: https://tangled.org/yanndegat.tngl.sh/drawgent Comments URL: https://news.ycombinator.com/item?id=49857729 Points: 107 # Comments: 32",
+    "score": 2.0,
+    "keywords_matched": [
+      "agent"
+    ]
+  },
+  {
+    "title": "How to keep enjoying programming in a world of LLMs",
+    "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+    "source": "Hacker News",
+    "published_at": "Sat, 26 Sep 2026 09:41:58 +0000",
+    "description": "Article URL: https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705 Comments URL: https://news.ycombinator.com/item?id=49854875 Points: 153 # Comments: 210",
+    "score": 2.0,
+    "keywords_matched": [
+      "LLM"
+    ]
+  },
+  {
+    "title": "Generate fonts where every LLM token is the same width",
+    "url": "https://ampdot.mesh.host/token-space-fonts.html",
+    "source": "Hacker News",
+    "published_at": "Sat, 26 Sep 2026 00:30:03 +0000",
+    "description": "Article URL: https://ampdot.mesh.host/token-space-fonts.html Comments URL: https://news.ycombinator.com/item?id=49851883 Points: 24 # Comments: 6",
+    "score": 2.0,
+    "keywords_matched": [
+      "LLM"
+    ]
+  }
+]
