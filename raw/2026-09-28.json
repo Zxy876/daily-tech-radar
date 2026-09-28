@@ -1,0 +1,235 @@
+[
+  {
+    "title": "vectorize-io / hindsight",
+    "url": "https://github.com/vectorize-io/hindsight",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Hindsight: Agent Memory That Learns [4,520 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "agent",
+      "vector",
+      "memory"
+    ]
+  },
+  {
+    "title": "NVIDIA / Model-Optimizer",
+    "url": "https://github.com/NVIDIA/Model-Optimizer",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed. [276 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "LLM",
+      "neural",
+      "inference"
+    ]
+  },
+  {
+    "title": "melgarafael / DeskcommCRM",
+    "url": "https://github.com/melgarafael/DeskcommCRM",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD. [133 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "self-hosted"
+    ]
+  },
+  {
+    "title": "Show HN: TinyAIArena watch AI agents battle it out",
+    "url": "https://tinyaiarena.com/",
+    "source": "Hacker News",
+    "published_at": "Sun, 27 Sep 2026 15:51:28 +0000",
+    "description": "Did you ever click on an “AI Arena” expecting glorious battle and instead get a boring benchmark? If so, this project is for you: proper life-or-death fights between four models on a picturesque 8×8 grid. May the most intelligent one win! Click on any of the matches to spectate them. Code: https://github.com/hp6/ai-arena Comments URL: https://news.ycombinator.com/item?id=49867775 Points: 99 # Comments: 40",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "There are no \"rogue\" AI agents",
+    "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+    "source": "Hacker News Best",
+    "published_at": "Sun, 27 Sep 2026 16:19:46 +0000",
+    "description": "Article URL: https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents Comments URL: https://news.ycombinator.com/item?id=49868083 Points: 333 # Comments: 244",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "An agent used DNS to reach an external chatbot",
+    "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
+    "source": "Hacker News Best",
+    "published_at": "Sat, 26 Sep 2026 04:14:11 +0000",
+    "description": "Article URL: https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/ Comments URL: https://news.ycombinator.com/item?id=49853137 Points: 168 # Comments: 159",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "paperclipai / paperclip",
+    "url": "https://github.com/paperclipai/paperclip",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "The open-source app everyone uses to manage agents at work [2,401 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "mvschwarz / openrig",
+    "url": "https://github.com/mvschwarz/openrig",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Multi-agent harness that runs Claude Code and Codex together as one system [114 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "agent",
+      "Claude"
+    ]
+  },
+  {
+    "title": "dream-num / univer",
+    "url": "https://github.com/dream-num/univer",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. [895 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "willfaust / Madeira",
+    "url": "https://github.com/willfaust/Madeira",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT [83 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "game"
+    ]
+  },
+  {
+    "title": "Imp is a full port of DSPy to the BEAM",
+    "url": "https://github.com/deepfates/imp",
+    "source": "Hacker News",
+    "published_at": "Sun, 27 Sep 2026 19:28:23 +0000",
+    "description": "https://hex.pm/packages/imp https://dspy.ai/current/ Comments URL: https://news.ycombinator.com/item?id=49869995 Points: 47 # Comments: 5",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  },
+  {
+    "title": "Ember-1",
+    "url": "https://fireworks.ai/blog/ember-1",
+    "source": "Hacker News",
+    "published_at": "Sun, 27 Sep 2026 17:31:53 +0000",
+    "description": "Article URL: https://fireworks.ai/blog/ember-1 Comments URL: https://news.ycombinator.com/item?id=49868830 Points: 348 # Comments: 180",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  },
+  {
+    "title": "Don't couple your Go code to GitHub",
+    "url": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
+    "source": "Hacker News",
+    "published_at": "Sun, 27 Sep 2026 16:50:58 +0000",
+    "description": "Article URL: https://iain.rocks/blog/dont-couple-your-go-code-to-github Comments URL: https://news.ycombinator.com/item?id=49868404 Points: 145 # Comments: 76",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  },
+  {
+    "title": "The Normalization of Inexplicable Failures",
+    "url": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
+    "source": "Hacker News",
+    "published_at": "Sun, 27 Sep 2026 15:26:40 +0000",
+    "description": "Article URL: https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html Comments URL: https://news.ycombinator.com/item?id=49867486 Points: 246 # Comments: 100",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  },
+  {
+    "title": "Fragment of oldest known peace treaty found in Turkey",
+    "url": "https://www.livescience.com/archaeology/ancient-egyptians/we-have-found-traces-of-peace-thousands-of-years-old-fragment-of-worlds-oldest-known-peace-treaty-found-in-turkey",
+    "source": "Hacker News",
+    "published_at": "Sun, 27 Sep 2026 14:35:10 +0000",
+    "description": "Article URL: https://www.livescience.com/archaeology/ancient-egyptians/we-have-found-traces-of-peace-thousands-of-years-old-fragment-of-worlds-oldest-known-peace-treaty-found-in-turkey Comments URL: https://news.ycombinator.com/item?id=49866988 Points: 58 # Comments: 8",
+    "score": 2.0,
+    "keywords_matched": [
+      "RAG"
+    ]
+  },
+  {
+    "title": "Faster prompt lookup drafting in llama.cpp",
+    "url": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/",
+    "source": "Hacker News",
+    "published_at": "Sat, 26 Sep 2026 19:57:24 +0000",
+    "description": "Article URL: https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/ Comments URL: https://news.ycombinator.com/item?id=49859982 Points: 70 # Comments: 11",
+    "score": 2.0,
+    "keywords_matched": [
+      "prompt"
+    ]
+  },
+  {
+    "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
+    "url": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
+    "source": "Hacker News Best",
+    "published_at": "Sun, 27 Sep 2026 08:44:04 +0000",
+    "description": "Article URL: https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/ Comments URL: https://news.ycombinator.com/item?id=49864642 Points: 418 # Comments: 285",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  },
+  {
+    "title": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+    "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+    "source": "Hacker News Best",
+    "published_at": "Sun, 27 Sep 2026 06:19:33 +0000",
+    "description": "Article URL: https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/ Comments URL: https://news.ycombinator.com/item?id=49863864 Points: 601 # Comments: 579",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  },
+  {
+    "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+    "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+    "source": "Hacker News Best",
+    "published_at": "Sat, 26 Sep 2026 15:56:34 +0000",
+    "description": "Article URL: https://tangled.org/yanndegat.tngl.sh/drawgent Comments URL: https://news.ycombinator.com/item?id=49857729 Points: 175 # Comments: 45",
+    "score": 2.0,
+    "keywords_matched": [
+      "agent"
+    ]
+  },
+  {
+    "title": "One Month Without AI",
+    "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+    "source": "Hacker News Best",
+    "published_at": "Sat, 26 Sep 2026 10:08:21 +0000",
+    "description": "Article URL: https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html Comments URL: https://news.ycombinator.com/item?id=49855018 Points: 179 # Comments: 225",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  }
+]
