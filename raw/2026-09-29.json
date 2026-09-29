@@ -1,0 +1,297 @@
+[
+  {
+    "title": "0x4m4 / hexstrike-ai",
+    "url": "https://github.com/0x4m4/hexstrike-ai",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities. [53 stars today]",
+    "score": 16.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "Claude",
+      "Copilot",
+      "automation",
+      "GPT",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "The Price of Thought: Does Test-Time Reasoning Pay in LLM Trading?",
+    "url": "https://arxiv.org/abs/2609.30705",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 28 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.30705v1 Announce Type: new \nAbstract: While inference-time reasoning in large language models (LLMs) promises better decision making, its higher computational cost may not yield better economic outcomes. Yet reasoning controls are rarely evaluated as economic interventions, where changes in model outputs must translate into better portfolios after trading costs. We conduct a controlled study of representative LLMs from the DeepSeek, GPT, and Gemini families. We vary reasoning effort w",
+    "score": 12.0,
+    "keywords_matched": [
+      "LLM",
+      "Gemini",
+      "GPT",
+      "language model",
+      "inference",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "alsk1992 / CloddsBot",
+    "url": "https://github.com/alsk1992/CloddsBot",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude. [5 stars today]",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "open source",
+      "autonomous",
+      "self-hosted"
+    ]
+  },
+  {
+    "title": "BioEVAL: A global, multi-institutional benchmark of large language and multimodal models for bioengineering",
+    "url": "https://arxiv.org/abs/2609.30489",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 28 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.30489v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have demonstrated historic breakthroughs in general reasoning with early successes in biomedical science. However, existing LLM benchmarking emphasizes factual recall, offering limited insight into model performance on frontier and multimodal tasks. We assembled BioEVAL (BioEngineering Validation of AI and LLMs), a global, multi-institutional initiative designed to assess experimental reasoning capability across bioeng",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "multimodal",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "T-RoPE: Time-Aware Rotary Position Embedding for Sequential Recommendation",
+    "url": "https://arxiv.org/abs/2609.30576",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 28 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.30576v1 Announce Type: new \nAbstract: Large-scale recommenders increasingly adopt the sequential generative recipe behind large language models, bringing the Transformer into recommendation along with design choices made for text, including Rotary Position Embedding (RoPE). In language models, RoPE encodes token indices for relative position reasoning, but in recommendation, an interaction index records only event order, saying nothing about elapsed time, behavioral cycles across scal",
+    "score": 10.0,
+    "keywords_matched": [
+      "transformer",
+      "language model",
+      "embedding",
+      "reasoning",
+      "generative"
+    ]
+  },
+  {
+    "title": "HasMem: Hard-Origin Adaptively Softened Memory for Long-Term LLM Agents",
+    "url": "https://arxiv.org/abs/2609.30797",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 28 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.30797v1 Announce Type: new \nAbstract: Text-based memory and context compression support reuse of past interactions. Resizing continuous memory changes the input to a frozen LLM, coupling capacity allocation with readout. We propose Hard-Origin Adaptively Softened Memory (HasMem). Frozen hard-prompt embeddings provide a verifiable initial state. A controller adjusts memory widths, a Writer re-encodes resized entries, and Reader and Global provide readout adaptation and cross-turn state",
+    "score": 10.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "embedding",
+      "prompt",
+      "memory"
+    ]
+  },
+  {
+    "title": "PTC-Decoder: Towards Intelligent SLMs on Offline Resource-Constrained Edge Devices",
+    "url": "https://arxiv.org/abs/2609.30836",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 28 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.30836v1 Announce Type: new \nAbstract: Deploying small language models (SLMs) on offline, resource-constrained edge devices such as remote sensing satellites presents a fundamental challenge: their limited reasoning capacity hinders reliable execution of multi-step agent tasks requiring complex tool orchestration. Existing plan-solve paradigms rely on prompt-based enforcement, which our experiments show SLMs almost entirely disregard: weak models fail to invoke the plan. We propose PTC",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "language model",
+      "prompt",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Small Is Enough: Per-User Style Rewriting of AI-Edited Text via LoRA Adapters",
+    "url": "https://arxiv.org/abs/2607.29238",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 28 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2607.29238v2 Announce Type: replace-cross \nAbstract: InMyStyle is a privacy-first, single-user system that adapts small language models to rewrite AI-edited text towards an individual user's writing style without an instruction prompt at inference. Given a user's documents, it uses multiple local helper LLMs to construct paired training examples and fine-tunes LoRA adapters on Qwen2.5 models ranging from 0.5B to 7B parameters. Length-aware generation budgets and automatic chunking support ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "inference",
+      "prompt"
+    ]
+  },
+  {
+    "title": "LLM Parkinsonism: Executive-Control Failure, Token-Inefficient Persistence, and an Uncertainty-Aware Global Executive Control Architecture for Autonomous Language-Model Agents",
+    "url": "https://arxiv.org/abs/2609.30662",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 28 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.30662v1 Announce Type: new \nAbstract: Large language models (LLMs) can plan, use tools, write code, and execute long-horizon workflows, yet strong local competence does not guarantee project-level executive control. Agents may continue acting after the original objective is satisfied, producing low-value refinements, repeated verification, and repairs to self-created complexity. We use LLM Parkinsonism as a narrowly defined, non-clinical metaphor for this pattern of persistent action ",
+    "score": 9.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "language model",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "When Is a Multi-Agent Code Judge Actually Grounded? Two Label-Free Measurements, and a Judge That Declines to Guess",
+    "url": "https://arxiv.org/abs/2609.30328",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 28 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.30328v1 Announce Type: new \nAbstract: When one language model judges whether another's code is correct, it does not report the absence of evidence. It returns a confident verdict with reasoning attached, indistinguishable from a verdict it had grounds for. Multi-agent verification, which decomposes a judgment into checkable claims and verifies each against evidence, is a promising response and works well when the evidence is a set of retrieved documents.\n  We argue such methods requir",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Bridging LLM Agents and Data Spaces: An Architectural Mediation Approach using the Model Context Protocol",
+    "url": "https://arxiv.org/abs/2609.30341",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 28 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.30341v1 Announce Type: new \nAbstract: Data Spaces enable sovereign and governed data sharing across organizational boundaries, but their integration with AI agents remains challenging due to mismatches between probabilistic language model interactions and policy-driven data infrastructures. This article presents an architectural mediation approach based on the Model Context Protocol (MCP), implemented through the Eunomia Agent, to enable controlled interaction between large language m",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model"
+    ]
+  },
+  {
+    "title": "Thinking Less to Simulate Better: Intuitive Prompting Improves LLM Agents Simulating Individual Social Media Reactions, Including Unfamiliar Content",
+    "url": "https://arxiv.org/abs/2609.30563",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 28 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.30563v1 Announce Type: new \nAbstract: Platform policies are increasingly tested on artificial users, making agent fidelity important. Yet convincing fake profiles could also manipulate perceived public opinion before elections. Validation has concentrated on agreement with human behaviour and has paid little attention to whether an agent behaves in line with the profile it was given. The present study profiled eight Serbian participants through a questionnaire, a deep interview, and a",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Analyzing and Mitigating Cost-Inefficient Behaviors in Coding Agents",
+    "url": "https://arxiv.org/abs/2609.30725",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 28 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.30725v1 Announce Type: new \nAbstract: Although effective, coding agents often incur substantial monetary costs. Their recurring cost-inefficient behaviors remain underexplored. We conduct the first study of behavioral cost inefficiencies in coding agents, analyzing 1,200 trajectories from Claude Code and Mini-SWE-Agent across four configurations on SWE-bench Verified. We identify three cost-inefficient behaviors: subsumed retrieval, similar script generation, and test re-execution. We",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Learning What to Skip: Counterfactual Credit Assignment for Efficient Multi-Agent LLM Workflows",
+    "url": "https://arxiv.org/abs/2609.30734",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 28 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.30734v1 Announce Type: new \nAbstract: Multi-agent LLM workflows use planning, execution, verification, and summarization to improve task performance, yet the value of each component depends on the state already produced. Executing every component can waste computation or overwrite a correct intermediate answer. We formulate component omission as counterfactual credit assignment: full-workflow logs reveal the executed trajectory's reward, while controlled skip interventions reveal the ",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "workflow",
+      "planning"
+    ]
+  },
+  {
+    "title": "ORCA: Evaluating LLMs on Data Science Code Translation",
+    "url": "https://arxiv.org/abs/2609.30749",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 28 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.30749v1 Announce Type: new \nAbstract: Data Science Code Translation (DSCT) is the process of converting code between data science libraries while preserving functional equivalence and enabling interoperability across data science ecosystems. While Large Language Models (LLMs) have demonstrated considerable progress in Data Science Code Generation (DSCG), their performance in DSCT remains insufficiently studied. To address this gap, we introduce ORCA, a comprehensive benchmark with two",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "code generation"
+    ]
+  },
+  {
+    "title": "Why Jailbreaks Succeed in Diffusion Language Models: An Energy Landscape Analysis",
+    "url": "https://arxiv.org/abs/2609.30841",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 28 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.30841v1 Announce Type: new \nAbstract: Existing attacks and defenses for diffusion-based large language models (dLLMs) target specific vulnerabilities but lack a shared framework explaining why attacks succeed. We propose one by interpreting safety alignment as shaping the denoising energy landscape: a well-aligned model routes harmful queries toward safe outputs through an energy barrier that separates the two regions. Current jailbreak attacks reduce to two strategies for circumventi",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "diffusion",
+      "language model"
+    ]
+  },
+  {
+    "title": "Orchestrating GenAI for Interdisciplinary Research",
+    "url": "https://arxiv.org/abs/2609.30588",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 28 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.30588v1 Announce Type: new \nAbstract: As researchers tackle interdisciplinary problems, they face the need to deepen expertise in primary areas while rapidly acquiring knowledge in secondary domains. Generative AI (GenAI) is increasingly positioned to meet this need, from general-purpose chat assistants to Deep Research tools marketed as autonomous research agents. Prior work has examined how researchers use GenAI to support single-discipline or general research tasks. However, we kno",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "autonomous",
+      "generative"
+    ]
+  },
+  {
+    "title": "BuildOcc: A Large Language Model Occupant Agent Platform for Building Energy Research",
+    "url": "https://arxiv.org/abs/2609.02729",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 28 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.02729v2 Announce Type: replace \nAbstract: Occupants are a primary source of uncertainty in building energy consumption and management, yet existing occupant behavior models cannot capture adaptive and reasoning responses considering the occupant's personal history, current context, and the type of energy signal being delivered. This study presents BuildOcc, an open-source Python platform that grounds large language model agents in the American Time Use Survey (ATUS), a nationally repr",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "PUBG Ally: A Conversational Embodied Agent as an AI Teammate",
+    "url": "https://arxiv.org/abs/2609.29837",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 28 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.29837v2 Announce Type: replace-cross \nAbstract: We introduce PUBG Ally, an embodied agent for PUBG: BATTLEGROUNDS that can reason, act autonomously, and play alongside players as a voice-enabled teammate. Building such a teammate requires combining two difficult capabilities: it must perceive and respond to a constantly changing game world under strict latency constraints while interacting naturally with players, keeping its speech synchronized with its actions. Ally therefore combine",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "game",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "HelpCode-ai / anythingmcp",
+    "url": "https://github.com/HelpCode-ai/anythingmcp",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Turn any REST, SOAP, GraphQL, OData or SQL API into MCP tools for Claude & ChatGPT. Self-hosted. 265 connectors: SAP S/4HANA & Business One, ERP, e-commerce. [81 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "Claude",
+      "GPT",
+      "self-hosted"
+    ]
+  }
+]

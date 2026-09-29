@@ -1,0 +1,305 @@
+{
+  "date": "2026-09-29",
+  "candidates": [
+    {
+      "title": "0x4m4 / hexstrike-ai",
+      "url": "https://github.com/0x4m4/hexstrike-ai",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities. [53 stars today]",
+      "score": 16.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "Claude",
+        "Copilot",
+        "automation",
+        "GPT",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "The Price of Thought: Does Test-Time Reasoning Pay in LLM Trading?",
+      "url": "https://arxiv.org/abs/2609.30705",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.30705v1 Announce Type: new \nAbstract: While inference-time reasoning in large language models (LLMs) promises better decision making, its higher computational cost may not yield better economic outcomes. Yet reasoning controls are rarely evaluated as economic interventions, where changes in model outputs must translate into better portfolios after trading costs. We conduct a controlled study of representative LLMs from the DeepSeek, GPT, and Gemini families. We vary reasoning effort w",
+      "score": 12.0,
+      "keywords_matched": [
+        "LLM",
+        "Gemini",
+        "GPT",
+        "language model",
+        "inference",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "alsk1992 / CloddsBot",
+      "url": "https://github.com/alsk1992/CloddsBot",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude. [5 stars today]",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "open source",
+        "autonomous",
+        "self-hosted"
+      ]
+    },
+    {
+      "title": "BioEVAL: A global, multi-institutional benchmark of large language and multimodal models for bioengineering",
+      "url": "https://arxiv.org/abs/2609.30489",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.30489v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have demonstrated historic breakthroughs in general reasoning with early successes in biomedical science. However, existing LLM benchmarking emphasizes factual recall, offering limited insight into model performance on frontier and multimodal tasks. We assembled BioEVAL (BioEngineering Validation of AI and LLMs), a global, multi-institutional initiative designed to assess experimental reasoning capability across bioeng",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "multimodal",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "T-RoPE: Time-Aware Rotary Position Embedding for Sequential Recommendation",
+      "url": "https://arxiv.org/abs/2609.30576",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.30576v1 Announce Type: new \nAbstract: Large-scale recommenders increasingly adopt the sequential generative recipe behind large language models, bringing the Transformer into recommendation along with design choices made for text, including Rotary Position Embedding (RoPE). In language models, RoPE encodes token indices for relative position reasoning, but in recommendation, an interaction index records only event order, saying nothing about elapsed time, behavioral cycles across scal",
+      "score": 10.0,
+      "keywords_matched": [
+        "transformer",
+        "language model",
+        "embedding",
+        "reasoning",
+        "generative"
+      ]
+    },
+    {
+      "title": "HasMem: Hard-Origin Adaptively Softened Memory for Long-Term LLM Agents",
+      "url": "https://arxiv.org/abs/2609.30797",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.30797v1 Announce Type: new \nAbstract: Text-based memory and context compression support reuse of past interactions. Resizing continuous memory changes the input to a frozen LLM, coupling capacity allocation with readout. We propose Hard-Origin Adaptively Softened Memory (HasMem). Frozen hard-prompt embeddings provide a verifiable initial state. A controller adjusts memory widths, a Writer re-encodes resized entries, and Reader and Global provide readout adaptation and cross-turn state",
+      "score": 10.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "embedding",
+        "prompt",
+        "memory"
+      ]
+    },
+    {
+      "title": "PTC-Decoder: Towards Intelligent SLMs on Offline Resource-Constrained Edge Devices",
+      "url": "https://arxiv.org/abs/2609.30836",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.30836v1 Announce Type: new \nAbstract: Deploying small language models (SLMs) on offline, resource-constrained edge devices such as remote sensing satellites presents a fundamental challenge: their limited reasoning capacity hinders reliable execution of multi-step agent tasks requiring complex tool orchestration. Existing plan-solve paradigms rely on prompt-based enforcement, which our experiments show SLMs almost entirely disregard: weak models fail to invoke the plan. We propose PTC",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "language model",
+        "prompt",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Small Is Enough: Per-User Style Rewriting of AI-Edited Text via LoRA Adapters",
+      "url": "https://arxiv.org/abs/2607.29238",
+      "source": "arXiv cs.HC",
+      "published_at": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2607.29238v2 Announce Type: replace-cross \nAbstract: InMyStyle is a privacy-first, single-user system that adapts small language models to rewrite AI-edited text towards an individual user's writing style without an instruction prompt at inference. Given a user's documents, it uses multiple local helper LLMs to construct paired training examples and fine-tunes LoRA adapters on Qwen2.5 models ranging from 0.5B to 7B parameters. Length-aware generation budgets and automatic chunking support ",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "inference",
+        "prompt"
+      ]
+    },
+    {
+      "title": "LLM Parkinsonism: Executive-Control Failure, Token-Inefficient Persistence, and an Uncertainty-Aware Global Executive Control Architecture for Autonomous Language-Model Agents",
+      "url": "https://arxiv.org/abs/2609.30662",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.30662v1 Announce Type: new \nAbstract: Large language models (LLMs) can plan, use tools, write code, and execute long-horizon workflows, yet strong local competence does not guarantee project-level executive control. Agents may continue acting after the original objective is satisfied, producing low-value refinements, repeated verification, and repairs to self-created complexity. We use LLM Parkinsonism as a narrowly defined, non-clinical metaphor for this pattern of persistent action ",
+      "score": 9.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "workflow",
+        "language model",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "When Is a Multi-Agent Code Judge Actually Grounded? Two Label-Free Measurements, and a Judge That Declines to Guess",
+      "url": "https://arxiv.org/abs/2609.30328",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.30328v1 Announce Type: new \nAbstract: When one language model judges whether another's code is correct, it does not report the absence of evidence. It returns a confident verdict with reasoning attached, indistinguishable from a verdict it had grounds for. Multi-agent verification, which decomposes a judgment into checkable claims and verifies each against evidence, is a promising response and works well when the evidence is a set of retrieved documents.\n  We argue such methods requir",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Bridging LLM Agents and Data Spaces: An Architectural Mediation Approach using the Model Context Protocol",
+      "url": "https://arxiv.org/abs/2609.30341",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.30341v1 Announce Type: new \nAbstract: Data Spaces enable sovereign and governed data sharing across organizational boundaries, but their integration with AI agents remains challenging due to mismatches between probabilistic language model interactions and policy-driven data infrastructures. This article presents an architectural mediation approach based on the Model Context Protocol (MCP), implemented through the Eunomia Agent, to enable controlled interaction between large language m",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model"
+      ]
+    },
+    {
+      "title": "Thinking Less to Simulate Better: Intuitive Prompting Improves LLM Agents Simulating Individual Social Media Reactions, Including Unfamiliar Content",
+      "url": "https://arxiv.org/abs/2609.30563",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.30563v1 Announce Type: new \nAbstract: Platform policies are increasingly tested on artificial users, making agent fidelity important. Yet convincing fake profiles could also manipulate perceived public opinion before elections. Validation has concentrated on agreement with human behaviour and has paid little attention to whether an agent behaves in line with the profile it was given. The present study profiled eight Serbian participants through a questionnaire, a deep interview, and a",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "prompt"
+      ]
+    },
+    {
+      "title": "Analyzing and Mitigating Cost-Inefficient Behaviors in Coding Agents",
+      "url": "https://arxiv.org/abs/2609.30725",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.30725v1 Announce Type: new \nAbstract: Although effective, coding agents often incur substantial monetary costs. Their recurring cost-inefficient behaviors remain underexplored. We conduct the first study of behavioral cost inefficiencies in coding agents, analyzing 1,200 trajectories from Claude Code and Mini-SWE-Agent across four configurations on SWE-bench Verified. We identify three cost-inefficient behaviors: subsumed retrieval, similar script generation, and test re-execution. We",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Learning What to Skip: Counterfactual Credit Assignment for Efficient Multi-Agent LLM Workflows",
+      "url": "https://arxiv.org/abs/2609.30734",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.30734v1 Announce Type: new \nAbstract: Multi-agent LLM workflows use planning, execution, verification, and summarization to improve task performance, yet the value of each component depends on the state already produced. Executing every component can waste computation or overwrite a correct intermediate answer. We formulate component omission as counterfactual credit assignment: full-workflow logs reveal the executed trajectory's reward, while controlled skip interventions reveal the ",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "workflow",
+        "planning"
+      ]
+    },
+    {
+      "title": "ORCA: Evaluating LLMs on Data Science Code Translation",
+      "url": "https://arxiv.org/abs/2609.30749",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.30749v1 Announce Type: new \nAbstract: Data Science Code Translation (DSCT) is the process of converting code between data science libraries while preserving functional equivalence and enabling interoperability across data science ecosystems. While Large Language Models (LLMs) have demonstrated considerable progress in Data Science Code Generation (DSCG), their performance in DSCT remains insufficiently studied. To address this gap, we introduce ORCA, a comprehensive benchmark with two",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "code generation"
+      ]
+    },
+    {
+      "title": "Why Jailbreaks Succeed in Diffusion Language Models: An Energy Landscape Analysis",
+      "url": "https://arxiv.org/abs/2609.30841",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.30841v1 Announce Type: new \nAbstract: Existing attacks and defenses for diffusion-based large language models (dLLMs) target specific vulnerabilities but lack a shared framework explaining why attacks succeed. We propose one by interpreting safety alignment as shaping the denoising energy landscape: a well-aligned model routes harmful queries toward safe outputs through an energy barrier that separates the two regions. Current jailbreak attacks reduce to two strategies for circumventi",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "diffusion",
+        "language model"
+      ]
+    },
+    {
+      "title": "Orchestrating GenAI for Interdisciplinary Research",
+      "url": "https://arxiv.org/abs/2609.30588",
+      "source": "arXiv cs.HC",
+      "published_at": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.30588v1 Announce Type: new \nAbstract: As researchers tackle interdisciplinary problems, they face the need to deepen expertise in primary areas while rapidly acquiring knowledge in secondary domains. Generative AI (GenAI) is increasingly positioned to meet this need, from general-purpose chat assistants to Deep Research tools marketed as autonomous research agents. Prior work has examined how researchers use GenAI to support single-discipline or general research tasks. However, we kno",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "autonomous",
+        "generative"
+      ]
+    },
+    {
+      "title": "BuildOcc: A Large Language Model Occupant Agent Platform for Building Energy Research",
+      "url": "https://arxiv.org/abs/2609.02729",
+      "source": "arXiv cs.HC",
+      "published_at": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.02729v2 Announce Type: replace \nAbstract: Occupants are a primary source of uncertainty in building energy consumption and management, yet existing occupant behavior models cannot capture adaptive and reasoning responses considering the occupant's personal history, current context, and the type of energy signal being delivered. This study presents BuildOcc, an open-source Python platform that grounds large language model agents in the American Time Use Survey (ATUS), a nationally repr",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "PUBG Ally: A Conversational Embodied Agent as an AI Teammate",
+      "url": "https://arxiv.org/abs/2609.29837",
+      "source": "arXiv cs.HC",
+      "published_at": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.29837v2 Announce Type: replace-cross \nAbstract: We introduce PUBG Ally, an embodied agent for PUBG: BATTLEGROUNDS that can reason, act autonomously, and play alongside players as a voice-enabled teammate. Building such a teammate requires combining two difficult capabilities: it must perceive and respond to a constantly changing game world under strict latency constraints while interacting naturally with players, keeping its speech synchronized with its actions. Ally therefore combine",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "game",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "HelpCode-ai / anythingmcp",
+      "url": "https://github.com/HelpCode-ai/anythingmcp",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Turn any REST, SOAP, GraphQL, OData or SQL API into MCP tools for Claude & ChatGPT. Self-hosted. 265 connectors: SAP S/4HANA & Business One, ERP, e-commerce. [81 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "Claude",
+        "GPT",
+        "self-hosted"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-09-29\n\n## 01. LLM 帕金森综合征：执行控制失效与自主 Agent 的“无谓死磕”\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2609.30662\n- **一句话解释**：论文揭露了当前自主 Agent 的通病——局部能力很强，但缺乏全局“踩刹车”能力，往往在任务已完成后依然陷入低价值微调、过度自省和自我制造复杂度。\n- **它为什么重要**：直击 Spec-Driven Development 和长流程 Agent 的阿喀琉斯之踵。我们常以为 Agent 失败是因为“不够聪明”，其实是因为“缺乏抑制机制（Inhibition）”。这项研究指出了 Agent 漂移（Drift）与无谓消耗 Token 的神经学表征根源。\n- **技术趋势标签**：#AgentDrift #ExecutiveControl #SpecDriven #StoppingProblem\n- **可复用模式**：**外部执行抑制器（Global Executive Inhibitor）** —— 不要让干活的 Agent 自己决定“是否完工”，而是在外部引入一个脱离当前上下文的低成本裁判，评估不确定性与目标覆盖率，一旦收益递减立即强行截断循环。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：写一个“防内卷 Proxy”，在 Agent 连续发出 3 次文件重构或代码清理请求时，强行介入并对比初始 Spec，若有效差异 < 5% 直接丢弃请求并强制退出。\n  2. **一个中型项目**：**Drift-Buster** —— 针对 Coding Agent 的“熵增熔断器”。实时监控代码行数与 Spec 约束的匹配比，一旦检测到 Agent 开始凭空抽象类、过度编写防御性代码，立即打回并回滚 Git。\n  3. **一个艺术/游戏/叙事方向**：“强迫症雕塑家”装置 —— 部署一个负责在 Minecraft 中雕刻塑像的 Agent，故意关闭抑制机制，让观众实时围观它如何把一座完美的维纳斯雕像，因为“不断修正瑕疵”而最终敲碎成一地废墟。\n- **对我项目的启发**：在设计基于 Spec 的自动化工具链时，必须加入“硬性反漂移阈值”和“反向检查点”，不能把停止条件写在 Prompt 结尾，而要作为系统层断路器。\n- **今天是否值得深入研究**：是\n- **建议行动**：收藏并精读其控制架构章节\n\n---\n\n## 02. PUBG Ally：高动态 3D 世界中的具身语音战术队友\n- **来源**：arXiv cs.HC\n- **链接**：https://arxiv.org/abs/2609.29837\n- **一句话解释**：Krafton 打造的 PUBG 游戏具身队友，能在严苛的毫秒级反应限制下感知 3D 战场动态，同时通过自然语音与人类玩家战术协同。\n- **它为什么重要**：游戏 AI 正在从“呆板规则 NPC”跨越到“具有战术感知与口语社交的具身 Agent”。它给出了在极快节奏对抗下，如何平衡“高频游戏状态反射”与“低频大模型推理”的工业级解法。\n- **技术趋势标签**：#EmbodiedAI #GameSystems #DualRateArchitecture #VoiceHCI\n- **可复用模式**：**快慢脑双环解耦（Dual-Rate Cognitive Loop）** —— 60Hz 的微观行动与避障交给轻量级行为树/状态机（快脑），秒级的宏观战术、情报推理与语音对话交给 LLM/VLM（慢脑），二者通过黑板状态共享。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：用 WebSocket 监听 Minecraft 玩家事件，LLM 作为只动口不动作的“毒舌战术解说”，通过本地 TTS 在玩家血量过低或挖到矿时进行实时语音吐槽。\n  2. **一个中型项目**：**Minecraft 伴侣魔改套件** —— 一个拥有视线记忆的生存伙伴，白天根据玩家语音指令砍树打怪（快脑），夜晚在营火旁与玩家讨论明日建筑蓝图并输出建造 Spec（慢脑）。\n  3. **一个艺术/游戏/叙事方向**：信任实验游戏《最后生还者与背叛者》—— 玩家与一个具身 AI 被困在虚拟迷宫，AI 既是你的作战护卫，又在秘密执行另一份撤离 Spec，玩家必须通过它的微表情、语音语气和战斗走位推测它是否打算出卖你。\n- **对我项目的启发**：对于沙盒/虚拟世界生成，别试图让单一大模型接管主循环，拆分“反射层”与“叙事/战略层”是唯一跑通实时体验的架构。\n- **今天是否值得深入研究**：是\n- **建议行动**：做demo\n\n---\n\n## 03. 少想一点反而更像人：直觉 Prompting 打造高拟真社交模拟\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2609.30563\n- **一句话解释**：研究证实强迫大模型做思维链（CoT）推理反而会摧毁角色的拟真度，而“直觉式、低延迟（Thinking Less）”的提示方式能让模拟角色的即时情感与非理性反应更像真实人类。\n- **它为什么重要**：打破了“推理链越长、输出质量越好”的技术迷信。在系统模拟、NPC 塑造、社会仿真等领域，人类的行为往往由 System 1（本能/直觉/冲动）主导。强行注入慢思考逻辑只会让角色充满“说教味”和“AI 味”。\n- **技术趋势标签**：#GenerativeAgents #AntiCoT #PersonaSimulation #HCI\n- **可复用模式**：**直觉退火约束（Intuitive Impulsive Prompting）** —— 剥离一切形式的“Step-by-Step”指引，引入首词锁定与 token 生成预算上限，强迫模型在低算力深度下输出即时本能反应。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：给同一个 NPC 角色输入一句辱骂，分别用“推理 CoT 模式”和“零延迟冲动模式”生成回复，观察哪种回答的性格张力和非理性特征更强。\n  2. **一个中型项目**：**Babel Social Engine** —— 一个基于纯直觉 Prompting 构建的小型虚拟社交平台，注入 100 个带有认知偏见和情绪冲动的微型 Agent，模拟非理性谣言在群体中的病毒式裂变。\n  3. **一个艺术/游戏/叙事方向**：“意识流醉酒 NPC” —— 在叙事游戏中，角色的“理智值（Sanity）”直接映射为模型的思维链深度：Sanity 高时逻辑缜密、冷酷无情；Sanity 降低时强行切断逻辑层，NPC 变成满嘴直觉隐喻、诗意胡话的疯狂占卜师。\n- **对我项目的启发**：做世界生成中的 NPC 叙事时，不要盲目加 Reasoning 模型；生成世界观背景用慢推理，但驱动活生生的角色对话必须用“快直觉”。\n- **今天是否值得深入研究**：是\n- **建议行动**：收藏并融入 NPC 提示词设计库\n\n---\n\n## 04. anythingmcp：把任意数字资产与 API 变成 Claude 的即插即用器官\n- **来源**：GitHub Trending TypeScript\n- **链接**：https://github.com/HelpCode-ai/anythingmcp\n- **一句话解释**：一个开源自托管服务，能将任何 REST、SOAP、GraphQL 甚至 SQL 查询瞬间封装成标准的 Model Context Protocol (MCP) 工具，让 Claude/GPT 随取随用。\n- **它为什么重要**：MCP 正在成为新一代 Agent 的 USB 接口标准。这个项目消除了“为每个老系统手写 JSON-Schema 工具包装”的繁琐搬砖劳动，将外部物理系统接入 LLM 的摩擦力降到了极限。\n- **技术趋势标签**：#MCP #ModelContextProtocol #CreativeTooling #Automation\n- **可复用模式**：**端点自动桥接（Endpoint-to-Tool Synthesizer）** —— 依赖统一的协议规范（MCP），将异构 API 元数据映射为自然语言驱动的 Function Call 接口，免除业务适配胶水代码。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：把本地 Blender 或 TouchDesigner 的内部 HTTP 控制端口丢给 anythingmcp，在 Claude Desktop 侧直接打字生成 3D 几何体或实时着色器。\n  2. **一个中型项目**：**Minecraft God-Mode Console** —— 用 anythingmcp 接入 Minecraft 服务器的 RCON 或 REST API，在 Claude 里直接输入自然语言，自动执行批量方块填充、天气控制与实体生成。\n  3. **一个艺术/游戏/叙事方向**：赛博通灵机（Urban Necromancer） —— 将城市开放 API（实时交通拥堵、水文数据、气象站、空气质量）全部转为 MCP，让一个居住在终端里的虚拟“城市地灵”，实时依据真实物理世界的生理指标进行末日预言。\n- **对我项目的启发**：它是实现“Agent 操纵万物”的超强脚手架，能把精力从手写 API 包装代码中解放出来，专注于上层交互设计。\n- **今天是否值得深入研究**：是\n- **建议行动**：做demo（本地跑起来连一个自己的创意工具）\n\n---\n\n## 今日模式总结\n\n1. **认知分层原则（Cognitive Stratification）**：无论做游戏队友（PUBG Ally）还是 NPC 对话（Thinking Less），都在向“快慢双系统”收敛。不要指望一个单一的 CoT 大模型通吃所有环节——直觉留给交互，逻辑留给宏观规划。\n2. **控制抑制与防漂移（Executive Inhibition & Spec Bounds）**：从《LLM Parkinsonism》可以看出，Agent 系统的瓶颈已经不再是“缺乏执行力”，而是“缺乏停止能力”。优秀的 Agent 架构必须包含专职踩刹车的阻尼器。\n3. **协议基础设施化（Protocol Standardisation）**：MCP（Model Context Protocol）生态正在井喷，一切外部数据源、游戏环境、创作工具都在被无痛改造成 MCP 端点。\n\n---\n\n## 今日可做小实验\n\n- **项目名**：**Minecraft 战况直觉解说员（Minecraft Intuitive Caster）**\n- **输入**：Minecraft 游戏运行日志中的玩家事件（如 `player took damage`, `player mined diamond`, `player crafted item`）。\n- **输出**：带有个性本能、完全跳过推理链的即时语音嘲讽/赞叹（通过本地 TTS 播放）。\n- **技术栈**：Python / Node.js + 本地 Minecraft (开启日志监听或简单的 WebSocket mod) + 任何轻量模型 API (如 Claude 3.5 Haiku 或 Ollama 上的 Llama3) + 系统的 `say` 命令或 edge-tts。\n- **第一步怎么做**：\n  1. 写一个 20 行的 Python 脚本实时 tail 你的 Minecraft 日志文件（`~/.minecraft/logs/latest.log`），过滤出玩家死亡、受到伤害或获取成就的行。\n  2. 构建一个极简 Prompt，严禁思考过程（加入规则：`Do not reason. Output 1 short intuitive sentence (under 10 words) as an irritated goblin watching the player.`）。\n  3. 监听到事件瞬间发请求，拿到文本立即 pipe 到 `edge-tts` 或 macOS 自带的 `say` 命令发声。测试直觉式 Prompting 是否带来极高响应速度和爆笑拟真感。",
+  "gemini_success": true,
+  "telegram_sent": false,
+  "telegram_status": "failed",
+  "telegram_reason": "400 Client Error: Bad Request for url: https://api.telegram.org/bot8650722899:AAHUD-aqNDB7NwiPiGq3R22MVp77Cr_5GEQ/sendMessage"
+}
