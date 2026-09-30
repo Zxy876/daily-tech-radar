@@ -1,0 +1,299 @@
+{
+  "date": "2026-09-30",
+  "candidates": [
+    {
+      "title": "The Price of Thought: Does Test-Time Reasoning Pay in LLM Trading?",
+      "url": "https://arxiv.org/abs/2609.30705",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 29 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.30705v1 Announce Type: new \nAbstract: While inference-time reasoning in large language models (LLMs) promises better decision making, its higher computational cost may not yield better economic outcomes. Yet reasoning controls are rarely evaluated as economic interventions, where changes in model outputs must translate into better portfolios after trading costs. We conduct a controlled study of representative LLMs from the DeepSeek, GPT, and Gemini families. We vary reasoning effort w",
+      "score": 12.0,
+      "keywords_matched": [
+        "LLM",
+        "Gemini",
+        "GPT",
+        "language model",
+        "inference",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "BioEVAL: A global, multi-institutional benchmark of large language and multimodal models for bioengineering",
+      "url": "https://arxiv.org/abs/2609.30489",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 29 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.30489v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have demonstrated historic breakthroughs in general reasoning with early successes in biomedical science. However, existing LLM benchmarking emphasizes factual recall, offering limited insight into model performance on frontier and multimodal tasks. We assembled BioEVAL (BioEngineering Validation of AI and LLMs), a global, multi-institutional initiative designed to assess experimental reasoning capability across bioeng",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "multimodal",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "T-RoPE: Time-Aware Rotary Position Embedding for Sequential Recommendation",
+      "url": "https://arxiv.org/abs/2609.30576",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 29 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.30576v1 Announce Type: new \nAbstract: Large-scale recommenders increasingly adopt the sequential generative recipe behind large language models, bringing the Transformer into recommendation along with design choices made for text, including Rotary Position Embedding (RoPE). In language models, RoPE encodes token indices for relative position reasoning, but in recommendation, an interaction index records only event order, saying nothing about elapsed time, behavioral cycles across scal",
+      "score": 10.0,
+      "keywords_matched": [
+        "transformer",
+        "language model",
+        "embedding",
+        "reasoning",
+        "generative"
+      ]
+    },
+    {
+      "title": "HasMem: Hard-Origin Adaptively Softened Memory for Long-Term LLM Agents",
+      "url": "https://arxiv.org/abs/2609.30797",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 29 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.30797v1 Announce Type: new \nAbstract: Text-based memory and context compression support reuse of past interactions. Resizing continuous memory changes the input to a frozen LLM, coupling capacity allocation with readout. We propose Hard-Origin Adaptively Softened Memory (HasMem). Frozen hard-prompt embeddings provide a verifiable initial state. A controller adjusts memory widths, a Writer re-encodes resized entries, and Reader and Global provide readout adaptation and cross-turn state",
+      "score": 10.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "embedding",
+        "prompt",
+        "memory"
+      ]
+    },
+    {
+      "title": "PTC-Decoder: Towards Intelligent SLMs on Offline Resource-Constrained Edge Devices",
+      "url": "https://arxiv.org/abs/2609.30836",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 29 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.30836v1 Announce Type: new \nAbstract: Deploying small language models (SLMs) on offline, resource-constrained edge devices such as remote sensing satellites presents a fundamental challenge: their limited reasoning capacity hinders reliable execution of multi-step agent tasks requiring complex tool orchestration. Existing plan-solve paradigms rely on prompt-based enforcement, which our experiments show SLMs almost entirely disregard: weak models fail to invoke the plan. We propose PTC",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "language model",
+        "prompt",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "HybridInfer: Thermal-Aware Reinforcement-Learning Tier Routing for On-Device, Edge, and Cloud LLM Inference",
+      "url": "https://arxiv.org/abs/2609.30270",
+      "source": "arXiv cs.LG",
+      "published_at": "Tue, 29 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.30270v1 Announce Type: new \nAbstract: On-device inference with small language models keeps user data local, works offline, and incurs no per-query cost, so the on-device tier is preferred when it is adequate. It is thermally constrained, however, and I find the constraint is sharper than a slowdown: on a flagship Snapdragon device, sustained on-device generation destabilizes the GPU inference runtime, which crashes or silently wedges after a few consecutive queries. The failure lies i",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "RAG",
+        "inference"
+      ]
+    },
+    {
+      "title": "LLM Parkinsonism: Executive-Control Failure, Token-Inefficient Persistence, and an Uncertainty-Aware Global Executive Control Architecture for Autonomous Language-Model Agents",
+      "url": "https://arxiv.org/abs/2609.30662",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 29 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.30662v1 Announce Type: new \nAbstract: Large language models (LLMs) can plan, use tools, write code, and execute long-horizon workflows, yet strong local competence does not guarantee project-level executive control. Agents may continue acting after the original objective is satisfied, producing low-value refinements, repeated verification, and repairs to self-created complexity. We use LLM Parkinsonism as a narrowly defined, non-clinical metaphor for this pattern of persistent action ",
+      "score": 9.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "workflow",
+        "language model",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "When Is a Multi-Agent Code Judge Actually Grounded? Two Label-Free Measurements, and a Judge That Declines to Guess",
+      "url": "https://arxiv.org/abs/2609.30328",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 29 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.30328v1 Announce Type: new \nAbstract: When one language model judges whether another's code is correct, it does not report the absence of evidence. It returns a confident verdict with reasoning attached, indistinguishable from a verdict it had grounds for. Multi-agent verification, which decomposes a judgment into checkable claims and verifies each against evidence, is a promising response and works well when the evidence is a set of retrieved documents.\n  We argue such methods requir",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Bridging LLM Agents and Data Spaces: An Architectural Mediation Approach using the Model Context Protocol",
+      "url": "https://arxiv.org/abs/2609.30341",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 29 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.30341v1 Announce Type: new \nAbstract: Data Spaces enable sovereign and governed data sharing across organizational boundaries, but their integration with AI agents remains challenging due to mismatches between probabilistic language model interactions and policy-driven data infrastructures. This article presents an architectural mediation approach based on the Model Context Protocol (MCP), implemented through the Eunomia Agent, to enable controlled interaction between large language m",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model"
+      ]
+    },
+    {
+      "title": "Thinking Less to Simulate Better: Intuitive Prompting Improves LLM Agents Simulating Individual Social Media Reactions, Including Unfamiliar Content",
+      "url": "https://arxiv.org/abs/2609.30563",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 29 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.30563v1 Announce Type: new \nAbstract: Platform policies are increasingly tested on artificial users, making agent fidelity important. Yet convincing fake profiles could also manipulate perceived public opinion before elections. Validation has concentrated on agreement with human behaviour and has paid little attention to whether an agent behaves in line with the profile it was given. The present study profiled eight Serbian participants through a questionnaire, a deep interview, and a",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "prompt"
+      ]
+    },
+    {
+      "title": "Analyzing and Mitigating Cost-Inefficient Behaviors in Coding Agents",
+      "url": "https://arxiv.org/abs/2609.30725",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 29 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.30725v2 Announce Type: new \nAbstract: Although effective, coding agents often incur substantial monetary costs. Their recurring cost-inefficient behaviors remain underexplored. We conduct the first study of behavioral cost inefficiencies in coding agents, analyzing 1,200 trajectories from Claude Code and Mini-SWE-Agent across four configurations on SWE-bench Verified. We identify three cost-inefficient behaviors: subsumed retrieval, similar script generation, and test re-execution. We",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Learning What to Skip: Counterfactual Credit Assignment for Efficient Multi-Agent LLM Workflows",
+      "url": "https://arxiv.org/abs/2609.30734",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 29 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.30734v1 Announce Type: new \nAbstract: Multi-agent LLM workflows use planning, execution, verification, and summarization to improve task performance, yet the value of each component depends on the state already produced. Executing every component can waste computation or overwrite a correct intermediate answer. We formulate component omission as counterfactual credit assignment: full-workflow logs reveal the executed trajectory's reward, while controlled skip interventions reveal the ",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "workflow",
+        "planning"
+      ]
+    },
+    {
+      "title": "ORCA: Evaluating LLMs on Data Science Code Translation",
+      "url": "https://arxiv.org/abs/2609.30749",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 29 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.30749v1 Announce Type: new \nAbstract: Data Science Code Translation (DSCT) is the process of converting code between data science libraries while preserving functional equivalence and enabling interoperability across data science ecosystems. While Large Language Models (LLMs) have demonstrated considerable progress in Data Science Code Generation (DSCG), their performance in DSCT remains insufficiently studied. To address this gap, we introduce ORCA, a comprehensive benchmark with two",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "code generation"
+      ]
+    },
+    {
+      "title": "Why Jailbreaks Succeed in Diffusion Language Models: An Energy Landscape Analysis",
+      "url": "https://arxiv.org/abs/2609.30841",
+      "source": "arXiv cs.AI",
+      "published_at": "Tue, 29 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.30841v1 Announce Type: new \nAbstract: Existing attacks and defenses for diffusion-based large language models (dLLMs) target specific vulnerabilities but lack a shared framework explaining why attacks succeed. We propose one by interpreting safety alignment as shaping the denoising energy landscape: a well-aligned model routes harmful queries toward safe outputs through an energy barrier that separates the two regions. Current jailbreak attacks reduce to two strategies for circumventi",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "diffusion",
+        "language model"
+      ]
+    },
+    {
+      "title": "Parameters vs. Context: TRACE Fine-Tuning for Robust Retrieval-Augmented Generation",
+      "url": "https://arxiv.org/abs/2609.30337",
+      "source": "arXiv cs.LG",
+      "published_at": "Tue, 29 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.30337v1 Announce Type: new \nAbstract: Retrieval-Augmented Generation (RAG) mitigates knowledge obsolescence and factual hallucination in large language models by introducing external context. However, when retrieved knowledge conflicts with the model's internal parametric knowledge, the model may either blindly follow misleading context or incorrectly rely on parametric knowledge, leading to unreliable responses. To address this issue, this paper proposes TRACE (Debate-TRace and Answe",
+      "score": 8.0,
+      "keywords_matched": [
+        "language model",
+        "RAG",
+        "fine-tuning",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Adaptive Multi-Value Control in LLMs via Causal Activation Steering",
+      "url": "https://arxiv.org/abs/2609.30405",
+      "source": "arXiv cs.LG",
+      "published_at": "Tue, 29 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.30405v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly deployed in settings where responses must reflect multiple, potentially interacting social norms and human values. Activation steering offers a lightweight alternative to training-based alignment by modifying internal activations at inference time. However, prior human-value steering methods have largely considered values in isolation, while direct composition of multiple directions relies on fixed int",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "inference"
+      ]
+    },
+    {
+      "title": "AutoResearch at Production Scale: Failure Modes and a Multi-Agent Framework",
+      "url": "https://arxiv.org/abs/2609.30541",
+      "source": "arXiv cs.LG",
+      "published_at": "Tue, 29 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.30541v1 Announce Type: new \nAbstract: Optimizing embedding systems for production recommendation pipelines demands systematic exploration that consumes disproportionate engineering effort at scale. We apply Andrej Karpathy's AutoResearch paradigm -- a large language model that iteratively edits a training script and retains modifications that improve a held-out scalar metric -- to automate this exploration. We report on twelve weeks of running this paradigm at production scale, where ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "language model",
+        "embedding"
+      ]
+    },
+    {
+      "title": "Entropy Regularization: A Free Correction to Cross-Entropy for Verified Demonstrations",
+      "url": "https://arxiv.org/abs/2609.30572",
+      "source": "arXiv cs.LG",
+      "published_at": "Tue, 29 Sep 2026 00:00:00 -0400",
+      "description": "arXiv:2609.30572v1 Announce Type: new \nAbstract: Large language models are often post-trained on expert demonstrations using cross-entropy (CE), even when the downstream objective is not to imitate the demonstrated solution but to produce any output accepted by a verifier. This mismatch is seen in verifiable domains with multiple correct solutions, such as mathematical reasoning and code generation, where training data may contain only one expert solution per problem. We show that minimizing cro",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "language model",
+        "code generation",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "VectifyAI / PageIndex",
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG [835 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "RAG",
+        "vector",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Q00 / ouroboros",
+      "url": "https://github.com/Q00/ouroboros",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Agent OS: the agent gets smarter on its own. We just hold the line: Interview-gated, staged evaluation, budgeted evolution loop. MCP server, 14 runtimes: Claude Code, Codex CLI, Gemini CLI, OpenCode, Copilot, Kiro and more. [12 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "Claude",
+        "Gemini",
+        "Copilot"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-09-30\n\n为你挑选了今天 4 个最具张力、最适合你跨学科（CS + 设计/游戏系统）背景的项目。它们共同指向一个关键转折：**LLM 正在从“盲目堆思考量（Overthinking）”转向“系统级控制（Executive Control）与具身直觉”**。\n\n---\n\n## 1. LLM Parkinsonism: 当自主 Agent 患上“执行功能失控症”\n- **来源：** arXiv cs.AI (2609.30662)\n- **链接：** https://arxiv.org/abs/2609.30662\n- **一句话解释：** 论文揭示了长流程 Agent 致命的“强迫症”现象——任务明明已经完成，Agent 却停不下来，持续生成低价值修饰、死循环验证，甚至陷入修补自己捏造出来的复杂 bug 中。\n- **它为什么重要：** 这是第一篇系统把神经心理学中“执行控制障碍（Parkinsonism）”映射到 Agent 系统的论文。你在做 Spec-driven 开发或自动化工作流时，Agent 爆 token、把好代码改烂，本质上就是这种“全局终止感知”的缺失。\n- **技术趋势标签：** `Agent Failure Modes` `Executive Control` `Meta-Reasoning` `Workflow Optimization`\n- **可复用模式：** **双层控制架构（Supervisor-Actor Decoupling）**：将“干活的 Agent”与“判定够了没有的 Executive Governor”彻底解耦；Governor 仅依据全局 Spec 和不确定度监控全局，拥有强制终止与状态冻结权。\n- **疯狂发明家灵感：**\n  1. **一个小实验：** 写一个 “Agent 镇静剂” 代理：专门监听 Claude Code 或 Cursor 的终端输出，一旦检测到 Agent 在同一段代码反复微调超过 3 次，立刻注入系统指令强行拦截并打断。\n  2. **一个中型项目：** **Spec-Freeze Guard**：一个针对 Spec-driven 开发的外部看门狗工具。当代码已经满足 Spec 规定的所有断言时，直接把工作区挂载为只读，阻断 Agent 的过度重构。\n  3. **一个艺术/游戏/叙事方向：** **《神经质数字工匠》装置**：在一个类似 Minecraft 的体素沙盒里，放入几个具有不同程度“执行障碍”的建筑 NPC。有的永远在拆了建、建了拆，有的把一座桥修了十万步直到变成不可名状的巴洛克怪兽，将 AI 的系统失效可视化为数字雕塑。\n- **对我项目的启发：** 在设计自主工作流系统时，**“定义何时停止（Definition of Done）”远比“定义如何开始”重要得多**。必须在协议层引入状态坍缩机制。\n- **今天是否值得深入研究：** 是（它的 Failure Mode 分类法极具启发）\n- **建议行动：** 试用 / 收藏\n\n---\n\n## 2. Thinking Less to Simulate Better: 少想一点，让虚拟角色更像人\n- **来源：** arXiv cs.AI (2609.30563)\n- **链接：** https://arxiv.org/abs/2609.30563\n- **一句话解释：** 深度推理（CoT）毁了角色扮演——论文发现迫使大模型“深思熟虑”反而让它丧失了人类的冲动与真实感，采用“直觉式提示（Intuitive Prompting）”和低推理时延，反而能高保真还原个体在社交网络上的本能反应。\n- **它为什么重要：** 击碎了“Reasoning 越强、模拟越好”的盲信。在游戏 NPC、虚拟社会模拟、生成式叙事中，人类的行为绝大多数是“系统 1（快思考/偏见/直觉）”驱动的。给 NPC 挂满 CoT 反而会让它们变成毫无生气的理中客。\n- **技术趋势标签：** `Generative Agents` `System 1 vs System 2` `Game NPC` `Behavior Simulation`\n- **可复用模式：** **认知双轨分流（Bicameral Prompting）**：感知与情绪反应剥离所有 CoT，强制模型用 0-shot 直觉输出情绪冲动；仅在涉及物理环境工具调用（如走格子、合成物品）时才开启结构化推理。\n- **疯狂发明家灵感：**\n  1. **一个小实验：** 在单机脚本中测试同一个 Persona（如“一个暴躁的矮人铁匠”）：对比 CoT 输出与纯 Intuitive 输出。你会发现 CoT 模式下的矮人会理智分析，而直觉提示会立刻拔锤子骂街。\n  2. **一个中型项目：** **NPC Subconscious Engine**：一个专门针对游戏 NPC 的中间件，分流“潜意识反射”（毫秒级、纯情绪反应、小参数模型）与“战术规划”（云端推理模型），大幅降低 NPC 群体模拟的 Token 成本。\n  3. **一个艺术/游戏/叙事方向：** **《群氓模拟器》（Flock of Impulses）**：构建一个基于纯直觉 Prompt 的微型社交广场游戏，玩家输入一句话，看 50 个带有极端偏见设定、没有 CoT 的“快思考”NPC 如何在 30 秒内自发极化、引发一场荒诞的赛博暴动。\n- **对我项目的启发：** 在设计游戏世界生成和 NPC 生态时，不要给所有代理上重型推理链。赋予他们“认知缺陷”和“本能冲动”，世界反而会涌现出戏剧性。\n- **今天是否值得深入研究：** 是\n- **建议行动：** 做demo\n\n---\n\n## 3. PageIndex: 抛弃向量化，用“结构推理”做下一代 RAG\n- **来源：** GitHub Trending (VectifyAI/PageIndex)\n- **链接：** https://github.com/VectifyAI/PageIndex\n- **一句话解释：** 彻底抛弃 Vector Embedding 和余弦相似度，利用文档结构树和 LLM 推理来进行“目录级无向量检索”。\n- **它为什么重要：** Embedding RAG 在处理长篇世界设定集、API 技术 Spec、法律文档时经常“找得到碎片但丢失全局上下文”。PageIndex 让 LLM 像人类翻书一样，先看目录结构定位章节，再按需展开。这极度贴合 Spec-driven 体系中对精确上下文的要求。\n- **技术趋势标签：** `Vectorless RAG` `Tree-Search Retrieval` `Spec Engineering` `Document Indexing`\n- **可复用模式：** **分层索引树（Hierarchical Outline Indexing）**：将复杂文本压缩成保留拓扑关系的 JSON 目录树，检索过程演变成 LLM 在树上的轻量导航路径选择，而非高维空间点距离匹配。\n- **疯狂发明家灵感：**\n  1. **一个小实验：** 把一份上百页的复杂桌面 RPG 规则书（如 D&D 规则或 Minecraft 模组魔改手册）转换成 PageIndex 树，测试它比传统 ChromaDB 检索长程连贯规则的准确率。\n  2. **一个中型项目：** **Spec-Navigator**：针对大型代码重构项目的架构探针。在不载入全部源码的情况下，仅凭抽象语法树（AST）+ PageIndex 结构，让 Agent 自主定位跨模块依赖。\n  3. **一个艺术/游戏/叙事方向：** **无限设定集《盲人摸象》**：一个互动小说引擎。整个虚构宇宙是一个庞大的深度文档树，玩家只能通过特定权限的探针查询树的某些节点。由于没有向量模糊匹配，玩家必须依靠逻辑推理拼接出整个世界的阴谋。\n- **对我项目的启发：** 做设计系统或 Spec 工具时，不要一上来就搞 embedding 切片。**结构即含义**，保留 Markdown/代码的物理拓扑结构，检索效果往往完爆向量库。\n- **今天是否值得深入研究：** 是\n- **建议行动：** 试用\n\n---\n\n## 4. Ouroboros: 具备自我吞噬演化能力的 Agent OS\n- **来源：** GitHub Trending (Q00/ouroboros)\n- **链接：** https://github.com/Q00/ouroboros\n- **一句话解释：** 一个通过“面试淘汰制（Interview-gated）”和预算循环让 Agent 能够自我编写代码、自我测试、自我升级进化的自主 Agent 操作系统，支持 MCP 协议与 14 种运行时。\n- **它为什么重要：** 它把 Andrej Karpathy 提倡的 AutoResearch 思想（代码自我修改+标量指标闭环）做成了一个工程级开源运行时。名字取自“衔尾蛇”，代表系统能修改自身源码并完成回归验证。\n- **技术趋势标签：** `Agent OS` `Self-Improving Code` `MCP` `Autonomous Evolution`\n- **可复用模式：** **分期评估闸门（Staged Evaluation Gates）**：Agent 在尝试修改自身系统或生成功能时，必须通过一个只认绝对指标（测试用例通过率、内存占用、Spec 匹配度）的不可违逆的“面试官进程”，否则直接回滚。\n- **疯狂发明家灵感：**\n  1. **一个小实验：** 启动一个 ouroboros 实例，设定目标：“为自身增加一个自动导出当前执行流程为 Mermaid 状态图的 MCP 工具”，看它能否在不破坏原有代码的前提下自举成功。\n  2. **一个中型项目：** **Auto-Shader 进化器**：利用该机制搭建一个着色器工作流，给定一个视觉目标描述（如“液体水墨扩散”），Agent 自动编写 GLSL 代码、编译、截图、比对 CLIP 图像相似度，迭代一晚上演化出最惊艳的着色器。\n  3. **一个艺术/游戏/叙事方向：** **《人工活物》（Digital Familiar）**：一个常驻在终端里的电子宠物。它拥有一小笔预算（API token quota）和自我修改权限，它会根据你每天写代码的风格，慢慢重写自己的性格与辅助函数库，逐渐长成完全适应你个人工作流的独一无二的“数字魔宠”。\n- **对我项目的启发：** MCP（Model Context Protocol）正在成为 Agent 系统的标准总线，未来的工具链不是写死的，而是可以通过严苛测试沙盒让 Agent 动态生长的。\n- **今天是否值得深入研究：** 是\n- **建议行动：** 试用\n\n---\n\n## 今日模式总结\n\n1. **认知解耦（Decoupling of Reason and Impulse）：** \n   Agent 不需要到处都用重推理。模拟生命用“快直觉（Intuitive）”，控制任务用“独立监管者（Parkinsonism Governor）”，而繁重思考只留给真正的工具调用。\n2. **结构优于向量（Structure over Embedding）：** \n   从 PageIndex 可以看出，纯向量语义检索正在遭遇天花板，基于树形拓扑、代码 AST、层次大纲的“显式推理检索”在 Spec 和高精度领域全面反击。\n3. **自我闭环演化（Gated Self-Mutation）：** \n   Ouroboros 示范了当今最前沿的 Agent 范式：不再做被动的助手，而是利用自动化沙盒与闸门协议，在严格指标控制下进行代码自我迭代。\n\n---\n\n## 今日可做小实验：2 小时搞定 \"Agent 镇静剂 (Anti-Parkinson Watchdog)\"\n\n- **项目名：** `AgentSedative` (Agent 强迫症镇静剂)\n- **输入：** 本地某项目文件夹 + 一份简单的 `spec.json`（定义任务完成的标准，例如：`tests_pass: true`, `max_files_modified: 3`）\n- **输出：** 当 Agent 陷入无限微调时，终端报警并强制截断执行的控制台守护进程。\n- **技术栈：** Python + Claude/GPT-4o mini API + Rich (做酷炫终端UI)\n- **第一步怎么做：**\n  1. 新建 `sedative.py`，写一个监听脚本，包装你的 LLM 调用循环。\n  2. 在每次调用返回后，记录代码的 `git diff` 哈希。\n  3. 如果检测到连续 3 次 diff 变化行数 `< 5` 且所有预设的 pytest 均已通过，直接判定“触发帕金森强迫症”，拦截调用并高亮打印：`[SEDATIVE APPLIED] Objective met. Stop overthinking.` 强行退出进程。",
+  "gemini_success": true,
+  "telegram_sent": false,
+  "telegram_status": "failed",
+  "telegram_reason": "400 Client Error: Bad Request for url: https://api.telegram.org/bot8650722899:AAHUD-aqNDB7NwiPiGq3R22MVp77Cr_5GEQ/sendMessage"
+}
