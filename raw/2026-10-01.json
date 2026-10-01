@@ -1,0 +1,291 @@
+[
+  {
+    "title": "Is Human-Readable Text Necessary for Effective LLM Fine-Tuning?",
+    "url": "https://arxiv.org/abs/2609.35868",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 30 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.35868v1 Announce Type: new \nAbstract: Is human readability necessary for effective fine-tuning of large language models? We investigate whether model-conditioned training representations can preserve or improve adaptation utility without requiring a human-readable textual form. We propose Desired-Update-Aligned Synthetic Data (DASA), which uses activation-gradient feedback from a frozen reference model to guide the optimization of continuous synthetic input embeddings. Inspired by the",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "embedding",
+      "fine-tuning"
+    ]
+  },
+  {
+    "title": "Beyond Symmetric Agents: Cognitive Diversity and Multi-Agent Debate in Small Language Models",
+    "url": "https://arxiv.org/abs/2609.35875",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 30 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.35875v1 Announce Type: new \nAbstract: Multi-agent debate (MAD) reportedly improves reasoning and factuality over single-model inference, but prior work treats agents as symmetric peers, leaving open what drives the gains. We test the hypothesis that cognitive diversity among agents is the driver, in the setting where the question is still measurable: small open-weight models with benchmark headroom. Across 23 models from eleven vendor families, five tasks, and 5,500+ debate and contro",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "language model",
+      "inference",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "SAGE: A Statistical Acceptance Gate for Self-Evolving Agents",
+    "url": "https://arxiv.org/abs/2609.36043",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 30 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.36043v1 Announce Type: new \nAbstract: Large Language Model (LLM)-based agents increasingly self-evolve by editing a persistent skill document that encodes their workflow, tool-use rules, and decision logic. This loop has two steps, an optimizer that proposes a candidate edit and a gate that accepts or rejects it. Prior work has concentrated on the optimizer, while the gate still follows a naive rule that keeps any edit which improves an aggregate validation score. We show that this ru",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "language model"
+    ]
+  },
+  {
+    "title": "Illusory Truth or Mere Exposure? Model-Dependent Repetition Effects in LLM-Based Social Media Simulations",
+    "url": "https://arxiv.org/abs/2609.36278",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 30 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.36278v1 Announce Type: new \nAbstract: Generative agent-based models (GABMs) are increasingly used to simulate social media dynamics, including misinformation spread. For such social simulations to be valid proxies of human behavior, LLM agents should replicate established human cognitive biases, among them the Illusory Truth Effect (ITE), where repeated exposure to a claim increases its perceived truth value. We investigate whether and how the ITE manifests across four LLMs (Gemma-3-4",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "simulation",
+      "generative"
+    ]
+  },
+  {
+    "title": "HyperZip: Efficient Data Compression through Personalized Diffusion LLMs with Hypernetworks",
+    "url": "https://arxiv.org/abs/2609.36357",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 30 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.36357v1 Announce Type: new \nAbstract: Large language models (LLMs) have shown strong potential for lossless data compression, but existing approaches are constrained by the high computational cost and low throughput of autoregressive decoding. We propose HyperZip, an efficient and scalable LLM-based compression framework that leverages diffusion-based LLMs (dLLMs) with Multi-Token Prediction (MTP) to accelerate LLM-based data compression processes. We identify a trade-off in diffusion",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "diffusion",
+      "language model",
+      "RAG"
+    ]
+  },
+  {
+    "title": "Teachers' perspective on AI-based Multi-Agent Simulation Design to Combat School Bullying",
+    "url": "https://arxiv.org/abs/2609.35776",
+    "source": "arXiv cs.HC",
+    "published_at": "Wed, 30 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.35776v1 Announce Type: new \nAbstract: Bullying in schools profoundly affects the mental and physical health of teenagers. Although existing in-person and digital interventions provide some benefits, they often fall short in addressing the complex social dynamics of bullying. In this study, we collaborated with K-12 teachers to co-design a multi-agent anti-bullying system powered by large language models (LLMs). This system simulates authentic scenarios, enabling students to develop an",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "simulation",
+      "language model"
+    ]
+  },
+  {
+    "title": "Large Language Models Exhibit Human-Like Bayesian Hypocrisy",
+    "url": "https://arxiv.org/abs/2609.35779",
+    "source": "arXiv cs.HC",
+    "published_at": "Wed, 30 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.35779v1 Announce Type: new \nAbstract: Given recent achievements of large language models (LLMs), frontier models are expected to perform well on Bayesian reasoning tasks, at least as well as humans. Furthermore, there is no reason to expect that LLMs will condemn others who offer those very same Bayesian judgments, a fallibility observed in human decision-making (Cao, et al., 2019). In 5 experiments with 48 experimental conditions employing over 5,000 trials, GPT-4o and Claude 3.7 Son",
+    "score": 10.0,
+    "keywords_matched": [
+      "LLM",
+      "Claude",
+      "GPT",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Shaping Opinion: Quantifying the Psychological Impact of Autonomous Multi-Agent LLM Interactions",
+    "url": "https://arxiv.org/abs/2609.37369",
+    "source": "arXiv cs.HC",
+    "published_at": "Wed, 30 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.37369v1 Announce Type: new \nAbstract: Natural-sounding multi-agent conversational AI is increasingly deployed, fundamentally altering human-machine interaction and human information processing. While prior work largely focuses on algorithmic failure, this study investigates the cognitive ergonomics and socio-cognitive impact of algorithmic competence. We present and evaluate FORMS (Framework for Opinion and Rhetoric in Multi-agent Simulations), a low-latency architecture for spatially",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "simulation",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "Beyond Keywords: Leveraging Generative LLMs and Label Aggregation to Classify Economic Policy Uncertainty in News Articles",
+    "url": "https://arxiv.org/abs/2609.35856",
+    "source": "arXiv cs.LG",
+    "published_at": "Wed, 30 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.35856v1 Announce Type: new \nAbstract: This research describes the adaptation of Large Language Models (LLMs) for economic monitoring in the public sector to automatically determine whether an article discusses Economic Policy Uncertanity (EPU) and to identify its specific type. Previous studies either rely on keywords, which often result in a high count of false positives, or use machine learning approaches that require a large number of quality human labeled data that is costly and t",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "RAG",
+      "generative"
+    ]
+  },
+  {
+    "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+    "url": "https://github.com/magnitudedev/magnitude",
+    "source": "Hacker News",
+    "published_at": "Wed, 30 Sep 2026 17:37:40 +0000",
+    "description": "Hey HN, Anders and Tom here. We're building Magnitude, an inference engine for agents that optimizes itself to run as fast as possible on your hardware. It works on Mac, Linux, and Windows on any hardware and is up to 2x faster than llama.cpp. We're both software engineers and previously built an open source browser agent to 4k+ GH stars and 100k+ downloads. We increasingly wanted to run it on local models, but found that no inference engine worked for our use case. Inference engines today all m",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "open source",
+      "inference",
+      "local model"
+    ]
+  },
+  {
+    "title": "More Programs or More Rolls? Separating Coverage from Specialization in LLM Harnesses",
+    "url": "https://arxiv.org/abs/2609.35873",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 30 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.35873v1 Announce Type: new \nAbstract: Automated generation of LLM harnesses promises to improve inference through task specialization. Yet additional answer coverage can arise from repeated execution of the same program, making specialization difficult to identify. We introduce a controlled evaluation that separates answer coverage, repeatable task advantages, and gains from pre-execution selection. On 386 MATH-500 tasks, we compare eight generated harnesses plus a baseline with nine ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "RAG",
+      "inference"
+    ]
+  },
+  {
+    "title": "LongCat-DeepResearch Technical Report",
+    "url": "https://arxiv.org/abs/2609.36071",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 30 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.36071v1 Announce Type: new \nAbstract: We present LongCat-DeepResearch, a deep research system that combines an enhanced LongCat model with a multi-agent workflow for producing comprehensive, evidence-grounded reports. The workflow separates global planning from detailed investigation and coordinates revision at the section level. Multiple planning agents first explore external sources and refine an actionable research plan, termed ResearchSpec. Research agents then investigate and dra",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow",
+      "planning"
+    ]
+  },
+  {
+    "title": "Principled Thoughts for Latent Recursive LLM Systems",
+    "url": "https://arxiv.org/abs/2609.36159",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 30 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.36159v1 Announce Type: new \nAbstract: Large language models can reason in continuous space instead of decoded text, by recurring on their own hidden states or by passing those states between agents, while training supervises only the Cross-Entropy (CE) of the final decoded answer and does not constrain the thought. Theoretical and empirical analyses establish and confirm four failures of CE-only training that lead to a lower probability of the correct answer such as collapsing thought",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model"
+    ]
+  },
+  {
+    "title": "Evaluating the Effects of Prompt Perturbation on Bias and Hallucination in Large Language Models",
+    "url": "https://arxiv.org/abs/2609.35804",
+    "source": "arXiv cs.HC",
+    "published_at": "Wed, 30 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.35804v1 Announce Type: cross \nAbstract: Large language models (LLMs) have shown remarkable capabilities in various natural language processing tasks, leading to their widespread deployment as intelligent assistants in decision-making contexts. However, the increasing complexity of these models raises concerns about their reliability, particularly regarding bias and hallucination. In this work, we evaluate the robustness of LLMs to perturbed variations of the original inquiry in decisi",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "prompt"
+    ]
+  },
+  {
+    "title": "How Much Prompt Is Enough? A Blackbox Minimization of Few-Shots in LLMs",
+    "url": "https://arxiv.org/abs/2609.36289",
+    "source": "arXiv cs.HC",
+    "published_at": "Wed, 30 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.36289v1 Announce Type: cross \nAbstract: Prompts are the primary mechanism for directing the behavior of large language models (LLMs). Yet the internal structure and causal hierarchy of prompts remain poorly understood: which parts are causally necessary and which are redundant is an open question. This opacity can have severe consequences. Subtle prompt variations can silently shift model outputs in critical software systems, and engineers lack techniques to reason about prompt reliab",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Learn Now, Use Next, Trust Later: Prequential Test-Time Learning for LLM Agents",
+    "url": "https://arxiv.org/abs/2609.35911",
+    "source": "arXiv cs.LG",
+    "published_at": "Wed, 30 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.35911v1 Announce Type: new \nAbstract: Adapting large language model agents during deployment requires not only retaining past experience, but also turning new observations into timely guidance. Many test-time learning methods, however, acquire knowledge from completed episodes. Feedback from an ongoing interaction may therefore not be distilled into knowledge soon enough to help the next decision. Acquiring knowledge at the granularity of individual transitions could reduce this delay",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model"
+    ]
+  },
+  {
+    "title": "FluxLite: Inference-Time Proposal Control for Discrete Diffusion Models",
+    "url": "https://arxiv.org/abs/2609.35947",
+    "source": "arXiv cs.LG",
+    "published_at": "Wed, 30 Sep 2026 00:00:00 -0400",
+    "description": "arXiv:2609.35947v1 Announce Type: new \nAbstract: Many inference-time tasks for pretrained discrete diffusion models and diffusion language models reduce to drawing samples from a tilted version of the pretrained distribution. Feynman-Kac sequential Monte Carlo (SMC) makes this correction exact in principle, but its prescribed weights routinely degenerate when the proposal dynamics are misaligned with the tilt, capping the practical gains from additional particles. We introduce FluxLite, a lightw",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "diffusion",
+      "language model",
+      "inference"
+    ]
+  },
+  {
+    "title": "VectifyAI / PageIndex",
+    "url": "https://github.com/VectifyAI/PageIndex",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG [1,097 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "RAG",
+      "vector",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "mksglu / context-mode",
+    "url": "https://github.com/mksglu/context-mode",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. [90 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "context window",
+      "memory"
+    ]
+  },
+  {
+    "title": "anthropics / claude-code",
+    "url": "https://github.com/anthropics/claude-code",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. [138 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "workflow"
+    ]
+  }
+]
