@@ -1,0 +1,289 @@
+[
+  {
+    "title": "Conditional Generation of Creative Chess Puzzles with Diffusion Models",
+    "url": "https://arxiv.org/abs/2609.38577",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 01 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2609.38577v1 Announce Type: new \nAbstract: While modern language models demonstrate impressive generative capabilities, they often struggle with constrained, counter-intuitive creative tasks. To address this limitation, we explore chess puzzle generation as a rigorous testbed for computational creativity and reasoning, a domain where altering a single piece can invalidate an entire solution. We propose a novel approach for conditional generation of creative chess puzzles using masked diffu",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "diffusion",
+      "language model",
+      "reasoning",
+      "generative"
+    ]
+  },
+  {
+    "title": "AgBench: Agentic AI Benchmarks for Personal AI Devices",
+    "url": "https://arxiv.org/abs/2609.38652",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 01 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2609.38652v1 Announce Type: new \nAbstract: Agentic AI systems increasingly rely on cloud-hosted large language models for planning, tool use, and iterative execution, raising concerns about API cost and data exposure. Advances in personal AI devices enable agents to execute locally, but limited resources on device may affect task success and performance. Existing benchmarks are inadequate for systematically characterizing these trade-offs across devices, workloads, and deployment architect",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "language model",
+      "tool use",
+      "planning"
+    ]
+  },
+  {
+    "title": "Learning to Route in Visual Space via Multi-Step Embedding Retrieval",
+    "url": "https://arxiv.org/abs/2609.38743",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 01 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2609.38743v1 Announce Type: new \nAbstract: LLM agents rely on retrieval tools to access external knowledge, yet visual agentic search remains severely bottlenecked by standard single-step retrievers. In current pipelines, the agent must issue text queries for every intermediate step, struggling when visual clues are difficult to describe or when the retriever fails to surface necessary intermediate evidence within its top results. We hypothesize that offloading multi-step navigation across",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "embedding",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Beyond Keywords: Leveraging Generative LLMs and Label Aggregation to Classify Economic Policy Uncertainty in News Articles",
+    "url": "https://arxiv.org/abs/2609.35856",
+    "source": "arXiv cs.LG",
+    "published_at": "Thu, 01 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2609.35856v1 Announce Type: new \nAbstract: This research describes the adaptation of Large Language Models (LLMs) for economic monitoring in the public sector to automatically determine whether an article discusses Economic Policy Uncertanity (EPU) and to identify its specific type. Previous studies either rely on keywords, which often result in a high count of false positives, or use machine learning approaches that require a large number of quality human labeled data that is costly and t",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "RAG",
+      "generative"
+    ]
+  },
+  {
+    "title": "Shubhamsaboo / awesome-llm-apps",
+    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source. [136 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "open source",
+      "RAG"
+    ]
+  },
+  {
+    "title": "diegosouzapw / OmniRoute",
+    "url": "https://github.com/diegosouzapw/OmniRoute",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by hundreds of contributors [311 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "Claude",
+      "Gemini",
+      "Copilot",
+      "GPT"
+    ]
+  },
+  {
+    "title": "thedotmack / claude-mem",
+    "url": "https://github.com/thedotmack/claude-mem",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More [99 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "Gemini",
+      "Copilot"
+    ]
+  },
+  {
+    "title": "AI Agents are Vulnerable to Radicalization",
+    "url": "https://arxiv.org/abs/2609.38296",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 01 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2609.38296v1 Announce Type: new \nAbstract: Large language models (LLMs) can influence people's beliefs, yet little is known about whether and how they can manipulate each other. To investigate this, we simulate conversations between two agents: a target LLM that role-plays a human persona based on demographic and psychological attributes, and an influencer LLM that aims to make the target's beliefs more extreme. We examine radicalization along two pathways: resonance, where the influencer ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model"
+    ]
+  },
+  {
+    "title": "Beyond Mode Collapse: Generating Diverse Synthetic Expert Conversations via Generative Flow Networks",
+    "url": "https://arxiv.org/abs/2609.38359",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 01 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2609.38359v1 Announce Type: new \nAbstract: High quality synthetic data is central to post training LLMs for adaptive AI applications that represent the diverse expert strategies and decisions in conversations. Prompting LLMs directly or conditioning them on end use scenarios yields low diversity data that collapses onto dominant modes. We propose a method to generate diverse high quality synthetic data using Generative Flow Networks (GFlowNets). We show that training GFlowNets to generate ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "prompt",
+      "generative"
+    ]
+  },
+  {
+    "title": "Fine-Tuning Diffusion Language Models with Context Selection and Target Weighting",
+    "url": "https://arxiv.org/abs/2609.38385",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 01 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2609.38385v1 Announce Type: new \nAbstract: Supervised fine-tuning of discrete diffusion language models masks some response tokens and trains the model to recover their original values from the visible context. The masking pattern therefore determines both the context available to the model and the tokens it learns to predict. Uniform random masking does not explicitly account for the interaction between these choices. We introduce GoldiMask, which selects tokens to reveal as context by ap",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "diffusion",
+      "language model",
+      "fine-tuning"
+    ]
+  },
+  {
+    "title": "ArgGYM: A Procedural, Engine-Verified Benchmark for Structured Defeasible Reasoning",
+    "url": "https://arxiv.org/abs/2609.38409",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 01 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2609.38409v1 Announce Type: new \nAbstract: Recent progress in large language model reasoning has been driven by benchmarks and reinforcement learning environments with automatically verifiable rewards, particularly in mathematics, code, and formal logic. These settings make model accuracy easier to evaluate and optimize, but it remains unclear how far success under fixed problem specifications and stable evaluation criteria transfers to reasoning outside such domains. Real-world reasoning ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "language model",
+      "reasoning",
+      "procedural"
+    ]
+  },
+  {
+    "title": "AIM: Agentic Idea Management for Automated Research",
+    "url": "https://arxiv.org/abs/2609.38445",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 01 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2609.38445v1 Announce Type: new \nAbstract: Frontier LLMs are increasingly used to automate scientific research through iterative search. We distinguish idea-driven search from solution-driven search and identify three core challenges: organizing evolving research ideas, selecting promising directions, and maintaining alignment between ideas and their implementations. To address these challenges, we introduce the Agentic Idea Manager (AIM), a fully autonomous framework for managing and expl",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "Demographic Pluralism: Inference-Time Modeling of Pluralistic Human Preference Distributions",
+    "url": "https://arxiv.org/abs/2609.38555",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 01 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2609.38555v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly used in culturally sensitive settings, where alignment requires representing diverse preferences within populations. Yet existing methods model populations at coarse demographic or community levels and overlook within-group variation. We introduce Demographic Pluralism, an inference-time framework that estimates population-level opinion distributions without opinion-distribution training data or task-s",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "inference"
+    ]
+  },
+  {
+    "title": "NarrativeSteward: Coordinating Delegation, Guidance, and Verification in Agent-Assisted Interactive Narrative Authoring",
+    "url": "https://arxiv.org/abs/2609.39333",
+    "source": "arXiv cs.HC",
+    "published_at": "Thu, 01 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2609.39333v1 Announce Type: new \nAbstract: Autonomous AI agents can turn authors' goals into interactive narratives by independently organizing and carrying out generation and revision. As agents generate and revise extensive content, authors struggle to grasp its overall structure, local details, and relationships, complicating continued guidance. We present NarrativeSteward, an authoring environment that organizes outlines, worldbuilding, and narrative graphs as linked artifacts for agen",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "autonomous",
+      "narrative"
+    ]
+  },
+  {
+    "title": "Conversational Capture: A Trajectory-Level Framework for Evaluating Generative Engine Optimization in Multi-turn Human-Agent Interaction",
+    "url": "https://arxiv.org/abs/2609.40069",
+    "source": "arXiv cs.HC",
+    "published_at": "Thu, 01 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2609.40069v1 Announce Type: new \nAbstract: Generative Engine Optimization (GEO) shapes content to increase its likelihood of being cited by answer engines built on retrieval-augmented large language models. GEO is typically evaluated as a single-turn property: for a fixed query, an evaluator measures a source's visibility in one answer. We argue that the single answer is an inadequate unit of analysis. Human-agent information seeking forms a closed loop: the agent's answer changes the user",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "language model",
+      "retrieval",
+      "generative"
+    ]
+  },
+  {
+    "title": "Recursive Organization Improvement: A Modeling Specification for Human--Agent Organizations",
+    "url": "https://arxiv.org/abs/2609.38643",
+    "source": "arXiv cs.HC",
+    "published_at": "Thu, 01 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2609.38643v1 Announce Type: cross \nAbstract: Stronger AI agents do not automatically produce better organizations: teams must also learn which work arrangements to retain and when to reconsider them. We propose a modeling specification for recursive organization improvement and evaluate it through an executable checker, a public-record mapping, and controlled simulation. The specification connects actor-visible histories, organizational memory, decision rights, and evidence-carrying change",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "simulation",
+      "memory"
+    ]
+  },
+  {
+    "title": "Learn Now, Use Next, Trust Later: Prequential Test-Time Learning for LLM Agents",
+    "url": "https://arxiv.org/abs/2609.35911",
+    "source": "arXiv cs.LG",
+    "published_at": "Thu, 01 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2609.35911v1 Announce Type: new \nAbstract: Adapting large language model agents during deployment requires not only retaining past experience, but also turning new observations into timely guidance. Many test-time learning methods, however, acquire knowledge from completed episodes. Feedback from an ongoing interaction may therefore not be distilled into knowledge soon enough to help the next decision. Acquiring knowledge at the granularity of individual transitions could reduce this delay",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model"
+    ]
+  },
+  {
+    "title": "FluxLite: Inference-Time Proposal Control for Discrete Diffusion Models",
+    "url": "https://arxiv.org/abs/2609.35947",
+    "source": "arXiv cs.LG",
+    "published_at": "Thu, 01 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2609.35947v1 Announce Type: new \nAbstract: Many inference-time tasks for pretrained discrete diffusion models and diffusion language models reduce to drawing samples from a tilted version of the pretrained distribution. Feynman-Kac sequential Monte Carlo (SMC) makes this correction exact in principle, but its prescribed weights routinely degenerate when the proposal dynamics are misaligned with the tilt, capping the practical gains from additional particles. We introduce FluxLite, a lightw",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "diffusion",
+      "language model",
+      "inference"
+    ]
+  },
+  {
+    "title": "VectifyAI / PageIndex",
+    "url": "https://github.com/VectifyAI/PageIndex",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG [477 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "RAG",
+      "vector",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "mksglu / context-mode",
+    "url": "https://github.com/mksglu/context-mode",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. [362 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "context window",
+      "memory"
+    ]
+  }
+]
