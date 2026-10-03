@@ -1,0 +1,305 @@
+{
+  "date": "2026-10-03",
+  "candidates": [
+    {
+      "title": "ruvnet / ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated [109 stars today]",
+      "score": 16.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "workflow",
+        "autonomous",
+        "RAG",
+        "vector",
+        "memory"
+      ]
+    },
+    {
+      "title": "JevSpawn: Adaptive Agentic Inference through Compositional Action Spaces",
+      "url": "https://arxiv.org/abs/2610.00437",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 02 Oct 2026 00:00:00 -0400",
+      "description": "arXiv:2610.00437v1 Announce Type: new \nAbstract: LLM agents generate intermediate reasoning and actions token by token, making extended interactions slow and computationally expensive. Jev-style models offer fast probabilistic predictions over finite fields, but require those fields to be specified in advance. This requirement limits autonomous task solving, where the available actions must be derived from natural language instructions and adapted through interaction. We introduce JevSpawn, a co",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "autonomous",
+        "inference",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "When Harnesses Lose the Signal: Causal Evaluation of Recovery in LLM Agents",
+      "url": "https://arxiv.org/abs/2610.00372",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 02 Oct 2026 00:00:00 -0400",
+      "description": "arXiv:2610.00372v1 Announce Type: new \nAbstract: Large language model agents rely on external harnesses to pass information between the model and its environment and to recover from execution errors. Yet recovery is usually judged only by average task success. This hides an important tension. The same operation can rescue a failing trajectory or disrupt one that would otherwise succeed. We frame recovery as a causal decision problem. Starting from the same execution state, we compare what happen",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "RAG"
+      ]
+    },
+    {
+      "title": "Legal Research Bench: Measuring End-to-End Reliability in Long-Horizon Legal Research Agents",
+      "url": "https://arxiv.org/abs/2610.00609",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 02 Oct 2026 00:00:00 -0400",
+      "description": "arXiv:2610.00609v1 Announce Type: new \nAbstract: Legal research is a core and time-consuming legal workflow. Lawyers must identify controlling authority, verify that it remains valid, reconcile statutes and cases, and synthesize a grounded answer. Language model agents are a natural fit for this retrieval-intensive workflow, and automating even part of it would be valuable. But that value depends on reliability: a single missing authority, stale citation, or wrong legal conclusion can make an ot",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "workflow",
+        "language model",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Spatial Strategies, Not Actions: Vector-Quantized Geodesics as Tools for LLM-Driven Agents",
+      "url": "https://arxiv.org/abs/2610.00613",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 02 Oct 2026 00:00:00 -0400",
+      "description": "arXiv:2610.00613v1 Announce Type: new \nAbstract: Large language model (LLM) based agents are often criticized for lacking spatial understanding and mainly exploiting statistical text patterns. We investigate their spatial comprehension through an architecture combining geometrical tools with a LLM serving as a high-level orchestrator in grid-world environments. The agent first collects geodesic trajectories, which are then vector-quantized to extract a representative subset. Offline, the LLM ass",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "vector"
+      ]
+    },
+    {
+      "title": "Ontology-Grounded, Reasoner-Verified Benchmarks for Evaluating LLM Reasoning in Scientific AI",
+      "url": "https://arxiv.org/abs/2610.00682",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 02 Oct 2026 00:00:00 -0400",
+      "description": "arXiv:2610.00682v1 Announce Type: new \nAbstract: Large language models (LLMs) increasingly underpin scientific AI applications that reason over structured knowledge, from biomedical question answering to materials informatics. However, their logical reasoning often falls short, producing factual inaccuracies unacceptable in these settings. Reliable evaluation remains challenging: manual dataset construction scales poorly, and LLM-based generation risks embedding the very flaws it aims to measure",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "embedding",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "From Images to Tasks: Characterizing Multimodal LLM Interactions in the Wild",
+      "url": "https://arxiv.org/abs/2610.00701",
+      "source": "arXiv cs.HC",
+      "published_at": "Fri, 02 Oct 2026 00:00:00 -0400",
+      "description": "arXiv:2610.00701v1 Announce Type: new \nAbstract: Multimodal large language models (LLMs) increasingly integrate vision and text, yet how people use them in natural settings remains underexplored. We seek to answer the question: when users upload images, what tasks are they trying to accomplish? Analyzing over 40,000 de-identified image-upload conversations from Microsoft Copilot, we characterize real-world multimodal use through a hierarchical framework of ten capabilities, spanning perception, ",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "Copilot",
+        "language model",
+        "multimodal"
+      ]
+    },
+    {
+      "title": "Does This Action Still Explain the Task? Reverse Scoring for Diffusion Language Model Agents",
+      "url": "https://arxiv.org/abs/2609.38536",
+      "source": "arXiv cs.LG",
+      "published_at": "Fri, 02 Oct 2026 00:00:00 -0400",
+      "description": "arXiv:2609.38536v1 Announce Type: new \nAbstract: Diffusion-based large language models (dLLMs) promise to break the sequential latency bottleneck of autoregressive agents through parallel decoding, but recent evaluations show this efficiency does not transfer to embodied agentic competence: dLLM-backed agents repeatedly fall into retry loops, re-issuing an action long after it has failed. We give a mechanistic account of this failure and a training-free remedy. We trace the retry loop to the ada",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "diffusion",
+        "language model"
+      ]
+    },
+    {
+      "title": "thedotmack / claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More [115 stars today]",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "Gemini",
+        "Copilot"
+      ]
+    },
+    {
+      "title": "Measuring the Microtask Eligibility Gap: When Is an Off-the-Shelf SLM Enough for an Agent Harness?",
+      "url": "https://arxiv.org/abs/2610.00025",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 02 Oct 2026 00:00:00 -0400",
+      "description": "arXiv:2610.00025v1 Announce Type: new \nAbstract: Agent harnesses increasingly want to run small language models (SLMs) on the microtasks around a frontier large language model (LLM) planner: auto-approving shell commands, writing memory, selecting tools, ranking past turns. We ask whether off-the-shelf SLMs meet practitioner-defined thresholds and, when they fail, why, and whether quantization changes the answer. We build a benchmark of 4 such microtasks with fixed prompts and automatic metrics,",
+      "score": 9.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "prompt",
+        "memory"
+      ]
+    },
+    {
+      "title": "Heavy-Tailed Memory Traces in Long-Horizon Language Agents",
+      "url": "https://arxiv.org/abs/2610.00010",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 02 Oct 2026 00:00:00 -0400",
+      "description": "arXiv:2610.00010v1 Announce Type: new \nAbstract: Long-horizon language agents increasingly rely on external memory as a frozen world model, yet current memory systems are usually judged only by task success or token cost. We argue that the missing object is the shape of memory use: under finite context and repeated retrieval, agent memory can concentrate on a small core while leaving rare states in a long tail where prediction errors accumulate. We study this effect through a conservative tail a",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "memory",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Characterizing a Configuration Where Inference-Time PRM-Pruned Fragment Grafting Is Inert: Evidence from Three Reasoning LMs",
+      "url": "https://arxiv.org/abs/2610.00047",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 02 Oct 2026 00:00:00 -0400",
+      "description": "arXiv:2610.00047v1 Announce Type: new \nAbstract: Diversity collapse in parallel chain-of-thought has motivated inference-time interventions built on a natural design: when a process reward model (PRM) prunes a chain, its high-PRM prefix is extracted and grafted verbatim as an in-context demonstration into a still-decoding sibling. We isolate this mechanism, PRM-Pruned Fragment Grafting (PPFG), as the most cost-minimal operationalization of cross-trajectory step-level transfer, and test it at the",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "RAG",
+        "inference",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Scientific Agents: Evaluating Profession-Specific System Prompts on Scientific Tasks",
+      "url": "https://arxiv.org/abs/2610.00084",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 02 Oct 2026 00:00:00 -0400",
+      "description": "arXiv:2610.00084v1 Announce Type: new \nAbstract: Detailed profession-specific system prompts raise token use and estimated cost per response without a consistent accuracy gain. We evaluate Scientific Agents, an open-source corpus of 503 profession-specific AGENTS.md profiles, with Gemini 3.8 Flash via OpenRouter in the Pi agent harness. We compare matched profiles with four controls: a minimal baseline (\"You are a helpful assistant\"), the profile's opening role sentence, a generic scientific rig",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Gemini",
+        "prompt"
+      ]
+    },
+    {
+      "title": "Mathematical Transfer in LLMs Follows Reasoning Approach More Than Topic",
+      "url": "https://arxiv.org/abs/2610.00331",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 02 Oct 2026 00:00:00 -0400",
+      "description": "arXiv:2610.00331v1 Announce Type: new \nAbstract: When selecting mathematical training data for LLMs, a natural organizing principle is topic: probability examples for probability targets. An alternative is reasoning approach: worked solutions that share a solution method with the target, even when the mathematical domain differs. We ask which relation produces greater transfer after fine-tuning. We evaluate two counterbalanced $2\\times2$ designs: probability and combinatorics crossed with invari",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "fine-tuning",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "What Should an Agent Remember? Disentangling Retention from Retrieval in Bounded-Memory Evaluation",
+      "url": "https://arxiv.org/abs/2610.00366",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 02 Oct 2026 00:00:00 -0400",
+      "description": "arXiv:2610.00366v1 Announce Type: new \nAbstract: A persistent agent must decide both what to retain as information arrives and what to surface once a query appears, yet memory evaluations can confound these decisions by comparing methods that differ in both retention and selection. We build a streaming-recall benchmark crossing retention and selection rules and evaluate every condition on the same 300 seeded episodes. Holding access fixed, query-aware selection improves required-fact recall by 1",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "memory",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Backdoor Containment via Expert Quarantine and Shutdown in LLMs",
+      "url": "https://arxiv.org/abs/2610.00663",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 02 Oct 2026 00:00:00 -0400",
+      "description": "arXiv:2610.00663v1 Announce Type: new \nAbstract: Backdoored large language models (LLMs) can behave normally on benign inputs while producing attacker-specified outputs under hidden triggers. Existing defenses span four stages--prior-training, in-training, post-training, and inference-time--and share one of two underlying strategies: either suppress backdoor learning (by filtering poisoned data or interrupting its acquisition during optimization) or learn, then purify (by repairing model weights",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "inference"
+      ]
+    },
+    {
+      "title": "Backdoor Purification for LoRA-Tuned LLMs via Null-Space Projection",
+      "url": "https://arxiv.org/abs/2610.00685",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 02 Oct 2026 00:00:00 -0400",
+      "description": "arXiv:2610.00685v1 Announce Type: new \nAbstract: With the rapid adoption of large language models (LLMs) and parameter-efficient fine-tuning (PEFT) methods, the risk of backdoor attacks has become more severe. Existing backdoor purification methods typically rely on at least one of the strong assumptions, such as prior knowledge of triggers, access to clean references, or aggressive retraining, and they often lack comprehensive evaluations. These constraints substantially limit their practical a",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "fine-tuning"
+      ]
+    },
+    {
+      "title": "SPHERE: Adaptive VR Indoor Scene Generation via LLM-Enhanced Spatial Preference Learning and Human-in-the-Loop RL",
+      "url": "https://arxiv.org/abs/2610.02023",
+      "source": "arXiv cs.HC",
+      "published_at": "Fri, 02 Oct 2026 00:00:00 -0400",
+      "description": "arXiv:2610.02023v1 Announce Type: cross \nAbstract: While Large Language Models (LLMs) advance 3D indoor scene synthesis, current pipelines fail to retain user-specific preferences across sessions, making immersive authoring a repetitive and physically fatiguing process. We present SPHERE, an adaptive VR generation framework that transforms isolated synthesis into continuous human-AI co-creation. SPHERE extracts persistent spatial preferences from natural multimodal interactions (speech and contr",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "multimodal"
+      ]
+    },
+    {
+      "title": "M-CALLM: Multi-level Context Aware LLM Framework for Group Interaction Prediction",
+      "url": "https://arxiv.org/abs/2511.14661",
+      "source": "arXiv cs.HC",
+      "published_at": "Fri, 02 Oct 2026 00:00:00 -0400",
+      "description": "arXiv:2511.14661v2 Announce Type: replace \nAbstract: This paper explores how large language models can leverage multi-level contextual information to predict group coordination patterns in collaborative mixed reality environments. We demonstrate that encoding individual behavioral profiles, group structural properties, and temporal dynamics as natural language enables LLMs to break through the performance ceiling of statistical models. We build M-CALLM, a framework that transforms multimodal sen",
+      "score": 8.0,
+      "keywords_matched": [
+        "LLM",
+        "language model",
+        "multimodal",
+        "RAG"
+      ]
+    },
+    {
+      "title": "Do Vision Language Models Understand Human Engagement in Games?",
+      "url": "https://arxiv.org/abs/2603.18480",
+      "source": "arXiv cs.HC",
+      "published_at": "Fri, 02 Oct 2026 00:00:00 -0400",
+      "description": "arXiv:2603.18480v2 Announce Type: replace-cross \nAbstract: Inferring human engagement from gameplay video is important for game design and player-experience research, yet it remains unclear whether vision--language models (VLMs) can infer such latent psychological states from visual cues alone. Using the GameVibe Few-Shot dataset across nine first-person shooter games, we evaluate three VLMs under six prompting strategies, including zero-shot prediction, theory-guided prompts grounded in Flow, G",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "game",
+        "language model",
+        "prompt"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-10-03\n\n收到！你的\"疯狂发明家技术雷达\"已上线，为你搜寻、筛选、并转化最新技术动态为可执行的发明灵感。目标明确，风格到位，我们开始！\n\n---\n\n## [Ruflo: 智能体蜂群与自主工作流的开源框架]\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/ruvnet/ruflo\n- 一句话解释：一个开源框架，用于部署智能体（agent）的“蜂群”，协调自主工作流，并构建会话式 AI 系统，支持自适应记忆、联邦化、RAG 等高级功能。\n- 它为什么重要：它直接解决了构建复杂、多智能体协作系统时的核心挑战——协调和通信。开源且功能丰富，这意味着你可以快速上手并在此基础上构建更复杂的系统，而不是从零开始。\n- 技术趋势标签：AI, agent, workflow, RAG, vector, memory, autonomous systems, swarm intelligence\n- 可复用模式：\n    - **Agent Orchestration:** 多个智能体协同工作，完成一个大任务。\n    - **Adaptive Memory:** 智能体能够根据上下文动态调整和利用记忆。\n    - **Federated Agents:** 跨不同环境或平台的智能体协作。\n- 疯狂发明家灵感：\n    1. **一个小的实验：** 用 RuFlo 构建一个简单的“内容审核蜂群”。一个智能体负责识别潜在的违规内容，另一个智能体负责根据预设规则进行标记，第三个智能体负责生成报告。\n    2. **一个中型项目：** 开发一个“代码生成与测试智能体群”。一个智能体根据需求生成代码，另一个智能体编写单元测试，第三个智能体负责运行测试并根据结果反馈给生成智能体进行迭代。\n    3. **一个艺术/游戏/叙事方向：** 创建一个“交互式故事生成系统”。让多个智能体扮演不同的角色（如叙事者、角色、环境），它们根据规则和用户输入实时生成和演变故事线，模拟一个动态的、可交互的叙事世界。\n- 对我项目的启发：Ruflo 提供了一个现成的、强大的基础设施来实验“spec-driven development”和“agent workflow”。你可以定义智能体之间的交互协议（spec），然后用 RuFlo 来实现和测试。\n- 今天是否值得深入研究：是\n- 建议行动：试用\n\n---\n\n## [Claude-Mem: 跨会话的持久化智能体记忆]\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/thedotmack/claude-mem\n- 一句话解释：一个工具，能够捕获智能体在不同会话中的所有活动，用 AI 压缩这些信息，并将相关的上下文注入到未来的会话中，实现跨会话的记忆持久化。\n- 它为什么重要：当前 LLM 智能体的一个主要痛点是缺乏长期记忆和会话间的上下文连贯性。Claude-Mem 提供了一个优雅的解决方案，让智能体能够“记住”过去，从而进行更复杂的、需要长期规划和学习的任务。\n- 技术趋势标签：AI, agent, memory, LLM tools, context management, persistence\n- 可复用模式：\n    - **Long-Term Memory for Agents:** 智能体能够跨越多个独立的交互会话保持记忆。\n    - **Context Compression & Injection:** 高效地存储、检索和利用历史信息。\n- 疯狂发明家灵感：\n    1. **一个小的实验：** 构建一个“智能体学习助手”。让它在每次回答问题后，将回答的关键信息（如用户不理解的概念、新学到的知识点）压缩并存储。下次用户再提问时，它能调用这些记忆，提供更个性化和深入的解释。\n    2. **一个中型项目：** 开发一个“游戏 NPC 记忆系统”。让游戏中的 NPC 能够记住玩家的行为、对话和游戏中的事件，并在后续的互动中做出相应反应，让 NPC 更加生动和有深度。\n    3. **一个艺术/游戏/叙事方向：** 创建一个“动态世界历史记录器”。在一个模拟世界（如 Minecraft）中，记录重要事件、玩家行为、环境变化等，并用 Claude-Mem 压缩这些信息，然后根据时间或特定触发器，让智能体（或游戏本身）能够“回忆”和“讲述”这个世界的过去。\n- 对我项目的启发：这直接解决了你在“AI, agent, LLM tools, game systems, Minecraft/世界生成, creative tool”等方面的痛点。你可以用它来为你的 Minecraft 世界生成器添加“世界记忆”，让生成的内容具有历史的厚重感，或者为你的艺术生成项目增加“风格记忆”。\n- 今天是否值得深入研究：是\n- 建议行动：试用\n\n---\n\n## [JevSpawn: 通过组合动作空间实现自适应智能体推理]\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2610.00437\n- 一句话解释：一种新的智能体模型（Jev-style models）可以在有限域上进行快速概率预测，而无需预先指定所有可用动作，这使得它们在自主任务解决方面更具潜力。\n- 它为什么重要：它提出了一个更灵活、更适合自主学习和探索的智能体推理范式。传统方法需要预定义所有可能动作，这在复杂或动态环境中是不可行的。JevSpawn 的方法允许智能体“动态生成”或“组合”动作，从而提高适应性和效率。\n- 技术趋势标签：AI, agent, LLM, autonomous, reasoning, inference, compositional AI\n- 可复用模式：\n    - **Dynamic Action Space:** 智能体能够根据当前情况动态定义或选择动作。\n    - **Compositional Reasoning:** 将复杂任务分解为可组合的、更小的动作或推理步骤。\n- 疯狂发明家灵感：\n    1. **一个小的实验：** 在一个简单的文本冒险游戏中实现一个 JevSpawn 式的智能体。让它面对不同的场景，动态地组合“移动”、“检查”、“交互”等基础动作，来解决谜题。\n    2. **一个中型项目：** 开发一个“程序合成与优化智能体”。让它能够根据用户需求，动态地组合代码片段或指令，生成功能性程序，并根据反馈进行迭代优化。\n    3. **一个艺术/游戏/叙事方向：** 创造一个“行为生成系统”。不是预设角色的所有动画或行为，而是让智能体根据情境和内部状态，动态地组合肢体语言、面部表情和声音，生成逼真且富有表现力的角色行为。这可以用于生成式动画或高度动态的游戏角色。\n- 对我项目的启发：这与你的“agent workflow”和“spec-driven development”非常契合。你可以定义智能体的“目标”和“约束”（spec），然后用 JevSpawn 的思想来设计其内部的“动作组合”机制，实现高度自主的智能体。\n- 今天是否值得深入研究：是\n- 建议行动：做demo\n\n---\n\n## [SPHERE: LLM 增强的空间偏好学习与人机协作的自适应 VR 室内场景生成]\n- 来源：arXiv cs.HC\n- 链接：https://arxiv.org/abs/2610.02023\n- 一句话解释：一个在 VR 中进行室内场景生成的框架，它结合了 LLM 来学习用户的空间偏好，并通过人机协作的强化学习，实现跨会话的个性化场景定制。\n- 它为什么重要：它解决了当前 3D 内容生成工具（尤其是 VR 中）用户体验差、重复性高的问题，将内容创作从“孤立的合成”转变为“持续的人机共创”。LLM 在这里被用于理解和学习用户的隐性偏好，这非常有启发性。\n- 技术趋势标签：AI, LLM, VR, scene generation, HCI, human-AI collaboration, spatial computing, generative systems\n- 可复用模式：\n    - **LLM-Powered User Preference Learning:** 利用 LLM 理解和建模用户的隐性或显性偏好。\n    - **Human-AI Co-creation Loop:** 设计一个用户与 AI 协同创作内容的流程。\n    - **Adaptive Content Generation:** 生成的内容能够根据用户反馈和历史交互进行自适应调整。\n- 疯狂发明家灵感：\n    1. **一个小的实验：** 构建一个“房间布局推荐器”。让用户输入房间的尺寸和一些家具的描述（如“一张舒适的沙发”，“一张宽大的书桌”），然后用 LLM 来理解这些描述，并生成几种不同的、符合用户描述的布局方案。\n    2. **一个中型项目：** 开发一个“生成式室内设计助手”。用户可以通过自然语言描述想要的风格（如“现代简约”、“复古工业风”），SPHERE 中的 LLM 部分会学习这些风格的特征，并生成相应的 3D 室内场景草图。\n    3. **一个艺术/游戏/叙事方向：** 创建一个“动态叙事空间生成器”。在游戏中，根据玩家的行动、对话选择或情绪状态，实时生成或调整游戏场景的布局、装饰和氛围，让环境本身成为叙事的一部分。例如，玩家选择了一个悲伤的对话选项，场景可能会变得更阴暗、家具摆放也会显得更孤寂。\n- 对我项目的启发：这与你的“AI, world generation, creative coding, HCI, art tech, generative systems”高度相关。你可以借鉴 SPHERE 中 LLM 如何理解和学习“空间偏好”的思路，将其应用于你的 Minecraft 世界生成，让生成的世界不仅仅是随机的，而是带有某种“风格”或“意图”。\n- 今天是否值得深入研究：是\n- 建议行动：做demo\n\n---\n\n## [When Harnesses Lose the Signal: LLM 智能体恢复能力的因果评估]\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2610.00372\n- 一句话解释：研究了 LLM 智能体在遇到执行错误时如何从“harness”（连接 LLM 和环境的机制）中恢复，并强调了评估恢复能力时不能只看最终成功率，还需要考虑恢复行为本身对成功轨迹的影响。\n- 它为什么重要：它深入探讨了 LLM 智能体在复杂、不确定环境中工作的健壮性问题。理解智能体如何从失败中学习和恢复，对于构建更可靠、更自主的系统至关重要。它提醒我们，评估一个系统不仅仅是看最终结果，还要看它的“过程”和“韧性”。\n- 技术趋势标签：AI, agent, LLM, error recovery, robustness, evaluation metrics, workflow reliability\n- 可复用模式：\n    - **Causal Evaluation of Agent Behavior:** 评估智能体行为（如恢复策略）的真正影响，而非仅看最终结果。\n    - **Robust Agent Design:** 构建能够处理和从错误中恢复的智能体。\n- 疯狂发明家灵感：\n    1. **一个小的实验：** 构建一个简单的“容错代码生成器”。让它在生成代码时，故意引入一些小的语法错误，然后用一个“调试/修复”智能体来尝试修复这些错误。观察修复过程，记录哪些修复策略有效，哪些无效。\n    2. **一个中型项目：** 开发一个“自动化测试智能体”。这个智能体不仅要执行测试用例，还要在遇到失败时，尝试自动诊断问题（例如，通过修改输入、调整参数），并记录整个诊断和修复过程。\n    3. **一个艺术/游戏/叙事方向：** 创建一个“有‘韧性’的生成式叙事”。让故事中的角色或情节在遇到“逻辑断裂”或“不合理”的情况时，能够通过某种机制（如“巧合”、“角色失忆”、“外部干预”）来“恢复”并继续故事，而不是直接崩溃。这可以产生意想不到的、有趣的叙事转折。\n- 对我项目的启发：这直接关联到你的“spec-driven development”和“agent workflow”理念。你可以为你的智能体定义“容错规范”，然后用这篇文章的思路来设计和评估其恢复机制。\n- 今天是否值得深入研究：是\n- 建议行动：收藏\n\n---\n\n## 今日模式总结\n今天出现的核心模式围绕着 **“智能体（Agent）的自主性、记忆与协作”**。\n1.  **智能体框架与协作 (Agent Orchestration & Swarms):** RuFlo 这样的框架提供了构建和部署多智能体系统的基础设施，使得复杂的自主工作流成为可能。\n2.  **智能体记忆与上下文管理 (Agent Memory & Context):** Claude-Mem 解决了智能体缺乏长期记忆的问题，使得智能体能够从过去的交互中学习和适应。\n3.  **智能体推理与适应性 (Agent Reasoning & Adaptability):** JevSpawn 提出了更灵活的动作空间和推理方式，让智能体在未知环境中更具自主性和解决问题的能力。\n4.  **人机共创与个性化 (Human-AI Co-creation & Personalization):** SPHERE 展示了如何利用 LLM 理解用户偏好，实现与人类协作的自适应内容生成。\n5.  **智能体健壮性与恢复力 (Agent Robustness & Recovery):** 关于 Harnesses 的研究强调了评估智能体从错误中恢复的能力，这对于构建可靠的自主系统至关重要。\n\n## 今日可做小实验\n**项目名：** 智能对话助手“记忆回响”\n**输入：**\n1.  用户输入一个问题或陈述。\n2.  用户输入第二个问题或陈述（可能与第一个相关，也可能完全不同）。\n**输出：**\n1.  对于第一个输入，助手给出标准回答。\n2.  对于第二个输入，助手在给出回答时，会**主动引用或提及**第一个输入中的一个关键概念或信息，体现“记忆”效果。\n**技术栈：** Python, Claude-Mem (或其概念模拟), 一个基础 LLM (如 OpenAI GPT-3.5-turbo 或 Claude Instant)\n**第一步怎么做：**\n1.  **安装并设置基础 LLM API 访问。**\n2.  **（模拟 Claude-Mem）** 创建一个简单的 Python 类 `MemoryManager`。\n    *   `add_memory(key, value)`: 用于存储关键信息。\n    *   `retrieve_memories(query_keywords)`: 接收一个查询，尝试从存储的记忆中找到最相关的，并返回。\n3.  **构建对话逻辑：**\n    *   当用户第一次输入时，LLM 生成回答，并**提取**回答中的一个核心概念（例如，如果回答是关于“光合作用”，就提取“光合作用”）。将这个概念及其简要解释存入 `MemoryManager`。\n    *   当用户第二次输入时，将用户输入和 `MemoryManager` 中存储的记忆一起作为上下文（prompt）发送给 LLM。例如，prompt 可以是：“这是我之前提到的关于 [之前记忆的关键概念] 的信息。现在，我有一个新问题：[用户第二次输入]。”\n    *   LLM 生成回答，并尝试将新信息与旧记忆联系起来。\n\n这个实验可以在 2 小时内完成，重点在于模拟记忆的存储、检索和在 prompt 中的注入，从而让 LLM 的回答“看起来”更有连贯性。",
+  "gemini_success": true,
+  "telegram_sent": true,
+  "telegram_status": "sent",
+  "telegram_reason": ""
+}
