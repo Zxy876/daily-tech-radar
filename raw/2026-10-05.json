@@ -1,0 +1,251 @@
+[
+  {
+    "title": "thedotmack / claude-mem",
+    "url": "https://github.com/thedotmack/claude-mem",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More [628 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "Gemini",
+      "Copilot"
+    ]
+  },
+  {
+    "title": "mksglu / context-mode",
+    "url": "https://github.com/mksglu/context-mode",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. [190 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "context window",
+      "memory"
+    ]
+  },
+  {
+    "title": "anthropics / claude-code",
+    "url": "https://github.com/anthropics/claude-code",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. [337 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "workflow"
+    ]
+  },
+  {
+    "title": "michael-denyer / pstack-claude",
+    "url": "https://github.com/michael-denyer/pstack-claude",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Claude Code, Codex, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses. [232 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "Claude",
+      "Gemini",
+      "workflow"
+    ]
+  },
+  {
+    "title": "jamwithai / production-agentic-rag-course",
+    "url": "https://github.com/jamwithai/production-agentic-rag-course",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "220 stars today",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "RAG"
+    ]
+  },
+  {
+    "title": "experientiallabs / experiential",
+    "url": "https://github.com/experientiallabs/experiential",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000+ marketplace models. It learns from your traffic to cut costs, recommend better models, and train a specialized model you own. [472 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "open source",
+      "self-hosted"
+    ]
+  },
+  {
+    "title": "earendil-works / pi",
+    "url": "https://github.com/earendil-works/pi",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI [401 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM"
+    ]
+  },
+  {
+    "title": "Agents don't need memory, they need documentation",
+    "url": "https://liao.gg/blog/agents-dont-need-memory",
+    "source": "Hacker News Best",
+    "published_at": "Sat, 03 Oct 2026 17:03:37 +0000",
+    "description": "Article URL: https://liao.gg/blog/agents-dont-need-memory Comments URL: https://news.ycombinator.com/item?id=49945933 Points: 348 # Comments: 211",
+    "score": 4.0,
+    "keywords_matched": [
+      "agent",
+      "memory"
+    ]
+  },
+  {
+    "title": "Panniantong / Agent-Reach",
+    "url": "https://github.com/Panniantong/Agent-Reach",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. [980 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "calesthio / OpenMontage",
+    "url": "https://github.com/calesthio/OpenMontage",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio. [245 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "kaifcodec / user-scanner",
+    "url": "https://github.com/kaifcodec/user-scanner",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "🕵️‍♂️ (2-in-1) Email & Username OSINT suite featuring native MCP support for deep data extraction just from a single Email/Username. Analyzes 2720+ actively maintained scan vectors (210+ email / 2510+ username) for security research, investigations, and digital footprinting. [32 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "vector"
+    ]
+  },
+  {
+    "title": "Bennettxai / FounderOS-DEMO",
+    "url": "https://github.com/Bennettxai/FounderOS-DEMO",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "An open-source, single-operator business command center: run a one-person operated company as AI-assisted departments (comms, funnel, social, finances, agents, and a knowledge graph) from one live dashboard. [10 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "mrifqidaffaaditya / WA-AKG",
+    "url": "https://github.com/mrifqidaffaaditya/WA-AKG",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "A self-hosted WhatsApp Gateway & Dashboard built with Next.js 15, Baileys, and Prisma. Manage multi-session accounts, schedule messages, create auto-replies, and integrate via Webhooks. [31 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "self-hosted"
+    ]
+  },
+  {
+    "title": "DietrichGebert / ponytail",
+    "url": "https://github.com/DietrichGebert/ponytail",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. [1,894 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "addyosmani / agent-skills",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Production-grade engineering skills for AI coding agents. [336 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "coreyhaines31 / marketingskills",
+    "url": "https://github.com/coreyhaines31/marketingskills",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. [197 stars today]",
+    "score": 3.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude"
+    ]
+  },
+  {
+    "title": "Self-hosted HTTP tunnels with SSH and Nginx",
+    "url": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
+    "source": "Hacker News",
+    "published_at": "Sun, 04 Oct 2026 22:25:10 +0000",
+    "description": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh Comments URL: https://news.ycombinator.com/item?id=49958569 Points: 59 # Comments: 12",
+    "score": 2.0,
+    "keywords_matched": [
+      "self-hosted"
+    ]
+  },
+  {
+    "title": "Homa: The end of TCP for AI clusters [video]",
+    "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+    "source": "Hacker News",
+    "published_at": "Sun, 04 Oct 2026 19:42:25 +0000",
+    "description": "Paper: https://www.usenix.org/system/files/atc21-ousterhout.pdf Related: https://lwn.net/Articles/1003059/ , https://www.theregister.com/networks/2026/10/01/stanford-pro... Comments URL: https://news.ycombinator.com/item?id=49957117 Points: 56 # Comments: 19",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  },
+  {
+    "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+    "url": "https://github.com/omlahore/RemoveMacAI",
+    "source": "Hacker News",
+    "published_at": "Sun, 04 Oct 2026 19:42:25 +0000",
+    "description": "Article URL: https://github.com/omlahore/RemoveMacAI Comments URL: https://news.ycombinator.com/item?id=49957116 Points: 356 # Comments: 222",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  },
+  {
+    "title": "Show HN: AI search for every photo and every frame of video on macOS",
+    "url": "https://github.com/allenv0/SCM",
+    "source": "Hacker News",
+    "published_at": "Sun, 04 Oct 2026 09:24:52 +0000",
+    "description": "Article URL: https://github.com/allenv0/SCM Comments URL: https://news.ycombinator.com/item?id=49952111 Points: 139 # Comments: 65",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  }
+]

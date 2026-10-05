@@ -1,0 +1,259 @@
+{
+  "date": "2026-10-05",
+  "candidates": [
+    {
+      "title": "thedotmack / claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More [628 stars today]",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "Gemini",
+        "Copilot"
+      ]
+    },
+    {
+      "title": "mksglu / context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. [190 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "context window",
+        "memory"
+      ]
+    },
+    {
+      "title": "anthropics / claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. [337 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "workflow"
+      ]
+    },
+    {
+      "title": "michael-denyer / pstack-claude",
+      "url": "https://github.com/michael-denyer/pstack-claude",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "Claude Code, Codex, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses. [232 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "Claude",
+        "Gemini",
+        "workflow"
+      ]
+    },
+    {
+      "title": "jamwithai / production-agentic-rag-course",
+      "url": "https://github.com/jamwithai/production-agentic-rag-course",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "220 stars today",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "RAG"
+      ]
+    },
+    {
+      "title": "experientiallabs / experiential",
+      "url": "https://github.com/experientiallabs/experiential",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000+ marketplace models. It learns from your traffic to cut costs, recommend better models, and train a specialized model you own. [472 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "open source",
+        "self-hosted"
+      ]
+    },
+    {
+      "title": "earendil-works / pi",
+      "url": "https://github.com/earendil-works/pi",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI [401 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM"
+      ]
+    },
+    {
+      "title": "Agents don't need memory, they need documentation",
+      "url": "https://liao.gg/blog/agents-dont-need-memory",
+      "source": "Hacker News Best",
+      "published_at": "Sat, 03 Oct 2026 17:03:37 +0000",
+      "description": "Article URL: https://liao.gg/blog/agents-dont-need-memory Comments URL: https://news.ycombinator.com/item?id=49945933 Points: 348 # Comments: 211",
+      "score": 4.0,
+      "keywords_matched": [
+        "agent",
+        "memory"
+      ]
+    },
+    {
+      "title": "Panniantong / Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. [980 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "calesthio / OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio. [245 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "kaifcodec / user-scanner",
+      "url": "https://github.com/kaifcodec/user-scanner",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "🕵️‍♂️ (2-in-1) Email & Username OSINT suite featuring native MCP support for deep data extraction just from a single Email/Username. Analyzes 2720+ actively maintained scan vectors (210+ email / 2510+ username) for security research, investigations, and digital footprinting. [32 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "vector"
+      ]
+    },
+    {
+      "title": "Bennettxai / FounderOS-DEMO",
+      "url": "https://github.com/Bennettxai/FounderOS-DEMO",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "An open-source, single-operator business command center: run a one-person operated company as AI-assisted departments (comms, funnel, social, finances, agents, and a knowledge graph) from one live dashboard. [10 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "mrifqidaffaaditya / WA-AKG",
+      "url": "https://github.com/mrifqidaffaaditya/WA-AKG",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "A self-hosted WhatsApp Gateway & Dashboard built with Next.js 15, Baileys, and Prisma. Manage multi-session accounts, schedule messages, create auto-replies, and integrate via Webhooks. [31 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "self-hosted"
+      ]
+    },
+    {
+      "title": "DietrichGebert / ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. [1,894 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "addyosmani / agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "Production-grade engineering skills for AI coding agents. [336 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "coreyhaines31 / marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. [197 stars today]",
+      "score": 3.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude"
+      ]
+    },
+    {
+      "title": "Self-hosted HTTP tunnels with SSH and Nginx",
+      "url": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
+      "source": "Hacker News",
+      "published_at": "Sun, 04 Oct 2026 22:25:10 +0000",
+      "description": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh Comments URL: https://news.ycombinator.com/item?id=49958569 Points: 59 # Comments: 12",
+      "score": 2.0,
+      "keywords_matched": [
+        "self-hosted"
+      ]
+    },
+    {
+      "title": "Homa: The end of TCP for AI clusters [video]",
+      "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+      "source": "Hacker News",
+      "published_at": "Sun, 04 Oct 2026 19:42:25 +0000",
+      "description": "Paper: https://www.usenix.org/system/files/atc21-ousterhout.pdf Related: https://lwn.net/Articles/1003059/ , https://www.theregister.com/networks/2026/10/01/stanford-pro... Comments URL: https://news.ycombinator.com/item?id=49957117 Points: 56 # Comments: 19",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+      "url": "https://github.com/omlahore/RemoveMacAI",
+      "source": "Hacker News",
+      "published_at": "Sun, 04 Oct 2026 19:42:25 +0000",
+      "description": "Article URL: https://github.com/omlahore/RemoveMacAI Comments URL: https://news.ycombinator.com/item?id=49957116 Points: 356 # Comments: 222",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Show HN: AI search for every photo and every frame of video on macOS",
+      "url": "https://github.com/allenv0/SCM",
+      "source": "Hacker News",
+      "published_at": "Sun, 04 Oct 2026 09:24:52 +0000",
+      "description": "Article URL: https://github.com/allenv0/SCM Comments URL: https://news.ycombinator.com/item?id=49952111 Points: 139 # Comments: 65",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-10-05\n\n好的，疯狂发明家！今天我们来点硬核的，看看有哪些新玩意儿能点燃你的创意火花。我为你精选了最“疯”也最“可做”的几个：\n\n## [Claude-Mem: 永不忘记的 AI 代理](thedotmack / claude-mem)\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/thedotmack/claude-mem\n- 一句话解释：一个让你的 AI 代理能记住跨会话信息的工具，通过压缩和注入相关上下文来增强代理的长期记忆。\n- 它为什么重要：解决了 AI 代理在多轮交互中“健忘”的问题，让代理能更连贯、更智能地执行任务，尤其适合需要长期上下文的任务。\n- 技术趋势标签：AI, Agent, Persistent Context, LLM Tooling, Memory Management\n- 可复用模式：Context Compression, Session Memory Persistence, Agentic Workflow Augmentation\n- 疯狂发明家灵感：\n    1.  **一个**小实验：构建一个简单的命令行 AI 聊天机器人，让它记住你上次的提问和回答，并在新会话中引用。\n    2.  一个中型项目：开发一个“AI 助手助手”，这个助手能管理和优化多个 AI 代理的上下文记忆，让它们协同工作时更高效。\n    3.  一个艺术/游戏/叙事方向：创建一个交互式故事生成器，AI 代理扮演角色，并能记住玩家过去的选择和对话，构建一个动态、有个性的叙事。\n- 对我项目的启发：可以为我的 CS+Art 项目提供一个“AI 叙事记忆”模块，让我的生成式艺术或互动装置对用户的历史交互有更深的“理解”。\n- 今天是否值得深入研究：是\n- 建议行动：试用\n\n## [Context-Mode: AI 编码代理的上下文优化器](mksglu / context-mode)\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/mksglu/context-mode\n- 一句话解释：一个优化 AI 编码代理上下文窗口的工具，通过沙箱化工具输出、持久化会话记忆等方式，让代理更高效地处理代码和任务。\n- 它为什么重要：直接解决了 LLM 的上下文窗口限制问题，这是 AI 代理在复杂任务中的一个主要瓶颈。提高效率，降低成本。\n- 技术趋势标签：AI, Agent, Context Window Optimization, LLM Tooling, Sandboxing\n- 可复用模式：Contextual Sandboxing, Memory Persistence, Agent Routing\n- 疯狂发明家灵感：\n    1.  一个**小**实验：用它来优化一个简单的代码生成代理，看看在生成更长、更复杂的代码片段时，上下文优化带来的差异。\n    2.  一个中型项目：开发一个“智能代码重构助手”，它能利用 Context-Mode 来分析大量代码，并提出更精准、更具上下文的重构建议。\n    3.  一个艺术/游戏/叙事方向：构建一个“AI 关卡编辑器”，代理能理解整个游戏关卡的设计上下文，并根据玩家反馈或设计需求进行智能调整。\n- 对我项目的启发：对于我的游戏系统开发，可以极大地提升 AI 驱动的游戏内容生成（如关卡、NPC 行为）的质量和一致性。\n- 今天是否值得深入研究：是\n- 建议行动：试用\n\n## [Agent-Reach: 让 AI 代理拥有“眼睛”](Panniantong / Agent-Reach)\n- 来源：GitHub Trending Python\n- 链接：https://github.com/Panniantong/Agent-Reach\n- 一句话解释：一个让 AI 代理能够“看到”整个互联网的工具，可以搜索和读取 Twitter, Reddit, YouTube, GitHub 等平台的内容，且无 API 费用。\n- 它为什么重要：赋予了 AI 代理强大的信息收集能力，使其能够基于实时、广泛的网络信息进行决策和行动，这是构建真正自主代理的关键一步。\n- 技术趋势标签：AI, Agent, Web Scraping, Information Gathering, Zero-API Agent\n- 可复用模式：Universal Web Information Agent, Real-time Data Ingestion, Agentic Web Browsing\n- 疯狂发明家灵感：\n    1.  一个**小**实验：创建一个代理，让它每天自动抓取特定 GitHub 仓库的最新提交信息，并用自然语言总结。\n    2.  一个中型项目：开发一个“AI 市场研究员”，它能监控特定行业在社交媒体、论坛上的讨论，识别趋势和用户需求，并生成报告。\n    3.  一个艺术/游戏/叙事方向：构建一个“AI 策展人”，它能浏览互联网上的艺术作品、设计趋势、游戏新闻，并根据你的偏好生成一个“灵感画廊”或“新闻聚合”。\n- 对我项目的启发：可以为我的创意工具链加入一个强大的信息聚合和分析层，让我的生成式系统能“感知”外部世界。\n- 今天是否值得深入研究：是\n- 建议行动：试用\n\n## [OpenMontage: 开源的、代理式的视频制作系统](calesthio / OpenMontage)\n- 来源：GitHub Trending Python\n- 链接：https://github.com/calesthio/OpenMontage\n- 一句话解释：一个开源的、由 AI 代理驱动的视频制作系统，集成了大量的生产流程和工具，可以将你的 AI 编码助手变成视频制作工作室。\n- 它为什么重要：将 AI 的自动化能力延伸到了内容创作的复杂领域——视频制作。这预示着内容生产的民主化和效率革命。\n- 技术趋势标签：AI, Agent, Generative Systems, Video Production, Creative Tooling, Automation\n- 可复用模式：Agentic Content Production Pipeline, Tool Orchestration, Skill-based AI Agents\n- 疯狂发明家灵感：\n    1.  一个**小**实验：用它来自动化生成一个简单的产品演示视频，只需要提供脚本和素材。\n    2.  一个中型项目：开发一个“AI 叙事视频生成器”，你输入故事大纲，AI 代理负责脚本、镜头选择、剪辑，甚至配音。\n    3.  一个艺术/游戏/叙事方向：创建一个“AI 游戏预告片生成器”，它能分析游戏玩法录屏，自动剪辑出最具吸引力的片段，并配上动态字幕和音效。\n- 对我项目的启发：与我的 CS+Art 背景完美结合，可以探索用 AI 代理来自动化生成概念艺术动画、游戏过场动画，或者交互式叙事短片。\n- 今天是否值得深入研究：是\n- 建议行动：试用\n\n## [PonyTail: 像最懒惰的资深开发者一样思考的 AI 代理](DietrichGebert / ponytail)\n- 来源：GitHub Trending\n- 链接：https://github.com/DietrichGebert/ponytail\n- 一句话解释：让你的 AI 代理能像最“懒惰”的资深开发者一样思考，强调“最好的代码是你永远不需要写的”。\n- 它为什么重要：这是一个非常有趣的“反模式”思考，强调效率和代码的简洁性（有时是“偷懒”），这对于优化 AI 的工作流程和代码产出有奇效。\n- 技术趋势标签：AI, Agent, Developer Productivity, Code Optimization, Efficiency\n- 可复用模式：Minimalist Agentic Design, \"Lazy\" Development Philosophy, Code Simplification\n- 疯狂发明家灵感：\n    1.  一个**小**实验：用它来重构一段你写的代码，看看它是否能找到更简洁、更“懒惰”的实现方式。\n    2.  一个中型项目：开发一个“AI 自动化代码审查工具”，它专门寻找那些“过度设计”或“写得太复杂”的代码，并提出简化建议。\n    3.  一个艺术/游戏/叙事方向：设计一个“AI 脚本优化器”，它能接收一个复杂的叙事结构或游戏逻辑，并尝试将其“简化”到最核心、最有效的表达方式，也许能产生意想不到的艺术效果。\n- 对我项目的启发：在开发我的自动化系统和 creative coding 工具时，能帮助我审视是否过度设计，找到更“聪明”的解决方案。\n- 今天是否值得深入研究：是\n- 建议行动：试用\n\n---\n\n## 今日模式总结\n今天最突出的模式是 **“AI Agent 的情境感知与记忆增强”**。Claude-Mem 和 Context-Mode 都直接解决了 AI 代理在处理信息和任务时“健忘”或“上下文不足”的问题，通过持久化记忆、上下文压缩等方式，让代理更智能、更连续。\n\n另一个重要模式是 **“AI Agent 的赋能与泛化”**。Agent-Reach 让代理能够“感知”网络世界，OpenMontage 将代理能力扩展到视频制作，都展示了 AI Agent 正从单纯的编码助手，向更广泛、更复杂的领域渗透，成为强大的生产力工具。\n\nPonyTail 则代表了一种 **“反直觉但高效的 AI 设计哲学”**，挑战传统，追求极致的简洁和效率。\n\n## 今日可做小实验\n**项目名：** “AI 故事碎片记忆器”\n\n**输入：**\n1.  一个简短的故事开头（文本）。\n2.  你对故事的第一个想法或一个关键情节（文本）。\n\n**输出：**\n一个包含故事开头和你第一个想法的 JSON 文件，并附带一个简短的自然语言总结，说明这两个元素如何连接。\n\n**技术栈：**\n- Python\n- LLM (如 Claude, Gemini, 或 OpenAI API)\n- `claude-mem` (如果方便集成，否则模拟其概念)\n\n**第一步怎么做：**\n1.  **安装必要的库：** `pip install openai` (或你选择的 LLM SDK)。\n2.  **编写 Python 脚本：**\n    *   定义一个函数，接收故事开头和你的想法作为参数。\n    *   使用 LLM API，构建一个 prompt，要求它：\n        *   “请将以下故事开头和用户提供的想法进行连接，生成一个简短的叙事片段，并用 JSON 格式返回故事开头、用户想法，以及你生成的连接性总结。”\n        *   Prompt 示例如下：\n            ```\n            System: You are a creative writing assistant that helps connect story elements.\n            User:\n            Story Start: \"在古老的森林深处，一个被遗忘的祭坛静静矗立。\"\n            User Idea: \"祭坛下埋藏着一个失落的王国。\"\n\n            Please connect these two elements and provide a brief narrative snippet. Return the output as a JSON object with the following keys: \"story_start\", \"user_idea\", \"connection_summary\".\n            ```\n    *   将 LLM 的输出解析为 JSON。\n    *   将 JSON 输出保存到本地文件（例如 `story_fragment.json`）。\n3.  **运行脚本：** 调用函数，传入你准备好的故事开头和想法。\n\n这个实验能让你快速体验到 AI 代理如何处理和“记忆”不同来源的信息，并生成有意义的关联。",
+  "gemini_success": true,
+  "telegram_sent": false,
+  "telegram_status": "failed",
+  "telegram_reason": "400 Client Error: Bad Request for url: https://api.telegram.org/bot8650722899:AAHUD-aqNDB7NwiPiGq3R22MVp77Cr_5GEQ/sendMessage"
+}
