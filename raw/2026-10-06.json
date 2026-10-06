@@ -1,0 +1,292 @@
+[
+  {
+    "title": "How To Train Your World Model: Fine-tuning vs RAG for LM-based World Modeling",
+    "url": "https://arxiv.org/abs/2610.02542",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 05 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.02542v1 Announce Type: new \nAbstract: World models (WMs) simulate the transition dynamics of environments, enabling agents to plan over the consequences of their actions. In text-based environments, fine-tuning a Language Model (LM) to serve as a WM has emerged as a dominant paradigm. However, despite the widespread success of non-parametric approaches such as Retrieval Augmented Generation (RAG), retrieval for LM-based world modelling remains underexplored. We conduct a systematic ev",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "language model",
+      "RAG",
+      "fine-tuning",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Are you Synthesizing or Recalling? Evaluating LLMs on Algorithmic Code Retrieval",
+    "url": "https://arxiv.org/abs/2610.02438",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 05 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.02438v1 Announce Type: new \nAbstract: Large language models (LLMs) have demonstrated strong performance in code generation, where success depends on both recalling relevant algorithmic knowledge and reasoning about how to apply it. However, existing LLM pipelines are opaque, with no explicit separation between these two components. We argue that for well-known algorithms whose canonical implementations are widely accessible in pretraining corpora, code generation is better measured as",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "code generation",
+      "reasoning",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Choosing Before Acting: Comparative Value Estimation for Long-Horizon Tool-Use Agents",
+    "url": "https://arxiv.org/abs/2610.02330",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 05 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.02330v1 Announce Type: new \nAbstract: Large language models (LLMs) rely on long-horizon tool invocation sequences for complex tasks, where each invocation can alter the task state and condition subsequent decisions. In long-horizon tool use, final-outcome rewards provide weak credit assignment over long interaction traces. Step-level rewards can offer more targeted feedback, but obtaining reliable step supervision often requires human or LLM judgment, or additional rollouts to estimat",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "tool use"
+    ]
+  },
+  {
+    "title": "VERSE: Verified Self-Evolving Optimizer for Agent Harnesses",
+    "url": "https://arxiv.org/abs/2610.02616",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 05 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.02616v1 Announce Type: new \nAbstract: Harness evolution improves an LLM agent's prompts, tools, and workflow, while the optimizer's own tools and procedures often remain fixed. We study whether an optimizer can improve another agent more effectively by also improving how it diagnoses failures, develops edits, and tests their effects. Two observations guide our design. In a controlled study, optimizer self-evolution fails to improve performance without execution-based verification, but",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Automating the Application of HCI Principles: Skills for On-Demand UI Construction, the Human-AI Space to Think, and the Future of HCI",
+    "url": "https://arxiv.org/abs/2610.02369",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 05 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.02369v1 Announce Type: new \nAbstract: Human-computer interaction (HCI) is in the middle of a transition: large language models can now generate functional user interfaces (UIs) on demand from natural-language task descriptions. A user explains what they are trying to accomplish, and the system materializes a working interface to support it. This capability already exists in systems such as Claude and ChatGPT and continues to grow in fidelity as the underlying models improve. The next ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "Claude",
+      "HCI",
+      "GPT",
+      "language model"
+    ]
+  },
+  {
+    "title": "The Surprising Effectiveness of Shared Memory in Looped Transformers",
+    "url": "https://arxiv.org/abs/2610.02383",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 05 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.02383v1 Announce Type: new \nAbstract: Looped Transformers apply the same layers several times per token, adding compute to improve quality without more parameters. Each recursion, however, writes its own key-value cache, so memory still grows with compute. Inference-time techniques can shrink this cache at a cost in quality. We pretrain looped language models to share memory: only the first recursion writes a cache, and later recursions read it while keeping a short window of their ow",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "transformer",
+      "language model",
+      "inference",
+      "memory"
+    ]
+  },
+  {
+    "title": "Trained Agentic Context Management",
+    "url": "https://arxiv.org/abs/2610.02404",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 05 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.02404v1 Announce Type: new \nAbstract: We study long context language models. Instead of training long context natively, or designing a long context harness, we train a model over the simplest possible harness: a tool to call itself with any specified prompt and a tool to read tokens in a range from the input context. We finetune Qwen3.6-35B-A3B on a diverse synthetic dataset using this harness. With only 8,000 tokens of context, our small model is as strong as GPT-5.4 with 1M tokens o",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "GPT",
+      "language model",
+      "prompt"
+    ]
+  },
+  {
+    "title": "thedotmack / claude-mem",
+    "url": "https://github.com/thedotmack/claude-mem",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More [534 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "Gemini",
+      "Copilot"
+    ]
+  },
+  {
+    "title": "DeReAct: Decomposed Reasoning and Acting for Reliable AI Agents",
+    "url": "https://arxiv.org/abs/2610.02351",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 05 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.02351v1 Announce Type: new \nAbstract: ReAct-based agents typically rely on a single LLM policy to propose actions, interact with the environment, and decide when a task is complete. This coupling makes action authorization and completion control difficult to enforce independently, allowing errors to propagate and unsupported completion claims to terminate execution. We introduce DeReAct, a modular agent architecture that externalizes two gating policies: a Critic that validates propos",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "When Terminal-Agent Training Stalls: Demystifying Data Generation and Verification Challenge",
+    "url": "https://arxiv.org/abs/2610.02405",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 05 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.02405v1 Announce Type: new \nAbstract: Using a frontier model like Claude Opus as a meta-agent to generate terminal tasks and verifiers for RL training is increasingly common. Yet a runnable Docker image and executable test suite do not guarantee a faithful end-to-end pipeline for terminal agent training. We present a meta-agent pipeline motivated by this gap, diagnosing three classes of failure: benchmark invalidity, harness brittleness, and reward misalignment. Prompt redesign and co",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Coherence-Driven Belief Formation and Population Dynamics of Contagion in LLM Agents",
+    "url": "https://arxiv.org/abs/2610.02654",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 05 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.02654v1 Announce Type: new \nAbstract: Models of social contagion usually assume how individuals adopt beliefs and derive population behavior from it. We instead empirically measure belief adoption in language model agents, quantifying the probability an agent adopts a claim given how many peers endorse it. We find this adoption kernel to be sigmoid, a characteristic of complex contagion, with a threshold that is sensitive to three sources: the claim's plausibility, the source's reliab",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model"
+    ]
+  },
+  {
+    "title": "HandMade: Spatial Prompting for Generative 3D Creation with Part-Labeled VR Sketches",
+    "url": "https://arxiv.org/abs/2606.27738",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 05 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2606.27738v2 Announce Type: replace \nAbstract: Text-to-3D generation lowers the barrier to 3D content creation, but text alone is a weak interface for specifying spatial intent: where parts should be placed, how they relate, and how an object should be organized in 3D. We present HandMade, a workflow that combines VR 3D sketching and language for open-domain 3D asset generation. HandMade treats coarse, part-labeled 3D sketches not as incomplete geometry to reconstruct directly, but as spat",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "workflow",
+      "prompt",
+      "generative"
+    ]
+  },
+  {
+    "title": "How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks",
+    "url": "https://arxiv.org/abs/2604.22750",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 05 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2604.22750v3 Announce Type: replace-cross \nAbstract: The wide adoption of AI agents in complex human workflows is driving rapid growth in LLM token consumption. When agents are deployed on tasks that require a significant amount of tokens, three questions naturally arise: (1) Where do AI agents spend the tokens? (2) Which models are more token-efficient? and (3) Can agents predict their token usage before task execution? In this paper, we present the first systematic study of token consump",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow"
+    ]
+  },
+  {
+    "title": "GUI Agents for Continual Game Generation",
+    "url": "https://arxiv.org/abs/2605.28258",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 05 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2605.28258v2 Announce Type: replace-cross \nAbstract: Generating a game is not the same as making one playable. Existing code-generation approaches often translate a prompt directly into an artifact, leaving interaction-level failures undetected. We argue that game generation requires a player and study two roles for graphical user interface (GUI) agents. First, we introduce \\textbf{PlaytestArena}, an evaluation environment containing 200 browser-based game-generation tasks across eight gen",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "game",
+      "prompt"
+    ]
+  },
+  {
+    "title": "MACTS-EM: Multi-Agent Collaborative Time Series Forecasting with Emergent Memory",
+    "url": "https://arxiv.org/abs/2610.02255",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 05 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.02255v1 Announce Type: new \nAbstract: Time series forecasting remains a critical challenge across numerous domains. Despite significant advancements, existing approaches struggle with complex phenomena such as regime shifts, cross-domain knowledge transfer, and multimodal data integration. This paper introduces Multi-Agent Collaborative Time Series Forecasting with Emergent Memory (MACTS-EM), a novel framework where specialised agents collaborate to achieve superior forecasting perfor",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "multimodal",
+      "memory"
+    ]
+  },
+  {
+    "title": "Hesitation Has a Geometry: Entropy-Trained Hyperbolic Probes for Sparse Activation Steering",
+    "url": "https://arxiv.org/abs/2610.02391",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 05 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.02391v1 Announce Type: new \nAbstract: When a large language model solves a mathematical problem, its reasoning is largely hierarchical, and the solution often branches at a few tokens where the next-token entropy is high. Such tree-like structure embeds in hyperbolic space with far lower distortion than in Euclidean space. Activation steering, however, usually edits the hidden states of a pretrained model by adding one fixed Euclidean vector at every token, even though most tokens of ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "language model",
+      "vector",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Prompted to Discriminate: Generalizing Malicious-Input Probes in the Wild",
+    "url": "https://arxiv.org/abs/2610.02413",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 05 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.02413v1 Announce Type: new \nAbstract: LLM agents increasingly rely on activation probes as runtime monitors for prompt injection, jailbreaks, and unsafe requests, reading the model's own hidden state to catch a harmful input before the agent acts on it. A cheap, increasingly common move, borrowed from LLM-as-judge prompting, is to append a short classification instruction after the user's turn and read the probe at that point, to sharpen it: the instruction asks the model to represent",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "prompt"
+    ]
+  },
+  {
+    "title": "The AI Theorist reveals excitonic structure in $\\alpha$-RuCl$_3$",
+    "url": "https://arxiv.org/abs/2610.02417",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 05 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.02417v1 Announce Type: new \nAbstract: Advances in experimental instrumentation and automation generate increasingly rich datasets, but turning experimental observations into microscopic understanding remains a bottleneck in scientific discovery. To accelerate this process, we introduce AI Theorist, a system of artificial intelligence (AI) agents for autonomous discovery of physical models through hypothesis generation, first-principles calculations and evidence-driven refinement. We a",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "automation",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "VictorTaelin / OptMem",
+    "url": "https://github.com/VictorTaelin/OptMem",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play. [85 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "prompt",
+      "memory"
+    ]
+  },
+  {
+    "title": "anthropics / claude-code",
+    "url": "https://github.com/anthropics/claude-code",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. [128 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "workflow"
+    ]
+  }
+]
