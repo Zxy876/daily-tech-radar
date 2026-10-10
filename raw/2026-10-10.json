@@ -1,0 +1,293 @@
+[
+  {
+    "title": "Plan-and-Patch: Diffusion Language Models for Agentic Planning",
+    "url": "https://arxiv.org/abs/2610.10786",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 09 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.10786v1 Announce Type: new \nAbstract: Planning is increasingly important for long-horizon agents, where successful execution requires coordinating subgoals, tool use, and intermediate outcomes over many steps. Yet assumptions made during planning may be invalidated by the environment, tools may return unexpected results, or actions may fail. Effective agents must therefore not only generate plans, but also revise them. Such revisions often affect only part of a plan, leaving the prece",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "diffusion",
+      "language model",
+      "tool use",
+      "planning"
+    ]
+  },
+  {
+    "title": "alsk1992 / CloddsBot",
+    "url": "https://github.com/alsk1992/CloddsBot",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude. [29 stars today]",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "open source",
+      "autonomous",
+      "self-hosted"
+    ]
+  },
+  {
+    "title": "StoreBench: A Live-Commerce Environment for Evaluating and Training Autonomous Operator Agents",
+    "url": "https://arxiv.org/abs/2610.10942",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 09 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.10942v1 Announce Type: new \nAbstract: Reinforcement learning environments are now a primary lever for improving large language model (LLM) capabilities in post-training, yet most agentic benchmarks remain static: the world moves only when the agent acts, the reward is a terminal verdict, and the pass bar is set arbitrarily. We introduce StoreBench, a live-commerce environment in which an agent runs a mid-size online apparel store on a production-grade commerce backend, testing long-ho",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "GameCommBench: A Unified Benchmark and Type-Aware Evaluation for AI-Generated Game Commentary",
+    "url": "https://arxiv.org/abs/2610.11129",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 09 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.11129v1 Announce Type: new \nAbstract: Game commentary is an open-ended generation task requiring multimodal perception, strategic reasoning, and contextual knowledge. Existing AI-Generated Game Commentary (AI-GGC) studies remain fragmented across games, modalities, and evaluation protocols, while overlap-based or holistic evaluators fail to capture the functional heterogeneity of commentary. We introduce \\textsc{GameCommBench}, a unified benchmark spanning board games, sports, and esp",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "game",
+      "multimodal",
+      "RAG",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "What to Admit and How to Present: Governing Persistent Memory in LLM Agents",
+    "url": "https://arxiv.org/abs/2610.11188",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 09 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.11188v1 Announce Type: new \nAbstract: Persistent memory can improve personalization in LLM agents but can also induce sycophancy and cross-domain leakage. We distinguish two governance decisions: admission, which determines what recalled information enters the working context, and presentation, which determines how admitted information is expressed. We implement two inference-time designs without retraining: factor-compiled admission (FC), which assesses whole memory entries, and perm",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "inference",
+      "memory"
+    ]
+  },
+  {
+    "title": "From Surface to Depth: Towards Cognitive Appraisal Reasoning in Multimodal Emotion Understanding",
+    "url": "https://arxiv.org/abs/2610.11918",
+    "source": "arXiv cs.HC",
+    "published_at": "Fri, 09 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.11918v1 Announce Type: cross \nAbstract: Recent multimodal large language models (MLLMs) increasingly incorporate explainable reasoning for emotion understanding. However, reasoning based mainly on observable affective cues can reduce emotion understanding to superficial cue-label associations, giving rise to the Clever Hans effect. Such shortcuts become unreliable when affective cues are implicit, conflicting across modalities, linguistically misleading, or obscured by redundant detai",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "multimodal",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Coverage, Not Difficulty, Sets How Much Synthetic Data an Activation Probe Needs",
+    "url": "https://arxiv.org/abs/2610.10594",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 09 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.10594v1 Announce Type: new \nAbstract: Activation probes that monitor deployed language models are trained on synthetic conversations, and how many a probe needs is open. We trace learning curves over 10-590 synthetic samples for three monitoring concepts, high-stakes situations, replies harmful to a person, and replies that do not follow the user's instruction, on fourteen held-out evaluation distributions and four probe models, varying the generator LLM and the prompt's detail. The n",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "RAG",
+      "prompt"
+    ]
+  },
+  {
+    "title": "thedotmack / claude-mem",
+    "url": "https://github.com/thedotmack/claude-mem",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More [728 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "Gemini",
+      "Copilot"
+    ]
+  },
+  {
+    "title": "apify / crawlee",
+    "url": "https://github.com/apify/crawlee",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation. [15 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "automation",
+      "GPT",
+      "RAG"
+    ]
+  },
+  {
+    "title": "Speaking the Navigator's Language: Trajectory-Grounded Instruction Translation for Frozen Aerial VLN Agents",
+    "url": "https://arxiv.org/abs/2610.10635",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 09 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.10635v1 Announce Type: new \nAbstract: Aerial vision-and-language navigation (VLN) agents are typically trained on detail-rich, trajectory-aligned commands, whereas users issue short, intent-driven instructions; on a frozen OpenFly navigator, this \\emph{instruction gap} drops success rate (SR) from $31.03\\%$ to $11.33\\%$. To scale translator training, we prompt a language model with human-written style examples to convert original commands into paired, intent-centered Weak commands, wh",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "language model",
+      "prompt"
+    ]
+  },
+  {
+    "title": "On the Clock: Towards Punctual and Productive Time-Budgeted AI Agents",
+    "url": "https://arxiv.org/abs/2610.10833",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 09 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.10833v1 Announce Type: new \nAbstract: We study whether small LLM agents can operate effectively under explicit wall-clock time budgets by both respecting the allocated runtime and using available time productively. We evaluate Qwen3.6-27B on five competitions from MLE-Bench Lite and Qwen3-4B on Zork I (Jericho), two agentic benchmarks where additional computational time can meaningfully improve performance. In the simplest setting, where the budget is stated only in the prompt, agents",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "prompt"
+    ]
+  },
+  {
+    "title": "When Interfaces Speak: Data-Aware Generative UI Harness for Active Interaction",
+    "url": "https://arxiv.org/abs/2610.11123",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 09 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.11123v1 Announce Type: new \nAbstract: Most human-agent interaction today remains text-based. Natural language can impose cognitive overload, ambiguity, information chaos, and slow input for complex tasks; ephemeral generative UIs can present structured information and guide users toward task completion. We propose GenUI-Harness, a multi-agent harness pairing a Tool Agent for information retrieval and task execution with a GUI Coder Agent that identifies ambiguities and generates front",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "retrieval",
+      "generative"
+    ]
+  },
+  {
+    "title": "LLM-IDEA: Identifiability-Driven Experimental Agent for Autonomous Discovery of Mechanistic World Models",
+    "url": "https://arxiv.org/abs/2610.11253",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 09 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.11253v1 Announce Type: new \nAbstract: Large language model agents are being increasingly deployed as autonomous scientists, designing experiments and inferring mechanistic world models with minimal human oversight. Yet identifiability is often overlooked: when a plateau is reached, the agent needs to know whether it is not yet capable enough or the model simply is not identifiable from the data, in which case no amount of further experimentation of the same kind can help. We propose t",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "language model",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "TaReD: Tool-Aware Recursive Decomposition for Long-Horizon Tasks",
+    "url": "https://arxiv.org/abs/2610.11268",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 09 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.11268v1 Announce Type: new \nAbstract: Agents combine reasoning with tools to interact with external systems and complete real-world tasks. Early agents typically interleave reasoning and actions along a single execution chain. On complex tasks, this chain becomes unreliable because growing histories obscure intermediate dependencies and allow early planning errors to propagate. Recursively decomposing a complex task into smaller subtasks offers a natural solution, yet effective decomp",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "reasoning",
+      "planning"
+    ]
+  },
+  {
+    "title": "Open-ended Scientific Discovery with Possibilistic Reasoning",
+    "url": "https://arxiv.org/abs/2610.11289",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 09 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.11289v1 Announce Type: new \nAbstract: Autonomous scientific discovery with LLMs requires generating and testing hypotheses adaptively as evidence accumulates while maintaining statistical validity. Existing anytime-valid methods can handle data-dependent hypotheses, but open-ended discovery poses a deeper challenge: the best discovered hypothesis may still be the best of a bad lot, with better explanations yet undiscovered, while even background knowledge such as physical laws may req",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "autonomous",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "ReCast: Attribution-Oriented Step Representation Learning for LLM-Based Agent Systems",
+    "url": "https://arxiv.org/abs/2610.11334",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 09 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.11334v1 Announce Type: new \nAbstract: In LLM-based agent systems, failures can originate from early steps whose effects propagate through subsequent interactions, making their origins difficult to identify. To trace such failures back to their origin, failure attribution has been formulated as the task of identifying the earliest step responsible for the failure. Recent methods leverage LLM internal signals for failure attribution, typically using hidden states as step representations",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "RAG"
+    ]
+  },
+  {
+    "title": "SynCo: Data Synthesis Co-Training for Self-Evolving LLMs via Multi-Agent Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2610.11345",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 09 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.11345v1 Announce Type: new \nAbstract: Self-evolving LLM agents promise to improve autonomously through continual interaction and learning, reducing their dependence on manually curated supervision. Realizing this promise requires not only updating the agent, but also evolving its training experience as its capabilities change. However, most existing pipelines rely on static datasets or separately updated synthesis models, causing previously useful tasks to become trivial while overly ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "Intent Graph: Navigating the Analytical Reasoning Space for Exploratory Data Analysis",
+    "url": "https://arxiv.org/abs/2610.11025",
+    "source": "arXiv cs.HC",
+    "published_at": "Fri, 09 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.11025v1 Announce Type: new \nAbstract: Exploratory data analysis (EDA) is rarely open-ended in practice: analysts work from high-level domain questions toward the concrete analyses that can answer them, prioritizing directions with domain knowledge and prior hypotheses. Large language models (LLMs) can supply such knowledge, but their responses are unstructured, leaving analysts no way to see what has been explored, what is missing, or why one direction was chosen over another. We pres",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "NeuroDivSim: An Interactive Tool for Model-Based Reflection on Cognitive Diversity in Interface Design",
+    "url": "https://arxiv.org/abs/2610.11590",
+    "source": "arXiv cs.HC",
+    "published_at": "Fri, 09 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.11590v1 Announce Type: new \nAbstract: Recent approaches to simulated and synthetic users offer new ways to support design, but raise questions about how computational representations of users should contribute to design practice. We present NeuroDivSim, an interactive tool that explores simulation as an inspectable mechanism for reflecting on cognitive diversity during design and prototyping. Rather than using an LLM to act as a simulated user, NeuroDivSim uses generative AI to constr",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "simulation",
+      "generative"
+    ]
+  },
+  {
+    "title": "\"Hot-Blooded\" vs \"Cold-Blooded\": Simulating the Behavioral Phenotypes of Childhood Aggression via Generative Agents",
+    "url": "https://arxiv.org/abs/2610.11951",
+    "source": "arXiv cs.HC",
+    "published_at": "Fri, 09 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.11951v1 Announce Type: new \nAbstract: This study examines the construct validity of LLM-based generative agents in simulating reactive, proactive, and co-occurring aggression in children. Four distinct agents were instantiated using a theory-driven parameterization grounded in the social information processing model. A total of 1,920 simulation runs were conducted across eight social scenarios, employing a hybrid blind-coding pipeline to extract 32 quantitative behavioral indicators. ",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "simulation",
+      "generative"
+    ]
+  }
+]
