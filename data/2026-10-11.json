@@ -1,0 +1,253 @@
+{
+  "date": "2026-10-11",
+  "candidates": [
+    {
+      "title": "mksglu / context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. [178 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "context window",
+        "memory"
+      ]
+    },
+    {
+      "title": "anthropics / claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. [190 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "workflow"
+      ]
+    },
+    {
+      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+      "url": "https://github.com/rociiu/talorys",
+      "source": "Hacker News",
+      "published_at": "Sat, 10 Oct 2026 10:52:09 +0000",
+      "description": "Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 249 # Comments: 122",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "self-hosted"
+      ]
+    },
+    {
+      "title": "cathrynlavery / diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. [1,190 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "Claude",
+        "Copilot"
+      ]
+    },
+    {
+      "title": "multica-ai / andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. [278 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "Claude"
+      ]
+    },
+    {
+      "title": "huggingface / transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. [96 stars today]",
+      "score": 5.0,
+      "keywords_matched": [
+        "AI",
+        "transformer",
+        "multimodal",
+        "inference"
+      ]
+    },
+    {
+      "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
+      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+      "source": "Hacker News Best",
+      "published_at": "Fri, 09 Oct 2026 11:03:48 +0000",
+      "description": "Article URL: https://github.com/franzenzenhofer/big-arrow-on-the-screen Comments URL: https://news.ycombinator.com/item?id=50018817 Points: 412 # Comments: 188",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "anthropics / knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork [625 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "Claude",
+        "open source"
+      ]
+    },
+    {
+      "title": "home-assistant / core",
+      "url": "https://github.com/home-assistant/core",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "🏡 Open source home automation that puts local control and privacy first. [18 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "automation",
+        "open source"
+      ]
+    },
+    {
+      "title": "sgl-project / sglang",
+      "url": "https://github.com/sgl-project/sglang",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "SGLang is a high-performance serving framework for large language models and multimodal models. [42 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "language model",
+        "multimodal"
+      ]
+    },
+    {
+      "title": "Vincentwei1021 / video-shotcraft",
+      "url": "https://github.com/Vincentwei1021/video-shotcraft",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template [142 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "Claude"
+      ]
+    },
+    {
+      "title": "appwrite / appwrite",
+      "url": "https://github.com/appwrite/appwrite",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more [11 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "agent",
+        "RAG"
+      ]
+    },
+    {
+      "title": "Yeachan-Heo / oh-my-claudecode",
+      "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Teams-first Multi-agent orchestration for Claude Code [43 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "agent",
+        "Claude"
+      ]
+    },
+    {
+      "title": "mattpocock / skills",
+      "url": "https://github.com/mattpocock/skills",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "Skills for Real Engineers. Straight from my .agents directory. [1,736 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "A city-building game in which the city would prefer you didn't",
+      "url": "https://housing.over.pizza/",
+      "source": "Hacker News",
+      "published_at": "Sat, 10 Oct 2026 20:31:50 +0000",
+      "description": "Article URL: https://housing.over.pizza/ Comments URL: https://news.ycombinator.com/item?id=50036864 Points: 166 # Comments: 67",
+      "score": 2.0,
+      "keywords_matched": [
+        "game"
+      ]
+    },
+    {
+      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+      "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+      "source": "Hacker News",
+      "published_at": "Sat, 10 Oct 2026 18:48:35 +0000",
+      "description": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a Comments URL: https://news.ycombinator.com/item?id=50035886 Points: 120 # Comments: 83",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Food processing influences metabolism and brain activity",
+      "url": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
+      "source": "Hacker News",
+      "published_at": "Sat, 10 Oct 2026 05:22:30 +0000",
+      "description": "Article URL: https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html Comments URL: https://news.ycombinator.com/item?id=50029830 Points: 107 # Comments: 83",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Recent AI models struggled to match a human algorithmic innovation",
+      "url": "https://epoch.ai/publications/innovationeval",
+      "source": "Hacker News",
+      "published_at": "Fri, 09 Oct 2026 22:14:40 +0000",
+      "description": "Article URL: https://epoch.ai/publications/innovationeval Comments URL: https://news.ycombinator.com/item?id=50027257 Points: 75 # Comments: 59",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Five months treating bugs like patients and coding agents like a medical team",
+      "url": "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/",
+      "source": "Hacker News",
+      "published_at": "Fri, 09 Oct 2026 15:26:33 +0000",
+      "description": "Article URL: https://www.cockroachlabs.com/blog/experiment-running-hospital-code/ Comments URL: https://news.ycombinator.com/item?id=50021899 Points: 56 # Comments: 26",
+      "score": 2.0,
+      "keywords_matched": [
+        "agent"
+      ]
+    },
+    {
+      "title": "Getting old Macromedia Director Games to run on modern Hardware",
+      "url": "https://werwolv.net/posts/macromedia_copy_protection/",
+      "source": "Hacker News",
+      "published_at": "Fri, 09 Oct 2026 14:18:03 +0000",
+      "description": "Article URL: https://werwolv.net/posts/macromedia_copy_protection/ Comments URL: https://news.ycombinator.com/item?id=50020901 Points: 38 # Comments: 6",
+      "score": 2.0,
+      "keywords_matched": [
+        "game"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-10-11\n\n> ⚠️ AI 分析失败：HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=90)\n\n## 今日候选内容（原始抓取，未经 AI 分析）\n\n### mksglu / context-mode\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/mksglu/context-mode\n- 摘要：Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. [178 stars today]\n- 关键词：AI, agent, context window, memory\n\n### anthropics / claude-code\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/anthropics/claude-code\n- 摘要：Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. [190 star\n- 关键词：AI, agent, Claude, workflow\n\n### Talorys – A self-hosted personal AI agent on Cloudflare's free tier\n- 来源：Hacker News\n- 链接：https://github.com/rociiu/talorys\n- 摘要：Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 249 # Comments: 122\n- 关键词：AI, agent, self-hosted\n\n### cathrynlavery / diagram-design\n- 来源：GitHub Trending\n- 链接：https://github.com/cathrynlavery/diagram-design\n- 摘要：Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. [1,190 stars today]\n- 关键词：AI, Claude, Copilot\n\n### multica-ai / andrej-karpathy-skills\n- 来源：GitHub Trending\n- 链接：https://github.com/multica-ai/andrej-karpathy-skills\n- 摘要：A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. [278 stars today]\n- 关键词：AI, LLM, Claude\n\n### huggingface / transformers\n- 来源：GitHub Trending Python\n- 链接：https://github.com/huggingface/transformers\n- 摘要：🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. [96 stars today]\n- 关键词：AI, transformer, multimodal, inference\n\n### Show HN: Let your AI agents paint big arrows, boxes and text on your screen\n- 来源：Hacker News Best\n- 链接：https://github.com/franzenzenhofer/big-arrow-on-the-screen\n- 摘要：Article URL: https://github.com/franzenzenhofer/big-arrow-on-the-screen Comments URL: https://news.ycombinator.com/item?id=50018817 Points: 412 # Comments: 188\n- 关键词：AI, agent\n\n### anthropics / knowledge-work-plugins\n- 来源：GitHub Trending Python\n- 链接：https://github.com/anthropics/knowledge-work-plugins\n- 摘要：Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork [625 stars today]\n- 关键词：Claude, open source\n\n### home-assistant / core\n- 来源：GitHub Trending Python\n- 链接：https://github.com/home-assistant/core\n- 摘要：🏡 Open source home automation that puts local control and privacy first. [18 stars today]\n- 关键词：automation, open source\n\n### sgl-project / sglang\n- 来源：GitHub Trending Python\n- 链接：https://github.com/sgl-project/sglang\n- 摘要：SGLang is a high-performance serving framework for large language models and multimodal models. [42 stars today]\n- 关键词：language model, multimodal\n\n### Vincentwei1021 / video-shotcraft\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/Vincentwei1021/video-shotcraft\n- 摘要：AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template [142 stars today]\n- 关键词：AI, Claude\n\n### appwrite / appwrite\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/appwrite/appwrite\n- 摘要：The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more [11 stars today]\n- 关键词：agent, RAG\n\n### Yeachan-Heo / oh-my-claudecode\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/Yeachan-Heo/oh-my-claudecode\n- 摘要：Teams-first Multi-agent orchestration for Claude Code [43 stars today]\n- 关键词：agent, Claude\n\n### mattpocock / skills\n- 来源：GitHub Trending\n- 链接：https://github.com/mattpocock/skills\n- 摘要：Skills for Real Engineers. Straight from my .agents directory. [1,736 stars today]\n- 关键词：AI, agent\n\n### A city-building game in which the city would prefer you didn't\n- 来源：Hacker News\n- 链接：https://housing.over.pizza/\n- 摘要：Article URL: https://housing.over.pizza/ Comments URL: https://news.ycombinator.com/item?id=50036864 Points: 166 # Comments: 67\n- 关键词：game\n\n---\n\n> 请配置 `GEMINI_API_KEY` 后重新运行以获取完整分析。",
+  "gemini_success": false,
+  "telegram_sent": true,
+  "telegram_status": "sent",
+  "telegram_reason": ""
+}
