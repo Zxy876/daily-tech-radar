@@ -1,0 +1,252 @@
+[
+  {
+    "title": "Shubhamsaboo / awesome-llm-apps",
+    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source. [173 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "open source",
+      "RAG"
+    ]
+  },
+  {
+    "title": "langgenius / dify",
+    "url": "https://github.com/langgenius/dify",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. [79 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow",
+      "RAG",
+      "self-hosted"
+    ]
+  },
+  {
+    "title": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
+    "url": "https://github.com/plimsollmark/plimsoll",
+    "source": "Hacker News",
+    "published_at": "Sun, 11 Oct 2026 23:47:59 +0000",
+    "description": "Article URL: https://github.com/plimsollmark/plimsoll Comments URL: https://news.ycombinator.com/item?id=50049388 Points: 7 # Comments: 2",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "self-hosted"
+    ]
+  },
+  {
+    "title": "mksglu / context-mode",
+    "url": "https://github.com/mksglu/context-mode",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. [485 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "context window",
+      "memory"
+    ]
+  },
+  {
+    "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+    "url": "https://github.com/rociiu/talorys",
+    "source": "Hacker News Best",
+    "published_at": "Sat, 10 Oct 2026 10:52:09 +0000",
+    "description": "Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 321 # Comments: 150",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "self-hosted"
+    ]
+  },
+  {
+    "title": "ComposioHQ / awesome-claude-skills",
+    "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows [68 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "Claude",
+      "workflow"
+    ]
+  },
+  {
+    "title": "cathrynlavery / diagram-design",
+    "url": "https://github.com/cathrynlavery/diagram-design",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. [1,083 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "Claude",
+      "Copilot"
+    ]
+  },
+  {
+    "title": "lyogavin / airllm",
+    "url": "https://github.com/lyogavin/airllm",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "AirLLM 70B inference with single 4GB GPU [548 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "inference"
+    ]
+  },
+  {
+    "title": "huggingface / transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. [501 stars today]",
+    "score": 5.0,
+    "keywords_matched": [
+      "AI",
+      "transformer",
+      "multimodal",
+      "inference"
+    ]
+  },
+  {
+    "title": "MadsLorentzen / ai-job-search",
+    "url": "https://github.com/MadsLorentzen/ai-job-search",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. [504 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "Claude"
+    ]
+  },
+  {
+    "title": "anthropics / knowledge-work-plugins",
+    "url": "https://github.com/anthropics/knowledge-work-plugins",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork [425 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "Claude",
+      "open source"
+    ]
+  },
+  {
+    "title": "sgl-project / sglang",
+    "url": "https://github.com/sgl-project/sglang",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "SGLang is a high-performance serving framework for large language models and multimodal models. [29 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "language model",
+      "multimodal"
+    ]
+  },
+  {
+    "title": "CopilotKit / OpenIntelligentUI",
+    "url": "https://github.com/CopilotKit/OpenIntelligentUI",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Open-Source Generative UI Framework [278 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "Copilot",
+      "generative"
+    ]
+  },
+  {
+    "title": "getnao / nao",
+    "url": "https://github.com/getnao/nao",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "👾 nao is an open source analytics agent. (1) Create context with nao-core cli, (2) deploy nao chat interface for everyone [20 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "agent",
+      "open source"
+    ]
+  },
+  {
+    "title": "Show HN: BraiNOTES, handwritten notes on your lecture PDFs in a browser tab",
+    "url": "https://github.com/swimmingbrain/brainotes",
+    "source": "Hacker News",
+    "published_at": "Sun, 11 Oct 2026 23:22:29 +0000",
+    "description": "In August, I posted here about TeXbrain, a LaTeX editor that runs completely in the browser, with no need for an account or server. (I didn't excpect it to get that much feedback, bug reports and help from here!) This is the same idea for the other half of my studies, the handwritten notes. I take them on a convertible laptop, and I've had a hard time with apps for that, taking notes from a device to another, exporting as PDF, needing an account for many of them, etc. So I've been working on the",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  },
+  {
+    "title": "Recursive self-improvement through collective intelligence",
+    "url": "https://pub.sakana.ai/mass/",
+    "source": "Hacker News",
+    "published_at": "Sun, 11 Oct 2026 22:22:10 +0000",
+    "description": "Article URL: https://pub.sakana.ai/mass/ Comments URL: https://news.ycombinator.com/item?id=50048522 Points: 58 # Comments: 24",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  },
+  {
+    "title": "The gap in shared understanding of LLM capability is widening",
+    "url": "https://twitter.com/karpathy/status/2109361546505966046",
+    "source": "Hacker News",
+    "published_at": "Sun, 11 Oct 2026 20:20:52 +0000",
+    "description": "Article URL: https://twitter.com/karpathy/status/2109361546505966046 Comments URL: https://news.ycombinator.com/item?id=50047422 Points: 238 # Comments: 391",
+    "score": 2.0,
+    "keywords_matched": [
+      "LLM"
+    ]
+  },
+  {
+    "title": "NYC's \"Click to Cancel\" rule is now in effect",
+    "url": "https://www.nyc.gov/main/click-to-cancel",
+    "source": "Hacker News",
+    "published_at": "Sun, 11 Oct 2026 18:01:16 +0000",
+    "description": "Article URL: https://www.nyc.gov/main/click-to-cancel Comments URL: https://news.ycombinator.com/item?id=50045946 Points: 347 # Comments: 170",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  },
+  {
+    "title": "Documents add to evidence in climate deception case against ExxonMobil",
+    "url": "https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/",
+    "source": "Hacker News Best",
+    "published_at": "Sun, 11 Oct 2026 14:28:39 +0000",
+    "description": "Article URL: https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/ Comments URL: https://news.ycombinator.com/item?id=50043682 Points: 384 # Comments: 206",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  },
+  {
+    "title": "I paid people to try and follow my README",
+    "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
+    "source": "Hacker News Best",
+    "published_at": "Sun, 11 Oct 2026 11:47:29 +0000",
+    "description": "Article URL: https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/ Comments URL: https://news.ycombinator.com/item?id=50042219 Points: 365 # Comments: 187",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  }
+]
