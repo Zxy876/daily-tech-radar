@@ -1,0 +1,296 @@
+{
+  "date": "2026-10-13",
+  "candidates": [
+    {
+      "title": "MathVis: Can AI Reason through Drawing? A Benchmark for Mathematical Figure Generation",
+      "url": "https://arxiv.org/abs/2610.12954",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 12 Oct 2026 00:00:00 -0400",
+      "description": "arXiv:2610.12954v1 Announce Type: new \nAbstract: This paper introduces MathVis, a benchmark designed to evaluate LLMs' ability to visualize frontier mathematical problems and perform diagram-assisted reasoning. The benchmark consists of 512 tasks, each comprising a mathematical statement, a reference diagram, executable TikZ or SVG code, a Gold Intermediate Representation (IR), atomic rubrics, and error codes. Through rigorous evaluation, GPT-6-Astra, Claude Fable 5, and Gemini 3.1 Pro Preview a",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "Claude",
+        "Gemini",
+        "GPT",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Mind the Spatial Gap: A Benchmark for Geospatial Reasoning and Constrained Spatial Editing",
+      "url": "https://arxiv.org/abs/2610.12881",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 12 Oct 2026 00:00:00 -0400",
+      "description": "arXiv:2610.12881v1 Announce Type: new \nAbstract: Understanding and manipulating spatial relations is fundamental to AI systems that reason about physical environments and construct grounded world models. However, existing evaluations of multimodal large language models (MLLMs) for spatial reasoning rely predominantly on static question-answering (QA) over small-scale or synthetic scenes, rarely probing whether models can modify spatial configurations while satisfying explicit geometric constrain",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "multimodal",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "LongHarness: Advancing Agentic Reasoning over 100M-Token Corpora via Stateful Evidence Management",
+      "url": "https://arxiv.org/abs/2610.13075",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 12 Oct 2026 00:00:00 -0400",
+      "description": "arXiv:2610.13075v1 Announce Type: new \nAbstract: Corpus-level long-context reasoning requires agents to acquire and integrate evidence across document collections that exceed their context windows. Existing agent harnesses enable incremental access to these corpora, but acquired evidence and evolving conclusions often remain entangled in a growing interaction history. This implicit state management can lead to two coupled failure modes: unbounded exploration, where retrieval expands the interact",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "context window",
+        "reasoning",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "When Faster Decisions Do Not Make Better Agents: An Empirical Study of Jev in Agent Workflows",
+      "url": "https://arxiv.org/abs/2610.13092",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 12 Oct 2026 00:00:00 -0400",
+      "description": "arXiv:2610.13092v1 Announce Type: new \nAbstract: AI agents depend on repeated decisions to accomplish tasks, with large language models (LLMs) commonly serving as their core decision makers. The recent emergence of Jev offers an opportunity to make these decisions faster and at lower cost. However, it remains unclear whether such local savings can be translated into efficient and reliable task completion. In this paper, we investigate this efficiency transfer across five agents in two representa",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "workflow",
+        "language model"
+      ]
+    },
+    {
+      "title": "From Mastery Profile to Simulated Response: Stochastic Student Knowledge Graphs (SSKG) for Faithful LLM Student Simulation",
+      "url": "https://arxiv.org/abs/2608.21668",
+      "source": "arXiv cs.HC",
+      "published_at": "Mon, 12 Oct 2026 00:00:00 -0400",
+      "description": "arXiv:2608.21668v2 Announce Type: replace-cross \nAbstract: Large language models (LLMs) are increasingly used to simulate students at different mastery levels to generate synthetic training data and stress-test tutoring systems. Existing approaches primarily leverage an LLM to answer questions or perform tests while instructing it to simulate various skill levels. However, LLMs tend to execute at their full built-in capability regardless of target skill levels. We demonstrate this limitation on ",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "simulation",
+        "language model",
+        "RAG"
+      ]
+    },
+    {
+      "title": "SpireBench: Evaluating Long-Horizon Strategic Play of Agentic Models with Slay the Spire",
+      "url": "https://arxiv.org/abs/2610.12596",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 12 Oct 2026 00:00:00 -0400",
+      "description": "arXiv:2610.12596v1 Announce Type: new \nAbstract: Agentic large language models now tackle complex tasks, yet strategic reasoning over long horizons is under-studied: most agentic benchmarks are short and episodic, and performance on long tasks is hard to dissect into stored knowledge, reasoning and luck. We introduce SpireBench, in which models play the complete commercial deck-builder Slay the Spire (StS), where early decisions decide long-term success. Across 20 large language models (LLMs) at",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Faithful and Complete LLM-Assisted Automated Construction of Hierarchical Hardware Knowledge Graphs",
+      "url": "https://arxiv.org/abs/2610.12762",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 12 Oct 2026 00:00:00 -0400",
+      "description": "arXiv:2610.12762v1 Announce Type: new \nAbstract: Hardware datasheets contain engineering specifications essential for component selection, system integration, and hardware compatibility verification. However, manual inspection is tedious and error-prone because datasheets are lengthy and heterogeneous, with dense information fragmented across tables, figures, and text. Although large language models (LLMs) can automate this process, na\\\"ive one-shot processing omits relevant specifications even ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "RAG"
+      ]
+    },
+    {
+      "title": "EvoBelief: Falsifiable World Models for Self-Improving LLM Agents",
+      "url": "https://arxiv.org/abs/2610.12789",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 12 Oct 2026 00:00:00 -0400",
+      "description": "arXiv:2610.12789v1 Announce Type: new \nAbstract: Self-evolving LLM agents typically improve how they act through accumulated experience, reflection, or skills. Yet even procedurally capable agents can fail when their beliefs about environment dynamics are incomplete, incorrect, or outdated. We study a complementary axis of self-evolution: evolving those beliefs during deployment. Such beliefs can support multiple tasks, but incorrect ones can also propagate across them. We introduce EvoBelief, a",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "procedural"
+      ]
+    },
+    {
+      "title": "Mitigating Capability Degradation in LLM Self-Improvement via Representation Geometry Regularization",
+      "url": "https://arxiv.org/abs/2610.12855",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 12 Oct 2026 00:00:00 -0400",
+      "description": "arXiv:2610.12855v1 Announce Type: new \nAbstract: On-Policy Self-distillation is a self-improvement paradigm that enables large language models (LLMs) to improve their capabilities by leveraging the same model as both teacher and student under different conditioning contexts. However, we find that OPSD methods can progressively degrade previously acquired capabilities: queries that are correctly responded at earlier training stages may become incorrectly responded as optimization proceeds, even t",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "RAG"
+      ]
+    },
+    {
+      "title": "Collaborative Learning and Reasoning over Model Slices",
+      "url": "https://arxiv.org/abs/2610.12927",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 12 Oct 2026 00:00:00 -0400",
+      "description": "arXiv:2610.12927v1 Announce Type: new \nAbstract: Large language models (LLMs) excel across diverse tasks, benefiting from knowledge priors, in-context reasoning, and test-time computation. Despite these strengths, single-model reasoning remains vulnerable to error propagation, as later steps depend on the model's earlier outputs, leaving reasoning blind spots difficult to independently reassess. To address this limitation, we develop \\textit{collaborative learning}, encompassing the construction",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "SmartSalesBench: A Resistance-Aware Multi-Turn Benchmark for Evaluating LLM Sales Agents",
+      "url": "https://arxiv.org/abs/2610.12975",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 12 Oct 2026 00:00:00 -0400",
+      "description": "arXiv:2610.12975v1 Announce Type: new \nAbstract: We present SmartSalesBench, the first multi-turn conversational benchmark explicitly designed to evaluate large language model (LLM) sales agents against psychologically grounded, resistant buyer personas. Existing task-oriented dialogue benchmarks assume cooperative users and measure task completion; SmartSalesBench inverts this assumption, placing agents against personas programmed to resist and challenge across conversations of up to twenty tur",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model"
+      ]
+    },
+    {
+      "title": "Work2Skill: Capturing Human GUI Experience for Reusable Agent Skill Induction",
+      "url": "https://arxiv.org/abs/2610.12984",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 12 Oct 2026 00:00:00 -0400",
+      "description": "arXiv:2610.12984v1 Announce Type: new \nAbstract: Computer-use agents can perform increasingly complex GUI tasks, yet unfamiliar software and workflows requiring human domain knowledge remain challenging. Human demonstrations convey procedural knowledge through the same GUI interaction space, but reuse requires interpreting actions in context and separating workflow rules from task-specific details. We thus introduce Work2Skill, a framework that captures human GUI experience for reusable agent sk",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "workflow",
+        "procedural"
+      ]
+    },
+    {
+      "title": "Attention Sees, MLP Refuses: Tracing the Attention-to-MLP Safety Pathway in LLMs",
+      "url": "https://arxiv.org/abs/2610.13078",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 12 Oct 2026 00:00:00 -0400",
+      "description": "arXiv:2610.13078v1 Announce Type: new \nAbstract: Safety-aligned large language models (LLMs) remain vulnerable to jailbreaks and can over-refuse benign requests. Understanding these failures requires distinguishing harmfulness recognition from the computation that writes refusal. We reframe this as a pathway question and make it measurable on residual-stream updates in decoder-only Transformers, separating the harmfulness information a module update exposes from the change it produces in readabl",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "transformer",
+        "language model"
+      ]
+    },
+    {
+      "title": "Structural and Representational Agency in LLM-Driven Timbre Generation and Interpolation",
+      "url": "https://arxiv.org/abs/2610.12532",
+      "source": "arXiv cs.HC",
+      "published_at": "Mon, 12 Oct 2026 00:00:00 -0400",
+      "description": "arXiv:2610.12532v1 Announce Type: cross \nAbstract: Generative creative interfaces routinely report the user's position within a space of possibilities. Such displays imply that the quantities shown were measured from the artefact; in a growing class of systems they are instead predicted by a language model describing its own output, and the two are indistinguishable on screen. Most creative domains lack an agreed measurement against which such a self-report can be checked; audio admits one. In a",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "generative"
+      ]
+    },
+    {
+      "title": "Allowing Generative AI in CS1 with Code Review Interviews and a Flipped Classroom",
+      "url": "https://arxiv.org/abs/2605.21374",
+      "source": "arXiv cs.HC",
+      "published_at": "Mon, 12 Oct 2026 00:00:00 -0400",
+      "description": "arXiv:2605.21374v2 Announce Type: replace \nAbstract: Background and Context: Large Language Models (LLMs) are more accessible and accurate than ever before, raising significant concerns for computing educators. One major concern is students using LLMs to bypass the effort needed to understand concepts and metacognitive strategies essential for success in computer science.\n  Objectives: We contribute a unique approach to assessing and building up student understanding through weekly oral code rev",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "generative"
+      ]
+    },
+    {
+      "title": "What Current AI Benchmarks Leave Unmeasured: Modality, Search, Citations, and Implications (for Safety Evaluations)",
+      "url": "https://arxiv.org/abs/2608.06202",
+      "source": "arXiv cs.HC",
+      "published_at": "Mon, 12 Oct 2026 00:00:00 -0400",
+      "description": "arXiv:2608.06202v2 Announce Type: replace \nAbstract: Large language model (LLM) benchmark evaluations are routinely used to support claims about model safety, reliability, and deployment readiness. Yet most evaluations rely on a single access modality (model APIs), perform a single run per prompt, and report accuracy as the primary outcome metric, without accounting for conditions such as web search that may have effects on model behavior in deployment. We audit these assumptions for one of the ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "prompt"
+      ]
+    },
+    {
+      "title": "CacheScope: Exact-Compute Allocation for Training-Free Diffusion Acceleration",
+      "url": "https://arxiv.org/abs/2610.12530",
+      "source": "arXiv cs.LG",
+      "published_at": "Mon, 12 Oct 2026 00:00:00 -0400",
+      "description": "arXiv:2610.12530v1 Announce Type: new \nAbstract: Training-free feature reuse accelerates diffusion transformer inference by replacing full denoising computation at selected steps with cached approximations. Existing methods mainly improve the reconstruction of skipped features, but we find that once a stable first-order reconstructor is used, increasing reconstruction complexity brings limited gains, whereas the placement of exact-computation steps has a much larger effect on fidelity. More impo",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "transformer",
+        "diffusion",
+        "inference"
+      ]
+    },
+    {
+      "title": "Sample-Adaptive Zeroth-Order Post-Training",
+      "url": "https://arxiv.org/abs/2610.12566",
+      "source": "arXiv cs.LG",
+      "published_at": "Mon, 12 Oct 2026 00:00:00 -0400",
+      "description": "arXiv:2610.12566v1 Announce Type: new \nAbstract: Zeroth-order (ZO) optimization offers a memory-efficient alternative to backpropagation for fine-tuning large language models. However, existing ZO methods typically sample training examples uniformly, overlooking their evolving importance and leaving avoidable estimation variance. To address this limitation, we propose Sample-Adaptive Zeroth-Order Optimization (SAZO), which learns sample importance online and adaptively allocates queries to accel",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "language model",
+        "fine-tuning",
+        "memory"
+      ]
+    },
+    {
+      "title": "STAPLE: Static Sparse Upcycling of Pretrained Checkpoints via Embedding Modules",
+      "url": "https://arxiv.org/abs/2610.12599",
+      "source": "arXiv cs.LG",
+      "published_at": "Mon, 12 Oct 2026 00:00:00 -0400",
+      "description": "arXiv:2610.12599v1 Announce Type: new \nAbstract: Sparse computation can scale the parametric capacity of LLMs without proportionally increasing active computation, but pretraining sparse architectures remains expensive and data-hungry. Existing sparse upcycling methods mainly target Mixture-of-Experts models, where expert homogeneity, sample inefficiency, and system overheads can limit practical scalability. Static sparse memory offers predictable access and token-specific updates that can help ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "embedding",
+        "memory"
+      ]
+    },
+    {
+      "title": "SynAct: Synergistic Active Feedback Learning for LLM Agents",
+      "url": "https://arxiv.org/abs/2610.12651",
+      "source": "arXiv cs.LG",
+      "published_at": "Mon, 12 Oct 2026 00:00:00 -0400",
+      "description": "arXiv:2610.12651v1 Announce Type: new \nAbstract: LLM agents executing multi-step workflows fail in two fundamentally different ways: recoverable slips, which further attempts can repair, and knowledge gaps, which retrying cannot resolve. Expert feedback can address the latter, but expert attention is scarce. The key challenge is therefore not whether to ask for feedback, but where feedback can change the outcome. Existing approaches either avoid expert feedback, allowing agents to reinforce thei",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "workflow"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-10-13\n\n经过对 20 篇候选论文的技术栈、跨学科潜力（设计/艺术/CS）以及构建疯狂发明工具链的价值筛选，为你剔除了纯基准测评和传统优化论文，精选出以下 **4 项最具启发性、最适合变成个人项目**的研究：\n\n---\n\n## 1. MathVis: Can AI Reason through Drawing? (以图推演的中间表征系统)\n- **来源：** arXiv cs.AI\n- **链接：** https://arxiv.org/abs/2610.12954\n- **一句话解释：** 验证 LLM 能否不靠纯文字、而是通过生成可执行的 TikZ/SVG 代码与中间表征（IR）边画图边完成复杂推理。\n- **它为什么重要：** 传统的思维链（Chain of Thought）是纯自然语言的，但人类艺术家和架构师依靠“草图（Sketching）”来降低认知负荷。将绘图代码（SVG/TikZ）作为一种*可执行的推理步骤*，打开了多模态生成式推理的新接口。\n- **技术趋势标签：** `Visual-Reasoning`, `Code-as-Thought`, `SVG/TikZ`, `Creative Tool`\n- **可复用模式：** **草图即状态机（Sketch-as-State）**。在让 LLM 做出决策前，强制它先输出一个参数化的矢量图（SVG/Canvas）作为工作记忆区，再基于该图形的状态做出逻辑裁决。\n- **疯狂发明家灵感：**\n  1. **一个小实验：** 一个自动生成 ASCII/SVG 架构图的 CLI：写需求时，LLM 先画架构拓扑图，再根据拓扑图生成规范文档（Spec）。\n  2. **一个中型项目：** **Diagram-First Spec Generator**：设计一个给艺术程序员用的 IDE 插件，输入自然语言交互逻辑，AI 先画出状态机图表与连线，用户在画布上手工连线调整，再一键反编译出运行代码。\n  3. **一个艺术/游戏/叙事方向：** **“盲人地牢生成器”**：Agent 玩文字 MUD 游戏时，必须实时在后台输出自身认知的地牢 SVG 地图。玩家看到的不是文本，而是 Agent 脑中“逐步扭曲或清晰”的地图绘制过程。\n- **对我项目的启发：** 非常适合融入 Spec-driven 流程——未来的 Spec 不必是纯 Markdown，可以是 LLM 边画边改的动态图纸系统。\n- **今天是否值得深入研究：** 是\n- **建议行动：** 做demo\n\n---\n\n## 2. EvoBelief: Falsifiable World Models for Self-Improving LLM Agents (可证伪的 Agent 动态世界观)\n- **来源：** arXiv cs.AI\n- **链接：** https://arxiv.org/abs/2610.12789\n- **一句话解释：** Agent 不仅积累经验，还会在运行中构建并实时“证伪/推翻”自己关于物理或环境规则的信念（World Model）。\n- **它为什么重要：** 现有的 Minecraft 或游戏 Agent 大多依赖硬编码的环境物理规则。EvoBelief 允许 Agent 在被“烫到”或“摔死”后，动态修改其核心信念表（可证伪的假设体系），这是具有真正涌现式生命感 NPC 的核心。\n- **技术趋势标签：** `World-Model`, `Agent-Belief`, `Emergent-Behavior`, `Minecraft/Game`\n- **可复用模式：** **假设-验证世界观字典（Hypothesis-Falsification Registry）**。将 Agent 的决策驱动力解耦为独立的“当前世界规则假设”，每次行动失败不是重试，而是触发对该假设的降级与篡改。\n- **疯狂发明家灵感：**\n  1. **一个小实验：** 在一个简易 2D Grid 迷宫中，给 Agent 一个错误的物理常识（比如“水可以穿透，火不会死”），记录它尝试多少步后自己改写出正确的物理 Spec。\n  2. **一个中型项目：** **Minecraft“外星探险家”NPC**：把 NPC 扔进装满未知 Mod 的 Minecraft 世界，它不带 Wiki 知识库，完全靠尝试、死亡、更新规则字典来画出自己的《生存百科指南》。\n  3. **一个艺术/游戏/叙事方向：** **妄想症叙事生成器**：一个侦探推理游戏，侦探 Agent 会形成荒谬但内部自洽的规则假设（“红衣服的人说话必定是谎言”），玩家的目标不是破案，而是通过设计事件去“证伪”Agent 的偏见与妄想。\n- **对我项目的启发：** 对自动化系统的容错机制很有帮助：让系统不再报 `500 Retry`，而是让 Agent 主动推翻对当前 API 接口特性的“幻觉认知”。\n- **今天是否值得深入研究：** 是\n- **建议行动：** 试用\n\n---\n\n## 3. Work2Skill: Capturing Human GUI Experience for Reusable Agent Skill Induction (人类操作提炼为通用操作原语)\n- **来源：** arXiv cs.AI\n- **链接：** https://arxiv.org/abs/2610.12984\n- **一句话解释：** 录制人类在 GUI 软件上的操作演示，自动剔除偶然数据，将其解构提炼为可复用、跨场景的 Agent 技能动作流（Procedural Skill）。\n- **它为什么重要：** 传统的 Computer-use 成本高且随机性大。Work2Skill 提供了一种机制：将人类在 Blender/Photoshop/TouchDesigner 等复杂界面的行为，提炼成确定性的、状态驱动的“技能树”。\n- **技术趋势标签：** `GUI-Agent`, `Procedural-Knowledge`, `Macro-Induction`, `HCI`\n- **可复用模式：** **操作行为抽象化（Trace-to-DSL Pipeline）**。从 UI 坐标/点击事件流中，抽象出带有前后置断言（Pre/Post-conditions）的代码化工作流。\n- **疯狂发明家灵感：**\n  1. **一个小实验：** 录屏自己做一段 Figma 排版，用多模态模型把录屏拆解为标准操作步骤（Step-by-step UI 规范）。\n  2. **一个中型项目：** **Creative-Tool Macro Synthesizer**：一个本地守护进程，观察你在 Blender/MaxMSP 里的重复性鼠标动作，自动用 Python/节点生成一个定制的“一键宏插件”。\n  3. **一个艺术/游戏/叙事方向：** **“人类习惯标本馆”**：抓取不同数字艺术家使用画布的手势流数据，提取出他们的“数字作画直觉”，让不同的 AI 画家 Agent 继承这些习惯并在画布上互动打架。\n- **对我项目的启发：** 对于设计开发工作流（Drift/Agent Workflow）而言，将人的经验变成标准 Spec 的过程不再需要手写，可以直接从“屏幕演示”反推生成。\n- **今天是否值得深入研究：** 是\n- **建议行动：** 收藏\n\n---\n\n## 4. SpireBench: Evaluating Long-Horizon Strategic Play of Agentic Models with Slay the Spire (杀戮尖塔长程战略基准)\n- **来源：** arXiv cs.AI\n- **链接：** https://arxiv.org/abs/2610.12596\n- **一句话解释：** 用商业卡牌构建 Roguelike 游戏《杀戮尖塔》（Slay the Spire）作为环境，专门压测和评估 Agent 处理长程决策、组合构建和运气波动的能力。\n- **它为什么重要：** 这是游戏系统（Game Systems）与 Agentic 架构交汇的绝佳标本。游戏包含巨大的组合状态空间（遗物、卡组、路线规划），迫使系统在战术执行（单卡使用）与长期战略（流派构筑）之间保持一致。\n- **技术趋势标签：** `Game-AI`, `Long-Horizon`, `Deckbuilder`, `Emergent-Strategy`\n- **可复用模式：** **双层规划架构（宏观战略 Spec + 微观战术 Agent）**。上层维护构筑意图（Build Intent），下层维护状态转移，防止长文本推理过程中的“战略漂移”。\n- **疯狂发明家灵感：**\n  1. **一个小实验：** 接入《杀戮尖塔》开源模拟器，写一个最简 Agent，让它仅基于卡组语义解释输出“当前成型流派”的自述卡片。\n  2. **一个中型项目：** **Roguelike 规则自动平衡器（AI Playtester）**：给自研的桌面卡牌或策略小游戏接入此 Agent 框架，让数个不同性格的 Agent 自动对战 1000 局，自动汇报哪个卡牌组合破坏了游戏生态。\n  3. **一个艺术/游戏/叙事方向：** **“命运赌徒”生成式戏剧**：把一个完整的卡牌游戏跑测过程实时翻译成文字史诗：一张普通牌的获得被渲染成命运转折点，Agent 的生命值起伏直接驱动生成古典悲剧剧本。\n- **对我项目的启发：** 如果要做复杂游戏系统或世界生成，这个论文里的环境抽象层（游戏状态序列化为结构化 prompt）是极佳的代码脚手架。\n- **今天是否值得深入研究：** 是\n- **建议行动：** 收藏\n\n---\n\n## 今日模式总结\n\n1. **图元/草图作为高维推理中间件（Code/Visual Intermediate Representation）：**\n   纯文本不是 Agent 的终极边界。通过可渲染代码（SVG、TikZ、Graphviz）将结构化关系画出来，反倒大幅降低了模型的推理错误率。\n2. **假设驱动的动态世界观（Dynamic Belief Maintenance）：**\n   环境不再是静态 Prompt 注入的背景板，而是可被实验、可被失败推翻的假设网络（Hypothesis Engine），这正是自主 NPC 和长程自动化的核心驱动机制。\n\n---\n\n## 今日可做小实验：SVG 思维链涂鸦板 (SVG-Chain-of-Thought)\n\n**目标：验证 LLM 在输出代码前“先画图”是否能带来完全不同的设计逻辑。**\n\n- **项目名：** `SVG-Pencil-Thinker`\n- **输入：** 一段带有拓扑结构的设计需求（例如：“一个拥有 3 个独立岛屿、中央有一个发光灯塔，且岛屿间通过隐形传送带连接的低多边形游戏场景生成 Spec”）。\n- **输出：**\n  1. 一个原生的 `output.svg` 文件（展示该场景的顶视图草图架构）；\n  2. 基于这张 SVG 中各个图形的 `<circle>` / `<rect>` 坐标生成的最终场景 Spec（JSON）。\n- **技术栈：** Node.js 或 Python + Anthropic/OpenAI API + 本地浏览器（直接预览 SVG）。\n- **第一步怎么做：**\n  1. 新建 `sketch_prompt.py`。\n  2. 设定 System Prompt：“你是一个视觉逻辑推理引擎。解决空间布局问题时，你**严禁直接回答**。你必须先在 `<sketch>` 标签中输出一段干净的 500x500 像素 SVG 代码绘制布局构想，然后再基于该 SVG 元素属性提取 JSON 配置”。\n  3. 运行代码，将返回的 SVG 写入本地 `view.html` 查看 AI 的“草图推理过程”。用时不超过 40 分钟。",
+  "gemini_success": true,
+  "telegram_sent": true,
+  "telegram_status": "sent",
+  "telegram_reason": ""
+}
