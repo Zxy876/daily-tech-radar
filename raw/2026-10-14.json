@@ -1,0 +1,280 @@
+[
+  {
+    "title": "MathVis: Can AI Reason through Drawing? A Benchmark for Mathematical Figure Generation",
+    "url": "https://arxiv.org/abs/2610.12954",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 13 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.12954v1 Announce Type: new \nAbstract: This paper introduces MathVis, a benchmark designed to evaluate LLMs' ability to visualize frontier mathematical problems and perform diagram-assisted reasoning. The benchmark consists of 512 tasks, each comprising a mathematical statement, a reference diagram, executable TikZ or SVG code, a Gold Intermediate Representation (IR), atomic rubrics, and error codes. Through rigorous evaluation, GPT-6-Astra, Claude Fable 5, and Gemini 3.1 Pro Preview a",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "Claude",
+      "Gemini",
+      "GPT",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Mind the Spatial Gap: A Benchmark for Geospatial Reasoning and Constrained Spatial Editing",
+    "url": "https://arxiv.org/abs/2610.12881",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 13 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.12881v1 Announce Type: new \nAbstract: Understanding and manipulating spatial relations is fundamental to AI systems that reason about physical environments and construct grounded world models. However, existing evaluations of multimodal large language models (MLLMs) for spatial reasoning rely predominantly on static question-answering (QA) over small-scale or synthetic scenes, rarely probing whether models can modify spatial configurations while satisfying explicit geometric constrain",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "multimodal",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "LongHarness: Advancing Agentic Reasoning over 100M-Token Corpora via Stateful Evidence Management",
+    "url": "https://arxiv.org/abs/2610.13075",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 13 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.13075v1 Announce Type: new \nAbstract: Corpus-level long-context reasoning requires agents to acquire and integrate evidence across document collections that exceed their context windows. Existing agent harnesses enable incremental access to these corpora, but acquired evidence and evolving conclusions often remain entangled in a growing interaction history. This implicit state management can lead to two coupled failure modes: unbounded exploration, where retrieval expands the interact",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "context window",
+      "reasoning",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "When Faster Decisions Do Not Make Better Agents: An Empirical Study of Jev in Agent Workflows",
+    "url": "https://arxiv.org/abs/2610.13092",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 13 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.13092v1 Announce Type: new \nAbstract: AI agents depend on repeated decisions to accomplish tasks, with large language models (LLMs) commonly serving as their core decision makers. The recent emergence of Jev offers an opportunity to make these decisions faster and at lower cost. However, it remains unclear whether such local savings can be translated into efficient and reliable task completion. In this paper, we investigate this efficiency transfer across five agents in two representa",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "language model"
+    ]
+  },
+  {
+    "title": "SpireBench: Evaluating Long-Horizon Strategic Play of Agentic Models with Slay the Spire",
+    "url": "https://arxiv.org/abs/2610.12596",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 13 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.12596v1 Announce Type: new \nAbstract: Agentic large language models now tackle complex tasks, yet strategic reasoning over long horizons is under-studied: most agentic benchmarks are short and episodic, and performance on long tasks is hard to dissect into stored knowledge, reasoning and luck. We introduce SpireBench, in which models play the complete commercial deck-builder Slay the Spire (StS), where early decisions decide long-term success. Across 20 large language models (LLMs) at",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Faithful and Complete LLM-Assisted Automated Construction of Hierarchical Hardware Knowledge Graphs",
+    "url": "https://arxiv.org/abs/2610.12762",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 13 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.12762v1 Announce Type: new \nAbstract: Hardware datasheets contain engineering specifications essential for component selection, system integration, and hardware compatibility verification. However, manual inspection is tedious and error-prone because datasheets are lengthy and heterogeneous, with dense information fragmented across tables, figures, and text. Although large language models (LLMs) can automate this process, na\\\"ive one-shot processing omits relevant specifications even ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "RAG"
+    ]
+  },
+  {
+    "title": "EvoBelief: Falsifiable World Models for Self-Improving LLM Agents",
+    "url": "https://arxiv.org/abs/2610.12789",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 13 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.12789v1 Announce Type: new \nAbstract: Self-evolving LLM agents typically improve how they act through accumulated experience, reflection, or skills. Yet even procedurally capable agents can fail when their beliefs about environment dynamics are incomplete, incorrect, or outdated. We study a complementary axis of self-evolution: evolving those beliefs during deployment. Such beliefs can support multiple tasks, but incorrect ones can also propagate across them. We introduce EvoBelief, a",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "procedural"
+    ]
+  },
+  {
+    "title": "Mitigating Capability Degradation in LLM Self-Improvement via Representation Geometry Regularization",
+    "url": "https://arxiv.org/abs/2610.12855",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 13 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.12855v1 Announce Type: new \nAbstract: On-Policy Self-distillation is a self-improvement paradigm that enables large language models (LLMs) to improve their capabilities by leveraging the same model as both teacher and student under different conditioning contexts. However, we find that OPSD methods can progressively degrade previously acquired capabilities: queries that are correctly responded at earlier training stages may become incorrectly responded as optimization proceeds, even t",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "RAG"
+    ]
+  },
+  {
+    "title": "Collaborative Learning and Reasoning over Model Slices",
+    "url": "https://arxiv.org/abs/2610.12927",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 13 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.12927v1 Announce Type: new \nAbstract: Large language models (LLMs) excel across diverse tasks, benefiting from knowledge priors, in-context reasoning, and test-time computation. Despite these strengths, single-model reasoning remains vulnerable to error propagation, as later steps depend on the model's earlier outputs, leaving reasoning blind spots difficult to independently reassess. To address this limitation, we develop \\textit{collaborative learning}, encompassing the construction",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "SmartSalesBench: A Resistance-Aware Multi-Turn Benchmark for Evaluating LLM Sales Agents",
+    "url": "https://arxiv.org/abs/2610.12975",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 13 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.12975v1 Announce Type: new \nAbstract: We present SmartSalesBench, the first multi-turn conversational benchmark explicitly designed to evaluate large language model (LLM) sales agents against psychologically grounded, resistant buyer personas. Existing task-oriented dialogue benchmarks assume cooperative users and measure task completion; SmartSalesBench inverts this assumption, placing agents against personas programmed to resist and challenge across conversations of up to twenty tur",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model"
+    ]
+  },
+  {
+    "title": "Work2Skill: Capturing Human GUI Experience for Reusable Agent Skill Induction",
+    "url": "https://arxiv.org/abs/2610.12984",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 13 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.12984v1 Announce Type: new \nAbstract: Computer-use agents can perform increasingly complex GUI tasks, yet unfamiliar software and workflows requiring human domain knowledge remain challenging. Human demonstrations convey procedural knowledge through the same GUI interaction space, but reuse requires interpreting actions in context and separating workflow rules from task-specific details. We thus introduce Work2Skill, a framework that captures human GUI experience for reusable agent sk",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow",
+      "procedural"
+    ]
+  },
+  {
+    "title": "Attention Sees, MLP Refuses: Tracing the Attention-to-MLP Safety Pathway in LLMs",
+    "url": "https://arxiv.org/abs/2610.13078",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 13 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.13078v1 Announce Type: new \nAbstract: Safety-aligned large language models (LLMs) remain vulnerable to jailbreaks and can over-refuse benign requests. Understanding these failures requires distinguishing harmfulness recognition from the computation that writes refusal. We reframe this as a pathway question and make it measurable on residual-stream updates in decoder-only Transformers, separating the harmfulness information a module update exposes from the change it produces in readabl",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "transformer",
+      "language model"
+    ]
+  },
+  {
+    "title": "mksglu / context-mode",
+    "url": "https://github.com/mksglu/context-mode",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. [969 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "context window",
+      "memory"
+    ]
+  },
+  {
+    "title": "Know What You Don't Know: Agentic Data Synthesis by Evolving Generation Space for Closed-Loop Learning",
+    "url": "https://arxiv.org/abs/2610.12593",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 13 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.12593v1 Announce Type: new \nAbstract: The continued improvement of large language models increasingly depends on synthetic experience, yet effective data synthesis for interactive agents requires not only executable and verifiable trajectories, but also interactions that provide learning value for the current task agent. Existing methods increasingly incorporate environment feedback, data validation, or learner failures, but still face a feedback-to-decision gap: observed weaknesses d",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "language model"
+    ]
+  },
+  {
+    "title": "CLEAT: Learning Value-Guided Clarification for Interactive Agents",
+    "url": "https://arxiv.org/abs/2610.12655",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 13 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.12655v1 Announce Type: new \nAbstract: LLM agents can execute increasingly complex tasks, but effective assistance also requires aligning their actions with goals and constraints that users may leave unstated. We study this problem as interactive intent alignment through clarification. Yet clarification is useful only when the agent can turn the answer into better decisions. As training changes how the agent handles incomplete information and uses additional answers, the same clarifica",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM"
+    ]
+  },
+  {
+    "title": "VEPA: Verified Evolving Formal Policy for Lifelong LLM Agent Guardrails",
+    "url": "https://arxiv.org/abs/2610.12813",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 13 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.12813v1 Announce Type: new \nAbstract: LLM agents increasingly operate over sensitive resources, such as private documents and mutable system states, which can create serious safety and security risks. Runtime guardrails should therefore make inspectable, reproducible, and deterministic allow or refuse decisions before potentially irreversible agent actions are executed. However, safety and security requirements are rarely complete before deployment, so guardrails need to keep adapting",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM"
+    ]
+  },
+  {
+    "title": "Collaborative Theory of Mind: Learning to Self-Revise by Anticipating User Responses",
+    "url": "https://arxiv.org/abs/2610.12872",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 13 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.12872v1 Announce Type: new \nAbstract: Large language models (LLMs) demonstrate strong individual task performance, yet still struggle to collaborate with users over extended, multi-turn interactions, for example by attempting solutions before understanding the user's needs or by failing to revise mistaken assumptions after receiving feedback. We propose Collaborative Theory of Mind (CToM), a framework that addresses these challenges by explicitly training LLMs to anticipate user respo",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model"
+    ]
+  },
+  {
+    "title": "Learning More by Training Less: Uncertainty-Guided Progressive Contraction for Efficient Reasoning Post-Training",
+    "url": "https://arxiv.org/abs/2610.12933",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 13 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.12933v1 Announce Type: new \nAbstract: Large language models have achieved remarkable advances in complex reasoning. However, scaling reasoning post-training with ever-larger corpora can substantially increase training cost without proportional performance gains. In this study, we therefore ask: how far can reasoning supervision be compressed without sacrificing capability? To this end, we propose an uncertainty-guided progressive contraction framework that concentrates supervision and",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Beyond Semantic IDs: Finite-Beam Reachability and Continuous-Query Generation in Generative Recommendation",
+    "url": "https://arxiv.org/abs/2610.12977",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 13 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.12977v1 Announce Type: new \nAbstract: Generative recommendation (GR) of social media platforms commonly retrieves items by autoregressively decoding discrete Semantic IDs (SIDs) with finite-width beam search. This work examines how this output interface constrains whether held-out targets enter finite returned lists, while distinguishing catalog-wide scoreability from empirical top-K support. We introduce two continuous-query paradigms: CQG-Single generates one retrieval query in a si",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "retrieval",
+      "generative"
+    ]
+  },
+  {
+    "title": "Benchmarking Embedding Geometries and Clustering Algorithms for Unsupervised Patent Claim Classification",
+    "url": "https://arxiv.org/abs/2610.12997",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 13 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.12997v1 Announce Type: new \nAbstract: Prior-art retrieval systems are structurally organized around classification codes, making cross-code discovery difficult. This paper asks if an unsupervised representation trained on patent text can recover relevant connections that code-restricted search cannot, and if hyperbolic space helps. We trained a hyperbolic and a matched Euclidean Variational Autoencoder (VAE) on 45,000 US patents (96 runs, 6 seeds). The hyperbolic model retrieves genui",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "embedding",
+      "retrieval"
+    ]
+  }
+]
