@@ -1,0 +1,252 @@
+[
+  {
+    "title": "ruvnet / ruflo",
+    "url": "https://github.com/ruvnet/ruflo",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated [146 stars today]",
+    "score": 16.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "workflow",
+      "autonomous",
+      "RAG",
+      "vector",
+      "memory"
+    ]
+  },
+  {
+    "title": "mksglu / context-mode",
+    "url": "https://github.com/mksglu/context-mode",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. [947 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "context window",
+      "memory"
+    ]
+  },
+  {
+    "title": "K-Dense-AI / scientific-agent-skills",
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard. [163 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude"
+    ]
+  },
+  {
+    "title": "wshobson / agents",
+    "url": "https://github.com/wshobson/agents",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi [118 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "agent",
+      "Claude",
+      "Copilot"
+    ]
+  },
+  {
+    "title": "apify / apify-mcp-server",
+    "url": "https://github.com/apify/apify-mcp-server",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store. [233 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "automation"
+    ]
+  },
+  {
+    "title": "vxcontrol / pentagi",
+    "url": "https://github.com/vxcontrol/pentagi",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks [1,025 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+    "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+    "source": "Hacker News",
+    "published_at": "Wed, 14 Oct 2026 23:59:37 +0000",
+    "description": "Article URL: https://www.liquid.ai/blog/lfm2-5-24b-a2b Comments URL: https://news.ycombinator.com/item?id=50097369 Points: 52 # Comments: 12",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
+    "url": "https://petal.live/",
+    "source": "Hacker News",
+    "published_at": "Wed, 14 Oct 2026 18:23:14 +0000",
+    "description": "Hi HN! I’m Jason Thomas, one of the founders of CoScreen. As some of you may know, Datadog sunset the CoScreen service on July 31st. Four of us from the original CoScreen team have spent the last couple months building a free and open source pair programming tool inspired by those that came before us: It’s called Petal ( https://github.com/kiruna-labs/petal ) Some history first, because when we started CoScreen we had hoped to break the sad and established pattern of this industry. Screenhero wa",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "open source"
+    ]
+  },
+  {
+    "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+    "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+    "source": "Hacker News",
+    "published_at": "Wed, 14 Oct 2026 17:45:23 +0000",
+    "description": "Article URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html Comments URL: https://news.ycombinator.com/item?id=50091788 Points: 830 # Comments: 444",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "ifixai-ai / iFixAi",
+    "url": "https://github.com/ifixai-ai/iFixAi",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds. [2,109 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "home-assistant / core",
+    "url": "https://github.com/home-assistant/core",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "🏡 Open source home automation that puts local control and privacy first. [145 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "automation",
+      "open source"
+    ]
+  },
+  {
+    "title": "MakazhanAlpamys / Soup",
+    "url": "https://github.com/MakazhanAlpamys/Soup",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. [247 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "LLM"
+    ]
+  },
+  {
+    "title": "aws / agent-toolkit-for-aws",
+    "url": "https://github.com/aws/agent-toolkit-for-aws",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS [16 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "sgl-project / sglang",
+    "url": "https://github.com/sgl-project/sglang",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "SGLang is a high-performance serving framework for large language models and multimodal models. [54 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "language model",
+      "multimodal"
+    ]
+  },
+  {
+    "title": "isair / jarvis",
+    "url": "https://github.com/isair/jarvis",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Private local AI assistant for your desktop. Voice and text chat, personal memory, dictation and MCP tools. Runs offline with Ollama or OpenAI-compatible servers on macOS, Windows and Linux. [31 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "memory"
+    ]
+  },
+  {
+    "title": "krillinai / OpenCreator",
+    "url": "https://github.com/krillinai/OpenCreator",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Formerly KrillinAI, VideoTranslation and Dubbing Tool. Open-source AI workspace for creators, powered by Codex. Video downloading, video translation, create videos, images, voice, avatars, and edits with Agents in one place. Suitable for your Social Media like YouTube, TikTok, Instagram, etc. [95 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "stablyai / orca",
+    "url": "https://github.com/stablyai/orca",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. [919 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "anomalyco / opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "The open source coding agent. [320 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "agent",
+      "open source"
+    ]
+  },
+  {
+    "title": "A new model for open source: closed to pull requests, open to remix",
+    "url": "https://ghuntley.com/remix/",
+    "source": "Hacker News",
+    "published_at": "Wed, 14 Oct 2026 23:40:28 +0000",
+    "description": "Article URL: https://ghuntley.com/remix/ Comments URL: https://news.ycombinator.com/item?id=50097182 Points: 8 # Comments: 5",
+    "score": 2.0,
+    "keywords_matched": [
+      "open source"
+    ]
+  },
+  {
+    "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
+    "url": "https://typesafe.ai/blog/jev-1-14",
+    "source": "Hacker News",
+    "published_at": "Wed, 14 Oct 2026 21:11:03 +0000",
+    "description": "Article URL: https://typesafe.ai/blog/jev-1-14 Comments URL: https://news.ycombinator.com/item?id=50095353 Points: 174 # Comments: 56",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  }
+]
