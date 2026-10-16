@@ -1,0 +1,297 @@
+[
+  {
+    "title": "ruvnet / ruflo",
+    "url": "https://github.com/ruvnet/ruflo",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated [147 stars today]",
+    "score": 16.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "workflow",
+      "autonomous",
+      "RAG",
+      "vector",
+      "memory"
+    ]
+  },
+  {
+    "title": "PsyMemBehav: Psychology-Informed and Memory-Grounded Two-Level Identity-to-Action Reasoning for Social-Media Behavior Simulation",
+    "url": "https://arxiv.org/abs/2610.14570",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 15 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.14570v1 Announce Type: new \nAbstract: Large language models (LLMs) support social simulation, but faithfully reproducing real users requires grounding both structured platform decisions and language in sparse, noisy behavioral evidence. We introduce PsyMemBehav, which maps psychology-informed profiles and retrieved memories to target-first platform behavior through two-level identity-to-action reasoning. To support this approach with comprehensive behavioral traces, we construct a dat",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "simulation",
+      "language model",
+      "reasoning",
+      "memory"
+    ]
+  },
+  {
+    "title": "Towards Training and Inference of Graph Neural Networks in Graph Databases",
+    "url": "https://arxiv.org/abs/2610.19142",
+    "source": "arXiv cs.LG",
+    "published_at": "Thu, 15 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.19142v1 Announce Type: new \nAbstract: Graph Neural Networks on large graphs commonly rely on in-memory graph storage with ad hoc data processing pipelines for both training and inference. Graph databases provide scalable storage and efficient traversal for graphs that can evolve over time, but their applicability in GNN training and inference are rarely studied. We show that graph DBs can be used in GNN training and inference directly, executing sampling, feature retrieval, and even t",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "neural",
+      "RAG",
+      "inference",
+      "memory",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "ANASSA: From High-Level Framework to Low-Level Architecture for Spatial Agentic AI",
+    "url": "https://arxiv.org/abs/2610.14382",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 15 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.14382v1 Announce Type: new \nAbstract: Agentic AI systems operating over geospatial data require more than autonomous reasoning and tool use; they must also support explicit orchestration, spatial validation, governance, provenance, failure handling, and human decision authority. Prior work introduced ANASSA, an agentic AI orchestration framework for spatial intelligence that established high-level components and responsibility boundaries for governed agentic execution (arXiv:2609.1482",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "autonomous",
+      "tool use",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "CB-Agent: Concept-Based In-Context Learning for Sequential Action Selection",
+    "url": "https://arxiv.org/abs/2610.14574",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 15 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.14574v1 Announce Type: new \nAbstract: In-context learning (ICL) allows large language models to use demonstrations without updating their parameters. For interactive agents, demonstrations are trajectories of reasoning, actions, and observations that illustrate how to complete a task. Reusing demonstrations in new situations is challenging: directly inputting full trajectories consumes limited prompt space and constrains the overall effectiveness, while natural-language summaries requ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "language model",
+      "prompt",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Iterate on an LLM, Serve on an SLM",
+    "url": "https://arxiv.org/abs/2610.14576",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 15 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.14576v1 Announce Type: new \nAbstract: As frontier LLMs gain more capabilities, the cost to run them also goes up. At the same time, small language models (SLMs) also gain more capabilities but have largely been able to keep their cost stable, offering 5-40 times cheaper inference for the narrow, repetitive subtasks that agents decompose work into. However, the standing limiting factor is getting the correct behavior out of a small model in a fast, efficient, and economical way. Unfort",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "inference"
+    ]
+  },
+  {
+    "title": "How Should a Camera-First AI Agent Work?",
+    "url": "https://arxiv.org/abs/2610.14772",
+    "source": "arXiv cs.HC",
+    "published_at": "Thu, 15 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.14772v2 Announce Type: replace-cross \nAbstract: Camera-first agents must act on the visual world as it unfolds. We argue that the central obstacle for future camera-first agents is not recognition ability - multimodal models (vision-language and live/streaming alike) generalize well through language and remain the right tool for semantic reasoning - but time. Many visual targets are ephemeral: they appear, are query-relevant, and leave within a short window. Binding memory to the same",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "multimodal",
+      "reasoning",
+      "memory"
+    ]
+  },
+  {
+    "title": "Backpropagating Verifier Rewards Through Continuous Flow Language Models",
+    "url": "https://arxiv.org/abs/2610.19080",
+    "source": "arXiv cs.LG",
+    "published_at": "Thu, 15 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.19080v1 Announce Type: new \nAbstract: Reinforcement learning (RL) has substantially improved the reasoning of autoregressive and discrete-diffusion language models. Language models that generate continuous token embeddings are emerging as a strong alternative, but RL post-training for them remains understudied. We propose \\method{}, a post-training framework for continuous flow language models. Such a model denoises token embeddings over multiple steps and decodes them into discrete t",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "diffusion",
+      "language model",
+      "embedding",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Genesis Steering: Better Activation Steering Through Training Data",
+    "url": "https://arxiv.org/abs/2610.19114",
+    "source": "arXiv cs.LG",
+    "published_at": "Thu, 15 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.19114v1 Announce Type: new \nAbstract: Activation steering controls large language models at inference time, but its effectiveness depends on the choice of reference data. We introduce genesis steering, which derives a genesis vector from contrastive examples in the model's own fine-tuning data. When these data are unavailable, we draw on the membership inference literature to identify likely training examples and construct a proxy dataset. We establish two theoretical results on optim",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "language model",
+      "vector",
+      "fine-tuning",
+      "inference"
+    ]
+  },
+  {
+    "title": "Unlocking Structured Pruning for Reasoning Language Models via Attention-Preserving MLP Trimming",
+    "url": "https://arxiv.org/abs/2610.19121",
+    "source": "arXiv cs.LG",
+    "published_at": "Thu, 15 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.19121v1 Announce Type: new \nAbstract: Structured pruning reduces LLM inference costs by removing model components to produce smaller dense models. However, existing methods can cause reasoning performance to collapse on long-form reasoning tasks such as AIME. We propose \\textit{LayerTrim}, a training-free structured pruning method that identifies redundant decoder layers and selectively trims their MLP features while preserving attention and decoder depth. LayerTrim is the first train",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "inference",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "ClawLoop: Self-Improving Agents via Harness-Native Training Loop",
+    "url": "https://arxiv.org/abs/2610.14118",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 15 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.14118v1 Announce Type: new \nAbstract: The rapid advancement of Large Language Models (LLMs) has driven their deployment toward general-purpose harness environments, where LLM-based agents operate in sandbox workspaces and interact directly with file systems and shells. While numerous post-training pipelines exist for tool-use agents, their counterparts for harness-based agents remain scarce and are predominantly one-shot and teacher-dependent: a stronger external model synthesizes tas",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model"
+    ]
+  },
+  {
+    "title": "ACED-Bench: Evaluating How LLM Agents Acquire and Act on Causal Evidence",
+    "url": "https://arxiv.org/abs/2610.14381",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 15 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.14381v1 Announce Type: new \nAbstract: Large language models are increasingly used as scientific assistants, yet we still lack reliable ways to evaluate whether they can investigate a system rather than merely answer a prompt. A useful evaluation must let agents choose experiments, interpret finite evidence, and make causal decisions, while keeping the environment coherent across repeated observations and interventions and preserving objective ground truth. We introduce ACED-BENCH (Act",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "language model",
+      "prompt"
+    ]
+  },
+  {
+    "title": "SAT-RL: Training Language Models for Logical Reasoning with Symbolic Solvers",
+    "url": "https://arxiv.org/abs/2610.14402",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 15 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.14402v1 Announce Type: new \nAbstract: Large language models (LLMs) have achieved strong performance in mathematical and logical reasoning, yet they still suffer from the curse of complexity and struggle as problem difficulty increases with the number of constraint interactions and the size of the search space. In contrast, satisfiability solvers such as Z3 provide scalable and verifiable reasoning through constraint solving under formal theories, but lack the flexibility to interpret ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Frustratingly Easy Agentic RAG via Portable Skills: A Case Study in Customer Support",
+    "url": "https://arxiv.org/abs/2610.14428",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 15 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.14428v1 Announce Type: new \nAbstract: Enterprise workflow automation typically requires retrieving a complete and accurate set of relevant information from large operational document corpora (SOPs, policy documents) given a specific scenario or request. In customer support (CS), for example, human specialists must determine the correct sequence of resolution steps for each case, a task that demands precise grounding in policy documentation. Meeting this bar in production typically req",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "workflow",
+      "automation",
+      "RAG"
+    ]
+  },
+  {
+    "title": "Player-1: Learning to Play from Synthetic Experience",
+    "url": "https://arxiv.org/abs/2610.20584",
+    "source": "arXiv cs.HC",
+    "published_at": "Thu, 15 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.20584v1 Announce Type: cross \nAbstract: Computer-use agents have demonstrated strong capabilities in interpreting screens and executing keyboard and mouse actions. However, games, with their visually rich worlds and diverse mechanics, remain challenging and offer a demanding next step toward general digital control. Current game-agent learning pipelines often rely on large-scale demonstrations with limited coverage of dynamic game states, while scalable environments for interactive tr",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "game",
+      "RAG"
+    ]
+  },
+  {
+    "title": "Inverse Reasoning Models for Efficient Post-Training and Verification from Answer-Only Data",
+    "url": "https://arxiv.org/abs/2610.18878",
+    "source": "arXiv cs.LG",
+    "published_at": "Thu, 15 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.18878v1 Announce Type: new \nAbstract: Post-training reasoning LLMs often requires making a tradeoff between costly supervision and compute inefficiency: supervised finetuning typically requires reasoning traces, which is data inefficient since in many applications one only has prompt-answer tuples and lacks the groundtruth chain-of-thought (CoT) sequence. On the other hand, reinforcement learning (with verifiable rewards, for example) can operate without CoT data but it is much more c",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "prompt",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Tracing Morphology, Semantics, and Divergence in Language Acquisition",
+    "url": "https://arxiv.org/abs/2610.19041",
+    "source": "arXiv cs.LG",
+    "published_at": "Thu, 15 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.19041v1 Announce Type: new \nAbstract: Understanding the dynamics of language acquisition in Large Language Models (LLMs) is crucial for uncovering how statistical representations evolve into structured linguistic capabilities. However, most existing studies focus primarily on fully trained models, leaving the developmental trajectory across intermediate training stages largely underexplored. In this work, we leverage intermediate checkpoints from open-source models (e.g., Pythia and O",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "RAG"
+    ]
+  },
+  {
+    "title": "TRACER: Trace-Regularized Training Against Indirect Prompt Injection",
+    "url": "https://arxiv.org/abs/2610.19133",
+    "source": "arXiv cs.LG",
+    "published_at": "Thu, 15 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.19133v1 Announce Type: new \nAbstract: Indirect prompt injection uses untrusted retrieved content, tool outputs, or agent messages to override an LLM's intended behavior. We show that defense robustness is channel-conditioned: the same attack succeeds 18% of the time as a follow-up message but 53% when placed in retrieved context. We propose TRACER (Trace-Regularized Adversarial Channel Exposure with Reward-shaping), a channel-aware adversarial training method that samples presentation",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Spectral-MoE: Heterogeneous Per-Layer Expert Utilization in Dense-to-MoE Conversion",
+    "url": "https://arxiv.org/abs/2610.19232",
+    "source": "arXiv cs.LG",
+    "published_at": "Thu, 15 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.19232v1 Announce Type: new \nAbstract: Large language models impose substantial memory demands and arithmetic costs during inference. Dense-to-mixture-of-experts (MoE) conversion is a model optimization technique that aims to reduce these arithmetic costs. Dense-to-MoE conversion partitions pretrained feed-forward network (FFN) neurons into experts and selects a subset for each token. Leading methods fall into two categories: analytic methods produce a converted model quickly using heu",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "language model",
+      "inference",
+      "memory"
+    ]
+  },
+  {
+    "title": "volcengine / OpenViking",
+    "url": "https://github.com/volcengine/OpenViking",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. [105 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "RAG",
+      "memory"
+    ]
+  }
+]
