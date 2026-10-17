@@ -1,0 +1,294 @@
+[
+  {
+    "title": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
+    "url": "https://arxiv.org/abs/2610.20665",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.20665v1 Announce Type: new \nAbstract: Large language model (LLM) agents can solve complex interactive tasks, yet reasoning and tool calls take time. In continuously changing environments, an otherwise correct action may arrive too late. We introduce RealtimeBench, with 180 tasks across six game types, to evaluate agents while games continue running during inference. Paired evaluations show that GPT-6.1-sol outperforms the faster Jev when games are paused, but falls behind when they ke",
+    "score": 16.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "game",
+      "GPT",
+      "language model",
+      "inference",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "ruvnet / ruflo",
+    "url": "https://github.com/ruvnet/ruflo",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated [672 stars today]",
+    "score": 16.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "workflow",
+      "autonomous",
+      "RAG",
+      "vector",
+      "memory"
+    ]
+  },
+  {
+    "title": "All-in-One Memory: Process-Rewarded Reinforcement Learning for Memory Agents",
+    "url": "https://arxiv.org/abs/2610.21147",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.21147v1 Announce Type: new \nAbstract: Large language models increasingly rely on external memory to answer queries grounded in long-horizon histories such as multi-session dialogues and lengthy documents. However, existing memory methods often optimize retrieval and memory construction separately, without a shared reward space for evaluating search, writing, and stopping decisions. To address this, we propose All-in-One Memory (AiO-Mem), which organizes these operations as transitions",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "language model",
+      "memory",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "XARA: A Multimodal Agentic System for eXtended Reality Experiment Generation",
+    "url": "https://arxiv.org/abs/2610.21067",
+    "source": "arXiv cs.HC",
+    "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.21067v1 Announce Type: new \nAbstract: Controlled experiments are essential for advancing transportation research, yet designing eXtended Reality (XR) environments for behavioural studies remains technically demanding and inaccessible to many domain researchers. Current workflows require proficiency in game engines such as Unity or Unreal Engine, imposing significant barriers to rapid scenario prototyping and iterative experiment design. This paper presents XARA, a novel system that in",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow",
+      "game",
+      "multimodal"
+    ]
+  },
+  {
+    "title": "Orchestrating LLM Agents for Scientific Research: A Pilot Study of Multiple Choice Question (MCQ) Generation and Evaluation",
+    "url": "https://arxiv.org/abs/2602.18891",
+    "source": "arXiv cs.HC",
+    "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2602.18891v2 Announce Type: replace-cross \nAbstract: Advances in large language models (LLMs) are rapidly transforming scientific work, yet empirical evidence on how these systems reshape research activities remains limited. We report a mixed-methods pilot evaluation of an AI-orchestrated research workflow in which a human researcher coordinated multiple LLM-based agents to perform data extraction, corpus construction, artifact generation, and artifact evaluation. Using the generation and ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "language model"
+    ]
+  },
+  {
+    "title": "Amortizing Sequential Experimental Design in Reasoning LLMs",
+    "url": "https://arxiv.org/abs/2610.20832",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.20832v1 Announce Type: new \nAbstract: Despite their extensive pretraining knowledge and strong reasoning capabilities, large language models (LLMs) struggle to adaptively gather information in experimental design tasks. We study how to amortize sequential Bayesian experimental design (BED) into an LLM by explicitly training the reasoning that guides action selection using information-gain rewards. Our approach specifies the experimental generative model independently of the LLM's own ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "reasoning",
+      "generative"
+    ]
+  },
+  {
+    "title": "AlphaDiana: A Measurement System for Agents in Verifiable Reasoning Tasks",
+    "url": "https://arxiv.org/abs/2610.20675",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.20675v1 Announce Type: new \nAbstract: Agents pair reasoning models with harnesses that organize model calls, execute tools, load skill instructions, and retain history in memory. Understanding agent performance requires linking execution conditions to outcomes, behavior, and resource use. We introduce AlphaDiana, a measurement system with modular interfaces for datasets, agents, environments, and scorers. It preserves harness-native control loops while controlling file reuse and memor",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "reasoning",
+      "memory"
+    ]
+  },
+  {
+    "title": "SkillNEO: Non-Elitist Evolutionary Optimization of Agent Skills",
+    "url": "https://arxiv.org/abs/2610.20926",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.20926v1 Announce Type: new \nAbstract: Agent skills turn procedural knowledge into reusable artifacts, allowing LLM agents to accumulate and refine expertise through experience. Building on this, skill evolution iteratively improves skills using execution feedback. However, improvement may require several interdependent edits, so low-reward versions can still be worth developing. Requiring immediate reward gains can discard useful partial repairs before their benefits emerge. Non-eliti",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "procedural"
+    ]
+  },
+  {
+    "title": "Learning When to Withdraw: Curriculum Coverage and Rule-Specific Failures in Fine-Tuned Language Agents",
+    "url": "https://arxiv.org/abs/2610.21045",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.21045v1 Announce Type: new \nAbstract: Tool-using language agents must revise prepared actions when evidence changes or authority is revoked. Selective withdrawal means suspending affected actions, preserving supported work, and resuming only after sufficient repair. We study supervised fine-tuning in NAQD-Env, a synthetic environment with explicit dependencies and a deterministic reference policy. Four LoRA checkpoints of Qwen2.5-3B-Instruct compare an original curriculum with an enri",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "RAG",
+      "fine-tuning"
+    ]
+  },
+  {
+    "title": "Sci$\\Pi$vot: Benchmarking Principal-Investigator Judgment at Pivotal Moments of Scientific AutoResearch Agents",
+    "url": "https://arxiv.org/abs/2610.21082",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.21082v1 Announce Type: new \nAbstract: Large language model (LLM) agents can keep scientific experiments running for months with little human supervision, but reliable autonomous research also requires scientific judgment. Evaluating scientific judgment is difficult because research decisions are open-ended and depend on project context. We construct Sci$\\Pi$vot, a 248-case benchmark of scientific judgment based on human corrections. The benchmark draws on records from six months of re",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "language model",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "MemComposer: Learning to Assemble Memories for LLM Agents via Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2610.21091",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.21091v1 Announce Type: new \nAbstract: Agent memory enables large language model (LLM) agents to reuse past experiences without updating their parameters. However, semantic similarity alone does not guarantee memory usefulness: downstream performance depends on how memories are selected and presented to the agent. We propose MemComposer, a memory composer that jointly examines the current query and retrieved candidates to decide which experiences to include, how many to select, and how",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "language model",
+      "memory"
+    ]
+  },
+  {
+    "title": "Planning Commitment of LLM under Partial Observability",
+    "url": "https://arxiv.org/abs/2610.21108",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.21108v1 Announce Type: new \nAbstract: LLM-based planning agents commit to plans of different lengths before interacting with a partially observable environment. Some aggressively commit to a long plan based on assumptions about unobserved states, while others conservatively plan only over what they have observed. Both behaviors emerge implicitly in pre-trained models, whether the LLM outputs a plan directly or generates a PDDL formulation for a classical solver. Aggressive commitment ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "planning"
+    ]
+  },
+  {
+    "title": "Kolab: Benchmarking Human-Agent Collaboration in Long-Horizon Workflows",
+    "url": "https://arxiv.org/abs/2610.21109",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.21109v1 Announce Type: new \nAbstract: When humans collaborate with AI agents on long-horizon tasks, what happens to the agents' contributions? For solving long-horizon tasks, humans place greater importance on ongoing interaction with AI agents (e.g., revising plans) than on an agent's ability to complete the task in a single attempt. However, most agentic benchmarks have focused more on automation. Strong performance on such benchmarks does not imply effective real-world collaboratio",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow",
+      "automation"
+    ]
+  },
+  {
+    "title": "TurboMamba: Faster Inference, Faster Training, and Better Prediction with Lexical Memory",
+    "url": "https://arxiv.org/abs/2610.20682",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.20682v1 Announce Type: new \nAbstract: We introduce TurboMamba, a language-model architecture for faster inference, faster training, and better token prediction. A global Mamba-3 model runs once per completed token block. A small Transformer uses this global context and earlier tokens within the block to predict the next token. Three lightweight additions improve local predictions: direct access to the previous block's last token, a small correction to next-token scores, and a learned ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "transformer",
+      "inference",
+      "memory"
+    ]
+  },
+  {
+    "title": "Task-Phase-Conditioned Expert Routing Is Not a Reliable Proxy for Quantization Sensitivity in MoE FFN Tensors",
+    "url": "https://arxiv.org/abs/2610.20826",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.20826v1 Announce Type: new \nAbstract: We investigate whether per-layer, per-task-phase (prompt/reasoning/response) expert-routing statistics in a Mixture-of-Experts (MoE) language model can guide layer-wise mixed-precision quantization of routed-expert FFN tensors (down/gate and up). To attain layerwise routing statistics, we build a routing-capture and profiling pipeline for Qwen-3.6-35B-A3B in ik_llama.cpp, derive a composite sensitivity score from routing entropy/decisiveness, coef",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "language model",
+      "prompt",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "SHRED: Self-Play for Heterogeneous Road-Users without Expert Demonstrations",
+    "url": "https://arxiv.org/abs/2610.20866",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.20866v1 Announce Type: new \nAbstract: Realistic traffic simulation and autonomous planning both depend on modeling interactions among heterogeneous road users whose dynamics, constraints, and behaviors differ fundamentally. Existing approaches predominantly learn realistic interaction behavior from large-scale human driving demonstrations. In this work, we ask whether such behavior can instead emerge purely through self-play. We present SHRED, a framework that jointly trains vehicles,",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "simulation",
+      "autonomous",
+      "planning"
+    ]
+  },
+  {
+    "title": "Recursive Offline Distillation via Entropy Gain Sampling and Answer Mixing",
+    "url": "https://arxiv.org/abs/2610.20914",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.20914v1 Announce Type: new \nAbstract: Distillation of reasoning chains from Large Language Models (LLMs) into their smaller siblings is a standard training approach. Frequently, researchers do not have full access to a teacher model and its internal representations, which limits the resulting performance. We propose a recursive offline distillation method combining two components: entropy-based sampling for selective distillation and answer mixing. Specifically, for three open models ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Do As I Do, Not As I Say: On-Policy Distillation Inherits the Teacher in Vision-Language Models",
+    "url": "https://arxiv.org/abs/2610.20989",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.20989v1 Announce Type: new \nAbstract: Improving the reasoning capabilities of vision-language models (VLMs) often relies on post-training with supervision from stronger models. Two common strategies are supervised fine-tuning (SFT), which trains on teacher-generated demonstrations, and on-policy distillation (OPD), which provides teacher feedback on trajectories generated by the student itself. While OPD can be more data-efficient by supervising student-generated trajectories, it is u",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "language model",
+      "fine-tuning",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "google / artemis",
+    "url": "https://github.com/google/artemis",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code. It also achieves 99%+ success rate on AndroidWorld Benchmark. [226 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "Claude",
+      "workflow",
+      "automation"
+    ]
+  },
+  {
+    "title": "mksglu / context-mode",
+    "url": "https://github.com/mksglu/context-mode",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. [449 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "context window",
+      "memory"
+    ]
+  }
+]
