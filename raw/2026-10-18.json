@@ -1,0 +1,263 @@
+[
+  {
+    "title": "ruvnet / ruflo",
+    "url": "https://github.com/ruvnet/ruflo",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated [420 stars today]",
+    "score": 16.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "workflow",
+      "autonomous",
+      "RAG",
+      "vector",
+      "memory"
+    ]
+  },
+  {
+    "title": "google / artemis",
+    "url": "https://github.com/google/artemis",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code. It also achieves 99%+ success rate on AndroidWorld Benchmark. [134 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "Claude",
+      "workflow",
+      "automation"
+    ]
+  },
+  {
+    "title": "ScrapeCreators / social-media-research-skills",
+    "url": "https://github.com/ScrapeCreators/social-media-research-skills",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "AI agent skills for social media research. Outlier posts, comment mining, competitor teardowns, ad libraries & trends across TikTok, Instagram, YouTube, Reddit, X, LinkedIn & more. Powered by ScrapeCreators. Works with Claude Code, Cursor, Codex, Gemini CLI. [103 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "Gemini"
+    ]
+  },
+  {
+    "title": "anthropics / claude-code",
+    "url": "https://github.com/anthropics/claude-code",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. [179 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "workflow"
+    ]
+  },
+  {
+    "title": "xerj-org / xerj",
+    "url": "https://github.com/xerj-org/xerj",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep (1974 tool). One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. It’s durable and can replace ElasticSearch saving you x10 infra costs. [1,160 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "RAG",
+      "memory"
+    ]
+  },
+  {
+    "title": "Show HN: Gemini 4 Argon plays StarCraft",
+    "url": "https://starskirmish.com/bench/v0-2/",
+    "source": "Hacker News Best",
+    "published_at": "Fri, 16 Oct 2026 14:18:44 +0000",
+    "description": "I've refreshed StarSkirmish Bench, a benchmark where LLMs play StarCraft BW by writing code, with results from the flagship models of OpenAI, Anthropic, Google, and Muse Comments URL: https://news.ycombinator.com/item?id=50118688 Points: 242 # Comments: 106",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "Gemini"
+    ]
+  },
+  {
+    "title": "K-Dense-AI / scientific-agent-skills",
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard. [878 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude"
+    ]
+  },
+  {
+    "title": "The-Swarm-Corporation / AutoHedge",
+    "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution. [32 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "stablyai / orca",
+    "url": "https://github.com/stablyai/orca",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. [830 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude"
+    ]
+  },
+  {
+    "title": "awslabs / aidlc-workflows",
+    "url": "https://github.com/awslabs/aidlc-workflows",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents [15 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow"
+    ]
+  },
+  {
+    "title": "affaan-m / ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. [1,145 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "agent",
+      "Claude",
+      "memory"
+    ]
+  },
+  {
+    "title": "akitaonrails / ai-memory",
+    "url": "https://github.com/akitaonrails/ai-memory",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors [178 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "memory"
+    ]
+  },
+  {
+    "title": "You could have invented transformers from memory",
+    "url": "https://alexwang.ai/posts/associative-memory/",
+    "source": "Hacker News Best",
+    "published_at": "Fri, 16 Oct 2026 19:01:17 +0000",
+    "description": "https://twitter.com/heyyalexwang/status/2111158818730397932 Comments URL: https://news.ycombinator.com/item?id=50122878 Points: 496 # Comments: 117",
+    "score": 4.0,
+    "keywords_matched": [
+      "transformer",
+      "memory"
+    ]
+  },
+  {
+    "title": "MadsLorentzen / ai-job-search",
+    "url": "https://github.com/MadsLorentzen/ai-job-search",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. [1,365 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "Claude"
+    ]
+  },
+  {
+    "title": "lightseekorg / tokenspeed",
+    "url": "https://github.com/lightseekorg/tokenspeed",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "TokenSpeed is a speed-of-light LLM inference engine. [24 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "LLM",
+      "inference"
+    ]
+  },
+  {
+    "title": "anomalyco / opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "The open source coding agent. [438 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "agent",
+      "open source"
+    ]
+  },
+  {
+    "title": "OpenBMB / PilotDeck",
+    "url": "https://github.com/OpenBMB/PilotDeck",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Task-oriented AI Agent productivity platform [77 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "Fission-AI / OpenSpec",
+    "url": "https://github.com/Fission-AI/OpenSpec",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Spec-driven development (SDD) for AI coding assistants. [89 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "spec-driven"
+    ]
+  },
+  {
+    "title": "krillinai / OpenCreator",
+    "url": "https://github.com/krillinai/OpenCreator",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Formerly KrillinAI, VideoTranslation and Dubbing Tool. Open-source AI workspace for creators, powered by Codex. Video downloading, video translation, create videos, images, voice, avatars, and edits with Agents in one place. Suitable for your Social Media like YouTube, TikTok, Instagram, etc. [197 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "cline / cline",
+    "url": "https://github.com/cline/cline",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant. [63 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "agent",
+      "autonomous"
+    ]
+  }
+]
