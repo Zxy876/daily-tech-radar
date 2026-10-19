@@ -1,0 +1,266 @@
+{
+  "date": "2026-10-19",
+  "candidates": [
+    {
+      "title": "ruvnet / ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated [513 stars today]",
+      "score": 16.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "workflow",
+        "autonomous",
+        "RAG",
+        "vector",
+        "memory"
+      ]
+    },
+    {
+      "title": "diegosouzapw / OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 900+ contributors [429 stars today]",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "Claude",
+        "Gemini",
+        "Copilot",
+        "GPT"
+      ]
+    },
+    {
+      "title": "Graphify-Labs / graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store. [626 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "Claude",
+        "Gemini",
+        "vector"
+      ]
+    },
+    {
+      "title": "LibreChat-AI / LibreChat",
+      "url": "https://github.com/LibreChat-AI/LibreChat",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active [66 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Gemini",
+        "GPT"
+      ]
+    },
+    {
+      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "url": "https://arxiv.org/abs/2610.18861",
+      "source": "Hacker News",
+      "published_at": "Sun, 18 Oct 2026 20:48:14 +0000",
+      "description": "https://x.com/Jiaru_Zou/status/2110400256647340476 https://github.com/togethercomputer/HybridAgent https://huggingface.co/collections/togethercomputer/hybridag... Evaluations: https://arxiv.org/html/2610.18861v1#S5 Comments URL: https://news.ycombinator.com/item?id=50145337 Points: 196 # Comments: 114",
+      "score": 6.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+      "url": "https://sphinx-six-theta.vercel.app/",
+      "source": "Hacker News Best",
+      "published_at": "Sun, 18 Oct 2026 04:33:49 +0000",
+      "description": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works. Comments URL: https://news.ycombinator.com/item?id=50137950 Points: 241 # Comments: 85",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "workflow"
+      ]
+    },
+    {
+      "title": "K-Dense-AI / scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard. [663 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude"
+      ]
+    },
+    {
+      "title": "stablyai / orca",
+      "url": "https://github.com/stablyai/orca",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. [1,146 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude"
+      ]
+    },
+    {
+      "title": "earendil-works / pi",
+      "url": "https://github.com/earendil-works/pi",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI [191 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM"
+      ]
+    },
+    {
+      "title": "akitaonrails / ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors [512 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "memory"
+      ]
+    },
+    {
+      "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+      "url": "https://github.com/finereli/whatsapp-mcp",
+      "source": "Hacker News",
+      "published_at": "Sun, 18 Oct 2026 21:36:10 +0000",
+      "description": "I wanted my humble Claude on mobile to access my WhatsApp messages but the only options I could find either required WhatsApp Business or an actual server to run Baileys on. I wanted to run it for free on ClaudeFlare and with my personal WhatsApp account, so I built this. Important feature - it connects to your Google account as well as WhatsApp to grab the names of all your WhatsApp contacts, otherwise you get only phone numbers for many of them and search doesn't work properly. This is a singl",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "Claude"
+      ]
+    },
+    {
+      "title": "MadsLorentzen / ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. [2,232 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "Claude"
+      ]
+    },
+    {
+      "title": "Comfy-Org / ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world. [154 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "diffusion",
+        "inference"
+      ]
+    },
+    {
+      "title": "TauricResearch / TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework [222 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "agent",
+        "LLM"
+      ]
+    },
+    {
+      "title": "mozilla-ai / otari",
+      "url": "https://github.com/mozilla-ai/otari",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, and usage tracking. [39 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "title": "anomalyco / opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "The open source coding agent. [1,414 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "agent",
+        "open source"
+      ]
+    },
+    {
+      "title": "mlabonne / llm-course",
+      "url": "https://github.com/mlabonne/llm-course",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. [81 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "LLM",
+        "language model"
+      ]
+    },
+    {
+      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+      "source": "Hacker News",
+      "published_at": "Sun, 18 Oct 2026 21:09:12 +0000",
+      "description": "Article URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/ Comments URL: https://news.ycombinator.com/item?id=50145507 Points: 15 # Comments: 9",
+      "score": 2.0,
+      "keywords_matched": [
+        "LLM"
+      ]
+    },
+    {
+      "title": "Namecheap just seized and disabled all my domains",
+      "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
+      "source": "Hacker News",
+      "published_at": "Sun, 18 Oct 2026 16:56:56 +0000",
+      "description": "Article URL: https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/ Comments URL: https://news.ycombinator.com/item?id=50142866 Points: 423 # Comments: 199",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    },
+    {
+      "title": "NY announces game ownership bill requiring ownership rather than licensing",
+      "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
+      "source": "Hacker News Best",
+      "published_at": "Sun, 18 Oct 2026 00:14:22 +0000",
+      "description": "Article URL: https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends Comments URL: https://news.ycombinator.com/item?id=50136536 Points: 426 # Comments: 197",
+      "score": 2.0,
+      "keywords_matched": [
+        "game"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-10-19\n\n> ⚠️ AI 分析失败：HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=90)\n\n## 今日候选内容（原始抓取，未经 AI 分析）\n\n### ruvnet / ruflo\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/ruvnet/ruflo\n- 摘要：🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Co\n- 关键词：AI, agent, Claude, workflow, autonomous, RAG, vector, memory\n\n### diegosouzapw / OmniRoute\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/diegosouzapw/OmniRoute\n- 摘要：Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman\n- 关键词：AI, Claude, Gemini, Copilot, GPT\n\n### Graphify-Labs / graphify\n- 来源：GitHub Trending Python\n- 链接：https://github.com/Graphify-Labs/graphify\n- 摘要：Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store. [626 stars t\n- 关键词：AI, Claude, Gemini, vector\n\n### LibreChat-AI / LibreChat\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/LibreChat-AI/LibreChat\n- 摘要：Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-\n- 关键词：AI, agent, Gemini, GPT\n\n### Hybrid Reasoning Agents: LLM agents that think in latent space, act through text\n- 来源：Hacker News\n- 链接：https://arxiv.org/abs/2610.18861\n- 摘要：https://x.com/Jiaru_Zou/status/2110400256647340476 https://github.com/togethercomputer/HybridAgent https://huggingface.co/collections/togethercomputer/hybridag... Evaluations: https://arxiv.org/html/2610.18861v1#S5 Comments URL: https://news.ycombina\n- 关键词：agent, LLM, reasoning\n\n### Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping\n- 来源：Hacker News Best\n- 链接：https://sphinx-six-theta.vercel.app/\n- 摘要：FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works. Comments URL: https://news.ycombinator.com/item?id=50137\n- 关键词：AI, agent, workflow\n\n### K-Dense-AI / scientific-agent-skills\n- 来源：GitHub Trending Python\n- 链接：https://github.com/K-Dense-AI/scientific-agent-skills\n- 摘要：Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compat\n- 关键词：AI, agent, Claude\n\n### stablyai / orca\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/stablyai/orca\n- 摘要：Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. [1,146 stars today]\n- 关键词：AI, agent, Claude\n\n### earendil-works / pi\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/earendil-works/pi\n- 摘要：AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI [191 stars today]\n- 关键词：AI, agent, LLM\n\n### akitaonrails / ai-memory\n- 来源：GitHub Trending\n- 链接：https://github.com/akitaonrails/ai-memory\n- 摘要：Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors [512 stars today]\n- 关键词：AI, agent, memory\n\n### Show HN: WhatsApp MCP running free on Cloudflare\n- 来源：Hacker News\n- 链接：https://github.com/finereli/whatsapp-mcp\n- 摘要：I wanted my humble Claude on mobile to access my WhatsApp messages but the only options I could find either required WhatsApp Business or an actual server to run Baileys on. I wanted to run it for free on ClaudeFlare and with my personal WhatsApp acc\n- 关键词：AI, Claude\n\n### MadsLorentzen / ai-job-search\n- 来源：GitHub Trending Python\n- 链接：https://github.com/MadsLorentzen/ai-job-search\n- 摘要：The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. [2,232 stars today]\n- 关键词：AI, Claude\n\n### Comfy-Org / ComfyUI\n- 来源：GitHub Trending Python\n- 链接：https://github.com/Comfy-Org/ComfyUI\n- 摘要：The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world. [154 stars today]\n- 关键词：diffusion, inference\n\n### TauricResearch / TradingAgents\n- 来源：GitHub Trending Python\n- 链接：https://github.com/TauricResearch/TradingAgents\n- 摘要：TradingAgents: Multi-Agents LLM Financial Trading Framework [222 stars today]\n- 关键词：agent, LLM\n\n### mozilla-ai / otari\n- 来源：GitHub Trending Python\n- 链接：https://github.com/mozilla-ai/otari\n- 摘要：Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, and usage tracking. [39 stars today]\n- 关键词：AI, LLM\n\n---\n\n> 请配置 `GEMINI_API_KEY` 后重新运行以获取完整分析。",
+  "gemini_success": false,
+  "telegram_sent": true,
+  "telegram_status": "sent",
+  "telegram_reason": ""
+}
