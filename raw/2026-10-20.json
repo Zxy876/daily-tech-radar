@@ -1,0 +1,303 @@
+[
+  {
+    "title": "ruvnet / ruflo",
+    "url": "https://github.com/ruvnet/ruflo",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated [564 stars today]",
+    "score": 16.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "workflow",
+      "autonomous",
+      "RAG",
+      "vector",
+      "memory"
+    ]
+  },
+  {
+    "title": "From GAN-Based Models to GPT-5: A Taxonomy-Guided Study of Human Performance in Detecting Deepfake Face Images",
+    "url": "https://arxiv.org/abs/2610.23144",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 19 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.23144v1 Announce Type: cross \nAbstract: Generative models for deepfakes have rapidly evolved from GAN-based architectures to diffusion models and multimodal large language models (MLLMs). However, empirical research on human performance in detecting deepfake face images has not kept pace. It remains unclear if (and how) detection performance varies across generative models and whether model-specific training improves detection more effectively than general-purpose training. In this pa",
+    "score": 14.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "GPT",
+      "diffusion",
+      "language model",
+      "multimodal",
+      "generative"
+    ]
+  },
+  {
+    "title": "Testing the Planning Claims of LLM-Based Agents against Formal Semantics",
+    "url": "https://arxiv.org/abs/2610.22469",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 19 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.22469v1 Announce Type: new \nAbstract: LLM-based agents are increasingly credited with the competences of practical reasoning: planning, monitoring, and correcting their own actions. Their success is attributed to the prompting strategies and agent architectures built around the model, such as chain-of-thought, search-based prompting, self-refinement, reflection, critics and tool-using loops. Yet these claims are usually supported by end-to-end success rates, which show only whether a ",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "prompt",
+      "reasoning",
+      "planning"
+    ]
+  },
+  {
+    "title": "From Relevant Memories to Sufficient Evidence: Rethinking Memory Utilization in LLM Agents",
+    "url": "https://arxiv.org/abs/2610.22668",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 19 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.22668v1 Announce Type: new \nAbstract: Long-term memory enables LLM agents to reuse past experiences, yet retrieving relevant memories does not necessarily provide sufficient evidence for answering a query. Essential information may remain fragmented across memory records, obscured by abstraction, or disconnected from the relations required for reasoning. We identify this relevance-sufficiency gap and propose QEMem, a framework that reformulates memory utilization as the construction o",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "RAG",
+      "reasoning",
+      "memory"
+    ]
+  },
+  {
+    "title": "Brain-Aligned Multimodal LLMs for Social and Emotional Understanding of Cartoon Movies",
+    "url": "https://arxiv.org/abs/2610.22706",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 19 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.22706v1 Announce Type: new \nAbstract: Multimodal large language models (MLLMs) offer scalable annotations of social and affective content, but their temporal agreement with human judgments and neural predictive value require further evaluation. We compared diffusion-based and autoregressive MLLMs with continuous human Theory of Mind (ToM) and affective valence ratings across three short cartoon movies. Behavioral analyses assessed temporally aligned Pearson correlations, rating distri",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "diffusion",
+      "neural",
+      "language model",
+      "multimodal"
+    ]
+  },
+  {
+    "title": "When is a large language model a good calibration agent? Physics-labeled prompting for budgeted engineering simulator calibration",
+    "url": "https://arxiv.org/abs/2610.22379",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 19 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.22379v1 Announce Type: new \nAbstract: Calibrating expensive engineering simulators requires tuning model parameters to match reference data, a process heavily constrained by computational costs. This study investigates whether Large Language Models (LLMs), conditioned on physical diagnostic descriptions of simulation errors, can propose informative parameter updates more efficiently than conventional derivative-free optimizers. We test this on a cylinder-wake Large-Eddy Simulation and",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "simulation",
+      "language model",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Structured Authority Injection: Persistent Human Control for LLM Agents via Typed MCP Overrides",
+    "url": "https://arxiv.org/abs/2610.22373",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 19 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.22373v1 Announce Type: new \nAbstract: LLM-based agents are increasingly used as autonomous orchestrators in distributed and multi-agent systems, yet a control gap remains: no protocol-level mechanism allows human operators to inject binding directives that persist across planning cycles. Free-text overrides suffer from ambiguous interpretation due to lack of schema validation and from authority erosion as operator instructions lose influence within accumulating context. We propose Str",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "autonomous",
+      "planning"
+    ]
+  },
+  {
+    "title": "ECHOES: Seeing Beyond the Current Image via Recursive History Compression and Privileged On-Policy Distillation",
+    "url": "https://arxiv.org/abs/2610.22408",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 19 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.22408v1 Announce Type: new \nAbstract: Long-horizon GUI agents rely on visual history to maintain task states, but retaining historical screenshots increases visual-token usage and inference costs, while textual summaries can discard critical state information, undermining long-horizon reliability. We propose ECHOES, which leverages training-time privileged information to guide textual history compression and strengthen long-horizon reasoning. Specifically, ECHOES adopts a Compression-",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "RAG",
+      "inference",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Designing for Imperfect Prompts: A Simulation-Based Evaluation of an LLM-Based Enterprise Data Assistant Using Knowledge Graphs",
+    "url": "https://arxiv.org/abs/2610.23304",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 19 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.23304v1 Announce Type: new \nAbstract: Enterprise data assistants using large language models (LLMs) promise democratized data access in organizations. Yet in our real-world deployment within the CFO unit's data lake at an industry partner, we observed that business users frequently pose imperfect prompts that include domain-specific vocabulary and lack schema references or structural information. This Design Science Research study examines automatic resolution using a semantic mediati",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "simulation",
+      "language model",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Lean4AgenticRL: Advancing Agentic RL with Verifiable Multi-level Process Rewards",
+    "url": "https://arxiv.org/abs/2610.22448",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 19 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.22448v1 Announce Type: new \nAbstract: Enhancing the agentic capabilities of Large Language Models (LLMs) to tackle complex software engineering (SWE) and general terminal-usage problems is a pressing challenge. Current state-of-the-art LLMs often go through large-scale agentic Reinforcement Learning (RL). However, they mostly rely on high-level outcome rewards, with minimal consideration of low-level toolcall and mid-level workflow-stage rewards, which makes the training less effectiv",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "language model"
+    ]
+  },
+  {
+    "title": "Predicting Privileged Information Effectiveness for On-Policy Self-Distillation",
+    "url": "https://arxiv.org/abs/2610.22512",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 19 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.22512v1 Announce Type: new \nAbstract: On-policy self-distillation (OPSD) enables large language models (LLMs) to learn from privileged information (PI) without a separate teacher model. However, prior work largely treats PI as a fixed design choice, leaving the effects of its content and construction poorly understood. This challenge is particularly important in multi-turn agentic settings, where trajectories contain actions, observations, and reasoning that can be transformed into PI",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "diegosouzapw / OmniRoute",
+    "url": "https://github.com/diegosouzapw/OmniRoute",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 900+ contributors [424 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "Claude",
+      "Gemini",
+      "Copilot",
+      "GPT"
+    ]
+  },
+  {
+    "title": "Rethinking User Encoders: Routing Diffusion States for Scenario-Adaptive User Representation",
+    "url": "https://arxiv.org/abs/2610.22400",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 19 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.22400v1 Announce Type: new \nAbstract: Existing large language model (LLM)-based user encoders serialize heterogeneous behavioral logs and compress them into static representations through autoregressive (AR) prediction. However, their unidirectional constraint limits bidirectional information flow, hindering cross-modal interactions and the joint preservation of multi-source signals. Consequently, the learned static representations struggle to accommodate the distinct evidence require",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "diffusion",
+      "language model"
+    ]
+  },
+  {
+    "title": "PRIME: Towards Verifiable Evidence-Grounded Reasoning in LLM Agents",
+    "url": "https://arxiv.org/abs/2610.22426",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 19 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.22426v1 Announce Type: new \nAbstract: LLM agents are used to check records against an organization's requirements, for example whether a vulnerability report is ready for investigation. Requirements often allow several ways to be met, such as a severity rating with a curator-reviewed advisory or a published advisory link. Agents fail by accepting a report after a required check has failed, or by settling for a weaker conclusion without trying another way that could still succeed. We i",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "From Natural Language Intent to Executable Control: Hierarchical Feedback-Guided LLM Planning for Multi-component Cyber-Physical Systems",
+    "url": "https://arxiv.org/abs/2610.22441",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 19 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.22441v1 Announce Type: new \nAbstract: Large language models (LLMs) provide a convenient interface for translating natural language commands into task plans for cyber-physical systems (CPSs). However, two gaps hinder their use for real execution: generated plans may misinterpret or omit the user's intent, and even a logically plausible plan may be infeasible under component dynamics, interactions, or safety constraints. Existing LLM-based planning approaches often lack informative feed",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "planning"
+    ]
+  },
+  {
+    "title": "Harness-Delta Attribution: Dissecting Gains From Harness Evolution",
+    "url": "https://arxiv.org/abs/2610.22466",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 19 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.22466v1 Announce Type: new \nAbstract: Harness evolution automatically optimizes the prompts, skills, tools, and orchestration code around a fixed-weight model, offering a way to improve agentic systems without updating model weights. The agent harness is iteratively optimized to achieve higher performance on the search set. But how much of this gain reflects benchmark-specific overfitting or additional inference-time compute, and how much may generalize beyond the search set? In this ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "inference",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Repairing LLM-Generated Specifications with Deterministic Diagnosis",
+    "url": "https://arxiv.org/abs/2610.22568",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 19 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.22568v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly used as formalizers: given a reasoning problem expressed in natural language, they produce a formal specification that a symbolic solver can then solve, with guarantees relative to that specification. Many specifications are runnable yet semantically wrong, encoding incorrect constraints, domains, objectives, predicates, or goals, and solver-error feedback dries up once execution succeeds. Purely LLM-b",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Sep-Latent: Separator Tokens as Natural Compression Anchors for Implicit Reasoning",
+    "url": "https://arxiv.org/abs/2610.22924",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 19 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.22924v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have demonstrated remarkable success in complex reasoning through explicit Chain-of-Thought (CoT), but the associated computational overhead and token verbosity remain significant barriers to efficiency. While implicit reasoning in continuous latent spaces offers a promising alternative, existing methods like Coconut and CODI often rely on fixed-length latent sequences and suffer from representational collapse. In this",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "The Ethics of Prompt Engineering",
+    "url": "https://arxiv.org/abs/2610.23082",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 19 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.23082v1 Announce Type: new \nAbstract: Prompt engineering is commonly understood as a technical practice aimed at eliciting useful, accurate, and appropriately structured outputs from large language models (LLMs). Yet prompts do more than optimize model performance: they shape what information is elicited, which assumptions are introduced, and which perspectives are privileged. In this paper, we argue that prompting should therefore be understood as an epistemic and normative act. We d",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "prompt"
+    ]
+  },
+  {
+    "title": "AlphaBet: Reinforcement Learning for LLM Event Forecasting Agents",
+    "url": "https://arxiv.org/abs/2610.22684",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 19 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.22684v1 Announce Type: new \nAbstract: Forecasting an unresolved event requires finding relevant evidence and deciding how strongly it supports each outcome. Yet outcome-based training of Large Language Model (LLM) forecasters often begins with preassembled evidence at a single prediction date, leaving evidence acquisition outside the learning loop. We introduce AlphaBet, an agentic reinforcement learning (RL) framework that trains a single LLM policy to search, reason, and report prob",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model"
+    ]
+  }
+]
