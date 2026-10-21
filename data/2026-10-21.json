@@ -1,0 +1,269 @@
+{
+  "date": "2026-10-21",
+  "candidates": [
+    {
+      "title": "ruvnet / ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated [684 stars today]",
+      "score": 16.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "workflow",
+        "autonomous",
+        "RAG",
+        "vector",
+        "memory"
+      ]
+    },
+    {
+      "title": "Graphify-Labs / graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store. [802 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "Claude",
+        "Gemini",
+        "vector"
+      ]
+    },
+    {
+      "title": "headroomlabs-ai / headroom",
+      "url": "https://github.com/headroomlabs-ai/headroom",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server. [549 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "RAG"
+      ]
+    },
+    {
+      "title": "google / artemis",
+      "url": "https://github.com/google/artemis",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code. It also achieves 99%+ success rate on AndroidWorld Benchmark. [338 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "Claude",
+        "workflow",
+        "automation"
+      ]
+    },
+    {
+      "title": "anthropics / claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. [494 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "workflow"
+      ]
+    },
+    {
+      "title": "wshobson / agents",
+      "url": "https://github.com/wshobson/agents",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi [93 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "agent",
+        "Claude",
+        "Copilot"
+      ]
+    },
+    {
+      "title": "vllm-project / vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs [128 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "LLM",
+        "inference",
+        "memory"
+      ]
+    },
+    {
+      "title": "AgriciDaniel / claude-seo",
+      "url": "https://github.com/AgriciDaniel/claude-seo",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data. [191 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "Claude"
+      ]
+    },
+    {
+      "title": "stablyai / orca",
+      "url": "https://github.com/stablyai/orca",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. [1,565 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude"
+      ]
+    },
+    {
+      "title": "croffasia / itsaplan",
+      "url": "https://github.com/croffasia/itsaplan",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "⭐️⭐️⭐️ Open-source, self-hosted alternative to Linear and Plane. Project management and issue tracking where teams and AI agents work side by side to plan and ship products. [114 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "self-hosted"
+      ]
+    },
+    {
+      "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
+      "url": "https://research.poh.org/bot-benchmarking-2026/",
+      "source": "Hacker News",
+      "published_at": "Tue, 20 Oct 2026 17:10:31 +0000",
+      "description": "Article URL: https://research.poh.org/bot-benchmarking-2026/ Comments URL: https://news.ycombinator.com/item?id=50169506 Points: 24 # Comments: 0",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "Facebook Pages require paid subscription to post more than two links per month",
+      "url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
+      "source": "Hacker News",
+      "published_at": "Tue, 20 Oct 2026 15:06:08 +0000",
+      "description": "Article URL: https://mastodon.gamedev.place/@AshleyGullen/117473851565913919 Comments URL: https://news.ycombinator.com/item?id=50167536 Points: 414 # Comments: 374",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "game"
+      ]
+    },
+    {
+      "title": "Publish fake stats, get cited in LLMs",
+      "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+      "source": "Hacker News Best",
+      "published_at": "Tue, 20 Oct 2026 13:06:22 +0000",
+      "description": "Article URL: https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web Comments URL: https://news.ycombinator.com/item?id=50165801 Points: 322 # Comments: 183",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "source": "Hacker News Best",
+      "published_at": "Tue, 20 Oct 2026 09:08:54 +0000",
+      "description": "Article URL: https://github.com/deepseek-ai/DeepInfer Comments URL: https://news.ycombinator.com/item?id=50163277 Points: 2132 # Comments: 830",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "inference"
+      ]
+    },
+    {
+      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+      "source": "Hacker News Best",
+      "published_at": "Mon, 19 Oct 2026 23:22:18 +0000",
+      "description": "Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions Comments URL: https://news.ycombinator.com/item?id=50159341 Points: 714 # Comments: 208",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "title": "MadsLorentzen / ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. [3,861 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "Claude"
+      ]
+    },
+    {
+      "title": "Comfy-Org / ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world. [1,206 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "diffusion",
+        "inference"
+      ]
+    },
+    {
+      "title": "anthropics / knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork [267 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "Claude",
+        "open source"
+      ]
+    },
+    {
+      "title": "sickn33 / agentic-awesome-skills",
+      "url": "https://github.com/sickn33/agentic-awesome-skills",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,600+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench. [83 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "agent",
+        "planning"
+      ]
+    },
+    {
+      "title": "bobeff / open-source-games",
+      "url": "https://github.com/bobeff/open-source-games",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "A list of open source games. [154 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "game",
+        "open source"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-10-21\n\n从今天的技术动态来看，一个极其明显的趋势是：**围绕“编码 Agent 原生协议/工作流（Claude Code/Codex 等）”的基础设施和环境扩展正在全面爆发**。抛开泛泛的推理优化，我为你筛选了 4 个最能刺激艺术、游戏系统与 Agent 工作流交叉灵感的项目：\n\n---\n\n## 1. Graphify：摒弃向量检索的代码与文档“确定性 AST 知识图谱”\n- 来源：GitHub Trending Python\n- 链接：https://github.com/Graphify-Labs/graphify\n- 一句话解释：通过确定性 AST 解析（不用向量数据库）将整个代码库、Schema、PDF 转化为带因果关系的图谱，并暴露为 Agent 的直连 Skill。\n- 它为什么重要：当前 RAG 普遍过度依赖模糊的向量相似度，导致 Agent 理解复杂系统拓扑时经常“幻觉”。这个项目用确定性 AST 语法树建图，每条边都有明确解释，是做系统级理解、严谨架构生成（Spec-driven）的核心基石。\n- 技术趋势标签：`Code Graph` `Deterministic RAG` `AST` `Agent Skills`\n- 可复用模式：**AST-to-Graph determinism** —— 不用语义相似度检索，而是静态分析代码/数据流图，把全局依赖关系直接丢给 Agent 推理。\n- 疯狂发明家灵感：\n  1. **一个小实验**：把一个微型 roguelike 游戏项目的 ECS（实体组件系统）用 Graphify 建图，让 Claude Code 检查是否有“循环依赖的逻辑死锁”。\n  2. **一个中型项目**：**“Living Architecture 3D”**：将 Graphify 导出的图结构喂给 Three.js/Force-directed graph，实时渲染出代码拓扑，并在你敲代码时动态高亮 Agent 正在穿梭思考的路径。\n  3. **一个艺术/游戏/叙事方向**：**交互叙事 AST**：把叙事分支（Twine/Ink 脚本）解析成图谱，Agent 扮演反派角色，沿着图谱的边寻找玩家尚未封堵的“叙事逻辑漏洞”并发动叙事突袭。\n- 对我项目的启发：如果要做世界生成或规则系统，不要一上来就用 Vector RAG，先用 AST 建立硬性的因果图（Causal Graph），Agent 才能真正理解世界的物理/魔法法则。\n- 今天是否值得深入研究：是\n- 建议行动：做demo\n\n---\n\n## 2. Headroom：在 Tool-calling 到达 LLM 前的极限中间件压缩器\n- 来源：GitHub Trending Python\n- 链接：https://github.com/headroomlabs-ai/headroom\n- 一句话解释：专门给 Coding Agent 和 MCP Server 准备的透明代理，把工具吐出的海量 JSON/日志/Chunk 无损压缩 60%-95% 后再喂给模型。\n- 它为什么重要：多 Agent 编排和世界模拟中最致命的瓶颈是上下文窗口被冗余的结构体（例如游戏状态、Minecraft 方块数据、API 日志）挤爆。这个项目在协议层做结构化语义压缩，能大幅降低延迟和 Token 成本。\n- 技术趋势标签：`MCP Middleware` `Token Compression` `Agent Efficiency` `Context Optimization`\n- 可复用模式：**Proxy-layer semantic squashing** —— 在感知端（环境/工具）与思考端（LLM）之间设立过滤器，剥离机器冗余，保留意图语义。\n- 疯狂发明家灵感：\n  1. **一个小实验**：在本地 MCP 服务器前挂载 Headroom，传入一个 10,000 行的 Minecraft NBT/方块空间 JSON，测算压缩率并测试 Agent 是否仍能正确执行建造指令。\n  2. **一个中型项目**：**“微型世界状态广播网”**：为多智能体城镇模拟写一个事件总线，所有 NPC 的长篇行为日志经由 Headroom 压缩为极度紧凑的“世界脉搏流”，允许百个 Agent 跑在单台低配机器上。\n  3. **一个艺术/游戏/叙事方向**：**高频感知数字生物**：让 Agent 能够以 10Hz 的极高频率接收游戏物理引擎数据（位置、碰撞、速度），而不会在一分钟内爆掉 100k 的上下文窗口。\n- 对我项目的启发：对于复杂生成式系统，必须把“上下文压缩器”作为标准中间件，否则 Agent 永远被困在低频低维的交互中。\n- 今天是否值得深入研究：是\n- 建议行动：试用\n\n---\n\n## 3. Artemis：自然语言驱动的无死角 Android 自主操作代理\n- 来源：GitHub Trending Python\n- 链接：https://github.com/google/artemis\n- 一句话解释：Google 推出的端到端 Android 自动化系统，在基准测试上达到 99%+ 准确率，无缝桥接 Claude Code 等现代 Agent。\n- 它为什么重要：过去 UI Agent 经常迷失在无障碍树（Accessibility Tree）或像素视觉差中。Google 把它做到了 99% 的工程可用级。这意味着手机不再只是个消费端，而是可以变成“由 Agent 接管的硬件外设”。\n- 技术趋势标签：`Device Agent` `GUI-Automation` `Embodied Agent` `Mobile HCI`\n- 可复用模式：**Log-reflex Loop** —— 深度结合系统 Logcat 日志捕获与视觉多模态，用底层系统真实状态闭环修正 Agent 的下一步盲动。\n- 疯狂发明家灵感：\n  1. **一个小实验**：给 Artemis 一个指令：“打开手机相机，拍下桌上的水杯，用即时修图软件调成赛博朋克风并设为壁纸”。\n  2. **一个中型项目**：**“物理手机寄生虫（Digital Parasite）”**：把一台闲置安卓手机挂载在工位上，Agent 每天根据你的日程自动去各种真实 App（社交媒体、日历、外卖）中抓取物理现实碎片，编译成一天的世界日志。\n  3. **一个艺术/游戏/叙事方向**：**ARG（平行实境游戏）的真实接线员**：一个运行在真实手机上的 AI 角色，玩家给它打电话、发 WhatsApp，它能够自主操作手机各种 App 去“替玩家查案”，模糊游戏与真实设备的界限。\n- 对我项目的启发：在 HCI 设计上，Agent 的输出不一定是一段代码或一张图，可以是一次“对物理设备的远程夺舍操作”。\n- 今天是否值得深入研究：否（依赖 Android 环境配置成本较高）\n- 建议行动：收藏\n\n---\n\n## 4. Ruflo：多玩家蜂群智能协同框架（Multi-player Swarms Harness）\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/ruvnet/ruflo\n- 一句话解释：专为 Claude Code / Hermes 等现代 Agent 设计的分布式多 Agent 蜂群容器，集成自学习记忆系统和多 Agent 协同网络。\n- 它为什么重要：很多 Multi-agent 库（如 Autogen, CrewAI）过度臃肿且脱离最新终端 Agent 的原生体验。Ruflo 是原生针对现代本地 Agent 协议构建的分布式编排器，主打“多玩家（Multi-player）”与“联合（Federation）”，非常贴合游戏/涌现系统。\n- 技术趋势标签：`Swarm Intelligence` `Multi-Agent System` `Adaptive Memory` `Federated Agents`\n- 可复用模式：**Swarm Harness Protocol** —— 统一约束多个 Agent 的角色状态、自适应长程记忆，使其像多人联机游戏一样加入/离开协同网络。\n- 疯狂发明家灵感：\n  1. **一个小实验**：创建 3 个性格对立的微型 Agent（极简主义建筑师、野蛮主义者、废土拾荒者），在同一个本地文件夹内争夺同一个文档的修改权。\n  2. **一个中型项目**：**“自主代码生态池（Code Ecosystem）”**：一个 Agent 专门写 BUG 生成机制，一个 Agent 扮演黑客攻破系统，第三个 Agent 作为防御者修补架构，观察其演化。\n  3. **一个艺术/游戏/叙事方向**：**“无尽剧本研讨室”**：为叙事游戏搭建多 Agent 编剧群，其中一个负责“提供逻辑合理的推演”，另一个负责“引入不可预测的宿命悲剧”，实时生成可交互的 TRPG 剧本树。\n- 对我项目的启发：多智能体系统的本质就是“游戏规则设定”。把 Agent Harness 视作游戏引擎中的 Ruleset，可以让生成式世界更加自洽。\n- 今天是否值得深入研究：是\n- 建议行动：做demo\n\n---\n\n## 今日模式总结\n\n1. **去向量化的“强拓扑结构”（Deterministic Topologies over Vectors）**：\n   从 Graphify 可以看出，开发者对概率性向量召回的容忍度正在降低。无论是代码分析还是世界观构建，**AST、有向无环图（DAG）、因果知识图谱** 正在重新成为 Agent 精确行动的中枢。\n2. **中间件级的内容压缩（Context Squashing at Middleware）**：\n   Headroom 展现了 Agent 工具链进化的下一站：不再指望 LLM 拥有无限且廉价的上下文，而是在协议层（MCP/Proxy）拦截数据流，将其进行**高密度符号化压缩**后再交付认知层。\n\n---\n\n## 今日可做小实验\n\n### 实验名称：`AST-Graph-Narrative` —— 基于确定性语法树的因果世界规则验证器\n用 Graphify 的核心思路（AST 解析因果关系，而非向量相似度），构建一个不可违背的游戏规则检查器。\n\n- **输入**：一段极简的 JSON/DSL 格式世界法则（包含物品合成、空间移动约束）。\n- **输出**：一个自动生成的“拓扑因果关系图”，并在 Agent 试图生成违背物理/规则的行动时，直接通过图的最短路径报错打回。\n- **技术栈**：Python, NetworkX（或 AST 模块）, Claude API\n- **第一步怎么做**：\n  1. 用 Python 写一个 20 行脚本，用 `networkx.DiGraph` 定义三个因果节点：`[钥匙] -> opens -> [铁门]`，`[铁门] -> contains -> [宝箱]`。\n  2. 让 Agent 接收用户输入（例如“我直接伸手拿宝箱”）。\n  3. 脚本不使用 LLM 检索，直接在 Graph 中判断 Agent 的行动路径是否缺失前置边，如果是，将图的断点原因直接作为 System 错误反馈给 Agent 重新规划。感受一下“确定性图结构约束 Agent”的爽快感。",
+  "gemini_success": true,
+  "telegram_sent": true,
+  "telegram_status": "sent",
+  "telegram_reason": ""
+}
