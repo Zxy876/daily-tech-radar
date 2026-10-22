@@ -1,0 +1,322 @@
+{
+  "date": "2026-10-22",
+  "candidates": [
+    {
+      "title": "Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training",
+      "url": "https://arxiv.org/abs/2610.26887",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 21 Oct 2026 00:00:00 -0400",
+      "description": "arXiv:2610.26887v1 Announce Type: new \nAbstract: Large language model (LLM) agents are evolving from conversational assistants into Cowork Agents capable of autonomous planning, tool use, and complex task execution. Financial analysis requires these agents to integrate cross-document evidence and perform multistep numerical reasoning, but expert task authoring is costly, while direct LLM synthesis struggles to produce challenging tasks with reliable answers. We introduce Navalia, a framework for",
+      "score": 16.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "autonomous",
+        "tool use",
+        "reasoning",
+        "planning"
+      ]
+    },
+    {
+      "title": "ruvnet / ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated [612 stars today]",
+      "score": 16.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "workflow",
+        "autonomous",
+        "RAG",
+        "vector",
+        "memory"
+      ]
+    },
+    {
+      "title": "MAMath-Bench: Process-Aware and Robust Evaluation of Multimodal Multi-Agent Mathematical Reasoning",
+      "url": "https://arxiv.org/abs/2610.26943",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 21 Oct 2026 00:00:00 -0400",
+      "description": "arXiv:2610.26943v1 Announce Type: new \nAbstract: Mathematical reasoning is a fundamental capability for educational applications of Large Language Models (LLMs), where reliable problem solving requires not only correct answers but also coherent and verifiable reasoning processes. Multi-agent systems (MASs) have shown growing potential in this domain by leveraging collaboration and verification among multiple LLM agents. However, existing evaluations primarily focus on the correctness of final an",
+      "score": 14.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "multimodal",
+        "RAG",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "M-Plan: Comprehensive Planning For LLM Agents with Memory Arrangement",
+      "url": "https://arxiv.org/abs/2610.27032",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 21 Oct 2026 00:00:00 -0400",
+      "description": "arXiv:2610.27032v1 Announce Type: new \nAbstract: Large language model (LLM)-based agents have recently demonstrated outstanding performance in single-turn tasks, yet they continue to struggle with long-horizon tasks, particularly in environments without prior training. A key limitation of single LLMs is their difficulty in processing long contexts, which stems from weaknesses in continuous decision-making and reasoning capabilities. Although existing multi-agent systems (MAS) equipped with long-",
+      "score": 14.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "reasoning",
+        "planning",
+        "memory"
+      ]
+    },
+    {
+      "title": "EGI-BENCH: An Enterprise General Intelligence Benchmark Suite",
+      "url": "https://arxiv.org/abs/2610.27234",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 21 Oct 2026 00:00:00 -0400",
+      "description": "arXiv:2610.27234v1 Announce Type: new \nAbstract: Enterprise adoption of LLMs in agentic workflows is gated by evaluations that span a wide arc of abilities: CRM operations, heterogeneous-document retrieval, personal data understanding, multi-turn planning, tool use, function calling, long-horizon research, and long-context software engineering. These evaluations live today in separate repositories with divergent runners, dependencies, and scoring conventions, which makes cross-benchmark comparis",
+      "score": 14.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "workflow",
+        "tool use",
+        "function calling",
+        "planning",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "SPEM: Structure-Aware Procedural Memory for Efficient Skill Use in LLM Agents",
+      "url": "https://arxiv.org/abs/2610.26995",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 21 Oct 2026 00:00:00 -0400",
+      "description": "arXiv:2610.26995v1 Announce Type: new \nAbstract: LLM-based agents increasingly rely on reusable skills. However, scaling skill libraries makes efficient and accurate skill use difficult. Full skill loading incurs high token and runtime overhead. In contrast, flat semantic retrieval treats skills as independent text entries, ignoring dependencies, execution order, state transitions, and data flow constraints. We propose SPEM, a lightweight structure-aware procedural memory framework for efficient",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "memory",
+        "retrieval",
+        "procedural"
+      ]
+    },
+    {
+      "title": "REM: What to Store, When to Recall, What to Forget in Experience Memory for Coding Agents",
+      "url": "https://arxiv.org/abs/2610.27377",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 21 Oct 2026 00:00:00 -0400",
+      "description": "arXiv:2610.27377v1 Announce Type: new \nAbstract: Large language model (LLM) agents now autonomously complete long-horizon tasks, such as repository-level coding, through hundreds of think-act steps, yet the experience each run produces is rarely reused on the next. Prior memory systems concentrate on retrieval, finding the most relevant past trajectory. Retrieval cannot observe the running agent, so it cannot decide whether the agent needs an experience, at which point, or for how long. We intro",
+      "score": 12.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "language model",
+        "autonomous",
+        "memory",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Bias and Reliability in Learning-Style Inference from Student--AI Dialogues: An Evaluation of GPT-4o and Gemini 2.0 Flash",
+      "url": "https://arxiv.org/abs/2610.27448",
+      "source": "arXiv cs.HC",
+      "published_at": "Wed, 21 Oct 2026 00:00:00 -0400",
+      "description": "arXiv:2610.27448v1 Announce Type: new \nAbstract: Large Language Models (LLMs) are increasingly integrated into educational technologies for personalized support, creating opportunities for real-time learner modeling from dialogue. This study evaluates whether GPT-4o and Gemini 2.0 Flash can infer three Felder-Silverman Learning Style Model dimensions (Active-Reflective, Sensing-Intuitive, and Sequential-Global) from short, task-focused student-AI problem-solving dialogues. Using questionnaire-de",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "Gemini",
+        "GPT",
+        "language model",
+        "inference"
+      ]
+    },
+    {
+      "title": "WhatIf: Interactive Exploration of Large-Scale LLM Agent Simulations for Policy Reasoning",
+      "url": "https://arxiv.org/abs/2604.17615",
+      "source": "arXiv cs.HC",
+      "published_at": "Wed, 21 Oct 2026 00:00:00 -0400",
+      "description": "arXiv:2604.17615v2 Announce Type: replace \nAbstract: Policymakers in domains such as emergency management, public health, and urban planning must make decisions under deep uncertainty, where outcomes depend on how large populations interpret information, coordinate, and adopt over time. Existing tools only partially support this process: tabletop exercises enable collaborative discussion but lack dynamic feedback, while computational simulations capture population dynamics but are designed for o",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "simulation",
+        "reasoning",
+        "planning"
+      ]
+    },
+    {
+      "title": "Industrial Agentic AI: LLM-Driven New-Generation Agents for Smart Manufacturing",
+      "url": "https://arxiv.org/abs/2610.26941",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 21 Oct 2026 00:00:00 -0400",
+      "description": "arXiv:2610.26941v1 Announce Type: new \nAbstract: Large language models (LLMs) are enabling agents to move beyond predefined workflows toward autonomous planning and execution, creating new opportunities for smart manufacturing. However, dynamic environments, complex physical constraints, and stringent reliability requirements hinder the direct deployment of general-purpose agents in smart manufacturing. This article presents a systematic overview of LLM-driven industrial agents. First, we analyz",
+      "score": 11.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "workflow",
+        "language model",
+        "autonomous",
+        "planning"
+      ]
+    },
+    {
+      "title": "Sparse RL Relaxation for LLM Reasoning",
+      "url": "https://arxiv.org/abs/2610.27220",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 21 Oct 2026 00:00:00 -0400",
+      "description": "arXiv:2610.27220v1 Announce Type: new \nAbstract: Recent work has explored continuous representations in place of discrete tokens during Chain-of-Thought (CoT) reasoning, often referred to as soft CoT. This is motivated by the idea that a mixture of token embeddings can represent a superposition of multiple reasoning possibilities within a single step. However, it remains challenging to train large language models to realize this potential. Existing work has explored reinforcement learning (RL)-s",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "embedding",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "An LLM-Based Agent for Legal Compliance Assessment: Architecture, Memory, and Evaluation in a Canadian and Quebec Context",
+      "url": "https://arxiv.org/abs/2610.27347",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 21 Oct 2026 00:00:00 -0400",
+      "description": "arXiv:2610.27347v1 Announce Type: new \nAbstract: Checking whether a text complies with a body of law is slow when done by hand and fragile when done with keyword rules. This paper presents ComplianceAgent, the legal compliance sub-agent of COMPASS, a multi-agent framework that evaluates texts along four axes: digital sovereignty, carbon impact, compliance, and ethics. The agent relies on a large language model that scores a text on a fixed rubric, grounds its judgment in a reference legal corpus",
+      "score": 10.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "language model",
+        "RAG",
+        "memory"
+      ]
+    },
+    {
+      "title": "Evaluating Social Reasoning in Embodied Vision-Language Models",
+      "url": "https://arxiv.org/abs/2610.27496",
+      "source": "arXiv cs.HC",
+      "published_at": "Wed, 21 Oct 2026 00:00:00 -0400",
+      "description": "arXiv:2610.27496v1 Announce Type: cross \nAbstract: Foundation models now serve as reasoning layers for robot teams, but it remains unclear whether embodiment-specialized vision-language models (VLMs) preserve the social-reasoning capabilities of general-purpose VLMs. We evaluate Gemini Robotics-ER on SHREC, a benchmark of real human-robot social interactions, and compare it with published general-purpose VLM baselines. Robotics-ER outperforms GPT-4o-mini on error/competence detection but perform",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "Gemini",
+        "GPT",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Expert-Guided Rubrics as Dense Reward Signals for Reinforcement Learning in Non-Verifiable Domains",
+      "url": "https://arxiv.org/abs/2610.26932",
+      "source": "arXiv cs.LG",
+      "published_at": "Wed, 21 Oct 2026 00:00:00 -0400",
+      "description": "arXiv:2610.26932v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly deployed as autonomous agents in non-verifiable domains such as financial services, where they must interpret user intent, rewrite queries, and retrieve information under domain-specific constraints. Although reinforcement learning (RL) can train such agents from the consequences of their actions, recent successes largely rely on verifiable tasks with automatically computed binary rewards. In non-verif",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "MedPAO-Assist: Edge-Deployable, Modality-Aware Agentic AI for Radiology Report Structuring",
+      "url": "https://arxiv.org/abs/2610.26913",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 21 Oct 2026 00:00:00 -0400",
+      "description": "arXiv:2610.26913v1 Announce Type: new \nAbstract: The adoption of Large Language Models for radiology report structuring has been largely dominated by either proprietary cloud-based models or large open models requiring high-end GPUs for deployment, which is a critical bottleneck for clinical adoption in radiology workflows that demand data privacy and offline operation. To address this, we present MedPAO-Assist, an edge-deployable agentic framework that generates structured radiology reports dir",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "workflow",
+        "language model"
+      ]
+    },
+    {
+      "title": "When Planning Problems Become Hard for LLMs: Separating Structural Complexity from Semantic Interpretability",
+      "url": "https://arxiv.org/abs/2610.26964",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 21 Oct 2026 00:00:00 -0400",
+      "description": "arXiv:2610.26964v1 Announce Type: new \nAbstract: Large language models (LLMs) struggle with classical planning, but benchmarks rarely distinguish structural difficulty from the difficulty of interpreting symbolic vocabulary. We examine seven STRIPS domains with BFS-optimal plan lengths. For predicting structural difficulty without solving an instance, the zero-training delete-relaxation heuristic $h_{\\mathrm{add}}$ outperforms learned alternatives on held-out domains (mean Spearman $|\\rho|=0.931",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "planning"
+      ]
+    },
+    {
+      "title": "Does Multi-Agent Collaboration Reduce Hallucination in Clinical Tasks?",
+      "url": "https://arxiv.org/abs/2610.27027",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 21 Oct 2026 00:00:00 -0400",
+      "description": "arXiv:2610.27027v1 Announce Type: new \nAbstract: Multi-agent LLM systems improve performance on clinical tasks, and that improvement is often read as evidence of a more trustworthy system. However, the two are not the same claim. A clinician acts on the stated reasoning and not only on the conclusion, so whether collaboration reduces hallucination, and what decides when it does, has to be measured in the reasoning too. Yet most evaluations score only the final answer. We evaluate four systems (a",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Teaching AI Agent to Play Poker Strategically Through Preference Optimization",
+      "url": "https://arxiv.org/abs/2610.27028",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 21 Oct 2026 00:00:00 -0400",
+      "description": "arXiv:2610.27028v1 Announce Type: new \nAbstract: A poker agent can make a legal move and still make a strategically poor one. We ask whether compact AI agents can exhibit strategic behavior under hidden information and whether preference optimization can improve beyond static and zero-shot policies. We first evaluate a static baseline and three frozen language models: SmallThinker, Qwen3, and Gemma-3 whose performance varies substantially between exact-game and six-player evaluation. We therefor",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "game",
+        "language model"
+      ]
+    },
+    {
+      "title": "EDMA: Entropy-Driven Multimodal Answering",
+      "url": "https://arxiv.org/abs/2610.27120",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 21 Oct 2026 00:00:00 -0400",
+      "description": "arXiv:2610.27120v1 Announce Type: new \nAbstract: Multimodal question answering (MMQA) is based on integrating heterogeneous data sources, selectively leveraging relevant modalities, and ignoring distractors. Existing approaches based on Multimodal Large Language Models (MLLMs) improve performance by splitting the task into intermediate steps, but do not quantify how each modality contributes to reaching the final answer. We argue that quantifying the effect that each modality has on the answerin",
+      "score": 8.0,
+      "keywords_matched": [
+        "LLM",
+        "language model",
+        "multimodal",
+        "RAG"
+      ]
+    },
+    {
+      "title": "Magnolia: A Persistent-Memory Agent Framework for Computational Chemistry",
+      "url": "https://arxiv.org/abs/2610.27230",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 21 Oct 2026 00:00:00 -0400",
+      "description": "arXiv:2610.27230v1 Announce Type: new \nAbstract: Chemistry has recently entered a high-data regime as molecular databases from high-throughput platforms or computational studies have become available. Increasing automation within the chemical sciences leads to a more digital and precision chemistry. Dedicated scientific agents are becoming central to guiding the chemist through an ever-increasing amount of data and findings, including negative ones. Here, we introduce Magnolia, a persistent-memo",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "automation",
+        "memory"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-10-22\n\n为你从 20 个候选项目中筛选出 **4 个最具跨学科实验价值、直击 Agent 架构演进与生成系统** 的核心成果。\n\n---\n\n## 1. SPEM: Structure-Aware Procedural Memory for LLM Agents\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2610.26995\n- **一句话解释**：抛弃把 Agent 技能当扁平文本检索的做法，改用保留“依赖、执行序、状态转移和数据流”的结构化程序记忆。\n- **它为什么重要**：长任务 Agent 积累了几百个 Skill 后，向量检索（RAG）经常找错或丢掉依赖项。把“技能库”升级为“状态机/拓扑图”，是复杂 Agent 从玩具走向工程执行的关键分水岭。\n- **技术趋势标签**：#ProceduralMemory #AgentSkills #GraphExecution #SpecDriven\n- **可复用模式**：**有向无环技能图（Skill-DAG）**——技能不是 prompt 片段，而是带明确前置条件（Preconditions）、输入输出类型契约、回滚路径的状态节点。\n- **疯狂发明家灵感**：\n  1. *小实验*：给本地 Claude Code / Agent 写一个技能拓扑，用 JSON 描述技能依赖，强制 Agent 执行 `skill_B` 前必须校验 `skill_A` 的产物。\n  2. *中型项目*：**Drift 自动化构建管线**：让代码生成 Agent 不再“边想边写”，而是先基于 Spec 组装出技能状态机（如：拉取规范 -> 生成接口 -> 跑测试 -> 修复），带依赖校验执行。\n  3. *艺术/游戏/叙事方向*：**Minecraft 复杂红石/建筑蓝图编译 Agent**。将建筑拆解为严格依赖的结构化程序（如地基 -> 承重 -> 封顶 -> 装饰），Agent 会根据地形动态推演依赖树并执行建造。\n- **对我的项目的启发**：在 Spec-driven 开发中，Spec 实际上就是这种程序性记忆的根节点。可以把规范定义为可执行的状态依赖图。\n- **今天是否值得深入研究**：是\n- **建议行动**：做demo\n\n---\n\n## 2. WhatIf: Interactive Exploration of Large-Scale Agent Simulations\n- **来源**：arXiv cs.HC\n- **链接**：https://arxiv.org/abs/2604.17615\n- **一句话解释**：一个为人机交互决策设计的界面系统，让人类能交互式干预、分支探索并可视化大规模 LLM Agent 模拟演进。\n- **它为什么重要**：从斯坦福小镇（Generative Agents）以来，多 Agent 模拟一直缺乏“交互式推演”的 HCI 介质。它填补了“黑盒模拟”与“人类直觉干预”之间的交互空白。\n- **技术趋势标签**：#HCI #AgentSimulation #WorldBuilding #GameSystems\n- **可复用模式**：**时间线分支与反事实干预（Counterfactual Forking）**——允许在时间轴任意一点暂停世界、注入新变量、派生并行世界线对比结果。\n- **疯狂发明家灵感**：\n  1. *小实验*：用 Python + SQLite 记录 5 个 Agent 的对话状态机，做一个网页滑块，随时回退到第 3 轮修改某个 Agent 的信念（Belief），观察后续演化差异。\n  2. *中型项目*：**叙事推演设计台（Story Weaver Sandbox）**：游戏编剧或关卡策划可实时向虚拟小镇广播谣言或天气突变，仪表盘实时聚类 Agent 的群体动态。\n  3. *艺术/游戏/叙事方向*：**互动生成式生态戏剧**：在虚拟空间（如 Minecraft 或 3D 网页环境）里投放拥有不同信仰的 NPC，观众通过打字实时投掷“神迹/灾难”，系统动态渲染世界线分支图。\n- **对我的项目的启发**：做世界生成或游戏系统时，UI 不应只是静态展示，应该作为“时间线分叉控制器”。\n- **今天是否值得深入研究**：是\n- **建议行动**：收藏（重点看其 HCI 交互界面与状态分支控制的设计逻辑）\n\n---\n\n## 3. REM: What to Store, Recall, and Forget in Coding Agent Memory\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2610.27377\n- **一句话解释**：打破“被动相似度检索”的静态记忆模式，构建能监控 Agent 实时执行流并主动决定“何时存、何时调、何时遗忘”的代码经验记忆系统。\n- **它为什么重要**：Agent 经常在遇到曾经踩过的坑时再次翻车。静态向量库不仅噪音大，还会误导 Agent。提出“主动式遗忘与提取”是让自主 Agent 越跑越聪明的刚需技术。\n- **技术趋势标签**：#MemoryPruning #AutonomousCoding #SelfReflectingAgent\n- **可复用模式**：**运行感知型经验过滤器（Runtime-Aware Memory Gate）**——记忆不是存整个对话历史，而是只提取“错误签名（Error Signature）-> 解决尝试 -> 最终有效 Fix”的最小差分闭环，其余全部丢弃。\n- **疯狂发明家灵感**：\n  1. *小实验*：写一个 Git pre-commit hook 或本地拦截脚本，捕获你的终端报错和最终修好的 `git diff`，自动精简为一行规则写入本地 `.agent_tips`。\n  2. *中型项目*：**自愈型 Spec 执行器**：在运行测试报错时，Agent 自动查询过去的“错误模式库”，并在任务成功后将死胡同（Dead-ends）主动打上“避坑标签”。\n  3. *艺术/游戏/叙事方向*：**带“肌肉创伤记忆”的游戏 NPC 战斗系统**：NPC 不记录整局战斗，只记录死前 3 秒的操作漏洞，复活后主动修剪无关记忆，只保留针对玩家特定招式的反制策略。\n- **对我的项目的启发**：给自己的 Agent 工具链做 memory 时，不要无脑丢向量数据库，先做上下文轻量化和“遗忘机制”。\n- **今天是否值得深入研究**：是\n- **建议行动**：试用（提取其 Memory 过滤逻辑到自身工作流中）\n\n---\n\n## 4. Teaching AI Agent to Play Poker Strategically Through Preference Optimization\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2610.27028\n- **一句话解释**：利用偏好对齐（DPO/PO）训练极小体量的大模型（如 SmallThinker/Qwen3），在不完全信息博弈（德州扑克）中展现出“虚张声势（Bluffing）”等高级战略行为。\n- **它为什么重要**：证明了不用百亿大模型、不需要极重的强化学习框架，小参数模型通过“博弈轨迹的偏好对比”，也能学会欺骗、试探、博弈。这为轻量化、边缘运行的“高智商游戏 NPC”铺平了路。\n- **技术趋势标签**：#IncompleteInformation #GameAI #CompactLLM #PreferenceOptimization\n- **可复用模式**：**非完全信息行为的偏好配对（Trajectory DPO）**——将“保守直白的动作”作为劣解，将“带伪装与心理博弈的动作”作为优解，微调小型语言模型。\n- **疯狂发明家灵感**：\n  1. *小实验*：构建一个狼人杀/阿瓦隆最小上下文，给 3B 本地模型喂两组对话（一组直接招供，一组言语诱导），观察微调后小模型是否学会转移怀疑。\n  2. *中型项目*：**极低延迟的本地游戏 NPC 决策引擎**：用 Ollama 跑量化的 3B 模型，驱动策略游戏里的敌人，使其具备藏牌、声东击西等策略行为，不消耗云端 API。\n  3. *艺术/游戏/叙事方向*：**“不可靠叙述者”互动小说**：游戏内的 NPC 全身都是“隐藏信息”，通过偏好优化让它表面顺从玩家，暗中布局背叛，给玩家带来真正的心理博弈震慑。\n- **对我的项目的启发**：游戏和叙事系统里的 AI 拟人性，不在于“能背诵多少维基百科”，而在于“信息差管理”和“欺骗/试探的策略感”。\n- **今天是否值得深入研究**：否（不需要深挖 RL 公式，重点吸收其构建博弈偏好数据的思路）\n- **建议行动**：收藏\n\n---\n\n## 今日模式总结\n\n1. **结构化超越扁平向量（Structure over Semantic Vectors）**：从 SPEM 到 REM，都在反思“暴力 RAG”，Agent 记忆正全面转向具备拓扑关系、状态机和明确数据流的有向图。\n2. **记忆的主动新陈代谢（Active Memory Metabolism）**：“存什么”不再关键，“删什么”和“何时触发”成为瓶颈，负反馈与错误死胡同（Dead-ends）比正确答案更有压缩价值。\n3. **人类对复杂模拟的掌控介质（Interactive Sandbox HCI）**：随着自主多 Agent 系统的蔓延，产品与设计重点转向“反事实推演界面（Counterfactual UI）”，即人类如何作为“时空观测者”去分支、回溯与干预。\n\n---\n\n## 今日可做小实验（2小时极速版）\n\n### 🧪 项目名：**GitDiff-Reflector（Agent 极简错误自愈与遗忘记忆器）**\n\n- **输入**：一段报错信息（Terminal Error Log） + 修复后的代码差异（`git diff`）。\n- **输出**：一条极简格式的 YAML 规则，记录：`{ trigger_error: \"...\", forbidden_action: \"...\", correct_recipe: \"...\" }`。\n- **技术栈**：Python / Node.js + LiteLLM（调用任意模型） + Git 本地仓库。\n- **第一步怎么做**：\n  1. 在你最近的一个小项目根目录下写一个 `remember.py`。\n  2. 运行 `git diff HEAD~1` 获取最后一次成功修复代码的 diff。\n  3. 让 LLM 做一个单步任务：“不要生成解释，提取该 diff 解决的核心错误类型，并只输出一条包含【禁止动作】和【正解】的 100 字内规则”。\n  4. 追加写入本地 `.agent_rules.yaml`，并在下次唤起编程 Agent 的 System Prompt 中直接注入该文件。立即体验“主动经验沉淀”！",
+  "gemini_success": true,
+  "telegram_sent": false,
+  "telegram_status": "failed",
+  "telegram_reason": "401 Client Error: Unauthorized for url: https://api.telegram.org/bot8650722899:AAHUD-aqNDB7NwiPiGq3R22MVp77Cr_5GEQ/sendMessage"
+}
