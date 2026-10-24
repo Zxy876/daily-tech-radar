@@ -1,0 +1,296 @@
+[
+  {
+    "title": "promptfoo / promptfoo",
+    "url": "https://github.com/promptfoo/promptfoo",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic. [56 stars today]",
+    "score": 14.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "Gemini",
+      "GPT",
+      "RAG",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Behavior Beyond Text: Evaluating Refusal Transfer Failure in LLM Agents",
+    "url": "https://arxiv.org/abs/2610.28982",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 23 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.28982v1 Announce Type: new \nAbstract: While large language models are increasingly deployed as tool-calling agents, their safety evaluations still focus primarily on their ability to refuse harmful requests in text. We investigate whether the refusal behavior in text transfers to tool use. We construct a benchmark of 2,304 prompts across four domains, consisting of matched triplets that present the same harmful or benign request in text-only, standard tool-enabled, and adversarially f",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "tool use",
+      "prompt"
+    ]
+  },
+  {
+    "title": "MoEZip: Routing-Aware KV Cache Compression for Sparse Mixture-of-Experts LLMs",
+    "url": "https://arxiv.org/abs/2610.30206",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 23 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.30206v1 Announce Type: new \nAbstract: Mixture-of-Experts (MoE) language models scale model capacity efficiently by activating a small subset of parameters per token. However, in long-context inference, memory remains a major bottleneck because the KV cache grows linearly with sequence length. Existing KV cache compression methods reduce this cost for dense transformers, but overlook a problem specific to MoE: KV eviction can change which experts are selected during answer generation, ",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "transformer",
+      "language model",
+      "inference",
+      "memory"
+    ]
+  },
+  {
+    "title": "Anil-matcha / open-duet",
+    "url": "https://github.com/Anil-matcha/open-duet",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Open-source, self-hosted alternative to Claude Duet: AI coworkers (named agents) with instructions, memory, routines, their own isolated computer, and your approval before they act. Also an alternative to OpenAI Dots, Meta Muse, Grok Bot, Manus Cue and ChatGPT agent. [68 stars today]",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "GPT",
+      "memory",
+      "self-hosted"
+    ]
+  },
+  {
+    "title": "DiffResearch: Accelerating Deep Research with Diffusion Language Models",
+    "url": "https://arxiv.org/abs/2610.28909",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 23 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.28909v1 Announce Type: new \nAbstract: Deep research systems iteratively plan, gather evidence, synthesize, and revise, making end-to-end latency a key bottleneck for interactive use. Almost all production systems are built on autoregressive (AR) language models and inherit left-to-right decoding in planning and long-form writing. We present DiffResearch, an open multi-agent deep research framework that places a diffusion language model (dLLM) at the core of every stage, and measure ho",
+    "score": 10.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "diffusion",
+      "language model",
+      "planning"
+    ]
+  },
+  {
+    "title": "Inheritance as an Admission Test for LLM Prompt Merge Operators",
+    "url": "https://arxiv.org/abs/2610.29023",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 23 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.29023v1 Announce Type: new \nAbstract: Large language model (LLM) agents are often improved by iterating until a fixed verifier is done. Once that verifier saturates, the loop has nothing left to climb. We instead score agents against the current population, and a frozen panel records whether anyone got better. The panel mean can rise inside the seeds by elimination alone. We therefore count a run as training only when its final mean beats the best generation-zero member. A merge is ad",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Your Home Remembers: A Voice-Enabled Household Memory Assistant for Conversational Retrieval",
+    "url": "https://arxiv.org/abs/2610.30895",
+    "source": "arXiv cs.HC",
+    "published_at": "Fri, 23 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.30895v1 Announce Type: new \nAbstract: Everyday household information is often exchanged in conversations but never written down, making details easy to forget or misremember. We present a voice-enabled smart-home assistant that acts as a household memory by recording conversations and retrieving information from stored and newly captured speech. The assistant runs on an Android tablet with a modular architecture in which speech-recognition, diarisation, embedding and language models c",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "language model",
+      "embedding",
+      "memory",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "PointerBench: A Diagnostic Benchmark for Fine-Grained GUI Grounding",
+    "url": "https://arxiv.org/abs/2610.31274",
+    "source": "arXiv cs.HC",
+    "published_at": "Fri, 23 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.31274v1 Announce Type: cross \nAbstract: Multimodal Large Language Models have shown promising performance in computer-use tasks, from planning user workflows to grounding natural-language actions to precise UI targets. Existing end-to-end benchmarks primarily emphasize long-horizon task completion, while GUI grounding benchmarks remain focused on conventional controls and a limited set of professional interfaces. We introduce POINTERBENCH, a diagnostic suite of 1,500 screenshot-instru",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "workflow",
+      "language model",
+      "multimodal",
+      "planning"
+    ]
+  },
+  {
+    "title": "Edit, Don't Imitate: Minimal-Edit On-Policy Distillation for Multimodal Reasoning",
+    "url": "https://arxiv.org/abs/2610.30231",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 23 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.30231v1 Announce Type: new \nAbstract: Visual mathematical reasoning can fail before reasoning begins: when a vision-language model (VLM) misreads a diagram, subsequent reasoning proceeds from false premises. This perceptual bottleneck is especially pronounced in smaller models, while accurate textual descriptions can substantially narrow the gap to larger models. Because obtaining such descriptions at inference requires additional annotation or model calls, we propose minimal-edit cor",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "language model",
+      "multimodal",
+      "inference",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "A Small Model Asks Better: Fine-Tuning Query Clarification for Retrieval-Augmented Generation",
+    "url": "https://arxiv.org/abs/2610.28686",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 23 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.28686v1 Announce Type: new \nAbstract: Query clarification is essential for retrieval-augmented generation (RAG) systems that face ambiguous user queries. We consider multi-turn grounded conversational scenarios where a user query is either ill-formed or ambiguous in the context of the prior dialog or, more interestingly, it may be well-formed but when posed against retrieved documents there are multiple relevant interpretations. The task is to recognize both such cases and then genera",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "RAG",
+      "fine-tuning",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "SpecEvo: Speculative Evolution with Large Language Models for Cost-Efficient Scientific Discovery",
+    "url": "https://arxiv.org/abs/2610.28706",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 23 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.28706v1 Announce Type: new \nAbstract: LLM-driven evolutionary search is a promising paradigm for scientific discovery, but existing methods remain costly and slow, often applying expensive reasoning uniformly while underusing evidence from failed, redundant, and saturated trials. We introduce Speculative Evolution (SpecEvo), a multi-LLM framework that coordinates lightweight and frontier models through continual consolidation of search evidence. Lightweight models power both parallel ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Decision language models as affordable and rapid alternatives to LLM judges of clinical generative AI",
+    "url": "https://arxiv.org/abs/2610.28826",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 23 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.28826v1 Announce Type: new \nAbstract: Automated judges of clinical artificial intelligence (AI) outputs are necessary, but large language model (LLM) judges are costly and slow at scale. We compared Jev, a decision language model that returns structured judgments, with frontier and open-weight LLM judges in four use cases. On 118 pediatric answers, Jev's agreement with physicians' ordinal quality ratings (Gwet's AC2 0.50; expected score 0.53) matched or exceeded that of seven of 12 LL",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "generative"
+    ]
+  },
+  {
+    "title": "Self-Improving Agents with World Model Predictive Paths",
+    "url": "https://arxiv.org/abs/2610.28945",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 23 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.28945v1 Announce Type: new \nAbstract: Large language model (LLM) agents are increasingly expected to interact with environments and improve their decisions during deployment. However, how anticipating future outcomes and drawing on accumulated interaction experience can jointly support decision-making remains underexplored. We propose a test-time framework, inspired by Model Predictive Path Integral (MPPI) control, that combines multi-branch predictive analysis with experience-based a",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model"
+    ]
+  },
+  {
+    "title": "An Evidence-Driven Multi-Agent Compound AI System for Head and Neck Proton Radiotherapy Planning",
+    "url": "https://arxiv.org/abs/2610.29010",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 23 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.29010v1 Announce Type: new \nAbstract: Radiation treatment planning requires balancing competing objectives to satisfy clinical criteria while accommodating physicians' preferences. This study aims to develop an evidence-driven, multi-agent compound AI system that integrates DRL-based automated treatment planning with LLM-based conversational plan refinement for proton PBS therapy. A policy network trained using PPO first generates multiple plans without human intervention, from which ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "planning"
+    ]
+  },
+  {
+    "title": "Steering Black-Box Large Language Model Agents with Pitfall Anticipation World Model",
+    "url": "https://arxiv.org/abs/2610.29139",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 23 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.29139v1 Announce Type: new \nAbstract: Frontier black-box Large Language Model (LLM) agents are proficient at long-horizon reasoning and precise action generation. However, when it comes to a specific agentic task, they have no internalized knowledge of how that particular environment unfolds. A world model offers a natural remedy, providing the agent with environment specific knowledge by foreseeing how the environment will respond to the action it is about to take. Prior world models",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Same Probabilities, Different Advice: Gain-Loss Framing Effects in High-Stakes LLM Decision Support",
+    "url": "https://arxiv.org/abs/2610.29294",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 23 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.29294v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly used to support consequential decisions, yet their reliability under equivalent representations of uncertainty remains unclear. Existing work has documented prompt sensitivity, cognitive biases, and confidence miscalibration, but it is still unknown whether high-stakes advice changes when the same probability is expressed through complementary gain and loss frames. We introduce FrameBench-HPS, a contro",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Social Life Simulation for Non-Cognitive Skills Learning",
+    "url": "https://arxiv.org/abs/2405.00273",
+    "source": "arXiv cs.HC",
+    "published_at": "Fri, 23 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2405.00273v4 Announce Type: replace-cross \nAbstract: Non-cognitive skills are crucial for personal and social life well-being, and such skill development can be supported by narrative-based (e.g., storytelling) technologies. While generative AI enables interactive and role-playing storytelling, little is known about how users engage with and perceive the use of AI in social life simulation for non-cognitive skills learning. Additionally, the benefits of AI mentorship on self-reflection awa",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "simulation",
+      "narrative",
+      "generative"
+    ]
+  },
+  {
+    "title": "How Prompt Style Affects AI Accuracy and Speed in Competitive Programming",
+    "url": "https://arxiv.org/abs/2610.30223",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 23 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.30223v1 Announce Type: new \nAbstract: Large language models are increasingly used in competitive programming, and their outputs are sensitive to how a prompt is phrased. Prior work has compared prompt strategies for accuracy on competitive programming, but not for runtime speed, and has not situated the results against human performance. In an exploratory study of one prompt in each of nine styles on GPT-5.5 across three accuracy tasks from the International Olympiad in Informatics (I",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "GPT",
+      "language model",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Federated Graph Retrieval-Augmented Generation",
+    "url": "https://arxiv.org/abs/2610.30728",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 23 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.30728v1 Announce Type: new \nAbstract: Graph Retrieval-Augmented Generation (GraphRAG) leverages centralized knowledge graphs to enhance large language models with structured knowledge retrieval. However, real-world knowledge is inherently distributed across multiple organizations rather than being centrally accessible. Privacy constraints further prohibit sharing entire local knowledge graphs, preventing GraphRAG from effectively retrieving and utilizing distributed knowledge. To this",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "language model",
+      "RAG",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Graphify-Labs / graphify",
+    "url": "https://github.com/Graphify-Labs/graphify",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store. [1,173 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "Claude",
+      "Gemini",
+      "vector"
+    ]
+  }
+]
