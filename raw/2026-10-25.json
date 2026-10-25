@@ -1,0 +1,253 @@
+[
+  {
+    "title": "thedotmack / claude-mem",
+    "url": "https://github.com/thedotmack/claude-mem",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More [278 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "Gemini",
+      "Copilot"
+    ]
+  },
+  {
+    "title": "crewAIInc / crewAI",
+    "url": "https://github.com/crewAIInc/crewAI",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. [35 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "vectorize-io / hindsight",
+    "url": "https://github.com/vectorize-io/hindsight",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Hindsight: Agent Memory That Learns [329 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "agent",
+      "vector",
+      "memory"
+    ]
+  },
+  {
+    "title": "ComposioHQ / awesome-claude-skills",
+    "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows [79 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "Claude",
+      "workflow"
+    ]
+  },
+  {
+    "title": "google-gemini / gemini-cli",
+    "url": "https://github.com/google-gemini/gemini-cli",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "An open-source AI agent that brings the power of Gemini directly into your terminal. [44 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Gemini"
+    ]
+  },
+  {
+    "title": "langfuse / langfuse",
+    "url": "https://github.com/langfuse/langfuse",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform. [81 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "open source"
+    ]
+  },
+  {
+    "title": "basketikun / infinite-canvas",
+    "url": "https://github.com/basketikun/infinite-canvas",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "面向 AI 创作的开源无限画布工作台，集成 AI 生图、参考图编辑、视频生成、Agent 智能助手、画布编排、对话创作、提示词库与素材管理等能力，支持可视化创作流程与多 Agent 协同工作。兼容 OpenAI 接口生态，支持 chatgpt2api、grok2api、flow2api、newapi 等渠道接入。 [376 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "GPT"
+    ]
+  },
+  {
+    "title": "NVIDIA / OpenShell",
+    "url": "https://github.com/NVIDIA/OpenShell",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "OpenShell is the safe, private runtime for autonomous AI agents. [896 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "Nutlope / hallmark",
+    "url": "https://github.com/Nutlope/hallmark",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex. [455 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "Claude"
+    ]
+  },
+  {
+    "title": "Neural chip decodes interactions between brain regions",
+    "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
+    "source": "Hacker News",
+    "published_at": "Sat, 24 Oct 2026 15:57:17 +0000",
+    "description": "Article URL: https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/ Comments URL: https://news.ycombinator.com/item?id=50222525 Points: 89 # Comments: 31",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "neural"
+    ]
+  },
+  {
+    "title": "Swedish government offices to ban ChatGPT and Claude",
+    "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
+    "source": "Hacker News Best",
+    "published_at": "Fri, 23 Oct 2026 11:39:54 +0000",
+    "description": "Article URL: https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet Comments URL: https://news.ycombinator.com/item?id=50207405 Points: 322 # Comments: 121",
+    "score": 4.0,
+    "keywords_matched": [
+      "Claude",
+      "GPT"
+    ]
+  },
+  {
+    "title": "aws / agent-toolkit-for-aws",
+    "url": "https://github.com/aws/agent-toolkit-for-aws",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS [13 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "luongnv89 / claude-howto",
+    "url": "https://github.com/luongnv89/claude-howto",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. [392 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "agent",
+      "Claude"
+    ]
+  },
+  {
+    "title": "SnailSploit / Claude-Red",
+    "url": "https://github.com/SnailSploit/Claude-Red",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development. [630 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "Claude"
+    ]
+  },
+  {
+    "title": "anthropics / knowledge-work-plugins",
+    "url": "https://github.com/anthropics/knowledge-work-plugins",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork [524 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "Claude",
+      "open source"
+    ]
+  },
+  {
+    "title": "TauricResearch / TradingAgents",
+    "url": "https://github.com/TauricResearch/TradingAgents",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework [309 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "agent",
+      "LLM"
+    ]
+  },
+  {
+    "title": "makecindy / cindy",
+    "url": "https://github.com/makecindy/cindy",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 [477 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "Vincentwei1021 / video-shotcraft",
+    "url": "https://github.com/Vincentwei1021/video-shotcraft",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template [196 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "Claude"
+    ]
+  },
+  {
+    "title": "vercel / ai",
+    "url": "https://github.com/vercel/ai",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents [12 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "umami-software / umami",
+    "url": "https://github.com/umami-software/umami",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Umami is a privacy-first web and product analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place. No cookies, no surveillance, self-hosted or in the cloud. [45 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "self-hosted"
+    ]
+  }
+]
