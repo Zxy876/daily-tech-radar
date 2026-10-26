@@ -1,0 +1,257 @@
+[
+  {
+    "title": "Shubhamsaboo / awesome-llm-apps",
+    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source. [111 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "open source",
+      "RAG"
+    ]
+  },
+  {
+    "title": "thedotmack / claude-mem",
+    "url": "https://github.com/thedotmack/claude-mem",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More [301 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "Gemini",
+      "Copilot"
+    ]
+  },
+  {
+    "title": "AgriciDaniel / claude-seo",
+    "url": "https://github.com/AgriciDaniel/claude-seo",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data. [197 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "Claude"
+    ]
+  },
+  {
+    "title": "unslothai / unsloth",
+    "url": "https://github.com/unslothai/unsloth",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more. [47 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "diffusion"
+    ]
+  },
+  {
+    "title": "experientiallabs / experiential",
+    "url": "https://github.com/experientiallabs/experiential",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000+ marketplace models. It learns from your traffic to cut costs, recommend better models, and train a specialized model you own. [1,117 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "open source",
+      "self-hosted"
+    ]
+  },
+  {
+    "title": "AstrBotDevs / AstrBot",
+    "url": "https://github.com/AstrBotDevs/AstrBot",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨ [208 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM"
+    ]
+  },
+  {
+    "title": "google-gemini / gemini-cli",
+    "url": "https://github.com/google-gemini/gemini-cli",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "An open-source AI agent that brings the power of Gemini directly into your terminal. [658 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Gemini"
+    ]
+  },
+  {
+    "title": "google-labs-code / stitch-skills",
+    "url": "https://github.com/google-labs-code/stitch-skills",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor. [19 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "agent",
+      "Claude",
+      "Gemini"
+    ]
+  },
+  {
+    "title": "nightly-labs / openbot",
+    "url": "https://github.com/nightly-labs/openbot",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration. [86 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude"
+    ]
+  },
+  {
+    "title": "basketikun / infinite-canvas",
+    "url": "https://github.com/basketikun/infinite-canvas",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "面向 AI 创作的开源无限画布工作台，集成 AI 生图、参考图编辑、视频生成、Agent 智能助手、画布编排、对话创作、提示词库与素材管理等能力，支持可视化创作流程与多 Agent 协同工作。兼容 OpenAI 接口生态，支持 chatgpt2api、grok2api、flow2api、newapi 等渠道接入。 [153 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "GPT"
+    ]
+  },
+  {
+    "title": "Nutlope / hallmark",
+    "url": "https://github.com/Nutlope/hallmark",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex. [1,317 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "Claude"
+    ]
+  },
+  {
+    "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+    "url": "https://minimaxir.com/2026/10/cheap-llms/",
+    "source": "Hacker News",
+    "published_at": "Sun, 25 Oct 2026 21:11:31 +0000",
+    "description": "Article URL: https://minimaxir.com/2026/10/cheap-llms/ Comments URL: https://news.ycombinator.com/item?id=50236102 Points: 127 # Comments: 151",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "LLM"
+    ]
+  },
+  {
+    "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
+    "url": "https://huggingface.co/destined/hurston-1",
+    "source": "Hacker News",
+    "published_at": "Sun, 25 Oct 2026 01:30:13 +0000",
+    "description": "Hey HN, I’m open sourcing my Hurston-1 narrowband TTS model (Apache-2.0). It is very good with American English and does especially well with Southern American and Regional African English accents. Destined AI is based in Atlanta, and I built this because I’m amazed by what AI can do, and I wanted to help introduce and welcome more people to feel comfortable using and interacting with AI. Since 2021, I’ve been collecting fully consented voice data from over 20,000 people, 1M audio recordings, an",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "open source"
+    ]
+  },
+  {
+    "title": "TauricResearch / TradingAgents",
+    "url": "https://github.com/TauricResearch/TradingAgents",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework [381 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "agent",
+      "LLM"
+    ]
+  },
+  {
+    "title": "aws / agent-toolkit-for-aws",
+    "url": "https://github.com/aws/agent-toolkit-for-aws",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS [245 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "SnailSploit / Claude-Red",
+    "url": "https://github.com/SnailSploit/Claude-Red",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development. [186 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "Claude"
+    ]
+  },
+  {
+    "title": "makecindy / cindy",
+    "url": "https://github.com/makecindy/cindy",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 [675 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "tashfeenahmed / freellmapi",
+    "url": "https://github.com/tashfeenahmed/freellmapi",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only. [675 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "LLM"
+    ]
+  },
+  {
+    "title": "MoonshotAI / kimi-code",
+    "url": "https://github.com/MoonshotAI/kimi-code",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Kimi Code CLI — The Starting Point for Next-Gen Agents [16 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "moeru-ai / airi",
+    "url": "https://github.com/moeru-ai/airi",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. [44 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "Minecraft"
+    ]
+  }
+]
