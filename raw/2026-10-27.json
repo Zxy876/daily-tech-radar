@@ -1,0 +1,292 @@
+[
+  {
+    "title": "Phronix: The Capability-Centric Learning Paradigm for Agents",
+    "url": "https://arxiv.org/abs/2610.31789",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.31789v1 Announce Type: new \nAbstract: Scientific computing increasingly relies on large language model-based agents for performance engineering tasks such as instrumentation, analysis, and workflow porting. However, agent effectiveness depends heavily on the surrounding harness, which typically relies on manually written skills and curated memory. This limits autonomous learning, forcing agents to repeatedly rediscover solutions rather than retain and reuse knowledge from prior execut",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow",
+      "language model",
+      "autonomous",
+      "memory"
+    ]
+  },
+  {
+    "title": "Contextual Memory Virtualisation: DAG-Based State Management and Structurally Lossless Trimming for LLM Agents",
+    "url": "https://arxiv.org/abs/2602.22402",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2602.22402v2 Announce Type: replace-cross \nAbstract: As large language models engage in extended reasoning tasks, they accumulate significant state -- architectural mappings, trade-off decisions, codebase conventions -- within the context window. This understanding is lost when sessions reach context limits and undergo lossy compaction. We propose Contextual Memory Virtualisation (CMV), a system that treats accumulated LLM understanding as version-controlled state. Borrowing from operating",
+    "score": 12.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "language model",
+      "context window",
+      "reasoning",
+      "memory"
+    ]
+  },
+  {
+    "title": "CEMIR vs. FISER: a comparative study of reasoning-based and enrichment-based approaches to pragmatic intent recognition",
+    "url": "https://arxiv.org/abs/2610.32022",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.32022v1 Announce Type: new \nAbstract: Intent recognition in human-robot interaction requires agents to resolve ambiguous natural language instructions by inferring the speaker's underlying goals. Research has increasingly focused on two notable paradigms for addressing this task: structured symbolic reasoning and multimodal input enrichment. However, it remains unclear whether enrichment-based methods provide benefit in settings where the ambiguity concerns unstated human intent rathe",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "multimodal",
+      "RAG",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Do AI-for-Science Agents Preserve Model Safety?",
+    "url": "https://arxiv.org/abs/2610.32045",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.32045v1 Announce Type: new \nAbstract: AI-for-Science agents are increasingly being used for formulating scientific hypotheses, running autonomous experiments, and interpreting evidence. These agents are constructed by integrating a large language model (LLM) into a domain-specific agent harness, which in turn can improve the LLM's scientific capability and enable the model to orchestrate scientific tools. In this work, we ask whether model safety is preserved when an LLM is integrated",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "Can Test-Time Memory Evolution Outperform Test-Time Training for Scientific Discovery?",
+    "url": "https://arxiv.org/abs/2610.32046",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.32046v1 Announce Type: new \nAbstract: Recent \\emph{test-time training} (TTT) frameworks have enabled open-weight large language models (LLMs) to outperform inference-only frameworks powered by frontier models on scientific discovery tasks. However, TTT introduces additional computational cost for online weight updates during the discovery process, making computational efficiency an important consideration when scaling to larger models. This motivates us to explore an efficient \\emph{t",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "inference",
+      "memory"
+    ]
+  },
+  {
+    "title": "DriveMind: Mind-Evolving Belief Tracking for Closed-Loop Autonomous Driving",
+    "url": "https://arxiv.org/abs/2610.32069",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.32069v1 Announce Type: new \nAbstract: Recent multimodal large language models (MLLMs) can perceive a traffic scene, reason about it, and propose a driving action within a single model. However, existing MLLM-based drivers reason from scratch at each frame and commit to a single explanation, discarding earlier hypotheses about the scene. When the scene is ambiguous, the agent locks in on the wrong interpretation and acts on it before evidence accumulates. In this paper, we propose Driv",
+    "score": 10.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "language model",
+      "autonomous",
+      "multimodal"
+    ]
+  },
+  {
+    "title": "Training an MoE LLM in MXFP4: How We Closed the Gap to BF16",
+    "url": "https://arxiv.org/abs/2610.32229",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.32229v1 Announce Type: new \nAbstract: Training large language models (LLMs) in sub-8-bit arithmetic promises substantial gains in memory bandwidth and compute throughput, yet FP4 formats introduce quantization error severe enough to destabilize optimization if left unaddressed. We present ALTO, an open-source training recipe for GPT-OSS-20B, a 20-billion-parameter mixture-of-experts (MoE) model, on the MLPerf Small MoE Training benchmark under the MXFP4 microscaling format. The recipe",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "GPT",
+      "language model",
+      "memory"
+    ]
+  },
+  {
+    "title": "Measure Before You Train: Typed Decision Models vs. a Classical Baseline vs. a Generative LLM for Routing a Personal Multilingual Inbox",
+    "url": "https://arxiv.org/abs/2610.32955",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.32955v1 Announce Type: cross \nAbstract: Personal email agents decide, for every message, what it is, whether it is urgent, whether to draft a reply, create a task, or ignore it. Their error rate is rarely measured: the stored labels were written by the system itself. We present Foyer, a self-hosted personal inbox agent in daily use, and a measurement protocol (stratified sampling, frozen snapshots, thread-grouped splits, pre-registered hypotheses, human labels in the agent's review lo",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "generative",
+      "self-hosted"
+    ]
+  },
+  {
+    "title": "thedotmack / claude-mem",
+    "url": "https://github.com/thedotmack/claude-mem",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More [318 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "Gemini",
+      "Copilot"
+    ]
+  },
+  {
+    "title": "TACS-RF: Tool-driven Agentic Circuit Synthesis of RF and mmWave Modules",
+    "url": "https://arxiv.org/abs/2610.31882",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.31882v1 Announce Type: new \nAbstract: We present the framework of TACS-RF - a Tool-driven Agentic Circuit Synthesis of RF and mmWave modules. In this framework, a large-language-model (LLM) coding agent (Claude Opus 4.8) directly drives industry-standard electronic-design-automation (EDA) tools such as Cadence Virtuoso/Spectre, Calibre, Cadence EMX, and Ansys HFSS to design RF and mmWave modules. We validate the framework through the agentic design of a 240-251 GHz sub-THz transmitter",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "Claude",
+      "automation"
+    ]
+  },
+  {
+    "title": "Knowing Whom to Trust is not Enough: The Trust--Agreement Gap in Repeated Multi-Party LLM Negotiation",
+    "url": "https://arxiv.org/abs/2610.31971",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.31971v1 Announce Type: new \nAbstract: Large language model (LLM) agents increasingly participate in negotiations on behalf of individuals and organizations, yet they remain vulnerable to manipulation, particularly in repeated multi-party interactions. Classical multi-agent systems address this challenge through explicit trust and reputation models, whereas existing work on LLM negotiation largely treats trust as an emergent phenomenon. We investigate whether LLM agents can form useful",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model"
+    ]
+  },
+  {
+    "title": "Understanding Communication Failures in Multi-Agent LLM Systems",
+    "url": "https://arxiv.org/abs/2610.32060",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.32060v1 Announce Type: new \nAbstract: Multi-agent LLM systems aim to improve reasoning through debate, evidence sharing, and mutual correction, but interaction can also introduce failures that final accuracy alone cannot explain. Agents may converge too early, ignore dissent, suppress correct minority answers, or preserve a wrong framing across rounds. We present a corpus-grounded taxonomy of communication failures, built from 3,211 failed multi-round trajectories across medical QA, c",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "MPQ: A Message-Passing View of Post-Training Quantization",
+    "url": "https://arxiv.org/abs/2610.32127",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.32127v1 Announce Type: new \nAbstract: Post-training quantization (PTQ) is a key technique for efficiently deploying large language models, as it compresses weights into low-bit representations without retraining. Existing PTQ solvers, including GPTQ, LDLQ, and block coordinate descent, commit each weight block to a single codeword before its neighbors are considered, leaving near-optimal alternatives unexplored. In this work, we cast row-wise PTQ as posterior inference over discrete c",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "GPT",
+      "language model",
+      "inference"
+    ]
+  },
+  {
+    "title": "PAIR-SAFE: A Paired-Agent Approach for Runtime Auditing and Refining AI-Mediated Mental Health Support",
+    "url": "https://arxiv.org/abs/2601.12754",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2601.12754v2 Announce Type: replace \nAbstract: LLMs are increasingly used for mental health support, yet they can produce responses that are overly directive, inconsistent, or clinically misaligned. Most risk mitigation approaches rely on implicit alignment through training or prompting, offering limited runtime accountability. We introduce PAIR-SAFE, a paired-agent framework that integrates a Responder agent with a Judge agent grounded in the clinically validated Motivational Interviewing",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "prompt"
+    ]
+  },
+  {
+    "title": "NVIDIA / SkillSpector",
+    "url": "https://github.com/NVIDIA/SkillSpector",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them. [214 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "prompt"
+    ]
+  },
+  {
+    "title": "eugeniughelbur / obsidian-second-brain",
+    "url": "https://github.com/eugeniughelbur/obsidian-second-brain",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Persistent memory for Claude Code, Codex and 6 other AI agents, stored as plain markdown in your Obsidian vault. New: Crew, one shared logbook so Claude Code, Codex, Cursor and Grok Bot know what each other did. 48 commands: semantic search, self-rewriting notes, key-less research, scheduled agents. [42 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "memory"
+    ]
+  },
+  {
+    "title": "HarnessRouter / harnessrouter",
+    "url": "https://github.com/HarnessRouter/harnessrouter",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run Codex, Claude Code, Hermes, PI, DSH, and more through one API, with sessions, streaming, files, cancellation, and failure handling. Implements the Unified Harness Protocol (UHP), an open standard. Your keys, your infrastructure. [77 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "self-hosted"
+    ]
+  },
+  {
+    "title": "RSI-Opt: Recursive Self-Improvement Optimizer Agents For Model Training",
+    "url": "https://arxiv.org/abs/2610.32026",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.32026v1 Announce Type: new \nAbstract: Conventional neural-network training typically follows a predefined optimization recipe, motivating a LLM agent that monitors training dynamics and adjusts optimizer settings as training progresses, but a fixed agent policy does not accumulate experience across runs. We introduce RSI-Opt, a plug-and-play Recursive Self-Improvement Optimizer Agents which evolves the knowledge that guides this process: a prompt, a playbook of procedures, a library o",
+    "score": 7.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "neural",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Don't Forget What You Just Learned: Self-Directed Repair Turns Agent Mistakes Into Lasting Lessons",
+    "url": "https://arxiv.org/abs/2610.31846",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.31846v1 Announce Type: new \nAbstract: Intelligent agents should learn from their mistakes so that experience leads to continuous improvement. Yet today's agents recover from a mistake only temporarily: in-context reflections are easily forgotten across sessions and compete for limited context, while full-parameter fine-tuning is expensive and can interfere with existing capabilities. We introduce Self-Direction, a mechanism for agents to learn from mistakes that combines the benefits ",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "fine-tuning"
+    ]
+  },
+  {
+    "title": "Permission to Retry: A Study of Authorization and Recovery in AI Agent Workflows",
+    "url": "https://arxiv.org/abs/2610.31916",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.31916v1 Announce Type: new \nAbstract: A durable agent can resume a consequential action while its authority changes and the action's external outcome remains uncertain. We study execution-time reliability of tool-using AI agents, isolating recovery decisions from language-model behavior. Checkpoint state, permission to dispatch, evidence of an external effect and permission to reconcile are distinct obligations. We present a finite conformance study that checks these obligations throu",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow"
+    ]
+  }
+]
