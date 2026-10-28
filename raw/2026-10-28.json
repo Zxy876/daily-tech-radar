@@ -1,0 +1,299 @@
+[
+  {
+    "title": "GEMS-RAG: Graph-grounded Engineering Multimodal Standards Retrieval-Augmented Generation",
+    "url": "https://arxiv.org/abs/2610.33277",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 27 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.33277v1 Announce Type: new \nAbstract: Engineering standards are challenging knowledge sources for large language models (LLMs) because they are hierarchical, multimodal, and densely connected through figures, tables, cross-references, and normative rules. Existing retrieval-augmented generation (RAG) methods often rely on unstructured text retrieval and struggle with questions requiring joint reasoning over textual provisions, visual specifications, and document structure. We propose ",
+    "score": 12.0,
+    "keywords_matched": [
+      "LLM",
+      "language model",
+      "multimodal",
+      "RAG",
+      "reasoning",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "AgentOrch: How Close Can Global Orchestration Come to Step-by-Step Interaction?",
+    "url": "https://arxiv.org/abs/2610.33375",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 27 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.33375v1 Announce Type: new \nAbstract: Enterprise workflow agents typically rely on step-by-step interaction (Step-by-Step): the agent executes an action, observes its result, and invokes a large language model (LLM) again to decide the next step. Global orchestration (Global) instead generates a complete executable workflow in advance and executes it without further LLM calls, substantially reducing inference overhead, but it remains less accurate than Step-by-Step. We study how close",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "language model",
+      "inference"
+    ]
+  },
+  {
+    "title": "ConMem: Counterfactual Multi-Scenario Probing for Resolving LLM Memory Misalignment",
+    "url": "https://arxiv.org/abs/2610.33432",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 27 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.33432v1 Announce Type: new \nAbstract: Long-term memory is critical for autonomous Large Language Model (LLM) agents executing multi-session, long-horizon tasks. However, existing memories often inappropriately store, retain, or retrieve over-generalized, misattributed, or privacy-sensitive information, a problem we term memory misalignment. To study this problem, we construct \\textbf{MemAlign}, a benchmark comprising 1,079 curated memory cases grounded in synthetic, validated multi-se",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "autonomous",
+      "memory"
+    ]
+  },
+  {
+    "title": "Data Governance for Generative and Agentic AI : Technology, Law, Economics, and Security",
+    "url": "https://arxiv.org/abs/2610.33605",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 27 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.33605v1 Announce Type: new \nAbstract: This book develops a unified governance framework for systems that retrieve, generate, infer, remember and act on information from large language models and retrieval augmented pipelines to autonomous multi agent systems. Eleven chapters and eight appendices integrate three disciplinary lenses-technology, law and economics-across the full lifecycle: data quality, lineage and provenance; global data protection law and intellectual property; the eco",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "language model",
+      "autonomous",
+      "retrieval",
+      "generative"
+    ]
+  },
+  {
+    "title": "NVIDIA / auto-ontology",
+    "url": "https://github.com/NVIDIA/auto-ontology",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows. [80 stars today]",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "reasoning",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "How To Build A Modern Diffusion Language Model",
+    "url": "https://arxiv.org/abs/2610.33391",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 27 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.33391v1 Announce Type: new \nAbstract: The frontier of large language model (LLM) performance has advanced rapidly in recent years, fueled by scaling laws for pretraining on large text corpora. However, mainstream LLMs have fundamental limitations: they generate text autoregressively, producing outputs sequentially from left to right one token at a time. This sequential process leaves parallel GPU hardware underutilized during inference--a bottleneck that has grown acute as progress sh",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "diffusion",
+      "language model",
+      "inference"
+    ]
+  },
+  {
+    "title": "A Comprehensive Framework for All Stages of Large-Model Training: From Data and Tokenization, through Pretraining, to Post-Training Alignment",
+    "url": "https://arxiv.org/abs/2610.33451",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 27 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.33451v1 Announce Type: new \nAbstract: The capabilities of large language models (LLMs) and multimodal LLMs (MLLMs) arise from the synergy of the full training pipeline, including data and tokenization, pretraining, and post-training (supervised fine-tuning, preference alignment, reinforcement learning, and continual optimization), rather than any individual stage. Existing surveys mostly adopt a single-stage or single-technique perspective, treating related research as isolated system",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "multimodal",
+      "fine-tuning"
+    ]
+  },
+  {
+    "title": "CoEvolve: Counterfactual-Guided Co-Evolution of Memory and Collaboration in Multi-Agent Systems",
+    "url": "https://arxiv.org/abs/2610.33539",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 27 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.33539v1 Announce Type: new \nAbstract: Large language model (LLM)-based multi-agent systems have demonstrated remarkable capabilities across diverse tasks. Yet their memory and collaboration architectures often remain static, constraining continued adaptation and improvement over time. Recent work addresses this limitation by evolving memory or collaboration based on interaction experience. However, updates to these interdependent components are not necessarily aligned: an evolved work",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "memory"
+    ]
+  },
+  {
+    "title": "Human-Aware Agentic Driving: Rethinking Driver State, Trust, and Intervention",
+    "url": "https://arxiv.org/abs/2610.33915",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 27 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.33915v1 Announce Type: new \nAbstract: Agentic driving brings goal-directed reasoning, memory, tools, and adaptive interaction into automated vehicles. A vehicle can clarify a request, explain a maneuver, or prepare a driver to take control, then adapt its next action to the response. These capabilities make the vehicle an active participant in shaping the human behavior it observes. We examine how agentic interaction affects driver-state inference, trust and reliance, and human interv",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "inference",
+      "reasoning",
+      "memory"
+    ]
+  },
+  {
+    "title": "Efficient Omni-modal Large Language Model Inference via Per-Query Modality Selection",
+    "url": "https://arxiv.org/abs/2610.31768",
+    "source": "arXiv cs.LG",
+    "published_at": "Tue, 27 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.31768v1 Announce Type: new \nAbstract: Omni-modal large language models (Omni-LLMs) can jointly process a broad range of modalities, such as text, audio, and video, enabling stronger multimodal understanding and reasoning capabilities, but often at substantial inference cost. We observe that the benefit of additional modalities varies across queries, indicating that a fixed modality configuration can be inefficient. Motivated by this, we study query-wise modality selection, which keeps",
+    "score": 10.0,
+    "keywords_matched": [
+      "LLM",
+      "language model",
+      "multimodal",
+      "inference",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Benchmarks Are Surprisingly Compaction-Friendly",
+    "url": "https://arxiv.org/abs/2610.31778",
+    "source": "arXiv cs.LG",
+    "published_at": "Tue, 27 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.31778v1 Announce Type: new \nAbstract: Long horizon agentic tasks are now pushing LLM agents past their context window. To continue the task, the agent scaffold has to free up the context window, a process known as context compaction. Compaction is generally lossy by design: agents can silently lose task constraints, instructions, or their reasoning behind earlier decisions. Although compaction is a standard component of coding agent scaffolds, it has not been studied systematically wi",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "context window",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "thedotmack / claude-mem",
+    "url": "https://github.com/thedotmack/claude-mem",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More [338 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "Gemini",
+      "Copilot"
+    ]
+  },
+  {
+    "title": "Propensities Please: Exposing Alignment-Faking LLMs using Synthetic Document Finetuning",
+    "url": "https://arxiv.org/abs/2610.33180",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 27 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.33180v1 Announce Type: new \nAbstract: Alignment evaluations aim to assess whether large language models would engage in dangerous misaligned behaviour. Misaligned and evaluation-aware models might engage in alignment faking, where they pursue a hidden goal, but conceal this behaviour when they suspect effective oversight such as during training, evaluation or audited deployment. Such a model might view any prompt-based intervention that aims to reveal latent propensities as part of th",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Estimation of Propagated Risk in LLM-based Multi-Agent Systems",
+    "url": "https://arxiv.org/abs/2610.33282",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 27 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.33282v1 Announce Type: new \nAbstract: Large Language Model (LLM) based multi-agent systems introduce a distinctive reliability challenge in which actions taken by upstream agents can affect the correctness of downstream agents. While prior work has investigated error propagation and developed methods for estimating uncertainty inherited from upstream agents, existing approaches do not explicitly model how realized sender-receiver interactions contribute to downstream error risk under ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model"
+    ]
+  },
+  {
+    "title": "Learning When to Collaborate: Selective Multi-Agent Medical Reasoning via Uncertainty-Aware Routing",
+    "url": "https://arxiv.org/abs/2610.33544",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 27 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.33544v1 Announce Type: new \nAbstract: Multi-agent systems have emerged as a promising paradigm for multimodal medical reasoning, but existing methods rely on two assumptions that hinder practical deployment: (i) always-active dense collaboration among multiple agents, and (ii) dependence on large cloud-based models that raise privacy and efficiency concerns. In this paper, we challenge both assumptions and propose SMART-Med, a fully local multi-agent method that treats collaboration a",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "multimodal",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Auditing evaluation artifacts and data leakage in large language model systems for rare disease diagnosis",
+    "url": "https://arxiv.org/abs/2610.33592",
+    "source": "arXiv cs.AI",
+    "published_at": "Tue, 27 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.33592v1 Announce Type: new \nAbstract: Augmented large language model (LLM) systems have reported high benchmark accuracies in rare disease diagnosis, yet their real-world clinical utility remains unproven. A recent meta-analysis flagged augmented LLM diagnostic evaluations as having a high risk of bias due to suspected data leakage; however, the precise impact of these vulnerabilities on model inference has yet to be fully quantified. In this study, we present a comprehensive empirica",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "inference"
+    ]
+  },
+  {
+    "title": "InteractiveWorld: A Verifiable Human-Centric Environment for Building Better Interactive MLLM Assistants",
+    "url": "https://arxiv.org/abs/2610.33966",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 27 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.33966v1 Announce Type: new \nAbstract: People have long dreamed of an assistant that is always there to guide them and remind what they forget, from new dishes to lost keys. Powered by multimodal large language models (MLLMs), egocentric AI assistants on wearable devices are bringing this dream within reach: they see what the user sees and give instructions for user's physical work when necessary. However, testing such assistance is challenging and usually requires real people. The exp",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "multimodal"
+    ]
+  },
+  {
+    "title": "Babysitting AI Agents: A User-Centered Taxonomy and Study of Agentic Delegation Failures",
+    "url": "https://arxiv.org/abs/2610.34748",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 27 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.34748v1 Announce Type: new \nAbstract: Users are increasingly delegating tasks to AI agents, allowing agents to perform long-running, multi-step workflows on their behalf. However, agents may perform these tasks in ways that depart from users' expectations for how they should be carried out, leading to what we call agentic delegation failures. We leverage a large corpus of 163,487 Reddit posts, describing AI agent use, to develop MANDATE: a taxonomy of 23 failure categories organized i",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow",
+      "RAG"
+    ]
+  },
+  {
+    "title": "Can LLMs Trust Appropriately? Evaluating Calibrated Reliance on Imperfect Partners",
+    "url": "https://arxiv.org/abs/2610.34107",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 27 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.34107v1 Announce Type: cross \nAbstract: Large language models increasingly collaborate with humans and peer AI agents whose contributions may be incomplete, inconsistent, or incorrect. Effective collaboration requires calibrated trust, whereby decisions to rely on, verify, or assist a partner adapt rationally as empirical evidence accumulates. We investigate whether models translate partner evidence into appropriate reliance policies. We introduce a benchmark of 324 scenarios across 2",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model"
+    ]
+  },
+  {
+    "title": "Omni-InteractScope: Benchmarking Proactive and Agentic Interaction in Continuous Omnimodal Streams",
+    "url": "https://arxiv.org/abs/2610.35439",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 27 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.35439v1 Announce Type: cross \nAbstract: Omnimodal large language models (Omni-LLMs) are increasingly expected to assist users while observing continuous audiovisual streams. However, existing evaluations provide limited insight into how reliably these models connect stream evidence and user needs to timely, sustained interventions. We introduce \\textbf{Omni-InteractScope}, a benchmark of 1,479 human-annotated, cross-reviewed interactions with 1,790 temporal targets across eight task g",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model"
+    ]
+  }
+]
