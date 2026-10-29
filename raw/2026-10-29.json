@@ -1,0 +1,289 @@
+[
+  {
+    "title": "OA-RAG: Ontology-based Agentic RAG for Faithful LLM Reasoning",
+    "url": "https://arxiv.org/abs/2610.36335",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.36335v1 Announce Type: new \nAbstract: Large language models (LLMs) perform well across many real-world tasks but remain prone to hallucination, limiting their reliability in domains such as biomedicine and healthcare, where answers must be grounded in established knowledge. Retrieval-augmented generation (RAG) mitigates this problem by incorporating external information, but often overlooks logical relationships and relies heavily on the LLM's own reasoning, which can compromise answe",
+    "score": 14.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "RAG",
+      "reasoning",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Ontology-guided multi-agent reasoning for explainable differential diagnosis",
+    "url": "https://arxiv.org/abs/2610.36325",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.36325v1 Announce Type: new \nAbstract: Effective differential diagnosis depends on well structured and unambiguous patient case descriptions, since incomplete or ambiguous clinical information readily leads to diagnostic errors and inconsistent reasoning. Large Language Models (LLMs) have recently shown promising capabilities in medical question answering and clinical reasoning; however, even when achieving competitive performance on medical benchmarks, they often rely on pattern recog",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "WAKMan: Workload Aware KVCache Manager",
+    "url": "https://arxiv.org/abs/2610.36355",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.36355v1 Announce Type: new \nAbstract: Prefix caching enables a Large Language Model (LLM) servers to reuse the Key-Value (KV) states and accelerate prefill computation stage for requests that share a prefix with earlier prompts, thus reducing latency and serving cost. With limited memory resource, the KV cache eviction policy becomes a decisive factor in determining the overall benefits of prefix caching. Production traffic may have single-turn, multi-turn, agentic, or a mixture of an",
+    "score": 10.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "language model",
+      "prompt",
+      "memory"
+    ]
+  },
+  {
+    "title": "RouteDRAG: Learning to Route and Control Agentic Execution for Multimodal Document RAG",
+    "url": "https://arxiv.org/abs/2610.36444",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.36444v1 Announce Type: new \nAbstract: Web-based applications increasingly rely on understanding long multimodal documents, where answering questions often requires combining information across pages, tables, and figures. Agentic retrieval-augmented generation addresses these tasks through iterative retrieval and reasoning. However, Agentic execution is not always necessary, introducing additional computation and potentially incorrect answers. Our empirical analysis reveals that Agenti",
+    "score": 10.0,
+    "keywords_matched": [
+      "agent",
+      "multimodal",
+      "RAG",
+      "reasoning",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "CogArena: Benchmarking Multimodal Agents on Interactive Behavioral Experiments",
+    "url": "https://arxiv.org/abs/2610.36484",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.36484v1 Announce Type: new \nAbstract: Claims about the cognitive capabilities of large language models are typically tested by translating behavioral paradigms into text prompts, bypassing the visual interfaces and time pressure through which human participants actually engage with experiments. At the same time, AI agents can now complete online behavioral tasks and produce human-like data, which raises concerns that online datasets in the social and behavioral sciences are increasing",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "language model",
+      "multimodal",
+      "prompt"
+    ]
+  },
+  {
+    "title": "InfraDev: Can Coding Agents Develop AI Infrastructure, and How Can We Tell?",
+    "url": "https://arxiv.org/abs/2610.36589",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.36589v1 Announce Type: new \nAbstract: Coding agents are beginning to develop the production-grade AI infrastructure that trains and serves large models, yet existing benchmarks cover only single kernels or single-GPU tasks, and grade with tests and prompts that misjudge both correct and incorrect patches. We introduce InfraDev, a benchmark of 36 tasks built from real-world pull requests to Megatron-LM, vLLM, and verl, covering infrastructure development for training, inference, and re",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "inference",
+      "prompt"
+    ]
+  },
+  {
+    "title": "What Victims Take Away: Attack Reuse and Defense Revision after Prompt-Injection Attacks",
+    "url": "https://arxiv.org/abs/2610.36422",
+    "source": "arXiv cs.HC",
+    "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.36422v1 Announce Type: cross \nAbstract: Attack logs and red-team reports show targets the attacks used against them, to help them repair their defenses. Prompt injections against large language models (LLMs) are plain text, so such records also hand targets a working copy. Drawing on social learning theory and work on the victim-offender overlap, we study what targets do with that copy in Tensor Trust, an online game whose players defended LLM-guarded accounts, attacked one another's,",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "game",
+      "language model",
+      "prompt"
+    ]
+  },
+  {
+    "title": "thedotmack / claude-mem",
+    "url": "https://github.com/thedotmack/claude-mem",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More [324 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "Gemini",
+      "Copilot"
+    ]
+  },
+  {
+    "title": "Skill Dreaming: Evolving Repository Skills through Pull Request Streams",
+    "url": "https://arxiv.org/abs/2610.36188",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.36188v1 Announce Type: new \nAbstract: Large language model (LLM) agents increasingly rely on reusable skills for complex software engineering tasks, making skill libraries essential for repository development and maintenance. However, repository-specific skills must evolve with changing code structures, implementation conventions, and maintenance requirements. Pull requests (PRs) provide a natural source of such knowledge by recording how repositories evolve through implementation and",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model"
+    ]
+  },
+  {
+    "title": "When Retrieval Is Not Enough: Obsolete Facts in Agent Memory",
+    "url": "https://arxiv.org/abs/2610.36308",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.36308v1 Announce Type: new \nAbstract: Memory-agent benchmarks often collapse retrieval and answer generation into one score, making it hard to tell whether a failure comes from missing an update or from not using an update that was already retrieved. We examine this distinction on the single-hop FactConsolidation task of MemoryAgentBench. With Qwen2.5-7B-Instruct on 6K-history BM25 accuracy drops from 45% to 32% when the retrieved evidence budget grows from 64 to 512 tokens, even thou",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "memory",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "ADTGuard: Adaptive Depth-Time Safeguard for Streaming Inference in Large Language Models",
+    "url": "https://arxiv.org/abs/2610.36574",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.36574v1 Announce Type: new \nAbstract: Large Language Models (LLMs) can generate fluent responses to diverse user requests, yet streaming may expose users to harmful content before generation is complete. Existing guardrails face two limitations in this setting. First, post-hoc moderation at response or chunk boundaries delays intervention, risking harmful exposure when content is released before verification. Second, even with token-level detection, coarse response-level supervision d",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "inference"
+    ]
+  },
+  {
+    "title": "Multiple Importance Sampling for Guided Speculative Inference",
+    "url": "https://arxiv.org/abs/2610.33368",
+    "source": "arXiv cs.LG",
+    "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.33368v1 Announce Type: new \nAbstract: We study an extension of the Guided Speculative Inference (GSI) algorithm for test-time-scaling of large language models (LLMs) to a novel setting where an ensemble of smaller LLMs proposes draft reasoning steps which are later verified by a larger base model and a process reward model. Using the established framework of multiple importance sampling (MIS), we introduce weighting schemes to aggregate samples from a diverse collection of proposal di",
+    "score": 8.0,
+    "keywords_matched": [
+      "LLM",
+      "language model",
+      "inference",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "NVIDIA / SkillSpector",
+    "url": "https://github.com/NVIDIA/SkillSpector",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them. [298 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "prompt"
+    ]
+  },
+  {
+    "title": "AffectGPT-RL: Revealing Roles of Reinforcement Learning in Open-Vocabulary Emotion Recognition",
+    "url": "https://arxiv.org/abs/2605.06126",
+    "source": "arXiv cs.HC",
+    "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2605.06126v2 Announce Type: replace \nAbstract: Open-Vocabulary Multimodal Emotion Recognition (OV-MER) aims to predict emotions without being constrained by predefined label spaces, thereby enabling fine-grained emotion understanding. Unlike traditional discriminative methods, OV-MER leverages generative models to capture the full spectrum of emotions and employs emotion wheels (EWs) for metric calculation. Previous approaches primarily rely on token-level loss during training. However, th",
+    "score": 7.0,
+    "keywords_matched": [
+      "AI",
+      "GPT",
+      "multimodal",
+      "RAG",
+      "generative"
+    ]
+  },
+  {
+    "title": "From Intelligence to Autonomy: Foundations and Construction of Autonomous Agents for Future Intelligent Systems",
+    "url": "https://arxiv.org/abs/2610.33445",
+    "source": "arXiv cs.LG",
+    "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.33445v1 Announce Type: new \nAbstract: Artificial intelligence is moving from one-off perception and generation tasks toward long-term planning, tool use, and interaction with real environments. Greater task competence, however, does not automatically yield autonomy: an external actor may still have to set goals, sustain operating conditions, detect failures, and approve updates. We define an autonomous agent as a system that, within explicit identity and authority boundaries, maintain",
+    "score": 7.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "autonomous",
+      "tool use",
+      "planning"
+    ]
+  },
+  {
+    "title": "Don't Pick a Winner: Knowledge Conflicts Need a Prior, Not a Rule",
+    "url": "https://arxiv.org/abs/2610.36169",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.36169v1 Announce Type: new \nAbstract: A retrieval-augmented language model answers from two sources, the retrieved context and its own knowledge, and the two disagree whenever the context is incomplete or wrong. Existing methods settle the disagreement with a rule fixed at design time: follow the context, amplify it in proportion to how far it moves the model, or trust the model's memory. Each rule is confidently wrong in some deployment. In a decision-theoretic model of two sources, ",
+    "score": 6.0,
+    "keywords_matched": [
+      "language model",
+      "memory",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "How Stable Are LLM-Generated Proofs Under Program Refactoring? A Stress Test for Verifiable Code Generation",
+    "url": "https://arxiv.org/abs/2610.36328",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.36328v1 Announce Type: new \nAbstract: Benchmarks for verifiable code generation usually test a proof against one fixed implementation. We ask whether the same proof remains valid after a program refactoring that preserves behavior. We introduce RefactorProof, which derives 458 Lean-certified variants from the 185 VERINA tasks that compile in our pinned environment while holding the specification and evaluated proof fixed byte-for-byte. VERINA supplies reference proofs for 46 tasks, al",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "code generation"
+    ]
+  },
+  {
+    "title": "MAREval: A Multi-Agent Framework for Evaluating Natural Language Recommendation Explanations",
+    "url": "https://arxiv.org/abs/2610.36389",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.36389v1 Announce Type: new \nAbstract: Evaluating natural language explanations in recommender systems is essential for fostering user trust, transparency, and engagement. However, existing evaluation approaches like human evaluations, while accurate, are resource-intensive and impractical at the scale required by modern recommendation platforms. Also, automated methods using single-agent LLMs suffer from prompt sensitivity and inconsistent outputs. To address these challenges, we prop",
+    "score": 6.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Verifiable Efficiency Limits of Innate LLM Planning in Sliding Puzzles",
+    "url": "https://arxiv.org/abs/2610.36415",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.36415v1 Announce Type: new \nAbstract: Tool-assisted planning success can reflect external search and verification, leaving a model's unaided planning ability unresolved. We isolate innate planning through complete plans generated in one response without tools or execution feedback. We propose a verifiable framework that decomposes success-weighted plan efficiency as $\\mathrm{SPE}=R\\times Q\\times E$: execution reliability, planning coordination among legal plans, and action economy amo",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "planning"
+    ]
+  },
+  {
+    "title": "LM-DSB: A Lightweight Multi-agent System for Automated Daily Safety Bulletin Generation in Construction",
+    "url": "https://arxiv.org/abs/2610.36433",
+    "source": "arXiv cs.AI",
+    "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
+    "description": "arXiv:2610.36433v1 Announce Type: new \nAbstract: Construction safety management still struggles to produce daily safety bulletins (DSBs), structured daily communications that identify site-specific hazards, convey safety protocols, and set preventive measures for workers. Manual DSB creation takes 2-3 hours daily and yields inconsistent quality, with 25% of crews never conducting pretask planning (Olson et al., 2016), diverting safety personnel from field supervision. This study proposes the Lig",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "planning"
+    ]
+  }
+]
