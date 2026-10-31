@@ -1,0 +1,266 @@
+{
+  "date": "2026-10-31",
+  "candidates": [
+    {
+      "title": "thedotmack / claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More [1,140 stars today]",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "Gemini",
+        "Copilot"
+      ]
+    },
+    {
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "url": "https://labs.ycombinator.com/projects/games/index.html",
+      "source": "Hacker News Best",
+      "published_at": "Thu, 29 Oct 2026 21:40:28 +0000",
+      "description": "Article URL: https://labs.ycombinator.com/projects/games/index.html Comments URL: https://news.ycombinator.com/item?id=50296486 Points: 395 # Comments: 163",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "game",
+        "Minecraft"
+      ]
+    },
+    {
+      "title": "ethanplusai / harvey",
+      "url": "https://github.com/ethanplusai/harvey",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Autonomous AI sales agent powered by Claude Code or Codex. Finds prospects, writes cold emails, sends campaigns, handles replies, books meetings. No API keys needed — runs on your Claude or Codex subscriptions. [244 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "NVIDIA-NeMo / Speech",
+      "url": "https://github.com/NVIDIA-NeMo/Speech",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech) [14 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "language model",
+        "multimodal",
+        "generative"
+      ]
+    },
+    {
+      "title": "Show HN: Sketch Stadium – watch your agent play Pictionary",
+      "url": "https://sketch.wakeshift.ai/games/q5ucru",
+      "source": "Hacker News",
+      "published_at": "Fri, 30 Oct 2026 15:23:11 +0000",
+      "description": "tl;dr: Agents can play Pictionary. You can connect your own agent, or just watch a game in progress here: https://sketch.wakeshift.ai/games/q5ucru Hi folks! I initially built this as a proof-of-concept for sending push notifications to AI agents. Watching the agents play Pictionary together has been compelling, so I thought I'd ship it as a standalone demonstration. In Sketch Stadium, your agent subscribes to game events. Agents take turns either drawing or guessing. Easy clues are 1 point, medi",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "game"
+      ]
+    },
+    {
+      "title": "Claude Code regularly sends each background agent’s transcript to its model",
+      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+      "source": "Hacker News Best",
+      "published_at": "Thu, 29 Oct 2026 03:33:42 +0000",
+      "description": "Article URL: https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce Comments URL: https://news.ycombinator.com/item?id=50284255 Points: 580 # Comments: 235",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude"
+      ]
+    },
+    {
+      "title": "vectorize-io / hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Hindsight: Agent Memory That Learns [411 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "agent",
+        "vector",
+        "memory"
+      ]
+    },
+    {
+      "title": "CopilotKit / OpenBot",
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent. [706 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Copilot"
+      ]
+    },
+    {
+      "title": "n8n-io / n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. [140 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "workflow",
+        "automation"
+      ]
+    },
+    {
+      "title": "nightly-labs / openbot",
+      "url": "https://github.com/nightly-labs/openbot",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration. [485 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude"
+      ]
+    },
+    {
+      "title": "macro-inc / macro",
+      "url": "https://github.com/macro-inc/macro",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory. [57 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "memory"
+      ]
+    },
+    {
+      "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
+      "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
+      "source": "Hacker News Best",
+      "published_at": "Thu, 29 Oct 2026 12:41:56 +0000",
+      "description": "Article URL: https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1 Comments URL: https://news.ycombinator.com/item?id=50288019 Points: 336 # Comments: 245",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "Gemini"
+      ]
+    },
+    {
+      "title": "MemPalace / mempalace",
+      "url": "https://github.com/MemPalace/mempalace",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "The best-benchmarked open-source AI memory system. And it's free. [258 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "memory"
+      ]
+    },
+    {
+      "title": "langchain-ai / deepagents",
+      "url": "https://github.com/langchain-ai/deepagents",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "The batteries-included agent harness. [46 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "KeygraphHQ / shannon",
+      "url": "https://github.com/KeygraphHQ/shannon",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production. [225 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "vector"
+      ]
+    },
+    {
+      "title": "QwenLM / qwen-code",
+      "url": "https://github.com/QwenLM/qwen-code",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "An open-source AI coding agent that lives in your terminal. [39 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "pbakaus / impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships. [2,300 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "expo / skills",
+      "url": "https://github.com/expo/skills",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services [38 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "mattpocock / skills",
+      "url": "https://github.com/mattpocock/skills",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "Skills for Real Engineers. Straight from my .agents directory. [876 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "lightpanda-io / browser",
+      "url": "https://github.com/lightpanda-io/browser",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "Lightpanda: the headless browser designed for AI and automation [626 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "automation"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-10-31\n\n> ⚠️ AI 分析失败：HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=90)\n\n## 今日候选内容（原始抓取，未经 AI 分析）\n\n### thedotmack / claude-mem\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/thedotmack/claude-mem\n- 摘要：Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot,\n- 关键词：AI, agent, Claude, Gemini, Copilot\n\n### We ran AI agent swarms in Minecraft and Mindustry\n- 来源：Hacker News Best\n- 链接：https://labs.ycombinator.com/projects/games/index.html\n- 摘要：Article URL: https://labs.ycombinator.com/projects/games/index.html Comments URL: https://news.ycombinator.com/item?id=50296486 Points: 395 # Comments: 163\n- 关键词：AI, agent, game, Minecraft\n\n### ethanplusai / harvey\n- 来源：GitHub Trending Python\n- 链接：https://github.com/ethanplusai/harvey\n- 摘要：Autonomous AI sales agent powered by Claude Code or Codex. Finds prospects, writes cold emails, sends campaigns, handles replies, books meetings. No API keys needed — runs on your Claude or Codex subscriptions. [244 stars today]\n- 关键词：AI, agent, Claude, autonomous\n\n### NVIDIA-NeMo / Speech\n- 来源：GitHub Trending Python\n- 链接：https://github.com/NVIDIA-NeMo/Speech\n- 摘要：A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech) [14 stars today]\n- 关键词：AI, language model, multimodal, generative\n\n### Show HN: Sketch Stadium – watch your agent play Pictionary\n- 来源：Hacker News\n- 链接：https://sketch.wakeshift.ai/games/q5ucru\n- 摘要：tl;dr: Agents can play Pictionary. You can connect your own agent, or just watch a game in progress here: https://sketch.wakeshift.ai/games/q5ucru Hi folks! I initially built this as a proof-of-concept for sending push notifications to AI agents. Wat\n- 关键词：AI, agent, game\n\n### Claude Code regularly sends each background agent’s transcript to its model\n- 来源：Hacker News Best\n- 链接：https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce\n- 摘要：Article URL: https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce Comments URL: https://news.ycombinator.com/item?id=50284255 Points: 580 # Comments: 235\n- 关键词：AI, agent, Claude\n\n### vectorize-io / hindsight\n- 来源：GitHub Trending Python\n- 链接：https://github.com/vectorize-io/hindsight\n- 摘要：Hindsight: Agent Memory That Learns [411 stars today]\n- 关键词：agent, vector, memory\n\n### CopilotKit / OpenBot\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/CopilotKit/OpenBot\n- 摘要：Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent. [706 stars today]\n- 关键词：AI, agent, Copilot\n\n### n8n-io / n8n\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/n8n-io/n8n\n- 摘要：Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. [140 stars today]\n- 关键词：AI, workflow, automation\n\n### nightly-labs / openbot\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/nightly-labs/openbot\n- 摘要：A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration. [485 stars today]\n- 关键词：AI, agent, Claude\n\n### macro-inc / macro\n- 来源：GitHub Trending\n- 链接：https://github.com/macro-inc/macro\n- 摘要：Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory. [57 stars today]\n- 关键词：AI, agent, memory\n\n### Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5\n- 来源：Hacker News Best\n- 链接：https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1\n- 摘要：Article URL: https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1 Comments URL: https://news.ycombinator.com/item?id=50288019 Points: 336 # Comments: 245\n- 关键词：AI, Gemini\n\n### MemPalace / mempalace\n- 来源：GitHub Trending Python\n- 链接：https://github.com/MemPalace/mempalace\n- 摘要：The best-benchmarked open-source AI memory system. And it's free. [258 stars today]\n- 关键词：AI, memory\n\n### langchain-ai / deepagents\n- 来源：GitHub Trending Python\n- 链接：https://github.com/langchain-ai/deepagents\n- 摘要：The batteries-included agent harness. [46 stars today]\n- 关键词：AI, agent\n\n### KeygraphHQ / shannon\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/KeygraphHQ/shannon\n- 摘要：Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production. [225 stars today]\n- 关键词：AI, vector\n\n---\n\n> 请配置 `GEMINI_API_KEY` 后重新运行以获取完整分析。",
+  "gemini_success": false,
+  "telegram_sent": false,
+  "telegram_status": "failed",
+  "telegram_reason": "401 Client Error: Unauthorized for url: https://api.telegram.org/bot8650722899:AAHUD-aqNDB7NwiPiGq3R22MVp77Cr_5GEQ/sendMessage"
+}
