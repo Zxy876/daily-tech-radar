@@ -1,0 +1,293 @@
+{
+  "date": "2026-11-03",
+  "candidates": [
+    {
+      "title": "TalentRL: Strategy-Guided Reinforcement Learning for Hierarchical Skill Routing",
+      "url": "https://arxiv.org/abs/2610.41143",
+      "source": "arXiv cs.LG",
+      "published_at": "Mon, 02 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2610.41143v1 Announce Type: new \nAbstract: Natural-language skills enable large language model (LLM) agents to reuse procedures across tasks, yet most systems retrieve individual skills from a flat SkillBank without explicitly modeling the high-level strategy that governs their selection and use. We introduce TalentRL, a strategy-guided reinforcement learning framework for hierarchical routing over procedural memory. Coarse-grained talents represent recurring strategies for skill use, whil",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "memory",
+        "procedural"
+      ]
+    },
+    {
+      "title": "cheaper-inference / OmniRoute",
+      "url": "https://github.com/cheaper-inference/OmniRoute",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 900+ contributors [402 stars today]",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "Claude",
+        "Gemini",
+        "Copilot",
+        "GPT",
+        "inference"
+      ]
+    },
+    {
+      "title": "Towards Understanding Score-Seeking in LLMs",
+      "url": "https://arxiv.org/abs/2610.41014",
+      "source": "arXiv cs.LG",
+      "published_at": "Mon, 02 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2610.41014v1 Announce Type: new \nAbstract: Production large language models sometimes reward-hack, exploiting flaws in how tasks are scored rather than performing the tasks as intended, sometimes in highly sophisticated and adversarial ways. We investigate the motivations driving this behavior in GPT 5.6 Sol, GPT 5.5, and a checkpoint of OpenAI o3 without safety training (\"exp-rl-cap-late\") by observing model behavior in agentic environments where the grader is leaked. In our environments,",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "GPT",
+        "language model"
+      ]
+    },
+    {
+      "title": "MUON-RT Reusing the Teacher's Trajectory for Momentum-Free Muon for LLM Self-Distillation",
+      "url": "https://arxiv.org/abs/2610.41104",
+      "source": "arXiv cs.LG",
+      "published_at": "Mon, 02 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2610.41104v1 Announce Type: new \nAbstract: Self-distillation methods for large language models with an exponential moving average (EMA) teacher already retain a history of student updates. Muon nevertheless stores a separate momentum buffer, increasing persistent training memory. We propose Muon with Reused Teacher (Muon-RT), which reuses the teacher-student displacement to eliminate momentum buffers for hidden weight matrices. We show that this displacement encodes an exponentially weight",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "RAG",
+        "memory"
+      ]
+    },
+    {
+      "title": "thedotmack / claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More [1,803 stars today]",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "Gemini",
+        "Copilot"
+      ]
+    },
+    {
+      "title": "mksglu / context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry. [151 stars today]",
+      "score": 10.0,
+      "keywords_matched": [
+        "agent",
+        "Claude",
+        "Gemini",
+        "Copilot",
+        "context window"
+      ]
+    },
+    {
+      "title": "Donchitos / Claude-Code-Game-Studios",
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy. [1,379 stars today]",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "workflow",
+        "game"
+      ]
+    },
+    {
+      "title": "A prospective randomized study of patient-centered AI for clinical visit preparation",
+      "url": "https://arxiv.org/abs/2610.41437",
+      "source": "arXiv cs.HC",
+      "published_at": "Mon, 02 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2610.41437v1 Announce Type: new \nAbstract: Patients often arrive at brief, time-constrained clinical visits unsure of what to expect or ask, and millions of adults now turn to general-purpose AI chatbots to prepare beforehand. Yet whether conversational AI improves visit readiness remains unclear. We designed a large language model (LLM)-based visit preparation agent to guide patients before an appointment by gathering clinical context, setting visit expectations, providing relevant health",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model"
+      ]
+    },
+    {
+      "title": "Unified Agentic Video Editing Across Levels of Complexity and Creativity",
+      "url": "https://arxiv.org/abs/2609.12769",
+      "source": "arXiv cs.HC",
+      "published_at": "Mon, 02 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2609.12769v3 Announce Type: replace-cross \nAbstract: Editing is a core component of video production, requiring creative planning and decisions under multiple constraints. Here, we report methods for agentic tooling for automated video editing across three tasks varying in editorial goal, complexity and creativity, namely scene previews, video summaries and cinematic trailers. We evaluate the outputs and discuss implications for automation and agency.",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "automation",
+        "planning"
+      ]
+    },
+    {
+      "title": "AutoHebb: Self-Modifying Neural Networks that Zero-Shot Infer and Continually Learn",
+      "url": "https://arxiv.org/abs/2610.40757",
+      "source": "arXiv cs.LG",
+      "published_at": "Mon, 02 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2610.40757v1 Announce Type: new \nAbstract: Humans and animals have a unique capacity to generalize and learn in novel circumstances, including \"0-shot\" inference (ZI) and continual learning (CL) -- two powerful cognitive abilities. Despite this importance, efforts to model ZI and CL are seriously limited in several ways. First, existing models typically lack components critical to ZI and CL in the brain, namely, strong inductive biases (for ZI) and autonomous control of learning (for CL). ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "neural",
+        "autonomous",
+        "inference"
+      ]
+    },
+    {
+      "title": "On the Origin and Evolution of Training-Inference Mismatch in LLM Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2610.40945",
+      "source": "arXiv cs.LG",
+      "published_at": "Mon, 02 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2610.40945v1 Announce Type: new \nAbstract: On-policy reinforcement learning for large language models assumes that training responses are sampled from the current policy. In practice, an inference engine samples the responses and a separate trainer computes the gradients, and the \\textbf{training-inference mismatch} between the two makes the training data off-policy. The mismatch has two sources, the numerics of the engine and the stale weights of asynchronous sampling, and a correction th",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "inference"
+      ]
+    },
+    {
+      "title": "Steering Vectors as a Training Signal in LLM Post-Training",
+      "url": "https://arxiv.org/abs/2610.40998",
+      "source": "arXiv cs.LG",
+      "published_at": "Mon, 02 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2610.40998v1 Announce Type: new \nAbstract: Steering vectors (SVs) are residual-stream directions that shift the behavior of LLMs when added to hidden states at inference time. While prior work has mainly used SVs as post-hoc controls, we ask whether the same directions can also guide parameter updates during post-training. We study this question across supervised learning, including SFT and distillation, and reinforcement learning with verifiable rewards (RLVR). Our framework considers two",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "vector",
+        "inference"
+      ]
+    },
+    {
+      "title": "Do Language Models Know What Compelling Scientific Evidence Looks Like?",
+      "url": "https://arxiv.org/abs/2610.41015",
+      "source": "arXiv cs.LG",
+      "published_at": "Mon, 02 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2610.41015v1 Announce Type: new \nAbstract: Expert scientists excel at weighing empirical findings from multiple sources that vary in both statistical reliability and epistemic relevance. To what extent are language models, which are increasingly driving autonomous discovery systems, capable of such evidence deliberation? We introduce EDB-Bio, a scientific reasoning benchmark curated from real-world data in three biological domains: drug-perturbation transcriptomics, CRISPR screens, and hum",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "language model",
+        "autonomous",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "beenuar / AiSOC",
+      "url": "https://github.com/beenuar/AiSOC",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue. [659 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "Claude"
+      ]
+    },
+    {
+      "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+      "url": "https://momentic.ai/",
+      "source": "Hacker News",
+      "published_at": "Mon, 02 Nov 2026 17:05:25 +0000",
+      "description": "Hey HN, we’re Wei-Wei and Jeff. We’re building Momentic, QA agents that autonomously plan, explore, and bug-bash controls and user flows in your web, iOS, Android, and (soon) desktop apps to catch bugs. Here’s a demo: https://youtu.be/BFsM-Se1Fh8 We’re both software engineers that spent our careers on dev tooling and infra across companies like Robinhood, Retool, WeWork, and Qualtrics. Testing was always a pain in the ass (esp Playwright and Selenium), so we built agents to do it for us. Modern ",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "Measuring Personal Information Exposure in Mental Health-Related Conversations with LLMs",
+      "url": "https://arxiv.org/abs/2610.41045",
+      "source": "arXiv cs.HC",
+      "published_at": "Mon, 02 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2610.41045v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly used for informal mental health support, yet the privacy implications of conversational interaction remain poorly understood. Prior LLM privacy research has focused largely on model-side risks such as memorization and adversarial extraction, leaving personal information inferred from ordinary conversation understudied. We introduce a profile-recovery framework that measures personal information exposur",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model"
+      ]
+    },
+    {
+      "title": "Out of sync: Accommodation, evaluation, and emergence in five weeks with an agentic AI teammate",
+      "url": "https://arxiv.org/abs/2610.41057",
+      "source": "arXiv cs.HC",
+      "published_at": "Mon, 02 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2610.41057v1 Announce Type: new \nAbstract: As agentic AI in education shifts from reactive tools toward partners that take initiative and persist over time, a central question is how learners relate to, evaluate, and benefit from artificial agency. We conducted a longitudinal experiment in an undergraduate learning analytics course, in which 17 student teams (N = 48) collaborated with a persistent LLM-based teammate across weekly sessions. The agent decided when to intervene through a trig",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM"
+      ]
+    },
+    {
+      "title": "AutoAnalysis: An automated, self-updating meta-analysis of human-AI collaboration",
+      "url": "https://arxiv.org/abs/2610.42001",
+      "source": "arXiv cs.HC",
+      "published_at": "Mon, 02 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2610.42001v1 Announce Type: new \nAbstract: As generative artificial intelligence (AI) becomes more capable and widely used, understanding when and how humans should work with these systems is becoming increasingly important. However, the empirical evidence in this space offers conflicting recommendations, which leaves individuals and organizations without clear guidance on when to combine human and AI capabilities. Existing meta-analyses can help reconcile these findings, but they require ",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "generative art",
+        "generative"
+      ]
+    },
+    {
+      "title": "SimXAI: A Simple Drop-in Layer Increases Interaction Quality and Understanding in Conversational XAI",
+      "url": "https://arxiv.org/abs/2610.41856",
+      "source": "arXiv cs.HC",
+      "published_at": "Mon, 02 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2610.41856v1 Announce Type: cross \nAbstract: Conversational explainable AI (ConvXAI) agents often use GUS-style architectures with separate modules for intent recognition, dialogue management, and template-based response generation. While faithful to the underlying XAI methods, these pipelines are hard to adapt and often struggle with context-dependent follow-up questions. We present SimXAI, a lightweight LLM-centric conversational layer that replaces these modules with a single tool-calli",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM"
+      ]
+    },
+    {
+      "title": "Do User-Authored Permission Policies Improve Protection Against AI Agent Overreach?",
+      "url": "https://arxiv.org/abs/2608.27443",
+      "source": "arXiv cs.HC",
+      "published_at": "Mon, 02 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2608.27443v2 Announce Type: replace \nAbstract: AI agents are poised to become a primary interface to digital products, acting across email, files, payments, and personal data. People without professional software backgrounds need understandable, reusable ways to control actions across services. We examine a mechanism in which a language model maps actions to plain-language consequence categories with user-authored \"allow\", \"ask\", or \"never\" rules. We ask what is gained and lost when decisi",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "language model"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-11-03\n\n这里是为你筛选的 **4 个高价值项目与论文**。今天的趋势非常明显：**Agent 不再追求把所有东西塞进上下文，而是走向“外部沉淀（Externalized Context）”与“多角色剧组化（Studio Hierarchy）”**。\n\n---\n\n## 1. Claude-Code-Game-Studios：用 49 个分工 Agent 模拟游戏工作室\n- **来源**：GitHub Trending\n- **链接**：https://github.com/Donchitos/Claude-Code-Game-Studios\n- **一句话解释**：把 Claude Code 包装成一个包含策划、主程、美术管线、数值与 QA 的 49 节点虚拟游戏开发工作室。\n- **它为什么重要**：它把“Prompt 单兵作战”演进成了“层级化的生产力群岛”。它不是单纯堆砌角色，而是定义了 72 个具体的流水线 Skill（技能），展示了 spec-driven（规范驱动）开发如何应用在游戏制作这种重资产、重依赖的领域。\n- **技术趋势标签**：#AgentSwarm #GameDev #SpecDriven #WorkflowHierarchy\n- **可复用模式**：**组织架构即代码（Org-as-Code）**。将复杂项目的生成流程拆解为“提出需求 -> 架构评审 -> 切片交付 -> 交叉验证”的职能树，而非单 agent 线性循环。\n- **疯狂发明家灵感**：\n  1. *一个小实验*：抽离出“关卡策划 Agent + 语法校验 Agent”，用它全自动批量生成可运行的 P5.js / Pico-8 极简关卡。\n  2. *一个中型项目*：做一套**Minecraft 自动化筑城工坊**：一个 Agent 负责世界观与空间叙事，一个负责结构切片，一个负责将结构编译为 WorldEdit / Litematica 原理图指令。\n  3. *一个艺术/游戏/叙事方向*：**自治 NPC 制作组**——让一组 Agent 不负责写代码，而是作为一个活体“戏剧导演组”，在游戏后台根据玩家行为动态编写支线任务与世界传闻。\n- **对我项目的启发**：给个人项目（如 Drift）建立轻量级“虚拟委员会”spec：一个人开发时，通过配置虚拟的“架构师 vs 顽固测试员”，强迫自己先定 schema 再落代码。\n- **今天是否值得深入研究**：是\n- **建议行动**：做demo（克隆仓库，只偷师它的 `skills/` 和 agent 提示词分工编排逻辑）\n\n---\n\n## 2. context-mode：把工具输出隔离在上下文之外的极简补丁\n- **来源**：GitHub Trending TypeScript\n- **链接**：https://github.com/mksglu/context-mode\n- **一句话解释**：通过沙箱与本地 SQLite FTS5 全文搜索，把庞大的工具运行输出（日志、报错、万行数据）隔离在 Agent 上下文之外，只允许按需检索，节约 99% 的 token。\n- **它为什么重要**：上下文窗口（Context Window）不是垃圾场。当前大多数 Agent 变笨、漂移（drift）的核心原因是 terminal/tool 返回了过多无用信息。这个项目提出了一种极其优雅的 HCI 架构：**执行归执行，上下文只留检索引用**。\n- **技术趋势标签**：#ContextMinimalism #AgentTooling #SQLiteFTS5 #TokenEfficiency\n- **可复用模式**：**Tool 隔离区与虚空指针（Virtual Pointer via Search）**。Agent 执行命令后只拿到一个哈希引用或状态码，仅当需要排查时才用自然语言/SQL 关键词检索局部碎片。\n- **疯狂发明家灵感**：\n  1. *一个小实验*：写一个 Python 包装器，让 LLM 跑 Bash 时默认把输出写入临时 SQLite，只向 LLM 返回 `[Output 2.4KB stored. Use query_log(\"keyword\") to inspect]`。\n  2. *一个中型项目*：**超长连续生成的生成式艺术 Debugger**。在 Processing / TouchDesigner 自动化生成中，隔离海量控制台报错，只在视觉产出异常时反查报错。\n  3. *一个艺术/游戏/叙事方向*：**无限记忆侦探游戏**。游戏生成数万字的案卷档案并存入 FTS5，侦探 NPC 并不具备全知全能的上下文，必须像真人一样通过查阅特定线索词来推导结论，完全规避幻觉与长文本失忆。\n- **对我项目的启发**：做 Agent 工作流时，永远不要把原始 raw output 喂回 prompt，强制引入一个“过滤/中间存储”层。\n- **今天是否值得深入研究**：是\n- **建议行动**：试用并精读其 SQLite FTS5 与 Agent 的通信实现。\n\n---\n\n## 3. claude-mem：跨会话的自主情境压缩记忆层\n- **来源**：GitHub Trending TypeScript\n- **链接**：https://github.com/thedotmack/claude-mem\n- **一句话解释**：在后台无感监听 Agent 的每一个动作，由后台 AI 定期浓缩为长期记忆向量与摘要，并在开启新 Session 时自动注回相关上下文。\n- **它为什么重要**：解决开发中最痛苦的“冷启动”问题（每个新 session 都要重讲一遍项目规范和约定）。它把人类工作中的“自传式记忆（Autobiographical Memory）”变成了 Agent 工具链的标准中间件。\n- **技术趋势标签**：#LongTermMemory #ContextInjection #DevWorkflow #LocalFirst\n- **可复用模式**：**旁路观察者模式（Sidecar Observer）**。主 Agent 专注写代码，后台独立轻量 Agent 负责做“工作笔记”，把显式 context 维护转移到隐式自监督流程中。\n- **疯狂发明家灵感**：\n  1. *一个小实验*：利用 Claude 钩子，每次 `git commit` 时自动调用轻量模型更新一份本地 `PROJECT_MINDMAP.md`。\n  2. *一个中型项目*：**个人设计语言持久化引擎**。不管你在哪个 IDE 或设计工具里，Agent 都能记住你偏好的调色盘、间距规范、代码坏品味并实时提醒。\n  3. *一个艺术/游戏/叙事方向*：**能记住上周玩家情绪的 RPG 伙伴**。离线压缩玩家每一次对话的潜台词，再次登录时，NPC 带着“隔周沉淀后的感慨”开场，增强情感羁绊。\n- **对我项目的启发**：在 spec-driven 流程中，spec 不仅是自顶向下的指令，也应该是 Agent 经历迭代后自底向上“反向写回”的资产。\n- **今天是否值得深入研究**：是\n- **建议行动**：收藏并安装到本地 CLI 工具流中进行日常体验。\n\n---\n\n## 4. 复杂与创意统一的 Agentic 视频剪辑系统 (Unified Agentic Video Editing)\n- **来源**：arXiv cs.HC\n- **链接**：https://arxiv.org/abs/2609.12769\n- **一句话解释**：提出了一个支持场景预览、摘要提取到电影级预告片制作的分层 Agent 剪辑系统，用结构化规划解耦创意约束与底层操作。\n- **它为什么重要**：论文探讨了 HCI 领域的核心命题——**如何让 AI 在有严格美学约束（节奏、情绪弧线、蒙太奇）的任务中工作**。它放弃了 end-to-end 视频生成，而是采用“高层叙事计划 -> 时间线约束调度 -> 底层剪辑”的三层架构。\n- **技术趋势标签**：#CreativeAgent #ComputationalNarrative #VideoEditing #AgentPlanning\n- **可复用模式**：**时间线约束编排（Timeline Constraint Planning）**。把感性的“节奏感/戏剧性”形式化为时间线上的约束条件（如：高潮点位置、镜头长度方差、音画同步锚点）。\n- **疯狂发明家灵感**：\n  1. *一个小实验*：做一个由 Markdown 剧本驱动的自动化剪辑工具，输入一段长视频和带情绪标记的对白，自动生成节奏卡点的粗剪 EDL（剪辑决策表）。\n  2. *一个中型项目*：**生成式 Minecraft 电影导演系统**。通过录制 ReplayMod 的摄像机轨迹，Agent 依据叙事脚本自动计算运镜角度、景深与时间轴剪辑。\n  3. *一个艺术/游戏/叙事方向*：**自适应动态微电影装置**。采集展厅观众的声音与动作，系统 Agent 实时抓取监控流切片，按经典三幕式戏剧节奏拼贴成一部每 5 分钟放映一次的“展厅惊悚片”。\n- **对我项目的启发**：在做创意工具或游戏系统时，不要让 LLM 直接输出终极产物，让它输出“时间轴/空间约束规则”，把渲染与排布交给确定性代码。\n- **今天是否值得深入研究**：否（先取其思路，无需死磕其数学评估指标）\n- **建议行动**：收藏，借鉴其叙事规划到时间轴的架构流程图。\n\n---\n\n## 今日模式总结\n\n1. **上下文瘦身（Context Sanitization）**：从 `context-mode` 到 `claude-mem`，大家终于意识到**Context Window 不是越大越好，而是越纯越好**。将冗余信息（Tool 原始日志、过往长历史）通过 FTS5 搜索或后台总结抽离为“外部存储”，正成为最先进 Agent 的共同解法。\n2. **创意工作流的分层分权（Hierarchical Agency）**：无论是游戏开发的 49 个岗位，还是电影剪辑的三层规划，端到端的大模型神话正在破灭，**Spec（规范定义）+ 分层职能编排（High-level Planner + Low-level Executors）** 是构建复杂创造性系统的唯一稳健路径。\n\n---\n\n## 今日可做小实验：上下文幽灵（Context Ghost）\n一个 2 小时内能跑通的原型，体验“将工具噪音完全隔离在 Agent 上下文之外”的快感。\n\n- **项目名**：`Context Ghost`（上下文幽灵）\n- **输入**：用户要求 Agent 执行一个会产生上千行输出的命令（例如：`npm test`、扫描一个大型目录或拉取大体积 JSON 数据）。\n- **输出**：Agent 无法看到原始输出，它只能拿到包含 `output_id` 和“输出统计”的 1 行摘要，并调用你提供的专用检索工具按需提问并解决问题。\n- **技术栈**：Python + SQLite（开启 FTS5）+ 任意 OpenAI 兼容 API / Claude CLI。\n- **第一步怎么做**：\n  1. 本地建一个 `ghost.db`，写一段 30 行的 Python 代码建表：`CREATE VIRTUAL TABLE logs USING fts5(command, content);`。\n  2. 封装一个自定义 Tool `run_command_ghost(cmd)`：在后台用 `subprocess` 跑命令，将标准输出存入 SQLite，仅向模型返回：`\"Command executed. 2480 lines hidden. Stored in id=1. Use search_ghost(id, query) to inspect.\"`。\n  3. 封装第二个 Tool `search_ghost(id, query)`：执行 SQL `SELECT snippet(logs) FROM logs WHERE logs MATCH query AND rowid = id`，只把匹配的 3 行输出还给 LLM。\n  4. 体验一次让模型在不知道完整输出的情况下，定位一个隐藏在第 1500 行的特定错误。感受 token 消耗骤降 95% 的震撼。",
+  "gemini_success": true,
+  "telegram_sent": false,
+  "telegram_status": "failed",
+  "telegram_reason": "401 Client Error: Unauthorized for url: https://api.telegram.org/bot8650722899:AAHUD-aqNDB7NwiPiGq3R22MVp77Cr_5GEQ/sendMessage"
+}
