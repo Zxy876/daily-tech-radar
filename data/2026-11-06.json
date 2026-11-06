@@ -1,0 +1,297 @@
+{
+  "date": "2026-11-06",
+  "candidates": [
+    {
+      "title": "Uncertainty-Aware Resource Orchestration for Agentic AI Systems",
+      "url": "https://arxiv.org/abs/2611.05392",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 05 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.05392v1 Announce Type: new \nAbstract: Agentic artificial intelligence (AI) systems powered by large language models (LLMs) execute as autonomous multi-step pipelines that dynamically invoke tools, integrate observations into memory, and iterate until a task is resolved or a resource budget is exhausted. Unlike classical workflows with fixed graphs, the aggregate compute, bandwidth, and end-to-end latency demands of such pipelines are unknown at dispatch time: they emerge at runtime fr",
+      "score": 14.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "workflow",
+        "language model",
+        "autonomous",
+        "memory"
+      ]
+    },
+    {
+      "title": "FlyHash for LLM Agent Memory: An Empirical Validation and a New Application",
+      "url": "https://arxiv.org/abs/2611.05791",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 05 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.05791v1 Announce Type: new \nAbstract: Large language model (LLM) agents increasingly rely on external memory stores to retain information across conversations, typically via dense vector embeddings searched with approximate nearest-neighbor methods. The fruit fly's olfactory circuit computes a locality-sensitive hash of sensory input using a strikingly different mechanism - sparse random projection followed by winner-take-all competition - and prior work (Dasgupta et al., 2017) showed",
+      "score": 14.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "embedding",
+        "vector",
+        "memory"
+      ]
+    },
+    {
+      "title": "NVIDIA / auto-ontology",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows. [2,679 stars today]",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "workflow",
+        "reasoning",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Challenge-Aware Knowledge Recruitment with Meta-Agent Supervision for Medical Multi-Agent Reasoning",
+      "url": "https://arxiv.org/abs/2611.05393",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 05 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.05393v1 Announce Type: new \nAbstract: Large language models perform strongly on standard medical QA but degrade on harder reasoning tasks, where multi-agent debate often fails to beat strong single-model prompting. We argue that a key limitation is that existing systems select experts and retrieve knowledge from the question alone, rather than from gaps that emerge during reasoning. We propose challenge-aware adaptive recruitment: an external CHALLENGER inspects the evolving reasoning",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "language model",
+        "prompt",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "CoReFlow: Consistency-Relaxed Flow Maps for Probabilistic Traffic Forecasting",
+      "url": "https://arxiv.org/abs/2611.05715",
+      "source": "arXiv cs.LG",
+      "published_at": "Thu, 05 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.05715v1 Announce Type: new \nAbstract: Probabilistic traffic forecasting is essential for reliable Intelligent Transportation Systems (ITS), as it captures uncertainties in complex road networks. Recent diffusion- and flow-based generative models have facilitated uncertainty modeling through a multi-step sampling process. However, beyond slow inference, this process is designed to capture complex multimodal distributions, which misaligns with the limited complexity of the conditional t",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "diffusion",
+        "multimodal",
+        "inference",
+        "generative"
+      ]
+    },
+    {
+      "title": "Ask HN: What's your current AI agentic setup?",
+      "url": "https://news.ycombinator.com/item?id=50366117",
+      "source": "Hacker News Best",
+      "published_at": "Wed, 04 Nov 2026 14:37:22 +0000",
+      "description": "I'm curious how people on HN are using AI day to day, and came up with a list of questions I thought could be interesting to know. No need to answer every question of course, just wanted to get a gut feel how people are using AI. 1) What AI subscriptions are you personally paying for? (Claude, ChatGPT/Codex, Cursor, etc) - Which tiers? - Have you purchased multiple subscriptions from the same provider (eg two Claude accounts)? 2) Are you using models outside (or instead) of those subscriptions? ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "title": "MA-SafeDiffuser: Safe Multi-Agent Planning with Diffusion Probabilistic Models",
+      "url": "https://arxiv.org/abs/2611.05524",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 05 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.05524v1 Announce Type: new \nAbstract: We propose MA-SafeDiffuser, a multi-agent extension of SafeDiffuser that equips diffusion-based trajectory planners with finite-time diffusion invariance guarantees for joint-agent safety specifications. Building on the single-agent construction that embeds control barrier function (CBF) constraints into reverse-diffusion updates, we: (i) formalize joint safe sets as intersections of per-agent and pairwise barrier sets; (ii) derive centralized and",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "diffusion",
+        "planning"
+      ]
+    },
+    {
+      "title": "How Do Artificial Agents Make Decisions in Light of Visual Data?",
+      "url": "https://arxiv.org/abs/2611.05671",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 05 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.05671v1 Announce Type: new \nAbstract: Vision-language models (VLMs) have demonstrated significant advances in reasoning with visual data, which is particularly important given that much of human knowledge is encoded visually in scientific articles and other sources. However, a gap remains in understanding how artificial agents, powered by VLMs, perceive and navigate decision-making under uncertainty in the presence of visual data. This study explores this gap by evaluating and analyzi",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Toward a Compositional Knowledge Architecture for a Shared Organizational Cortex",
+      "url": "https://arxiv.org/abs/2611.05753",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 05 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.05753v1 Announce Type: new \nAbstract: Organizations accumulate evidence in conversations, documents, decisions and relationships, but they act on interpretations: judgements assembled from several observations, resting on assumptions, and revised as circumstances change. Existing retrieval, knowledge graphs and agent memory keep the records and lose the interpretation. We propose a four-layer architecture, Signals, Domains, Claims and Dimensions, in which interpretations persist with ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "memory",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "PAYWORTHY: Can LLMs Predict Which Freelance Jobs an AI Agent Will Complete?",
+      "url": "https://arxiv.org/abs/2611.05759",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 05 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.05759v1 Announce Type: new \nAbstract: Before an AI agent takes on a paid job, someone has to judge whether it is likely to succeed. We test whether frontier language models can make this call before any attempt. We propose PAYWORTHY which contains 1{,}494 real freelance job postings, sampled from 18.8M postings made between 2020 and 2026 on a freelancing platform. An agent attempts each job from the posting alone in a single run, and an LLM judge acting as the client decides whether t",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model"
+      ]
+    },
+    {
+      "title": "Robots in the City: Persona-Based Perceptions of Urban Robots",
+      "url": "https://arxiv.org/abs/2611.05954",
+      "source": "arXiv cs.HC",
+      "published_at": "Thu, 05 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.05954v1 Announce Type: new \nAbstract: Pedestrians increasingly encounter robots in urban public spaces without interacting with them, but how robots change the perceived safety of a street remains unclear. We examine how robot presence and type affect perceived safety across urban contexts. We generate 18 images of Seoul streets that vary in time of day, road class, and robot condition (no robot, a delivery robot, or a humanoid). Two multimodal large language models (MLLMs), Qwen3.8-2",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "multimodal"
+      ]
+    },
+    {
+      "title": "BobFlow: Towards Human-Agent Collaborative Data Science Using Dataflows",
+      "url": "https://arxiv.org/abs/2611.05761",
+      "source": "arXiv cs.HC",
+      "published_at": "Thu, 05 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.05761v1 Announce Type: cross \nAbstract: Recent advances in large language models (LLMs) have established human-agent collaboration as a promising paradigm for data science. Effective collaboration requires a shared computational abstraction that enables agents to reason about processing logic while allowing human analysts to understand, guide, and refine the analysis. Although scripts written in Python or SQL provide precise control, their syntax and execution details can be difficult",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model"
+      ]
+    },
+    {
+      "title": "Dull, Dirty, Dangerous? Working Conditions and the Limits of Occupational AI Exposure",
+      "url": "https://arxiv.org/abs/2611.06888",
+      "source": "arXiv cs.HC",
+      "published_at": "Thu, 05 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.06888v1 Announce Type: cross \nAbstract: Automation is often justified as relief from dull, dirty, and dangerous work. I examine how these conditions relate to occupational AI exposure using 21 O*NET items across 754 US occupations. Higher exposure is associated with lower condition scores under a large language model (LLM) measure and AI Occupational Exposure (AIOE), with equal occupation weights and employment weights. Adjustment for physical demands, required education, training and",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "automation",
+        "language model"
+      ]
+    },
+    {
+      "title": "AromaGen: Interactive Generation of Rich Olfactory Experiences with Multimodal Language Models",
+      "url": "https://arxiv.org/abs/2604.01650",
+      "source": "arXiv cs.HC",
+      "published_at": "Thu, 05 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2604.01650v5 Announce Type: replace \nAbstract: Smell's connections with food, memory, and social experience have motivated researchers to bring olfaction into interactive systems. Multimodal AI opens new possibilities for generating smells from natural language, yet it remains unclear whether pretrained models encode sufficient olfactory knowledge to translate language into perceptible compositions. We present AromaGen, an AI-powered 12-channel wearable olfactory system that maps free-form",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "language model",
+        "multimodal",
+        "memory"
+      ]
+    },
+    {
+      "title": "TSFM Meets LLM: Context as Covariates",
+      "url": "https://arxiv.org/abs/2611.05515",
+      "source": "arXiv cs.LG",
+      "published_at": "Thu, 05 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.05515v1 Announce Type: new \nAbstract: Textual information is ubiquitous in real-world time series datasets, appearing as news, reports, and annotations that hold key predictive signals not deducible from numerical history alone. Large Language Models (LLMs) interpret text but lack numerical precision, while Time Series Foundation Models (TSFMs) are quantitatively accurate but cannot reason about the effects of text. Moreover, the lack of large-scale paired multimodal datasets limits p",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "multimodal"
+      ]
+    },
+    {
+      "title": "C-GRPO: Conformal Group Relative Policy Optimization",
+      "url": "https://arxiv.org/abs/2611.05591",
+      "source": "arXiv cs.LG",
+      "published_at": "Thu, 05 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.05591v1 Announce Type: new \nAbstract: Reasoning-oriented language model training increasingly relies on multiple on-policy rollouts, but standard Group Relative Policy Optimization (GRPO) uses a fixed group size, wasting compute on easy prompts and under-exploring hard ones. Existing adaptive-budget methods alleviate this inefficiency, yet their stopping rules are heuristic and do not provide a finite-sample calibration guarantee. We propose CGRPO, which replaces the fixed rollout bud",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "language model",
+        "prompt",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "RIDGE: State-Conditioned Reward Blending for Behavioral Coverage in Deep RL Game Agents",
+      "url": "https://arxiv.org/abs/2611.05601",
+      "source": "arXiv cs.LG",
+      "published_at": "Thu, 05 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.05601v1 Announce Type: new \nAbstract: A deep RL agent trained on a fixed persona reward plays one way: an Explorer keeps exploring while starving, a Survivor hoards on an empty map. Since each persona fixes its own reward, automated playtesting trains N agents for N styles. Changing reward composition mid-episode runs into the switching-stability dilemma: PPO degrades under non-stationary rewards. We present RIDGE, a single-agent architecture that sidesteps the dilemma with two design",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "game",
+        "RAG"
+      ]
+    },
+    {
+      "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
+      "url": "https://github.com/rivet-dev/rivet",
+      "source": "Hacker News",
+      "published_at": "Thu, 05 Nov 2026 17:17:42 +0000",
+      "description": "Hey HN, this is Nathan and Nicholas from Rivet ( https://rivet.dev ) – a fast, high-density, and scalable orchestrator for agentic workloads using the actor model. Rather than running a heavyweight sandbox per agent, each agent gets a lightweight actor backed by S3. Actors provide a long-lived process for long agent turns, in-memory state for context, a WebSocket server for multiplayer, durable SQLite storage backed by S3, and hibernation when idle. It's a similar model to Cloudflare Durable Obj",
+      "score": 6.0,
+      "keywords_matched": [
+        "agent",
+        "RAG",
+        "memory"
+      ]
+    },
+    {
+      "title": "Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions",
+      "url": "https://arxiv.org/abs/2611.05390",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 05 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.05390v1 Announce Type: new \nAbstract: Multi-agent language-model systems often add a reviewer to improve an upstream agent's decision. Yet a reviewer can both repair errors and replace decisions that were already correct. We study this as a problem of institutional jurisdiction: conditional on the same proposal, task information, model, and review output, when is the reviewer authorized to make its recommendation binding? We compare broad override authority with an evidence gate that ",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM"
+      ]
+    },
+    {
+      "title": "A Feasibility Condition for Confidence-Gated Tiered LLM Inference",
+      "url": "https://arxiv.org/abs/2611.05394",
+      "source": "arXiv cs.AI",
+      "published_at": "Thu, 05 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.05394v1 Announce Type: new \nAbstract: Tiered inference distributes large language model computation across a hierarchy of devices, from on-device and edge hardware to the datacenter, and is increasingly offered as the route to cheaper, lower-latency, and more private serving. Most such systems orchestrate frozen model checkpoints, and most decide what to resolve locally and what to escalate using a confidence signal produced by a forward-deployed model. We give a closed-form condition",
+      "score": 6.0,
+      "keywords_matched": [
+        "LLM",
+        "language model",
+        "inference"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-11-06\n\n> ⚠️ AI 分析失败：HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=90)\n\n## 今日候选内容（原始抓取，未经 AI 分析）\n\n### Uncertainty-Aware Resource Orchestration for Agentic AI Systems\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2611.05392\n- 摘要：arXiv:2611.05392v1 Announce Type: new \nAbstract: Agentic artificial intelligence (AI) systems powered by large language models (LLMs) execute as autonomous multi-step pipelines that dynamically invoke tools, integrate observations into memory, and it\n- 关键词：AI, agent, LLM, workflow, language model, autonomous, memory\n\n### FlyHash for LLM Agent Memory: An Empirical Validation and a New Application\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2611.05791\n- 摘要：arXiv:2611.05791v1 Announce Type: new \nAbstract: Large language model (LLM) agents increasingly rely on external memory stores to retain information across conversations, typically via dense vector embeddings searched with approximate nearest-neighbo\n- 关键词：AI, agent, LLM, language model, embedding, vector, memory\n\n### NVIDIA / auto-ontology\n- 来源：GitHub Trending Python\n- 链接：https://github.com/NVIDIA/auto-ontology\n- 摘要：Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows. [2,679 stars today]\n- 关键词：AI, agent, LLM, workflow, reasoning, retrieval\n\n### Challenge-Aware Knowledge Recruitment with Meta-Agent Supervision for Medical Multi-Agent Reasoning\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2611.05393\n- 摘要：arXiv:2611.05393v1 Announce Type: new \nAbstract: Large language models perform strongly on standard medical QA but degrade on harder reasoning tasks, where multi-agent debate often fails to beat strong single-model prompting. We argue that a key limi\n- 关键词：AI, agent, language model, prompt, reasoning\n\n### CoReFlow: Consistency-Relaxed Flow Maps for Probabilistic Traffic Forecasting\n- 来源：arXiv cs.LG\n- 链接：https://arxiv.org/abs/2611.05715\n- 摘要：arXiv:2611.05715v1 Announce Type: new \nAbstract: Probabilistic traffic forecasting is essential for reliable Intelligent Transportation Systems (ITS), as it captures uncertainties in complex road networks. Recent diffusion- and flow-based generative \n- 关键词：AI, diffusion, multimodal, inference, generative\n\n### Ask HN: What's your current AI agentic setup?\n- 来源：Hacker News Best\n- 链接：https://news.ycombinator.com/item?id=50366117\n- 摘要：I'm curious how people on HN are using AI day to day, and came up with a list of questions I thought could be interesting to know. No need to answer every question of course, just wanted to get a gut feel how people are using AI. 1) What AI subscript\n- 关键词：AI, agent, Claude, GPT\n\n### MA-SafeDiffuser: Safe Multi-Agent Planning with Diffusion Probabilistic Models\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2611.05524\n- 摘要：arXiv:2611.05524v1 Announce Type: new \nAbstract: We propose MA-SafeDiffuser, a multi-agent extension of SafeDiffuser that equips diffusion-based trajectory planners with finite-time diffusion invariance guarantees for joint-agent safety specification\n- 关键词：AI, agent, diffusion, planning\n\n### How Do Artificial Agents Make Decisions in Light of Visual Data?\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2611.05671\n- 摘要：arXiv:2611.05671v1 Announce Type: new \nAbstract: Vision-language models (VLMs) have demonstrated significant advances in reasoning with visual data, which is particularly important given that much of human knowledge is encoded visually in scientific \n- 关键词：AI, agent, language model, reasoning\n\n### Toward a Compositional Knowledge Architecture for a Shared Organizational Cortex\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2611.05753\n- 摘要：arXiv:2611.05753v1 Announce Type: new \nAbstract: Organizations accumulate evidence in conversations, documents, decisions and relationships, but they act on interpretations: judgements assembled from several observations, resting on assumptions, and \n- 关键词：AI, agent, memory, retrieval\n\n### PAYWORTHY: Can LLMs Predict Which Freelance Jobs an AI Agent Will Complete?\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2611.05759\n- 摘要：arXiv:2611.05759v1 Announce Type: new \nAbstract: Before an AI agent takes on a paid job, someone has to judge whether it is likely to succeed. We test whether frontier language models can make this call before any attempt. We propose PAYWORTHY which \n- 关键词：AI, agent, LLM, language model\n\n### Robots in the City: Persona-Based Perceptions of Urban Robots\n- 来源：arXiv cs.HC\n- 链接：https://arxiv.org/abs/2611.05954\n- 摘要：arXiv:2611.05954v1 Announce Type: new \nAbstract: Pedestrians increasingly encounter robots in urban public spaces without interacting with them, but how robots change the perceived safety of a street remains unclear. We examine how robot presence and\n- 关键词：AI, LLM, language model, multimodal\n\n### BobFlow: Towards Human-Agent Collaborative Data Science Using Dataflows\n- 来源：arXiv cs.HC\n- 链接：https://arxiv.org/abs/2611.05761\n- 摘要：arXiv:2611.05761v1 Announce Type: cross \nAbstract: Recent advances in large language models (LLMs) have established human-agent collaboration as a promising paradigm for data science. Effective collaboration requires a shared computational abstractio\n- 关键词：AI, agent, LLM, language model\n\n### Dull, Dirty, Dangerous? Working Conditions and the Limits of Occupational AI Exposure\n- 来源：arXiv cs.HC\n- 链接：https://arxiv.org/abs/2611.06888\n- 摘要：arXiv:2611.06888v1 Announce Type: cross \nAbstract: Automation is often justified as relief from dull, dirty, and dangerous work. I examine how these conditions relate to occupational AI exposure using 21 O*NET items across 754 US occupations. Higher \n- 关键词：AI, LLM, automation, language model\n\n### AromaGen: Interactive Generation of Rich Olfactory Experiences with Multimodal Language Models\n- 来源：arXiv cs.HC\n- 链接：https://arxiv.org/abs/2604.01650\n- 摘要：arXiv:2604.01650v5 Announce Type: replace \nAbstract: Smell's connections with food, memory, and social experience have motivated researchers to bring olfaction into interactive systems. Multimodal AI opens new possibilities for generating smells from\n- 关键词：AI, language model, multimodal, memory\n\n### TSFM Meets LLM: Context as Covariates\n- 来源：arXiv cs.LG\n- 链接：https://arxiv.org/abs/2611.05515\n- 摘要：arXiv:2611.05515v1 Announce Type: new \nAbstract: Textual information is ubiquitous in real-world time series datasets, appearing as news, reports, and annotations that hold key predictive signals not deducible from numerical history alone. Large Lang\n- 关键词：AI, LLM, language model, multimodal\n\n---\n\n> 请配置 `GEMINI_API_KEY` 后重新运行以获取完整分析。",
+  "gemini_success": false,
+  "telegram_sent": false,
+  "telegram_status": "failed",
+  "telegram_reason": "401 Client Error: Unauthorized for url: https://api.telegram.org/bot8650722899:AAHUD-aqNDB7NwiPiGq3R22MVp77Cr_5GEQ/sendMessage"
+}
