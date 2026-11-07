@@ -1,0 +1,293 @@
+[
+  {
+    "title": "Don't Prompt Your Agents. Equip Them: Skillware as a Modular Standard for Sovereign, Auditable, and Deterministic Capability Execution for Logical Systems",
+    "url": "https://arxiv.org/abs/2611.07652",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 06 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.07652v1 Announce Type: new \nAbstract: Current autonomous logical systems rely on a fragile assumption: that language models should dynamically write code, guess API payloads, and memorize operational constraints through prompt engineering. In practice, this burns massive context windows, inflates API bills, and produces brittle agents that fail unpredictably in production.\n  In this work, we present Skillware, an open architectural framework and capability registry that formally separ",
+    "score": 14.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "language model",
+      "autonomous",
+      "RAG",
+      "prompt",
+      "context window"
+    ]
+  },
+  {
+    "title": "NVIDIA / auto-ontology",
+    "url": "https://github.com/NVIDIA/auto-ontology",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows. [2,015 stars today]",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "reasoning",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "KDASO: Knowledge-Data Dual-Driven Automated Skill Optimization for Liability Adjudication Tasks",
+    "url": "https://arxiv.org/abs/2611.06972",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 06 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.06972v1 Announce Type: new \nAbstract: Liability adjudication tasks (e.g., legal charge determination) require analyzing event descriptions against domain-specific skills to determine whether a party should bear liability. While Large Language Models (LLMs) have shown promise in this area by leveraging executable skills for interpretable reasoning, existing approaches face three critical limitations: skill libraries become stale as real-world scenarios dynamically evolve, skill descrip",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "RAG",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "CST-Bench: Benchmarking Counterfactual Spatial Transition Reasoning with Causal Transition On-Policy Self-Distillation",
+    "url": "https://arxiv.org/abs/2611.07541",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 06 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.07541v1 Announce Type: new \nAbstract: Spatial reasoning is a fundamental capability of multimodal large language models (MLLMs), yet existing benchmarks mainly focus on static scene understanding. When objects are moved or swapped, models must infer not only spatial relations but also how interventions change the scene state. To address this problem, we introduce CST-Bench, a benchmark for counterfactual spatial reasoning. CST-Bench contains 7,082 examples covering 6 intervention type",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "multimodal",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "FlashOffloading: Low-Latency KV Cache Offloading for Long-Context LLM Serving",
+    "url": "https://arxiv.org/abs/2611.07542",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 06 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.07542v1 Announce Type: new \nAbstract: In large language model (LLM) serving systems, the key-value (KV) cache grows linearly with sequence length and concurrency, so long-context inference easily hits the high-bandwidth memory (HBM) capacity wall and results in low concurrency. Offloading the KV cache to host dynamic random-access memory (DRAM) frees HBM space and raises concurrency, but the additional cache management and host-to-device (H2D) load overhead inflates inference latency,",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "inference",
+      "memory"
+    ]
+  },
+  {
+    "title": "MCPHallu: Benchmarking Reasoning, Execution, and Memory Hallucinations in MCP Agents",
+    "url": "https://arxiv.org/abs/2611.07689",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 06 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.07689v1 Announce Type: new \nAbstract: Large language model agents are increasingly deployed through the Model Context Protocol (MCP), which allows them to discover and invoke tools across multiple servers at runtime. Existing MCP benchmarks primarily measure task completion; where they diagnose failures, they do so after execution rather than building specific reasoning, execution, and memory failure risks into task construction.\n  We introduce MCPHallu, a benchmark for diagnosing hal",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "language model",
+      "reasoning",
+      "memory"
+    ]
+  },
+  {
+    "title": "Stochastic Dynamics of Generative AI: From Autoregressive Models to Interacting LLM Networks and Neural SDEs",
+    "url": "https://arxiv.org/abs/2611.07065",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 06 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.07065v1 Announce Type: new \nAbstract: This paper develops a stochastic dynamical-systems perspective on three classes of generative AI models. First, we formulate large language models (LLMs) as high-dimensional nonlinear autoregressive models with attention-based dependencies. This formulation connects pretraining by conditional maximum likelihood to sequential token generation and provides a probabilistic interpretation of LLM operation. Second, we consider networks of interacting L",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "neural",
+      "language model",
+      "generative"
+    ]
+  },
+  {
+    "title": "Server-Side Sparse Assignment for Federated Mixture-of-Experts",
+    "url": "https://arxiv.org/abs/2611.07093",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 06 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.07093v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly recognized for their remarkable capabilities; federated learning (FL) offers a promising framework for collaboratively fine-tuning LLMs on edge devices while achieving data privacy. However, edge devices are inherently heterogeneous: clients may exhibit diverse data distributions and resource constraints, including limited memory and computation budgets. Recent federated Mixture-of-Experts (MoE) approa",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "fine-tuning",
+      "memory"
+    ]
+  },
+  {
+    "title": "The Two-Ledger Model: Transaction-Grain Cost Accounting for Multi-Agent AI Systems Across Clouds, Models, and Systems of Record",
+    "url": "https://arxiv.org/abs/2611.06989",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 06 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.06989v1 Announce Type: new \nAbstract: Enterprises run business transactions through multi-agent AI systems spanning clouds, large language models (LLMs), orchestration harnesses, and systems of record. Finance receives AI cost only at settlement grain, aggregated by SKU and charge period. The business question (what did this order, claim, or case cost in AI?) cannot be answered from billing data, because providers never see enterprise transaction boundaries. The FinOps Open Cost and U",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model"
+    ]
+  },
+  {
+    "title": "When Verification Is Not Agreement: Cross-Agent LLM-to-Dafny Formalization",
+    "url": "https://arxiv.org/abs/2611.07073",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 06 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.07073v1 Announce Type: new \nAbstract: A verified Dafny postcondition certifies that a formula holds, but it does not guarantee that the result was reached through genuine independent reasoning. We introduce a cross-agent formalization protocol where a Specifier model translates clinical trial criteria into a Dafny predicate, and an Implementer model writes an operational method checked against it. A same-model control establishes that even with no capability gap, independent re-extrac",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "PromptOps: Iterative Prompt Optimization for LLM-as-a-Judge Systems",
+    "url": "https://arxiv.org/abs/2611.07123",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 06 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.07123v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly used as automated judges for evaluating the behavior of chatbots and other AI systems. In deployment, however, their agreement with the intended human evaluation policy may degrade as user interactions and score distributions change. Existing automatic prompt optimization methods are primarily studied as one-shot procedures on static development sets and therefore provide limited guidance for maintaini",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Align Before Aggregation: Basis-Consistent Federated LoRA under Heterogeneous Ranks",
+    "url": "https://arxiv.org/abs/2611.07598",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 06 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.07598v1 Announce Type: new \nAbstract: Federated fine-tuning of large language models (LLMs) under heterogeneous client capacities is increasingly important, and low-rank adaptation (LoRA) with heterogeneous ranks makes it practical. Existing server-side aggregators compose local matrix updates $\\Delta W_i$ from client-specific LoRA factors $(A_i,B_i)$ before aggregating them. Although these matrix updates lie in the same weight space $\\mathbb{R}^{m\\times n}$ and can be averaged direct",
+    "score": 8.0,
+    "keywords_matched": [
+      "LLM",
+      "language model",
+      "RAG",
+      "fine-tuning"
+    ]
+  },
+  {
+    "title": "Redacting Personal Data: A Speed and Accuracy Comparison of Regex, Presidio and Hybrid Designs",
+    "url": "https://arxiv.org/abs/2611.07633",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 06 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.07633v1 Announce Type: new \nAbstract: Many enterprise projects now pass free text to large language models (LLMs), and that text often contains personally identifiable information (PII) such as names, phone numbers, email addresses, home addresses and dates of birth. Once a prompt is sent, this data is copied into provider systems, application logs and observability traces. Redacting PII before the call is an obvious control, yet teams seldom have numbers on what it costs in latency o",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "prompt"
+    ]
+  },
+  {
+    "title": "The Intrusion Pathway: How Non-Evidential Context Degrades Language Model Performance",
+    "url": "https://arxiv.org/abs/2611.07778",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 06 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.07778v1 Announce Type: new \nAbstract: Language models lose accuracy when a prompt contains non-evidential context: irrelevant statements from unrelated domains, or random off-distribution tokens, with no competing answer and no semantic overlap with the query. Such noise pervades retrieval-augmented, tool-using, and long-context deployments, yet the failure has lacked a mechanistic account. We trace the corruption to the Intrusion Pathway, which starts with MLPs enriching both query-s",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "language model",
+      "prompt",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Structural and Representational Agency in LLM-Driven Timbre Generation and Interpolation",
+    "url": "https://arxiv.org/abs/2610.12532",
+    "source": "arXiv cs.HC",
+    "published_at": "Fri, 06 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2610.12532v2 Announce Type: replace-cross \nAbstract: Generative creative interfaces routinely report the user's position within a space of possibilities. Such displays imply that the quantities shown were measured from the artefact; in a growing class of systems they are instead predicted by a language model describing its own output, and the two are indistinguishable on screen. Most creative domains lack an agreed measurement against which such a self-report can be checked; audio admits o",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "generative"
+    ]
+  },
+  {
+    "title": "Octopus: One Brain, Many Branches for Latent-KV Multi-Agent Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2611.06956",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 06 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.06956v1 Announce Type: new \nAbstract: Multi-agent LLM systems explore in parallel by spawning sub-agents with isolated context windows, whereas single-agent systems append every search and verification step into one growing trajectory. However, existing multi-agent frameworks duplicate prefix KV caches across branches, exchange findings by re-prefilling text summaries, and flatten or drop cross-branch dependencies during reinforcement learning (RL).\n  We introduce Octopus, a single-mo",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "context window"
+    ]
+  },
+  {
+    "title": "A Night at the LLM Zoo: Data Conditioned Flow Matching for Generating Pretrained LLM Weights",
+    "url": "https://arxiv.org/abs/2611.07103",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 06 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.07103v1 Announce Type: new \nAbstract: A challenge to Weight Space Learning as it expands from task specific and vision models to Large Language Models (LLMs) is the absence of a well curated and analyzed LLM population. To address this, we train such a model zoo for application to Weight Space Generation by systematically varying the data mixture composition between web text, books, mathematics, coding, and French across populations of 51M, 124M, and 355M parameter GPT-2 Models, each ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "GPT",
+      "language model"
+    ]
+  },
+  {
+    "title": "Regulating Autonomous Mobility-on-Demand Operators with Fixed and Adaptive Penalties: A Multi-Agent Reinforcement Learning Approach",
+    "url": "https://arxiv.org/abs/2611.07122",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 06 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.07122v1 Announce Type: new \nAbstract: Profit-maximizing Autonomous Mobility-on-Demand (AMoD) operators may exploit consumer surplus through excessive prices and underserve less profitable regions by relocating vehicles away from them. We study how penalty-based regulation of an AMoD operator in a multimodal mobility system can limit surge pricing and improve regional service availability. We model regulation as an outer control loop that acts on a learning-based operator. Static regul",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "autonomous",
+      "multimodal"
+    ]
+  },
+  {
+    "title": "Compositional Unalignment: Auditing Safety in Large Vision-Language Models",
+    "url": "https://arxiv.org/abs/2611.07216",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 06 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.07216v1 Announce Type: new \nAbstract: Large vision-language models (LVLMs) are vulnerable to compositional harm: an image and a prompt that are benign in isolation become harmful through the model's cross-modal reasoning. Recent alignment methods report strong scores on compositional safety benchmarks, but an LLM judge only measures observed behavior and cannot reveal how robustly safety is integrated into the model. We argue that un-alignment provides a complementary audit of alignme",
+    "score": 8.0,
+    "keywords_matched": [
+      "LLM",
+      "language model",
+      "prompt",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "mlflow / mlflow",
+    "url": "https://github.com/mlflow/mlflow",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controlling costs and managing access to models and data. [8 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "open source"
+    ]
+  }
+]

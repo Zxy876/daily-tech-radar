@@ -1,0 +1,301 @@
+{
+  "date": "2026-11-07",
+  "candidates": [
+    {
+      "title": "Don't Prompt Your Agents. Equip Them: Skillware as a Modular Standard for Sovereign, Auditable, and Deterministic Capability Execution for Logical Systems",
+      "url": "https://arxiv.org/abs/2611.07652",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 06 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.07652v1 Announce Type: new \nAbstract: Current autonomous logical systems rely on a fragile assumption: that language models should dynamically write code, guess API payloads, and memorize operational constraints through prompt engineering. In practice, this burns massive context windows, inflates API bills, and produces brittle agents that fail unpredictably in production.\n  In this work, we present Skillware, an open architectural framework and capability registry that formally separ",
+      "score": 14.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "language model",
+        "autonomous",
+        "RAG",
+        "prompt",
+        "context window"
+      ]
+    },
+    {
+      "title": "NVIDIA / auto-ontology",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows. [2,015 stars today]",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "workflow",
+        "reasoning",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "KDASO: Knowledge-Data Dual-Driven Automated Skill Optimization for Liability Adjudication Tasks",
+      "url": "https://arxiv.org/abs/2611.06972",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 06 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.06972v1 Announce Type: new \nAbstract: Liability adjudication tasks (e.g., legal charge determination) require analyzing event descriptions against domain-specific skills to determine whether a party should bear liability. While Large Language Models (LLMs) have shown promise in this area by leveraging executable skills for interpretable reasoning, existing approaches face three critical limitations: skill libraries become stale as real-world scenarios dynamically evolve, skill descrip",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "RAG",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "CST-Bench: Benchmarking Counterfactual Spatial Transition Reasoning with Causal Transition On-Policy Self-Distillation",
+      "url": "https://arxiv.org/abs/2611.07541",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 06 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.07541v1 Announce Type: new \nAbstract: Spatial reasoning is a fundamental capability of multimodal large language models (MLLMs), yet existing benchmarks mainly focus on static scene understanding. When objects are moved or swapped, models must infer not only spatial relations but also how interventions change the scene state. To address this problem, we introduce CST-Bench, a benchmark for counterfactual spatial reasoning. CST-Bench contains 7,082 examples covering 6 intervention type",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "multimodal",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "FlashOffloading: Low-Latency KV Cache Offloading for Long-Context LLM Serving",
+      "url": "https://arxiv.org/abs/2611.07542",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 06 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.07542v1 Announce Type: new \nAbstract: In large language model (LLM) serving systems, the key-value (KV) cache grows linearly with sequence length and concurrency, so long-context inference easily hits the high-bandwidth memory (HBM) capacity wall and results in low concurrency. Offloading the KV cache to host dynamic random-access memory (DRAM) frees HBM space and raises concurrency, but the additional cache management and host-to-device (H2D) load overhead inflates inference latency,",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "inference",
+        "memory"
+      ]
+    },
+    {
+      "title": "MCPHallu: Benchmarking Reasoning, Execution, and Memory Hallucinations in MCP Agents",
+      "url": "https://arxiv.org/abs/2611.07689",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 06 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.07689v1 Announce Type: new \nAbstract: Large language model agents are increasingly deployed through the Model Context Protocol (MCP), which allows them to discover and invoke tools across multiple servers at runtime. Existing MCP benchmarks primarily measure task completion; where they diagnose failures, they do so after execution rather than building specific reasoning, execution, and memory failure risks into task construction.\n  We introduce MCPHallu, a benchmark for diagnosing hal",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "language model",
+        "reasoning",
+        "memory"
+      ]
+    },
+    {
+      "title": "Stochastic Dynamics of Generative AI: From Autoregressive Models to Interacting LLM Networks and Neural SDEs",
+      "url": "https://arxiv.org/abs/2611.07065",
+      "source": "arXiv cs.LG",
+      "published_at": "Fri, 06 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.07065v1 Announce Type: new \nAbstract: This paper develops a stochastic dynamical-systems perspective on three classes of generative AI models. First, we formulate large language models (LLMs) as high-dimensional nonlinear autoregressive models with attention-based dependencies. This formulation connects pretraining by conditional maximum likelihood to sequential token generation and provides a probabilistic interpretation of LLM operation. Second, we consider networks of interacting L",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "neural",
+        "language model",
+        "generative"
+      ]
+    },
+    {
+      "title": "Server-Side Sparse Assignment for Federated Mixture-of-Experts",
+      "url": "https://arxiv.org/abs/2611.07093",
+      "source": "arXiv cs.LG",
+      "published_at": "Fri, 06 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.07093v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly recognized for their remarkable capabilities; federated learning (FL) offers a promising framework for collaboratively fine-tuning LLMs on edge devices while achieving data privacy. However, edge devices are inherently heterogeneous: clients may exhibit diverse data distributions and resource constraints, including limited memory and computation budgets. Recent federated Mixture-of-Experts (MoE) approa",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "fine-tuning",
+        "memory"
+      ]
+    },
+    {
+      "title": "The Two-Ledger Model: Transaction-Grain Cost Accounting for Multi-Agent AI Systems Across Clouds, Models, and Systems of Record",
+      "url": "https://arxiv.org/abs/2611.06989",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 06 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.06989v1 Announce Type: new \nAbstract: Enterprises run business transactions through multi-agent AI systems spanning clouds, large language models (LLMs), orchestration harnesses, and systems of record. Finance receives AI cost only at settlement grain, aggregated by SKU and charge period. The business question (what did this order, claim, or case cost in AI?) cannot be answered from billing data, because providers never see enterprise transaction boundaries. The FinOps Open Cost and U",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model"
+      ]
+    },
+    {
+      "title": "When Verification Is Not Agreement: Cross-Agent LLM-to-Dafny Formalization",
+      "url": "https://arxiv.org/abs/2611.07073",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 06 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.07073v1 Announce Type: new \nAbstract: A verified Dafny postcondition certifies that a formula holds, but it does not guarantee that the result was reached through genuine independent reasoning. We introduce a cross-agent formalization protocol where a Specifier model translates clinical trial criteria into a Dafny predicate, and an Implementer model writes an operational method checked against it. A same-model control establishes that even with no capability gap, independent re-extrac",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "PromptOps: Iterative Prompt Optimization for LLM-as-a-Judge Systems",
+      "url": "https://arxiv.org/abs/2611.07123",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 06 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.07123v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly used as automated judges for evaluating the behavior of chatbots and other AI systems. In deployment, however, their agreement with the intended human evaluation policy may degrade as user interactions and score distributions change. Existing automatic prompt optimization methods are primarily studied as one-shot procedures on static development sets and therefore provide limited guidance for maintaini",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "prompt"
+      ]
+    },
+    {
+      "title": "Align Before Aggregation: Basis-Consistent Federated LoRA under Heterogeneous Ranks",
+      "url": "https://arxiv.org/abs/2611.07598",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 06 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.07598v1 Announce Type: new \nAbstract: Federated fine-tuning of large language models (LLMs) under heterogeneous client capacities is increasingly important, and low-rank adaptation (LoRA) with heterogeneous ranks makes it practical. Existing server-side aggregators compose local matrix updates $\\Delta W_i$ from client-specific LoRA factors $(A_i,B_i)$ before aggregating them. Although these matrix updates lie in the same weight space $\\mathbb{R}^{m\\times n}$ and can be averaged direct",
+      "score": 8.0,
+      "keywords_matched": [
+        "LLM",
+        "language model",
+        "RAG",
+        "fine-tuning"
+      ]
+    },
+    {
+      "title": "Redacting Personal Data: A Speed and Accuracy Comparison of Regex, Presidio and Hybrid Designs",
+      "url": "https://arxiv.org/abs/2611.07633",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 06 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.07633v1 Announce Type: new \nAbstract: Many enterprise projects now pass free text to large language models (LLMs), and that text often contains personally identifiable information (PII) such as names, phone numbers, email addresses, home addresses and dates of birth. Once a prompt is sent, this data is copied into provider systems, application logs and observability traces. Redacting PII before the call is an obvious control, yet teams seldom have numbers on what it costs in latency o",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "prompt"
+      ]
+    },
+    {
+      "title": "The Intrusion Pathway: How Non-Evidential Context Degrades Language Model Performance",
+      "url": "https://arxiv.org/abs/2611.07778",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 06 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.07778v1 Announce Type: new \nAbstract: Language models lose accuracy when a prompt contains non-evidential context: irrelevant statements from unrelated domains, or random off-distribution tokens, with no competing answer and no semantic overlap with the query. Such noise pervades retrieval-augmented, tool-using, and long-context deployments, yet the failure has lacked a mechanistic account. We trace the corruption to the Intrusion Pathway, which starts with MLPs enriching both query-s",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "language model",
+        "prompt",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Structural and Representational Agency in LLM-Driven Timbre Generation and Interpolation",
+      "url": "https://arxiv.org/abs/2610.12532",
+      "source": "arXiv cs.HC",
+      "published_at": "Fri, 06 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2610.12532v2 Announce Type: replace-cross \nAbstract: Generative creative interfaces routinely report the user's position within a space of possibilities. Such displays imply that the quantities shown were measured from the artefact; in a growing class of systems they are instead predicted by a language model describing its own output, and the two are indistinguishable on screen. Most creative domains lack an agreed measurement against which such a self-report can be checked; audio admits o",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "generative"
+      ]
+    },
+    {
+      "title": "Octopus: One Brain, Many Branches for Latent-KV Multi-Agent Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2611.06956",
+      "source": "arXiv cs.LG",
+      "published_at": "Fri, 06 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.06956v1 Announce Type: new \nAbstract: Multi-agent LLM systems explore in parallel by spawning sub-agents with isolated context windows, whereas single-agent systems append every search and verification step into one growing trajectory. However, existing multi-agent frameworks duplicate prefix KV caches across branches, exchange findings by re-prefilling text summaries, and flatten or drop cross-branch dependencies during reinforcement learning (RL).\n  We introduce Octopus, a single-mo",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "context window"
+      ]
+    },
+    {
+      "title": "A Night at the LLM Zoo: Data Conditioned Flow Matching for Generating Pretrained LLM Weights",
+      "url": "https://arxiv.org/abs/2611.07103",
+      "source": "arXiv cs.LG",
+      "published_at": "Fri, 06 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.07103v1 Announce Type: new \nAbstract: A challenge to Weight Space Learning as it expands from task specific and vision models to Large Language Models (LLMs) is the absence of a well curated and analyzed LLM population. To address this, we train such a model zoo for application to Weight Space Generation by systematically varying the data mixture composition between web text, books, mathematics, coding, and French across populations of 51M, 124M, and 355M parameter GPT-2 Models, each ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "GPT",
+        "language model"
+      ]
+    },
+    {
+      "title": "Regulating Autonomous Mobility-on-Demand Operators with Fixed and Adaptive Penalties: A Multi-Agent Reinforcement Learning Approach",
+      "url": "https://arxiv.org/abs/2611.07122",
+      "source": "arXiv cs.LG",
+      "published_at": "Fri, 06 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.07122v1 Announce Type: new \nAbstract: Profit-maximizing Autonomous Mobility-on-Demand (AMoD) operators may exploit consumer surplus through excessive prices and underserve less profitable regions by relocating vehicles away from them. We study how penalty-based regulation of an AMoD operator in a multimodal mobility system can limit surge pricing and improve regional service availability. We model regulation as an outer control loop that acts on a learning-based operator. Static regul",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "autonomous",
+        "multimodal"
+      ]
+    },
+    {
+      "title": "Compositional Unalignment: Auditing Safety in Large Vision-Language Models",
+      "url": "https://arxiv.org/abs/2611.07216",
+      "source": "arXiv cs.LG",
+      "published_at": "Fri, 06 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.07216v1 Announce Type: new \nAbstract: Large vision-language models (LVLMs) are vulnerable to compositional harm: an image and a prompt that are benign in isolation become harmful through the model's cross-modal reasoning. Recent alignment methods report strong scores on compositional safety benchmarks, but an LLM judge only measures observed behavior and cannot reveal how robustly safety is integrated into the model. We argue that un-alignment provides a complementary audit of alignme",
+      "score": 8.0,
+      "keywords_matched": [
+        "LLM",
+        "language model",
+        "prompt",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "mlflow / mlflow",
+      "url": "https://github.com/mlflow/mlflow",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controlling costs and managing access to models and data. [8 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "open source"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-11-07\n\n这里是今天为你扫描并提炼的 4 项最具“发明家体质”的技术雷达：\n\n---\n\n## 1. Skillware：把 Prompt 炼成确定性可执行“外骨骼”\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2611.07652\n- **一句话解释**：主张彻底放弃让 Agent 靠 Prompt 裸猜 API 和手搓代码，提出一套将能力打包为自包含、可审计、确定性执行的“技能软硬件（Skillware）”规范。\n- **它为什么重要**：直击当前 Agent 系统的最大痛点——靠动态 Prompt 生成不仅烧 token、吃上下文，而且极其脆弱。将“能力”从“提示词逻辑”剥离成“确定性微容器/标准契约”，是 Agent 工程走向工业级的标志。\n- **技术趋势标签**：Agent-as-Code / 确定性执行 / Spec-driven / 模块化工具链\n- **可复用模式**：**“装配制而非提示制（Equip, Don't Prompt）”**。Agent 核心只负责路由和调度意图，具体状态流转与 API 约束由固定 Schema 与确定性运行时托管。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：把一个复杂的个人工作流（如整理日记+打标签+同步Notion）写成一个带严格 JSON-Schema、自带本地单元测试的单文件“Skill 包”，只给 LLM 提供一个该包的 CLI 调用接口。\n  2. **一个中型项目**：构建一个面向个人开发者的“Agent 义肢商店（Cyberware for Agents）”，用户像装 Chrome 插件一样给 Cursor 或本地 Agent 挂载经过形式化验证的技能模块。\n  3. **一个艺术/游戏/叙事方向**：做一款文字 RPG 引擎，NPC 的性格与能力不是写在 System Prompt 里的文字，而是具象化的“魔导符文（Skillware）”，玩家可以通过偷窃或组合符文，确定性地改写 NPC 的世界交互规则。\n- **对我项目的启发**：在设计 Spec-driven 系统或自动化流程时，停止把验证规则塞进上下文，将其抽象成具备前置/后置校验（Pre/Post-condition）的 Skillware 规范。\n- **今天是否值得深入研究**：是\n- **建议行动**：做demo\n\n---\n\n## 2. Cross-Agent Dafny Formalization：规格制定者与实现者的对抗博弈\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2611.07073\n- **一句话解释**：提出了一个“双 Agent + Dafny 形式化验证”协议：Specifier Agent 负责将需求翻译成 Dafny 谓词规格，Implementer Agent 编写代码，再通过数学证明器自动验证两者是否一致。\n- **它为什么重要**：解决了 Spec-driven development 最核心的信任危机——LLM 自己写代码、自己写测试往往会“自圆其谎”（Verification is not Agreement）。通过逻辑形式化语言 Dafny 隔离“规则制定”与“代码实现”，实现了真正的机器自洽闭环。\n- **技术趋势标签**：形式化验证 / Spec-driven / 多智能体博弈 / 符号AI与LLM结合\n- **可复用模式**：**“双盲规范校验器（Specifier-Implementer Split）”**。让 Agent A 只读需求产出断言（Contracts），Agent B 只看断言写实现，由形式化编译器当无私裁判。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：用两个 Claude 会话，A 专门把一段自然语言游戏规则写成 Python `assert` 逻辑或 Pydantic 模型，B 专门写游戏逻辑，跑通过即判定成功，观察能拦截多少隐性 bug。\n  2. **一个中型项目**：开发一个“无谎言代码生成器”，支持针对数据处理流水线自动生成 Dafny/Z3 形式化契约，确保清洗和变换逻辑数学级正确。\n  3. **一个艺术/游戏/叙事方向**：设计一个“律法世界解谜游戏”。世界被一组严格的形式化规则约束（如“重力不可逆”、“时间单向流动”），玩家通过 Agent 去世界法典里找逻辑漏洞（Proof Hole），利用规则冲突引发“物理引擎故障”来通关。\n- **对我项目的启发**：极其切中 Spec-driven 的灵魂。Spec 不该是自然语言文档，必须是“不可抵赖的机器断言”，开发 Agent 的核心目标是缩小 Spec 与 Code 的语义漂移。\n- **今天是否值得深入研究**：是\n- **建议行动**：做demo\n\n---\n\n## 3. CST-Bench：让多模态模型推演“如果我推倒这块多米诺骨牌”\n- **来源**：arXiv cs.AI\n- **链接**：https://arxiv.org/abs/2611.07541\n- **一句话解释**：首个针对 MLLM（多模态大模型）在物体被移动、替换等空间干预下，测试其对“动态因果空间状态转移（Counterfactual Spatial Transition）”推演能力的评测基准与蒸馏方法。\n- **它为什么重要**：现有视觉模型大多只具备静态感知能力（“图里有什么”），却无法在脑海中运行“物理世界状态机”（“若把A挪到B上面，C会不会塌”）。这是让 AI 参与 3D 游戏设计、Minecraft 自动化搭建和物理交互的核心瓶颈。\n- **技术趋势标签**：空间智能（Spatial AI） / 世界模型（World Models） / 因果推理 / 游戏生成系统\n- **可复用模式**：**“因果图空间状态追踪（Causal Transition Tracking）”**。不再让模型把场景视为像素序列，而是将空间抽象为由物理接触和位置关系构成的动态图谱，根据动作做图重写。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：构建一个基于 ASCII/网格的简单 Minecraft 积木房间，给 GPT-4V 发送一张图并提问：“如果移除方块 [2, 3]，哪几个方块会因为失去重力支撑掉落？”，测试当前模型的物理推断上限。\n  2. **一个中型项目**：做一个 Minecraft / 3D 场景的“因果建造助手”——你在前端拖放方块，Agent 实时推演结构稳定性，并在空中投射虚幻的“应力崩塌预测轨迹”。\n  3. **一个艺术/游戏/叙事方向**：一个“不可逆因果迷宫”生成器。玩家输入故事梗概，系统生成一个每个动作都会彻底摧毁/重构局部拓扑的关卡，叙事线索与物理坍塌完全绑定。\n- **对我项目的启发**：在做世界生成与自动化系统时，必须引入“世界状态差分器（State Diff Engine）”，不能依赖纯 Vision-LLM 脑补物理，需用轻量状态机辅助其因果推理。\n- **今天是否值得深入研究**：是\n- **建议行动**：试用\n\n---\n\n## 4. Timbre Agency：生成式界面里“伪造”的坐标系与机器自主性\n- **来源**：arXiv cs.HC\n- **链接**：https://arxiv.org/abs/2610.12532\n- **一句话解释**：揭露了当前生成式创意界面中一个荒诞的 HCI 现象：界面上呈现给创作者的“声音/设计潜空间坐标”，往往不是从真实数据计算出的物理量，而是 LLM“脑补描述”出来的虚拟幻觉，探讨由此引发的虚假控制感。\n- **它为什么重要**：站在艺术、设计与 HCI 的交叉点，反思了我们日常用的“AI 调色盘/潜空间滑块”到底是工具还是幻象。对于做 Creative Tool 的人，这直接颠覆了传统的 UI/UX 映射哲学。\n- **技术趋势标签**：HCI / 创意工具（Creative Tools） / 潜空间可视化 / 批判性设计（Critical Design）\n- **可复用模式**：**“幻觉界面的反讽与重构（Perceptual Discrepancy UI）”**。显式地区分系统“测得的属性（Ground Truth）”与模型“宣称的属性（Model Imagination）”，并利用这种落差作为创意媒介。\n- **疯狂发明家灵感**：\n  1. **一个小实验**：做一个 p5.js / Web 界面，界面上有两个二维探索点：一个映射真实的音频 FFT 特征，一个映射 LLM 对音乐情感的形容词向量，把它们连成弹簧，让用户看“声学事实”与“AI 审美偏见”之间的拉扯。\n  2. **一个中型项目**：开发一个面向声音设计师的“反直觉音色发生器”，故意暴露并放大 LLM 语义与 DSP 声音合成器之间的空间畸变，让创作者在“不可控的缝隙”中捕获灵感。\n  3. **一个艺术/游戏/叙事方向**：制作一个装置或网页互动体验——《虚假坐标系制图师》。玩家在一个看似精确的地图界面上点击探索，系统一步步揭露地图上的山川经纬全部是语言模型根据上一句话编造出来的“自洽假象”。\n- **对我项目的启发**：做生成式创作工具时，不要做传统的“伪控制滑块”。要么给创作者 100% 确定性的结构化手柄，要么就坦率地把 AI 的“不可控性”戏剧化，变成一种生成式审美体验。\n- **今天是否值得深入研究**：是\n- **建议行动**：收藏\n\n---\n\n## 今日模式总结\n\n1. **去 Prompt 化，走向确定性契约（From Prompt to Contract）**：从 Skillware 到 Dafny 验证，行业正在对自然语言 Prompt 的脆弱性产生审美疲劳，将能力封装为严苛规范、用数学工具/执行容器兜底正在成为硬核工作流的共识。\n2. **因果与物理状态的显式化建模（Explicit State vs. Implicit Hallucination）**：无论是 3D 空间反事实推理，还是音色生成的 HCI 界面反思，都在强调：模型内部隐式表征不可信，必须构建显式的状态机（State Machine）或感知校准层。\n\n---\n\n## 今日可做小实验：2小时原型\n\n- **项目名**：Contract-Craft（基于前置/后置条件的方块状态转移器）\n- **输入**：一段自然语言动作（例如：“把底座右侧的金块拆下来，塞到左侧漂浮的石阶下方”） + 当前空间 JSON 网格状态。\n- **输出**：\n  1. 形式化 Spec（包含 `precondition`: 方块是否存在；`postcondition`: 重力校验及新坐标）；\n  2. 验证后的有效下一帧世界状态（或阻断报错及原因）。\n- **技术栈**：Python + Pydantic + 简易 3D/ASCII 打印脚本 + 任意 LLM API（通过 JSON 模式输出）。\n- **第一步怎么做**：\n  用 Pydantic 写两个数据类：`WorldState`（一个 5x5x5 的空间字典）和 `ActionSpec`（包含 `action_type`, `target_coord`, `pre_conditions: List[str]`）。让 LLM 只负责把自然语言指令解析成 `ActionSpec`，随后由本地 Python 解释器执行判定，验证它是否比直接让 LLM 猜“接下来方块在哪”更稳定可靠。",
+  "gemini_success": true,
+  "telegram_sent": false,
+  "telegram_status": "failed",
+  "telegram_reason": "401 Client Error: Unauthorized for url: https://api.telegram.org/bot8650722899:AAHUD-aqNDB7NwiPiGq3R22MVp77Cr_5GEQ/sendMessage"
+}
