@@ -1,0 +1,260 @@
+{
+  "date": "2026-11-08",
+  "candidates": [
+    {
+      "title": "NVIDIA / auto-ontology",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows. [1,155 stars today]",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "workflow",
+        "reasoning",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "cheaper-inference / OmniRoute",
+      "url": "https://github.com/cheaper-inference/OmniRoute",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 900+ contributors [322 stars today]",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "Claude",
+        "Gemini",
+        "Copilot",
+        "GPT",
+        "inference"
+      ]
+    },
+    {
+      "title": "anthropics / claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. [129 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "workflow"
+      ]
+    },
+    {
+      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "source": "Hacker News",
+      "published_at": "Sat, 07 Nov 2026 20:45:32 +0000",
+      "description": "Article URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again Comments URL: https://news.ycombinator.com/item?id=50407882 Points: 146 # Comments: 104",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude"
+      ]
+    },
+    {
+      "title": "awslabs / aidlc-workflows",
+      "url": "https://github.com/awslabs/aidlc-workflows",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents [51 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "workflow"
+      ]
+    },
+    {
+      "title": "stablyai / orca",
+      "url": "https://github.com/stablyai/orca",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime. [931 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude"
+      ]
+    },
+    {
+      "title": "vercel-labs / agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "Browser automation CLI for AI agents [190 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "automation"
+      ]
+    },
+    {
+      "title": "Every Mac comes with an (undocumented) family member classifier",
+      "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+      "source": "Hacker News Best",
+      "published_at": "Sat, 07 Nov 2026 09:46:03 +0000",
+      "description": "Article URL: https://8rank.ai/game/apple-intelligence-personal-knowledge-graph Comments URL: https://news.ycombinator.com/item?id=50403097 Points: 577 # Comments: 330",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "game"
+      ]
+    },
+    {
+      "title": "Gemini Omni 1.2 Flash",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "source": "Hacker News Best",
+      "published_at": "Fri, 06 Nov 2026 13:35:27 +0000",
+      "description": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/ Comments URL: https://news.ycombinator.com/item?id=50392118 Points: 359 # Comments: 249",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "Gemini"
+      ]
+    },
+    {
+      "title": "aws / agent-toolkit-for-aws",
+      "url": "https://github.com/aws/agent-toolkit-for-aws",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS [8 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "bobeff / open-source-games",
+      "url": "https://github.com/bobeff/open-source-games",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "A list of open source games. [143 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "game",
+        "open source"
+      ]
+    },
+    {
+      "title": "meta / astryx",
+      "url": "https://github.com/meta/astryx",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "An open source design system that's fully customizable and agent ready [96 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "agent",
+        "open source"
+      ]
+    },
+    {
+      "title": "elder-plinius / T3MP3ST",
+      "url": "https://github.com/elder-plinius/T3MP3ST",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness [38 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "agent",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "Marker-Inc-Korea / AutoRAG",
+      "url": "https://github.com/Marker-Inc-Korea/AutoRAG",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Your Personal Librarian Agent. Ask anything on your computer, organize files, remember important info and files. [25 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "agent",
+        "RAG"
+      ]
+    },
+    {
+      "title": "Fission-AI / OpenSpec",
+      "url": "https://github.com/Fission-AI/OpenSpec",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Spec-driven development (SDD) for AI coding assistants. [82 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "spec-driven"
+      ]
+    },
+    {
+      "title": "mattpocock / skills",
+      "url": "https://github.com/mattpocock/skills",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "Skills for Real Engineers. Straight from my .agents directory. [1,100 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
+      "url": "https://eyesrhythm.com/",
+      "source": "Hacker News",
+      "published_at": "Sat, 07 Nov 2026 21:47:47 +0000",
+      "description": "Profession like software engineer, mechanical / graphics designer takes a lot of strain on your eyes, observing minute details for hours and hours on screen can significantly reduce the blink rate which you might not even notice until it gets irreversibly painful, leaving you with dry eyes. I am already a victim of it, working 20 years as a research engineer in computer vision, zooming into pixel level details to hand craft algorithms. Now the doctors says its only regular use of lubricating dro",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    },
+    {
+      "title": "The end of Microsoft Research's AI Frontiers group",
+      "url": "https://hunch.net/?p=13764006",
+      "source": "Hacker News",
+      "published_at": "Sat, 07 Nov 2026 18:02:17 +0000",
+      "description": "https://archive.is/AaY5O https://businessexaminer.ca/victoria-articles/item/microsoft... Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 359 # Comments: 206",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+      "url": "https://github.com/hedgerow-dev/coldframe",
+      "source": "Hacker News",
+      "published_at": "Sat, 07 Nov 2026 17:27:30 +0000",
+      "description": "I built Coldframe, a honeypot that pretends to be a supermarket refrigeration controller. Inspired by the events on industrial fridge installations in the past weeks, I wanted to see what people would try against a convincing fake. To learn more about this I built a honeypot that resembled perfectly the Danfoss AK-SM 800A and Dixell XWEB interfaces. Both of them are recognized on Shodan as real ones (an not as honeypots). It’s one Python file using only the standard library, and it builds on epp",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    },
+    {
+      "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+      "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
+      "source": "Hacker News",
+      "published_at": "Sat, 07 Nov 2026 17:19:00 +0000",
+      "description": "Article URL: https://maxxbench.unlap.ai/research/why-maxxbench/ Comments URL: https://news.ycombinator.com/item?id=50406222 Points: 187 # Comments: 55",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-11-08\n\n> ⚠️ AI 分析失败：HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=90)\n\n## 今日候选内容（原始抓取，未经 AI 分析）\n\n### NVIDIA / auto-ontology\n- 来源：GitHub Trending Python\n- 链接：https://github.com/NVIDIA/auto-ontology\n- 摘要：Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows. [1,155 stars today]\n- 关键词：AI, agent, LLM, workflow, reasoning, retrieval\n\n### cheaper-inference / OmniRoute\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/cheaper-inference/OmniRoute\n- 摘要：Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman\n- 关键词：AI, Claude, Gemini, Copilot, GPT, inference\n\n### anthropics / claude-code\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/anthropics/claude-code\n- 摘要：Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. [129 star\n- 关键词：AI, agent, Claude, workflow\n\n### Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files\n- 来源：Hacker News\n- 链接：https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again\n- 摘要：Article URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again Comments URL: https://news.ycombinator.com/item?id=50407882 Points: 146 # Comments: 104\n- 关键词：AI, agent, Claude\n\n### awslabs / aidlc-workflows\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/awslabs/aidlc-workflows\n- 摘要：AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents [51 stars today]\n- 关键词：AI, agent, workflow\n\n### stablyai / orca\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/stablyai/orca\n- 摘要：Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime. [931 stars today]\n- 关键词：AI, agent, Claude\n\n### vercel-labs / agent-browser\n- 来源：GitHub Trending\n- 链接：https://github.com/vercel-labs/agent-browser\n- 摘要：Browser automation CLI for AI agents [190 stars today]\n- 关键词：AI, agent, automation\n\n### Every Mac comes with an (undocumented) family member classifier\n- 来源：Hacker News Best\n- 链接：https://8rank.ai/game/apple-intelligence-personal-knowledge-graph\n- 摘要：Article URL: https://8rank.ai/game/apple-intelligence-personal-knowledge-graph Comments URL: https://news.ycombinator.com/item?id=50403097 Points: 577 # Comments: 330\n- 关键词：AI, game\n\n### Gemini Omni 1.2 Flash\n- 来源：Hacker News Best\n- 链接：https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/\n- 摘要：Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/ Comments URL: https://news.ycombinator.com/item?id=50392118 Points: 359 # Comments: 249\n- 关键词：AI, Gemini\n\n### aws / agent-toolkit-for-aws\n- 来源：GitHub Trending Python\n- 链接：https://github.com/aws/agent-toolkit-for-aws\n- 摘要：Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS [8 stars today]\n- 关键词：AI, agent\n\n### bobeff / open-source-games\n- 来源：GitHub Trending Python\n- 链接：https://github.com/bobeff/open-source-games\n- 摘要：A list of open source games. [143 stars today]\n- 关键词：game, open source\n\n### meta / astryx\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/meta/astryx\n- 摘要：An open source design system that's fully customizable and agent ready [96 stars today]\n- 关键词：agent, open source\n\n### elder-plinius / T3MP3ST\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/elder-plinius/T3MP3ST\n- 摘要：autonomous red teaming platform; multi-agent offensive-security meta-harness [38 stars today]\n- 关键词：agent, autonomous\n\n### Marker-Inc-Korea / AutoRAG\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/Marker-Inc-Korea/AutoRAG\n- 摘要：Your Personal Librarian Agent. Ask anything on your computer, organize files, remember important info and files. [25 stars today]\n- 关键词：agent, RAG\n\n### Fission-AI / OpenSpec\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/Fission-AI/OpenSpec\n- 摘要：Spec-driven development (SDD) for AI coding assistants. [82 stars today]\n- 关键词：AI, spec-driven\n\n---\n\n> 请配置 `GEMINI_API_KEY` 后重新运行以获取完整分析。",
+  "gemini_success": false,
+  "telegram_sent": false,
+  "telegram_status": "failed",
+  "telegram_reason": "401 Client Error: Unauthorized for url: https://api.telegram.org/bot8650722899:AAHUD-aqNDB7NwiPiGq3R22MVp77Cr_5GEQ/sendMessage"
+}
