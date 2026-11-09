@@ -1,0 +1,248 @@
+{
+  "date": "2026-11-09",
+  "candidates": [
+    {
+      "title": "neuml / txtai",
+      "url": "https://github.com/neuml/txtai",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows [56 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "workflow",
+        "language model"
+      ]
+    },
+    {
+      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "source": "Hacker News Best",
+      "published_at": "Sat, 07 Nov 2026 20:45:32 +0000",
+      "description": "Article URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again Comments URL: https://news.ycombinator.com/item?id=50407882 Points: 580 # Comments: 393",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude"
+      ]
+    },
+    {
+      "title": "snarktank / ralph",
+      "url": "https://github.com/snarktank/ralph",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. [18 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "vercel-labs / agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "Browser automation CLI for AI agents [815 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "automation"
+      ]
+    },
+    {
+      "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+      "source": "Hacker News",
+      "published_at": "Sun, 08 Nov 2026 18:16:07 +0000",
+      "description": "Article URL: https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers Comments URL: https://news.ycombinator.com/item?id=50415628 Points: 576 # Comments: 348",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "Claude"
+      ]
+    },
+    {
+      "title": "Every Mac comes with an (undocumented) family member classifier",
+      "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+      "source": "Hacker News Best",
+      "published_at": "Sat, 07 Nov 2026 09:46:03 +0000",
+      "description": "Article URL: https://8rank.ai/game/apple-intelligence-personal-knowledge-graph Comments URL: https://news.ycombinator.com/item?id=50403097 Points: 844 # Comments: 446",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "game"
+      ]
+    },
+    {
+      "title": "BigBodyCobain / Shadowbroker",
+      "url": "https://github.com/BigBodyCobain/Shadowbroker",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now. [16 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "SWE-agent / mini-swe-agent",
+      "url": "https://github.com/SWE-agent/mini-swe-agent",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores >74% on SWE-bench verified! [86 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "meta / astryx",
+      "url": "https://github.com/meta/astryx",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "An open source design system that's fully customizable and agent ready [875 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "agent",
+        "open source"
+      ]
+    },
+    {
+      "title": "kortix-ai / CompanyOS",
+      "url": "https://github.com/kortix-ai/CompanyOS",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Kortix CompanyOS – the open-source operating system for your company. Multiplayer AI agents, your company as code, sovereign on your infrastructure or ours. [72 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "ParadevAI / Paradev",
+      "url": "https://github.com/ParadevAI/Paradev",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Paradev is an open-source Codex App and Conductor alternative. Orchestrate an army coding agents in parallel with your own subscriptions. [39 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "poco-ai / Agentero",
+      "url": "https://github.com/poco-ai/Agentero",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Unified research workspace for humans & agents — PDF Q&A with citations, Vault, writing. 为人与 Agent 协作的科研工作台；补齐 Zotero 时代的人机上下文断点。 [145 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "humanlayer / 12-factor-agents",
+      "url": "https://github.com/humanlayer/12-factor-agents",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers? [19 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "agent",
+        "LLM"
+      ]
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+      "url": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
+      "source": "Hacker News",
+      "published_at": "Sun, 08 Nov 2026 22:20:09 +0000",
+      "description": "Article URL: https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company Comments URL: https://news.ycombinator.com/item?id=50418016 Points: 305 # Comments: 314",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    },
+    {
+      "title": "The Web Is More Than Enough, by Paul Ford",
+      "url": "https://ftrain.com/aboard-the-web-is-more-than-enough",
+      "source": "Hacker News",
+      "published_at": "Sun, 08 Nov 2026 19:48:32 +0000",
+      "description": "Article URL: https://ftrain.com/aboard-the-web-is-more-than-enough Comments URL: https://news.ycombinator.com/item?id=50416456 Points: 64 # Comments: 34",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    },
+    {
+      "title": "How I Fight AI Brain Fry",
+      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+      "source": "Hacker News",
+      "published_at": "Sun, 08 Nov 2026 19:37:42 +0000",
+      "description": "Article URL: https://sergeykuhne.com/blog/fighting-ai-brain-fry Comments URL: https://news.ycombinator.com/item?id=50416363 Points: 143 # Comments: 123",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+      "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+      "source": "Hacker News",
+      "published_at": "Sun, 08 Nov 2026 19:20:32 +0000",
+      "description": "Article URL: https://mailroute.net/blog/outlook-rejecting-email-without-dmarc Comments URL: https://news.ycombinator.com/item?id=50416158 Points: 224 # Comments: 180",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    },
+    {
+      "title": "RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC",
+      "url": "https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/",
+      "source": "Hacker News Best",
+      "published_at": "Sun, 08 Nov 2026 17:20:29 +0000",
+      "description": "Article URL: https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/ Comments URL: https://news.ycombinator.com/item?id=50415172 Points: 212 # Comments: 103",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    },
+    {
+      "title": "OpenAI raises $11B at a $1.25T valuation",
+      "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
+      "source": "Hacker News Best",
+      "published_at": "Sun, 08 Nov 2026 14:49:23 +0000",
+      "description": "Article URL: https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/ Comments URL: https://news.ycombinator.com/item?id=50413822 Points: 179 # Comments: 199",
+      "score": 2.0,
+      "keywords_matched": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Goodbye Claude, hello Pi",
+      "url": "https://caleb.software/posts/claude-to-pi.html",
+      "source": "Hacker News Best",
+      "published_at": "Sun, 08 Nov 2026 03:11:48 +0000",
+      "description": "Article URL: https://caleb.software/posts/claude-to-pi.html Comments URL: https://news.ycombinator.com/item?id=50410107 Points: 681 # Comments: 424",
+      "score": 2.0,
+      "keywords_matched": [
+        "Claude"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-11-09\n\n> ⚠️ AI 分析失败：HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=90)\n\n## 今日候选内容（原始抓取，未经 AI 分析）\n\n### neuml / txtai\n- 来源：GitHub Trending Python\n- 链接：https://github.com/neuml/txtai\n- 摘要：💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows [56 stars today]\n- 关键词：AI, LLM, workflow, language model\n\n### Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files\n- 来源：Hacker News Best\n- 链接：https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again\n- 摘要：Article URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again Comments URL: https://news.ycombinator.com/item?id=50407882 Points: 580 # Comments: 393\n- 关键词：AI, agent, Claude\n\n### snarktank / ralph\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/snarktank/ralph\n- 摘要：Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. [18 stars today]\n- 关键词：AI, agent, autonomous\n\n### vercel-labs / agent-browser\n- 来源：GitHub Trending\n- 链接：https://github.com/vercel-labs/agent-browser\n- 摘要：Browser automation CLI for AI agents [815 stars today]\n- 关键词：AI, agent, automation\n\n### Goldman Sachs is pulling Claude Code from its bankers and traders\n- 来源：Hacker News\n- 链接：https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers\n- 摘要：Article URL: https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers Comments URL: https://news.ycombinator.com/item?id=50415628 Points: 576 # Comments: 348\n- 关键词：AI, Claude\n\n### Every Mac comes with an (undocumented) family member classifier\n- 来源：Hacker News Best\n- 链接：https://8rank.ai/game/apple-intelligence-personal-knowledge-graph\n- 摘要：Article URL: https://8rank.ai/game/apple-intelligence-personal-knowledge-graph Comments URL: https://news.ycombinator.com/item?id=50403097 Points: 844 # Comments: 446\n- 关键词：AI, game\n\n### BigBodyCobain / Shadowbroker\n- 来源：GitHub Trending Python\n- 链接：https://github.com/BigBodyCobain/Shadowbroker\n- 摘要：Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously un\n- 关键词：AI, agent\n\n### SWE-agent / mini-swe-agent\n- 来源：GitHub Trending Python\n- 链接：https://github.com/SWE-agent/mini-swe-agent\n- 摘要：The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores >74% on SWE-bench verified! [86 stars today]\n- 关键词：AI, agent\n\n### meta / astryx\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/meta/astryx\n- 摘要：An open source design system that's fully customizable and agent ready [875 stars today]\n- 关键词：agent, open source\n\n### kortix-ai / CompanyOS\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/kortix-ai/CompanyOS\n- 摘要：Kortix CompanyOS – the open-source operating system for your company. Multiplayer AI agents, your company as code, sovereign on your infrastructure or ours. [72 stars today]\n- 关键词：AI, agent\n\n### ParadevAI / Paradev\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/ParadevAI/Paradev\n- 摘要：Paradev is an open-source Codex App and Conductor alternative. Orchestrate an army coding agents in parallel with your own subscriptions. [39 stars today]\n- 关键词：AI, agent\n\n### poco-ai / Agentero\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/poco-ai/Agentero\n- 摘要：Unified research workspace for humans & agents — PDF Q&A with citations, Vault, writing. 为人与 Agent 协作的科研工作台；补齐 Zotero 时代的人机上下文断点。 [145 stars today]\n- 关键词：AI, agent\n\n### humanlayer / 12-factor-agents\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/humanlayer/12-factor-agents\n- 摘要：What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers? [19 stars today]\n- 关键词：agent, LLM\n\n### Nvidia CEO Jensen Huang's letter to staff about affair\n- 来源：Hacker News\n- 链接：https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company\n- 摘要：Article URL: https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company Comments URL: https://news.ycombinator.com/item?id=50418016 Points: 305 # Comments: 314\n- 关键词：AI\n\n### The Web Is More Than Enough, by Paul Ford\n- 来源：Hacker News\n- 链接：https://ftrain.com/aboard-the-web-is-more-than-enough\n- 摘要：Article URL: https://ftrain.com/aboard-the-web-is-more-than-enough Comments URL: https://news.ycombinator.com/item?id=50416456 Points: 64 # Comments: 34\n- 关键词：AI\n\n---\n\n> 请配置 `GEMINI_API_KEY` 后重新运行以获取完整分析。",
+  "gemini_success": false,
+  "telegram_sent": false,
+  "telegram_status": "failed",
+  "telegram_reason": "401 Client Error: Unauthorized for url: https://api.telegram.org/bot8650722899:AAHUD-aqNDB7NwiPiGq3R22MVp77Cr_5GEQ/sendMessage"
+}
