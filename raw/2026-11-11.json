@@ -1,0 +1,244 @@
+[
+  {
+    "title": "homeassistant-ai / ha-mcp",
+    "url": "https://github.com/homeassistant-ai/ha-mcp",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants. [790 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "Claude",
+      "GPT"
+    ]
+  },
+  {
+    "title": "google-labs-code / stitch-skills",
+    "url": "https://github.com/google-labs-code/stitch-skills",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor. [12 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "agent",
+      "Claude",
+      "Gemini"
+    ]
+  },
+  {
+    "title": "vercel-labs / agent-browser",
+    "url": "https://github.com/vercel-labs/agent-browser",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Browser automation CLI for AI agents [780 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "automation"
+    ]
+  },
+  {
+    "title": "What objective is reasoning solving?",
+    "url": "https://alexwang.ai/posts/reasoning-as-pathfinding/",
+    "source": "Hacker News",
+    "published_at": "Tue, 10 Nov 2026 19:25:14 +0000",
+    "description": "Article URL: https://alexwang.ai/posts/reasoning-as-pathfinding/ Comments URL: https://news.ycombinator.com/item?id=50445013 Points: 98 # Comments: 42",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+    "url": "https://github.com/GoogleChrome/modern-web-guidance",
+    "source": "Hacker News",
+    "published_at": "Tue, 10 Nov 2026 18:01:15 +0000",
+    "description": "Browsers natively handle a lot of what used to take 50 lines of JS (or a dependency): `CSS.highlights` for text range highlighting without s everywhere, ` ` and showModal() give you backdrops and ideal focus management, `field-sizing` to auto-grow textareas as the user types.. (Something yesterday's ftrain post touched on [0]) Models know about some of these by name, but consistently won't default to using the platform-native solution and instead prefer the incumbent +JS based pattern.  We start",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "AI usage generates a fragile codebase",
+    "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+    "source": "Hacker News Best",
+    "published_at": "Tue, 10 Nov 2026 10:25:58 +0000",
+    "description": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 352 # Comments: 390",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "RAG"
+    ]
+  },
+  {
+    "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
+    "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+    "source": "Hacker News Best",
+    "published_at": "Mon, 09 Nov 2026 20:04:55 +0000",
+    "description": "Article URL: https://artificialanalysis.ai/models/claude-fable-5-2 Comments URL: https://news.ycombinator.com/item?id=50431144 Points: 371 # Comments: 268",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "Claude"
+    ]
+  },
+  {
+    "title": "Google Gemini routes personal Drive files and emails to human annotators",
+    "url": "https://github.com/thisisme6598/gemini_files/",
+    "source": "Hacker News Best",
+    "published_at": "Mon, 09 Nov 2026 18:24:38 +0000",
+    "description": "Article URL: https://github.com/thisisme6598/gemini_files/ Comments URL: https://news.ycombinator.com/item?id=50429426 Points: 714 # Comments: 147",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "Gemini"
+    ]
+  },
+  {
+    "title": "ashishpatel26 / 500-AI-Agents-Projects",
+    "url": "https://github.com/ashishpatel26/500-AI-Agents-Projects",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more. [126 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "opensandbox-group / OpenSandbox",
+    "url": "https://github.com/opensandbox-group/OpenSandbox",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents. [323 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "ZhuLinsen / daily_stock_analysis",
+    "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs. [960 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "LLM"
+    ]
+  },
+  {
+    "title": "rlaope / oh-my-hermes",
+    "url": "https://github.com/rlaope/oh-my-hermes",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "⚚ The ultrawork agent with AI coworkers wired into you [50 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "meta / astryx",
+    "url": "https://github.com/meta/astryx",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "An open source design system that's fully customizable and agent ready [3,108 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "agent",
+      "open source"
+    ]
+  },
+  {
+    "title": "garrytan / gbrain",
+    "url": "https://github.com/garrytan/gbrain",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain [462 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "WhiteTowerAI / ohmygame",
+    "url": "https://github.com/WhiteTowerAI/ohmygame",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "The open-source studio for making games with AI. Your own one-person game studio. Everything you need to make games with AI, in one app. Game canvas. Bring your own key. [170 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "game"
+    ]
+  },
+  {
+    "title": "upscayl / upscayl",
+    "url": "https://github.com/upscayl/upscayl",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows. [82 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "open source"
+    ]
+  },
+  {
+    "title": "a-ghorbani / pocketpal-ai",
+    "url": "https://github.com/a-ghorbani/pocketpal-ai",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "An app that brings language models directly to your phone. [43 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "language model"
+    ]
+  },
+  {
+    "title": "addyosmani / agent-skills",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Production-grade engineering skills for AI coding agents. [465 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "mattpocock / skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Skills for Real Engineers. Straight from my .agents directory. [1,225 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "AI is an information gateway. Audiences still don't want it making their news",
+    "url": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/",
+    "source": "Hacker News",
+    "published_at": "Wed, 11 Nov 2026 00:15:33 +0000",
+    "description": "Article URL: https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/ Comments URL: https://news.ycombinator.com/item?id=50448174 Points: 3 # Comments: 0",
+    "score": 2.0,
+    "keywords_matched": [
+      "AI"
+    ]
+  }
+]
