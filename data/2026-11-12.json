@@ -1,0 +1,290 @@
+{
+  "date": "2026-11-12",
+  "candidates": [
+    {
+      "title": "ChipOmni: A General-Purpose AI Agent for Electronic Design Automation",
+      "url": "https://arxiv.org/abs/2611.13020",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 11 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.13020v1 Announce Type: new \nAbstract: Electronic design automation (EDA) workflows remain highly fragmented, requiring engineers to coordinate heterogeneous representations, specialised software tools, and iterative verification across multiple design stages. Although large language models have brought more general reasoning and code-generation capabilities to EDA, many existing approaches remain focused on isolated tasks and struggle to plan, verify, and repair designs autonomously w",
+      "score": 16.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "workflow",
+        "automation",
+        "language model",
+        "autonomous",
+        "RAG",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "BuySideFlow: A Point-in-Time Benchmark for LLM Agents in Investment Research",
+      "url": "https://arxiv.org/abs/2611.12966",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 11 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.12966v1 Announce Type: new \nAbstract: Large language models (LLMs) can generate SQL and SQL--Python workflows for investment research, but ensuring point-in-time (PIT) validity remains challenging. Agents must enforce disclosure cutoffs and select the appropriate historical states and record versions throughout data retrieval and financial analysis. We introduce \\textsc{BuySideFlow}, a benchmark of 408 practitioner-derived Chinese-language tasks spanning equities, funds, fixed income,",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "workflow",
+        "language model",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Graph Visualizations in Prompts for Knowledge Graph Question Answering",
+      "url": "https://arxiv.org/abs/2611.12938",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 11 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.12938v1 Announce Type: new \nAbstract: We study when and how multimodal input improves knowledge graph question answering (KGQA) in large vision--language models. Using a controlled evaluation over 1,500 WebQSP and CWQ questions and six VLMs within a fixed KGQA pipeline, we compare text-only prompting against text-plus-graph visualization at the per-question level and analyze performance changes as a function of reasoning complexity, model size, and image layout. Adding a graph image y",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "language model",
+        "multimodal",
+        "prompt",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Explainable Iterative Data Visualization Refinement via an LLM Agent",
+      "url": "https://arxiv.org/abs/2604.15319",
+      "source": "arXiv cs.HC",
+      "published_at": "Wed, 11 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2604.15319v3 Announce Type: replace \nAbstract: Exploratory analysis of high-dimensional data relies on embedding the data into a low-dimensional space, based on which a visualization plot is produced to uncover meaningful structures and to communicate geometric and distributional data characteristics. Finding a suitable embedding algorithm configuration, particularly the hyperparameter setting, to produce a visualization plot that faithfully represents the underlying reality and encourages",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "RAG",
+        "embedding"
+      ]
+    },
+    {
+      "title": "AI Governance Should Prioritize Control and Knowledge Boundaries Over Limiting Intelligence",
+      "url": "https://arxiv.org/abs/2611.12941",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 11 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.12941v1 Announce Type: new \nAbstract: The rapid proliferation of autonomously acting AI agents makes the governance of agentic systems urgent. We propose the competence circuit, summarized as IKC + KC + C, that decomposes an agent's real-world impact into three pathways: intelligence-mediated discovery, procedural know-how, and direct control. Using the canonical fast-takeoff debate as a stress test, we formalize the conditions for intelligence-mediated fast takeoff as a conjunction j",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "autonomous",
+        "procedural"
+      ]
+    },
+    {
+      "title": "Physics2Weight: Direct Neural Network Architecture and Weight Generation from Physical Laws Using Large Language Models",
+      "url": "https://arxiv.org/abs/2611.12954",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 11 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.12954v1 Announce Type: new \nAbstract: Recent advances in large language models (LLMs) have enabled weight-space programming (WSP), which directly generates neural network weights without gradient-based optimization. However, extending WSP to physical problems remains challenging, particularly in achieving both solution accuracy and physical consistency. In this paper, we propose Physics2Weight (PtW), a framework that extends WSP to solving partial differential equations by directly ge",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "neural",
+        "language model"
+      ]
+    },
+    {
+      "title": "Embodied Science Agents: Making Embodied Experimental Design Learnable",
+      "url": "https://arxiv.org/abs/2611.12958",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 11 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.12958v1 Announce Type: new \nAbstract: Recent advances in large models have accelerated AI for Science toward agentic science, where AI agents autonomously conduct scientific discovery. Realising this vision requires closing the loop between computational reasoning and physical experimentation, positioning self-driving laboratories (SDLs) as critical enablers. However, existing SDLs exhibit a fundamental paradox: foundation model integration has increased linguistic sophistication whil",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "autonomous",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Activation-Guided Graph Retrieval for Cognitive Memory Reconstruction in Language Model Systems",
+      "url": "https://arxiv.org/abs/2611.13127",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 11 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.13127v1 Announce Type: new \nAbstract: Retrieval-augmented language model systems generally select context by query-conditioned relevance. We argue that long-lived AI systems require a second operator: activation-conditioned memory availability. We specify an architecture in which request and goal cues seed an authorized memory graph, activation and fan attenuation allocate a bounded traversal frontier, retrieved entities recursively emit cues, and a typed evidence graph is reconstruct",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "language model",
+        "memory",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "From Process Models to Composable Agentic Workflows: Combining BPMN, Agents and Enterprise Knowledge",
+      "url": "https://arxiv.org/abs/2611.13196",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 11 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.13196v1 Announce Type: new \nAbstract: LLM-based agents can reason, use tools and collaborate. However, coordinating increasingly complex agentic applications becomes difficult to understand, monitor and improve. Decisions distributed across prompts, tool calls and application logic make workflows implicit. We introduce **Recursive Capability Composition**, enabling agents to execute business processes and expose them as reusable Agentic Tools.\n  This paper presents a BPMN-based approa",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "workflow",
+        "prompt"
+      ]
+    },
+    {
+      "title": "Reliability of Claude Code as an Agentic AI Grading System for Handwritten University Exams",
+      "url": "https://arxiv.org/abs/2611.13217",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 11 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.13217v1 Announce Type: new \nAbstract: This study examines the reliability of Claude Code, an agentic deployment of the Claude Opus 4.6 large language model, as a grading system for handwritten university exams. Four research questions addressed agreement with expert human grading on total scores (RQ1), agreement across five question types from multiple choice to evaluative judgement (RQ2), consistency across two independent grading sessions one week apart (RQ3), and the accuracy of AI",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "language model"
+      ]
+    },
+    {
+      "title": "Decisions by Discrimination: Differential Evidence for Medical Reasoning",
+      "url": "https://arxiv.org/abs/2611.13233",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 11 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.13233v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly studied for clinical decision support, and medical question answering provides a testbed for evaluating this capability. In particular, medical multiple-choice questions (MCQs) reflect a core challenge in clinical decision-making: plausible options often share overlapping evidence, while only a few decisive factors distinguish the correct option from incorrect ones. However, existing retrieval-based an",
+      "score": 8.0,
+      "keywords_matched": [
+        "LLM",
+        "language model",
+        "reasoning",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "AI Isn't Getting Dumber, We're Getting Pickier: Rising Standards in Human Evaluation of Large Language Models",
+      "url": "https://arxiv.org/abs/2611.14333",
+      "source": "arXiv cs.HC",
+      "published_at": "Wed, 11 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.14333v1 Announce Type: new \nAbstract: Users often complain that AI assistants such as ChatGPT are getting worse. Some versions do change, but human evaluation leaves a second possibility untested: the people judging may change. We separate the two on Chatbot Arena, a public platform where people compare answers from two anonymous large language models (LLMs) and pick the better one or say both are bad. We study 1,260,967 blind votes cast from May 2023 to August 2024 on pairs of models",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "GPT",
+        "language model"
+      ]
+    },
+    {
+      "title": "AWS emulator",
+      "url": "https://github.com/aws/aws-emulator",
+      "source": "Hacker News",
+      "published_at": "Wed, 11 Nov 2026 18:21:38 +0000",
+      "description": "https://www.aboutamazon.com/news/aws/how-autonomous-ai-agent... https://www.allthingsdistributed.com/2026/11/aws-emulator-an... Comments URL: https://news.ycombinator.com/item?id=50456631 Points: 646 # Comments: 211",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
+      "url": "https://news.ycombinator.com/item?id=50455811",
+      "source": "Hacker News",
+      "published_at": "Wed, 11 Nov 2026 17:11:56 +0000",
+      "description": "Hi HN, we’re Alan and Akshay from Pomerado ( https://pomerado.ai/ ). We connect your agents to any website by turning sites into deterministic, self-healing APIs in minutes, fully self-serve. Agents are no longer limited by their intelligence, but rather by their ability to interact with systems. Airlines, banks, e-commerce, insurance portals, government sites, and legacy portals all lack APIs or MCPs and are common parts of personal assistant or business workflows. Agents instead rely on browse",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "workflow"
+      ]
+    },
+    {
+      "title": "EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery",
+      "url": "https://arxiv.org/abs/2611.12934",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 11 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.12934v1 Announce Type: new \nAbstract: While multimodal agents now carry out complex data analysis with tools, their ability to turn decades of satellite imagery into reliable land-change analysis, crucial for Earth observation science, remains unmeasured. Existing benchmarks fall short: they pose questions on curated images or give agents preprocessed inputs, leaving out the raw multi-sensor archives where such analysis begins. We introduce EarthRecord, a benchmark built on the raw re",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "multimodal"
+      ]
+    },
+    {
+      "title": "Tracing Psychometric Inference in Large Language Models",
+      "url": "https://arxiv.org/abs/2611.12937",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 11 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.12937v1 Announce Type: new \nAbstract: Do large language models represent psychological constructs internally, or do they only generate outputs that resemble psychometric structure? We address this question using a cross-persona paradigm across 14 model variants from two families (Llama 3 and Qwen 2.5, 0.5B-14B, base and instruct). Given responses on one psychological scale from real individuals (N = 272 Taiwanese university students), models predict responses on six other scales. At t",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "language model",
+        "inference"
+      ]
+    },
+    {
+      "title": "Agent Architecture Cost-Success Trade-offs: A Controlled Evaluation across Enterprise-Style SOPs",
+      "url": "https://arxiv.org/abs/2611.12953",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 11 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.12953v1 Announce Type: new \nAbstract: Enterprises increasingly use large language model agents to execute standard operating procedures (SOPs): long, branching, tool-intensive workflows. Yet there is little controlled evidence for choosing among competing agentic architectures. Holding the model, tasks, and tools fixed and varying only the architecture, we compare four designs (a function-calling single agent, a skill-augmented agent, centralized multi-agent orchestration, and a triag",
+      "score": 6.0,
+      "keywords_matched": [
+        "agent",
+        "workflow",
+        "language model"
+      ]
+    },
+    {
+      "title": "Monitoring One Channel Is Not Communication Control: Causal Evidence for Adaptive Reallocation of Joint Message--Route Codes",
+      "url": "https://arxiv.org/abs/2611.12959",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 11 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.12959v1 Announce Type: new \nAbstract: Monitoring a visible channel can change how learned agents communicate without removing why communication is useful. We test this distinction in an end-to-end game where a sender and receiver learn a discrete protocol and route policy without communication supervision. In two independent 20-seed batches, 20/20 and 19/20 protocols form. Online partial coverage increases shadow-route share over no monitoring by .701 [.574,.826] and .575 [.412,.737],",
+      "score": 6.0,
+      "keywords_matched": [
+        "agent",
+        "game",
+        "RAG"
+      ]
+    },
+    {
+      "title": "TrustMod-SM: A Multi-Axis Benchmark for Evaluating Trustworthiness of LLMs in Social Media Content Moderation",
+      "url": "https://arxiv.org/abs/2611.12970",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 11 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.12970v1 Announce Type: new \nAbstract: Large Language Models (LLMs) show strong potential for social media content moderation, but their trustworthiness beyond overall accuracy remains underexplored. We introduce TrustMod-SM, a benchmark of roughly 29,000 instances across eight datasets, to evaluate LLM moderators on five dimensions: trustfulness, fairness, safety, robustness, and context integrity. Evaluating 16 open-weight models (0.5B-284B parameters, spanning text-only and vision-l",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model"
+      ]
+    },
+    {
+      "title": "Seeing Is Not Believing: Counterfactual Lesion Erasure Teaches a Small Medical Vision-Language Agent to Report Only What the Image Shows",
+      "url": "https://arxiv.org/abs/2611.13006",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 11 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.13006v1 Announce Type: new \nAbstract: Medical vision-language models (VLMs) often report a finding because the question names it; standard benchmarks miss this. From public segmentation datasets we build counterfactual views without manual annotation: the lesion erased by inpainting, a same-shape control edit elsewhere, and unedited lesion-free images. The evidence sensitivity gap (ESG) is the rate of absent-or-refer answers after erasure minus the rate after the control edit; it is z",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "language model"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-11-12\n\n没问题！作为你的“疯狂发明家技术雷达”，我已为你精选出本周最“疯狂但可做”的技术动态，并转化为可执行的发明灵感。\n\n---\n\n## ChipOmni: A General-Purpose AI Agent for Electronic Design Automation\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2611.13020\n- 一句话解释：一个能处理电子设计自动化（EDA）流程的通用 AI Agent，能协调不同工具和表示，实现端到端的自动化设计。\n- 它为什么重要：EDA 流程复杂且碎片化，ChipOmni 尝试用一个 Agent 统一处理，极大地提高了设计效率和可维护性。这表明 Agent 正在渗透到更专业、更复杂的工程领域。\n- 技术趋势标签：AI Agent, Workflow Automation, EDA, LLM Tooling, Reasoning, Autonomous Systems\n- 可复用模式：Agentic orchestration of complex, multi-stage workflows; abstraction of heterogeneous tools and representations.\n- 疯狂发明家灵感：\n    1.  **一个小实验**：构建一个简单的“代码生成器 Agent”，输入一段功能描述（比如“生成一个 Python 函数来计算斐波那契数列”），Agent 调用工具（如 Astropy 或 NumPy 的相关库）并输出可执行代码。\n    2.  **一个中型项目**：创建一个“艺术品生成流程 Agent”，输入艺术风格描述和内容主题，Agent 自动调用 Stable Diffusion、Midjourney 等模型，并根据预设的规则（如色彩搭配、构图比例）进行迭代和优化，最终输出一系列符合要求的艺术作品。\n    3.  **一个艺术/游戏/叙事方向**：设计一个“动态世界生成 Agent”，在游戏或虚拟世界中，Agent 能够根据玩家的行为、游戏内事件或预设的叙事线索，自动生成新的地形、NPC 行为、任务线，甚至新的游戏机制，实现真正意义上的“活”的世界。\n- 对我项目的启发：Agent 可以不仅仅是执行指令，更能主动理解和协调复杂系统，这对于构建更智能的 Creative Tool 或 Spec-driven Development 流程非常有价值。\n- 今天是否值得深入研究：是\n- 建议行动：收藏\n\n---\n\n## BuySideFlow: A Point-in-Time Benchmark for LLM Agents in Investment Research\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2611.12966\n- 一句话解释：一个用于评估 LLM Agent 在投资研究中“时间点有效性”（Point-in-Time Validity）的基准测试，确保 Agent 在数据检索和分析时能遵循历史时间限制。\n- 它为什么重要：LLM Agent 在处理时序数据（如金融数据）时，必须严格遵守“过去”和“现在”的界限，否则分析结果会失真。BuySideFlow 强调了 Agent 在数据一致性和历史准确性方面的挑战。\n- 技术趋势标签：LLM Agents, Workflow, Time-Series Data, Data Retrieval, Financial Analysis, RAG\n- 可复用模式：Enforcing temporal constraints in agentic data retrieval and analysis; simulating real-world data access limitations.\n- 疯狂发明家灵感：\n    1.  **一个小实验**：创建一个“新闻回顾 Agent”，输入一个日期，Agent 只能检索该日期及之前的新闻，并总结出当天的重大事件。\n    2.  **一个中型项目**：构建一个“历史事件模拟器 Agent”，输入一个历史时期（例如 1929 年大萧条前夕），Agent 只能访问当时可用的信息（模拟数据），并尝试预测或解释当时的经济状况。\n    3.  **一个艺术/游戏/叙事方向**：设计一个“时间旅行叙事游戏”，玩家扮演一个需要在不同历史时间点进行信息收集和决策的角色。Agent 负责提供“当时”可获得的信息，并且根据玩家的决策，触发“历史”的改变（但 Agent 永远只能基于其“当前”时间点的知识进行推理）。\n- 对我项目的启发：在我的 Creative Coding 或游戏系统中，我可以模拟“信息过时”或“信息缺失”的场景，让 Agent 在这种限制下进行创作或决策，增加趣味性和挑战性。\n- 今天是否值得深入研究：是\n- 建议行动：收藏\n\n---\n\n## Explainable Iterative Data Visualization Refinement via an LLM Agent\n- 来源：arXiv cs.HC\n- 链接：https://arxiv.org/abs/2604.15319\n- 一句话解释：利用 LLM Agent 来辅助用户迭代式地改进数据可视化，并提供可解释的建议，帮助用户找到最佳的可视化配置。\n- 它为什么重要：数据可视化是理解复杂数据的重要手段，但找到最优的可视化配置往往需要经验和大量尝试。LLM Agent 的介入，不仅能自动化这个过程，还能解释其决策，降低了可视化设计的门槛。\n- 技术趋势标签：LLM Agent, Data Visualization, HCI, Explainable AI, Creative Tools, Iterative Development\n- 可复用模式：Agent-driven interactive refinement of creative outputs; explainable AI for design tools.\n- 疯狂发明家灵感：\n    1.  **一个小实验**：创建一个“代码审查 Agent”，输入一段 Python 代码，Agent 尝试找出潜在的 bug 或提出代码风格改进建议，并解释原因。\n    2.  **一个中型项目**：开发一个“交互式艺术生成器”，用户输入一个主题或情绪，Agent 推荐不同的颜色、形状、纹理组合，并解释为什么这些选择能传达特定的感受。用户可以不断调整，Agent 提供反馈和建议。\n    3.  **一个艺术/游戏/叙事方向**：设计一个“AI 叙事可视化工具”，用户输入故事大纲，Agent 自动生成故事板草图，并提供关于镜头角度、画面构图、色彩运用等方面的建议，解释这些选择如何增强故事的表现力。\n- 对我项目的启发：这直接启发了我关于 Creative Tool 的想法。将 LLM Agent 融入到我的 Creative Coding 或世界生成工具中，让 Agent 成为我的“智能助手”，提供设计建议、优化参数，甚至自动生成部分内容。\n- 今天是否值得深入研究：是\n- 建议行动：试用 / 做demo\n\n---\n\n## Physics2Weight: Direct Neural Network Architecture and Weight Generation from Physical Laws Using Large Language Models\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2611.12954\n- 一句话解释：使用 LLM 直接从物理定律生成神经网络的架构和权重，绕过传统的梯度优化过程。\n- 它为什么重要：这是一种全新的生成神经网络模型的方式，将物理世界的规律与 AI 模型训练联系起来，为 AI 在科学研究（AI for Science）领域开辟了新路径。它挑战了我们对模型训练的传统认知。\n- 技术趋势标签：LLM, Neural Networks, Weight-Space Programming, AI for Science, Physics-Informed AI, Generative Systems\n- 可复用模式：Generating complex systems (like neural networks) from high-level specifications (like physical laws); bypassing traditional iterative optimization.\n- 疯狂发明家灵感：\n    1.  **一个小实验**：尝试用 LLM 根据一个简单的物理公式（如 F=ma）生成一个极简的神经网络，输入是“力”和“质量”，输出是“加速度”。\n    2.  **一个中型项目**：构建一个“AI 音乐生成器”，输入乐理规则（如和声、节奏模式），LLM 直接生成神经网络模型，该模型能根据这些规则创作出新的音乐片段。\n    3.  **一个艺术/游戏/叙事方向**：设计一个“生成式物理模拟艺术装置”，用户输入一组基础的物理参数（如重力、弹性），LLM 生成一个能够模拟这些物理效果的神经网络，然后这个神经网络驱动一个视觉系统，生成动态的、具有物理特性的抽象艺术。\n- 对我项目的启发：这让我思考，是否能将“spec-driven development”的概念应用到更底层的模型生成上，而不是仅仅生成代码。例如，为我的游戏系统定义一套“游戏规则”或“世界法则”，然后用 LLM 直接生成实现这些规则的 AI 组件或游戏逻辑。\n- 今天是否值得深入研究：是\n- 建议行动：收藏\n\n---\n\n## From Process Models to Composable Agentic Workflows: Combining BPMN, Agents and Enterprise Knowledge\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2611.13196\n- 一句话解释：将业务流程模型（如 BPMN）与 LLM Agent 和企业知识结合，创建可组合的 Agentic 工作流，使复杂的 Agent 应用更容易理解、监控和改进。\n- 它为什么重要：随着 Agent 应用越来越复杂，如何管理和协调它们成为关键问题。该研究提出了一种将传统流程建模与 Agentic 能力结合的方式，为构建更健壮、可扩展的 Agentic 系统提供了框架。\n- 技术趋势标签：Agent, LLM, Workflow, BPMN, Enterprise Automation, Composable Systems, Spec-driven Development\n- 可复用模式：Hierarchical decomposition and composition of agentic tasks; integrating formal process models with flexible AI agents.\n- 疯狂发明家灵感：\n    1.  **一个小实验**：为一个简单的待办事项列表应用设计一个 Agentic 工作流，使用 BPMN 描述“添加任务”、“标记完成”等基本流程，然后让 LLM Agent 根据这些流程执行操作。\n    2.  **一个中型项目**：构建一个“AI 驱动的创意项目管理工具”，用户输入项目需求和阶段（如“设计一个海报”），Agent 能够分解任务（如“收集灵感”、“草图绘制”、“色彩选择”、“最终输出”），并为每个子任务分配不同的 AI 工具或 Agent，同时允许用户通过 BPMN 风格的界面进行干预和调整。\n    3.  **一个艺术/游戏/叙事方向**：设计一个“交互式故事生成器”，用户定义故事的主线流程（类似 BPMN 的泳道和任务），Agent 负责填充细节、生成对话、描述场景，并根据流程节点的变化动态调整叙事方向。例如，一个“选择分支”节点可以触发 Agent 重新规划后续的叙事路径。\n- 对我项目的启发：这与我的 spec-driven development 和 agent workflow 兴趣高度契合。我可以在我的 Minecraft 世界生成或创意编程项目中，定义一个“世界生成流程”或“艺术创作流程”，然后用 Agent 来执行和优化这个流程，使其更模块化、更可控。\n- 今天是否值得深入研究：是\n- 建议行动：收藏\n\n---\n\n## 今日模式总结\n今天我们看到了 Agent 在多个领域展现出强大的“协调者”和“自动化专家”能力：\n1.  **复杂流程的 Agentic Orchestration**：从 EDA（ChipOmni）到投资研究（BuySideFlow）再到企业流程（Composable Agentic Workflows），Agent 正被用于管理和自动化日益复杂的、多步骤的专业工作流。这强调了 Agent 在理解、执行和优化端到端任务方面的潜力。\n2.  **AI 与专业知识的深度融合**：Physics2Weight 展示了 AI 如何直接从科学定律生成模型，而 BuySideFlow 则关注 AI 在处理专业领域（金融）数据的严谨性。这预示着 AI 将不再是通用工具，而是能深入理解和应用特定领域知识的助手。\n3.  **AI 辅助设计与创造的可解释性**：Explainable Iterative Data Visualization Refinement 强调了 AI 在提供设计反馈时，其“理由”的重要性。这对于构建更友好的创意工具和人机协作系统至关重要。\n\n## 今日可做小实验\n**项目名**：**AI 叙事分支生成器**\n\n**输入**：一个简单的故事开头文本（例如：“你是一个勇敢的探险家，发现了一个古老的宝箱。”）和一个故事主题（例如：“冒险与发现”）。\n\n**输出**：一个包含 2-3 个不同故事分支点的文本，每个分支点提供简短的选项描述（例如：“1. 打开宝箱；2. 检查周围环境。”）。\n\n**技术栈**：\n- Python\n- OpenAI/Anthropic/Gemini API (或任何你熟悉的 LLM)\n- LangChain (或类似的 Agent 框架，用于组织 LLM 调用)\n\n**第一步怎么做**：\n1.  **设置 LLM 调用**：配置你的 LLM API 密钥，并编写一个简单的函数，接收故事开头和主题，然后调用 LLM，要求它“根据故事开头和主题，生成一个包含 2-3 个叙事分支点的故事发展，并为每个分支点提供简短的选项描述。”\n2.  **处理输出**：解析 LLM 的输出，提取出故事开头、分支点描述以及选项。\n3.  **打印结果**：将生成的分支故事结构打印到控制台。\n\n这个实验可以在 1-2 小时内完成，让你初步体验如何用 LLM Agent 来驱动叙事生成，为更复杂的叙事系统打下基础。",
+  "gemini_success": true,
+  "telegram_sent": false,
+  "telegram_status": "failed",
+  "telegram_reason": "401 Client Error: Unauthorized for url: https://api.telegram.org/bot8650722899:AAHUD-aqNDB7NwiPiGq3R22MVp77Cr_5GEQ/sendMessage"
+}
