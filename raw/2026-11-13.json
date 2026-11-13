@@ -1,0 +1,254 @@
+[
+  {
+    "title": "NVIDIA / SkillSpector",
+    "url": "https://github.com/NVIDIA/SkillSpector",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them. [297 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
+    "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
+    "source": "Hacker News",
+    "published_at": "Thu, 12 Nov 2026 18:15:48 +0000",
+    "description": "We (GREP.AI, YC F26) are open-sourcing AgentRun and turning it into a full managed agents platform. Read more about it in this post: https://agentrun.ai/blog/introducing-agentrun-run-smarter-ag... . It includes what we originally built for our own agent harness: - Self-improving agents \n- Web-grounded workflows \n- A range of sandboxes and computer environments \n- Thousands of tools and integrations \n- Detailed analytics on how your agents behave You can bring your own agent. AgentRun works with ",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow"
+    ]
+  },
+  {
+    "title": "AWS emulator",
+    "url": "https://github.com/aws/aws-emulator",
+    "source": "Hacker News Best",
+    "published_at": "Wed, 11 Nov 2026 18:21:38 +0000",
+    "description": "https://www.aboutamazon.com/news/aws/how-autonomous-ai-agent... https://www.allthingsdistributed.com/2026/11/aws-emulator-an... Comments URL: https://news.ycombinator.com/item?id=50456631 Points: 965 # Comments: 263",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "homeassistant-ai / ha-mcp",
+    "url": "https://github.com/homeassistant-ai/ha-mcp",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants. [714 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "Claude",
+      "GPT"
+    ]
+  },
+  {
+    "title": "CopilotKit / OpenBot",
+    "url": "https://github.com/CopilotKit/OpenBot",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent. [298 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Copilot"
+    ]
+  },
+  {
+    "title": "n8n-io / n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. [167 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "workflow",
+      "automation"
+    ]
+  },
+  {
+    "title": "PurpleDoubleD / locally-uncensored",
+    "url": "https://github.com/PurpleDoubleD/locally-uncensored",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "The all-in-one local AI studio for your desktop: chat, image and video generation and a coding agent in one free, open source app. Windows and Linux. No Docker, no terminal, no cloud required. [197 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "open source"
+    ]
+  },
+  {
+    "title": "google-labs-code / stitch-skills",
+    "url": "https://github.com/google-labs-code/stitch-skills",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor. [13 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "agent",
+      "Claude",
+      "Gemini"
+    ]
+  },
+  {
+    "title": "shanliuling / dsh-image-gen",
+    "url": "https://github.com/shanliuling/dsh-image-gen",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "可在对话内生成、编辑、对比图像；内置 500 + 提示词、图库、多模型工作流，支持 ComfyUI。AI image studio for DeepSeek Harness — generate, edit & compare images in chat, with 500+ prompts, gallery, multi-model workflows and ComfyUI. [70 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "workflow",
+      "prompt"
+    ]
+  },
+  {
+    "title": "huggingface / transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. [98 stars today]",
+    "score": 5.0,
+    "keywords_matched": [
+      "AI",
+      "transformer",
+      "multimodal",
+      "inference"
+    ]
+  },
+  {
+    "title": "Show HN: Cerulion – ROS 2-compatible robotics runtime with multi-process replay",
+    "url": "https://github.com/cerulion-inc/cerulion",
+    "source": "Hacker News",
+    "published_at": "Thu, 12 Nov 2026 20:53:04 +0000",
+    "description": "Hey HN! I'm Lakshay. Raveen and I have built Cerulion, a ROS2-compatible robotics runtime written in Rust. We've worked hard on lowering IPC transport latencies without making the single process tradeoff or forcing POD message types. These fast multi-process graphs can then be resimmed deterministically, and existing ROS2 nodes/launch files can run unmodified alongside native Cerulion Rust/Python code. Installation and quickstart (with a one-shot prompt for your favorite coding agent) here at th",
+    "score": 4.0,
+    "keywords_matched": [
+      "agent",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Gemini 4 Hydrogen",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+    "source": "Hacker News",
+    "published_at": "Thu, 12 Nov 2026 18:01:48 +0000",
+    "description": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/ Comments URL: https://news.ycombinator.com/item?id=50471431 Points: 453 # Comments: 293",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "Gemini"
+    ]
+  },
+  {
+    "title": "I'm making LLMs work on small and old devices",
+    "url": "https://github.com/hyperionaidev/smolmaxxing/",
+    "source": "Hacker News",
+    "published_at": "Thu, 12 Nov 2026 15:23:10 +0000",
+    "description": "Article URL: https://github.com/hyperionaidev/smolmaxxing/ Comments URL: https://news.ycombinator.com/item?id=50468888 Points: 276 # Comments: 92",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "LLM"
+    ]
+  },
+  {
+    "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+    "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+    "source": "Hacker News Best",
+    "published_at": "Wed, 11 Nov 2026 21:24:35 +0000",
+    "description": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 661 # Comments: 683",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "Gemini Decisions API",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+    "source": "Hacker News Best",
+    "published_at": "Wed, 11 Nov 2026 18:32:42 +0000",
+    "description": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/ Comments URL: https://news.ycombinator.com/item?id=50456791 Points: 553 # Comments: 157",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "Gemini"
+    ]
+  },
+  {
+    "title": "My AI agents found an unmapped Maya site?",
+    "url": "https://pietromiotti.com/latest/maya-site",
+    "source": "Hacker News Best",
+    "published_at": "Wed, 11 Nov 2026 12:05:22 +0000",
+    "description": "Article URL: https://pietromiotti.com/latest/maya-site Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 1026 # Comments: 390",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "ZhuLinsen / daily_stock_analysis",
+    "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs. [1,294 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "LLM"
+    ]
+  },
+  {
+    "title": "rlaope / oh-my-hermes",
+    "url": "https://github.com/rlaope/oh-my-hermes",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "⚚ The ultrawork agent with AI coworkers wired into you [79 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "mvanhorn / last30days-skill",
+    "url": "https://github.com/mvanhorn/last30days-skill",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary [112 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "davila7 / claude-code-templates",
+    "url": "https://github.com/davila7/claude-code-templates",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods [102 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "agent",
+      "Claude"
+    ]
+  }
+]

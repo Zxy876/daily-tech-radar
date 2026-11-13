@@ -1,0 +1,262 @@
+{
+  "date": "2026-11-13",
+  "candidates": [
+    {
+      "title": "NVIDIA / SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them. [297 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "prompt"
+      ]
+    },
+    {
+      "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
+      "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
+      "source": "Hacker News",
+      "published_at": "Thu, 12 Nov 2026 18:15:48 +0000",
+      "description": "We (GREP.AI, YC F26) are open-sourcing AgentRun and turning it into a full managed agents platform. Read more about it in this post: https://agentrun.ai/blog/introducing-agentrun-run-smarter-ag... . It includes what we originally built for our own agent harness: - Self-improving agents \n- Web-grounded workflows \n- A range of sandboxes and computer environments \n- Thousands of tools and integrations \n- Detailed analytics on how your agents behave You can bring your own agent. AgentRun works with ",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "workflow"
+      ]
+    },
+    {
+      "title": "AWS emulator",
+      "url": "https://github.com/aws/aws-emulator",
+      "source": "Hacker News Best",
+      "published_at": "Wed, 11 Nov 2026 18:21:38 +0000",
+      "description": "https://www.aboutamazon.com/news/aws/how-autonomous-ai-agent... https://www.allthingsdistributed.com/2026/11/aws-emulator-an... Comments URL: https://news.ycombinator.com/item?id=50456631 Points: 965 # Comments: 263",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "homeassistant-ai / ha-mcp",
+      "url": "https://github.com/homeassistant-ai/ha-mcp",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants. [714 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "Claude",
+        "GPT"
+      ]
+    },
+    {
+      "title": "CopilotKit / OpenBot",
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent. [298 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Copilot"
+      ]
+    },
+    {
+      "title": "n8n-io / n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. [167 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "workflow",
+        "automation"
+      ]
+    },
+    {
+      "title": "PurpleDoubleD / locally-uncensored",
+      "url": "https://github.com/PurpleDoubleD/locally-uncensored",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "The all-in-one local AI studio for your desktop: chat, image and video generation and a coding agent in one free, open source app. Windows and Linux. No Docker, no terminal, no cloud required. [197 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "open source"
+      ]
+    },
+    {
+      "title": "google-labs-code / stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor. [13 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "agent",
+        "Claude",
+        "Gemini"
+      ]
+    },
+    {
+      "title": "shanliuling / dsh-image-gen",
+      "url": "https://github.com/shanliuling/dsh-image-gen",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "可在对话内生成、编辑、对比图像；内置 500 + 提示词、图库、多模型工作流，支持 ComfyUI。AI image studio for DeepSeek Harness — generate, edit & compare images in chat, with 500+ prompts, gallery, multi-model workflows and ComfyUI. [70 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "workflow",
+        "prompt"
+      ]
+    },
+    {
+      "title": "huggingface / transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. [98 stars today]",
+      "score": 5.0,
+      "keywords_matched": [
+        "AI",
+        "transformer",
+        "multimodal",
+        "inference"
+      ]
+    },
+    {
+      "title": "Show HN: Cerulion – ROS 2-compatible robotics runtime with multi-process replay",
+      "url": "https://github.com/cerulion-inc/cerulion",
+      "source": "Hacker News",
+      "published_at": "Thu, 12 Nov 2026 20:53:04 +0000",
+      "description": "Hey HN! I'm Lakshay. Raveen and I have built Cerulion, a ROS2-compatible robotics runtime written in Rust. We've worked hard on lowering IPC transport latencies without making the single process tradeoff or forcing POD message types. These fast multi-process graphs can then be resimmed deterministically, and existing ROS2 nodes/launch files can run unmodified alongside native Cerulion Rust/Python code. Installation and quickstart (with a one-shot prompt for your favorite coding agent) here at th",
+      "score": 4.0,
+      "keywords_matched": [
+        "agent",
+        "prompt"
+      ]
+    },
+    {
+      "title": "Gemini 4 Hydrogen",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "source": "Hacker News",
+      "published_at": "Thu, 12 Nov 2026 18:01:48 +0000",
+      "description": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/ Comments URL: https://news.ycombinator.com/item?id=50471431 Points: 453 # Comments: 293",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "Gemini"
+      ]
+    },
+    {
+      "title": "I'm making LLMs work on small and old devices",
+      "url": "https://github.com/hyperionaidev/smolmaxxing/",
+      "source": "Hacker News",
+      "published_at": "Thu, 12 Nov 2026 15:23:10 +0000",
+      "description": "Article URL: https://github.com/hyperionaidev/smolmaxxing/ Comments URL: https://news.ycombinator.com/item?id=50468888 Points: 276 # Comments: 92",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "source": "Hacker News Best",
+      "published_at": "Wed, 11 Nov 2026 21:24:35 +0000",
+      "description": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 661 # Comments: 683",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "Gemini Decisions API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "source": "Hacker News Best",
+      "published_at": "Wed, 11 Nov 2026 18:32:42 +0000",
+      "description": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/ Comments URL: https://news.ycombinator.com/item?id=50456791 Points: 553 # Comments: 157",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "Gemini"
+      ]
+    },
+    {
+      "title": "My AI agents found an unmapped Maya site?",
+      "url": "https://pietromiotti.com/latest/maya-site",
+      "source": "Hacker News Best",
+      "published_at": "Wed, 11 Nov 2026 12:05:22 +0000",
+      "description": "Article URL: https://pietromiotti.com/latest/maya-site Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 1026 # Comments: 390",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "ZhuLinsen / daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs. [1,294 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "title": "rlaope / oh-my-hermes",
+      "url": "https://github.com/rlaope/oh-my-hermes",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "⚚ The ultrawork agent with AI coworkers wired into you [79 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "mvanhorn / last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary [112 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "davila7 / claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods [102 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "agent",
+        "Claude"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-11-13\n\n收到！疯狂发明家技术雷达已就位，为你扫描最新、最怪、最有趣的技术浪潮，并转化为可执行的发明灵感。\n\n---\n\n## [SkillSpector：AI Agent 的安全扫描器]\n- 来源：GitHub Trending Python\n- 链接：https://github.com/NVIDIA/SkillSpector\n- 一句话解释：一个能在你安装 Claude Code, Codex, MCP 的 AI Agent 技能前，帮你检测安全漏洞、恶意模式、数据泄露和供应链风险的工具。\n- 它为什么重要：AI Agent 越来越普遍，但它们的安全性是个大问题。这个工具让 Agent 开发和部署更加安全，尤其是在集成第三方技能时。\n- 技术趋势标签：AI, Agent, Security, LLM Toolchain\n- 可复用模式：安全审计、Agent 能力验证、AI Agent 生态系统安全。\n- 疯狂发明家灵感：\n  1. **一个小型实验：** 编写一个简单的 Python 脚本，模拟 SkillSpector 的一部分功能，例如检测特定关键词（如 \"exfiltrate\", \"secret\"）在 Agent Skill 的 prompt 或代码中是否出现。\n  2. **一个中型项目：** 构建一个 Web UI，允许用户上传 Agent Skill 的代码或 prompt，然后 SkillSpector 进行扫描并给出报告。可以集成一些简单的静态代码分析。\n  3. **一个艺术/游戏/叙事方向：** 开发一个“AI Agent 风险模拟器”游戏。玩家需要在一个虚拟环境中部署 Agent，并尝试“黑掉”它们，或者反过来，玩家扮演 Agent 安全专家，阻止恶意 Agent。\n- 对我项目的启发：在开发任何 Agent 或 LLM 工具链项目时，都要考虑安全性。可以设计一个“安全加固”模块，或者一个“Agent 行为审计”系统。\n- 今天是否值得深入研究：是\n- 建议行动：做demo\n\n## [AgentRun：自学习、可管理的开源 Agent 平台]\n- 来源：Hacker News\n- 链接：https://github.com/Parcha-ai/agentrun/blob/main/README.md\n- 一句话解释：一个开源的、可以自我改进的 Agent 运行平台，提供 Web 接入、沙箱环境、工具集成，让 Agent 能够更智能地工作。\n- 它为什么重要：AI Agent 的“智能”不仅在于模型的强大，还在于它们如何与环境交互、学习和协作。AgentRun 提供了一个基础框架，让 Agent 的能力可以不断提升。\n- 技术趋势标签：AI, Agent, Workflow, Self-Improving, Automation\n- 可复用模式：Agent 自动化工作流编排、Agent 能力迭代、Agent 行为沙箱。\n- 疯狂发明家灵感：\n  1. **一个小型实验：** 尝试用 AgentRun 跑一个简单的 Agent，让它尝试写一段代码、搜索信息，并记录它的“学习”过程（例如，它在几次尝试后如何改进了 prompt）。\n  2. **一个中型项目：** 构建一个“Agent 协作平台”，允许多个 Agent 在 AgentRun 的框架下协同完成一个复杂任务，例如内容创作、数据分析或软件开发。\n  3. **一个艺术/游戏/叙事方向：** 创建一个“AI 叙事生成器”。AgentRun 中的 Agent 可以根据用户输入的风格和主题，自动生成故事、诗歌或剧本。每个 Agent 都可以有不同的“性格”和“创作风格”。\n- 对我项目的启发：Agent 的“自我改进”是一个非常酷的概念，可以应用到我的生成式系统和创意工具中。思考如何让我的 Agent 能够从错误中学习，或者根据反馈优化输出。\n- 今天是否值得深入研究：是\n- 建议行动：试用\n\n## [OpenBot：拥有自己电脑的 AI 协作者]\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/CopilotKit/OpenBot\n- 一句话解释：开源的 AI 协作者，每个 AI 都有自己的“电脑”，包括浏览器、文件和工具，并且它们的每一个动作都会被记录和决定。\n- 它为什么重要：这解决了 AI Agent“独立思考”和“执行能力”的瓶颈。给 Agent 独立的执行环境，让它们能更像人类一样“工作”。\n- 技术趋势标签：AI, Agent, Workflow, HCI, Automation, LLM Toolchain\n- 可复用模式：Agent 独立执行环境、Agent 行为可追溯性、AI 协作者模式。\n- 疯狂发明家灵感：\n  1. **一个小型实验：** 尝试让一个 OpenBot  agent 访问一个本地文件，读取内容，然后写一个简短的总结。\n  2. **一个中型项目：** 构建一个“AI 团队协作工具”，让 OpenBot 中的多个 Agent 能够通过共享文件和执行特定任务来协同工作，例如共同完成一个项目报告或设计一个简单的网站。\n  3. **一个艺术/游戏/叙事方向：** 创造一个“AI 侦探游戏”。玩家扮演一个调查员，而 OpenBot 中的 AI Agent 则是你的助手。你可以给 Agent 任务，让它们去搜集证据、分析线索，并最终帮助你解决案件。\n- 对我项目的启发：Agent 拥有独立“电脑”的概念，可以应用到我的世界生成项目中。比如，让 Agent 拥有“地图”、“工具箱”等虚拟资源，然后根据这些资源在 Minecraft 世界中进行探索和建造。\n- 今天是否值得深入研究：是\n- 建议行动：做demo\n\n## [AWS Emulator：模拟 AWS 云环境的工具]\n- 来源：Hacker News Best\n- 链接：https://github.com/aws/aws-emulator\n- 一句话解释：一个可以模拟 AWS 云环境的工具，用于测试和开发。\n- 它为什么重要：AI Agent 经常需要与云服务交互。这个工具可以让我们在本地环境中安全、高效地测试 Agent 与 AWS 服务的集成，而无需担心实际的云成本和部署。\n- 技术趋势标签：AI, Agent, Cloud, Development Workflow, Automation\n- 可复用模式：本地云环境模拟、AI Agent 集成测试、DevOps 自动化。\n- 疯狂发明家灵感：\n  1. **一个小型实验：** 使用 AWS Emulator 模拟一个 S3 存储桶，然后编写一个简单的 Python 脚本，让一个 AI Agent 能够上传和下载文件到这个模拟的 S3 存储桶。\n  2. **一个中型项目：** 构建一个“AI Agent 自动化部署工具”。这个工具利用 AWS Emulator 来测试 Agent 的部署流程和与各种 AWS 服务的交互，确保 Agent 在真实 AWS 环境中能够顺利运行。\n  3. **一个艺术/游戏/叙事方向：** 创造一个“云端 AI 艺术画廊”。AI Agent 负责在模拟的 AWS S3 中存储和管理用户上传的艺术作品，并通过一个 Web 界面展示。Agent 还可以根据用户的喜好，自动推荐艺术品。\n- 对我项目的启发：在开发涉及云服务的 AI Agent 项目时，AWS Emulator 提供了一个宝贵的本地开发和测试环境，可以极大地提高开发效率并降低成本。\n- 今天是否值得深入研究：是\n- 建议行动：试用\n\n## [AI Agent 发现未标记的玛雅遗址]\n- 来源：Hacker News Best\n- 链接：https://pietromiotti.com/latest/maya-site\n- 一句话解释：AI Agent 通过分析卫星图像，发现了一个此前未被标记的古代玛雅遗址。\n- 它为什么重要：这展示了 AI Agent 在现实世界中解决复杂问题的强大能力，尤其是其在数据分析和模式识别方面的潜力。它也为“AI 辅助科学发现”提供了生动的案例。\n- 技术趋势标签：AI, Agent, World Generation, GIS, Data Analysis, Scientific Discovery\n- 可复用模式：AI 驱动的地理信息分析、自动化发现系统、多模态数据融合。\n- 疯狂发明家灵感：\n  1. **一个小型实验：** 找一个公开的地图数据集（例如，OpenStreetMap），然后编写一个简单的脚本，让 AI Agent 尝试在你指定的区域内寻找“异常”或“未标记”的地理特征（例如，形状不规则的区域，可能代表遗迹）。\n  2. **一个中型项目：** 构建一个“AI 考古助手”。让 AI Agent 分析大量的卫星图像、历史文献和地理数据，来帮助考古学家发现新的遗址或文物。可以专注于特定区域或历史时期。\n  3. **一个艺术/游戏/叙事方向：** 开发一个“AI 驱动的虚拟考古探险游戏”。玩家可以控制一个 AI Agent，在虚拟环境中（可以是程序生成的，也可以是真实世界的简化版）搜寻隐藏的宝藏或遗迹，AI Agent 会根据分析提供线索。\n- 对我项目的启发：AI Agent 在“发现”和“模式识别”方面的能力，可以应用到我的 Minecraft 世界生成中。比如，让 Agent 扫描生成的地图，寻找可以优化、添加特殊区域或隐藏秘密的地方。\n- 今天是否值得深入研究：是\n- 建议行动：做demo\n\n---\n\n## 今日模式总结\n\n今天出现的几个关键模式是：\n1.  **AI Agent 的安全与可信度：** SkillSpector 和 United Airlines 的新闻（虽然没选，但很有代表性）都在强调 AI Agent 的安全性和合规性问题。这表明，在构建或使用 Agent 时，安全性审计、漏洞检测和行为规范将变得越来越重要。\n2.  **Agent 的自主执行与协作：** AgentRun 和 OpenBot 都在探索如何让 Agent 拥有更强的自主性，能够独立执行任务，甚至与人类或其它 Agent 协作。这涉及到为 Agent 提供更真实的执行环境、工具和学习机制。\n3.  **AI 在现实世界中的发现与应用：** 玛雅遗址的发现展示了 AI Agent 在复杂数据分析和模式识别方面的巨大潜力，能够解决现实世界中的难题。这启发我们思考 AI 如何成为科学研究、艺术创作或游戏设计的强大助手。\n\n## 今日可做小实验\n\n**项目名：** Agent 寻宝：本地文件扫描器\n\n**目标：** 模仿 AI Agent 发现未标记遗址的思路，让一个简单的 Agent 扫描本地一个指定目录，找出其中“可能隐藏宝藏”（即特定类型的文件或文件夹）的线索。\n\n**输入：**\n1.  一个本地目录路径。\n2.  一个“宝藏特征”的定义，例如：文件名中包含特定关键词（如 \"secret\", \"hidden\", \"treasure\"），或者文件扩展名（如 \".dat\", \".bak\"），或者文件夹名称。\n\n**输出：**\n一个包含所有符合“宝藏特征”的文件和文件夹列表，以及它们在目录结构中的相对路径。\n\n**技术栈：**\n*   Python\n*   `os` 模块 (用于文件系统操作)\n*   （可选）一个简单的 LLM 包装器，用于解释“宝藏特征”或生成发现报告（但初期可以先用硬编码规则）。\n\n**第一步怎么做：**\n\n1.  **设置环境：** 确保你的 Python 环境已配置好。\n2.  **编写核心扫描函数：**\n    *   定义一个函数，接收目录路径和宝藏特征（如一个关键词列表、文件扩展名列表）。\n    *   使用 `os.walk()` 遍历指定目录下的所有文件和子目录。\n    *   对于每个文件，检查其文件名是否包含关键词或其扩展名是否在列表中。\n    *   对于每个目录，检查其名称是否包含关键词。\n    *   将所有符合条件的路径收集到一个列表中。\n3.  **测试：**\n    *   创建一个测试目录，里面放一些文件和子文件夹，故意命名一些文件/文件夹，使其符合你定义的“宝藏特征”。\n    *   运行你的脚本，传入测试目录和特征，检查输出是否正确。\n    *   **初步迭代：** 如果你想让它更“AI”，可以尝试用一个简单的 LLM 来解析用户输入的自然语言“宝藏特征”（例如“我想要找那些看起来像旧数据备份的文件”），然后将其转化为你脚本能理解的规则。\n\n这个实验可以在 1-2 小时内完成，让你体验到 Agent 在数据探索和模式识别方面的基础能力。",
+  "gemini_success": true,
+  "telegram_sent": false,
+  "telegram_status": "failed",
+  "telegram_reason": "401 Client Error: Unauthorized for url: https://api.telegram.org/bot8650722899:AAHUD-aqNDB7NwiPiGq3R22MVp77Cr_5GEQ/sendMessage"
+}
