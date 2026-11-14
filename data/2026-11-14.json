@@ -1,0 +1,269 @@
+{
+  "date": "2026-11-14",
+  "candidates": [
+    {
+      "title": "asgeirtj / system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Leaked system prompts of ChatGPT, Claude, Gemini and more. The hidden system prompt of every popular chatbot, in full, every version since May 2025. Also Anthropic Claude Code, OpenAI Codex, Google Antigravity, xAI Grok, Meta Muse, Moonshot Kimi, Alibaba Qwen, Z.ai GLM ZCode, MiniMax, Cursor, Perplexity, DeepSeek and 30+ others. Updated daily. [73 stars today]",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "Claude",
+        "Gemini",
+        "GPT",
+        "prompt"
+      ]
+    },
+    {
+      "title": "headroomlabs-ai / headroom",
+      "url": "https://github.com/headroomlabs-ai/headroom",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server. [120 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "RAG"
+      ]
+    },
+    {
+      "title": "volcengine / OpenViking",
+      "url": "https://github.com/volcengine/OpenViking",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. [113 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "RAG",
+        "memory"
+      ]
+    },
+    {
+      "title": "NVIDIA / SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them. [190 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "prompt"
+      ]
+    },
+    {
+      "title": "lidge-jun / opencodex",
+      "url": "https://github.com/lidge-jun/opencodex",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code [54 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "Claude",
+        "Gemini"
+      ]
+    },
+    {
+      "title": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
+      "url": "https://atg.science/careers",
+      "source": "Hacker News",
+      "published_at": "Fri, 13 Nov 2026 21:01:11 +0000",
+      "description": "Article URL: https://atg.science/careers Comments URL: https://news.ycombinator.com/item?id=50489589 Points: 0 # Comments: 0",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "avenoxai / avenoxbeyin",
+      "url": "https://github.com/avenoxai/avenoxbeyin",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Your AI second brain in one command — open-source Obsidian + Claude Code system with persistent cross-session memory. avenox.lol/beyin.md [51 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "Claude",
+        "memory"
+      ]
+    },
+    {
+      "title": "CopilotKit / OpenBot",
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent. [674 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Copilot"
+      ]
+    },
+    {
+      "title": "PurpleDoubleD / locally-uncensored",
+      "url": "https://github.com/PurpleDoubleD/locally-uncensored",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "The all-in-one local AI studio for your desktop: chat, image and video generation and a coding agent in one free, open source app. Windows and Linux. No Docker, no terminal, no cloud required. [148 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "open source"
+      ]
+    },
+    {
+      "title": "shanliuling / dsh-image-gen",
+      "url": "https://github.com/shanliuling/dsh-image-gen",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "可在对话内生成、编辑、对比图像；内置 500 + 提示词、图库、多模型工作流，支持 ComfyUI。AI image studio for DeepSeek Harness — generate, edit & compare images in chat, with 500+ prompts, gallery, multi-model workflows and ComfyUI. [95 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "workflow",
+        "prompt"
+      ]
+    },
+    {
+      "title": "google-labs-code / stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor. [13 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "agent",
+        "Claude",
+        "Gemini"
+      ]
+    },
+    {
+      "title": "callstack / agent-device",
+      "url": "https://github.com/callstack/agent-device",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Open source device layer for AI coding agents: a CLI, MCP server, and typed Node.js API to control mobile, web, TV, and desktop apps on devices and simulators, locally or in the cloud. [21 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "open source"
+      ]
+    },
+    {
+      "title": "alibaba / open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. [215 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM"
+      ]
+    },
+    {
+      "title": "ZhuLinsen / daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs. [256 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "title": "davila7 / claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods [62 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "agent",
+        "Claude"
+      ]
+    },
+    {
+      "title": "langchain-ai / langgraph",
+      "url": "https://github.com/langchain-ai/langgraph",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Build resilient agents. [49 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "kajisho5 / ffmpeg-skill",
+      "url": "https://github.com/kajisho5/ffmpeg-skill",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys. [168 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "agent",
+        "Claude"
+      ]
+    },
+    {
+      "title": "mvanhorn / last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary [111 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "a2ui-project / a2ui",
+      "url": "https://github.com/a2ui-project/a2ui",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Open-source generative UI framework: agents stream layout data, and apps render it with native components in React, Angular, Lit, Flutter, SwiftUI and Jetpack Compose. [117 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "agent",
+        "generative"
+      ]
+    },
+    {
+      "title": "QwenLM / qwen-code",
+      "url": "https://github.com/QwenLM/qwen-code",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "An open-source AI coding agent that lives in your terminal. [462 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-11-14\n\n> ⚠️ AI 分析失败：HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=90)\n\n## 今日候选内容（原始抓取，未经 AI 分析）\n\n### asgeirtj / system_prompts_leaks\n- 来源：GitHub Trending Python\n- 链接：https://github.com/asgeirtj/system_prompts_leaks\n- 摘要：Leaked system prompts of ChatGPT, Claude, Gemini and more. The hidden system prompt of every popular chatbot, in full, every version since May 2025. Also Anthropic Claude Code, OpenAI Codex, Google Antigravity, xAI Grok, Meta Muse, Moonshot Kimi, Ali\n- 关键词：AI, Claude, Gemini, GPT, prompt\n\n### headroomlabs-ai / headroom\n- 来源：GitHub Trending Python\n- 链接：https://github.com/headroomlabs-ai/headroom\n- 摘要：Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server. [120 stars today]\n- 关键词：AI, agent, LLM, RAG\n\n### volcengine / OpenViking\n- 来源：GitHub Trending Python\n- 链接：https://github.com/volcengine/OpenViking\n- 摘要：Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. [113 stars today]\n- 关键词：AI, agent, RAG, memory\n\n### NVIDIA / SkillSpector\n- 来源：GitHub Trending Python\n- 链接：https://github.com/NVIDIA/SkillSpector\n- 摘要：Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them. [190 stars today]\n- 关键词：AI, agent, Claude, prompt\n\n### lidge-jun / opencodex\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/lidge-jun/opencodex\n- 摘要：Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code [54 stars today]\n- 关键词：AI, LLM, Claude, Gemini\n\n### Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth\n- 来源：Hacker News\n- 链接：https://atg.science/careers\n- 摘要：Article URL: https://atg.science/careers Comments URL: https://news.ycombinator.com/item?id=50489589 Points: 0 # Comments: 0\n- 关键词：AI, agent, autonomous\n\n### avenoxai / avenoxbeyin\n- 来源：GitHub Trending Python\n- 链接：https://github.com/avenoxai/avenoxbeyin\n- 摘要：Your AI second brain in one command — open-source Obsidian + Claude Code system with persistent cross-session memory. avenox.lol/beyin.md [51 stars today]\n- 关键词：AI, Claude, memory\n\n### CopilotKit / OpenBot\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/CopilotKit/OpenBot\n- 摘要：Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent. [674 stars today]\n- 关键词：AI, agent, Copilot\n\n### PurpleDoubleD / locally-uncensored\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/PurpleDoubleD/locally-uncensored\n- 摘要：The all-in-one local AI studio for your desktop: chat, image and video generation and a coding agent in one free, open source app. Windows and Linux. No Docker, no terminal, no cloud required. [148 stars today]\n- 关键词：AI, agent, open source\n\n### shanliuling / dsh-image-gen\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/shanliuling/dsh-image-gen\n- 摘要：可在对话内生成、编辑、对比图像；内置 500 + 提示词、图库、多模型工作流，支持 ComfyUI。AI image studio for DeepSeek Harness — generate, edit & compare images in chat, with 500+ prompts, gallery, multi-model workflows and ComfyUI. [95 stars today]\n- 关键词：AI, workflow, prompt\n\n### google-labs-code / stitch-skills\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/google-labs-code/stitch-skills\n- 摘要：A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor. [13 stars today]\n- 关键词：agent, Claude, Gemini\n\n### callstack / agent-device\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/callstack/agent-device\n- 摘要：Open source device layer for AI coding agents: a CLI, MCP server, and typed Node.js API to control mobile, web, TV, and desktop apps on devices and simulators, locally or in the cloud. [21 stars today]\n- 关键词：AI, agent, open source\n\n### alibaba / open-code-review\n- 来源：GitHub Trending\n- 链接：https://github.com/alibaba/open-code-review\n- 摘要：Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anth\n- 关键词：AI, agent, LLM\n\n### ZhuLinsen / daily_stock_analysis\n- 来源：GitHub Trending Python\n- 链接：https://github.com/ZhuLinsen/daily_stock_analysis\n- 摘要：LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs. [256 stars today]\n- 关键词：AI, LLM\n\n### davila7 / claude-code-templates\n- 来源：GitHub Trending Python\n- 链接：https://github.com/davila7/claude-code-templates\n- 摘要：Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods [62 stars today]\n- 关键词：agent, Claude\n\n---\n\n> 请配置 `GEMINI_API_KEY` 后重新运行以获取完整分析。",
+  "gemini_success": false,
+  "telegram_sent": false,
+  "telegram_status": "failed",
+  "telegram_reason": "401 Client Error: Unauthorized for url: https://api.telegram.org/bot8650722899:AAHUD-aqNDB7NwiPiGq3R22MVp77Cr_5GEQ/sendMessage"
+}
