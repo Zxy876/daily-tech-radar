@@ -1,0 +1,283 @@
+[
+  {
+    "title": "Edge-Native Multimodal RAG: Hardware-Aware Quantization and Architectural Optimization for Consumer GPUs",
+    "url": "https://arxiv.org/abs/2611.14924",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.14924v1 Announce Type: new \nAbstract: Deployment of retrieval-augmented generation (RAG) for Edge-AI is constrained by memory and bandwidth limitations. A standard 7B parameter model consumes 14 GB Video Random Access Memory (VRAM) in half-precision (FP16), precluding co-location of vector indices and Key-Value (KV) caches. This paper presents an engineering integration and empirical evaluation of a multimodal RAG framework optimized for consumer-grade Turing hardware (e.g., NVIDIA Te",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "multimodal",
+      "RAG",
+      "vector",
+      "memory",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Can MLLMs Reason over Surround-View Driving Videos? A Multi-View Autonomous Driving QA Benchmark",
+    "url": "https://arxiv.org/abs/2611.15225",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.15225v1 Announce Type: new \nAbstract: Surround-view video understanding in autonomous driving is a crucial capability for Multimodal Large Language Models (MLLMs) to achieve reliable driving reasoning. Real-world driving often requires information beyond the front-view camera. Existing MLLMs primarily focus on front-view information, while their spatio-temporal understanding and reasoning abilities remain unknown. To address this gap, we propose MVDriveBench, a high-information-densit",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "autonomous",
+      "multimodal",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Towards Robust Vision-Language Reasoning: A Multi-Stage Optimization Pipeline with Masked Diffusion Model",
+    "url": "https://arxiv.org/abs/2611.15238",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.15238v1 Announce Type: new \nAbstract: Discrete diffusion generation is emerging as a competitive alternative to autoregressive generation by denoising the entire token sequence through iterative refinement. Its global planning and progressive correction capabilities are particularly well suited to autonomous driving. However, transferring this generation paradigm from general-purpose settings to driving introduces substantial domain gaps in both training and inference. To unlock its p",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "diffusion",
+      "autonomous",
+      "inference",
+      "reasoning",
+      "planning"
+    ]
+  },
+  {
+    "title": "EvoX: Rethinking the Agent Harness as a Runtime Policy",
+    "url": "https://arxiv.org/abs/2611.15006",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.15006v1 Announce Type: new \nAbstract: Large language model (LLM) agents increasingly interact with tools and environments, yet plausible model decisions do not always translate into successful execution due to tool-call mismatches, interrupted workflows, and unsupported completion claims. We present EvoX, a Rust-based, multi-model agent runtime guided by The Second Policy, which views the harness as an Operational Policy complementing the foundation model's Semantic Policy. EvoX combi",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "language model"
+    ]
+  },
+  {
+    "title": "guardscope: Measuring Which Actions Runtime Controls Check in LLM Agent Systems",
+    "url": "https://arxiv.org/abs/2611.15223",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.15223v1 Announce Type: new \nAbstract: Large-language model (LLM) agents execute actions on external systems through tool calls, and enterprises deploy runtime controls, such as agent gateways, to check this behavior in real time. However, a control can only evaluate the actions that cross the point where it is placed, and an agent can act through more paths than the tool-call channel; no existing work measures this coverage against kernel-level ground truth. In this paper, we present ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "RAG"
+    ]
+  },
+  {
+    "title": "mukul975 / Anthropic-Cybersecurity-Skills",
+    "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0 [59 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "Gemini",
+      "Copilot"
+    ]
+  },
+  {
+    "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+    "url": "https://gitlab.com/snipedbywifi/terminactory",
+    "source": "Hacker News",
+    "published_at": "Sat, 14 Nov 2026 14:05:54 +0000",
+    "description": "Hey HN readers! I'm snipedbywifi ( https://gitlab.com/snipedbywifi ), and i've been working on terminactory. Please try it out if you'd like to play a cozy factory game while waiting for long agent tasks to finish! The game is a factory game (overused niche, i know xD), but runs in your terminal. Reason i built it? glad you asked: So basically, it started off with me wanting a terminal-native factory game. Me and the modern 5.5 claude models made a base for the game that I liked, and then i went",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude",
+      "game"
+    ]
+  },
+  {
+    "title": "Emergent Vision-Shaped Thinking in Text-Only Reasoning through Multimodal Training",
+    "url": "https://arxiv.org/abs/2611.14942",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.14942v1 Announce Type: new \nAbstract: Does multimodal training shape how a language model thinks, even when the input is text only? We test this with targeted causal ablations across 10 multimodal configurations from 6 model families, with matched text-only backbones and cross-family transfer controls. We contrast spatial-imagery tasks that invite mental scene construction with symbol-manipulation tasks solvable by symbolic rules alone. We identify a vision-language axis in hidden-sta",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "language model",
+      "multimodal",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "RSI-PDEbench: A Benchmark for Self-Improving Agents in PDE Solving",
+    "url": "https://arxiv.org/abs/2611.14949",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.14949v1 Announce Type: new \nAbstract: Identifying and solving partial differential equations (PDEs) from sampled solution data often requires substantial expert effort in equation discovery, coefficient estimation, and numerical solver configuration, especially under noise and distribution shifts. Can large language model (LLM) agents automate this workflow accurately and efficiently? To investigate this question, we introduce \\bench{}, a benchmark of 1,001 cases spanning 42 equation ",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "workflow",
+      "language model"
+    ]
+  },
+  {
+    "title": "headroomlabs-ai / headroom",
+    "url": "https://github.com/headroomlabs-ai/headroom",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server. [93 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "RAG"
+    ]
+  },
+  {
+    "title": "lidge-jun / opencodex",
+    "url": "https://github.com/lidge-jun/opencodex",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code [51 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "Claude",
+      "Gemini"
+    ]
+  },
+  {
+    "title": "Tencent / LoopForge",
+    "url": "https://github.com/Tencent/LoopForge",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants. [33 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "Claude",
+      "workflow",
+      "self-hosted"
+    ]
+  },
+  {
+    "title": "Together Compiler: Continual Compilation for AI Inference",
+    "url": "https://arxiv.org/abs/2611.14681",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.14681v1 Announce Type: new \nAbstract: Today's AI workloads are rapidly changing: new models are released more often, model architectures are increasingly diverse, and traffic distributions change frequently. The challenge we face at Together AI is continual optimization for these changing workloads. Compiling a deployment into an optimized forward pass is a challenge that is well-suited for agent hill-climbing. Existing systems struggle with continual compilation due to a tradeoff bet",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "inference"
+    ]
+  },
+  {
+    "title": "When Should Semantic Priors Enter Partially-Identified Causal Discovery?",
+    "url": "https://arxiv.org/abs/2611.14736",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.14736v1 Announce Type: new \nAbstract: Observational causal discovery often leaves causal di- rections unresolved or unstable. Large language mod- els (LLMs) can provide semantic information to resolve these directions, but incorrect proposals can exclude the true causal graph and invalidate downstream inference. We study three separate decisions: where to allocate semantic queries, which proposals to admit, and which causal graphs to retain. Our framework distinguishes population non-",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "inference"
+    ]
+  },
+  {
+    "title": "SynthCorp: A Platform for Creating Benchmarks for Data Agents",
+    "url": "https://arxiv.org/abs/2611.14765",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.14765v1 Announce Type: new \nAbstract: Current benchmarks for LLM-driven data agents saturate quickly and cannot target specific capabilities. We present SynthCorp, a platform that creates customizable data estates and benchmarks by simulating how business events produce and modify corporate data over time. Each data estate combines relational databases, a document store, and a data catalog, paired with evaluation tasks and executable gold programs. First, given a scenario and target c",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM"
+    ]
+  },
+  {
+    "title": "Leaderboard Hacking: Preference-Based Model Evaluations are Vulnerable to Manipulation",
+    "url": "https://arxiv.org/abs/2611.14769",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.14769v1 Announce Type: new \nAbstract: Arena-style rankings of language models are a widely used evaluation framework in online leaderboards, research papers, and model evaluation in production. These rankings aim to realistically assess model performance using pairwise comparisons of anonymous models on user prompts, aggregating votes via the Bradley-Terry model to produce the final ranking. However, we find that these leaderboards are highly vulnerable to several manipulation strateg",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "language model",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Robust Task-Aware State Estimation from Pre-trained Perception",
+    "url": "https://arxiv.org/abs/2611.14781",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.14781v1 Announce Type: new \nAbstract: Agents that perform state estimation using pretrained perception models, e.g., Vision-Language Models (VLMs), face the fundamental challenge that predictions are uncertain. Still, most approaches determinize these predictions into a single best-guess state and make decisions as if it were ground truth. This is brittle because when the guess is wrong, the agent's decisions may be unsafe or infeasible. At the other extreme, maintaining a full probab",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "language model"
+    ]
+  },
+  {
+    "title": "When Is Proof-Step Verification Worth Its Cost? Operating Requirements of Certify-or-Decline Verification for Open-Weight Mathematical Reasoning",
+    "url": "https://arxiv.org/abs/2611.14794",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.14794v1 Announce Type: new \nAbstract: Proof-step verification rewrites a solver's answer into typed steps and uses LLM judges to certify or decline. We evaluate this pipeline on open-weight models across GPQA, AIME-2025, and a MATH-500 subset. Certification raises answer-key-match precision by 31 percentage points on the strong GPQA configuration and 46 on AIME, while answering only 35% and 21% of attempts. On near-ceiling MATH-500, gains are at most 5 points at a loss of 13-27 points",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Open Challenges and Opportunities in Human-Agent Systems",
+    "url": "https://arxiv.org/abs/2611.14846",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.14846v1 Announce Type: new \nAbstract: Agentic AI systems increasingly undertake extended tasks and act on people's behalf, making human-agent interaction central to their effectiveness. Successful interaction requires understanding human perspectives, coordinating complementary capabilities, and maintaining productive relationships within socio-technical environments. This paper examines how foundations developed by the Autonomous Agents and Multi-Agent Systems (AAMAS) community infor",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "Can an AI Agent Be Epistemically Akratic? Higher-Order Evidence & the Limits of Self-Correction",
+    "url": "https://arxiv.org/abs/2611.14889",
+    "source": "arXiv cs.AI",
+    "published_at": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.14889v1 Announce Type: new \nAbstract: When we judge that our reasoning was defective, it seems plausible that we should abandon the conclusion it produced. This thought has special force for AI agents built to assess and correct their own work. Yet obeying such judgments can make an agent worse at distinguishing sound reasoning from defective reasoning. An AI agent may rely on information about its reasoning when deciding which conclusions to keep, while the part that judges whether t",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "reasoning"
+    ]
+  }
+]
