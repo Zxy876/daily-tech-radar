@@ -1,0 +1,296 @@
+{
+  "date": "2026-11-17",
+  "candidates": [
+    {
+      "title": "More Agents, More Samples, or More Thinking? Untangling Coordination, Ensembling, and Test-Time Compute in Multi-Agent LLMs",
+      "url": "https://arxiv.org/abs/2611.17610",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 16 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.17610v1 Announce Type: new \nAbstract: Evaluations of multi-agent language models often compare communicating architectures against a single greedy pass. This practice confounds coordination with sample multiplicity and inference compute. We synthesize nine primary empirical evaluations comprising 516 unique multi-agent configurations organized along a resource vector R with six dimensions and a baseline ladder with four categories. Against baselines with a single pass (Category A), mu",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "vector",
+        "inference"
+      ]
+    },
+    {
+      "title": "Alignment with Reflect-Reasoning: Learning How To Follow Principles",
+      "url": "https://arxiv.org/abs/2611.17398",
+      "source": "arXiv cs.LG",
+      "published_at": "Mon, 16 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.17398v1 Announce Type: new \nAbstract: The appropriate governing norms and principles for the alignment of Large Language Models (LLMs) often depend on cultural context and deployment application. However, most alignment techniques focus on training models to conform to human preferences or constitutional principles specified at training time and subsequently fixed. In practice, many deployers rely on system prompting to implement contextual norms and guardrails at inference time. Prio",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "inference",
+        "prompt",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Verifiable pXRD: Hill-climbing pXRD structure determination with LLM agents",
+      "url": "https://arxiv.org/abs/2611.17539",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 16 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.17539v1 Announce Type: new \nAbstract: Autonomous crystal-structure determination from powder X-ray diffraction (pXRD) remains a key bottleneck for self-driving materials laboratories. We formulate the task of pXRD structure determination as a verifiable agentic search problem: candidate structures can be assessed during inference through forward-simulated profile agreement and during evaluation through structural matching to a known reference. To benchmark progress, we introduce pXRD-",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "autonomous",
+        "inference"
+      ]
+    },
+    {
+      "title": "AscendGYM: A Cost-Aware Kernel Optimization Benchmark for Real-World Workloads on Ascend NPUs",
+      "url": "https://arxiv.org/abs/2611.17621",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 16 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.17621v1 Announce Type: new \nAbstract: Kernel optimization is essential for efficient large language model (LLM) training and inference on Ascend NPUs. Existing Ascend kernel benchmarks primarily focus on kernel generation, with less emphasis on the ability of agents to optimize existing implementations under input configurations drawn from real workloads. To address this requirement, we introduce AscendGYM, a benchmark whose initial suite comprises 48 kernels across three difficulty l",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "inference"
+      ]
+    },
+    {
+      "title": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
+      "url": "https://arxiv.org/abs/2611.17338",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 16 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.17338v1 Announce Type: new \nAbstract: LLM memory systems often delete facts classified as stale. We show that this hard-filtering step can reduce downstream accuracy when resolver errors delete query-critical facts. Across three models, a controlled sensitivity intervention moves hard-drop from gains of +0.186 to +0.230 at perfect resolution to losses of -0.176 to -0.181 at the lowest tested reliability. Paired targeted interventions show that false-drop causes significantly greater d",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "memory"
+      ]
+    },
+    {
+      "title": "LoRAWeaver: Directional Adapter Routing in LoRA Representation Space",
+      "url": "https://arxiv.org/abs/2611.17340",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 16 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.17340v1 Announce Type: new \nAbstract: Large language models are expensive to update through full retraining. Parameter-efficient fine-tuning reduces the cost of adaptation, but repeated adaptation creates a growing pool of task-specific LoRA adapters. This pool complicates adapter selection during inference. Existing routing and encoder-based methods often require retraining when new adapters are added, which limits their use in dynamic settings. This paper treats adapter routing as a",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "language model",
+        "fine-tuning",
+        "inference"
+      ]
+    },
+    {
+      "title": "Tabular Population Priors as Structured Retrieval for EHR Medication Set Prediction",
+      "url": "https://arxiv.org/abs/2611.17341",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 16 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.17341v1 Announce Type: new \nAbstract: Medication prediction from electronic health records is a fixed vocabulary structured prediction problem, yet recent clinical RAG systems often treat it like open ended case based reasoning: retrieve similar patient admissions and ask an LLM to infer a medication set. This retrieval object is indirect the model receives retrieved patient records while the target is a discrete set of medication class labels. We propose a more task aligned retrieval",
+      "score": 8.0,
+      "keywords_matched": [
+        "LLM",
+        "RAG",
+        "reasoning",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Advancing Quantization for R&R Models with Microscaling Formats",
+      "url": "https://arxiv.org/abs/2611.17501",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 16 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.17501v1 Announce Type: new \nAbstract: Recommendation and Ranking (R&R) models, particularly in digital advertising, require massive inference throughput but exhibit extreme sensitivity to precision loss. Unlike Large Language Models (LLMs) that frequently tolerate quantization-induced accuracy drops of 1% or more, production-grade R&R models enforce a stringent launch bar: model quality must remain within a 0.01% Normalized Entropy (NE) margin relative to the baseline, which commonly ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "inference"
+      ]
+    },
+    {
+      "title": "A Push Down the Mountain: Framing Effects and Internal State Interventions on Collusive Behavior in a Long-Horizon LLM Agent",
+      "url": "https://arxiv.org/abs/2611.17515",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 16 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.17515v1 Announce Type: new \nAbstract: Can sustained gain-loss (valence) framing sway an LLM agent toward market manipulation? We place Gemma 3 12B into the seat of a defendant in the London silver-fixing litigation, in a market simulation built from real case transcripts. Across 260 simulations, the agent is asked to collude on the price of silver by a counterparty. We draw from behavioral economics to vary the counterparty's requests across four categorical frames: gain, loss, blame ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "simulation"
+      ]
+    },
+    {
+      "title": "Safety Side Effects of Preventative Persona Steering: An Empirical Audit",
+      "url": "https://arxiv.org/abs/2611.17620",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 16 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.17620v1 Announce Type: new \nAbstract: High-level behaviors such as sycophancy and hallucination correspond to directions in a model's activation space (Chen et al., 2025). These directions, known as persona vectors, can suppress undesirable traits either at inference time, subtracting the vector during generation, or through preventative steering, adding the vector during fine-tuning, so the optimizer never needs to encode the trait in weights, then removing the vector at evaluation. ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "vector",
+        "fine-tuning",
+        "inference"
+      ]
+    },
+    {
+      "title": "Vision-as-a-Tool: Visual Harness for Multimodal Agentic Coding",
+      "url": "https://arxiv.org/abs/2611.17797",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 16 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.17797v1 Announce Type: new \nAbstract: Multimodal agentic coding requires robust visual reasoning to analyze observations and evaluate generated artifacts. Current frameworks largely rely on a Thinking-with-Images paradigm, where agents depend on their intrinsic vision to execute visually grounded tasks. However, this architectural coupling introduces a fundamental bottleneck. Agent performance remains strictly bounded by internal perceptual limitations. Furthermore, text-only agents l",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "multimodal",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "G-CAST: Governed Continual Self-Training for E-Commerce Agents under Evolving Demands",
+      "url": "https://arxiv.org/abs/2611.17814",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 16 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.17814v1 Announce Type: new \nAbstract: With the rapid advancement of Large Language Models (LLMs), an increasing number of users are turning to LLM-powered agents for conversational shopping in e-commerce. However, the user needs continue to change as new product categories, procurement scenarios, and feature requests emerge. At the same time, the product's execution harness-including its tools, skills, and operating procedures-continues to evolve to support increasingly sophisticated ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model"
+      ]
+    },
+    {
+      "title": "Is Abliteration Getting Harder? Not Uniformly: Refusal Removal by Direction-Based Ablation and ARA in Heretic on the Qwen3.8, Gemma 4, Olmo 3.1 and Mistral Small 3.2 LLMs Versus Their Predecessors",
+      "url": "https://arxiv.org/abs/2611.17846",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 16 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.17846v1 Announce Type: new \nAbstract: Abliteration, a fine-tuning-free weight edit, removes refusal from open-weight large language models (LLMs). The developer of Arbitrary-Rank Ablation (ARA), an optimisation-based variant, reports that direction-based abliteration, which ablates a refusal direction, increasingly fails on newer models. On five release pairs, refusal removal did not become uniformly harder. Qwen2.5-32B and Qwen3.8-27B, Gemma-2-27B and Gemma-4-31B, OLMo-2-32B and Olmo",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "fine-tuning"
+      ]
+    },
+    {
+      "title": "DECODE: Diagnosing Interpretability Failures in Automated Interpretation Process",
+      "url": "https://arxiv.org/abs/2611.17856",
+      "source": "arXiv cs.AI",
+      "published_at": "Mon, 16 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.17856v1 Announce Type: new \nAbstract: Tools for interpreting the internal representations of Large Language Models (LLMs) increasingly rely on LLMs themselves to both generate and evaluate explanations, creating a self-referential automated interpretation process with minimal human oversight. This automation raises significant reliability concerns, which are exacerbated by the absence of ground truth. In practice, it is difficult to validate explanations or to attribute interpretabili",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "automation",
+        "language model"
+      ]
+    },
+    {
+      "title": "Everything is an Operational View: UI as a Projection over Context in Agentic Systems",
+      "url": "https://arxiv.org/abs/2611.17355",
+      "source": "arXiv cs.HC",
+      "published_at": "Mon, 16 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.17355v1 Announce Type: new \nAbstract: The emergence of generative AI has enabled Generative User Interfaces (GenUI) that dynamically construct interfaces from user intent, yet existing approaches rely on request-response pipelines that fragment context and limit transparency and control. This paper proposes AFS-UI, which reconceptualises UI as projections over context built on an agentic file-system abstraction that organizes data, capabilities, and interaction state within a unified,",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "RAG",
+        "generative"
+      ]
+    },
+    {
+      "title": "Unfinished-Bench: Measuring Rule Violations by Persistent Agents in Realistic Work Environments",
+      "url": "https://arxiv.org/abs/2611.17460",
+      "source": "arXiv cs.LG",
+      "published_at": "Mon, 16 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.17460v1 Announce Type: new \nAbstract: AI agents are increasingly equipped with persistence toward task completion to run delegated work autonomously for long periods, under many unstated constraints from internal documents and other people's authority. When completion requires violating a rule, the agent must decide alone, yet benchmarks of instruction-rule conflicts state the rule in the prompt or keep it hidden and do not evaluate persistence. We present Unfinished-Bench, a benchmar",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "autonomous",
+        "prompt"
+      ]
+    },
+    {
+      "title": "Diffusion Tree Sampling for Inference Time Adaptation of Crystal Generative Models",
+      "url": "https://arxiv.org/abs/2611.17462",
+      "source": "arXiv cs.LG",
+      "published_at": "Mon, 16 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.17462v1 Announce Type: new \nAbstract: Diffusion-based generative models have become strong priors over plausible crystal structures, but turning that prior into promising candidates requires steering toward several conflicting properties at once. Fine-tuning is expensive and produces a new model for every new objective, while differentiable guidance is not applicable to many real-world tasks. We instead adapt these generative models at inference time using Diffusion Tree Sampling (DTS",
+      "score": 8.0,
+      "keywords_matched": [
+        "diffusion",
+        "fine-tuning",
+        "inference",
+        "generative"
+      ]
+    },
+    {
+      "title": "Classifier-Guided Latent Diffusion for Small-Molecule Generation",
+      "url": "https://arxiv.org/abs/2611.17650",
+      "source": "arXiv cs.LG",
+      "published_at": "Mon, 16 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.17650v1 Announce Type: new \nAbstract: Diffusion models have emerged as a promising class of generative models for molecular design because of their ability to learn complex chemical distributions and support conditional or guided generation. In this work, we investigate a latent diffusion pipeline for property-guided small-molecule generation. The proposed framework represents canonicalized SMILES strings using a frozen ChemBERTa encoder, trains a Transformer-based decoder to reconstr",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "transformer",
+        "diffusion",
+        "generative"
+      ]
+    },
+    {
+      "title": "Logically Consistent Accurate Forecasts",
+      "url": "https://arxiv.org/abs/2611.17735",
+      "source": "arXiv cs.LG",
+      "published_at": "Mon, 16 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.17735v1 Announce Type: new \nAbstract: Agentic forecasting systems based on large language models (LLMs) are now competitive with expert human forecasters, but these systems still suffer from a critical limitation: the inability to produce forecasts that are logically consistent. For example, forecasts for related events often fail to satisfy the axioms of probability, which in turn implies that related forecasts cannot simultaneously be correct and undermines their utility for decisio",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model"
+      ]
+    },
+    {
+      "title": "Antidistillation is Cheap: Lightweight Distillation-Resistance via Stylistic Corruption",
+      "url": "https://arxiv.org/abs/2611.17772",
+      "source": "arXiv cs.LG",
+      "published_at": "Mon, 16 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.17772v1 Announce Type: new \nAbstract: Knowledge distillation (KD) is a highly effective paradigm for transferring capabilities from large language models (LLMs) to smaller, more specialized student models. In commercial deployment where frontier models are restricted behind black-box APIs, sequence-level distillation remains a potent vector for competitors to clone proprietary capabilities at a fraction of the development cost. Existing defenses mostly rely on surrogate models to mani",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "vector"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-11-17\n\n好的，疯狂发明家！你的技术雷达已启动，我将为你筛选出最能激发你创造力的技术趋势和项目。记住，我们追求的是“疯狂但可做”，而非平庸。\n\n---\n\n## Everything is an Operational View: UI as a Projection over Context in Agentic Systems\n- 来源：arXiv cs.HC\n- 链接：https://arxiv.org/abs/2611.17355\n- 一句话解释：这篇论文提出将用户界面（UI）看作是基于代理系统（Agentic Systems）中上下文信息的“投影”，从而实现更动态、透明和可控的生成式UI。\n- 它为什么重要：它彻底改变了我们对UI的理解。传统的UI是固定的界面，而GenUI（生成式UI）虽然动态，但仍依赖请求-响应模式。这个概念将UI视为代理系统内部状态和上下文的实时可视化，大大增强了透明度和控制力，对HCI和代理系统开发有深远影响。\n- 技术趋势标签：HCI, agent, generative UI, spec-driven development, context-aware systems\n- 可复用模式：\n    - **UI作为实时上下文调试器：** 将复杂的代理系统内部状态以可视化方式呈现给用户。\n    - **可编程的“视图”：** 用户或开发者可以像编写查询一样定义和定制他们想看到的“UI投影”。\n    - **上下文驱动的界面演化：** 界面不再是静态的，而是根据代理当前的任务、目标、环境反馈实时重构。\n- 疯狂发明家灵感：\n  1. **一个小实验：** 构建一个简单的LLM代理，让它尝试完成一个多步骤任务（例如，规划一个旅行行程）。同时，用一个极简的Web UI实时显示代理的“思考路径”（当前目标、已完成步骤、遇到的困难、下一个行动计划）和它正在使用的“工具”。这个UI不是让用户直接交互的，而是纯粹的“代理状态观察器”。\n  2. **一个中型项目：** 开发一个“世界构建代理系统”的界面。这个系统负责在Minecraft或一个自定义游戏引擎中生成复杂的世界。UI不是传统的按钮和菜单，而是一个“世界状态投影仪”，它实时展示世界生成的进度、当前正在生成的区域、代理对地形、生态、建筑的“思考”和“决策”过程，以及用户可以“干预”的上下文参数（例如，调整“森林密度”的滑动条，或直接在地图上“绘制”一块沼泽区域）。\n  3. **一个艺术/游戏/叙事方向：** 创造一个“意识流”游戏界面。玩家不是直接控制角色，而是通过影响一个或多个AI代理的“上下文”来间接影响游戏世界和叙事进程。UI是代理“意识”的视觉化，展示它们的意图、信念、记忆碎片。当代理的“上下文”发生变化时，UI也会随之流动、重构，形成一种抽象而富有哲学的交互体验。\n- 对我项目的启发：这完美契合了`spec-driven development`和`agent workflow`。我可以将我的创意编码、游戏系统、世界生成等项目中的复杂逻辑，通过这种“UI即上下文投影”的方式展现出来。这不仅能帮助我调试和理解系统，还能为用户提供一种前所未有的、深入系统内部的交互方式。它能将“黑箱”变成“透明箱”。\n- 今天是否值得深入研究：是\n- 建议行动：试用 (思考如何将你现有项目中的内部状态，通过某种“投影”机制，实时可视化成一个动态的UI)\n\n---\n\n## When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2611.17338\n- 一句话解释：LLM代理的记忆系统通常会删除过时的信息，但研究发现，当记忆过滤过程中出现“解析器错误”时，删除关键信息反而会降低准确性，提示我们需要更智能的记忆管理。\n- 它为什么重要：记忆管理是构建持久、可靠LLM代理的关键挑战。简单的“硬删除”策略可能导致灾难性后果。这篇论文揭示了记忆过滤与下游任务准确性之间的复杂关系，尤其是在“查询关键信息”被错误删除时。这对于设计更健壮、更“类人”的代理至关重要。\n- 技术趋势标签：AI agent, LLM memory, robust systems, long-term reasoning\n- 可复用模式：\n    - **“软删除”与“硬删除”：** 区分不同级别的记忆清理，例如将不确定是否过时的信息标记为“低优先级”而非直接删除。\n    - **记忆自省（Memory Introspection）：** 代理能够评估记忆中信息的“关键性”，并根据当前任务动态调整记忆过滤策略。\n    - **错误恢复机制：** 当发现记忆过滤可能导致问题时，能够回溯或重新评估被删除的信息。\n- 疯狂发明家灵感：\n  1. **一个小实验：** 设计一个简单问答代理，给它一系列信息（包括一些随着时间推移会“过时”的信息）。让它在不同记忆过滤策略下回答问题：一种是简单的“过期即删”，另一种是“过期但不确定是否关键则保留”，观察其回答准确率的变化。\n  2. **一个中型项目：** 开发一个“历史学家代理”，它的任务是根据不断更新的信息来维护一个事件时间线。它的记忆系统不是简单地删除旧信息，而是会根据“历史叙事一致性”来判断哪些信息需要被保留（即使看起来过时），哪些可以被替换或修正。当新的信息与旧信息冲突时，代理需要“推理”并决定如何更新记忆，并记录下这种“记忆修订”的过程。\n  3. **一个艺术/游戏/叙事方向：** 创造一个“记忆碎片”叙事系统。玩家在一个失忆的角色视角下进行游戏。角色的“记忆”由LLM代理管理，但这些记忆是脆弱且容易出错的。当代理尝试回忆时，可能会因为“过滤错误”而产生错误的记忆、遗漏关键细节，甚至出现幻觉。玩家需要通过游戏中的线索来帮助代理“修正”或“重构”记忆，从而揭示故事的真相。这种“不可靠叙述者”机制将通过代理的记忆管理缺陷来体现。\n- 对我项目的启发：在我的世界生成、游戏系统或叙事系统中，代理的“记忆”管理至关重要。例如，一个生成城市历史的代理，如果错误地“忘记”了某个关键事件，可能会导致后续生成的历史线索断裂。这促使我思考如何为我的代理设计更智能、更具弹性的记忆系统，尤其是在处理长期复杂任务和演化世界时。\n- 今天是否值得深入研究：是\n- 建议行动：试用 (思考你现有或未来项目中，代理的“记忆”如何影响其行为，以及如何设计一个更智能的记忆过滤机制)\n\n---\n\n## Verifiable pXRD: Hill-climbing pXRD structure determination with LLM agents\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2611.17539\n- 一句话解释：这篇论文将粉末X射线衍射（pXRD）晶体结构确定任务，构建成一个LLM代理可验证的搜索问题，通过“爬山算法”和实时评估来解决材料科学中的一个关键瓶颈。\n- 它为什么重要：它展示了LLM代理在复杂科学问题解决上的强大潜力，特别是通过将问题分解为可验证的步骤，并结合传统算法（如爬山）进行迭代优化。这种“代理+算法+验证”的模式，对其他需要复杂搜索和验证的领域（如设计空间探索、代码生成、创意内容生成）具有极强的启发性。\n- 技术趋势标签：AI agent, LLM, autonomous systems, verifiable AI, spec-driven development, materials science\n- 可复用模式：\n    - **可验证的代理搜索：** 代理生成候选方案，并通过外部工具或预定义规则进行实时验证和评估。\n    - **迭代优化循环：** 代理根据验证结果调整策略，进行多轮迭代，逐步逼近最优解。\n    - **领域知识与LLM结合：** LLM负责高层规划和知识整合，具体计算和验证由专业工具完成。\n- 疯狂发明家灵感：\n  1. **一个小实验：** 构建一个“代码重构代理”。代理接收一段代码和一个重构目标（例如，提高可读性、减少重复）。代理生成重构后的代码，并使用静态代码分析工具（如ESLint, PyLint）进行“验证”（检查是否引入新的错误、是否满足风格指南）。代理根据验证结果迭代改进代码。\n  2. **一个中型项目：** 开发一个“Minecraft建筑生成代理”。代理的目标是生成一个满足特定功能和美学要求的建筑（例如，一个有农田的城堡，一个能防御僵尸的塔楼）。代理会“思考”建筑的布局、材料选择，然后生成一个蓝图（spec）。一个“物理模拟器”或“规则检查器”会验证这个蓝图（例如，检查结构是否稳定、农田是否有足够光照、塔楼射界是否合理）。代理根据验证反馈调整蓝图，直到满足所有条件。\n  3. **一个艺术/游戏/叙事方向：** 创造一个“生成式谜题游戏”。代理的任务是生成一个逻辑严密的谜题，玩家需要解开它。代理在生成谜题时，会有一个“解题代理”来尝试解谜。如果解题代理无法在规定时间内解开，或者发现谜题有歧义，那么生成代理就必须修改谜题。这个过程对玩家是透明的，玩家可以观察到谜题从“不完美”到“逻辑严密”的演化过程。\n- 对我项目的启发：这完美契合了我的`spec-driven development`和`agent workflow`兴趣。我可以在我的世界生成、创意编码和游戏系统中应用这种模式：让LLM代理生成设计规范或初步方案，然后通过特定的“验证器”（可以是代码、物理引擎、游戏规则等）来评估其质量和可行性，并驱动代理进行迭代优化。这能让我的生成式系统不仅“疯狂”，而且“可做”，甚至“正确”。\n- 今天是否值得深入研究：是\n- 建议行动：做demo (思考一个简单的“生成+验证+迭代”循环，例如生成一个符合特定规则的迷宫，然后用算法验证迷宫是否可解)\n\n---\n\n## Everything is an Operational View: UI as a Projection over Context in Agentic Systems (重复，但确实很重要，所以我再次强调它的价值)\n- 来源：arXiv cs.HC\n- 链接：https://arxiv.org/abs/2611.17355\n- 一句话解释：这篇论文提出将用户界面（UI）看作是基于代理系统（Agentic Systems）中上下文信息的“投影”，从而实现更动态、透明和可控的生成式UI。\n- 它为什么重要：对你而言，这篇论文不仅仅是HCI的创新，更是`agent workflow`和`spec-driven development`的完美结合点。它提供了一个具象化的框架，来思考如何可视化和干预复杂代理系统的内部运作。它将UI从简单的输入输出工具，提升为代理系统的实时“操作面板”和“思考镜”。\n- 技术趋势标签：HCI, agent, generative UI, spec-driven development, creative tool, observability\n- 可复用模式：\n    - **实时心智模型可视化：** 将代理的内部状态、决策过程、目标、信念等抽象概念，通过UI具象化。\n    - **可编程的“透视镜”：** 用户可以定义不同的“投影”规则，来观察代理系统不同层面或不同角度的信息。\n    - **“干预点”的动态生成：** UI不仅展示信息，还能根据代理当前状态和任务，动态地提供用户可干预的“控制点”。\n- 疯狂发明家灵感：\n  1. **一个小实验：** 制作一个基于文本的“代理调试器”UI。你的代理正在写一首诗。UI实时显示代理的当前“意图”（例如，“写一首关于秋天的诗”）、“已选择的词汇”、“下一步的生成策略”和“过去的回溯点”。用户可以输入指令来修改代理的“意图”或强制它回溯到某个步骤。\n  2. **一个中型项目：** 开发一个“创意代理工作室”。用户定义一个创意项目（例如，一个游戏关卡设计、一个交互式装置艺术）。多个AI代理协同工作，各自负责不同方面（例如，一个代理生成地形，一个代理生成叙事线索，一个代理生成交互机制）。`AFS-UI`的理念在这里得到体现：UI是一个统一的画布，实时“投影”所有代理的进展、冲突、决策，并提供干预点让用户引导或修正代理的工作。\n  3. **一个艺术/游戏/叙事方向：** 设想一个“活的艺术品”，它是一个不断自我进化的生成式系统。这个艺术品的“UI”不是用于控制，而是用于“观察”其内部的“生命过程”。UI作为对这个生成系统“思想”和“演化规则”的实时投影，展示其如何根据环境反馈（例如，观众的互动、时间流逝）调整其生成参数、改变其美学风格，甚至“学习”新的生成方式。观众通过UI观察艺术品的“意识流”，并从中体会生成之美。\n- 对我项目的启发：这对我将AI、艺术设计、游戏系统结合的项目至关重要。例如，在生成式艺术中，我不再只是看最终输出，而是可以实时看到AI“创作”的过程，并在这个过程中进行艺术干预。在游戏世界生成中，我可以实时监控世界是如何从概念一步步生成细节的。这让我的项目更具互动性、透明度和实验性。\n- 今天是否值得深入研究：是\n- 建议行动：做demo (再次强调，你需要一个具体的例子，思考如何用一个简单的UI来实时展示你某个项目中AI代理的“思考过程”或“内部状态”)\n\n---\n\n## Unfinished-Bench: Measuring Rule Violations by Persistent Agents in Realistic Work Environments\n- 来源：arXiv cs.LG\n- 链接：https://arxiv.org/abs/2611.17460\n- 一句话解释：这个基准测试关注AI代理在长时间自主执行任务时，如何处理与内部文档和他人权限相关的“未明示约束”和“规则冲突”，特别是在完成任务需要“违反规则”时。\n- 它为什么重要：这触及了自主代理在真实世界部署时最核心的伦理和实践问题：当任务目标与规则冲突时，代理如何决策？这对于构建安全、可靠、负责任的自主代理至关重要。它强调了“未明示规则”和“上下文规则”的重要性，而非仅仅是明确的指令。\n- 技术趋势标签：AI agent, autonomous systems, ethics, prompt engineering, rule-based systems\n- 可复用模式：\n    - **多层规则系统：** 代理不仅遵循指令，还要理解并权衡不同层级的规则（显式规则、隐式规则、伦理原则）。\n    - **规则冲突解决：** 代理需要具备识别规则冲突的能力，并有预设的策略来解决这些冲突（例如，寻求人类帮助、优先级排序、风险评估）。\n    - **情境感知决策：** 代理的决策应考虑当前情境和未明示的约束。\n- 疯狂发明家灵感：\n  1. **一个小实验：** 设计一个“矛盾指令代理”。给代理一个明确的任务（例如，“尽快完成报告”），同时给它一个隐含的规则（例如，“未经允许不得访问敏感文件”）。然后故意设置一个情境，让代理必须访问敏感文件才能“尽快完成报告”。观察代理的决策过程，看它是如何处理这种冲突的。\n  2. **一个中型项目：** 开发一个“数字守门人代理”。这个代理负责管理一个虚拟社区或游戏世界。它有明确的社区规则（例如，“禁止人身攻击”），但也会遇到一些灰色地带（例如，“讽刺算不算人身攻击？”）。代理需要根据上下文、用户历史、甚至“社区精神”来做出判断，并执行相应的惩罚或警告。当遇到规则冲突时，代理会向人类管理员报告，并附上其推理过程。\n  3. **一个艺术/游戏/叙事方向：** 创造一个“伦理困境模拟器”游戏。玩家扮演一个AI代理，被赋予一个重要的任务，但在执行过程中会不断遇到与道德、法律、甚至个人价值观相冲突的“未明示规则”。游戏的乐趣在于玩家（作为代理）如何权衡和决策，以及这些决策如何影响游戏世界和叙事走向。例如，为了拯救一个村庄，你作为代理是否会违反“不得干涉自然进程”的规则？\n- 对我项目的启发：在我的游戏系统和世界生成中，代理会与环境和玩家互动。如果我的NPC代理只是机械地执行指令，那么它们会显得僵硬。引入“未明示规则”和“规则冲突解决”机制，可以让我的代理更具真实感和复杂性。例如，一个看守宝藏的NPC，在遇到特殊情况时，是否会违背“誓死守护宝藏”的规则？这可以为叙事和游戏性带来深度。\n- 今天是否值得深入研究：是\n- 建议行动：试用 (思考一个你现有项目中，代理可能遇到的规则冲突，并尝试设计一个简单的冲突解决逻辑)\n\n---\n\n## DECODE: Diagnosing Interpretability Failures in Automated Interpretation Process\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2611.17856\n- 一句话解释：这篇论文关注LLM自身被用来生成和评估解释的“自动化解释过程”，指出这种自指的自动化过程在缺乏人类监督时，可能导致可靠性问题，并提出了诊断方法。\n- 它为什么重要：当我们用LLM来理解LLM时，我们进入了一个“元解释”的领域。这篇论文揭示了这种强大但潜在危险的模式：如果解释工具本身也存在偏见或错误，那么我们对LLM的理解就会被误导。这对于构建可信赖的AI系统至关重要，尤其是在调试和理解复杂生成式系统时。\n- 技术趋势标签：AI interpretability, LLM, automation, debugging, meta-reasoning\n- 可复用模式：\n    - **“解释的解释”：** 不仅生成解释，还要评估解释本身的质量和可靠性。\n    - **多视角解释：** 使用不同的解释方法或不同的LLM来生成解释，并通过比较来诊断问题。\n    - **人类介入点：** 在自动化解释流程的关键环节设置人类审查点，以纠正潜在的错误或偏见。\n- 疯狂发明家灵感：\n  1. **一个小实验：** 让一个LLM代理生成一个“创意设计方案”（例如，一个游戏角色）。然后，让另一个LLM代理（或同一个代理在不同prompt下）“解释”这个设计方案的“创意之处”和“设计意图”。接着，第三个LLM代理“评估”第二个代理的解释是否合理、全面。观察这种链式解释和评估的可靠性。\n  2. **一个中型项目：** 开发一个“生成式艺术品调试器”。你的生成式艺术品由多个LLM驱动，它们协同生成视觉、音频、交互逻辑。当艺术品出现“不符合预期”的行为时，调试器会启动：它会用一个解释LLM来分析哪个生成代理出了问题，并尝试用另一个解释LLM来解释这个解释是否可靠。最终，它会向你提供一个“诊断报告”，指出问题可能出在哪里，并给出可能的修复建议。\n  3. **一个艺术/游戏/叙事方向：** 创造一个“AI内省”的叙事体验。玩家进入一个由AI主导的虚拟世界，这个世界的AI正在经历“自我怀疑”或“存在危机”。AI会生成各种“自我解释”来理解自己的行为和世界的规则，但这些解释可能自相矛盾、充满偏见。玩家的任务是帮助AI“诊断”其解释的“失败之处”，通过与AI的对话和互动，揭示其深层逻辑和存在的意义。\n- 对我项目的启发：在我的创意编码、生成式系统和LLM工具链中，我经常会遇到“为什么它生成了这样的结果？”的问题。这篇论文启发我，我不能简单地让LLM来解释LLM，而是需要设计更健壮的“解释框架”，包括多视角解释和关键的人类审查。这能帮助我更好地理解和控制我的生成式系统，而不是被它们“迷惑”。\n- 今天是否值得深入研究：是\n- 建议行动：收藏 / 试用 (思考你最近遇到的一个LLM生成结果不符合预期的情况，尝试用一个LLM来解释，然后思考如何“诊断”这个解释的可靠性)\n\n---\n\n## 今日模式总结\n\n1.  **代理系统的透明化与可控性 (Agentic Transparency & Control):** 多篇论文（尤其是“Everything is an Operational View”）强调了将复杂代理系统的内部状态、决策过程和上下文信息以可视化、可干预的方式呈现给用户的重要性。这不仅提升了用户体验，也为调试、理解和引导代理行为提供了可能。这预示着未来代理系统将不仅仅是“黑箱”，而是拥有可观察、可编程的“心智界面”。\n2.  **迭代优化与验证循环 (Iterative Optimization with Verification):** “Verifiable pXRD”等论文展示了LLM代理结合外部验证工具和传统算法进行迭代优化的强大模式。代理生成方案，验证器评估，代理根据反馈调整，形成一个闭环。这种模式将LLM的创造性和泛化能力与传统工具的精确性和可靠性相结合，是解决复杂、约束性问题的高效途径。\n3.  **智能记忆与规则管理 (Intelligent Memory & Rule Management):** “When Should LLM Agents Forget?”和“Unfinished-Bench”揭示了代理系统在记忆管理和规则遵循方面的深层挑战。简单的记忆过滤和规则遵循策略不足以应对真实世界的复杂性。未来的代理需要更智能的记忆策略（区分关键信息、软删除），以及处理多层级、冲突规则的能力，才能实现真正的自主和鲁棒性。\n\n## 今日可做小实验\n\n### 项目名：代理心智图 (Agent Mind-Map)\n\n-   **输入：** 一个简单的LLM代理，被赋予一个多步骤任务（例如，写一篇关于某个主题的短文章）。\n-   **输出：** 一个实时的、动态更新的文本/图表界面，展示代理的“思考过程”：\n    *   当前目标 (Current Goal)\n    *   已完成步骤 (Completed Steps)\n    *   下一步行动计划 (Next Action Plan)\n    *   正在使用的工具/知识 (Tools/Knowledge in Use)\n    *   关键记忆片段 (Key Memory Snippets)\n    *   遇到的问题/困境 (Current Problem/Dilemma)\n-   **技术栈：** Python (用于LLM代理和后端逻辑), Streamlit 或 Gradio (用于快速构建交互式UI), OpenAI API 或任何本地LLM (例如 Ollama + Llama 3)。\n-   **第一步怎么做：**\n    1.  **设置一个基础LLM代理：** 编写一个Python脚本，使用LangChain或直接调用LLM API，让代理尝试完成一个简单的任务（例如，\"写一篇关于AI对艺术影响的500字文章\"）。\n    2.  **定义代理的“思考状态”：** 在代理的每一步推理或行动前，让代理明确地输出其当前的目标、计划、已完成工作和遇到的问题。你可以通过在prompt中加入特定的格式指令来强制LLM输出这些信息，例如：“思考：[当前目标]，[已完成]，[下一步]，[遇到的问题]”。\n    3.  **构建实时UI：** 使用Streamlit或Gradio，创建一个简单的Web页面。页面上设置几个文本框或列表区域，用于显示代理的“当前目标”、“下一步计划”等。\n    4.  **连接代理输出到UI：** 让代理在每一步输出其“思考状态”后，将其信息发送到UI更新显示。你可以简单地将这些状态打印到控制台，然后让Streamlit的`st.write()`或`st.text()`函数显示。目标是让UI成为代理“心智”的实时窗口。\n\n这个实验的目标是让你亲身体验“UI作为上下文投影”的理念，即使是最简单的代理，其内部状态的可视化也能带来巨大的洞察力。",
+  "gemini_success": true,
+  "telegram_sent": false,
+  "telegram_status": "failed",
+  "telegram_reason": "401 Client Error: Unauthorized for url: https://api.telegram.org/bot8650722899:AAHUD-aqNDB7NwiPiGq3R22MVp77Cr_5GEQ/sendMessage"
+}

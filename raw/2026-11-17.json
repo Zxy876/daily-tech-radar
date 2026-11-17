@@ -1,0 +1,288 @@
+[
+  {
+    "title": "More Agents, More Samples, or More Thinking? Untangling Coordination, Ensembling, and Test-Time Compute in Multi-Agent LLMs",
+    "url": "https://arxiv.org/abs/2611.17610",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 16 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.17610v1 Announce Type: new \nAbstract: Evaluations of multi-agent language models often compare communicating architectures against a single greedy pass. This practice confounds coordination with sample multiplicity and inference compute. We synthesize nine primary empirical evaluations comprising 516 unique multi-agent configurations organized along a resource vector R with six dimensions and a baseline ladder with four categories. Against baselines with a single pass (Category A), mu",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "vector",
+      "inference"
+    ]
+  },
+  {
+    "title": "Alignment with Reflect-Reasoning: Learning How To Follow Principles",
+    "url": "https://arxiv.org/abs/2611.17398",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 16 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.17398v1 Announce Type: new \nAbstract: The appropriate governing norms and principles for the alignment of Large Language Models (LLMs) often depend on cultural context and deployment application. However, most alignment techniques focus on training models to conform to human preferences or constitutional principles specified at training time and subsequently fixed. In practice, many deployers rely on system prompting to implement contextual norms and guardrails at inference time. Prio",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "inference",
+      "prompt",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Verifiable pXRD: Hill-climbing pXRD structure determination with LLM agents",
+    "url": "https://arxiv.org/abs/2611.17539",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 16 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.17539v1 Announce Type: new \nAbstract: Autonomous crystal-structure determination from powder X-ray diffraction (pXRD) remains a key bottleneck for self-driving materials laboratories. We formulate the task of pXRD structure determination as a verifiable agentic search problem: candidate structures can be assessed during inference through forward-simulated profile agreement and during evaluation through structural matching to a known reference. To benchmark progress, we introduce pXRD-",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "autonomous",
+      "inference"
+    ]
+  },
+  {
+    "title": "AscendGYM: A Cost-Aware Kernel Optimization Benchmark for Real-World Workloads on Ascend NPUs",
+    "url": "https://arxiv.org/abs/2611.17621",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 16 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.17621v1 Announce Type: new \nAbstract: Kernel optimization is essential for efficient large language model (LLM) training and inference on Ascend NPUs. Existing Ascend kernel benchmarks primarily focus on kernel generation, with less emphasis on the ability of agents to optimize existing implementations under input configurations drawn from real workloads. To address this requirement, we introduce AscendGYM, a benchmark whose initial suite comprises 48 kernels across three difficulty l",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "inference"
+    ]
+  },
+  {
+    "title": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
+    "url": "https://arxiv.org/abs/2611.17338",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 16 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.17338v1 Announce Type: new \nAbstract: LLM memory systems often delete facts classified as stale. We show that this hard-filtering step can reduce downstream accuracy when resolver errors delete query-critical facts. Across three models, a controlled sensitivity intervention moves hard-drop from gains of +0.186 to +0.230 at perfect resolution to losses of -0.176 to -0.181 at the lowest tested reliability. Paired targeted interventions show that false-drop causes significantly greater d",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "memory"
+    ]
+  },
+  {
+    "title": "LoRAWeaver: Directional Adapter Routing in LoRA Representation Space",
+    "url": "https://arxiv.org/abs/2611.17340",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 16 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.17340v1 Announce Type: new \nAbstract: Large language models are expensive to update through full retraining. Parameter-efficient fine-tuning reduces the cost of adaptation, but repeated adaptation creates a growing pool of task-specific LoRA adapters. This pool complicates adapter selection during inference. Existing routing and encoder-based methods often require retraining when new adapters are added, which limits their use in dynamic settings. This paper treats adapter routing as a",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "language model",
+      "fine-tuning",
+      "inference"
+    ]
+  },
+  {
+    "title": "Tabular Population Priors as Structured Retrieval for EHR Medication Set Prediction",
+    "url": "https://arxiv.org/abs/2611.17341",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 16 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.17341v1 Announce Type: new \nAbstract: Medication prediction from electronic health records is a fixed vocabulary structured prediction problem, yet recent clinical RAG systems often treat it like open ended case based reasoning: retrieve similar patient admissions and ask an LLM to infer a medication set. This retrieval object is indirect the model receives retrieved patient records while the target is a discrete set of medication class labels. We propose a more task aligned retrieval",
+    "score": 8.0,
+    "keywords_matched": [
+      "LLM",
+      "RAG",
+      "reasoning",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Advancing Quantization for R&R Models with Microscaling Formats",
+    "url": "https://arxiv.org/abs/2611.17501",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 16 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.17501v1 Announce Type: new \nAbstract: Recommendation and Ranking (R&R) models, particularly in digital advertising, require massive inference throughput but exhibit extreme sensitivity to precision loss. Unlike Large Language Models (LLMs) that frequently tolerate quantization-induced accuracy drops of 1% or more, production-grade R&R models enforce a stringent launch bar: model quality must remain within a 0.01% Normalized Entropy (NE) margin relative to the baseline, which commonly ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "inference"
+    ]
+  },
+  {
+    "title": "A Push Down the Mountain: Framing Effects and Internal State Interventions on Collusive Behavior in a Long-Horizon LLM Agent",
+    "url": "https://arxiv.org/abs/2611.17515",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 16 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.17515v1 Announce Type: new \nAbstract: Can sustained gain-loss (valence) framing sway an LLM agent toward market manipulation? We place Gemma 3 12B into the seat of a defendant in the London silver-fixing litigation, in a market simulation built from real case transcripts. Across 260 simulations, the agent is asked to collude on the price of silver by a counterparty. We draw from behavioral economics to vary the counterparty's requests across four categorical frames: gain, loss, blame ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "simulation"
+    ]
+  },
+  {
+    "title": "Safety Side Effects of Preventative Persona Steering: An Empirical Audit",
+    "url": "https://arxiv.org/abs/2611.17620",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 16 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.17620v1 Announce Type: new \nAbstract: High-level behaviors such as sycophancy and hallucination correspond to directions in a model's activation space (Chen et al., 2025). These directions, known as persona vectors, can suppress undesirable traits either at inference time, subtracting the vector during generation, or through preventative steering, adding the vector during fine-tuning, so the optimizer never needs to encode the trait in weights, then removing the vector at evaluation. ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "vector",
+      "fine-tuning",
+      "inference"
+    ]
+  },
+  {
+    "title": "Vision-as-a-Tool: Visual Harness for Multimodal Agentic Coding",
+    "url": "https://arxiv.org/abs/2611.17797",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 16 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.17797v1 Announce Type: new \nAbstract: Multimodal agentic coding requires robust visual reasoning to analyze observations and evaluate generated artifacts. Current frameworks largely rely on a Thinking-with-Images paradigm, where agents depend on their intrinsic vision to execute visually grounded tasks. However, this architectural coupling introduces a fundamental bottleneck. Agent performance remains strictly bounded by internal perceptual limitations. Furthermore, text-only agents l",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "multimodal",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "G-CAST: Governed Continual Self-Training for E-Commerce Agents under Evolving Demands",
+    "url": "https://arxiv.org/abs/2611.17814",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 16 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.17814v1 Announce Type: new \nAbstract: With the rapid advancement of Large Language Models (LLMs), an increasing number of users are turning to LLM-powered agents for conversational shopping in e-commerce. However, the user needs continue to change as new product categories, procurement scenarios, and feature requests emerge. At the same time, the product's execution harness-including its tools, skills, and operating procedures-continues to evolve to support increasingly sophisticated ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model"
+    ]
+  },
+  {
+    "title": "Is Abliteration Getting Harder? Not Uniformly: Refusal Removal by Direction-Based Ablation and ARA in Heretic on the Qwen3.8, Gemma 4, Olmo 3.1 and Mistral Small 3.2 LLMs Versus Their Predecessors",
+    "url": "https://arxiv.org/abs/2611.17846",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 16 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.17846v1 Announce Type: new \nAbstract: Abliteration, a fine-tuning-free weight edit, removes refusal from open-weight large language models (LLMs). The developer of Arbitrary-Rank Ablation (ARA), an optimisation-based variant, reports that direction-based abliteration, which ablates a refusal direction, increasingly fails on newer models. On five release pairs, refusal removal did not become uniformly harder. Qwen2.5-32B and Qwen3.8-27B, Gemma-2-27B and Gemma-4-31B, OLMo-2-32B and Olmo",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "fine-tuning"
+    ]
+  },
+  {
+    "title": "DECODE: Diagnosing Interpretability Failures in Automated Interpretation Process",
+    "url": "https://arxiv.org/abs/2611.17856",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 16 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.17856v1 Announce Type: new \nAbstract: Tools for interpreting the internal representations of Large Language Models (LLMs) increasingly rely on LLMs themselves to both generate and evaluate explanations, creating a self-referential automated interpretation process with minimal human oversight. This automation raises significant reliability concerns, which are exacerbated by the absence of ground truth. In practice, it is difficult to validate explanations or to attribute interpretabili",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "automation",
+      "language model"
+    ]
+  },
+  {
+    "title": "Everything is an Operational View: UI as a Projection over Context in Agentic Systems",
+    "url": "https://arxiv.org/abs/2611.17355",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 16 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.17355v1 Announce Type: new \nAbstract: The emergence of generative AI has enabled Generative User Interfaces (GenUI) that dynamically construct interfaces from user intent, yet existing approaches rely on request-response pipelines that fragment context and limit transparency and control. This paper proposes AFS-UI, which reconceptualises UI as projections over context built on an agentic file-system abstraction that organizes data, capabilities, and interaction state within a unified,",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "RAG",
+      "generative"
+    ]
+  },
+  {
+    "title": "Unfinished-Bench: Measuring Rule Violations by Persistent Agents in Realistic Work Environments",
+    "url": "https://arxiv.org/abs/2611.17460",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 16 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.17460v1 Announce Type: new \nAbstract: AI agents are increasingly equipped with persistence toward task completion to run delegated work autonomously for long periods, under many unstated constraints from internal documents and other people's authority. When completion requires violating a rule, the agent must decide alone, yet benchmarks of instruction-rule conflicts state the rule in the prompt or keep it hidden and do not evaluate persistence. We present Unfinished-Bench, a benchmar",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "autonomous",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Diffusion Tree Sampling for Inference Time Adaptation of Crystal Generative Models",
+    "url": "https://arxiv.org/abs/2611.17462",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 16 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.17462v1 Announce Type: new \nAbstract: Diffusion-based generative models have become strong priors over plausible crystal structures, but turning that prior into promising candidates requires steering toward several conflicting properties at once. Fine-tuning is expensive and produces a new model for every new objective, while differentiable guidance is not applicable to many real-world tasks. We instead adapt these generative models at inference time using Diffusion Tree Sampling (DTS",
+    "score": 8.0,
+    "keywords_matched": [
+      "diffusion",
+      "fine-tuning",
+      "inference",
+      "generative"
+    ]
+  },
+  {
+    "title": "Classifier-Guided Latent Diffusion for Small-Molecule Generation",
+    "url": "https://arxiv.org/abs/2611.17650",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 16 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.17650v1 Announce Type: new \nAbstract: Diffusion models have emerged as a promising class of generative models for molecular design because of their ability to learn complex chemical distributions and support conditional or guided generation. In this work, we investigate a latent diffusion pipeline for property-guided small-molecule generation. The proposed framework represents canonicalized SMILES strings using a frozen ChemBERTa encoder, trains a Transformer-based decoder to reconstr",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "transformer",
+      "diffusion",
+      "generative"
+    ]
+  },
+  {
+    "title": "Logically Consistent Accurate Forecasts",
+    "url": "https://arxiv.org/abs/2611.17735",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 16 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.17735v1 Announce Type: new \nAbstract: Agentic forecasting systems based on large language models (LLMs) are now competitive with expert human forecasters, but these systems still suffer from a critical limitation: the inability to produce forecasts that are logically consistent. For example, forecasts for related events often fail to satisfy the axioms of probability, which in turn implies that related forecasts cannot simultaneously be correct and undermines their utility for decisio",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model"
+    ]
+  },
+  {
+    "title": "Antidistillation is Cheap: Lightweight Distillation-Resistance via Stylistic Corruption",
+    "url": "https://arxiv.org/abs/2611.17772",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 16 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.17772v1 Announce Type: new \nAbstract: Knowledge distillation (KD) is a highly effective paradigm for transferring capabilities from large language models (LLMs) to smaller, more specialized student models. In commercial deployment where frontier models are restricted behind black-box APIs, sequence-level distillation remains a potent vector for competitors to clone proprietary capabilities at a fraction of the development cost. Existing defenses mostly rely on surrogate models to mani",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "vector"
+    ]
+  }
+]
