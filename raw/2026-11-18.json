@@ -1,0 +1,259 @@
+[
+  {
+    "title": "dograh-hq / dograh",
+    "url": "https://github.com/dograh-hq/dograh",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across Speech to Speech or LLM/STT/TTS, with a visual workflow builder, MCP native and telephony support. [17 stars today]",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "workflow",
+      "open source",
+      "self-hosted"
+    ]
+  },
+  {
+    "title": "Graphify-Labs / graphify",
+    "url": "https://github.com/Graphify-Labs/graphify",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store. [649 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "Claude",
+      "Gemini",
+      "vector"
+    ]
+  },
+  {
+    "title": "Tencent / LoopForge",
+    "url": "https://github.com/Tencent/LoopForge",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants. [591 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "Claude",
+      "workflow",
+      "self-hosted"
+    ]
+  },
+  {
+    "title": "vstorm-co / agenticos",
+    "url": "https://github.com/vstorm-co/agenticos",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Open-source, self-hosted AI agent platform for your company's AI teammates. Build, run and govern agents on your own servers and models: shared chat, RAG, skills, a real browser, 4,700+ MCP servers, budgets, approvals and an audit trail. An alternative to ChatGPT Enterprise and Grok Bot. Apache-2.0, built on Pydantic AI. [44 stars today]",
+    "score": 7.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "GPT",
+      "RAG",
+      "self-hosted"
+    ]
+  },
+  {
+    "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+    "url": "https://starsling.dev",
+    "source": "Hacker News",
+    "published_at": "Tue, 17 Nov 2026 19:01:43 +0000",
+    "description": "We’re Yonas and Daniel and we’re building StarSling ( https://starsling.dev ), fast GitHub Actions runners with AI agents that ship PRs to continuously improve your tests and workflows. Every CI job gets its own ephemeral sandbox on the fastest Zen 5 machines and NVMe Disk with unlimited concurrency so a burst of agent PRs all run at once. We’re different from other runners because ours come with agents that cut down your CI bill over time. PRs are generated through our CI harness, which runs an",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow"
+    ]
+  },
+  {
+    "title": "ComposioHQ / awesome-claude-skills",
+    "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows [85 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "Claude",
+      "workflow"
+    ]
+  },
+  {
+    "title": "google-labs-code / stitch-skills",
+    "url": "https://github.com/google-labs-code/stitch-skills",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor. [350 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "agent",
+      "Claude",
+      "Gemini"
+    ]
+  },
+  {
+    "title": "stablyai / orca",
+    "url": "https://github.com/stablyai/orca",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime. [1,066 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude"
+    ]
+  },
+  {
+    "title": "nightly-labs / openbot",
+    "url": "https://github.com/nightly-labs/openbot",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration. [343 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude"
+    ]
+  },
+  {
+    "title": "alibaba / open-code-review",
+    "url": "https://github.com/alibaba/open-code-review",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. [763 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM"
+    ]
+  },
+  {
+    "title": "affaan-m / ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. [883 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "agent",
+      "Claude",
+      "memory"
+    ]
+  },
+  {
+    "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+    "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+    "source": "Hacker News",
+    "published_at": "Tue, 17 Nov 2026 21:16:12 +0000",
+    "description": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=50538303 Points: 34 # Comments: 63",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "GPT‑6.2 Astra and Sol",
+    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+    "source": "Hacker News",
+    "published_at": "Tue, 17 Nov 2026 17:46:43 +0000",
+    "description": "Article URL: https://openai.com/index/introducing-gpt-6-2-astra-sol/ Comments URL: https://news.ycombinator.com/item?id=50535230 Points: 1069 # Comments: 682",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "GPT"
+    ]
+  },
+  {
+    "title": "Windows 11 is collecting data on which coding agents and developer tools you use",
+    "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+    "source": "Hacker News Best",
+    "published_at": "Mon, 16 Nov 2026 22:58:20 +0000",
+    "description": "Article URL: https://xusheng.dev/posts/windows-coding-agent-telemetry/ Comments URL: https://news.ycombinator.com/item?id=50524736 Points: 708 # Comments: 588",
+    "score": 4.0,
+    "keywords_matched": [
+      "agent",
+      "developer tools"
+    ]
+  },
+  {
+    "title": "mvanhorn / last30days-skill",
+    "url": "https://github.com/mvanhorn/last30days-skill",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary [696 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "jingyaogong / minimind",
+    "url": "https://github.com/jingyaogong/minimind",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h! [192 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "LLM"
+    ]
+  },
+  {
+    "title": "google-research / paper-orchestra",
+    "url": "https://github.com/google-research/paper-orchestra",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing. [1,072 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "NVIDIA / SkillEvaluator",
+    "url": "https://github.com/NVIDIA/SkillEvaluator",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior. [869 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "kajisho5 / ffmpeg-skill",
+    "url": "https://github.com/kajisho5/ffmpeg-skill",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys. [1,292 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "agent",
+      "Claude"
+    ]
+  },
+  {
+    "title": "dream-num / univer",
+    "url": "https://github.com/dream-num/univer",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core. [1,774 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  }
+]
