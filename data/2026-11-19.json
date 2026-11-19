@@ -1,0 +1,301 @@
+{
+  "date": "2026-11-19",
+  "candidates": [
+    {
+      "title": "Thinking Harder Doesn't Lead to Better Choices: Reasoning Effort Increases the Confidence but Not the Correctness of LLM Shopping Agents",
+      "url": "https://arxiv.org/abs/2611.22033",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.22033v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly deployed as autonomous shopping agents that process multimodal product listings (consisting of visual and text data) and recommend purchases on behalf of consumers. Naturally, one might assume that models with more thinking power would make higher-quality purchasing decisions. To test this belief, we ask two questions about such agents: does asking a model to think harder make it choose better products",
+      "score": 12.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "language model",
+        "autonomous",
+        "multimodal",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Inventa: Decentralized Self-Improving Agents for Autonomous Scientific Discovery",
+      "url": "https://arxiv.org/abs/2611.21847",
+      "source": "arXiv cs.LG",
+      "published_at": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.21847v1 Announce Type: new \nAbstract: Large language model (LLM) agents can generate research ideas and improve scientific discovery through iterative experimentation. However, increasing the number of agents or iterations does not automatically translate to producing more diverse or feasible ideas. Agents may converge on similar candidates, propagate unsupported claims through shared memory components and repeatedly apply search strategies that no longer yield any improvements.\n  We ",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "autonomous",
+        "memory"
+      ]
+    },
+    {
+      "title": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
+      "url": "https://arxiv.org/abs/2611.21682",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.21682v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly being explored for knowledge-intensive and safety-critical applications in nuclear engineering. However, existing nuclear-domain benchmarks provide limited content coverage or focus primarily on answer accuracy without systematically evaluating the quality of the underlying reasoning. This study introduces NEBench R1, a reasoning-oriented benchmark comprising 7,546 unique multiple-choice questions extr",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "RAG",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Language Models Can Rewrite Their Own Weights",
+      "url": "https://arxiv.org/abs/2611.21885",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.21885v1 Announce Type: new \nAbstract: Language models are trained once, frozen and deployed: improving one again takes another training run, and a prompt, a scaffold or extra computation at inference is gone once the task ends. A frontier model has been shown to edit the weights of a much smaller one. We ask whether a model can rewrite its own weights to make itself better, and find that it can, by its own reasoning, with no gradients and no training; we call this self-rewriting. Give",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "language model",
+        "inference",
+        "prompt",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "RAG in a Trenchcoat: When Minimal Memory Is Enough for Agentic Systems, and When It Isn't",
+      "url": "https://arxiv.org/abs/2611.22179",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.22179v1 Announce Type: new \nAbstract: Agentic memory research has accumulated extraction, supersession, reflection, and graph synthesis on top of retrieval-augmented generation. However, we found that almost none of those primitives earn their cost in our tested memory benchmarks: we show this with BRIDGE, a deliberately minimal RAG memory with chained observation notes, hybrid BM25 with cosine retrieval, and chronological rendering, which reaches parity within bootstrap CI with the p",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "RAG",
+        "memory",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "OAK-Mind: Zero-Training Mental Health Change Inference from Passive Sensing via Knowledge-Grounded Multi-Agent LLMs",
+      "url": "https://arxiv.org/abs/2611.22248",
+      "source": "arXiv cs.HC",
+      "published_at": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.22248v1 Announce Type: cross \nAbstract: Wearable and smartphone sensors capture behavioral signals associated with mental health, yet inferring mental health outcomes from these signals has traditionally relied on supervised models requiring labeled data and offering limited insight into their predictions. Large language models (LLMs) offer new opportunities to reason over behavioral evidence, but existing LLM-based approaches to passive sensing have largely continued to rely on task-",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "inference"
+      ]
+    },
+    {
+      "title": "KVUse: Reusable-KV User Memory for Efficient LLM Recommenders",
+      "url": "https://arxiv.org/abs/2611.21920",
+      "source": "arXiv cs.LG",
+      "published_at": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.21920v1 Announce Type: new \nAbstract: Memory-augmented recommenders built on large language models (LLMs) maintain a natural-language profile of each user. These profiles are updated by a user profile update path that revises the profile as new interactions arrive and are consumed by downstream task paths like ranking. Because these user profiles are stored as text in the user memory, every ranking LLM call that consumes them must splice them in the prompt and calculate the KV cache o",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "prompt",
+        "memory"
+      ]
+    },
+    {
+      "title": "Solver to System: LLM Reasoning Across Representations and Execution in Scientific Simulation",
+      "url": "https://arxiv.org/abs/2611.21964",
+      "source": "arXiv cs.LG",
+      "published_at": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.21964v1 Announce Type: new \nAbstract: Simulators based on partial differential equations (PDEs) are widely used to model physical systems, but generating and interpreting PDE solver code with large language models (LLMs) remains challenging. Scientific simulation code is a useful testbed for LLM scientific reasoning because (1) one system can be represented by code, equations, natural language, and numerical trajectories and (2) code can execute successfully while implementing invalid",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "simulation",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Weight-Space Programming Doesn't Need Transformers",
+      "url": "https://arxiv.org/abs/2611.22055",
+      "source": "arXiv cs.LG",
+      "published_at": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.22055v1 Announce Type: new \nAbstract: Standard neural architectures such as the Transformer were chosen because they train well with gradient descent and run fast on GPUs. In weight-space programming, a large language model (LLM) writes target weights by hand without gradient-based training, so those reasons no longer apply. Should we keep the Transformer? Given minimal guidance, ten labeled examples, and a sandbox, mainly on multiple-choice questions, we task three frontier LLMs with",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "transformer",
+        "neural",
+        "language model"
+      ]
+    },
+    {
+      "title": "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability",
+      "url": "https://arxiv.org/abs/2611.21799",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.21799v1 Announce Type: new \nAbstract: Chain-of-thought (CoT) monitoring is a promising tool for detecting hidden goals, off-task behavior, and other failures in AI agents. One risk is that models could deliberately shape their reasoning to make it opaque to monitors. We stress-test this risk through persona-control training: supervised fine-tuning on mathematical reasoning traces rewritten in the voices of diverse personas. This induces a broader ability to control CoT, even though tr",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "fine-tuning",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "EvoDisco: Strategy Discovery for Evolving Agent Memory",
+      "url": "https://arxiv.org/abs/2611.22102",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.22102v1 Announce Type: new \nAbstract: Large language model agents accumulate experience in memory, and how that memory evolves during interaction is as important as what it stores. Recent methods update memory online, yet both the operators that transform memory and the rules that select them remain fixed by design. We propose EvoDisco, which formulates agent memory evolution as evolutionary strategy discovery: the agent must discover which operator to apply, when to apply it, and how",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "language model",
+        "memory"
+      ]
+    },
+    {
+      "title": "RegimeCouncil: Paired-Evidence Routing For Memory Conflict Governance In LLM Agents",
+      "url": "https://arxiv.org/abs/2611.22113",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.22113v1 Announce Type: new \nAbstract: Language agents rely on long-term memory to personalize responses across extended interactions, yet stored facts quietly go stale as the world changes, and an agent often learns that using memory hurt only through delayed feedback after acting on an outdated record. Before the memory store is updated, how far should that negative feedback propagate: should it suppress memory use only on future queries for that same fact (a local policy), or also a",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "memory"
+      ]
+    },
+    {
+      "title": "TeleChat to Xing4: Advancing Frontier Agentic Models on Domestic Chips and Frameworks",
+      "url": "https://arxiv.org/abs/2611.22115",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.22115v1 Announce Type: new \nAbstract: We present Xing 4, a series of large language models that extends the TeleChat lineage through coordinated advances in model architecture and training infrastructure on Ascend. This report describes the design principles and systems engineering behind the series, spanning architecture selection, large-scale pretraining, and reasoning and agentic post-training. We study how sparse activation, attention design, model depth and width, and speculative",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "LoCaR: Localized Canvas Retrieval With Frozen Vision-Language Model",
+      "url": "https://arxiv.org/abs/2611.22131",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.22131v1 Announce Type: new \nAbstract: Whole image embeddings can under represent small objects and local attributes that distinguish relevant images for localized queries. We present LoCaR, a training free framework for localized text to image retrieval with frozen vision language models. LoCaR constructs and utilizes independent proposals (SAM2) focusing on the object so as to get a more localized representation that independently encodes each region using the frozen visual encoder. ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "language model",
+        "embedding",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Long-Context Generation Is a Sampling Problem (When You Turn Up the Heat)",
+      "url": "https://arxiv.org/abs/2611.22148",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.22148v1 Announce Type: new \nAbstract: Open-weight language models are widely observed to get worse the longer they generate. Often, attempts to fix this involve more training. At high temperature, The sampler, i.e. the rule that picks the next token out of the model's probabilities, decides whether long and agentic generation survives and/or thrives. We test 29 open-weight models from 1B to 122B parameters on ten established benchmarks plus needle retrieval out to one million tokens, ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "language model",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "The Only Edge Was Memorized in Training: LLM Trading Agents Around Earnings and Bad News",
+      "url": "https://arxiv.org/abs/2611.22177",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.22177v1 Announce Type: new \nAbstract: Large language model (LLM) trading agents are tested on news, but news reaches stock prices within minutes, and a benchmark that replays headlines at their publication time finds no alpha in trading on them. Money can then remain in two places, before news whose date is known, such as earnings announcements, and after bad news, if the market's fall went too far. However, studies of LLMs and earnings read documents published with or after the annou",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model"
+      ]
+    },
+    {
+      "title": "The Fragility of Reasoning-Importance Attribution for Pruning Language Models",
+      "url": "https://arxiv.org/abs/2611.22234",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.22234v1 Announce Type: new \nAbstract: Attribution-guided pruning scores components by their causal contribution and protects the important ones, and it is increasingly applied to compress reasoning language models without destroying their chain of thought. Its reliability rests on an unexamined assumption: that reasoning importance can be faithfully measured. Across four small reasoning models, we show this measurement is fragile in three ways, each of which changes pruning decisions.",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "language model",
+        "RAG",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Context Has a Price: Adding and Removing Context for LLM Coding Agents under Prefix Caching",
+      "url": "https://arxiv.org/abs/2611.22238",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.22238v1 Announce Type: new \nAbstract: Coding agents repeatedly send their conversation history to a language model. Adding useful code may reduce search, while removing old tool outputs may shorten later prompts. But do these changes reduce the cost of solving a task? We study this as a measurement problem in more than 20,000 runs of open models on SWE-bench Verified, SWE-bench and Loc-Bench. We account separately for uncached input, cached input and output tokens. Three findings emer",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "language model",
+        "prompt"
+      ]
+    },
+    {
+      "title": "Multi-Agent Memory Inconsistency: Where Factual Conflicts Disappear in LLM Agents",
+      "url": "https://arxiv.org/abs/2611.22245",
+      "source": "arXiv cs.AI",
+      "published_at": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.22245v1 Announce Type: new \nAbstract: Multi-agent delegation lets LLM systems distribute evidence collection across workers with separate contexts. This creates a consistency challenge: facts retrieved by workers may be missing from the evidence available to the lead for a joint conclusion. We introduce a benchmark and evidence-flow profiler for studying multi-agent memory inconsistency through controlled factual conflicts in Harvey LAB document-review tasks. Pooled across three model",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "memory"
+      ]
+    },
+    {
+      "title": "Weight-space programming for tractor guidance controller: large language models natively write neural network weights that steer a real tractor",
+      "url": "https://arxiv.org/abs/2611.21958",
+      "source": "arXiv cs.LG",
+      "published_at": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.21958v1 Announce Type: new \nAbstract: Weight-space programming is a process where a large language model reads and writes the weights of a neural network directly, guided by a natural language specification, without an optimiser or gradient descent. This study applies it to automatic tractor guidance, where a 253-parameter neural network steers along paths of lines and arcs and must be adapted when the machine changes, such as a slower steering actuator. GPT-6 Astra and Claude Fable 5",
+      "score": 8.0,
+      "keywords_matched": [
+        "Claude",
+        "GPT",
+        "neural",
+        "language model"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-11-19\n\n> ⚠️ AI 分析失败：HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=90)\n\n## 今日候选内容（原始抓取，未经 AI 分析）\n\n### Thinking Harder Doesn't Lead to Better Choices: Reasoning Effort Increases the Confidence but Not the Correctness of LLM Shopping Agents\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2611.22033\n- 摘要：arXiv:2611.22033v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly deployed as autonomous shopping agents that process multimodal product listings (consisting of visual and text data) and recommend purchases on behalf of c\n- 关键词：agent, LLM, language model, autonomous, multimodal, reasoning\n\n### Inventa: Decentralized Self-Improving Agents for Autonomous Scientific Discovery\n- 来源：arXiv cs.LG\n- 链接：https://arxiv.org/abs/2611.21847\n- 摘要：arXiv:2611.21847v1 Announce Type: new \nAbstract: Large language model (LLM) agents can generate research ideas and improve scientific discovery through iterative experimentation. However, increasing the number of agents or iterations does not automat\n- 关键词：AI, agent, LLM, language model, autonomous, memory\n\n### NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2611.21682\n- 摘要：arXiv:2611.21682v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly being explored for knowledge-intensive and safety-critical applications in nuclear engineering. However, existing nuclear-domain benchmarks provide limited\n- 关键词：AI, LLM, language model, RAG, reasoning\n\n### Language Models Can Rewrite Their Own Weights\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2611.21885\n- 摘要：arXiv:2611.21885v1 Announce Type: new \nAbstract: Language models are trained once, frozen and deployed: improving one again takes another training run, and a prompt, a scaffold or extra computation at inference is gone once the task ends. A frontier \n- 关键词：AI, language model, inference, prompt, reasoning\n\n### RAG in a Trenchcoat: When Minimal Memory Is Enough for Agentic Systems, and When It Isn't\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2611.22179\n- 摘要：arXiv:2611.22179v1 Announce Type: new \nAbstract: Agentic memory research has accumulated extraction, supersession, reflection, and graph synthesis on top of retrieval-augmented generation. However, we found that almost none of those primitives earn t\n- 关键词：AI, agent, RAG, memory, retrieval\n\n### OAK-Mind: Zero-Training Mental Health Change Inference from Passive Sensing via Knowledge-Grounded Multi-Agent LLMs\n- 来源：arXiv cs.HC\n- 链接：https://arxiv.org/abs/2611.22248\n- 摘要：arXiv:2611.22248v1 Announce Type: cross \nAbstract: Wearable and smartphone sensors capture behavioral signals associated with mental health, yet inferring mental health outcomes from these signals has traditionally relied on supervised models requiri\n- 关键词：AI, agent, LLM, language model, inference\n\n### KVUse: Reusable-KV User Memory for Efficient LLM Recommenders\n- 来源：arXiv cs.LG\n- 链接：https://arxiv.org/abs/2611.21920\n- 摘要：arXiv:2611.21920v1 Announce Type: new \nAbstract: Memory-augmented recommenders built on large language models (LLMs) maintain a natural-language profile of each user. These profiles are updated by a user profile update path that revises the profile a\n- 关键词：AI, LLM, language model, prompt, memory\n\n### Solver to System: LLM Reasoning Across Representations and Execution in Scientific Simulation\n- 来源：arXiv cs.LG\n- 链接：https://arxiv.org/abs/2611.21964\n- 摘要：arXiv:2611.21964v1 Announce Type: new \nAbstract: Simulators based on partial differential equations (PDEs) are widely used to model physical systems, but generating and interpreting PDE solver code with large language models (LLMs) remains challengin\n- 关键词：AI, LLM, simulation, language model, reasoning\n\n### Weight-Space Programming Doesn't Need Transformers\n- 来源：arXiv cs.LG\n- 链接：https://arxiv.org/abs/2611.22055\n- 摘要：arXiv:2611.22055v1 Announce Type: new \nAbstract: Standard neural architectures such as the Transformer were chosen because they train well with gradient descent and run fast on GPUs. In weight-space programming, a large language model (LLM) writes ta\n- 关键词：AI, LLM, transformer, neural, language model\n\n### Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2611.21799\n- 摘要：arXiv:2611.21799v1 Announce Type: new \nAbstract: Chain-of-thought (CoT) monitoring is a promising tool for detecting hidden goals, off-task behavior, and other failures in AI agents. One risk is that models could deliberately shape their reasoning to\n- 关键词：AI, agent, fine-tuning, reasoning\n\n### EvoDisco: Strategy Discovery for Evolving Agent Memory\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2611.22102\n- 摘要：arXiv:2611.22102v1 Announce Type: new \nAbstract: Large language model agents accumulate experience in memory, and how that memory evolves during interaction is as important as what it stores. Recent methods update memory online, yet both the operator\n- 关键词：AI, agent, language model, memory\n\n### RegimeCouncil: Paired-Evidence Routing For Memory Conflict Governance In LLM Agents\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2611.22113\n- 摘要：arXiv:2611.22113v1 Announce Type: new \nAbstract: Language agents rely on long-term memory to personalize responses across extended interactions, yet stored facts quietly go stale as the world changes, and an agent often learns that using memory hurt \n- 关键词：AI, agent, LLM, memory\n\n### TeleChat to Xing4: Advancing Frontier Agentic Models on Domestic Chips and Frameworks\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2611.22115\n- 摘要：arXiv:2611.22115v1 Announce Type: new \nAbstract: We present Xing 4, a series of large language models that extends the TeleChat lineage through coordinated advances in model architecture and training infrastructure on Ascend. This report describes th\n- 关键词：AI, agent, language model, reasoning\n\n### LoCaR: Localized Canvas Retrieval With Frozen Vision-Language Model\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2611.22131\n- 摘要：arXiv:2611.22131v1 Announce Type: new \nAbstract: Whole image embeddings can under represent small objects and local attributes that distinguish relevant images for localized queries. We present LoCaR, a training free framework for localized text to i\n- 关键词：AI, language model, embedding, retrieval\n\n### Long-Context Generation Is a Sampling Problem (When You Turn Up the Heat)\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2611.22148\n- 摘要：arXiv:2611.22148v1 Announce Type: new \nAbstract: Open-weight language models are widely observed to get worse the longer they generate. Often, attempts to fix this involve more training. At high temperature, The sampler, i.e. the rule that picks the \n- 关键词：AI, agent, language model, retrieval\n\n---\n\n> 请配置 `GEMINI_API_KEY` 后重新运行以获取完整分析。",
+  "gemini_success": false,
+  "telegram_sent": false,
+  "telegram_status": "failed",
+  "telegram_reason": "401 Client Error: Unauthorized for url: https://api.telegram.org/bot8650722899:AAHUD-aqNDB7NwiPiGq3R22MVp77Cr_5GEQ/sendMessage"
+}
