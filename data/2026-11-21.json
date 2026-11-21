@@ -1,0 +1,296 @@
+{
+  "date": "2026-11-21",
+  "candidates": [
+    {
+      "title": "GUARD: Stabilizing Recursive Self-Improvement with Regret Guidance",
+      "url": "https://arxiv.org/abs/2611.23476",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 20 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.23476v1 Announce Type: new \nAbstract: Autonomous AI agents pair a frozen base model with an editable harness of prompts, skills, tool rules, and memory. Recursive self-improvement (RSI) adapts this harness from experience without weight updates, yet self-editing without external graders often backfires: reflection and scalar scores conflate what an edit newly broke with what remains unsolved, causing local regressions, skill forgetting, and memory bloat. We introduce GUARD (Grader-fre",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "autonomous",
+        "prompt",
+        "memory"
+      ]
+    },
+    {
+      "title": "SpecLook: Speculating Where to Look for Fast and Reliable Agentic MLLMs",
+      "url": "https://arxiv.org/abs/2611.23483",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 20 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.23483v1 Announce Type: new \nAbstract: Agentic multimodal large language models (MLLMs) that think with images interleave reasoning with zoom-in tool calls. However, this sequential loop is slow, and its answers carry no reliability score. Prior speculation of tokens, reasoning steps, or answers keeps the loop, and answer speculation also accepts confident errors. We find that the loop mostly adds one zoom-in step, with which a small model is ahead of the agent on most splits. Our key ",
+      "score": 10.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "language model",
+        "multimodal",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "ARISE: Practical Self-Evolving Memory for Accurate and Cost-Efficient Enterprise Agents",
+      "url": "https://arxiv.org/abs/2611.23588",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 20 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.23588v1 Announce Type: new \nAbstract: Enterprise LLM agents operate in dynamic environments where foundation models evolve rapidly, workflows update frequently, and deployments need to satisfy accuracy and cost requirements. We propose ARISE (Agent Refinement through Iterative Self-Evaluation), a practical memory architecture in which the agent's memory evolves from its own failures without updating model weights, tools, or workflow logic. ARISE uses the model itself or a teacher mode",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "workflow",
+        "memory"
+      ]
+    },
+    {
+      "title": "Thinking Fast, Anywhere: One System-1 for the Decision Points of Any Agent Workflow",
+      "url": "https://arxiv.org/abs/2611.23751",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 20 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.23751v1 Announce Type: new \nAbstract: Autonomous LLM agents incur substantial cost and latency by invoking a large model (System-2) at every step, even when many intermediate actions choose among a small set of known candidates. Existing dual-system agents offload such decisions to a lightweight System-1 model, but rely on workflow-specific hooks authored per environment. We present AnyS1, a framework that turns human-authored procedural skills, whose instructions naturally specify wh",
+      "score": 10.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "workflow",
+        "autonomous",
+        "procedural"
+      ]
+    },
+    {
+      "title": "Metrics-in-the-Loop: Complexity Feedback Reshapes Agent-Written Code",
+      "url": "https://arxiv.org/abs/2611.23817",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 20 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.23817v1 Announce Type: new \nAbstract: Coding agents now write whole codebases in long autonomous runs, guided mainly by whether their tests pass. Yet passing tests alone does not reveal accumulating complexity or gaps in test coverage, which then persist as agents extend their own code. We introduce metrics-in-the-loop, an inference-time intervention that gives agents in-flight feedback: cheap, automatically computed code metrics injected into the agent's context during the trajectory",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "autonomous",
+        "RAG",
+        "inference"
+      ]
+    },
+    {
+      "title": "MLE Agents: Autonomous ML Engineering in Large-scale Recommendation Systems",
+      "url": "https://arxiv.org/abs/2611.23910",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 20 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.23910v1 Announce Type: new \nAbstract: The typical workflow for improving large-scale ranking and recommendation models is slow and tedious: an engineer forms a hypothesis, implements it as a code change, trains a model, and evaluates it both offline and online, often relying on their own intuition and experience along the way. Autonomous LLM agents promise to speed this up by running the loop on their own, but it is still unclear whether they can do this in industry-scale systems rath",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "workflow",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "BOS Summary: The First Token Matters",
+      "url": "https://arxiv.org/abs/2611.23508",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 20 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.23508v1 Announce Type: new \nAbstract: Large vision-language models (LVLMs) and language models (LLMs) often exhibit attention sinks, whereby particular positions, such as the beginning-of-sequence (BOS) token, receive a disproportionate share of attention. Under standard causal masking, however, the BOS query attends only to itself, so the representation that later tokens repeatedly access carries no information about the input. We introduce BOS Summary, a training-free inference-time",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "inference"
+      ]
+    },
+    {
+      "title": "Searching the Pareto Front: Multi-Objective Retrieval for Heterogeneous Scientific Modalities",
+      "url": "https://arxiv.org/abs/2611.23639",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 20 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.23639v1 Announce Type: new \nAbstract: In cosmology, surveys span different sky regions and wavelength ranges, resulting in uneven modality coverage across observational datasets. Such heterogeneity can be addressed through either multimodal foundation models (FMs), which learn shared embedding spaces, or independently learned modality embeddings combined via late fusion. We investigate whether the latter provides an adaptive alternative to FM-based scientific retrieval. We evaluate th",
+      "score": 8.0,
+      "keywords_matched": [
+        "multimodal",
+        "RAG",
+        "embedding",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Evaluating Governed LLM-Driven ML Experimentation: Lifecycle, Provenance, and Failure Metrics",
+      "url": "https://arxiv.org/abs/2611.23678",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 20 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.23678v1 Announce Type: new \nAbstract: Autonomous agents that run ML experiments are usually judged by the best score they reach. That score says nothing about how it was reached: whether the agent stayed within the files it was allowed to edit, whether failed trials were kept or silently dropped, and whether each keep or discard decision can be traced to its evidence. We propose evaluating such systems on their experimental process as well as their outcome, and we build a governed har",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "Modeling LLM Reasoning Dynamics with Structural Representations",
+      "url": "https://arxiv.org/abs/2611.23749",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 20 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.23749v1 Announce Type: new \nAbstract: Language-model reasoning alternates between sustained activities and local operations. We study how this temporal structure predicts continuation and the computation needed to analyze it. T/E/S combines text, local events, and spans of activity. Across reasoning and information-seeking tasks, events and spans improve next-outcome prediction in 70 of 76 evaluation groups for a Transformer and 74 of 76 for Qwen with LoRA. Span duration and preceding",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "transformer",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Evidence-Based Credit Assignment for Search-Augmented Language Models",
+      "url": "https://arxiv.org/abs/2611.23824",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 20 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.23824v1 Announce Type: new \nAbstract: Reinforcement learning from terminal answer rewards enables search-augmented language models to interleave reasoning and retrieval without step-level annotations, yet outcome supervision assigns identical credit to every search in a trajectory regardless of whether it retrieved useful information. This limitation is especially severe when all sampled rollouts for a question fail, collapsing group-centered outcome advantages to zero even when traje",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "language model",
+        "reasoning",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "A System 1 Decision Model for Medical Multiple-Choice Questions Built on Frozen Language Models",
+      "url": "https://arxiv.org/abs/2611.23832",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 20 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.23832v1 Announce Type: new \nAbstract: A System 1 model answers a multiple-choice question in a single pass. A frozen language model turns the question and each option into vectors, two small, trained heads place them in a shared space, and the closest option wins. The design has been shown on agent decisions, but we are not aware of a study of how far it goes on exam questions that need medical knowledge, where the right option is often no more similar to the question than the wrong o",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "language model",
+        "vector"
+      ]
+    },
+    {
+      "title": "AI-Induced Social Erosion: Using LLMs for Work Tasks Reduces Help-Seeking Intentions Towards Colleagues",
+      "url": "https://arxiv.org/abs/2611.25269",
+      "source": "arXiv cs.HC",
+      "published_at": "Fri, 20 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.25269v1 Announce Type: new \nAbstract: Generative AI is becoming embedded in knowledge work as an intelligent collaborator to assist in completing tasks. However, this readily available assistance risks displacing key interactions through which colleague relationships are built and sustained at work. This paper leverages the concept of help-seeking behaviour to investigate whether and how AI usage shapes colleague relationships. We conducted an online experimental vignette study where ",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "RAG",
+        "generative"
+      ]
+    },
+    {
+      "title": "A Quasi-experimental Study of Conversational AI-supported Engagement in Large CS Courses",
+      "url": "https://arxiv.org/abs/2506.18941",
+      "source": "arXiv cs.HC",
+      "published_at": "Fri, 20 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2506.18941v2 Announce Type: replace-cross \nAbstract: Lucrative career prospects and creative opportunities often attract students to enroll in computer science courses, resulting in large class sizes. A common challenge in large classrooms is the lack of engagement between students and both the instructor and the learning material. Recent advances in Large Language Models (LLMs) present an opportunity to leverage Conversational Artificial Intelligence (CAI) to address this challenge. To ex",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "RAG"
+      ]
+    },
+    {
+      "title": "Game-Theoretic Data Allocation for Expert Specialization and Routing",
+      "url": "https://arxiv.org/abs/2611.25167",
+      "source": "arXiv cs.LG",
+      "published_at": "Fri, 20 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.25167v1 Announce Type: new \nAbstract: Can the allocation used to train experts also predict which expert will perform best on a prompt? Such a connection would make the intended division of labor inspectable before training and allow the allocation itself to guide inference. We introduce InflEns, a mixture of LoRA experts whose training weights and inference routes come from the same location game in a fixed prompt-trait space. Players choose positions to maximize their expected share",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "game",
+        "inference",
+        "prompt"
+      ]
+    },
+    {
+      "title": "Intelligent Embedding Pruning for Large-Scale Recommendation Models",
+      "url": "https://arxiv.org/abs/2611.25288",
+      "source": "arXiv cs.LG",
+      "published_at": "Fri, 20 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.25288v1 Announce Type: new \nAbstract: Modern recommendation systems face substantial memory pressure, largely from the sparse embedding layer that maps high-cardinality categorical features into dense vectors. In-training embedding pruning (ITEP) removes less important embedding rows during training, yielding end-to-end memory savings but sometimes degrading accuracy because per-table pruning ratios are set by size-based heuristics. We use feature importance (FI) to guide these ratios",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "embedding",
+        "vector",
+        "memory"
+      ]
+    },
+    {
+      "title": "ICARE: cross-domain text classification with incremental class-aware representation and distillation learning",
+      "url": "https://arxiv.org/abs/2611.24959",
+      "source": "arXiv cs.LG",
+      "published_at": "Fri, 20 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.24959v1 Announce Type: cross \nAbstract: The rise of powerful, fine-tuned large language models (LLMs) necessitates robust natural language inference (NLI) systems. These NLI systems ideally train across various tasks, encompassing diverse concepts like sentiment analysis, news classification, and coreference resolution. However, this continual, multi-tasking approach can lead to catastrophic forgetting, where previously learned tasks are lost, especially in domains lacking specific la",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "inference"
+      ]
+    },
+    {
+      "title": "Infer3D: Inverse Generative Modeling Enables Robust 3D Reconstruction",
+      "url": "https://arxiv.org/abs/2611.25061",
+      "source": "arXiv cs.LG",
+      "published_at": "Fri, 20 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.25061v1 Announce Type: cross \nAbstract: Humans can understand the 3D structure of scenes even from highly unfamiliar or extreme viewpoints. Cognitive science suggests this generalization stems from a top-down generative inference strategy. In contrast, state-of-the-art 3D reconstruction neural networks typically rely on amortized, feedforward inference. While fast, this pattern-matching approach degrades when faced with out-of-distribution (OOD) scene conditions unseen during training",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "neural",
+        "inference",
+        "generative"
+      ]
+    },
+    {
+      "title": "PriTabICL: Differentially Private Tabular In-Context Learning with Task-Aligned Cluster-Wise Synthesis",
+      "url": "https://arxiv.org/abs/2611.25073",
+      "source": "arXiv cs.LG",
+      "published_at": "Fri, 20 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.25073v1 Announce Type: cross \nAbstract: Tabular in-context learning (TabICL) enables large language models (LLMs) to predict target records using a handful of labeled demonstrations in their prompts. However, these demonstrations often contain sensitive personal information. Differential privacy (DP) offers principled protection, but noise-based methods introduce substantial noise, distorting the feature-label relationships essential for accurate prediction, especially as data dimensi",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "prompt"
+      ]
+    },
+    {
+      "title": "colbymchenry / codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local [151 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "Claude",
+        "Gemini",
+        "Copilot"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-11-21\n\n这里是为你筛选出的 5 条今日高价值技术情报。已剔除纯工业水文与泛化新闻，聚焦于 **Agent 工作流自进化、实时决策机制、代码工程反馈环与视觉推演**：\n\n---\n\n## 1. GUARD: 用“后悔机制”驯化智能体的自我进化\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2611.23476\n- 一句话解释：通过对比自我编辑前后“新破坏了什么”与“未解决什么”（Regret Guidance），防止 Agent 在递归修改自身 Prompt 和规则时把系统搞崩溃。\n- 它为什么重要：过去让 Agent 自我重构（Recursive Self-Improvement）极易导致灾难性遗忘或“越改越烂”。它把控制论里的“后悔”量化为梯度/过滤指标，让 Agent 在不改模型权重的前提下稳定自愈。\n- 技术趋势标签：`Recursive Self-Improvement` `Agent Prompt Harness` `Metaprogramming`\n- 可复用模式：**增量差异损失验证（Delta-Regression Gate）**——在 Agent 采纳自己的新规则前，强制对旧基线进行回归测试，若“新退化成本 > 新修复收益”则直接回滚。\n- 疯狂发明家灵感：\n  1. **一个小实验**：写一个只有 3 个工具的 Python CLI Agent，让它每遇到一次执行错误就自动 patch 自己的 system prompt，并用一个微型 pytest 套件当成“后悔守卫”，测试它能否连续存活 20 轮。\n  2. **一个中型项目**：**Spec-Agent 自适应引擎**。当你的 Spec 需求文档更新时，Agent 自动比对旧功能测试集，自主生成“不破坏旧特性的最小改动 Prompt 补丁”。\n  3. **一个艺术/游戏/叙事方向**：**“记忆创伤型”NPC**。NPC 会根据玩家行为重写自己的性格设定与对话提示词；若玩家试图对其进行思想洗脑，NPC 内部的 Regret 模块会产生“认知失调抗拒”，并在日记系统里留下抵抗痕迹。\n- 对我项目的启发：可以直接用于你设计的规范驱动（Spec-driven）工作流中：Agent 不仅生成代码，还要生成针对自身提示词的防御性约束。\n- 今天是否值得深入研究：是\n- 建议行动：做demo\n\n---\n\n## 2. Thinking Fast, Anywhere: 给 Agent 注入毫秒级反应的“快思考 (System-1)”外挂\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2611.23751\n- 一句话解释：提出一个可通用于任何 Agent 决策点的通用轻量级 System-1 模型，在有限候选项决策中替下昂贵慢速的 System-2 大模型。\n- 它为什么重要：目前智能体（尤其是游戏与工作流自动化）最大的痛点是延迟极高、费用巨贵。把“开放式高维推理”与“封闭集合快速选择”解耦，是实现高帧率交互 AI 的唯一出路。\n- 技术趋势标签：`Dual-Process AI` `System-1 / System-2` `Low-Latency Agents` `Game AI`\n- 可复用模式：**分支预剪枝架构**——复杂规划由慢速 LLM 生成行为状态树，边缘决策点（如：攻击/躲避、打开文件/跳过）直接路由给毫秒级嵌入打分头。\n- 疯狂发明家灵感：\n  1. **一个小实验**：用一个小参数量的 BERT 或甚至 FastText 对 Agent 的 10 种工具调用进行意图分类，在大模型生成下一步前并行做猜测，如果置信度超过 0.95 则直接短路执行。\n  2. **一个中型项目**：**超低延迟本地自动化 Terminal Copilot**。用小型本地模型做即时动作预测（如切换目录、查看日志），只有卡住时才静默调起 Claude 3.7 进行深度排错。\n  3. **一个艺术/游戏/叙事方向**：**60 FPS 的沙盒生态 NPC**。在类似 Minecraft 的环境里，NPC 遭遇怪物时的“逃跑、反击、僵住”等本能反应由 System-1 在 10ms 内触发，而“复仇计划”则由 System-2 异步后台生成。\n- 对我项目的启发：游戏和交互界面不能容忍 3-5 秒的等待，这种双系统解耦是构建“具有生物体本能反应的游戏角色”的基础架构。\n- 今天是否值得深入研究：是\n- 建议行动：试用\n\n---\n\n## 3. Metrics-in-the-Loop: 复杂度反馈实时重塑 Agent 的代码生成\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2611.23817\n- 一句话解释：在推理过程中将圈复杂度、代码可维护度等静态分析指标注入反馈环，阻止 Coding Agent 生成臃肿庞杂的“屎山代码”。\n- 它为什么重要：当下的 Coding Agent 只要“测试通过”就收工，导致长上下文运行后代码膨胀失控。引入运行时工程度量（Complexity-in-the-loop）是 Spec-driven 开发通向工业级的核心一环。\n- 技术趋势标签：`Coding Agents` `Spec-Driven Development` `Static Analysis` `Software Architecture`\n- 可复用模式：**非功能性约束拦截器（Non-functional Spec Linter）**——不仅要 `test_passed == True`，还要满足 `cyclomatic_complexity < threshold` 且 `AST_depth < N` 才能提交代码。\n- 疯狂发明家灵感：\n  1. **一个小实验**：写一个包装脚本，拦截 LLM 生成的代码，调用 Python 的 `radon` 库计算复杂度，超过 B 级直接拒绝接收并附带警告 Prompt 让它重构。\n  2. **一个中型项目**：**“代码美学雕刻机”**。一个自动化 CLI 工具，监听本地文件夹，只要检测到 Agent 生成了又臭又长的方法，就自动启动专门的“奥卡姆剃刀 Agent”把函数切分为极致优雅的函数式管道。\n  3. **一个艺术/游戏/叙事方向**：**代码体量即世界规则的游戏**。玩家输入需求让 AI 生成游戏关卡，但生成算法的圈复杂度会直接映射为关卡中怪物的狂暴程度或重力扭曲程度——写出优雅代码关卡才会平和。\n- 对我项目的启发：完善了你的 Spec 概念：Spec 不应只包含“功能需求”，还必须硬编码“代码复杂度预算（Complexity Budget）”。\n- 今天是否值得深入研究：是\n- 建议行动：做demo\n\n---\n\n## 4. SpecLook: 预测“看哪里”，打破多模态 Agent 慢速缩放观察死循环\n- 来源：arXiv cs.AI\n- 链接：https://arxiv.org/abs/2611.23483\n- 一句话解释：通过提前推测需要“放大/聚焦”的图像区域，并行化多模态大模型的视觉探索过程，避免传统一步一停的低效循环。\n- 它为什么重要：多模态视觉 Agent（如玩游戏、看图分析、GUI 操作）常受困于“全局看一眼 -> 调用 Zoom 放大局部 -> 重新推理”的串行延迟。SpecLook 展示了“视觉投机注视（Speculative Visual Gaze）”的可行性。\n- 技术趋势标签：`Multimodal Agent` `Active Perception` `Speculative Decoding` `Spatial Reasoning`\n- 可复用模式：**多尺度投机视线采样（Speculative Region-of-Interest Probing）**——在主推理开始前，根据轻量注意力热力图并行预裁剪高分辨率局部切片。\n- 疯狂发明家灵感：\n  1. **一个小实验**：给一张密集的像素艺术画或游戏截图，先用边缘检测找出 3 个最高熵区域，把原图与 3 个局部放大图并排成 2x2 网格直接一次性喂给视觉模型。\n  2. **一个中型项目**：**Minecraft 视觉自省 Agent**。Agent 在沙盒里漫游时，不需要每步都做高分辨率分析，而是预判屏幕视野里潜在的有趣交互点（门、宝箱、生物），仅在动态注视区触发高精度处理。\n  3. **一个艺术/游戏/叙事方向**：**交互式探案绘本**。AI 扮演盲人侦探身边的“导盲渡鸦”，当玩家放大插画细节时，渡鸦的视觉模型已经预先猜测了三处阴暗角落并同步生成环境音效。\n- 对我项目的启发：对于任何基于画面的交互系统（如世界生成、Canvas 交互工具），“分层注视感知”能极大降低 token 消耗并提升反应速度。\n- 今天是否值得深入研究：否（设计思想可用，底层细节偏学术）\n- 建议行动：收藏\n\n---\n\n## 5. codegraph: 本地实时自同步的代码知识图谱\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/colbymchenry/codegraph\n- 一句话解释：面向 Claude Code、Cursor、Gemini 的本地代码图谱缓存层，随代码变动自动增量同步，大幅减少 Agent 的搜索 Token 与工具调用次数。\n- 它为什么重要：让 Agent 满目录 `grep` 或瞎读文件不仅极慢，而且严重污染上下文窗口。这是目前把 LLM 工具链与本地 AST 结合得最接地气的工程实现。\n- 技术趋势标签：`Codebase Graph` `Local-First` `Developer Tooling` `Context Optimization`\n- 可复用模式：**增量 AST 语义索引挂载**——把代码库结构化为节点（文件、类、函数）与边（调用、导入），Agent 只需要遍历图，而不需要通读源码。\n- 疯狂发明家灵感：\n  1. **一个小实验**：clone 该项目，把它作为 MCP（Model Context Protocol）挂载到 Claude Desktop 或 Claude Code 里，测试它在重构多文件项目时的 token 节省比例。\n  2. **一个中型项目**：**架构守门人（Architecture Drift Monitor）**。基于该图谱，当开发者或 Agent 提交 PR 时，自动渲染出一张变更前后的依赖图，并在图谱破坏了规范（例如 UI 层直接引用了底层数据库）时报警。\n  3. **一个艺术/游戏/叙事方向**：**代码活体生物迷宫**。将 codegraph 解析出的节点与调用拓扑，一键转换为 Procedural Dungeon（程序化地牢）——函数是房间，函数调用是走廊，循环依赖是死胡同怪物的巢穴。\n- 对我项目的启发：如果你的工具链缺少对工程全局结构的感知，这个项目是最现成的基础设施轮子，能直接为你未来的 Agent 开发提速。\n- 今天是否值得深入研究：是\n- 建议行动：试用\n\n---\n\n## 今日模式总结\n\n1. **内省式护栏（Introspective Guardrails）的崛起**：单纯看“测试是否通过”或“大模型自身打分”已经被证明会产生幻觉与代码退化。今天的项目无论在 Agent 自我改进（GUARD）还是代码生成（Metrics-in-the-Loop）中，都高度依赖**外置的确定性度量（回归比对、静态圈复杂度）**作为硬约束。\n2. **感知与决策的双速分层（Fast-Slow Decoupling）**：无论 Thinking Fast 里的 System-1/2 动作分离，还是 SpecLook 里的投机注视，前沿探索都在极力打破“任何事情都交给超大模型串行思考”的低效范式，转向“快系统负责反应/预抓取，慢系统负责高层规划”。\n\n---\n\n## 今日可做小实验：2小时极速落地\n\n### 项目名：Complexity-Gatekeeper（代码复杂度阻断器）\n\n*   **输入**：一段包含混乱嵌套逻辑的自然语言功能需求（例如：“写一个解析混合格式时间字符串并根据多个条件返回不同状态的函数”）。\n*   **输出**：一段被强制限制在圈复杂度 ≤ 4 的高质量函数代码 + radon 静态分析报告截图。\n*   **技术栈**：Python 3.10+, OpenAI 或 Anthropic API, `radon`（Python 静态代码分析库）。\n*   **第一步怎么做**：\n    1. 终端执行：`pip install radon openai`\n    2. 创建一个小型循环脚本：让 LLM 生成代码 -> 写入临时文件 -> 用 `radon cc temp.py -s` 提取圈复杂度评级（A/B/C/D）。\n    3. 如果评级不是 A（复杂度 > 5），立刻将提取的复杂度错误作为用户反馈重新喂回 LLM，加上 Prompt：“*你违反了架构规范，请使用早期返回（guard clauses）或策略模式重构它，直到复杂度降为 A*”。\n    4. 观察 Agent 在第几轮学会交出极致干净的代码。",
+  "gemini_success": true,
+  "telegram_sent": false,
+  "telegram_status": "failed",
+  "telegram_reason": "401 Client Error: Unauthorized for url: https://api.telegram.org/bot8650722899:AAHUD-aqNDB7NwiPiGq3R22MVp77Cr_5GEQ/sendMessage"
+}

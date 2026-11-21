@@ -1,0 +1,288 @@
+[
+  {
+    "title": "GUARD: Stabilizing Recursive Self-Improvement with Regret Guidance",
+    "url": "https://arxiv.org/abs/2611.23476",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.23476v1 Announce Type: new \nAbstract: Autonomous AI agents pair a frozen base model with an editable harness of prompts, skills, tool rules, and memory. Recursive self-improvement (RSI) adapts this harness from experience without weight updates, yet self-editing without external graders often backfires: reflection and scalar scores conflate what an edit newly broke with what remains unsolved, causing local regressions, skill forgetting, and memory bloat. We introduce GUARD (Grader-fre",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "autonomous",
+      "prompt",
+      "memory"
+    ]
+  },
+  {
+    "title": "SpecLook: Speculating Where to Look for Fast and Reliable Agentic MLLMs",
+    "url": "https://arxiv.org/abs/2611.23483",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.23483v1 Announce Type: new \nAbstract: Agentic multimodal large language models (MLLMs) that think with images interleave reasoning with zoom-in tool calls. However, this sequential loop is slow, and its answers carry no reliability score. Prior speculation of tokens, reasoning steps, or answers keeps the loop, and answer speculation also accepts confident errors. We find that the loop mostly adds one zoom-in step, with which a small model is ahead of the agent on most splits. Our key ",
+    "score": 10.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "language model",
+      "multimodal",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "ARISE: Practical Self-Evolving Memory for Accurate and Cost-Efficient Enterprise Agents",
+    "url": "https://arxiv.org/abs/2611.23588",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.23588v1 Announce Type: new \nAbstract: Enterprise LLM agents operate in dynamic environments where foundation models evolve rapidly, workflows update frequently, and deployments need to satisfy accuracy and cost requirements. We propose ARISE (Agent Refinement through Iterative Self-Evaluation), a practical memory architecture in which the agent's memory evolves from its own failures without updating model weights, tools, or workflow logic. ARISE uses the model itself or a teacher mode",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "memory"
+    ]
+  },
+  {
+    "title": "Thinking Fast, Anywhere: One System-1 for the Decision Points of Any Agent Workflow",
+    "url": "https://arxiv.org/abs/2611.23751",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.23751v1 Announce Type: new \nAbstract: Autonomous LLM agents incur substantial cost and latency by invoking a large model (System-2) at every step, even when many intermediate actions choose among a small set of known candidates. Existing dual-system agents offload such decisions to a lightweight System-1 model, but rely on workflow-specific hooks authored per environment. We present AnyS1, a framework that turns human-authored procedural skills, whose instructions naturally specify wh",
+    "score": 10.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "workflow",
+      "autonomous",
+      "procedural"
+    ]
+  },
+  {
+    "title": "Metrics-in-the-Loop: Complexity Feedback Reshapes Agent-Written Code",
+    "url": "https://arxiv.org/abs/2611.23817",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.23817v1 Announce Type: new \nAbstract: Coding agents now write whole codebases in long autonomous runs, guided mainly by whether their tests pass. Yet passing tests alone does not reveal accumulating complexity or gaps in test coverage, which then persist as agents extend their own code. We introduce metrics-in-the-loop, an inference-time intervention that gives agents in-flight feedback: cheap, automatically computed code metrics injected into the agent's context during the trajectory",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "autonomous",
+      "RAG",
+      "inference"
+    ]
+  },
+  {
+    "title": "MLE Agents: Autonomous ML Engineering in Large-scale Recommendation Systems",
+    "url": "https://arxiv.org/abs/2611.23910",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.23910v1 Announce Type: new \nAbstract: The typical workflow for improving large-scale ranking and recommendation models is slow and tedious: an engineer forms a hypothesis, implements it as a code change, trains a model, and evaluates it both offline and online, often relying on their own intuition and experience along the way. Autonomous LLM agents promise to speed this up by running the loop on their own, but it is still unclear whether they can do this in industry-scale systems rath",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "BOS Summary: The First Token Matters",
+    "url": "https://arxiv.org/abs/2611.23508",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.23508v1 Announce Type: new \nAbstract: Large vision-language models (LVLMs) and language models (LLMs) often exhibit attention sinks, whereby particular positions, such as the beginning-of-sequence (BOS) token, receive a disproportionate share of attention. Under standard causal masking, however, the BOS query attends only to itself, so the representation that later tokens repeatedly access carries no information about the input. We introduce BOS Summary, a training-free inference-time",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "inference"
+    ]
+  },
+  {
+    "title": "Searching the Pareto Front: Multi-Objective Retrieval for Heterogeneous Scientific Modalities",
+    "url": "https://arxiv.org/abs/2611.23639",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.23639v1 Announce Type: new \nAbstract: In cosmology, surveys span different sky regions and wavelength ranges, resulting in uneven modality coverage across observational datasets. Such heterogeneity can be addressed through either multimodal foundation models (FMs), which learn shared embedding spaces, or independently learned modality embeddings combined via late fusion. We investigate whether the latter provides an adaptive alternative to FM-based scientific retrieval. We evaluate th",
+    "score": 8.0,
+    "keywords_matched": [
+      "multimodal",
+      "RAG",
+      "embedding",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Evaluating Governed LLM-Driven ML Experimentation: Lifecycle, Provenance, and Failure Metrics",
+    "url": "https://arxiv.org/abs/2611.23678",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.23678v1 Announce Type: new \nAbstract: Autonomous agents that run ML experiments are usually judged by the best score they reach. That score says nothing about how it was reached: whether the agent stayed within the files it was allowed to edit, whether failed trials were kept or silently dropped, and whether each keep or discard decision can be traced to its evidence. We propose evaluating such systems on their experimental process as well as their outcome, and we build a governed har",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "Modeling LLM Reasoning Dynamics with Structural Representations",
+    "url": "https://arxiv.org/abs/2611.23749",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.23749v1 Announce Type: new \nAbstract: Language-model reasoning alternates between sustained activities and local operations. We study how this temporal structure predicts continuation and the computation needed to analyze it. T/E/S combines text, local events, and spans of activity. Across reasoning and information-seeking tasks, events and spans improve next-outcome prediction in 70 of 76 evaluation groups for a Transformer and 74 of 76 for Qwen with LoRA. Span duration and preceding",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "transformer",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Evidence-Based Credit Assignment for Search-Augmented Language Models",
+    "url": "https://arxiv.org/abs/2611.23824",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.23824v1 Announce Type: new \nAbstract: Reinforcement learning from terminal answer rewards enables search-augmented language models to interleave reasoning and retrieval without step-level annotations, yet outcome supervision assigns identical credit to every search in a trajectory regardless of whether it retrieved useful information. This limitation is especially severe when all sampled rollouts for a question fail, collapsing group-centered outcome advantages to zero even when traje",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "language model",
+      "reasoning",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "A System 1 Decision Model for Medical Multiple-Choice Questions Built on Frozen Language Models",
+    "url": "https://arxiv.org/abs/2611.23832",
+    "source": "arXiv cs.AI",
+    "published_at": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.23832v1 Announce Type: new \nAbstract: A System 1 model answers a multiple-choice question in a single pass. A frozen language model turns the question and each option into vectors, two small, trained heads place them in a shared space, and the closest option wins. The design has been shown on agent decisions, but we are not aware of a study of how far it goes on exam questions that need medical knowledge, where the right option is often no more similar to the question than the wrong o",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "language model",
+      "vector"
+    ]
+  },
+  {
+    "title": "AI-Induced Social Erosion: Using LLMs for Work Tasks Reduces Help-Seeking Intentions Towards Colleagues",
+    "url": "https://arxiv.org/abs/2611.25269",
+    "source": "arXiv cs.HC",
+    "published_at": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.25269v1 Announce Type: new \nAbstract: Generative AI is becoming embedded in knowledge work as an intelligent collaborator to assist in completing tasks. However, this readily available assistance risks displacing key interactions through which colleague relationships are built and sustained at work. This paper leverages the concept of help-seeking behaviour to investigate whether and how AI usage shapes colleague relationships. We conducted an online experimental vignette study where ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "RAG",
+      "generative"
+    ]
+  },
+  {
+    "title": "A Quasi-experimental Study of Conversational AI-supported Engagement in Large CS Courses",
+    "url": "https://arxiv.org/abs/2506.18941",
+    "source": "arXiv cs.HC",
+    "published_at": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2506.18941v2 Announce Type: replace-cross \nAbstract: Lucrative career prospects and creative opportunities often attract students to enroll in computer science courses, resulting in large class sizes. A common challenge in large classrooms is the lack of engagement between students and both the instructor and the learning material. Recent advances in Large Language Models (LLMs) present an opportunity to leverage Conversational Artificial Intelligence (CAI) to address this challenge. To ex",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "RAG"
+    ]
+  },
+  {
+    "title": "Game-Theoretic Data Allocation for Expert Specialization and Routing",
+    "url": "https://arxiv.org/abs/2611.25167",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.25167v1 Announce Type: new \nAbstract: Can the allocation used to train experts also predict which expert will perform best on a prompt? Such a connection would make the intended division of labor inspectable before training and allow the allocation itself to guide inference. We introduce InflEns, a mixture of LoRA experts whose training weights and inference routes come from the same location game in a fixed prompt-trait space. Players choose positions to maximize their expected share",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "game",
+      "inference",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Intelligent Embedding Pruning for Large-Scale Recommendation Models",
+    "url": "https://arxiv.org/abs/2611.25288",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.25288v1 Announce Type: new \nAbstract: Modern recommendation systems face substantial memory pressure, largely from the sparse embedding layer that maps high-cardinality categorical features into dense vectors. In-training embedding pruning (ITEP) removes less important embedding rows during training, yielding end-to-end memory savings but sometimes degrading accuracy because per-table pruning ratios are set by size-based heuristics. We use feature importance (FI) to guide these ratios",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "embedding",
+      "vector",
+      "memory"
+    ]
+  },
+  {
+    "title": "ICARE: cross-domain text classification with incremental class-aware representation and distillation learning",
+    "url": "https://arxiv.org/abs/2611.24959",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.24959v1 Announce Type: cross \nAbstract: The rise of powerful, fine-tuned large language models (LLMs) necessitates robust natural language inference (NLI) systems. These NLI systems ideally train across various tasks, encompassing diverse concepts like sentiment analysis, news classification, and coreference resolution. However, this continual, multi-tasking approach can lead to catastrophic forgetting, where previously learned tasks are lost, especially in domains lacking specific la",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "inference"
+    ]
+  },
+  {
+    "title": "Infer3D: Inverse Generative Modeling Enables Robust 3D Reconstruction",
+    "url": "https://arxiv.org/abs/2611.25061",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.25061v1 Announce Type: cross \nAbstract: Humans can understand the 3D structure of scenes even from highly unfamiliar or extreme viewpoints. Cognitive science suggests this generalization stems from a top-down generative inference strategy. In contrast, state-of-the-art 3D reconstruction neural networks typically rely on amortized, feedforward inference. While fast, this pattern-matching approach degrades when faced with out-of-distribution (OOD) scene conditions unseen during training",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "neural",
+      "inference",
+      "generative"
+    ]
+  },
+  {
+    "title": "PriTabICL: Differentially Private Tabular In-Context Learning with Task-Aligned Cluster-Wise Synthesis",
+    "url": "https://arxiv.org/abs/2611.25073",
+    "source": "arXiv cs.LG",
+    "published_at": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.25073v1 Announce Type: cross \nAbstract: Tabular in-context learning (TabICL) enables large language models (LLMs) to predict target records using a handful of labeled demonstrations in their prompts. However, these demonstrations often contain sensitive personal information. Differential privacy (DP) offers principled protection, but noise-based methods introduce substantial noise, distorting the feature-label relationships essential for accurate prediction, especially as data dimensi",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "prompt"
+    ]
+  },
+  {
+    "title": "colbymchenry / codegraph",
+    "url": "https://github.com/colbymchenry/codegraph",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local [151 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "Claude",
+      "Gemini",
+      "Copilot"
+    ]
+  }
+]
