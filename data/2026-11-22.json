@@ -1,0 +1,258 @@
+{
+  "date": "2026-11-22",
+  "candidates": [
+    {
+      "title": "colbymchenry / codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local [86 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "Claude",
+        "Gemini",
+        "Copilot"
+      ]
+    },
+    {
+      "title": "awslabs / cli-agent-orchestrator",
+      "url": "https://github.com/awslabs/cli-agent-orchestrator",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Multi-agent orchestration for AI coding CLIs — Claude Code, Kiro, Codex, and more, coordinated in isolated tmux sessions [14 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude"
+      ]
+    },
+    {
+      "title": "google-labs-code / stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor. [326 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "agent",
+        "Claude",
+        "Gemini"
+      ]
+    },
+    {
+      "title": "croffasia / itsaplan",
+      "url": "https://github.com/croffasia/itsaplan",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "⭐️⭐️⭐️ Open-source, self-hosted alternative to Linear and Plane. Project management and issue tracking where teams and AI agents work side by side to plan and ship products. [36 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "self-hosted"
+      ]
+    },
+    {
+      "title": "earendil-works / pi",
+      "url": "https://github.com/earendil-works/pi",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI [129 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM"
+      ]
+    },
+    {
+      "title": "openvinotoolkit / openvino",
+      "url": "https://github.com/openvinotoolkit/openvino",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference [200 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "open source",
+        "inference"
+      ]
+    },
+    {
+      "title": "cathrynlavery / diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. [583 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "Claude",
+        "Copilot"
+      ]
+    },
+    {
+      "title": "International UN talks on controlling use of autonomous weapons collapse",
+      "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+      "source": "Hacker News",
+      "published_at": "Sat, 21 Nov 2026 23:10:21 +0000",
+      "description": "Article URL: https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse Comments URL: https://news.ycombinator.com/item?id=50594564 Points: 30 # Comments: 4",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
+      "url": "https://tasklet.ai/careers",
+      "source": "Hacker News",
+      "published_at": "Sat, 21 Nov 2026 21:11:08 +0000",
+      "description": "Article URL: https://tasklet.ai/careers Comments URL: https://news.ycombinator.com/item?id=50593679 Points: 0 # Comments: 0",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "Pandex – Official European Law for AI Agents, over MCP",
+      "url": "https://www.pandex.io",
+      "source": "Hacker News",
+      "published_at": "Sat, 21 Nov 2026 20:47:41 +0000",
+      "description": "Article URL: https://www.pandex.io Comments URL: https://news.ycombinator.com/item?id=50593481 Points: 25 # Comments: 4",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
+      "url": "https://signal.org/blog/protecting-your-privacy/",
+      "source": "Hacker News Best",
+      "published_at": "Fri, 20 Nov 2026 09:42:16 +0000",
+      "description": "Article URL: https://signal.org/blog/protecting-your-privacy/ Comments URL: https://news.ycombinator.com/item?id=50572348 Points: 570 # Comments: 336",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "jingyaogong / minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours. [488 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "title": "mvanhorn / last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary [560 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "apache / airflow",
+      "url": "https://github.com/apache/airflow",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows [16 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "workflow"
+      ]
+    },
+    {
+      "title": "SWE-agent / mini-swe-agent",
+      "url": "https://github.com/SWE-agent/mini-swe-agent",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores >74% on SWE-bench verified! [37 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "pytorch / torchtitan",
+      "url": "https://github.com/pytorch/torchtitan",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "A PyTorch native platform for training generative AI models [9 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "generative"
+      ]
+    },
+    {
+      "title": "vllm-project / vllm-ascend",
+      "url": "https://github.com/vllm-project/vllm-ascend",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Community maintained hardware plugin for vLLM on Huawei Ascend [3 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "title": "p-e-w / heretic",
+      "url": "https://github.com/p-e-w/heretic",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more [144 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "language model"
+      ]
+    },
+    {
+      "title": "agentscope-ai / agentscope",
+      "url": "https://github.com/agentscope-ai/agentscope",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Build and run agents you can see, understand and trust. [60 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "google-research / paper-orchestra",
+      "url": "https://github.com/google-research/paper-orchestra",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing. [310 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-11-22\n\n> ⚠️ AI 分析失败：HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=90)\n\n## 今日候选内容（原始抓取，未经 AI 分析）\n\n### colbymchenry / codegraph\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/colbymchenry/codegraph\n- 摘要：Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local [86 stars today]\n- 关键词：agent, Claude, Gemini, Copilot\n\n### awslabs / cli-agent-orchestrator\n- 来源：GitHub Trending Python\n- 链接：https://github.com/awslabs/cli-agent-orchestrator\n- 摘要：Multi-agent orchestration for AI coding CLIs — Claude Code, Kiro, Codex, and more, coordinated in isolated tmux sessions [14 stars today]\n- 关键词：AI, agent, Claude\n\n### google-labs-code / stitch-skills\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/google-labs-code/stitch-skills\n- 摘要：A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor. [326 stars today]\n- 关键词：agent, Claude, Gemini\n\n### croffasia / itsaplan\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/croffasia/itsaplan\n- 摘要：⭐️⭐️⭐️ Open-source, self-hosted alternative to Linear and Plane. Project management and issue tracking where teams and AI agents work side by side to plan and ship products. [36 stars today]\n- 关键词：AI, agent, self-hosted\n\n### earendil-works / pi\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/earendil-works/pi\n- 摘要：AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI [129 stars today]\n- 关键词：AI, agent, LLM\n\n### openvinotoolkit / openvino\n- 来源：GitHub Trending\n- 链接：https://github.com/openvinotoolkit/openvino\n- 摘要：OpenVINO™ is an open source toolkit for optimizing and deploying AI inference [200 stars today]\n- 关键词：AI, open source, inference\n\n### cathrynlavery / diagram-design\n- 来源：GitHub Trending\n- 链接：https://github.com/cathrynlavery/diagram-design\n- 摘要：Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. [583 stars today]\n- 关键词：AI, Claude, Copilot\n\n### International UN talks on controlling use of autonomous weapons collapse\n- 来源：Hacker News\n- 链接：https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse\n- 摘要：Article URL: https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse Comments URL: https://news.ycombinator.com/item?id=50594564 Points: 30 # Comments: 4\n- 关键词：AI, autonomous\n\n### Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers\n- 来源：Hacker News\n- 链接：https://tasklet.ai/careers\n- 摘要：Article URL: https://tasklet.ai/careers Comments URL: https://news.ycombinator.com/item?id=50593679 Points: 0 # Comments: 0\n- 关键词：AI, agent\n\n### Pandex – Official European Law for AI Agents, over MCP\n- 来源：Hacker News\n- 链接：https://www.pandex.io\n- 摘要：Article URL: https://www.pandex.io Comments URL: https://news.ycombinator.com/item?id=50593481 Points: 25 # Comments: 4\n- 关键词：AI, agent\n\n### Restricting AI agents in mobile operating systems platforms from capturing data\n- 来源：Hacker News Best\n- 链接：https://signal.org/blog/protecting-your-privacy/\n- 摘要：Article URL: https://signal.org/blog/protecting-your-privacy/ Comments URL: https://news.ycombinator.com/item?id=50572348 Points: 570 # Comments: 336\n- 关键词：AI, agent\n\n### jingyaogong / minimind\n- 来源：GitHub Trending Python\n- 链接：https://github.com/jingyaogong/minimind\n- 摘要：🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours. [488 stars today]\n- 关键词：AI, LLM\n\n### mvanhorn / last30days-skill\n- 来源：GitHub Trending Python\n- 链接：https://github.com/mvanhorn/last30days-skill\n- 摘要：AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary [560 stars today]\n- 关键词：AI, agent\n\n### apache / airflow\n- 来源：GitHub Trending Python\n- 链接：https://github.com/apache/airflow\n- 摘要：Apache Airflow - A platform to programmatically author, schedule, and monitor workflows [16 stars today]\n- 关键词：AI, workflow\n\n### SWE-agent / mini-swe-agent\n- 来源：GitHub Trending Python\n- 链接：https://github.com/SWE-agent/mini-swe-agent\n- 摘要：The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores >74% on SWE-bench verified! [37 stars today]\n- 关键词：AI, agent\n\n---\n\n> 请配置 `GEMINI_API_KEY` 后重新运行以获取完整分析。",
+  "gemini_success": false,
+  "telegram_sent": false,
+  "telegram_status": "failed",
+  "telegram_reason": "401 Client Error: Unauthorized for url: https://api.telegram.org/bot8650722899:AAHUD-aqNDB7NwiPiGq3R22MVp77Cr_5GEQ/sendMessage"
+}
