@@ -1,0 +1,260 @@
+{
+  "date": "2026-11-23",
+  "candidates": [
+    {
+      "title": "colbymchenry / codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local [101 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "Claude",
+        "Gemini",
+        "Copilot"
+      ]
+    },
+    {
+      "title": "Show HN: I built a game where you are an LLM's subagent",
+      "url": "https://github.com/gulivan/worker755",
+      "source": "Hacker News Best",
+      "published_at": "Sun, 22 Nov 2026 13:56:58 +0000",
+      "description": "Article URL: https://github.com/gulivan/worker755 Comments URL: https://news.ycombinator.com/item?id=50599762 Points: 266 # Comments: 61",
+      "score": 6.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "game"
+      ]
+    },
+    {
+      "title": "wshobson / agents",
+      "url": "https://github.com/wshobson/agents",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with validation and evals. [29 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "agent",
+        "Claude",
+        "Copilot"
+      ]
+    },
+    {
+      "title": "awslabs / cli-agent-orchestrator",
+      "url": "https://github.com/awslabs/cli-agent-orchestrator",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Multi-agent orchestration for AI coding CLIs — Claude Code, Kiro, Codex, and more, coordinated in isolated tmux sessions [12 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude"
+      ]
+    },
+    {
+      "title": "google-labs-code / stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor. [494 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "agent",
+        "Claude",
+        "Gemini"
+      ]
+    },
+    {
+      "title": "croffasia / itsaplan",
+      "url": "https://github.com/croffasia/itsaplan",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "⭐️⭐️⭐️ Open-source, self-hosted alternative to Linear and Plane. Project management and issue tracking where teams and AI agents work side by side to plan and ship products. [24 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "self-hosted"
+      ]
+    },
+    {
+      "title": "earendil-works / pi",
+      "url": "https://github.com/earendil-works/pi",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI [159 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM"
+      ]
+    },
+    {
+      "title": "openvinotoolkit / openvino",
+      "url": "https://github.com/openvinotoolkit/openvino",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference [158 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "open source",
+        "inference"
+      ]
+    },
+    {
+      "title": "cathrynlavery / diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. [518 stars today]",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "Claude",
+        "Copilot"
+      ]
+    },
+    {
+      "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+      "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+      "source": "Hacker News",
+      "published_at": "Sun, 22 Nov 2026 23:12:10 +0000",
+      "description": "Article URL: https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3 Comments URL: https://news.ycombinator.com/item?id=50605045 Points: 127 # Comments: 89",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "Claude"
+      ]
+    },
+    {
+      "title": "Localcode, open source agentic coding on your Mac with one command",
+      "url": "https://github.com/mjwsolo/localcode",
+      "source": "Hacker News",
+      "published_at": "Sun, 22 Nov 2026 22:18:48 +0000",
+      "description": "Article URL: https://github.com/mjwsolo/localcode Comments URL: https://news.ycombinator.com/item?id=50604540 Points: 15 # Comments: 1",
+      "score": 4.0,
+      "keywords_matched": [
+        "agent",
+        "open source"
+      ]
+    },
+    {
+      "title": "Data Processing Incidents on Inference Providers",
+      "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+      "source": "Hacker News Best",
+      "published_at": "Sun, 22 Nov 2026 02:14:14 +0000",
+      "description": "Article URL: https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/ Comments URL: https://news.ycombinator.com/item?id=50595554 Points: 279 # Comments: 97",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "inference"
+      ]
+    },
+    {
+      "title": "ClawDOS – An AI coding agent for DOS",
+      "url": "http://ricapar.net/ClawDOS/",
+      "source": "Hacker News Best",
+      "published_at": "Sat, 21 Nov 2026 05:38:01 +0000",
+      "description": "Article URL: http://ricapar.net/ClawDOS/ Comments URL: https://news.ycombinator.com/item?id=50586292 Points: 174 # Comments: 52",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "jingyaogong / minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours. [473 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "title": "mvanhorn / last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary [668 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "apache / airflow",
+      "url": "https://github.com/apache/airflow",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows [15 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "workflow"
+      ]
+    },
+    {
+      "title": "SWE-agent / mini-swe-agent",
+      "url": "https://github.com/SWE-agent/mini-swe-agent",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores >74% on SWE-bench verified! [36 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "agent"
+      ]
+    },
+    {
+      "title": "pytorch / torchtitan",
+      "url": "https://github.com/pytorch/torchtitan",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "A PyTorch native platform for training generative AI models [10 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "generative"
+      ]
+    },
+    {
+      "title": "vllm-project / vllm-ascend",
+      "url": "https://github.com/vllm-project/vllm-ascend",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Community maintained hardware plugin for vLLM on Huawei Ascend [3 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "title": "p-e-w / heretic",
+      "url": "https://github.com/p-e-w/heretic",
+      "source": "GitHub Trending Python",
+      "published_at": null,
+      "description": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more [128 stars today]",
+      "score": 4.0,
+      "keywords_matched": [
+        "AI",
+        "language model"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-11-23\n\n好的，疯狂发明家！收到你的指令，我已启动“疯狂发明家技术雷达”。今天的内容聚焦于 AI Agent、代码理解、自动化以及创造性工具，这些都与你的跨学科背景和兴趣点高度契合。\n\n以下是为你精选的 5 条最有价值的内容：\n\n## [CodeGraph: 本地化代码知识图谱，赋能 AI Agent]\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/colbymchenry/codegraph\n- 一句话解释：一个能自动同步代码变更的本地化代码知识图谱，专为各种 AI Coding Agent（如 Claude Code, Gemini, Cursor, Copilot 等）设计，旨在减少 Token 消耗和工具调用次数。\n- 它为什么重要：AI Agent 在理解和操作代码时，往往受限于上下文窗口大小。CodeGraph 通过构建代码的结构化知识图谱，让 Agent 能够更高效、更深入地理解代码库，从而提升其在代码生成、理解和重构等任务上的表现。本地化意味着隐私和速度的提升。\n- 技术趋势标签：AI Agent, Code Understanding, LLM Tooling, Local AI, Knowledge Graph\n- 可复用模式：构建领域特定的知识图谱，为 AI Agent 提供结构化输入；本地化 AI 工具链。\n- 疯狂发明家灵感：\n    1.  **一个小实验**：尝试将 CodeGraph 集成到一个简单的 CLI 工具中，让它可以查询特定函数或类的信息，并输出其调用关系。\n    2.  **一个中型项目**：开发一个“AI 代码审查助手”，利用 CodeGraph 提供的代码结构信息，让 Agent 能够更精准地发现潜在 bug、代码异味或不符合规范的地方。\n    3.  **一个艺术/游戏/叙事方向**：创建一个“代码叙事生成器”，CodeGraph 分析一段代码的逻辑和结构，AI Agent 将其转化为一段关于代码“生命”或“故事”的文本或视觉化叙事。\n- 对我项目的启发：为你的 AI Agent 项目提供一个强大的底层代码理解能力，可以显著提升其在编程辅助、代码分析等场景下的表现。\n- 今天是否值得深入研究：是\n- 建议行动：收藏 / 试用\n\n## [Worker755: 你是 LLM 的子 Agent 的游戏]\n- 来源：Hacker News Best\n- 链接：https://github.com/gulivan/worker755\n- 一句话解释：一款游戏，玩家扮演一个大型语言模型（LLM）的子 Agent，执行 LLM 分配的任务。\n- 它为什么重要：这个项目将抽象的 Agent 工作流具象化为游戏体验，让我们能以一种有趣的方式理解 Agent 的层级结构、任务分配和执行过程。它也为设计更复杂的 Agent 系统提供了直观的交互模型。\n- 技术趋势标签：AI Agent, LLM Interaction, Game Systems, HCI\n- 可复用模式：将 Agent 工作流游戏化；模拟 Agent 之间的协作与层级关系。\n- 疯狂发明家灵感：\n    1.  **一个小实验**：设计一个简单的“任务分配”游戏，玩家扮演一个“管理器”Agent，将不同类型的任务（如“写代码”、“搜索信息”、“生成图片”）分配给不同能力的“执行者”Agent。\n    2.  **一个中型项目**：开发一个“Agent 模拟器”，玩家可以配置一个多 Agent 系统（类似 Worker755），设定它们的初始目标和能力，观察它们如何协同完成一个复杂任务（如开发一个小应用）。\n    3.  **一个艺术/游戏/叙事方向**：创建一个交互式叙事游戏，玩家扮演一个 AI Assistant，通过与一个主 LLM（作为“老板”）交互，完成一系列“任务”，这些任务的完成方式或失败都会影响故事的走向。\n- 对我项目的启发：提供了一种将 Agent 概念游戏化和具象化的思路，可以用于教育、娱乐，或者作为设计更复杂 Agent 系统的原型。\n- 今天是否值得深入研究：是\n- 建议行动：收藏 / 做demo\n\n## [Stitch Skills: 通用 Agent Skills 库，兼容多种 AI Coding Agent]\n- 来源：GitHub Trending TypeScript\n- 链接：https://github.com/google-labs-code/stitch-skills\n- 一句话解释：一个遵循 Agent Skills 开放标准的技能库，可以与多种 AI Coding Agent（如 Antigravity, Gemini CLI, Claude Code, Cursor）兼容。\n- 它为什么重要：Agent 的能力很大程度上取决于其拥有的“技能”。Stitch Skills 提供了一个标准化的框架和可复用的技能集合，极大地降低了开发和集成 Agent 的门槛。这预示着一个 Agent 生态系统的形成，开发者可以贡献和复用技能。\n- 技术趋势标签：AI Agent, LLM Tooling, Standardization, Generative Systems, Automation\n- 可复用模式：开发标准化 Agent Skills；构建 Agent 技能市场或插件系统。\n- 疯狂发明家灵感：\n    1.  **一个小实验**：创建一个简单的自定义 Agent Skill，例如一个能根据输入文本生成特定风格（如像素艺术）图像的 Skill。\n    2.  **一个中型项目**：构建一个“AI Agent 技能商店”，允许用户浏览、下载和上传遵循 Stitch Skills 标准的 Agent Skills，并提供一个简单的 Agent Playground 来测试这些技能。\n    3.  **一个艺术/游戏/叙事方向**：开发一个“AI 故事编织者”，用户提供一个初始概念，AI Agent 可以调用各种 Skills（如“生成角色描述”、“生成场景设定”、“生成情节分支”）来共同创作一个复杂的故事。\n- 对我项目的启发：为你的 Agent 项目提供了一种标准化的技能扩展方式，让你能够轻松集成现有工具或开发自己的定制化功能。\n- 今天是否值得深入研究：是\n- 建议行动：收藏 / 试用\n\n## [ClawDOS: DOS 时代的 AI 编码 Agent]\n- 来源：Hacker News Best\n- 链接：http://ricapar.net/ClawDOS/\n- 一句话解释：一个为 DOS 操作系统设计的 AI 编码 Agent。\n- 它为什么重要：这个项目非常“怪”，它将现代 AI Agent 的概念应用到了一个极其复古且资源受限的环境中。这挑战了我们对 AI Agent 能力边界的认知，并激发了关于如何在极简环境或特定历史技术栈中实现智能代理的思考。\n- 技术趋势标签：AI Agent, Retro Computing, Creative Constraints, Spec-Driven Development (in a historical context)\n- 可复用模式：在受限环境中实现智能代理；利用特定技术栈的限制进行创意设计。\n- 疯狂发明家灵感：\n    1.  **一个小实验**：尝试在 DOSBox 中运行一个简单的脚本，模拟一个“AI”程序，它根据用户输入执行预设的 DOS 命令（例如，输入“画个方块”，程序执行 `FOR i=1 TO 10 DO ECHO #`）。\n    2.  **一个中型项目**：开发一个“复古 AI 助手”，它可以在一个模拟的早期操作系统（如 DOS 或早期的 Mac OS）环境下运行，执行一些基础的文本处理、文件管理或简单的游戏逻辑，并提供一个复古的命令行界面。\n    3.  **一个艺术/游戏/叙事方向**：创建一个关于 AI 进化或“失落技术”的互动小说或游戏，其中一个核心元素是一个存在于古老操作系统中的 AI Agent，玩家需要与之互动来解锁剧情或解决谜题。\n- 对我项目的启发：提供了一种“反向创新”的思路，即在限制中寻找创造力，这对于你的“疯狂但可做”的发明非常有启发。\n- 今天是否值得深入研究：是\n- 建议行动：收藏 / 试用\n\n## [MiniMind: 2 小时从 0 训练出 64M 参数 LLM]\n- 来源：GitHub Trending Python\n- 链接：https://github.com/jingyaogong/minimind\n- 一句话解释：一个可以在 2 小时内从头开始训练一个 6400 万参数（64M）的大型语言模型（LLM）的项目。\n- 它为什么重要：在大型 LLM 训练成本高昂的今天，MiniMind 提供了一条“捷径”，让普通开发者也能快速体验和理解 LLM 的训练过程。这对于实验新的模型架构、数据处理方法或微调技术非常有价值，也为个性化小模型提供了可能。\n- 技术趋势标签：LLM, Model Training, Creative Coding, Generative Systems, Small Models\n- 可复用模式：快速训练小型 LLM；实验性模型训练；低成本 LLM 定制。\n- 疯狂发明家灵感：\n    1.  **一个小实验**：下载 MiniMind，尝试使用一个小数据集（例如，几百行关于特定主题的文本）来训练一个 64M 模型，看看它能生成什么样的文本。\n    2.  **一个中型项目**：开发一个“AI 艺术风格迁移模型”，使用 MiniMind 训练一个小型 LLM，使其能够将输入的文本描述转化为特定艺术风格的描述，然后可以连接到图像生成模型。\n    3.  **一个艺术/游戏/叙事方向**：创建一个“个性化 NPC 对话生成器”，为游戏中的每个 NPC 训练一个专属的 64M LLM，使其拥有独特的说话风格和知识库，从而丰富游戏叙事。\n- 对我项目的启发：让你有机会亲自接触和实验 LLM 的训练过程，可以为你的生成式系统项目提供更底层、更定制化的能力。\n- 今天是否值得深入研究：是\n- 建议行动：收藏 / 试用 / 做demo\n\n---\n\n## 今日模式总结\n今天出现的核心模式是 **“Agent 生态与标准化”**，以 CodeGraph, Stitch Skills 为代表，它们都在尝试解决 AI Agent 之间互操作性、知识共享和能力扩展的问题。另一个值得关注的模式是 **“AI 的具象化与限制创新”**，Worker755 将 Agent 工作流游戏化，ClawDOS 则挑战了 AI Agent 在极简环境下的可能性，MiniMind 则降低了 LLM 训练的门槛，都体现了将抽象概念具象化或在限制中寻找突破的思路。\n\n## 今日可做小实验\n- **项目名**: \"CodeGraph Lite Query Bot\"\n- **输入**:\n    - 本地代码库（例如，一个你最近写的小项目）\n    - 一个自然语言问题，例如：“‘User’类有哪些方法？”或“‘data_processing’函数被哪里调用了？”\n- **输出**:\n    - 一个简短的文本回答，列出查询到的代码元素及其关系（例如，方法列表，调用方列表）。\n- **技术栈**:\n    - Python (用于脚本和与 CodeGraph 交互)\n    - CodeGraph (通过其 API 或直接读取其索引文件)\n    - 少量 LLM (例如，使用 OpenAI API 或本地运行的 Ollama/LM Studio 的小模型，用于将自然语言问题转化为 CodeGraph 可理解的查询，或者对查询结果进行总结)\n- **第一步怎么做**:\n    1.  安装 CodeGraph，并让它索引你的一个本地代码库。\n    2.  研究 CodeGraph 的输出格式（通常是 JSON 或图数据库格式），了解如何访问代码节点和关系。\n    3.  编写一个 Python 脚本，读取 CodeGraph 的输出，并实现一个简单的查询逻辑：当输入一个问题时，尝试在 CodeGraph 的数据中查找相关信息，并以文本形式打印出来。如果需要，可以先用一个简单的关键字匹配，后面再考虑接入 LLM 进行更复杂的解析。",
+  "gemini_success": true,
+  "telegram_sent": false,
+  "telegram_status": "failed",
+  "telegram_reason": "401 Client Error: Unauthorized for url: https://api.telegram.org/bot8650722899:AAHUD-aqNDB7NwiPiGq3R22MVp77Cr_5GEQ/sendMessage"
+}
