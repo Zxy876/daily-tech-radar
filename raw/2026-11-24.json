@@ -1,0 +1,295 @@
+[
+  {
+    "title": "Double counting in LLM evidence fusion: exact posteriors separate rule compliance from posterior gain",
+    "url": "https://arxiv.org/abs/2611.27138",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 23 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.27138v1 Announce Type: new \nAbstract: Language models fuse reports in retrieval, multi-agent consensus and agent memory, where treating shared-source reports as independent can double count evidence. A common remedy is an instruction to count each source once. Its value depends on the receiver's raw baseline. Pricing it needs an exact reference. We build the graded-dependence exact reference: binary worlds with single-report reliability 0.65 and four dependence levels, whose disclosed",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "memory",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "TopoPilot: Reliable Conversational Workflow Automation for Topological Data Analysis and Visualization",
+    "url": "https://arxiv.org/abs/2603.25063",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 23 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2603.25063v3 Announce Type: replace \nAbstract: Recent agentic systems demonstrate that large language models can generate complex codebases from natural language prompts. Despite this progress, they present reliability concerns for scientific visualization due to invalid operations, subtle errors, and failure to resolve underspecified inputs. In this work, we introduce TopoPilot, a reliable and extensible agentic framework for automating complex scientific visualization workflows. We focus",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "workflow",
+      "automation",
+      "language model",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Depth-Linked Residual Tokens for Multimodal Retrieval and Generation",
+    "url": "https://arxiv.org/abs/2611.26752",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 23 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.26752v1 Announce Type: new \nAbstract: Iterative architectures such as looped language models improve parameter efficiency and reasoning capacity of transformers, yet their sequential backbone iterations introduce substantial computational latency. Conversely, parallelizable learnable special tokens (such as the register tokens in Vision Transformer) enable efficient single-pass inference, but often suffer from the absence of sequential refinement and exhibit redundant representations ",
+    "score": 12.0,
+    "keywords_matched": [
+      "transformer",
+      "language model",
+      "multimodal",
+      "inference",
+      "reasoning",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Multi-Tier Edge Triage: Optimizing Latency for Safe Clinical Agents",
+    "url": "https://arxiv.org/abs/2611.26914",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 23 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.26914v1 Announce Type: new \nAbstract: Deploying generative AI agents in enterprise clinical workflows requires enforcing multi-dimensional safety and compliance policies--preventing HIPAA Protected Health Information (PHI) exposure, maintaining clinical scope-of-practice boundaries, ensuring patient-appropriate reading comprehension, and preserving brand integrity--under interactive latency constraints. Synchronous outbound calls to cloud Large Language Model (LLM) judges add substant",
+    "score": 12.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "language model",
+      "generative"
+    ]
+  },
+  {
+    "title": "ChatAtom: A Multi-Agent LLM System for Molecular Dynamics Simulation and Visualization",
+    "url": "https://arxiv.org/abs/2611.26782",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 23 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.26782v1 Announce Type: new \nAbstract: Molecular dynamics (MD) simulation resolves atomic-scale motion and predicts the structural, mechanical, and dynamic properties of materials, making it cen- tral to materials design and discovery. Yet an MD study requires an expert-driven workflow: designing the simulation, writing reliable input scripts, executing them, and analyzing the results with separate tools. Here we present ChatAtom, a multi-agent large language model system that translat",
+    "score": 10.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "workflow",
+      "simulation",
+      "language model"
+    ]
+  },
+  {
+    "title": "Beyond Final Answers: Interpretable Tumor Immune Microenvironment Reasoning from H&E and mIF",
+    "url": "https://arxiv.org/abs/2611.26794",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 23 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.26794v1 Announce Type: new \nAbstract: Readouts of the tumor immune microenvironment (TIME), such as CD8+ T-cell density, intra-epithelial infiltration and the Ki67 index, combine tissue architecture from H&E with cell phenotypes from multiplex immunofluorescence (mIF). Multimodal large language models (MLLMs) could automate these readouts with an explanation, but two gaps remain. Pathology MLLMs read H&E alone, while these readouts need the cell phenotypes that mIF measures. And their",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "multimodal",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "MixFold: Sub-4-Bit Mixed-Precision LLM Inference via Output-Channel Grouping on Mobile NPUs",
+    "url": "https://arxiv.org/abs/2611.26976",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 23 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.26976v1 Announce Type: new \nAbstract: Sub-4-bit quantization allows mobile devices to run larger LLMs, but its memory savings do not always translate into faster decoding on mobile NPUs. Their matrix units support only a few native integer datatypes, and converting unsupported weight formats on the vector unit can erase the gains from fewer bits. Mixed precision faces an additional constraint: each matrix-unit tile uses one datatype. MixFold executes 3-bit and perfectly symmetric 2-bi",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "vector",
+      "inference",
+      "memory"
+    ]
+  },
+  {
+    "title": "Learning Adaptive Defense Strategies: Fine-Tuned LLMs for Network Security Games under Network Mobility",
+    "url": "https://arxiv.org/abs/2611.27180",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 23 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.27180v1 Announce Type: new \nAbstract: Large language models(LLM) show promise for strategic reasoning, yet their ability to compute game-theoretic equilibria under dynamic conditions remains largely unexplored. This work investigates whether fine-tuned LLMs can serve as solver-free surrogates for online equilibrium computation in honeypot allocation, a setting in which network mobility continuously reshapes the underlying attack graph and forces repeated re-solving of a two-player zer",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "game",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Functional Flexibility in Generative AI Interfaces: Text Editing with LLMs through Conversations, Toolbars, and Prompts",
+    "url": "https://arxiv.org/abs/2410.10644",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 23 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2410.10644v2 Announce Type: replace \nAbstract: Many recent user interfaces (UIs) promise great flexibility via access to Large Language Models (LLMs) through prompting. This shifts efforts in accessing functionality from developers to users. However, is a maximum of functional flexibility always beneficial? We find: no -- and develop Functional Flexibility as a concept by reflecting on our long-term exploration of integrating LLMs into a text editor: In a prompt-elicitation survey, people ",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "prompt",
+      "generative"
+    ]
+  },
+  {
+    "title": "Adding One More Agent: How AI Team Size and Formation Shape Productivity and Diversity in Human-AI Brainstorming Teams",
+    "url": "https://arxiv.org/abs/2611.26663",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 23 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.26663v1 Announce Type: new \nAbstract: Generative AI has improved individual productivity, but whether adding a plurality of AI partners helps or hurts remains open. We crossed AI partnership (one versus two) with behavioral formation (calibrated to average human behavior versus customized by the participant) in a brainstorming experiment ($N$=168) with human-human dyads as reference. Two-AI rooms posted more ideas to the shared board, but human-authored ideas dropped substantially. Wi",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "RAG",
+      "generative"
+    ]
+  },
+  {
+    "title": "Coherence by Construction: Synthesizing CTI Knowledge Graphs and the Formal Limits of Coherence Validation",
+    "url": "https://arxiv.org/abs/2611.26717",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 23 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.26717v1 Announce Type: new \nAbstract: Synthesizing relational training data such as knowledge graphs with a large language model typically emits structured objects one at a time, which keeps each object valid but leaves the relationships between them ungrounded. We study an alternative paradigm, generation by simulation: rather than describing a relational artifact, we simulate a process that produces it and take the artifact to be its causal record. Language-model agents propose inte",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "simulation",
+      "language model"
+    ]
+  },
+  {
+    "title": "TOUMAII: A 4.5M-Pair Tool-Calling Preference Dataset and Its Source-Agnostic Generator",
+    "url": "https://arxiv.org/abs/2611.26722",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 23 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.26722v1 Announce Type: new \nAbstract: To autonomously execute multi-step tasks, enterprise agents must reliably interact with tools, call APIs, or query databases, making tool-calling a fundamental capability of AI models. Supervised fine-tuning (SFT) optimises for producing the correct call, but never contrasts it with a plausible incorrect one. In an environment where even a minor formatting error can invalidate a call and an incorrect decision can derail the interaction, direct pre",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "autonomous",
+      "fine-tuning"
+    ]
+  },
+  {
+    "title": "Beyond Demographic Discrimination: Benchmarking Normative-Descriptive Calibration in LLMs",
+    "url": "https://arxiv.org/abs/2611.26870",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 23 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.26870v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly deployed in socially consequential settings, where they must distinguish between normative reasoning (what should happen) and descriptive reasoning (what is likely to happen). Most fairness benchmarks evaluate demographic discrimination under a single reasoning objective, and none we know of tests whether a model treats the same item differently when asked to describe an outcome versus decide one. We i",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Budget-Aware Predict-and-Verify Theorem Proving with Heterogeneous LLM Solvers",
+    "url": "https://arxiv.org/abs/2611.26906",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 23 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.26906v1 Announce Type: new \nAbstract: Large language model (LLM) theorem solvers differ in both proving capability and inference cost. Applying an expensive solver to every subgoal wastes computation when cheaper models are sufficient, while always starting from the cheapest solver wastes attempts on subgoals that require stronger models. We present BudgetPV, an agentic budget-aware predict-and-verify system that allocates computation across unresolved subgoals and heterogeneous LLM s",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "language model",
+      "inference"
+    ]
+  },
+  {
+    "title": "Actions Speak Louder than Words: Stateful Privacy Sniffing of LLM Agents via Behavioral Covert Channels in Web Interactions",
+    "url": "https://arxiv.org/abs/2611.27046",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 23 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.27046v1 Announce Type: new \nAbstract: LLM agents increasingly rely on Web interaction, issuing searches, following links, and reading pages, to complete complex user tasks. Since each action is driven by the agent's private context, including the user's prompt, dialogue history, memory, and connected data, it also opens a new privacy exposure surface. Prior attacks either passively analyze network traffic, which yields only coarse correlations, or hijack the agent through indirect pro",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "prompt",
+      "memory"
+    ]
+  },
+  {
+    "title": "Dynamic Token Merging for Efficient Vision-Language Models",
+    "url": "https://arxiv.org/abs/2611.27064",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 23 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.27064v1 Announce Type: new \nAbstract: Vision-language models (VLMs) represent each image with hundreds of visual tokens, which can make inference costly even when a prompt depends on only part of the image. Dynamic Token Merging (DTM), introduced in MrT5 for byte-level text encoders, learns which tokens to remove: a lightweight delete gate scores contextualized hidden states, acts as a differentiable attention bias during training, and physically removes tokens at inference. We argue ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "language model",
+      "inference",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Writing Weights or Training Them? Spatial Reasoning through Weight-Space Programming and Low-Rank Adaptation",
+    "url": "https://arxiv.org/abs/2611.27089",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 23 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.27089v1 Announce Type: new \nAbstract: Weight-space programming lets a language model inspect and edit another model's weights, offering an alternative to gradient-based adaptation. We evaluated both approaches using Qwen3.5-0.8B on a fixed reference-frame task (128 items), StepGame (200 items), and two untrained distance-comparison tasks. With thinking enabled, the public patch (p50c) raised mean accuracy from 0.0% to 22.1% on the reference-frame task and from 19.2% to 33.7% on StepGa",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "game",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "What Does Matching a Human Intervention Effect Establish? Benchmark Checks for LLM Simulations",
+    "url": "https://arxiv.org/abs/2611.27186",
+    "source": "arXiv cs.AI",
+    "published_at": "Mon, 23 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.27186v1 Announce Type: new \nAbstract: LLM simulations are validated by equivalence with human effects, yet a zero reference passes whenever the human 90 percent interval lies inside the margin, as the human benchmark shows before simulation. When the zero reference fails, planned precision gives independent simulations the margin up to which passing is a 5 percent test of response. In an exploratory 70-experiment reanalysis, 72 percent of GPT-4's $\\pm$0.20 SD passes were zero-referenc",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "simulation",
+      "GPT"
+    ]
+  },
+  {
+    "title": "Windchime: an Audiovisual Installation with Audio-Language Model implementations",
+    "url": "https://arxiv.org/abs/2611.26759",
+    "source": "arXiv cs.HC",
+    "published_at": "Mon, 23 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.26759v1 Announce Type: cross \nAbstract: Windchime is an audiovisual installation in which spoken language retrieves music and interactive animations from an artist authored corpus. A local Automatic Speech Recognition (ASR) model transcribes each prompt while an audio-language model (ALM) embeds it and retrieval over 406 audio stems returns a soundscape with live coded Strudel fragments that layer into audio output. Simultaneously each spoken input results in retrieval of interactive ",
+    "score": 8.0,
+    "keywords_matched": [
+      "language model",
+      "RAG",
+      "prompt",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Auditing and Adapting kNNGuard for Long-Context Prompts",
+    "url": "https://arxiv.org/abs/2611.27084",
+    "source": "arXiv cs.LG",
+    "published_at": "Mon, 23 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.27084v1 Announce Type: new \nAbstract: Training-free activation guardrails such as kNNGuard score prompts by comparing last-token LLM hidden states (the Layer Ensemble branch, kNNGuard LE) and sentence embeddings (all-MiniLM-L6-v2, Embedding-kNN) against a small reference bank (50 examples per class), combining the two branches into a Fused Ensemble (kNNGuard FE). While effective on short inputs (up to 256 tokens), standard kNNGuard degrades substantially on long inputs (over 1000 toke",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "embedding",
+      "prompt"
+    ]
+  }
+]
