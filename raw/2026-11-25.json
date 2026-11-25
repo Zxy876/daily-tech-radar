@@ -1,0 +1,264 @@
+[
+  {
+    "title": "SkillLens: An Interactive Human-LLM System for Diagnosing and Refining Agent Skills",
+    "url": "https://arxiv.org/abs/2611.28706",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 24 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.28706v1 Announce Type: new \nAbstract: LLM agents increasingly rely on reusable skills, yet maintaining them requires developers to connect revisions with changes in behavior and task outcomes. Existing workflows fragment evidence across versions, evaluation cases, and execution traces. We present SkillLens, an interactive human-LLM system for diagnosing and refining agent skills. A formative study with five developers and researchers identified challenges in prioritizing failures, rec",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "workflow",
+      "RAG"
+    ]
+  },
+  {
+    "title": "Do as I Say, Not as You Do: Assessing Public Versus Practitioner Perspectives on the Development of Artificial Intelligence and Language Technologies",
+    "url": "https://arxiv.org/abs/2611.28013",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 24 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.28013v1 Announce Type: new \nAbstract: With the public awareness of artificial intelligence (AI) applications such as large language models (LLMs) and generative text-to-video models reaching unprecedented levels, there is an increasing need to reconcile the perspectives held by informed practitioners, who research and develop these technologies, with the interests and opinions of the general public, who constitute the majority of people impacted by technological developments. In this ",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "generative"
+    ]
+  },
+  {
+    "title": "Postpartum Sense-Making and AI in a Fragmented Care System",
+    "url": "https://arxiv.org/abs/2611.28870",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 24 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.28870v1 Announce Type: new \nAbstract: Postpartum women must navigate health information across a fragmented landscape of clinicians, peers, online communities, influencers, and, increasingly, large language models (LLMs). Existing evaluations of LLMs in health contexts primarily ask whether systems provide accurate, safe, and readable information. We argue that these criteria, while essential, are insufficient for understanding how LLMs may affect postpartum care. LLMs enter an inform",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "RAG"
+    ]
+  },
+  {
+    "title": "colbymchenry / codegraph",
+    "url": "https://github.com/colbymchenry/codegraph",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local [112 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "Claude",
+      "Gemini",
+      "Copilot"
+    ]
+  },
+  {
+    "title": "Faculty Experience with Generative AI Integration into the Teaching and Learning Process",
+    "url": "https://arxiv.org/abs/2611.27998",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 24 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.27998v1 Announce Type: new \nAbstract: This study was conducted to enhance our knowledge and understanding of the lived experiences of faculty regarding generative artificial intelligence (AI) in teaching and learning within the English and Communication Program at the American University of Armenia. This phenomenological qualitative research study used face-to-face, in-depth, open-ended interviews with five faculty members from the program. Faculty expressed different levels of confli",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "generative art",
+      "generative"
+    ]
+  },
+  {
+    "title": "Scrub Data: A Framework for Reproducible Data Curation with AI Coding Agents",
+    "url": "https://arxiv.org/abs/2611.28003",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 24 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.28003v1 Announce Type: new \nAbstract: Data curation---the process of collecting, cleaning, and joining raw datasets for unified analysis---is a time-consuming yet crucial part of any data science project. With the emergence of powerful agentic coding tools, it is tempting to \"vibe curate\"---i.e., to prompt AI agents to perform data curation operations and blindly trust their outputs in order to finish work more quickly. However, this can exacerbate two key challenges that already plag",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "prompt"
+    ]
+  },
+  {
+    "title": "The Agent Is Not Your Driver: Clarifying the Implied Capabilities of In-Vehicle Anthropomorphic Agents",
+    "url": "https://arxiv.org/abs/2611.28007",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 24 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.28007v1 Announce Type: new \nAbstract: This position paper considers how the gap between an anthropomorphic agent in an autonomous vehicle and the automated driving system of the vehicle can create psychological risks if the agent inaccurately presents itself as integrated into the driving system. This gap is under-explored both because of the evolving nature of these agents and because of study limitations in Human-Computer Interaction (HCI) research. Nevertheless, this gap may cause ",
+    "score": 6.0,
+    "keywords_matched": [
+      "agent",
+      "HCI",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "Evaluating the Participation of Proactive Scouting Agents in Real-time Human Team Meetings",
+    "url": "https://arxiv.org/abs/2611.28009",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 24 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.28009v1 Announce Type: new \nAbstract: An open research question is whether the addition of conversational AI agents to real-time discussions among human teams enhances group performance. This study tested the value of adding proactive scouting agents to teams engaged in collaborative forecasting tasks. These agents were designed to (i) monitor the groupwise discussion in real-time, (ii) identify critical information gaps in the group deliberation, (iii) autonomously find and retrieve ",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "Social sycophancy differs across access modes of large language models",
+    "url": "https://arxiv.org/abs/2611.28012",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 24 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.28012v1 Announce Type: new \nAbstract: Large language models (LLMs) can display sycophancy, a tendency to excessively praise, agree with, or validate a user. Existing studies have tested LLMs for sycophancy primarily through application programming interfaces (APIs) rather than the consumer user interfaces (UIs) through which the public commonly interacts with LLMs. Access mode (API vs. UI) may affect observed sycophancy rates. However, it remains unknown to what extent prominent model",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model"
+    ]
+  },
+  {
+    "title": "REMORA: A Voice-First Memory Assistant for Grounded Personal Recall and Independent Living",
+    "url": "https://arxiv.org/abs/2611.28026",
+    "source": "arXiv cs.HC",
+    "published_at": "Tue, 24 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.28026v1 Announce Type: new \nAbstract: Most of what matters in a day is spoken and written down nowhere: a dosing interval named at a clinic, a deadline moved in passing, the place a document was set down. Such information is consequential because it is operational, and fragile because it arrives during divided attention -- the moment its importance becomes clear is rarely the moment it was said. For people living with mild cognitive impairment, Alzheimer's disease or age-related episo",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "RAG",
+      "memory"
+    ]
+  },
+  {
+    "title": "wshobson / agents",
+    "url": "https://github.com/wshobson/agents",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with validation and evals. [33 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "agent",
+      "Claude",
+      "Copilot"
+    ]
+  },
+  {
+    "title": "awslabs / cli-agent-orchestrator",
+    "url": "https://github.com/awslabs/cli-agent-orchestrator",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Multi-agent orchestration for AI coding CLIs — Claude Code, Kiro, Codex, and more, coordinated in isolated tmux sessions [23 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude"
+    ]
+  },
+  {
+    "title": "google-labs-code / stitch-skills",
+    "url": "https://github.com/google-labs-code/stitch-skills",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor. [403 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "agent",
+      "Claude",
+      "Gemini"
+    ]
+  },
+  {
+    "title": "croffasia / itsaplan",
+    "url": "https://github.com/croffasia/itsaplan",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "⭐️⭐️⭐️ Open-source, self-hosted alternative to Linear and Plane. Project management and issue tracking where teams and AI agents work side by side to plan and ship products. [60 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "self-hosted"
+    ]
+  },
+  {
+    "title": "earendil-works / pi",
+    "url": "https://github.com/earendil-works/pi",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI [204 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM"
+    ]
+  },
+  {
+    "title": "openvinotoolkit / openvino",
+    "url": "https://github.com/openvinotoolkit/openvino",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference [185 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "open source",
+      "inference"
+    ]
+  },
+  {
+    "title": "cathrynlavery / diagram-design",
+    "url": "https://github.com/cathrynlavery/diagram-design",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. [802 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "Claude",
+      "Copilot"
+    ]
+  },
+  {
+    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+    "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+    "source": "Hacker News",
+    "published_at": "Tue, 24 Nov 2026 21:02:22 +0000",
+    "description": "Article URL: https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/ Comments URL: https://news.ycombinator.com/item?id=50634658 Points: 152 # Comments: 35",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "GPT"
+    ]
+  },
+  {
+    "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
+    "url": "https://news.ycombinator.com/item?id=50634426",
+    "source": "Hacker News",
+    "published_at": "Tue, 24 Nov 2026 20:44:15 +0000",
+    "description": "Hey HN, we’re Harshith, Param, and Vishnu and we're building Versine ( https://versine.com ). Versine lets you send and request money just by talking or texting with your AI (think Venmo with an MCP). We’re software engineers who have worked on distributed systems at Stripe, Databricks, and Amazon. Versine is an MCP that sits in front of a wallet with a balance. With it, your agent can do things like: - Send money to someone with your approval (via passkey in our app) - Send and request money to",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "A training engine for your local model, using your idle compute",
+    "url": "https://github.com/sous-labs/songe",
+    "source": "Hacker News",
+    "published_at": "Tue, 24 Nov 2026 15:03:40 +0000",
+    "description": "Article URL: https://github.com/sous-labs/songe Comments URL: https://news.ycombinator.com/item?id=50629231 Points: 172 # Comments: 53",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "local model"
+    ]
+  }
+]
