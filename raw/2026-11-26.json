@@ -1,0 +1,252 @@
+[
+  {
+    "title": "colbymchenry / codegraph",
+    "url": "https://github.com/colbymchenry/codegraph",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local [89 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "Claude",
+      "Gemini",
+      "Copilot"
+    ]
+  },
+  {
+    "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+    "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+    "source": "Hacker News Best",
+    "published_at": "Wed, 25 Nov 2026 00:54:49 +0000",
+    "description": "Article URL: https://greydanus.github.io/2026/11/12/pengpt/ Comments URL: https://news.ycombinator.com/item?id=50637056 Points: 391 # Comments: 77",
+    "score": 6.0,
+    "keywords_matched": [
+      "GPT",
+      "transformer",
+      "generative"
+    ]
+  },
+  {
+    "title": "wshobson / agents",
+    "url": "https://github.com/wshobson/agents",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with validation and evals. [26 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "agent",
+      "Claude",
+      "Copilot"
+    ]
+  },
+  {
+    "title": "awslabs / cli-agent-orchestrator",
+    "url": "https://github.com/awslabs/cli-agent-orchestrator",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Multi-agent orchestration for AI coding CLIs — Claude Code, Kiro, Codex, and more, coordinated in isolated tmux sessions [11 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Claude"
+    ]
+  },
+  {
+    "title": "google-labs-code / stitch-skills",
+    "url": "https://github.com/google-labs-code/stitch-skills",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor. [355 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "agent",
+      "Claude",
+      "Gemini"
+    ]
+  },
+  {
+    "title": "croffasia / itsaplan",
+    "url": "https://github.com/croffasia/itsaplan",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "⭐️⭐️⭐️ Open-source, self-hosted alternative to Linear and Plane. Project management and issue tracking where teams and AI agents work side by side to plan and ship products. [42 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "self-hosted"
+    ]
+  },
+  {
+    "title": "earendil-works / pi",
+    "url": "https://github.com/earendil-works/pi",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI [173 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM"
+    ]
+  },
+  {
+    "title": "openvinotoolkit / openvino",
+    "url": "https://github.com/openvinotoolkit/openvino",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference [191 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "open source",
+      "inference"
+    ]
+  },
+  {
+    "title": "cathrynlavery / diagram-design",
+    "url": "https://github.com/cathrynlavery/diagram-design",
+    "source": "GitHub Trending",
+    "published_at": null,
+    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. [1,141 stars today]",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "Claude",
+      "Copilot"
+    ]
+  },
+  {
+    "title": "Bare Metal Qwen",
+    "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+    "source": "Hacker News",
+    "published_at": "Wed, 25 Nov 2026 22:15:34 +0000",
+    "description": "Article URL: https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os Comments URL: https://news.ycombinator.com/item?id=50648365 Points: 50 # Comments: 5",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "LLM"
+    ]
+  },
+  {
+    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+    "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+    "source": "Hacker News Best",
+    "published_at": "Tue, 24 Nov 2026 21:02:22 +0000",
+    "description": "Article URL: https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/ Comments URL: https://news.ycombinator.com/item?id=50634658 Points: 350 # Comments: 96",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "GPT"
+    ]
+  },
+  {
+    "title": "LLM agents work for their parent companies, not for you",
+    "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+    "source": "Hacker News Best",
+    "published_at": "Tue, 24 Nov 2026 12:40:15 +0000",
+    "description": "Article URL: https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/ Comments URL: https://news.ycombinator.com/item?id=50627340 Points: 999 # Comments: 410",
+    "score": 4.0,
+    "keywords_matched": [
+      "agent",
+      "LLM"
+    ]
+  },
+  {
+    "title": "jingyaogong / minimind",
+    "url": "https://github.com/jingyaogong/minimind",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours. [826 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "LLM"
+    ]
+  },
+  {
+    "title": "mvanhorn / last30days-skill",
+    "url": "https://github.com/mvanhorn/last30days-skill",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary [945 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "apache / airflow",
+    "url": "https://github.com/apache/airflow",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows [17 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "workflow"
+    ]
+  },
+  {
+    "title": "SWE-agent / mini-swe-agent",
+    "url": "https://github.com/SWE-agent/mini-swe-agent",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores >74% on SWE-bench verified! [29 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  },
+  {
+    "title": "pytorch / torchtitan",
+    "url": "https://github.com/pytorch/torchtitan",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "A PyTorch native platform for training generative AI models [5 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "generative"
+    ]
+  },
+  {
+    "title": "vllm-project / vllm-ascend",
+    "url": "https://github.com/vllm-project/vllm-ascend",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend [8 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "LLM"
+    ]
+  },
+  {
+    "title": "p-e-w / heretic",
+    "url": "https://github.com/p-e-w/heretic",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more [206 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "language model"
+    ]
+  },
+  {
+    "title": "agentscope-ai / agentscope",
+    "url": "https://github.com/agentscope-ai/agentscope",
+    "source": "GitHub Trending Python",
+    "published_at": null,
+    "description": "Build and run agents you can see, understand and trust. [72 stars today]",
+    "score": 4.0,
+    "keywords_matched": [
+      "AI",
+      "agent"
+    ]
+  }
+]
