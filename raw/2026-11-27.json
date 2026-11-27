@@ -1,0 +1,288 @@
+[
+  {
+    "title": "SpatialCraft: Evolving Procedural Intelligence from Experience and Skills for Spatial Reasoning Agents",
+    "url": "https://arxiv.org/abs/2611.31475",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 26 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.31475v1 Announce Type: new \nAbstract: Spatial reasoning agents increasingly rely on external tools, such as 3D reconstruction, segmentation, and geometric computation, to answer questions that a multimodal large language model (MLLM) cannot resolve from pixels alone. Tool access, however, shifts the bottleneck to orchestration: the agent must decide which tools to call, in what order, and how to interpret their outputs, yet a stateless agent repeats the same mistakes across tasks. We ",
+    "score": 12.0,
+    "keywords_matched": [
+      "agent",
+      "LLM",
+      "language model",
+      "multimodal",
+      "reasoning",
+      "procedural"
+    ]
+  },
+  {
+    "title": "Beyond Static Charts: Benchmarking Interactive Chart-to-Code Generation for MLLMs",
+    "url": "https://arxiv.org/abs/2611.31345",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 26 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.31345v1 Announce Type: new \nAbstract: In recent years, multimodal large language models (MLLMs) have achieved significant progress in chart-to-code generation. However, existing benchmarks mainly focus on static charts, overlooking interactive charts that enable richer and more expressive data exploration. Unlike static chart-to-code generation, which emphasizes visual consistency, interactive chart-to-code evaluation targets behavioral consistency, requiring chart states to evolve co",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "language model",
+      "code generation",
+      "multimodal"
+    ]
+  },
+  {
+    "title": "Off-the-Shelf Autonomous Agents for Game Playtesting",
+    "url": "https://arxiv.org/abs/2611.31570",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 26 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.31570v1 Announce Type: new \nAbstract: In playtesting games, a human operator is typically required to test most gameplay elements. In this work we present Buddy, an autonomous game solving agent which can solve long time horizon objectives in an unseen 3D role-playing game using off-the-shelf language model systems. Buddy will take actions, receive feedback on those actions, and pursue a goal across many turns. No written walkthrough or model training of any kind is required, and we s",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "game",
+      "language model",
+      "autonomous"
+    ]
+  },
+  {
+    "title": "BRAG: Bayesian Retrieval Augmented Generation",
+    "url": "https://arxiv.org/abs/2611.31656",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 26 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.31656v1 Announce Type: new \nAbstract: Retrieval-augmented generation (RAG) ranks memory chunks by semantic similarity to the query. Many methods improve on this by learning from feedback on what was retrieved, but each is a separate heuristic, with no account of when it is the right choice. We introduce BRAG, a generative model of retrieval with use. Each chunk generates the queries it answers from a mixture of von Mises-Fisher components anchored at its original embedding, and each c",
+    "score": 10.0,
+    "keywords_matched": [
+      "RAG",
+      "embedding",
+      "memory",
+      "retrieval",
+      "generative"
+    ]
+  },
+  {
+    "title": "Knocking on Minds Door; A Mixed-Methods Field Study of a Voice LLM Companion in Older Adults Daily Lives",
+    "url": "https://arxiv.org/abs/2611.33727",
+    "source": "arXiv cs.HC",
+    "published_at": "Thu, 26 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.33727v1 Announce Type: new \nAbstract: Global aging makes digital technology important for older adults healthy aging, yet graphical user interfaces remain inaccessible to many. Voice agents based on large language models may help, but users needs and reasons for sustained use remain unclear. We developed a phone-call-style companion that initiates conversations proactively and structures calls using a persona, conversation rules, and prior-call memory (facts, insights, relationship ba",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "memory"
+    ]
+  },
+  {
+    "title": "Prompt Engineer: Analyzing Hard and Soft Skill Requirements in the AI Job Market",
+    "url": "https://arxiv.org/abs/2506.00058",
+    "source": "arXiv cs.HC",
+    "published_at": "Thu, 26 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2506.00058v3 Announce Type: replace-cross \nAbstract: The rise of large language models (LLMs) has prompted speculation about a new job role: the prompt engineer. However, empirical evidence on how common such positions are and what skills employers expect of them remains scarce. In this paper, we present a data-driven analysis of a snapshot of LinkedIn job postings for data and AI roles taken in April 2025, after LLMs had entered everyday work but before LLM-based agents became widely adop",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Semantic Density Does Not Predict Agent-Memory Collapse",
+    "url": "https://arxiv.org/abs/2611.33184",
+    "source": "arXiv cs.LG",
+    "published_at": "Thu, 26 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.33184v1 Announce Type: new \nAbstract: Persistent textual memory can improve LLM agents, but repeated updates can erode task performance. We ask whether memory-store statistics warn before held-out accuracy declines. We registered mean pairwise cosine similarity ($\\rho$) and 13 additional geometry, retrieval, and graph statistics on 805 snapshots from 13 memory methods across ALFWorld, AppWorld, ScienceWorld, WebShop, and two ARC-AGI settings. These methods store trajectories, rules, w",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "memory",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "Scalpel and Brush: Pruning and Targeted Weight Editing of a Small Language Model by a Single LLM Agent",
+    "url": "https://arxiv.org/abs/2611.33426",
+    "source": "arXiv cs.LG",
+    "published_at": "Thu, 26 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.33426v1 Announce Type: new \nAbstract: It has recently been shown that an LLM can itself edit the weights of a language model, yet it remains unclear which part of such a result is due to the agent and which part is reproduced by a random edit of the same shape, by an instruction in the prompt, or by a standard procedure without an LLM. We unify repair and pruning as sparse weight edits to optimize a metric we specify, using BLEU as an example: three tasks -- targeted weight repair (\"b",
+    "score": 10.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "language model",
+      "prompt"
+    ]
+  },
+  {
+    "title": "ContextLure: Exploiting Benign Conversation History for Indirect Prompt Injection",
+    "url": "https://arxiv.org/abs/2611.31424",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 26 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.31424v1 Announce Type: new \nAbstract: As LLMs become more capable, agents can perform more complex tasks with tools and maintain longer interactions with users. These benign conversations contain evidence on task results, user concerns, and operational constraints. The risk is that attackers who can observe benign conversations (evidence) may construct stronger indirect prompt injections without increasing the attackers' control over prior turns or the later injection. However, we sti",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "LLM",
+      "prompt"
+    ]
+  },
+  {
+    "title": "Monitorable-by-design architectures for a post-Astra world: a compartmentalization-based approach",
+    "url": "https://arxiv.org/abs/2611.31610",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 26 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.31610v1 Announce Type: new \nAbstract: Frontier models like GPT-6 Astra are increasingly able to do substantial reasoning without a monitorable chain of thought, chains of thought are becoming less legible, and are often monitored asynchronously to reduce cost. With the future of chain of thought monitoring unclear, it may be necessary to design LLMs with monitorability in mind. We propose a modification to existing LLM architectures based on GRAM, SGTM, DEMix, BTS, and similar methods",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "LLM",
+      "GPT",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "Look Before You Commit: Visual-Evidence-Guided Decoding for Multimodal Diffusion Language Models",
+    "url": "https://arxiv.org/abs/2611.31677",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 26 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.31677v1 Announce Type: new \nAbstract: Diffusion multimodal large language models rely on confidence to decide when to commit candidate tokens during generation. In multimodal tasks, however, confidence cannot distinguish whether a candidate originates from image evidence or the language prior. We perform paired forward ablation and find that nearly nine out of ten high-confidence commits are insensitive to the image, while degenerate and hallucination samples exhibit significant incre",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "diffusion",
+      "language model",
+      "multimodal"
+    ]
+  },
+  {
+    "title": "Reproducing History Is Not Enough: Intervention-Level Assurance for LLM-Generated Simulators",
+    "url": "https://arxiv.org/abs/2611.31736",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 26 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.31736v1 Announce Type: new \nAbstract: Large language models can now write simulation programs of operational processes and workflows. These programs can be reused to answer what-if questions on new records and policies. However, a program that reproduces recorded history can still give wrong answers to what-if questions; requested changes may be applied wrongly, or they may be applied to records other than the ones the question is about, or the program may stop being valid once its po",
+    "score": 8.0,
+    "keywords_matched": [
+      "LLM",
+      "workflow",
+      "simulation",
+      "language model"
+    ]
+  },
+  {
+    "title": "BLADE: Better Language Answers through Dialogue and Explanations",
+    "url": "https://arxiv.org/abs/2604.03236",
+    "source": "arXiv cs.HC",
+    "published_at": "Thu, 26 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2604.03236v3 Announce Type: replace \nAbstract: Large language model (LLM)-based educational assistants often provide direct answers offering little incentive for students to explore or engage with course materials. We present BLADE (Better Language Answers through Dialogue and Explanations), a retrieval-augmented generation (RAG) based conversational assistant grounded in course-specific content that guides students toward relevant materials through citation-grounded dialogue rather than d",
+    "score": 8.0,
+    "keywords_matched": [
+      "LLM",
+      "language model",
+      "RAG",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "BuildOcc: A Large Language Model Occupant Agent Platform for Building Energy Research",
+    "url": "https://arxiv.org/abs/2609.02729",
+    "source": "arXiv cs.HC",
+    "published_at": "Thu, 26 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2609.02729v3 Announce Type: replace \nAbstract: Occupants are a primary source of uncertainty in building energy consumption and management, yet existing occupant behavior models cannot capture adaptive and reasoning responses considering the occupant's personal history, current context, and the type of energy signal being delivered. This study presents BuildOcc, an open-source Python platform that grounds large language model agents in the American Time Use Survey (ATUS), a nationally repr",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "On Semiotic-Grounded Interpretive Evaluation of Generative Art",
+    "url": "https://arxiv.org/abs/2604.08641",
+    "source": "arXiv cs.HC",
+    "published_at": "Thu, 26 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2604.08641v2 Announce Type: replace-cross \nAbstract: Interpretation is essential to deciphering the language of art: audiences communicate with artists by recovering meaning from visual artifacts. However, current Generative Art (GenArt) evaluators primarily emphasize surface-level image quality or literal prompt adherence, failing to assess the deeper symbolic or contextual meaning intended by the creator. We formalize this observation using Peircean computational semiotic theory that mod",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "generative art",
+      "prompt",
+      "generative"
+    ]
+  },
+  {
+    "title": "Attributing Agentic Failure in Reasoning Vision-Language Models with Interactive 2D Environments",
+    "url": "https://arxiv.org/abs/2611.33162",
+    "source": "arXiv cs.LG",
+    "published_at": "Thu, 26 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.33162v1 Announce Type: new \nAbstract: Agentic benchmarks report a success rate that confounds distinct causes of failure: misreading the environment, never working out how components of the environment operates, operating the components in the wrong order, and failing to recover from a mistake, each of which calls for a different fix. We present an early preview of MultiNet v2.0-Gridworld - an interactive maze environment built for attribution rather than ranking. Four different types",
+    "score": 8.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "language model",
+      "reasoning"
+    ]
+  },
+  {
+    "title": "colbymchenry / codegraph",
+    "url": "https://github.com/colbymchenry/codegraph",
+    "source": "GitHub Trending TypeScript",
+    "published_at": null,
+    "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local [99 stars today]",
+    "score": 8.0,
+    "keywords_matched": [
+      "agent",
+      "Claude",
+      "Gemini",
+      "Copilot"
+    ]
+  },
+  {
+    "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
+    "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
+    "source": "Hacker News",
+    "published_at": "Fri, 27 Nov 2026 00:03:18 +0000",
+    "description": "Article URL: https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/ Comments URL: https://news.ycombinator.com/item?id=50661218 Points: 13 # Comments: 0",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "Gemini"
+    ]
+  },
+  {
+    "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+    "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+    "source": "Hacker News Best",
+    "published_at": "Wed, 25 Nov 2026 00:54:49 +0000",
+    "description": "Article URL: https://greydanus.github.io/2026/11/12/pengpt/ Comments URL: https://news.ycombinator.com/item?id=50637056 Points: 402 # Comments: 78",
+    "score": 6.0,
+    "keywords_matched": [
+      "GPT",
+      "transformer",
+      "generative"
+    ]
+  },
+  {
+    "title": "Irreducible Governance Structure for Autonomous Agent Systems: Fair Allocation, Strategy-Proofness, and Multi-Scale Composition",
+    "url": "https://arxiv.org/abs/2611.31284",
+    "source": "arXiv cs.AI",
+    "published_at": "Thu, 26 Nov 2026 00:00:00 -0500",
+    "description": "arXiv:2611.31284v1 Announce Type: new \nAbstract: Autonomous agent governance is commonly framed as a problem of enforcing correct execution. However, in multi-agent systems, an equally fundamental question precedes execution: which agents are allowed to act.\n  In this paper, we show that allocation is not an auxiliary concern but a structural component of governance. When multiple agents compete for execution under constrained resources, any allocation mechanism introduces unavoidable trade-offs",
+    "score": 6.0,
+    "keywords_matched": [
+      "AI",
+      "agent",
+      "autonomous"
+    ]
+  }
+]
