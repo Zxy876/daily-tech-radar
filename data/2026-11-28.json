@@ -1,0 +1,292 @@
+{
+  "date": "2026-11-28",
+  "candidates": [
+    {
+      "title": "JOVE ICE: Intent Guided Cloud Edge Device Collaboration for AI Glasses",
+      "url": "https://arxiv.org/abs/2611.33735",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 27 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.33735v1 Announce Type: new \nAbstract: Recent advances in large language models (LLMs) and LLM based agents have expanded the capabilities of AI glasses, enabling egocentric visual question answering, memory retrieval, and proactive assistance. These applications involve diverse inputs, including speech, images, and video, and range from simple device control to complex visual reasoning, posing challenges for efficient computation and communication. While video centric capabilities hav",
+      "score": 14.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "reasoning",
+        "memory",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "FIG-MAC: A Fine-grained Inspiration Graph Empowered Multi-Agent Collaboration for Automated Scientific Hypothesis Generation",
+      "url": "https://arxiv.org/abs/2611.33563",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 27 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.33563v1 Announce Type: new \nAbstract: Automated Scientific Hypothesis Generation (ASHG) leveraging large language models (LLMs) aims to harness their strengths in knowledge integration, logical reasoning, and text generation for efficiently producing innovative, verifiable scientific hypotheses. However, existing approaches face three critical limitations: (i) insufficient fine-grained knowledge representation, as unstructured context impairs LLM comprehension and reasoning; (ii) lack",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "RAG",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "EVA: Evidence-seeking Visual Agent for Hallucination-Resistant Multimodal Reasoning",
+      "url": "https://arxiv.org/abs/2611.33706",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 27 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.33706v1 Announce Type: new \nAbstract: Hallucinations in multimodal large language models (MLLMs) often arise from visual assumptions that go unchecked. Self-reflection, multi-agent debate, and counterfactual verification can reinforce erroneous conclusions when they rely on the same unverified visual assumptions. External visual tools can provide verifiable evidence, but models may select the wrong tools, supply incorrect parameters, or ignore or contradict the evidence they obtain. I",
+      "score": 12.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model",
+        "multimodal",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Confidence scores for gated automation of large language models",
+      "url": "https://arxiv.org/abs/2611.33394",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 27 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.33394v1 Announce Type: new \nAbstract: AI agents built on large language models (LLMs) demonstrate strong capabilities in automated decision-making. However, LLMs may produce incorrect answers with high confidence, limiting their applicability in decisions that affect individuals and organizations. Reliable confidence scores are necessary to gate such decisions, and existing estimates are frequently unavailable or too coarse to support effective gating. This work uses supervised learni",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "automation",
+        "language model"
+      ]
+    },
+    {
+      "title": "Faster and Better Query (FBQ): Learning Future-Position Probes from the First Generated Token",
+      "url": "https://arxiv.org/abs/2611.33679",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 27 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.33679v1 Announce Type: new \nAbstract: When a large language model (LLM) evicts prompt keys and values at the end of prefill, it must decide what to keep before it sees the queries from subsequent decoding steps. Generating a draft continuation can approximate those queries at the cost of extra autoregressive steps. Can we use the embedding of the first output token, already available from the final prefill logits, to construct low-cost pseudo queries that approximate future decoding q",
+      "score": 10.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "embedding",
+        "prompt"
+      ]
+    },
+    {
+      "title": "What, Who, and When: Structured Harm Assessment for Mental Health Safety via Short Reasoning",
+      "url": "https://arxiv.org/abs/2611.33263",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 27 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.33263v1 Announce Type: new \nAbstract: The growing use of large language models (LLMs) for mental health support raises important safety concerns. Existing guard models primarily identify categories of harmful content, often overlooking the context needed to determine an appropriate response. We introduce a clinically grounded taxonomy that characterizes harm along three dimensions: what the harm is, who is involved, and when it occurs. It further separates harm characterization from i",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Certify What You Plant: Shortcut-Free Proof Depth in Logical Reasoning Data",
+      "url": "https://arxiv.org/abs/2611.33303",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 27 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.33303v1 Announce Type: new \nAbstract: Procedurally generated logic problems are used to both evaluate and train reasoning in language models. Their difficulty is usually set by planting a proof, that is, by sampling a proof of the desired depth and stating its premises as the problem. However, a planted proof is only one possible proof. A problem can also have shorter proofs, or several unrelated ones, and its stated depth then overstates what solving it requires. We measure what a pr",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "language model",
+        "reasoning",
+        "procedural"
+      ]
+    },
+    {
+      "title": "Dynamic Reasoning in Next-Gen Detection and Response: An Empirical Study of LLM Triage, Reinforcement Tuning, and Adversarial Evasion",
+      "url": "https://arxiv.org/abs/2611.33470",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 27 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.33470v1 Announce Type: new \nAbstract: We present an end-to-end empirical study of dynamic reasoning in next-generation detection and response pipelines, evaluating how static classifiers, graph-based signal fusion, and large language model (LLM) triage agents perform under strict human-analyst attention budgets (Recall at B alerts/day). Across 56 reproducible experiments spanning a multi-layer enterprise-and-cloud simulator and four public datasets (SOREL-20M, BODMAS, LANL, and DARPA ",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "language model",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "How Much Effort Does an AI Code Reviewer Need? Evidence from Claude 5.5 Models on Plausible-but-Wrong Patches",
+      "url": "https://arxiv.org/abs/2611.33639",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 27 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.33639v1 Announce Type: new \nAbstract: AI coding agents write code faster than people can review it, so teams add AI reviewers. Reasoning models let such a reviewer trade cost for diligence through an effort setting. We asked how much effort a reviewer needs to catch plausible-but-wrong patches, which pass a benchmark's tests but fail stronger ones. Claude Opus 5.5 (preregistered), Sonnet 5.5 and Haiku 5.5 (exploratory) each reviewed the same 90 agent-written Django patches from SWE-be",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "Claude",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "PowerFix: Physics-Guided Iterative Repair for LLM-Assisted Power Converter Design",
+      "url": "https://arxiv.org/abs/2611.33712",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 27 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.33712v1 Announce Type: new \nAbstract: Large language model (LLM) agents are increasingly being explored for automated engineering design. However, repairing power-converter designs that fail engineering validation remains challenging: the system must identify physical causes, locate responsible design variables, and resolve violations without compromising other constraints. We introduce PowerFix, a physics-guided iterative repair framework that converts validation failures into struct",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "language model"
+      ]
+    },
+    {
+      "title": "InterGenEHR$^+$: An Interactive Framework for Natural Language-Conditioned Generation of Longitudinal Patient Trajectories",
+      "url": "https://arxiv.org/abs/2611.33788",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 27 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.33788v1 Announce Type: new \nAbstract: Objective: To develop and validate InterGenEHR$^+$, an interactive framework for natural language-conditioned generation of synthetic tabular electronic health records (EHRs) and longitudinal trajectories for scenario-based evaluation of machine learning models.\n  Methods: An optional large language model (LLM) parser converts clinical requests into structured constraints. Conditional variational autoencoders and diffusion models generate single-t",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "LLM",
+        "diffusion",
+        "language model"
+      ]
+    },
+    {
+      "title": "RadOncGym: An Agent-Based Framework for Radiotherapy Dose-Mimicking Optimization",
+      "url": "https://arxiv.org/abs/2611.33821",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 27 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.33821v1 Announce Type: new \nAbstract: AI dose-prediction models generate patient-specific 3D dose distributions from patient anatomy, providing an important intermediate representation for automated radiotherapy planning. However, an AI-predicted dose must undergo downstream optimization to produce a physically constrained treatment plan, a process that requires balancing competing planning objectives. We present RadOncGym, an agent-based framework that enables an LLM agent to iterati",
+      "score": 8.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "LLM",
+        "planning"
+      ]
+    },
+    {
+      "title": "colbymchenry / codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "source": "GitHub Trending TypeScript",
+      "published_at": null,
+      "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local [114 stars today]",
+      "score": 8.0,
+      "keywords_matched": [
+        "agent",
+        "Claude",
+        "Gemini",
+        "Copilot"
+      ]
+    },
+    {
+      "title": "Brand Recall and Category Accuracy in Language Models: An Audit of 1,000 B2B SaaS Brands",
+      "url": "https://arxiv.org/abs/2611.33322",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 27 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.33322v1 Announce Type: new \nAbstract: A language model can name a brand without classifying it correctly. This study measures these outcomes separately for 1,000 B2B SaaS brands across 333 product categories. On Gemma 4 12B, with no external retrieval, category prompts elicit 510 brands (51.0%). A separate five-candidate category probe ranks the reference label first for 787 brands, a distractor first for 194, and yields little separation for 19. Among the 981 separated rankings, the ",
+      "score": 6.0,
+      "keywords_matched": [
+        "language model",
+        "prompt",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Partial Routing: Trace-Tuned Delegation for Resource-Efficient Agentic Workflows",
+      "url": "https://arxiv.org/abs/2611.33402",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 27 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.33402v1 Announce Type: new \nAbstract: AI models vary enormously in capability and price. Model routing exploits this by sending easier tasks to cheaper models. However, a single agentic task often combines easy and difficult subtasks, making one model choice for the entire task inefficient. We introduce partial routing, which guides a frontier lead model to delegate suitable subtasks to a cheaper worker model. From both models' past runs, we identify recurring subtasks and measure eac",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "workflow"
+      ]
+    },
+    {
+      "title": "CA-RAG: Constraint-Aligned Retrieval for Structurally Faithful Long-Form Generation",
+      "url": "https://arxiv.org/abs/2611.33497",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 27 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.33497v1 Announce Type: new \nAbstract: Retrieval-augmented generation (RAG) typically optimises evidence selection for semantic relevance, whereas compliance-sensitive long-form generation also requires evidence supporting explicit structural obligations. Semantically relevant retrieval may therefore omit information needed for mandatory downstream clauses. We propose Constraint-Aligned RAG (CA-RAG), a retrieval-conditioning framework that augments section-specific queries with ontolog",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "RAG",
+        "retrieval"
+      ]
+    },
+    {
+      "title": "Learning to Reason in Real-Time",
+      "url": "https://arxiv.org/abs/2611.33513",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 27 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.33513v1 Announce Type: new \nAbstract: AI agents that operate in the real world must reason correctly and on-time, yet they currently do not account for how time should alter their reasoning. Modern agents learn to do tasks in environments that are entirely synchronous: where the world waits for the agent to act before changing. A real-time environment, by contrast, changes independent of the agent. Existing approaches try to bridge this gap by imposing a ratio of thinking to acting. H",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "agent",
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Aligned Machine: A Benchmark for Evaluating Multimodal Embedding Similarity via Human Comparative Judgements",
+      "url": "https://arxiv.org/abs/2611.33594",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 27 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.33594v1 Announce Type: new \nAbstract: Embedding models increasingly inform how people search, recommend, and retrieve information, yet we lack credible ways to test whether these similarity judgments reflect how humans understand meaning. Existing benchmarks typically rely on static, expert-labeled pairs with coarse Likert-style annotations, limiting scalability and making it difficult to obtain consistent, high-confidence annotations. We introduce Aligned Machine, an interactive, pub",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "multimodal",
+        "embedding"
+      ]
+    },
+    {
+      "title": "Learning from Natural Images Untangles Number Sense",
+      "url": "https://arxiv.org/abs/2611.33615",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 27 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.33615v1 Announce Type: new \nAbstract: Numerical cognition is a simple yet fundamental ability that remains challenging for modern vision-language models. Meanwhile, number sense is already present in numerically na\\\"ive animals, suggesting that it can emerge without explicit numerical learning. Deep neural networks provide a related observation, with numerosity-selective units appearing after training on unrelated natural-image tasks and even before any training. However, these findin",
+      "score": 6.0,
+      "keywords_matched": [
+        "AI",
+        "neural",
+        "language model"
+      ]
+    },
+    {
+      "title": "Interactive Proofs as a Unified Framework for Evaluating and Leveraging Verifiable Proof Generation by LLM Agents",
+      "url": "https://arxiv.org/abs/2611.33676",
+      "source": "arXiv cs.AI",
+      "published_at": "Fri, 27 Nov 2026 00:00:00 -0500",
+      "description": "arXiv:2611.33676v1 Announce Type: new \nAbstract: Recent advances in LLM-assisted theorem proving and program verification have attracted widespread attention. Beyond determining whether a proposition is true, LLM agents must produce evidence that can be independently checked by humans or formal verification tools. To evaluate the underlying, protocol-agnostic ability of LLM agents to construct verifiable proofs-rather than their proficiency with any particular proof language or verification tool",
+      "score": 6.0,
+      "keywords_matched": [
+        "agent",
+        "LLM",
+        "RAG"
+      ]
+    }
+  ],
+  "raw_markdown": "# 疯狂发明家技术雷达 - 2026-11-28\n\n这里是为你筛选的 5 个最具「疯狂发明家」潜质的技术信号。今天的内容重点聚焦在**动态真实世界 Agent、局部图谱工具链、约束对齐生成与程序化解密系统**。\n\n---\n\n## 1. Learning to Reason in Real-Time: 摆脱“世界等你思考”的实时 Agent\n- **来源：** arXiv cs.AI\n- **链接：** https://arxiv.org/abs/2611.33513\n- **一句话解释：** 论文打破了现有 LLM Agent 假设“世界处于回合制等待我输出”的温室假设，研究当物理/仿真世界持续流逝时，Agent 如何根据时间预算动态调整推理深度与行动决策。\n- **它为什么重要：** 现有的 AI 游戏 NPC、实体机器人或交互装置极其僵硬，核心瓶颈就是“思考延迟与环境突变不匹配”。让 Agent 学会“边跑边想，来不及就先闪避”，是从回合制走向拟真自主生命的关键一步。\n- **技术趋势标签：** Real-Time Agent / Anytime Reasoning / 游戏 AI / 动态环境交互\n- **可复用模式：** **渐进式推理放弃机制（Anytime Inference with Deadline）**——给推理设置动态 Tick，在规定毫秒内若未得出最优 CoT，则降级为快思考本能输出。\n- **疯狂发明家灵感：**\n  1. **一个小实验：** 用 Python 写一个简单的文本“落石躲避”命令行，LLM 每秒必须给出一个动作指令，若思考超过 1 秒直接判定被砸死，测试不同提示词策略下的保命率。\n  2. **一个中型项目：** **Minecraft“易怒且手忙脚乱的生存搭子”**：接入 Minecraft 实时服务器，怪物靠近时它没有时间写 500 字规划，只能惊慌乱跳；安全坐在火堆旁时它才会做深度长链规划。\n  3. **一个艺术/游戏/叙事方向：** **动态倒计时的 AI 审讯室游戏**：嫌疑人（Agent）不仅看你说什么，还看你犹豫了多久；当房间开始漏水/起火时，由于算力资源（心理压力）被压缩，Agent 的谎言会暴露出破绽。\n- **对我项目的启发：** 在设计自主世界或多 Agent 交互时，不要把 Agent 包装成无限制阻塞主线程的黑盒，引入“思考时间成本”可以产生极度真实的拟人张力和玩法机制。\n- **今天是否值得深入研究：** 是\n- **建议行动：** 做demo\n\n---\n\n## 2. codegraph: 本地免 Token 的即时代码知识图谱\n- **来源：** GitHub Trending TypeScript\n- **链接：** https://github.com/colbymchenry/codegraph\n- **一句话解释：** 一个 100% 本地运行、随代码变更自动增量同步的代码知识图谱，专为 Claude Code、Cursor、Gemini 等 Agent 减少上下文消耗与无脑 Tool Calls。\n- **它为什么重要：** Agent 搞崩工程项目或消耗数万 Token，往往是因为用“全文搜索/暴力读取”来建立心智模型。结构化的本地语义/AST 图谱是 Spec-Driven Development 和自动化工具链最需要的“即时内存”。\n- **技术趋势标签：** Local Knowledge Graph / Developer Tools / Agent Toolchain / Spec-Driven\n- **可复用模式：** **AST 关系增量图（Incremental AST Relationship Indexing）**——把代码实体当作拓扑节点，变更时仅局部更新，Agent 只需要查询子图而非翻阅文件树。\n- **疯狂发明家灵感：**\n  1. **一个小实验：** 将该 repo 克隆下来，给自己的一个前端小项目生成拓扑图，用 CLI 让 Claude 仅基于子图输出架构重构建议。\n  2. **一个中型项目：** **代码库“活体交互地图”（Living Architecture Map）**：将生成的 codegraph 接入 Three.js / Canvas，将代码依赖可视化为类似《孢子》的生物网络，点击某个节点即驱动本地 Agent 重构该模块。\n  3. **一个艺术/游戏/叙事方向：** **“代码即地牢”世界生成器**：把一个开源项目的 codegraph 映射为 Minecraft 的地下城——函数是房间，引用是通道，圈复杂度决定怪物强度。\n- **对我项目的启发：** 做 Agent 工作流时，先为 Agent 准备“结构化的拓扑地图”，远比直接把一堆 Markdown 文档和 Prompt 塞进 Context 窗口高效、干净得多。\n- **今天是否值得深入研究：** 是\n- **建议行动：** 试用\n\n---\n\n## 3. FIG-MAC: 细粒度灵感图谱驱动的多智能体协同假设生成\n- **来源：** arXiv cs.AI\n- **链接：** https://arxiv.org/abs/2611.33563\n- **一句话解释：** 利用“细粒度灵感图谱”（Inspiration Graph）打破传统 CoT 的同质化，让多个 Agent 分别扮演跨学科关联者，从概念裂隙中碰撞出可验证的颠覆性科学假设。\n- **它为什么重要：** 很多多 Agent 系统就是几个 LLM 在那里打乒乓球复读废话。该论文展示了如何用显式的“灵感图谱”作为外部黑板（Blackboard），强制 Agent 寻找不同概念簇之间的弱连接。\n- **技术趋势标签：** Multi-Agent Collaboration / Creative Ideation / 概念图谱 / 自动化发现\n- **可复用模式：** **跨域灵感跳跃（Cross-Cluster Conceptual Jumping）**——限制 Agent 不能在同一聚类内找解，必须从两个看似无关的子图节点之间架设“假设桥梁”。\n- **疯狂发明家灵感：**\n  1. **一个小实验：** 提取自己的 20 篇灵感笔记生成节点，强制写一个 Python 脚本随机拉取两个距离最远的节点，调用小模型生成一个“跨界产品概念”。\n  2. **一个中型项目：** **“疯狂专利孵化机”**：接入近期 arXiv 跨学科论文（如生化 + 图形学），多 Agent 分别负责“反向提问”、“物理常识校验”、“工程构型”，每天自动产出 1 个怪异的可落地硬件点子。\n  3. **一个艺术/游戏/叙事方向：** **推演未来神话的 Worldbuilder**：让 Agent 分别掌管“魔法规则图谱”和“失落科技图谱”，二者强行交叉结合，生成带严格内部自洽逻辑的奇幻/科幻世界观设定集。\n- **对我项目的启发：** 做创新工具时，Agent 本身不需要凭空发疯；给它们设计一套“强迫关联反直觉节点”的图拓扑规则，创造力就会自然涌现。\n- **今天是否值得深入研究：** 是\n- **建议行动：** 收藏\n\n---\n\n## 4. CA-RAG: 约束对齐检索，专治长文生成结构塌缩\n- **来源：** arXiv cs.AI\n- **链接：** https://arxiv.org/abs/2611.33497\n- **一句话解释：** 传统的 RAG 只根据“语义相似度”检索，而 CA-RAG 会根据下游必须要遵守的“结构性硬约束/必填条款”，主动补齐并对齐检索内容，保证复杂长文本生成的严格合规。\n- **它为什么重要：** 这是 **Spec-Driven（规格驱动）** 思想在 RAG 领域的纯正体现。你定义了一个游戏关卡 Spec 或剧情框架，普通 RAG 会漏掉关键规则，而 CA-RAG 让检索本身就受“规格契约”约束。\n- **技术趋势标签：** Spec-Driven RAG / 结构化生成 / 规则系统 / 强一致性\n- **可复用模式：** **契约导向检索（Contract-Obligation-Guided Retrieval）**——把输出的 Specification（规格说明书）拆成必须满足的 Slot，每一个检索 Query 都是为了填满某一条特定约束，而不是泛泛的主题搜索。\n- **疯狂发明家灵感：**\n  1. **一个小实验：** 设定一个 Minecraft 建筑规范（必须有承重柱、必须有通风井、材质必须抗爆），用脚本测试：纯 Prompt 生成 vs 约束槽位先对齐检索再生成，对比合格率。\n  2. **一个中型项目：** **极严苛的 Game Loop 逻辑生成器**：用户输入一段模糊的游戏玩法描述，系统自动将其拆解为状态机 Spec，并定向检索游戏设计模式，生成不可自相矛盾的代码逻辑。\n  3. **一个艺术/游戏/叙事方向：** **侦探推理游戏的“防穿帮生成引擎”**：生成一宗案件时，强制对齐“物理证据链、不在场证明、作案动机”三维约束槽，绝不让生成出来的案件出现“死者在死后发短信”的逻辑漏洞。\n- **对我项目的启发：** 抛弃纯语义模糊 RAG，采用“规格槽位驱动检索（Slot-filling RAG）”，是解决生成式系统不可控问题的正道。\n- **今天是否值得深入研究：** 是\n- **建议行动：** 做demo\n\n---\n\n## 5. Certify What You Plant: 杜绝程序化逻辑题生成中的“解题后门”\n- **来源：** arXiv cs.AI\n- **链接：** https://arxiv.org/abs/2611.33303\n- **一句话解释：** 程序化生成谜题/逻辑题时，开发者通常预埋一条解题路径（Planted Proof）；但系统往往会意外生成更短的作弊路径。该论文提出了一套形式化验证方法，确保谜题必须达到设定的深度才能解开。\n- **它为什么重要：** 这是程序化内容生成（PCG）与游戏关卡设计的圣杯问题。无论是在 Minecraft 生成解谜神庙，还是在 Roguelike 中生成谜题，如果无法验证“无捷径（Shortcut-Free）”，玩家就会通过跳关让精巧机制沦为笑话。\n- **技术趋势标签：** Procedural Generation (PCG) / 形式化验证 / 谜题生成 / Game Systems\n- **可复用模式：** **最短证明图剪枝验证（Proof Depth Certification）**——在生成谜题逻辑图后，跑一次全状态最短路径遍历，若存在步长小于预期目标 $K$ 的解，立即重构或补齐约束。\n- **疯狂发明家灵感：**\n  1. **一个小实验：** 用 Z3 或简易图搜索写一个 5 步推箱子生成器，加入这套验证，强制过滤掉所有可以 3 步内逃课的布局。\n  2. **一个中型项目：** **Minecraft 自适应谜题地牢生成模组**：利用该机制在游戏中实时生成红石/机关密室，保证玩家必须按既定复杂度（证明深度）解谜，杜绝破坏方块外的逻辑跳步。\n  3. **一个艺术/游戏/叙事方向：** **“不可作弊的互动叙事推理剧”**：剧本节点随玩家选择动态生成，但系统确保核心线索具有不可逾越的叙事深度距离，玩家必须层层盘剥才能触碰真相。\n- **对我项目的启发：** PCG 绝不仅仅是“随机拼装”，必须附带“可验证性验证器（Verifier）”。将形式化验证作为生成管线的 Gatekeeper，才能做真正硬核的生成式游戏。\n- **今天是否值得深入研究：** 是\n- **建议行动：** 收藏\n\n---\n\n## 今日模式总结\n\n1. **从“静态推测”转向“拓扑约束与图（Graph & Specs）”：** 无论是 `codegraph` 把代码转为本地 AST 图，`FIG-MAC` 用灵感图做跨域跳跃，还是 `CA-RAG` 用约束控制生成，单纯靠纯文本 Context 的时代正在过去，显式图谱和规格约束是 Agent 高级推理的骨架。\n2. **拒绝理想温室，回归物理法则与动态世界：** `Real-Time Reasoning` 剥夺了 LLM 无限思考的时间特权，`Certify What You Plant` 严防游戏系统出现逻辑捷径。好发明的共性在于——**开始主动给 AI 设置严苛的物理、时间与数学边界。**\n\n---\n\n## 今日可做小实验\n\n### ⏱️ 项目名：PanicBot（惊恐时钟：时间预算感知型 Agent）\n**耗时目标：** 1.5 ~ 2 小时\n\n- **输入：**\n  1. 环境状态描述（如：“你在一个下沉的船舱里，海水正漫到膝盖，头顶有管道漏电，右边门反锁，左边有通风管道，水里有一把扳手”）。\n  2. 动态倒计时限制（比如分别测试：`500ms`、`2000ms`、`10000ms`）。\n- **输出：**\n  Agent 输出行动指令，以及一条简短的“心智压力/思考过程摘要”。对比不同时间预算下 Agent 的决策风格变化。\n- **技术栈：**\n  Python + 任何带流式输出或快速响应的 API（如 Claude 3.5 Haiku 或 Ollama 本地模型，配合 `asyncio.wait_for`）。\n- **第一步怎么做：**\n  1. 写一个异步 Python 脚本，设置一个 `timeout` 参数。\n  2. 当 `timeout=0.5s` 时，系统 Prompt 切换为：“你处于极致惊恐状态，只允许激活你的脊髓反射，输出 1 个动词短语”；\n  3. 当 `timeout=10s` 时，系统 Prompt 切换为：“你绝对安全，请进行结构化 SWOT 分析并制定三步最优解”。\n  4. 体验“时间限制”如何直接转化为一种具有强烈游戏感和人性张力的交互机制。",
+  "gemini_success": true,
+  "telegram_sent": false,
+  "telegram_status": "failed",
+  "telegram_reason": "401 Client Error: Unauthorized for url: https://api.telegram.org/bot8650722899:AAHUD-aqNDB7NwiPiGq3R22MVp77Cr_5GEQ/sendMessage"
+}
